@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados, Kuwait
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados, Kuwait, Fiji
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -115,7 +115,7 @@ verification sweep.
 | Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
 | The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 17 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Kuwait).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 18 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Kuwait, Fiji).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -389,3 +389,34 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Writing: a two-paragraph argumentative report, “Space Exploration: Worth the Cost or Not?”, with a concluding opinion | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 8, printed pp.63–64 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+Book error, carried: the Year 5 book's vaccination exposition dates Jenner's cowpox work to 1706; it was 1796. The course teaches the right year; the row below cites the exposition as printed.
+**Book 1:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+**Book 5:** *Year 8 English* (student's book) — Fiji, 295 pp. Printed page ≈ PDF page (contents-page anchor). Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+**Book 6:** *Year 12 English Communications* (student's book) — Fiji (content writer Thelma Racule), 183 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+**Book 7:** *English Year 13 Communications Textbook* (student's book) — Fiji, Ministry of Education Fiji, 2018, 185 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| Exposition on bicycle safety + cloze on the penny-farthing bicycle | Fiji, Year 3 English (MoE Fiji 2015), printed pp.31–34 |
+| Discussion text "People and Machines": arguing both sides | Fiji, Year 4 English (CDU 2013), printed pp.140–145 |
+| Exposition "Space Exploration": abstract and collective nouns; finite verbs | Fiji, Year 4 English (CDU 2013), printed pp.150–159 |
+| Exposition "Stand Up for Inventors": verb types in process writing | Fiji, Year 4 English (CDU 2013), printed pp.160–169 |
+| Discussion text "Canteens Under Scrutiny" (school canteen food safety; Food Safety Act fines) | Fiji, Year 5 English (CDU 2015), printed pp.55–59 |
+| Exposition: Fiji Times editorial on technology's impact (plot frame: Lautoka Scouts vs gadget dependence) | Fiji, Year 5 English (CDU 2015), printed pp.102–106 |
+| Exposition speech "Should All Children Be Vaccinated" | Fiji, Year 5 English (CDU 2015), printed pp.118–124 |
+| U5 Exposition: reading "Wear a School Hat" (arguing children should wear hats against sun and skin cancer) | Fiji, 'Year 6 English: A New Approach', Unit 5, printed p.73 |
+| U5 Persuasive features: proposition–arguments–reiteration structure, passives, nominalisation | Fiji, 'Year 6 English: A New Approach', Unit 5, printed pp.73–86 |
+| U15 Discussion "Exploration" (arguing both sides) | Fiji, Year 8 English, Unit 15, printed p.206 |
+| U18 Exposition "Nursing" (careers) | Fiji, Year 8 English, Unit 18, printed p.241 |
+| U3 Society: expository essay writing — the TEXC paragraph model, formal tone, examiner's-report guidance on strengths and faults | Fiji, 'Year 12 English Communications', Unit 3, printed pp.109–152 |
+| U1 Focus on Writing: the expository essay | Fiji, 'English Year 13 Communications Textbook' (2018), Unit 1, printed p.41 |
+| U4 Expository essay notes and samples (advantages/disadvantages pattern) | Fiji, 'English Year 13 Communications Textbook' (2018), Unit 4 (the unit as a whole) |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

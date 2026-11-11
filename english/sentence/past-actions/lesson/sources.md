@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -413,9 +413,9 @@ verification sweep.
 | “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
 | “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 | Past tenses for storytelling (past simple, past continuous, past perfect) | Mongolia, English XII, Unit 6, printed pp.107–108 |
-**Acceptance count: taught in 38 countries (Bolivia, Ghana,
+**Acceptance count: taught in 39 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -973,3 +973,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+| Lesson part | Where it comes from |
+|---|---|
+| Past tense table; -ed and -ing endings | Fiji, Year 4 English (CDU 2013), printed pp.13–15 |
+| U12 Grammar: verb tense | Fiji, 'Year 6 English: A New Approach', Unit 12, printed pp.178–194 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -217,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 37 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus).** Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
+**Acceptance count: taught in 38 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji).** Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -463,3 +463,14 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 8 English* (student's book) — Fiji, 295 pp. Printed page ≈ PDF page (contents-page anchor). Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| U13 Narrative "Telling the Time" | Fiji, Year 8 English, Unit 13, printed p.184 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus, Class 1 —
@@ -147,7 +147,7 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 29 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with noun → adjective building (cloud → cloudy) (Grade 7), the affixes im-/de-/re- and -less/-ful (Grade 10) and the prefix re- (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 30 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with noun → adjective building (cloud → cloudy) (Grade 7), the affixes im-/de-/re- and -less/-ful (Grade 10) and the prefix re- (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -642,3 +642,24 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Negative adjectives with prefixes: lucky → unlucky and the other un- adjectives | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 8, printed p.65 (full-year folio; term folio p.18) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 1 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 71 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+**Book 3:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| Spelling the words rain / day / back / play | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed p.30 |
+| Spelling to / see / help / come | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed p.41 |
+| Spelling words of the theme: clap-and-spell; draw an icon for each word and write it | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed pp.8, 10 |
+| Anagram matching (school, junk, terrible, dentist, rotten) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.20 |
+| Making adjectives with -y | Fiji, Year 3 English (MoE Fiji 2015), printed p.75 |
+| Occupation word-building; confusing word pairs; prefixes and suffixes; anagrams | Fiji, Year 3 English (MoE Fiji 2015), printed pp.110–111 |
+| Pronouns, connectives, and agent suffixes -er / -or / -ist | Fiji, Year 5 English (CDU 2015), printed pp.25–27 |
+| Prefixes and suffixes review | Fiji, Year 5 English (CDU 2015), printed p.117 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -94,7 +94,7 @@ verification sweep.
 | Word Families, Rhyming Endings And Common Digraphs — Use common rhyming/ending words to decode words. | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.3.1, PDF p.43 (curriculum evidence) |
 | Word Families: Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words. e.g. – | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.3.1, PDF p.117 (curriculum evidence) |
 | Word Families, Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.3.1, PDF p.193 (curriculum evidence) |
-**Acceptance count: taught in 16 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 17 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -534,3 +534,19 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Word families by ending (-og, -ain, -eep, -est, -ike, -at, -ing, -ate, -un, -ool) | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed p.67 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 1 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 71 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+**Book 3:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| The oo word family: matching cook / shoot / root / hook / book | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed p.60 |
+| Rhyming words: add another word that rhymes (nice/rice…; beat/meat…) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.12 |
+| Odd one out: cross out the word that doesn't rhyme (cat/bat/mat/hat/hot) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.35 |
+| Cause and time conjunctions; word families | Fiji, Year 4 English (CDU 2013), printed pp.62–67 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

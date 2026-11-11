@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus (Classes
@@ -103,7 +103,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 22 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 23 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -487,3 +487,36 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 1 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 71 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+**Book 3:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+**Book 7:** *Year 8 English* (student's book) — Fiji, 295 pp. Printed page ≈ PDF page (contents-page anchor). Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+**Book 8:** *The Morning — Activity Book* (student's activity book) — Fiji, 101 pp: the study book for Jogindar Singh Kanwal's novel *The Morning*. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 9:** *Year 12 English Communications* (student's book) — Fiji (content writer Thelma Racule), 183 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+**Book 10:** *English Year 13 Communications Textbook* (student's book) — Fiji, Ministry of Education Fiji, 2018, 185 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| Rhyme "Rain, rain, go away" — reciting and joining in | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed p.30 |
+| Rhyme "Apple Beat" — reciting and swapping in a different fruit | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.7 |
+| Poem "Sara's Hair": reading and answering on a poem | Fiji, Year 3 English (MoE Fiji 2015), printed pp.35–37 |
+| Poem "Autumn Leaves" | Fiji, Year 3 English (MoE Fiji 2015), printed pp.112–114 |
+| Poem unit "Our Holiday": reading a holiday poem | Fiji, Year 4 English (CDU 2013), printed pp.11–13 |
+| Poem "Success" by Marcquiese Burrel — reading and response | Fiji, Year 5 English (CDU 2015), printed pp.135–138 |
+| U8 Poetry: reading the poem "The Tsunami" | Fiji, 'Year 6 English: A New Approach', Unit 8, printed p.118 |
+| U2 Narrative poem "Shopping" | Fiji, Year 8 English, Unit 2, printed p.18 |
+| U6 Lyric poem "Wealth from the Sea" | Fiji, Year 8 English, Unit 6, printed p.75 |
+| U19 Poetry "Carpentry" | Fiji, Year 8 English, Unit 19, printed p.257 |
+| Poem analysis (free verse, the extended metaphor of dawn, personification) | Fiji, 'The Morning' Activity Book (Year 9), Chapter 26 |
+| U1 Literacy: reading and responding to poetry — a North American Indian prayer poem analysed for direct address, tone, symbolism, capitalisation and religious jargon | Fiji, 'Year 12 English Communications', Unit 1 (the unit as a whole) |
+| U4 The Environment: poetry and prose on the environment, incl. a reversible poem read top-down and bottom-up | Fiji, 'Year 12 English Communications', Unit 4, printed pp.153–183 |
+| U3 Poetry study: poems of Konai Helu Thaman with poet background; planning and writing an essay on poetry | Fiji, 'English Year 13 Communications Textbook' (2018), Unit 3, printed pp.88–111 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

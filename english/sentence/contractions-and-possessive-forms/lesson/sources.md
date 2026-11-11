@@ -1,6 +1,6 @@
 # Sources — Contractions and Possessive Forms
 
-countries: Palestine, South Africa, Barbados, Afghanistan
+countries: Palestine, South Africa, Barbados, Afghanistan, Fiji
 
 Every part traces to its book and page.
 
@@ -11,7 +11,7 @@ Every part traces to its book and page.
 | Writing mechanics: short forms (contractions) and possessive forms; writing a paragraph about oneself | Palestine, Grade 10 Part 1, Unit 3, printed p.43 |
 | The lesson's example forms and sentences | The mechanics the book names — short forms (contractions) and possessive forms — worked in the course's own sentences; no sentence is quoted from the book |
 
-**Acceptance count: taught in 3 countries (Palestine, South Africa, Afghanistan).**
+**Acceptance count: taught in 4 countries (Palestine, South Africa, Afghanistan, Fiji).**
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -78,3 +78,18 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Be contractions (I'm, he's, we're, isn't…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 6, printed p.63 |
 
 Routing note: the sweep marked both items "NEW LESSON NEEDED: contractions". The short forms are this lesson's Sub lesson 1 — the apostrophe's first job — so they are stocked here, in that sub lesson's part of the lesson, and no separate contractions lesson was built.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+Routing note: the expansion diff marks "NEW LESSON NEEDED: apostrophes (contraction and possession)". This lesson's one thing is exactly the apostrophe's two jobs, so Fiji's three items are stocked here instead of in a new lesson: the two contraction items belong to Sub lesson 1 (short forms), the possession item to Sub lesson 2 (possessive forms).
+**Book 1:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+**Book 2:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+| Lesson part | Where it comes from |
+|---|---|
+| Contractions: write the long form (It's, I'll, Don't) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.25 |
+| U4 Grammar: apostrophe of contraction | Fiji, 'Year 6 English: A New Approach', Unit 4, printed pp.57–72 |
+| U18 Grammar: apostrophe of possession | Fiji, 'Year 6 English: A New Approach', Unit 18, printed pp.282–295 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

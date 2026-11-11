@@ -1,6 +1,6 @@
 # Sources — Complaint letters
 
-countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Barbados, Afghanistan
+countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Barbados, Afghanistan, Fiji
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -52,7 +52,7 @@ outcome and teaches no complaint lesson (see the row).
 | The complaint named as a learning outcome and taught nowhere in the unit: Unit 12 "Roots" prints "lodge complaint" among its learning outcomes on the unit opener — and no lesson in the unit teaches complaint writing (outcome evidence only, stated exactly; stocked 2026-11-08 by the re-verification sweep, which found the outcome in the fresh read and no complaint lesson behind it) | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Twelve opener, printed p.151 |
 | Hotel Unit 12 “Responding to complaints” — complaint-response language in food and beverage service | Greece, English for the Hotel and Tourist Trade, Unit 12, printed p.205 |
 
-**Acceptance count: taught in 11 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Afghanistan).** Greece teaches
+**Acceptance count: taught in 12 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Afghanistan, Fiji).** Greece teaches
 the complaint and its apologetic reply as one worked pair;
 Uzbekistan reads a formal complaint and corrects a
 style-mixed one; Sierra Leone names the letter of
@@ -141,3 +141,14 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Complaining about food, with apologies and excuses | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 13, printed p.139 |
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 8 English* (student's book) — Fiji, 295 pp. Printed page ≈ PDF page (contents-page anchor). Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| U8 Persuasive letter of complaint "Sugar Production" | Fiji, Year 8 English, Unit 8, printed p.110 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji
 
 Every part traces to its book and page.
 
@@ -31,7 +31,7 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 12 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
 
@@ -144,3 +144,16 @@ The 2026-11-08 re-verification sweep re-read Tanzania's one in-hand English book
 | Examination words as story content: terminal and annual examinations, good grades, second / top of the class — vocabulary inside a story; no examination technique is taught | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Nine “Never miss classes”, printed pp.34–36 |
 | Pass/fail test words in a completion passage: wrong answers to all questions set against right answers and a 10/10 score — a taught vocabulary contrast, not exam practice | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Twelve “Mr Mouse”, printed p.49 |
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *The Morning — Activity Book* (student's activity book) — Fiji, 101 pp: the study book for Jogindar Singh Kanwal's novel *The Morning*. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 13 Communications Textbook* (student's book) — Fiji, Ministry of Education Fiji, 2018, 185 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| Fifteen exam-style literature questions on the novel | Fiji, 'The Morning' Activity Book (Year 9), printed pp.97–101 |
+| U6 Supplementary Activities (pp.171–185): extra comprehension, language and writing practice | Fiji, 'English Year 13 Communications Textbook' (2018), Unit 6, printed pp.171–185 (the unit as a whole) |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

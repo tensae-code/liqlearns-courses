@@ -1,6 +1,6 @@
 # Sources — Recount Text
 
-countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia
+countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — writing a recount text | Indonesia, English for Nusantara Grade 9, printed p.119 |
 | Sub lesson 3 — a recount of a sports event, as the kind's public model | Indonesia, Work in Progress Grade 10, Chapter 2, printed p.29 |
 
-**Acceptance count: taught in 5 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -84,3 +84,26 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+**Book 5:** *Year 8 English* (student's book) — Fiji, 295 pp. Printed page ≈ PDF page (contents-page anchor). Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| Reading a recount: "Farm Trick" (plot: a father hides the kitchen eggs in the hens' nest boxes so Grandpa finds a "miracle" laying day) — recount structure and questions | Fiji, Year 3 English (MoE Fiji 2015), printed pp.11–14 |
+| Writing a recount from a diary: "Spotlight in the Dark" (Sala's wall diary) | Fiji, Year 3 English (MoE Fiji 2015), printed p.26 |
+| Analysing a recount: "I Fell in the River" | Fiji, Year 3 English (MoE Fiji 2015), printed p.41 |
+| Recount features: time connectives, conjunctions, adverbial phrases, prepositions (unit "Weddings") | Fiji, Year 4 English (CDU 2013), printed pp.20–25 |
+| Recount "Watching the Golf"; homophones | Fiji, Year 4 English (CDU 2013), printed pp.123–128 |
+| Personal recount "Sweet Reward for Single Mother" (news plot: epileptic single mother Mehnaz Shah sees her son Saiyed become school dux) | Fiji, Year 5 English (CDU 2015), printed pp.16–21 |
+| U1 Recount: reading "Before School" (plot: Lisi's morning chores, lighting the wood stove, before school) | Fiji, 'Year 6 English: A New Approach', Unit 1, printed p.10 |
+| U1 Recount — diary entry "People with Handicap: The Blind" (blind school children at Vatuwaqa) | Fiji, Year 8 English, Unit 1, printed p.5 |
+| U16 Recount "Leisure Activities" | Fiji, Year 8 English, Unit 16, printed p.218 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

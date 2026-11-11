@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -276,7 +276,7 @@ ow/ou split) and the China Grade 4 row (the r-controlled
 ladder er · ir/ur/er · ar · or). The cover test moved from
 Sub lesson 3 to Sub lesson 5; no existing row changed.
 
-**Acceptance count: taught in 31 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda, Cyprus).** Cyprus joins with Year 2 Part B's digraphs — oa, ay, ch, sh, ee, ey, ou — recognised and sounded out (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 32 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda, Cyprus, Fiji).** Cyprus joins with Year 2 Part B's digraphs — oa, ay, ch, sh, ee, ey, ou — recognised and sounded out (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -1072,3 +1072,21 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 1 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 71 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| Letters Ll, Ff, Bb and the sound ai | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed pp.25–29 |
+| Letters Jj and the sounds oa, ie, ee | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed pp.30–35 |
+| Sounds or, ng; letters Zz, Ww | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed pp.36–40 |
+| Letters Vv, Yy, Xx and sounds oo, ch, sh, th, qu, ou, oi, ue, er, ar | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed pp.41–54 |
+| Digraph gap-fill practice (oa / ie / ee / or) | Fiji, 'Language, Literacy and Communication' Year 1 (CDU 2013), printed pp.58–59 |
+| Phonics: choosing th / br / ou / oo / ee to complete words (brush, spoon, mouth, teeth) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.18 |
+| The 'ou' sound in the middle of words (count, house, ground, down, sound) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.25 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

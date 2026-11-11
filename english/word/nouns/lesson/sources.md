@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -340,8 +340,8 @@ verification sweep.
 | Singular and plural forms — use an increasing range of singular and plural forms in sentences | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.1, PDF p.86 (curriculum evidence) |
 | Use noun phrases accurately in context | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.1, PDF p.118 (curriculum evidence) |
 | Singular against plural, chosen word by word: an apple/apples, an egg/eggs, a carrot/carrots, a cake/cakes — the plural -s on nouns (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.51 |
-**Acceptance count: taught in 37 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Cyprus).** Cyprus joins with its plural teaching — regular plurals, plural questions, and the -ch/-s/-sh/-x spelling rules (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 38 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Cyprus, Fiji).** Cyprus joins with its plural teaching — regular plurals, plural questions, and the -ch/-s/-sh/-x spelling rules (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -789,3 +789,34 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+**Book 2:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+| Lesson part | Where it comes from |
+|---|---|
+| Nouns and verbs: colour the nouns brown and the verbs green | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.19 |
+| Finding nouns and verbs in the recipe method | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.27 |
+| Singular and plural nouns (banana, pineapple, spoon, jug, glass) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.29 |
+| Finding singular and plural nouns in the story | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.57 |
+| Proper nouns vs common nouns | Fiji, Year 3 English (MoE Fiji 2015), printed pp.7–11 |
+| Noun plurals with -s and -es | Fiji, Year 3 English (MoE Fiji 2015), printed pp.19–21 |
+| Collective nouns | Fiji, Year 3 English (MoE Fiji 2015), printed pp.21–22 |
+| Gender nouns (masculine/feminine pairs) | Fiji, Year 3 English (MoE Fiji 2015), printed pp.22–23 |
+| Exposition "Space Exploration": abstract and collective nouns; finite verbs | Fiji, Year 4 English (CDU 2013), printed pp.150–159 |
+| Nouns; main and dependent clauses; finding the subject of a sentence | Fiji, Year 5 English (CDU 2015), printed pp.11–14 |
+| Forming nouns; turning clauses into phrases | Fiji, Year 5 English (CDU 2015), printed pp.59–62 |
+| Linking verbs; timeless present; animal collective nouns | Fiji, Year 5 English (CDU 2015), printed pp.89–91 |
+| Noun classes chart; making abstract nouns from adjectives | Fiji, Year 5 English (CDU 2015), printed pp.124–126 |
+| U1 Grammar: proper nouns | Fiji, 'Year 6 English: A New Approach', Unit 1, printed pp.10–25 |
+| U2 Grammar: common nouns | Fiji, 'Year 6 English: A New Approach', Unit 2, printed pp.26–40 |
+| U3 Grammar: collective nouns | Fiji, 'Year 6 English: A New Approach', Unit 3, printed pp.41–56 |
+| U6 Grammar: noun plurals | Fiji, 'Year 6 English: A New Approach', Unit 6, printed pp.87–100 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

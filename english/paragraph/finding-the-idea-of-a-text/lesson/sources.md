@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua, Libya, Barbados, Cyprus
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua, Libya, Barbados, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -246,8 +246,8 @@ differ only in cover wording and colophon; cited once.
 | Main idea and topic sentence (Folklore) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2B |
 | Four later units read for their ideas: All is Not Lost; Drug Addiction; Noise in the Environment; Three Days to See | Pakistan, *English IX* (older curriculum), contents pp.4–5 |
 
-**Acceptance count: taught in 32 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua, Libya, Cyprus).** Cyprus joins with Year 5's finding the main idea of a short text (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with facts and figures — interpreting data, charts and figures in English (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 33 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua, Libya, Cyprus, Fiji).** Cyprus joins with Year 5's finding the main idea of a short text (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with facts and figures — interpreting data, charts and figures in English (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -472,3 +472,14 @@ Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 path
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+| Lesson part | Where it comes from |
+|---|---|
+| U11 Exposition: climate-change posters — noting details and comparing two scenes | Fiji, 'Year 6 English: A New Approach', Unit 11, printed p.162 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

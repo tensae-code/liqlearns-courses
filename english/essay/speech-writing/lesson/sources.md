@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -88,9 +88,9 @@ colophon; cited once.
 | A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
 | Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 15 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
+**Acceptance count: taught in 16 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
 Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan,
-Sudan, Armenia, Ethiopia).** Egypt sets the speech for or against an
+Sudan, Armenia, Ethiopia, Fiji).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -203,3 +203,21 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Effectively deliver speeches based on student work or written text | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 24 (19) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+Book error, carried: the Year 5 book's vaccination exposition dates Jenner's cowpox work to 1706; it was 1796. The course teaches the right year; the row below cites the speech unit as printed.
+**Book 1:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *The Morning — Activity Book* (student's activity book) — Fiji, 101 pp: the study book for Jogindar Singh Kanwal's novel *The Morning*. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Communications Year 11* — draft (student's book) — Fiji, 204 pp: an earlier, unrevised version of the Year 11 Communications book above, not a separate title. Read at full unit level in the 2026-11-10 expansion read; only its one distinct item (the language of oratory, which the revised book drops) is cited from it, and nothing is double-counted between the two versions.
+**Book 4:** *English Year 13 Communications Textbook* (student's book) — Fiji, Ministry of Education Fiji, 2018, 185 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| Exposition speech "Should All Children Be Vaccinated" | Fiji, Year 5 English (CDU 2015), printed pp.118–124 |
+| Speech writing | Fiji, 'The Morning' Activity Book (Year 9), Chapter 14 |
+| Register: the language of oratory (formal public speaking) | Fiji, 'English Communications Year 11' — draft, Indigenous Knowledge unit |
+| U1 Speeches: prepared vs impromptu speaking; sample essay and speech work | Fiji, 'English Year 13 Communications Textbook' (2018), Unit 1, printed p.24 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

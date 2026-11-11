@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -91,7 +91,7 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 15 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus).** Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 16 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji).** Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -498,3 +498,23 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *The Morning — Activity Book* (student's activity book) — Fiji, 101 pp: the study book for Jogindar Singh Kanwal's novel *The Morning*. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *Two Plays* by Vilsoni Hereniko — English (Years 9 and 10) Activity Book (student's activity book) — Fiji, Curriculum Development Unit (CDU), 80 pp. The book serves Years 9 and 10 and is filed under Grade 10 in the records. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+**Book 4:** *English Year 13 Communications Textbook* (student's book) — Fiji, Ministry of Education Fiji, 2018, 185 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| The narrative template: orientation / complication / resolution | Fiji, Year 3 English (MoE Fiji 2015), printed p.68 |
+| Foreshadowing: spotting hints of what comes later | Fiji, 'The Morning' Activity Book (Year 9), Chapters 2, 8, 9 |
+| Character bio-data charts | Fiji, 'The Morning' Activity Book (Year 9), Chapters 2, 7, 9, 21 |
+| First-person narrator: how the telling shapes the story | Fiji, 'The Morning' Activity Book (Year 9), Brief Notes, printed pp.92–96 |
+| Character analysis of a play's characters | Fiji, 'Two Plays' Activity Book (Years 9 and 10), printed pp.30–34 |
+| Character analysis (second play) | Fiji, 'Two Plays' Activity Book (Years 9 and 10), printed pp.66–68 |
+| U2 Focus on Short Stories: analysing a short story — style of writing, plot, character (a migrant-writing story: Plinio, Mavis and Tommy) | Fiji, 'English Year 13 Communications Textbook' (2018), Unit 2, printed pp.52–69 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

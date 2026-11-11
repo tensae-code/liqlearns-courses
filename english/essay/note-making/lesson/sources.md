@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji
 
 Every part traces to its book and page.
 
@@ -43,8 +43,8 @@ verification sweep.
 | A mind map as note-making — the farmers'-market shopping mind map (when, where, with who, how can we get there, how much, shopping list) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.43 |
 | Note-making and reporting worked on a factual report text (About the Unit writing) | India — Flamingo (Class 12), Writing in Lost Spring (About the Unit), printed pp.21–22 |
 
-**Acceptance count: taught in 10 countries (India, Uzbekistan, Kuwait, South Africa, China,
-South Sudan, Sudan, Yemen, Nepal, Ethiopia).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
+**Acceptance count: taught in 11 countries (India, Uzbekistan, Kuwait, South Africa, China,
+South Sudan, Sudan, Yemen, Nepal, Ethiopia, Fiji).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
 note-making as a five-step worked craft and sub-titling
 as its reader-facing twin; Uzbekistan cuts sentences to
 note form with the standard abbreviations; Kuwait writes
@@ -172,3 +172,15 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Classification of facts and events (scope 3.7.4, begins Class 3) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 3.7.4; begins Class 3), PDF p. 13 (printed 6) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| The 3-2-1 reflection: three things found out about rugby, two still wanted, one thing to do | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.51 |
+| Completing a fact table from the reading (what a tornado is / how it looks / other facts) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.61 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

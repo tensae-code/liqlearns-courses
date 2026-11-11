@@ -76,7 +76,9 @@ its own subtitle folder with its own lesson + questions):
   Sounds Together**) ·
   loud-and-soft-sounds (added 2026-11-11 by the South
   Africa re-verification sweep merge — **Unit 3, Sounds
-  Together**)
+  Together**) ·
+  phonetics (added 2026-11-11 by the Fiji expansion
+  merge — **Unit 3, Sounds Together**)
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you ·
@@ -298,7 +300,11 @@ its own subtitle folder with its own lesson + questions):
   Kazakhstan re-verification sweep merge — **Unit 44,
   Tests, Translating, Other Ways**) · finding-information (added 2026-11-10 by the
   Ghana re-verification sweep merge — **Unit 42, Reading
-  Like a Detective**)
+  Like a Detective**) · text-types ·
+  reading-comics-and-visual-narratives ·
+  reading-visual-texts-and-static-images (added
+  2026-11-11 by the Fiji expansion merge — **Unit 15,
+  Reading Whole Texts**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**)
 - Story → the-story · telling-a-story-back ·
@@ -309,6 +315,9 @@ its own subtitle folder with its own lesson + questions):
   Poems in Detail**) ·
   predicting (added 2026-11-11 by the Kazakhstan
   re-verification sweep merge — **Unit 41, Stories and
+  Poems in Detail**) · novel-study ·
+  studying-themes-in-literature (added 2026-11-11 by
+  the Fiji expansion merge — **Unit 41, Stories and
   Poems in Detail**)
 **Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
 additions inside Units 2, 3, 5, 7, 8 — full map in
@@ -335,11 +344,15 @@ Work**) · cv-and-cover-letter · personal-statements-and-proposals ·
 job-interviews · report-writing · news-writing · process-writing ·
 forms-minutes-and-questionnaires · recount-text (added
 2026-11-09 by the Indonesia re-verification sweep merge —
+**Unit 36, Writing the Facts**) · explanation-texts
+(added 2026-11-11 by the Fiji expansion merge —
 **Unit 36, Writing the Facts**) · review-writing ·
 blog-and-online-posts · article-writing ·
 advertisements-and-posters · speech-writing · presentation-skills ·
 play-scripts · radio-and-tv-programme-scripts (added
 2026-11-11 by the South Sudan re-verification sweep merge —
+**Unit 38, Speeches and Shows**) · studying-drama
+(added 2026-11-11 by the Fiji expansion merge —
 **Unit 38, Speeches and Shows**) · essay-kinds · advantages-and-disadvantages (added
 2026-11-11 by the Kazakhstan re-verification sweep merge —
 **Unit 39, Essays and Shortening**) · note-making · summarising ·
@@ -352,7 +365,9 @@ Detective**) · ways-to-read · exam-technique · translating-well ·
 other-ways-to-communicate · Word → phrasal-verbs ·
 idioms-and-collocations · literary-words ·
 british-and-american-english · choosing-your-register ·
-ordering-words · Phonics → silent-letters ·
+ordering-words · similes · metaphors · homophones
+(added 2026-11-11 by the Fiji expansion merge —
+**Unit 43, Words About Words**) · Phonics → silent-letters ·
 the-three-sounds-of-ed · stress-and-intonation ·
 Alphabet → joined-up-writing.
 

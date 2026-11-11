@@ -1,6 +1,6 @@
 # Sources — This, That, These and Those
 
-countries: Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus
+countries: Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -18,7 +18,7 @@ Every part traces to its book and page.
 | This / That / These / Those, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Demonstratives — this / that / these / those | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus).** Cyprus joins with Year 5's 'this' vs 'that' for near and far things (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the demonstratives taught as their own point in the Grade 7 book's shopping lesson, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' demonstratives teaching joins as their sweep merges land.
+**Acceptance count: taught in 6 countries (Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus, Fiji).** Cyprus joins with Year 5's 'this' vs 'that' for near and far things (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the demonstratives taught as their own point in the Grade 7 book's shopping lesson, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' demonstratives teaching joins as their sweep merges land.
 
 Nicaragua joins with the Grade 7 Student's Book's Unit 2 treatment and the Grade 7 module's Unit 2 set (stocked 2026-11-11 by the re-verification sweep merge). Remap noted: the sweep's placements named these items under the older pronouns target; the pointing words stock here, in the lesson built for them (the Mongolia sweep merge routing).
 
@@ -60,3 +60,14 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| Pointing adjectives this / that / these / those | Fiji, Year 3 English (MoE Fiji 2015), printed p.76 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

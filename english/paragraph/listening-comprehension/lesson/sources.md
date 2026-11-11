@@ -1,6 +1,6 @@
 # Sources — Listening Comprehension
 
-countries: Ghana, Sierra Leone, South Sudan
+countries: Ghana, Sierra Leone, South Sudan, Fiji
 
 Every part traces to its book and page.
 
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Listen to a level-appropriate dialogue/discussion | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 1 (Oral Language), standard B8.1.2.1, PDF p.77 (curriculum evidence) |
 | Listen to audio-visual texts attentively and support | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 1 (Oral Language), standard B9.1.2.1, PDF p.108 (curriculum evidence) |
 
-**Acceptance count: taught in 2 countries (Sierra Leone, South Sudan) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Sierra Leone joined 2026-11-11 (re-verification sweep merge): its JSS and SSS pupils' handbooks teach comprehending a listening passage as a named lesson across all six years, and its Primary lesson plans carry the listening work as teacher evidence — see the Sierra Leone section at the end of this file. This lesson exists because of Ghana's books: Ghana's NaCCA curricula name listening comprehension as its own strand work from Basic 1 to Basic 9 — dramatising stories heard at Basic 1, active listening to information at Basic 3, attentive listening to texts, dialogues, discussions and audio-visual texts at JHS; no earlier-read book taught listening itself as a lesson (listening-to-an-interview teaches one kind of listening). The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+**Acceptance count: taught in 3 countries (Sierra Leone, South Sudan, Fiji) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Sierra Leone joined 2026-11-11 (re-verification sweep merge): its JSS and SSS pupils' handbooks teach comprehending a listening passage as a named lesson across all six years, and its Primary lesson plans carry the listening work as teacher evidence — see the Sierra Leone section at the end of this file. This lesson exists because of Ghana's books: Ghana's NaCCA curricula name listening comprehension as its own strand work from Basic 1 to Basic 9 — dramatising stories heard at Basic 1, active listening to information at Basic 3, attentive listening to texts, dialogues, discussions and audio-visual texts at JHS; no earlier-read book taught listening itself as a lesson (listening-to-an-interview teaches one kind of listening). The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -91,3 +91,15 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+Routing note: the expansion diff marks this topic "NEW LESSON NEEDED: listening skills — how to listen". The course already houses it — this lesson's first sub lesson is listening on purpose (settle, look at the speaker, be quiet, listen for the point) — so Fiji's item is stocked here instead of in a new lesson.
+**Book 1:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| Listening behaviour: the "When I listen" rules for listening to a speaker | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.6 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

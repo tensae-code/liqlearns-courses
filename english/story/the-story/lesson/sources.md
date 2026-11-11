@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -649,8 +649,8 @@ verification sweep.
 | Story: at the fair the friends paint their faces and Extra cannot recognise them (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 4, pupil printed p.55 |
 | Story: a hot beach day where Extra rubs ice cream on himself instead of sun cream (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 4, pupil printed p.63 |
 | A complete poem read at story scale: Robert Frost's "Stopping by Woods on a Snowy Evening", with alliteration, imagery and paraphrasing (filed as a summary only) | Pakistan, *English IX* (older curriculum), Unit 7 (contents) |
-**Acceptance count: taught in 41 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Cyprus).** Cyprus joins with the programme's story spine — one mediated picturebook per unit across Years 1–6, from 'I Want My Dinner' to 'Eat Your Peas' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with writing a story — guided story composition (Grade 8) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 42 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Cyprus, Fiji).** Cyprus joins with the programme's story spine — one mediated picturebook per unit across Years 1–6, from 'I Want My Dinner' to 'Eat Your Peas' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with writing a story — guided story composition (Grade 8) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -1439,3 +1439,36 @@ Book errors E6, carried: the Year 3 Teacher's Book prints 'Colous' for Colours i
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+Book errors, carried: the Year 4 book's Contents lists its Unit 11 as "The Fox and the Stock" — the unit itself is the fable "The Fox and the Crow", and the row below cites the unit itself. In the Year 5 book, Unit 3's adapted fable renames the kitten Skippy, but the unit's own comprehension questions still name Rhonda, the kitten of the original story the unit adapts; the row below cites the adapted story as printed.
+**Book 1:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+**Book 2:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *Year 4 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2013, 183 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *Year 5 English* (student's book) — Fiji, Curriculum Development Unit (CDU) 2015, 163 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *Year 6 English: A New Approach* (student's book) — Fiji, 315 pp. Printed page = PDF page. Read at full unit level in the 2026-11-10 expansion read (see the depth note above). Book error, carried: the book's Contents misprints the Theme 3 unit page numbers (repeating Theme 1's); the citations below use the units' own page spans.
+**Book 6:** *Year 8 English* (student's book) — Fiji, 295 pp. Printed page ≈ PDF page (contents-page anchor). Read at full unit level in the 2026-11-10 expansion read (see the depth note above).
+| Lesson part | Where it comes from |
+|---|---|
+| Listening to a fable: what a fable is; listening for main characters, setting, the order of events and the message | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.39 |
+| Fable "The Lion and the Mouse" (plot: the lion spares the mouse; the mouse later chews through the net and frees him) with comprehension questions incl. the lesson of the story | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.40 |
+| Story "A Cool Day" (plot: on a hot day Grandfather takes Nita, Elizabeth and Mosese to the beach; Grandmother forgets the food box so they turn back; the sea is cool and everyone is glad) | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed pp.55–56 |
+| Narrative structure through the story "The Magic Horse" | Fiji, Year 3 English (MoE Fiji 2015), printed p.28 |
+| Narrative "The Opening Act" (plot: Jenny performs in her first dance concert) | Fiji, Year 3 English (MoE Fiji 2015), printed pp.64–67 |
+| Narrative "Ravishek Prasad" (plot: a nervous Saturday footballer whose headed deflection sets up Tivaka's winning goal) | Fiji, Year 3 English (MoE Fiji 2015), printed pp.106–109 |
+| Narrative "The Seed That Grew" (closing story) | Fiji, Year 3 English (MoE Fiji 2015), printed p.115 |
+| Narrative "The Snake" (plot: brothers on a sand-dune slippery dip are saved from a snake by a rustling sound) | Fiji, Year 4 English (CDU 2013), printed pp.51–54 |
+| Fable "The Fox and the Crow" (plot: the fox serves soup in a shallow plate; the crow repays him with stew in a tall jar) | Fiji, Year 4 English (CDU 2013), printed pp.114–118 |
+| Narrative "The Birth of My Baby Brother" (plot: Peter's brother Joe is born by caesarean section) | Fiji, Year 5 English (CDU 2015), printed pp.4–9 |
+| Fable "Unique" (plot: kitten Skippy dislikes the mole on her face until her mother teaches her it makes her unique) | Fiji, Year 5 English (CDU 2015), printed pp.28–33 |
+| Narrative "A New Telescope" (plot: Marty's tenth-birthday telescope is hidden in the attic) | Fiji, Year 5 English (CDU 2015), printed pp.110–114 |
+| U2 Narrative: reading "Making Vakalolo" (plot: Ema helps her grandfather grate dalo and cassava and cook vakalolo in the lovo with coconut lolo and sugar) | Fiji, 'Year 6 English: A New Approach', Unit 2, printed p.26 |
+| U4 Narrative: reading "A Fijian Wedding" (plot: a family travels to Lautoka for Save's wedding, bringing masi cloth, mats, dalo and chicken) | Fiji, 'Year 6 English: A New Approach', Unit 4, printed p.57 |
+| U19 Narrative: reading "A Dream Fulfilled" | Fiji, 'Year 6 English: A New Approach', Unit 19, printed p.296 |
+| U4 Narrative legend "Legends from Other Lands" | Fiji, Year 8 English, Unit 4, printed p.48 |
+| U13 Narrative "Telling the Time" | Fiji, Year 8 English, Unit 13, printed p.184 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — preferences: prefer + noun/-ing, like, enjoy + -ing, 'd rather + base verb; prefer X to Y | Mauritania, Study English, Grade 13, printed pp.32–34 |
 | Sub lesson 4 — 'd rather X than Y, and asking preferences: do you prefer…or…?, would you rather…or…? | Mauritania, Study English, Grade 13, printed pp.32–34 |
 
-**Acceptance count: taught in 6 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -99,3 +99,15 @@ Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 path
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Language, Literacy and Communication* — Year 2 (student's book) — Fiji, Ministry of Education, Culture and Arts, Curriculum Development Unit (CDU) 2013, 64 pp. Image-only scan: read in full, page by page, from 200-dpi page renders (OCR used only as a finding aid). Printed page = PDF page. Read in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| Dialogue "At the Playground" (Vinita and Wati: how they get there, see-saw/swing/slide/netball, likes and dislikes) read in pairs | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.22 |
+| Think-pair-share: talking about your favourite sport and why you like it | Fiji, 'Language, Literacy and Communication' Year 2 (CDU 2013), printed p.46 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.

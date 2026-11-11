@@ -1,6 +1,6 @@
 # Sources — Review writing
 
-countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Barbados
+countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Barbados, Fiji
 
 Every part traces to its book and page.
 
@@ -40,7 +40,7 @@ Every part traces to its book and page.
 | Writing a comment on a film you watched | Mongolia, English XII, Unit 10, printed p.180 |
 | Telling the story of a film (set phrases for beginning, middle, end) | Mongolia, English XII, Unit 10, printed p.183 |
 
-**Acceptance count: taught in 14 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Fiji).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -209,3 +209,14 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Develop criteria to evaluate and judge books read | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 38 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 in-hand files holding 12 distinct titles (the Year 11 draft is an earlier version of the Year 11 Communications book, not a separate title): one student's book per grade for Years 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 and 13 — no Year 7 English book exists in the set, and the set holds no teacher books, so every row below rests on a student's book. 335 teaching items were placed fresh from the books; Fiji had no presence in the course before, so all 335 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Years 1, 3, 4, 5 and 9 were read in full, page by page (Year 2, an image-only scan, in full from page renders); Years 6, 8, 10, 11 (both files), 12 and 13 were read at full unit level — every unit's texts, comprehension work, grammar/language focus, writing focus and outcomes — but not every exercise line on every page; that limit is carried here honestly, and a later citation-check pass owes those books line-level depth. Stories and readings are stocked as plot summaries only.
+**Book 1:** *Year 3 English* (student's book) — Fiji, Ministry of Education Fiji, © 2015, 116 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a book review | Fiji, Year 3 English (MoE Fiji 2015), printed pp.96–97 |
+
+Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
