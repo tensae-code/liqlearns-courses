@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Barbados, Samoa
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Barbados, Samoa, Suriname
 
 Every part traces to its book and page.
 
@@ -136,7 +136,7 @@ PASSED 2026-11-03).
 | The parts of a letter named as one set — heading, salutation, body, complimentary close, signature — worked in the guide's Lesson 1 (Part I), with the lesson's own letter printed complete in the guide (below) and the good-wish, greeting and farewell formulas sorted around it | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, guide printed pp.4–13 |
 | One complete letter printed in full in a guide — the only student text in the whole five-book set reproduced complete: Pedro Estévez's letter to Mr. González (printed p.6), opening with its salutation and closing with its complimentary close and signature, the model the letter-writing work is built on | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, Part A, guide printed p.6 |
 
-**Acceptance count: taught in 23 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 24 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Samoa, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -255,3 +255,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Suriname added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Suriname's held English set from the PDF — the true in-hand set is exactly **1 student book, 0 teacher books**: *Reader for Grade 10 — Subject: English* (MinOWC, November 2022), 40 pages, grabbed from the private textbooks repo via the authenticated GitHub API contents route (the git-blob route was refused, HTTP 415) and verified against the record by exact size (1,882,387 bytes) and git blob SHA-1 before reading. 30 teaching items were placed fresh from the book; Suriname had no presence in the course before, so all 30 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: a full page-by-page read of the single book (all 40 pages, text layer), with the cover (p.1) and the pictured sports grid (p.21) also verified visually from rendered pages; no part was read at reduced depth. Printed page = PDF page. The book is evidenced by textbooks.tsv and the repo tree only — it never passed through staging or the push state, and no grade-10 staging folder exists (flag F1, record-side; the union count of 1 student / 0 teacher is confirmed). The file's embedded PDF metadata title wrongly reads “Rekenvaardigheden” (arithmetic skills) — the companion mathematics reader's title; the book's identity as the English reader rests on its cover, preface and contents, all verified (flag F2 / book error E1). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Reader for Grade 10 — Subject: English* (“Reader leerjaar 10 voor het vak Engels, versie 1”) (student reader) — Suriname, MinOWC (Ministerie van Onderwijs, Wetenschap en Cultuur), Paramaribo, November 2022, 40 pp. A uniform guide for teacher and pupil for English in leerjaar 10 (VO — MULO/LBO), compiled from the leerjaar-10 curriculum and existing MULO/LBO materials. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Formal openings and closings stock: salutation/closing pairings (name unknown: Dear Sir / Dear Madam / Dear Sir or Madam → Yours faithfully; name known: Dear Mr/Mrs/Miss/Ms … → Yours sincerely), formal opening sentences (enquire, request, explain, express interest, inform, complain, refer to an advertisement, thank for a letter) and formal closing sentences (offering further information, looking forward to a reply, apologising again, asking for immediate attention, thanking in advance) | Suriname, *Reader for Grade 10 — Subject: English*, Chapter 2 §2.3, printed pp.9–10 |
+
+Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.

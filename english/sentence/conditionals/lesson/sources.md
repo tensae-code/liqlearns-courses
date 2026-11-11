@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname
 
 Every part traces to its book and page.
 
@@ -349,8 +349,8 @@ verification sweep.
 | “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 | Zero and first conditionals, including varied first-conditional forms | Mongolia, English XII, Unit 8, printed pp.143–146 |
 
-**Acceptance count: taught in 40 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
+**Acceptance count: taught in 41 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -727,3 +727,18 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Suriname added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Suriname's held English set from the PDF — the true in-hand set is exactly **1 student book, 0 teacher books**: *Reader for Grade 10 — Subject: English* (MinOWC, November 2022), 40 pages, grabbed from the private textbooks repo via the authenticated GitHub API contents route (the git-blob route was refused, HTTP 415) and verified against the record by exact size (1,882,387 bytes) and git blob SHA-1 before reading. 30 teaching items were placed fresh from the book; Suriname had no presence in the course before, so all 30 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: a full page-by-page read of the single book (all 40 pages, text layer), with the cover (p.1) and the pictured sports grid (p.21) also verified visually from rendered pages; no part was read at reduced depth. Printed page = PDF page. The book is evidenced by textbooks.tsv and the repo tree only — it never passed through staging or the push state, and no grade-10 staging folder exists (flag F1, record-side; the union count of 1 student / 0 teacher is confirmed). The file's embedded PDF metadata title wrongly reads “Rekenvaardigheden” (arithmetic skills) — the companion mathematics reader's title; the book's identity as the English reader rests on its cover, preface and contents, all verified (flag F2 / book error E1). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Reader for Grade 10 — Subject: English* (“Reader leerjaar 10 voor het vak Engels, versie 1”) (student reader) — Suriname, MinOWC (Ministerie van Onderwijs, Wetenschap en Cultuur), Paramaribo, November 2022, 40 pp. A uniform guide for teacher and pupil for English in leerjaar 10 (VO — MULO/LBO), compiled from the leerjaar-10 curriculum and existing MULO/LBO materials. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+Book error E5, carried: the conditional table's imagined-pattern example uses “If she **was** prime minister, she would invest…” — the book's own model uses *was* where the standard taught form for imagined conditionals is *were*; taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Conditionals — all four patterns taught by use and structure, without type numbers: general truths/laws (if/when + present simple → present simple), real/possible future (if/when + present simple → will + infinitive), imagined present/future (if + past simple → would + infinitive), and regrets/comments about the past (if + past perfect → would have + past participle) | Suriname, *Reader for Grade 10 — Subject: English*, Chapter 3 §3.2, printed pp.12–13 |
+
+Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.

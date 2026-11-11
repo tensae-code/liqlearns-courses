@@ -1,6 +1,6 @@
 # Sources — The Present Continuous
 
-countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
+countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname
 
 Every part traces to its book and page.
 
@@ -18,7 +18,7 @@ covers the 6th Year book only).
 | All four sub lessons — the present continuous taught across the book's doing chapters: "What are you doing?" with am/is/are + verb-ing over chores, play and classroom actions | Indonesia, English for Nusantara Kids Grade 3, printed pp.59–88 |
 | The present continuous for actions happening now (be + verb-ing; the spellings taking/cutting/beginning) | Mauritania, Study English, Grade 7, printed pp.61–63 |
 
-**Acceptance count: taught in 12 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
+**Acceptance count: taught in 13 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
 Mauritania joins with its Grade 7 book's present continuous
 for actions happening now (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 present continuous (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -194,3 +194,16 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Suriname added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Suriname's held English set from the PDF — the true in-hand set is exactly **1 student book, 0 teacher books**: *Reader for Grade 10 — Subject: English* (MinOWC, November 2022), 40 pages, grabbed from the private textbooks repo via the authenticated GitHub API contents route (the git-blob route was refused, HTTP 415) and verified against the record by exact size (1,882,387 bytes) and git blob SHA-1 before reading. 30 teaching items were placed fresh from the book; Suriname had no presence in the course before, so all 30 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: a full page-by-page read of the single book (all 40 pages, text layer), with the cover (p.1) and the pictured sports grid (p.21) also verified visually from rendered pages; no part was read at reduced depth. Printed page = PDF page. The book is evidenced by textbooks.tsv and the repo tree only — it never passed through staging or the push state, and no grade-10 staging folder exists (flag F1, record-side; the union count of 1 student / 0 teacher is confirmed). The file's embedded PDF metadata title wrongly reads “Rekenvaardigheden” (arithmetic skills) — the companion mathematics reader's title; the book's identity as the English reader rests on its cover, preface and contents, all verified (flag F2 / book error E1). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Reader for Grade 10 — Subject: English* (“Reader leerjaar 10 voor het vak Engels, versie 1”) (student reader) — Suriname, MinOWC (Ministerie van Onderwijs, Wetenschap en Cultuur), Paramaribo, November 2022, 40 pp. A uniform guide for teacher and pupil for English in leerjaar 10 (VO — MULO/LBO), compiled from the leerjaar-10 curriculum and existing MULO/LBO materials. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous: uses (action at the moment, fixed near-future plan, temporary actions, trends), keywords (now, right now, at the moment, Look!, Listen!, currently), am/are/is + verb-ing in positive/negative/question forms | Suriname, *Reader for Grade 10 — Subject: English*, Chapter 6 §6.1, printed pp.22–23 |
+
+Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.

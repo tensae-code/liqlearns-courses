@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname
 
 Every part traces to its book and page.
 
@@ -214,7 +214,7 @@ the 2026-11-08 re-verification sweep.
 | Demonstrate command and use of compound sentences in speech and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.3, PDF p.52 (curriculum evidence) |
 
 
-**Acceptance count: taught in 35 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea, Tunisia, Samoa).** Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 36 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea, Tunisia, Samoa, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -497,3 +497,18 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Suriname added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Suriname's held English set from the PDF — the true in-hand set is exactly **1 student book, 0 teacher books**: *Reader for Grade 10 — Subject: English* (MinOWC, November 2022), 40 pages, grabbed from the private textbooks repo via the authenticated GitHub API contents route (the git-blob route was refused, HTTP 415) and verified against the record by exact size (1,882,387 bytes) and git blob SHA-1 before reading. 30 teaching items were placed fresh from the book; Suriname had no presence in the course before, so all 30 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: a full page-by-page read of the single book (all 40 pages, text layer), with the cover (p.1) and the pictured sports grid (p.21) also verified visually from rendered pages; no part was read at reduced depth. Printed page = PDF page. The book is evidenced by textbooks.tsv and the repo tree only — it never passed through staging or the push state, and no grade-10 staging folder exists (flag F1, record-side; the union count of 1 student / 0 teacher is confirmed). The file's embedded PDF metadata title wrongly reads “Rekenvaardigheden” (arithmetic skills) — the companion mathematics reader's title; the book's identity as the English reader rests on its cover, preface and contents, all verified (flag F2 / book error E1). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Reader for Grade 10 — Subject: English* (“Reader leerjaar 10 voor het vak Engels, versie 1”) (student reader) — Suriname, MinOWC (Ministerie van Onderwijs, Wetenschap en Cultuur), Paramaribo, November 2022, 40 pp. A uniform guide for teacher and pupil for English in leerjaar 10 (VO — MULO/LBO), compiled from the leerjaar-10 curriculum and existing MULO/LBO materials. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+Book error E3, carried: the conjunctions section (printed p.19) prints “**Now** can be interchanged with 'neither'” — “Now” printed for “Nor”; taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Coordinating conjunctions — FANBOYS: for (reason/purpose, formal), and (similar ideas), nor (negative contrast, paired with neither), but (contrast/exception), or (choice, with either…or), yet (exception/contrast), so (reaction/consequence), plus the comma rule (comma before the conjunction when joining two full sentences, none when joining parts that cannot stand alone) | Suriname, *Reader for Grade 10 — Subject: English*, Chapter 5 §5.3, printed pp.18–19 |
+
+Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.

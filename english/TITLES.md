@@ -216,6 +216,8 @@ its own subtitle folder with its own lesson + questions):
   accessibility-and-inclusion · genetics-and-heredity
   (added 2026-11-11 by the Uruguay expansion merge —
   **Unit 7, Words for the World**) ·
+  life-stages (added 2026-11-11 by the Suriname
+  expansion merge — **Unit 7, Words for the World**) ·
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -305,7 +307,9 @@ its own subtitle folder with its own lesson + questions):
   Kazakhstan re-verification sweep merge — **Unit 9,
   Numbers, Days, and Time**) · fractions-and-percentages
   (added 2026-11-11 by the Afghanistan re-verification
-  sweep merge — **Unit 9, Numbers, Days, and Time**)
+  sweep merge — **Unit 9, Numbers, Days, and Time**) ·
+  writing-the-date (added 2026-11-11 by the Suriname
+  expansion merge — **Unit 9, Numbers, Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
   answering-from-the-text (built 2026-10-27 — **Units 14–15**:

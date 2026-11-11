@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka, Suriname
 Every part traces to its book and page.
 
 **Book 1:** *English 11* — Armenia, COAF. Filed in
@@ -93,9 +93,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 20 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 21 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -211,3 +211,16 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Suriname added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Suriname's held English set from the PDF — the true in-hand set is exactly **1 student book, 0 teacher books**: *Reader for Grade 10 — Subject: English* (MinOWC, November 2022), 40 pages, grabbed from the private textbooks repo via the authenticated GitHub API contents route (the git-blob route was refused, HTTP 415) and verified against the record by exact size (1,882,387 bytes) and git blob SHA-1 before reading. 30 teaching items were placed fresh from the book; Suriname had no presence in the course before, so all 30 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: a full page-by-page read of the single book (all 40 pages, text layer), with the cover (p.1) and the pictured sports grid (p.21) also verified visually from rendered pages; no part was read at reduced depth. Printed page = PDF page. The book is evidenced by textbooks.tsv and the repo tree only — it never passed through staging or the push state, and no grade-10 staging folder exists (flag F1, record-side; the union count of 1 student / 0 teacher is confirmed). The file's embedded PDF metadata title wrongly reads “Rekenvaardigheden” (arithmetic skills) — the companion mathematics reader's title; the book's identity as the English reader rests on its cover, preface and contents, all verified (flag F2 / book error E1). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Reader for Grade 10 — Subject: English* (“Reader leerjaar 10 voor het vak Engels, versie 1”) (student reader) — Suriname, MinOWC (Ministerie van Onderwijs, Wetenschap en Cultuur), Paramaribo, November 2022, 40 pp. A uniform guide for teacher and pupil for English in leerjaar 10 (VO — MULO/LBO), compiled from the leerjaar-10 curriculum and existing MULO/LBO materials. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The past-regret conditional pattern: if + past perfect → would have + past participle, for regrets and comments about the past (the reader teaches all four patterns together; the full set is stocked in conditionals) | Suriname, *Reader for Grade 10 — Subject: English*, Chapter 3 §3.2, printed pp.12–13 |
+
+Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.
