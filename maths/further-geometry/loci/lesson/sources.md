@@ -1,6 +1,6 @@
 # Sources — Loci: paths of moving points
 
-countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal
+countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -63,7 +63,7 @@ On Nepal in this lesson: the concept of locus is §3.1 of Nepal's Grade 9 Option
 | Locus of points (կետերի երկրաչափական տեղ) | Armenia, Geometry 7, §17.41*, printed p. 134 |
 | Concept of locus | Nepal, Grade 9 Optional student book, §3.1, printed p. 146 |
 
-**Acceptance count: taught in 11 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal).**
+**Acceptance count: taught in 12 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka).**
 Sierra Leone carries the fullest course — five pupil-handbook lessons in SSS 2 Term 2 that construct the four standard loci one rule at a time and close with mixed practice. Kazakhstan carries the locus as named theory in Grade 7: Turapbekov's book defines it as a topic, and Smirnov's book gives geometric loci their own section immediately before its construction problems, which is the order this lesson follows. Iran carries the locus as a proving tool in Grade 12: its Geometry (3) book recalls the two bisector loci with proofs, proves the circle as a locus in both directions, and builds a catalogue of standard loci at the head of its conic-sections chapter — the same catalogue idea this lesson uses to close. Greece carries loci inside circle geometry in Grades 10–11: its Euclidean Geometry Volume A treats the basic loci in the circle — the arc subtending a known angle — in its inscribed-figures chapter, and uses loci in geometric constructions there.
 
 Malaysia teaches loci whole in Form 3 — all five standard loci constructed, then combined — and returns in Additional Mathematics Form 4 to write loci as equations, where the constant-ratio locus turns out to be a circle.
@@ -76,3 +76,58 @@ Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Alban
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from the Compendium's Secundaria 6 section (Grade 12): Laboratorio matemático.
 
 Armenia enters through its Geometry 7. From its books: locus of points (կետերի երկրաչափական տեղ).
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's whole in-hand Maths set from the PDFs in two passes — **94 files / 66 distinct works: 26 pupil textbooks and 40 teacher guides, all Sri Lanka Educational Publications Department (EPD) / National Institute of Education (NIE), in the country's three media — English, Sinhala and Tamil** — and placed 479 items: 289 from the pupil books and 190 teacher-evidence items (the secondary guides at one item per term of the guide's own lesson sequence; the primary guides at one item per syllabus competency group or per part). Pass 1 read the expansion map's 59 files (32 works); Pass 2 pinned 35 further in-hand files the map's subject filter had missed — 34 NIE teacher guides for Grades 1–13 and one pupil textbook (Book S26, filed under the subject "Science for Technology") — and read every one. In the sections below the pupil books are cited as Books S1–S26 and the guides as Books T1–T40. Sri Lanka COUNTS in a lesson's taught-in figure only on the strength of its pupil-book rows; its guide rows are TEACHER EVIDENCE — a guide states its syllabus's competencies, its lesson sequence and its teaching instructions — cited as the evidence kind they are and never the basis of the count (the standing Ghana evidence precedent for guide rows). Set facts carried exactly: (1) the Grade 9 Sinhala pupil book is held only as chapter files of two different printings (Books S9–S10) whose shared chapter 20 is a different chapter in each, and NO chapter-26 file exists in either split — the English twin's chapter 26 is Algebraic fractions; the hole is carried as a set gap, not as read; (2) the 2018 Sinhala Grade 9 teacher guide is filed twice (two scans of one work) and is placed once (Book T2), and the file held as the Grade 7 2008 manual's "Tamil" copy is byte-identical to the English manual (same git blob SHA) and is cited once, as the English manual (Book T10); (3) the year-less Tamil Grade 4 and Grade 5 guides are proved by byte size to be NIE's 2015 editions, not the far larger 2019/2020 scans NIE also lists (Books T39–T40); (4) the 1976 Grade 12 Mathematics Part I scan (Book S23) ends with some six pages of an unrelated German textbook's verb tables (PDF pp. 271–276) — its mathematics runs to PDF p. 270 and its last chapters were sampled, not contents-verified; (5) the Grade 1 Sinhala 2026 guide is in hand as a Term 1 volume only (Book T33) — its Terms 2–3 are stocked nowhere — and the Grade 1 Tamil 2016 guide (Book T31) is marked DRAFT on its cover and is placed as filed; (6) the Grade 11 guide's Term 2 table labels one lesson (competency 23.6, inside the geometry cluster) "Central limit theorem" — recorded as printed in Book T19's entry; no row in this course rests on that label; (7) Grade 10 Mathematics Part I (English) and Grade 7 Mathematics Part I (Tamil, 2007–2015 edition) are NOT in hand in any filing — library gaps, not unread books; their twins in the other medium are held and read (Books S17 and S13/S14). The placements' named exclusions — revision exercises, answers, glossaries, assessment apparatus, and the guides' specimen lesson plans and school-based assessment instruments beyond their sequences — are stocked nowhere. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand book (94/94 files) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 14 items (4 from pupil books, 10 teacher evidence) from Book S6, Book S8, Book S9, Book S18, Book T1, Book T2, Book T3, Book T4, Book T5, Book T6, Book T12, Book T13, Book T17, Book T18.
+
+**Book S6:** *Mathematics, Grade 9, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 7,236,174 bytes, 164 PDF pp. Pages cited are printed pages (printed = PDF − 10).
+
+**Book S8:** *Mathematics, Grade 10, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 6,103,105 bytes, 215 PDF pp. Pages cited are printed pages (printed = PDF − 10). This book opens at unit 19: Grade 10 Part I (English) is NOT in hand in any filing — a library gap, not an unread book.
+
+**Book S9:** *Mathematics, Grade 9* (Sinhala medium) — the Part I chapter split: chapters 1–20 held as 20 chapter files in the GitHub tree (every byte size matched the tree record exactly) — Sri Lanka, Educational Publications Department (EPD). Chapter identity was read from each file itself; rows cite the chapter file and its PDF length. This split is a DIFFERENT PRINTING from Book S10: their shared chapter 20 is a different chapter in each (here: Graphs).
+
+**Book S18:** *கணிதம், தரம் 10, பகுதி II (Mathematics, Grade 10, Part II)* (Tamil medium) — Sri Lanka, Educational Publications Department (EPD), ISBN 978-955-25-0455-6, first edition 2015, this copy the 3rd edition 2019; 32,932,815 bytes, 240 PDF pp. (Noolaham scan). The Tamil twin of Book S8 — units 19–32 in the same order; pages cited are its own printed (contents) pages.
+
+**Book T1:** *Mathematics Teacher Guide, Grade 9* (English medium) — Sri Lanka, National Institute of Education (NIE), for implementation from 2018 (first printing 2017); 2,174,664 bytes, 142 PDF pp. TEACHER EVIDENCE ONLY — syllabus + competency/content tables + a three-term lesson sequence + per-unit teaching instructions; cited as teacher evidence, never counted as pupil-textbook teaching.
+
+**Book T2:** *Mathematics Teacher Guide, Grade 9* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), for implementation from 2018 (first printing 2017). TEACHER EVIDENCE ONLY. DUPLICATE FILING, cited once: this one work is in the set twice — the nie.lk publisher original (52,698,559 bytes, 150 pp.) and the GitHub-tree copy filed as `mathematics/teacher-guide.pdf` (1,706,423 bytes, 147 pp.); title/imprint of both read the same NIE 2018 guide. Placed once.
+
+**Book T3:** *Mathematics Teacher Guide, Grade 9* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), for implementation from 2018 (first printing 2017); 1,803,668 bytes, 189 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T1, same three-term sequence.
+
+**Book T4:** *Teacher's Instructional Manual — Mathematics 9* (English medium) — Sri Lanka, National Institute of Education (NIE), 2010 edition (first edition 2009); 885,617 bytes, 171 PDF pp. (GitHub tree copy byte-identical to the nie.lk original — same MD5). TEACHER EVIDENCE ONLY — serves the earlier syllabus: against the 2018 edition it has no binary-numbers and no axioms unit, and carries simple interest, logarithms and volume instead.
+
+**Book T5:** *Teacher's Instructional Manual — Mathematics 9* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), 2010 edition; 524,788 bytes, 170 PDF pp. (GitHub tree copy byte-identical to the nie.lk original — same MD5). TEACHER EVIDENCE ONLY — the Sinhala twin of Book T4, same sequence.
+
+**Book T6:** *Mathematics Teacher Guide, Grade 9* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), 2010 edition (first edition 2009); 934,060 bytes, 139 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T4, same sequence.
+
+**Book T12:** *Teacher's Instructional Manual — Mathematics, Grade 8* (English medium) — Sri Lanka, National Institute of Education (NIE), 2009 edition; 1,018,721 bytes, 216 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Teaching Sequence (printed p. 25) by term.
+
+**Book T13:** *Mathematics Teacher Guide, Grade 8* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), 2009 edition; 826,879 bytes, 208 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T12: its teaching-sequence table (printed p. 28, read from renders) is the English manual's 31-lesson sequence.
+
+**Book T17:** *Teacher's Guide — Mathematics, Grade 10* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2015; 3,636,025 bytes, 164 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Lesson Sequence (printed p. 33) by term.
+
+**Book T18:** *Mathematics Teacher Guide, Grade 10* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2015; 2,254,322 bytes, 193 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T17, verified from its own Teaching Sequence (printed p. 34): the same lessons, competency levels and period counts (190 in all).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Loci and constructions: the four basic loci, constructing a perpendicular to a line, the perpendicular bisector of a segment, constructing and copying angles, and problems on loci | Sri Lanka — *Mathematics, Grade 9, Part II (English)* (pupil's book, Grade 9, Part II), printed p. 49 |
+| Constructions: constructing the four basic loci, parallel lines, and triangles from given information | Sri Lanka — *Mathematics, Grade 10, Part II (English)* (pupil's book, Grade 10, Part II), printed p. 114 |
+| Ch. 14 — Loci and constructions: the four basic loci, perpendicular to a line, perpendicular bisector, constructing and copying angles | Sri Lanka — *Mathematics, Grade 9, Part I chapter files (Sinhala)* (pupil's book, Grade 9, Part I split), chapter file, 24 PDF pp. |
+| TEACHER EVIDENCE: Loci & constructions | Sri Lanka — *Grade 9 Teacher Guide, 2018 edition (English)* (teacher guide, Grade 9) — teacher evidence, Term 2 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Loci & constructions | Sri Lanka — *Grade 9 Teacher Guide, 2018 edition (Sinhala)* (teacher guide, Grade 9) — teacher evidence, Term 2 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Loci & constructions | Sri Lanka — *Grade 9 Teacher Guide, 2018 edition (Tamil)* (teacher guide, Grade 9) — teacher evidence, Term 2 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Constructions | Sri Lanka — *Grade 9 Teacher's Instructional Manual, 2010 edition (English)* (teacher guide, Grade 9) — teacher evidence, Term 2 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Constructions | Sri Lanka — *Grade 9 Teacher's Instructional Manual, 2010 edition (Sinhala)* (teacher guide, Grade 9) — teacher evidence, Term 2 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Constructions | Sri Lanka — *Grade 9 Teacher Guide, 2010 edition (Tamil)* (teacher guide, Grade 9) — teacher evidence, Term 2 of the guide's three-term lesson sequence |
+| Unit 28 Constructions | Sri Lanka — *Mathematics, Grade 10, Part II (Tamil, 2019)* (pupil's book, Grade 10, Part II), printed p. 123 |
+| TEACHER EVIDENCE: Loci and Constructions | Sri Lanka — *Grade 8 Teacher's Instructional Manual, 2009 (English)* (teacher guide, Grade 8) — teacher evidence, Teaching Sequence, printed p. 25 — Term 3 |
+| TEACHER EVIDENCE: Constructions | Sri Lanka — *Grade 10 Teacher's Guide, 2015 (English)* (teacher guide, Grade 10) — teacher evidence, Lesson Sequence, printed p. 33 — Term 3 |
+| TEACHER EVIDENCE: Loci and Constructions | Sri Lanka — *Grade 8 Teacher Guide, 2009 (Tamil)* (teacher guide, Grade 8) — teacher evidence, teaching-sequence table, printed p. 28 — Term 3 |
+| TEACHER EVIDENCE: Constructions | Sri Lanka — *Grade 10 Teacher Guide, 2015 (Tamil)* (teacher guide, Grade 10) — teacher evidence, Teaching Sequence, printed p. 34 — Term 3 |
+
+Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.

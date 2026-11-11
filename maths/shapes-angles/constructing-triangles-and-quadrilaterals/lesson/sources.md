@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -133,7 +133,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
 | Construct a parallelogram | South Sudan, Pupil's Book 7, §3.4, printed p. 46 |
 | Construct a trapezium | South Sudan, Pupil's Book 7, §3.5, printed p. 47 |
-**Acceptance count: taught in 20 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 21 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -159,3 +159,28 @@ Armenia enters through its Geometry 7. From its books: constructing a triangle f
 Rwanda enters from its Primary 6 Learner's Book: Unit 13 constructs polygons and nets — drawing triangles, squares and rectangles with protractor and ruler, and constructing triangles, rectangles, squares and regular polygons with ruler and compasses (printed pp. 229–260) — cross-cited here from the compass-constructions lesson, where the unit is stocked whole.
 
 South Sudan enters through its Primary 7 pupil's book: constructing a parallelogram (§3.4, printed p. 46) and constructing a trapezium (§3.5, printed p. 47).
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's whole in-hand Maths set from the PDFs in two passes — **94 files / 66 distinct works: 26 pupil textbooks and 40 teacher guides, all Sri Lanka Educational Publications Department (EPD) / National Institute of Education (NIE), in the country's three media — English, Sinhala and Tamil** — and placed 479 items: 289 from the pupil books and 190 teacher-evidence items (the secondary guides at one item per term of the guide's own lesson sequence; the primary guides at one item per syllabus competency group or per part). Pass 1 read the expansion map's 59 files (32 works); Pass 2 pinned 35 further in-hand files the map's subject filter had missed — 34 NIE teacher guides for Grades 1–13 and one pupil textbook (Book S26, filed under the subject "Science for Technology") — and read every one. In the sections below the pupil books are cited as Books S1–S26 and the guides as Books T1–T40. Sri Lanka COUNTS in a lesson's taught-in figure only on the strength of its pupil-book rows; its guide rows are TEACHER EVIDENCE — a guide states its syllabus's competencies, its lesson sequence and its teaching instructions — cited as the evidence kind they are and never the basis of the count (the standing Ghana evidence precedent for guide rows). Set facts carried exactly: (1) the Grade 9 Sinhala pupil book is held only as chapter files of two different printings (Books S9–S10) whose shared chapter 20 is a different chapter in each, and NO chapter-26 file exists in either split — the English twin's chapter 26 is Algebraic fractions; the hole is carried as a set gap, not as read; (2) the 2018 Sinhala Grade 9 teacher guide is filed twice (two scans of one work) and is placed once (Book T2), and the file held as the Grade 7 2008 manual's "Tamil" copy is byte-identical to the English manual (same git blob SHA) and is cited once, as the English manual (Book T10); (3) the year-less Tamil Grade 4 and Grade 5 guides are proved by byte size to be NIE's 2015 editions, not the far larger 2019/2020 scans NIE also lists (Books T39–T40); (4) the 1976 Grade 12 Mathematics Part I scan (Book S23) ends with some six pages of an unrelated German textbook's verb tables (PDF pp. 271–276) — its mathematics runs to PDF p. 270 and its last chapters were sampled, not contents-verified; (5) the Grade 1 Sinhala 2026 guide is in hand as a Term 1 volume only (Book T33) — its Terms 2–3 are stocked nowhere — and the Grade 1 Tamil 2016 guide (Book T31) is marked DRAFT on its cover and is placed as filed; (6) the Grade 11 guide's Term 2 table labels one lesson (competency 23.6, inside the geometry cluster) "Central limit theorem" — recorded as printed in Book T19's entry; no row in this course rests on that label; (7) Grade 10 Mathematics Part I (English) and Grade 7 Mathematics Part I (Tamil, 2007–2015 edition) are NOT in hand in any filing — library gaps, not unread books; their twins in the other medium are held and read (Books S17 and S13/S14). The placements' named exclusions — revision exercises, answers, glossaries, assessment apparatus, and the guides' specimen lesson plans and school-based assessment instruments beyond their sequences — are stocked nowhere. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand book (94/94 files) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 4 items (1 from pupil books, 3 teacher evidence) from Book S4, Book T14, Book T15, Book T16.
+
+**Book S4:** *Mathematics, Grade 8, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 8,416,021 bytes, 184 PDF pp. Pages cited are printed pages (printed = PDF − 12).
+
+**Book T14:** *Teacher's Guide — Mathematics, Grade 8* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 3,585,621 bytes, 167 PDF pp. TEACHER EVIDENCE ONLY — rows cite its lesson sequence (printed p. 33) by term.
+
+**Book T15:** *Mathematics Teacher Guide, Grade 8* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 4,271,463 bytes, 194 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T14: its lesson-sequence table (printed p. 37, read from renders) is the English guide's 30-lesson sequence.
+
+**Book T16:** *Mathematics Teacher Guide, Grade 8* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 3,743,615 bytes, 167 PDF pp. TEACHER EVIDENCE ONLY — the Sinhala twin of Book T14: its syllabus table runs in the English order (verified from sampled renders: competency 24 circles; competency 31 probability; first lesson Number Patterns, printed p. 26).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Construction of triangles: the triangle inequality (any two sides exceed the third), and constructing a triangle from its three sides | Sri Lanka — *Mathematics, Grade 8, Part II (English)* (pupil's book, Grade 8, Part II), printed p. 114 |
+| TEACHER EVIDENCE: Triangle Constructions | Sri Lanka — *Grade 8 Teacher's Guide, 2017 (English)* (teacher guide, Grade 8) — teacher evidence, lesson sequence, printed p. 33 — Term 3 |
+| TEACHER EVIDENCE: Triangle Constructions | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Tamil)* (teacher guide, Grade 8) — teacher evidence, lesson-sequence table, printed p. 37 — Term 3 |
+| TEACHER EVIDENCE: Triangle Constructions | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Sinhala)* (teacher guide, Grade 8) — teacher evidence, the guide's lesson sequence — Term 3 |
+
+Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.

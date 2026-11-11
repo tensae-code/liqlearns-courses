@@ -271,6 +271,7 @@ books teach, and work with speed.*
 - business-mathematics ✅ — profit and loss, interest, tax, partnership, insurance, zakat and inheritance shares (Level 114, catch-up build)
 - time-and-calendars ✅ — clocks, 12-hour and 24-hour time, durations, and the calendars of the world (Level 115, catch-up build)
 - speed-distance-and-time ✅ — speed, distance and time, with density and work rates (Level 116, catch-up build)
+- calculator-use ✅ — the scientific calculator itself: its keys (=, %, x², √x), and the calculator as a checking tool (Level 164, Sri Lanka expansion merge 2026-11-11)
 - insurance-risk-and-coverage ✅ — risk pooled: life, health, motor and house cover, and the premium's price factors (Level 142, Malaysia merge 2026-11-07)
 - insurance-deductibles-and-co-insurance ✅ — the first slice, the scale and the split: what a claim actually pays (Level 143, Malaysia merge 2026-11-07)
 - taxation ✅ — income tax computed whole: reliefs, chargeable income, the bands, the rebate, the PCB balance (Level 144, Malaysia merge 2026-11-07)
@@ -303,6 +304,7 @@ hold things still and with the mathematics of motion, the
 way Egypt's applied books teach them.*
 - statics ✅ — forces, resultants, equilibrium, moments, couples and friction (Level 132, catch-up build)
 - dynamics ✅ — motion, Newton's laws, momentum, impulse, work, energy and power (Level 133, catch-up build)
+- hydrostatics ✅ — the statics of liquids and gases: pressure in a liquid, thrust on immersed surfaces, floating bodies, and the hydraulic press (Level 165, Sri Lanka expansion merge 2026-11-11)
 
 ## Unit 18 — First Steps
 *End of unit: the youngest learner can place things, sort
@@ -311,7 +313,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 163 lessons across 18 units** — the first
+**LADDER TOTAL: 165 lessons across 18 units** — the first
 52 built 2026-11-05 across 12 units (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -328,7 +330,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Units 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17.
 
 ## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:

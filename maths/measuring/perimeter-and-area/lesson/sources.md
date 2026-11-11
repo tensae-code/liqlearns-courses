@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Tanzania, Morocco, El Salvador, Cyprus
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -943,7 +943,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: measurement (T2 U9) | Jordan, Grade 5 Workbook Term 2, Unit 9 (workbook evidence) |
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 
-**Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania, El Salvador, Cyprus).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 44 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania, El Salvador, Cyprus, Sri Lanka).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -1130,3 +1130,125 @@ Into this lesson the placements stock 9 items (8 from pupil books, 1 teacher evi
 Cyprus is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Cyprus guide rows, they are teacher evidence only, never the basis of the count. Cyprus's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 75 distinct works) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cyprus-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's whole in-hand Maths set from the PDFs in two passes — **94 files / 66 distinct works: 26 pupil textbooks and 40 teacher guides, all Sri Lanka Educational Publications Department (EPD) / National Institute of Education (NIE), in the country's three media — English, Sinhala and Tamil** — and placed 479 items: 289 from the pupil books and 190 teacher-evidence items (the secondary guides at one item per term of the guide's own lesson sequence; the primary guides at one item per syllabus competency group or per part). Pass 1 read the expansion map's 59 files (32 works); Pass 2 pinned 35 further in-hand files the map's subject filter had missed — 34 NIE teacher guides for Grades 1–13 and one pupil textbook (Book S26, filed under the subject "Science for Technology") — and read every one. In the sections below the pupil books are cited as Books S1–S26 and the guides as Books T1–T40. Sri Lanka COUNTS in a lesson's taught-in figure only on the strength of its pupil-book rows; its guide rows are TEACHER EVIDENCE — a guide states its syllabus's competencies, its lesson sequence and its teaching instructions — cited as the evidence kind they are and never the basis of the count (the standing Ghana evidence precedent for guide rows). Set facts carried exactly: (1) the Grade 9 Sinhala pupil book is held only as chapter files of two different printings (Books S9–S10) whose shared chapter 20 is a different chapter in each, and NO chapter-26 file exists in either split — the English twin's chapter 26 is Algebraic fractions; the hole is carried as a set gap, not as read; (2) the 2018 Sinhala Grade 9 teacher guide is filed twice (two scans of one work) and is placed once (Book T2), and the file held as the Grade 7 2008 manual's "Tamil" copy is byte-identical to the English manual (same git blob SHA) and is cited once, as the English manual (Book T10); (3) the year-less Tamil Grade 4 and Grade 5 guides are proved by byte size to be NIE's 2015 editions, not the far larger 2019/2020 scans NIE also lists (Books T39–T40); (4) the 1976 Grade 12 Mathematics Part I scan (Book S23) ends with some six pages of an unrelated German textbook's verb tables (PDF pp. 271–276) — its mathematics runs to PDF p. 270 and its last chapters were sampled, not contents-verified; (5) the Grade 1 Sinhala 2026 guide is in hand as a Term 1 volume only (Book T33) — its Terms 2–3 are stocked nowhere — and the Grade 1 Tamil 2016 guide (Book T31) is marked DRAFT on its cover and is placed as filed; (6) the Grade 11 guide's Term 2 table labels one lesson (competency 23.6, inside the geometry cluster) "Central limit theorem" — recorded as printed in Book T19's entry; no row in this course rests on that label; (7) Grade 10 Mathematics Part I (English) and Grade 7 Mathematics Part I (Tamil, 2007–2015 edition) are NOT in hand in any filing — library gaps, not unread books; their twins in the other medium are held and read (Books S17 and S13/S14). The placements' named exclusions — revision exercises, answers, glossaries, assessment apparatus, and the guides' specimen lesson plans and school-based assessment instruments beyond their sequences — are stocked nowhere. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand book (94/94 files) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 45 items (18 from pupil books, 27 teacher evidence) from Book S2, Book S3, Book S4, Book S7, Book S10, Book S12, Book S13, Book S14, Book S15, Book S16, Book S17, Book S26, Book T1, Book T2, Book T3, Book T4, Book T5, Book T6, Book T8, Book T9, Book T10, Book T11, Book T12, Book T13, Book T14, Book T15, Book T16, Book T17, Book T18, Book T19, Book T39, Book T40.
+
+**Book S2:** *Mathematics, Grade 7, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 3,396,607 bytes, 179 PDF pp. Pages cited are printed pages (printed = PDF − 12).
+
+**Book S3:** *Mathematics, Grade 8, Part I* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 9,997,813 bytes, 180 PDF pp. Pages cited are printed pages (printed = PDF − 12).
+
+**Book S4:** *Mathematics, Grade 8, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 8,416,021 bytes, 184 PDF pp. Pages cited are printed pages (printed = PDF − 12).
+
+**Book S7:** *Mathematics, Grade 9, Part III* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 5,185,611 bytes, 132 PDF pp. Pages cited are printed pages (printed = PDF − 10).
+
+**Book S10:** *Mathematics, Grade 9* (Sinhala medium) — the Part II chapter split: chapters 20–28 held as 8 chapter files in the GitHub tree — Sri Lanka, Educational Publications Department (EPD). A different printing from Book S9 (its chapter 20 is Inequalities, opening at printed p. 56); its numbering runs one behind the English Part III (Book S7) for chapters 21–25 before rejoining at 27–28. NO chapter-26 file exists in either split — the English twin's chapter 26 is Algebraic fractions; the Sinhala evidence has a one-chapter hole there, carried as a set gap, not as read.
+
+**Book S12:** *கணிதம் II (Mathematics Part II), Grade 6* (Tamil medium) — Sri Lanka, Educational Publications Department (EPD), first edition 1967; 18,160,174 bytes, 196 PDF pp. (Noolaham scan). Pages cited are printed (contents) pages.
+
+**Book S13:** *கணிதம் (Mathematics), Grade 7* (Tamil medium; written for the Ministry's 1985 syllabus; editions 1986–1997, this copy the 1997 printing) — Sri Lanka, Educational Publications Department (EPD); 58,101,481 bytes, 404 PDF pp. (Noolaham scan). Fifty-two lessons in three terms; Revision Exercises A–C and Answers are apparatus. Pages cited are printed pages.
+
+**Book S14:** *கணிதம், தரம் 7, பகுதி II (Mathematics, Grade 7, Part II)* (Tamil medium; first edition 2007, this copy the 4th edition 2010) — Sri Lanka, Educational Publications Department (EPD); 24,329,912 bytes, 196 PDF pp. (Noolaham scan). The Tamil twin of Book S2, continuing its chapter numbering at 15–29; pages cited are its own printed pages. The set holds NO Tamil Part I of this edition (the 1997 whole book, Book S13, is held instead) — a library gap, not an unread book.
+
+**Book S15:** *கணிதம் பகுதி I, தரம் 8 (Mathematics Part I, Grade 8)* (Tamil medium; Tamil edition of the new-syllabus book, printings 2016–2022) — Sri Lanka, Educational Publications Department (EPD), ISBN 978-955-25-0126-5; 42,113,514 bytes, 208 PDF pp. (Noolaham scan). The Tamil twin of Book S3 — same 14 chapters; pages cited are its own printed pages.
+
+**Book S16:** *கணிதம் 8-2 (Mathematics 8-2), Grade 8, Part II* (Tamil medium) — Sri Lanka, Educational Publications Department (EPD), first edition 1971; 21,346,953 bytes, 198 PDF pp. (Noolaham scan). An older-syllabus book — NOT the twin of the English Part II (Book S4): its ten chapters are its own. Answers and the symbol/glossary/table appendices are apparatus.
+
+**Book S17:** *கணிதம், தரம் 10, பகுதி I (Mathematics, Grade 10, Part I)* (Tamil medium) — Sri Lanka, Educational Publications Department (EPD), first edition 2014, for the syllabus implemented from 2015; 25,962,318 bytes, 220 PDF pp. (Noolaham scan). Units 1–18 — the same units the (not-in-hand) English Part I carries; Book S8 continues at unit 19. Pages cited are its own printed (contents) pages.
+
+**Book S26:** *Science for Technology — Mathematics Part I*, Grade 12 (Tamil medium; the A/L Technology-stream mathematics textbook) — Sri Lanka, Educational Publications Department (EPD), first edition 2014 (preface dated 2014-04-25); 11,400,890 bytes, 102 PDF pp. (Noolaham scan, byte-exact vs the books.json record). Filed in the library under the subject "Science for Technology", which is why the expansion map's Maths filter missed it; read in the expansion's Part 2. Pages cited are printed pages (printed = PDF − 8). Glossary and Answers are apparatus.
+
+**Book T1:** *Mathematics Teacher Guide, Grade 9* (English medium) — Sri Lanka, National Institute of Education (NIE), for implementation from 2018 (first printing 2017); 2,174,664 bytes, 142 PDF pp. TEACHER EVIDENCE ONLY — syllabus + competency/content tables + a three-term lesson sequence + per-unit teaching instructions; cited as teacher evidence, never counted as pupil-textbook teaching.
+
+**Book T2:** *Mathematics Teacher Guide, Grade 9* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), for implementation from 2018 (first printing 2017). TEACHER EVIDENCE ONLY. DUPLICATE FILING, cited once: this one work is in the set twice — the nie.lk publisher original (52,698,559 bytes, 150 pp.) and the GitHub-tree copy filed as `mathematics/teacher-guide.pdf` (1,706,423 bytes, 147 pp.); title/imprint of both read the same NIE 2018 guide. Placed once.
+
+**Book T3:** *Mathematics Teacher Guide, Grade 9* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), for implementation from 2018 (first printing 2017); 1,803,668 bytes, 189 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T1, same three-term sequence.
+
+**Book T4:** *Teacher's Instructional Manual — Mathematics 9* (English medium) — Sri Lanka, National Institute of Education (NIE), 2010 edition (first edition 2009); 885,617 bytes, 171 PDF pp. (GitHub tree copy byte-identical to the nie.lk original — same MD5). TEACHER EVIDENCE ONLY — serves the earlier syllabus: against the 2018 edition it has no binary-numbers and no axioms unit, and carries simple interest, logarithms and volume instead.
+
+**Book T5:** *Teacher's Instructional Manual — Mathematics 9* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), 2010 edition; 524,788 bytes, 170 PDF pp. (GitHub tree copy byte-identical to the nie.lk original — same MD5). TEACHER EVIDENCE ONLY — the Sinhala twin of Book T4, same sequence.
+
+**Book T6:** *Mathematics Teacher Guide, Grade 9* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), 2010 edition (first edition 2009); 934,060 bytes, 139 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T4, same sequence.
+
+**Book T8:** *Mathematics Teachers' Guide, Grade 6* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2015 (first print 2015); 2,535,371 bytes, 129 PDF pp. TEACHER EVIDENCE ONLY — rows cite the guide's lesson sequence (printed p. 18) by term.
+
+**Book T9:** *Mathematics Teacher Guide, Grade 6* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2015; 1,904,855 bytes, 146 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T8: its lesson-sequence table (printed p. 17, read from renders) is the English guide's sequence lesson for lesson.
+
+**Book T10:** *Teacher's Instructional Manual — Mathematics, Grade 7* (English medium) — Sri Lanka, National Institute of Education (NIE), 2008 edition (© 2007, first print 2008); 985,975 bytes, 199 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Sequence of Lessons (printed pp. 20–21) by term. The file the library holds as this manual's "Tamil" copy is byte-identical to this English file (same git blob SHA d4f59a361f37601fa95309faa9b1f00b0510fcc5; NIE's own Tamil listing links the English file) — cited once, as this English manual.
+
+**Book T11:** *Teacher's Guide — Mathematics, Grade 7* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2016; 2,772,600 bytes, 155 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Lesson Sequence (printed p. 31) by term.
+
+**Book T12:** *Teacher's Instructional Manual — Mathematics, Grade 8* (English medium) — Sri Lanka, National Institute of Education (NIE), 2009 edition; 1,018,721 bytes, 216 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Teaching Sequence (printed p. 25) by term.
+
+**Book T13:** *Mathematics Teacher Guide, Grade 8* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), 2009 edition; 826,879 bytes, 208 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T12: its teaching-sequence table (printed p. 28, read from renders) is the English manual's 31-lesson sequence.
+
+**Book T14:** *Teacher's Guide — Mathematics, Grade 8* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 3,585,621 bytes, 167 PDF pp. TEACHER EVIDENCE ONLY — rows cite its lesson sequence (printed p. 33) by term.
+
+**Book T15:** *Mathematics Teacher Guide, Grade 8* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 4,271,463 bytes, 194 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T14: its lesson-sequence table (printed p. 37, read from renders) is the English guide's 30-lesson sequence.
+
+**Book T16:** *Mathematics Teacher Guide, Grade 8* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 3,743,615 bytes, 167 PDF pp. TEACHER EVIDENCE ONLY — the Sinhala twin of Book T14: its syllabus table runs in the English order (verified from sampled renders: competency 24 circles; competency 31 probability; first lesson Number Patterns, printed p. 26).
+
+**Book T17:** *Teacher's Guide — Mathematics, Grade 10* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2015; 3,636,025 bytes, 164 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Lesson Sequence (printed p. 33) by term.
+
+**Book T18:** *Mathematics Teacher Guide, Grade 10* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2015; 2,254,322 bytes, 193 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T17, verified from its own Teaching Sequence (printed p. 34): the same lessons, competency levels and period counts (190 in all).
+
+**Book T19:** *Mathematics Teacher's Guide, Grade 11* (English medium) — Sri Lanka, National Institute of Education (NIE), first print 2015, implemented from 2016; 6,000,194 bytes, 165 PDF pp. Image-only scan, read from renders. TEACHER EVIDENCE ONLY — rows cite its Lesson Sequence (printed p. 43; 190 periods in all) by term. Carried exactly: its Term 2 table labels one lesson (competency 23.6, inside the geometry cluster 23.1–23.5) "Central limit theorem" — recorded as printed; no row in this course rests on that label.
+
+**Book T39:** *Mathematics — Teacher Instructional Guide — Grade Four* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), Early Childhood Development and Primary Education Department; 1,156,421 bytes, 153 PDF pp. TEACHER EVIDENCE ONLY — the staged filename carries no year; the edition is proved by byte size: the pushed copy in the GitHub repo tree is 1,156,421 bytes = NIE's 2015 Tamil Grade 4 guide file (t4tim15.pdf), NOT the 72,814,322-byte 2019 scan NIE also lists. Contents at printed p. xiv: three parts, 39 numbered lessons; rows cite the guide by part.
+
+**Book T40:** *Mathematics — Teacher Instructional Guide — Grade Five* (Tamil medium) — Sri Lanka, National Institute of Education (NIE); 1,019,043 bytes, 202 PDF pp. TEACHER EVIDENCE ONLY — identified by the same byte-size route as Book T39: the pushed copy is 1,019,043 bytes = NIE's 2015 Tamil Grade 5 guide file (t5tim15.pdf), NOT the 91,049,921-byte 2020 scan. Contents at printed p. xiii: three parts, 39 lessons; rows cite the guide by part.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Length: adding/subtracting lengths, multiplying/dividing lengths by a whole number, and the perimeter of rectilinear plane figures | Sri Lanka — *Mathematics, Grade 7, Part II (English)* (pupil's book, Grade 7, Part II), printed p. 37 |
+| Area: units of area, areas of squares and rectangles by formula, areas of composite plane figures, and area problems | Sri Lanka — *Mathematics, Grade 7, Part II (English)* (pupil's book, Grade 7, Part II), printed p. 52 |
+| Perimeter: perimeters of composite rectilinear figures built from triangles, squares and rectangles, and perimeter problems | Sri Lanka — *Mathematics, Grade 8, Part I (English)* (pupil's book, Grade 8, Part I), printed p. 14 |
+| Area: deriving the area formula for a triangle, triangle area problems, areas of composite figures, and the surface area of a cube and a cuboid | Sri Lanka — *Mathematics, Grade 8, Part II (English)* (pupil's book, Grade 8, Part II), printed p. 47 |
+| Area: areas of a parallelogram, a trapezium and a circle | Sri Lanka — *Mathematics, Grade 9, Part III (English)* (pupil's book, Grade 9, Part III), printed p. 28 |
+| Ch. 22 — Area: areas of a parallelogram, a trapezium and a circle | Sri Lanka — *Mathematics, Grade 9, Part II chapter files (Sinhala)* (pupil's book, Grade 9, Part II split), chapter file, 14 PDF pp. |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 9 Teacher Guide, 2018 edition (English)* (teacher guide, Grade 9) — teacher evidence, Term 3 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 9 Teacher Guide, 2018 edition (Sinhala)* (teacher guide, Grade 9) — teacher evidence, Term 3 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 9 Teacher Guide, 2018 edition (Tamil)* (teacher guide, Grade 9) — teacher evidence, Term 3 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 9 Teacher's Instructional Manual, 2010 edition (English)* (teacher guide, Grade 9) — teacher evidence, Term 3 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 9 Teacher's Instructional Manual, 2010 edition (Sinhala)* (teacher guide, Grade 9) — teacher evidence, Term 3 of the guide's three-term lesson sequence |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 9 Teacher Guide, 2010 edition (Tamil)* (teacher guide, Grade 9) — teacher evidence, Term 3 of the guide's three-term lesson sequence |
+| L16 Area I | Sri Lanka — *Mathematics, Grade 7 (Tamil, 1997 printing)* (pupil's book, Grade 7 (1985 syllabus)), printed p. 88 |
+| L17 Area II | Sri Lanka — *Mathematics, Grade 7 (Tamil, 1997 printing)* (pupil's book, Grade 7 (1985 syllabus)), printed p. 94 |
+| L47 Area III | Sri Lanka — *Mathematics, Grade 7 (Tamil, 1997 printing)* (pupil's book, Grade 7 (1985 syllabus)), printed p. 303 |
+| L48 Area IV | Sri Lanka — *Mathematics, Grade 7 (Tamil, 1997 printing)* (pupil's book, Grade 7 (1985 syllabus)), printed p. 312 |
+| Ch.2 Perimeter | Sri Lanka — *Mathematics Part I, Grade 8 (Tamil, 2022)* (pupil's book, Grade 8, Part I), printed p. 17 |
+| Ch.5 Area | Sri Lanka — *Mathematics Part II, Grade 8 (Tamil, 1971)* (pupil's book, Grade 8, Part II (older syllabus)), printed p. 74 |
+| Ch.6 Perimeter | Sri Lanka — *Mathematics Part II, Grade 6 (Tamil, 1967)* (pupil's book, Grade 6, Part II), printed p. 84 |
+| Ch.8 Area | Sri Lanka — *Mathematics Part II, Grade 6 (Tamil, 1967)* (pupil's book, Grade 6, Part II), printed p. 114 |
+| Ch.23 Rectilinear plane figures | Sri Lanka — *Mathematics, Grade 7, Part II (Tamil, 2010)* (pupil's book, Grade 7, Part II), printed p. 94 |
+| Unit 1 Perimeter | Sri Lanka — *Mathematics, Grade 10, Part I (Tamil, 2014)* (pupil's book, Grade 10, Part I), printed p. 1 |
+| Unit 6 Area | Sri Lanka — *Mathematics, Grade 10, Part I (Tamil, 2014)* (pupil's book, Grade 10, Part I), printed p. 68 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 6 Teachers' Guide, 2015 (English)* (teacher guide, Grade 6) — teacher evidence, lesson sequence, printed p. 18 — Term 3 |
+| TEACHER EVIDENCE: Length; Area | Sri Lanka — *Grade 7 Teacher's Instructional Manual, 2008 (English)* (teacher guide, Grade 7) — teacher evidence, Sequence of Lessons, printed pp. 20–21 — Term 2 |
+| TEACHER EVIDENCE: Length; Area | Sri Lanka — *Grade 7 Teacher's Guide, 2016 (English)* (teacher guide, Grade 7) — teacher evidence, Lesson Sequence, printed p. 31 — Term 2 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 8 Teacher's Instructional Manual, 2009 (English)* (teacher guide, Grade 8) — teacher evidence, Teaching Sequence, printed p. 25 — Term 1 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 8 Teacher's Instructional Manual, 2009 (English)* (teacher guide, Grade 8) — teacher evidence, Teaching Sequence, printed p. 25 — Term 2 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 8 Teacher's Guide, 2017 (English)* (teacher guide, Grade 8) — teacher evidence, lesson sequence, printed p. 33 — Term 1 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 8 Teacher's Guide, 2017 (English)* (teacher guide, Grade 8) — teacher evidence, lesson sequence, printed p. 33 — Term 2 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 10 Teacher's Guide, 2015 (English)* (teacher guide, Grade 10) — teacher evidence, Lesson Sequence, printed p. 33 — Term 1 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 10 Teacher's Guide, 2015 (English)* (teacher guide, Grade 10) — teacher evidence, Lesson Sequence, printed p. 33 — Term 1 |
+| Ch. 3 Area: areas of plane figures, applications connected with areas of plane figures, and applications of trigonometric ratios to area | Sri Lanka — *Science for Technology — Mathematics Part I, Grade 12 (Tamil, 2014)* (pupil's book, Grade 12 A/L Technology stream), printed p. 38 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 6 Teacher Guide, 2015 (Tamil)* (teacher guide, Grade 6) — teacher evidence, lesson-sequence table, printed p. 17 — Term 3 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 8 Teacher Guide, 2009 (Tamil)* (teacher guide, Grade 8) — teacher evidence, teaching-sequence table, printed p. 28 — Term 1 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 8 Teacher Guide, 2009 (Tamil)* (teacher guide, Grade 8) — teacher evidence, teaching-sequence table, printed p. 28 — Term 2 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Tamil)* (teacher guide, Grade 8) — teacher evidence, lesson-sequence table, printed p. 37 — Term 1 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Tamil)* (teacher guide, Grade 8) — teacher evidence, lesson-sequence table, printed p. 37 — Term 2 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Sinhala)* (teacher guide, Grade 8) — teacher evidence, the guide's lesson sequence — Term 1 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Sinhala)* (teacher guide, Grade 8) — teacher evidence, the guide's lesson sequence — Term 2 |
+| TEACHER EVIDENCE: Area of plane figures between parallel lines (23.1, 23.2) | Sri Lanka — *Grade 11 Teacher's Guide, 2015 (English)* (teacher guide, Grade 11) — teacher evidence, Lesson Sequence, printed p. 43 — Term 1 |
+| TEACHER EVIDENCE: Area | Sri Lanka — *Grade 10 Teacher Guide, 2015 (Tamil)* (teacher guide, Grade 10) — teacher evidence, Teaching Sequence, printed p. 34 — Term 1 |
+| TEACHER EVIDENCE: Perimeter | Sri Lanka — *Grade 10 Teacher Guide, 2015 (Tamil)* (teacher guide, Grade 10) — teacher evidence, Teaching Sequence, printed p. 34 — Term 1 |
+| TEACHER EVIDENCE: Part 2 lessons: volume and capacity; number patterns 2; division 2; number explanation 2; multiplication 2; angles and directions; time; money 1; addition; subtraction; area; division (lesson 20 is revision) | Sri Lanka — *Grade 4 Teacher Instructional Guide (Tamil, 2015 edition)* (teacher guide, Grade 4) — teacher evidence, contents, printed p. xiv — Part 2 |
+| TEACHER EVIDENCE: Part 2 lessons: multiplication 2; division 2; handling data 1; money 1; area; fractions; time 2; volume and capacity 1; solids and plane shapes; directions (lessons 19, 25, 26 are revision) | Sri Lanka — *Grade 5 Teacher Instructional Guide (Tamil, 2015 edition)* (teacher guide, Grade 5) — teacher evidence, contents, printed p. xiii — Part 2 |
+
+Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.

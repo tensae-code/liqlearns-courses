@@ -1,6 +1,6 @@
 # Sources — Tessellations
 
-countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia
+countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -61,7 +61,7 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 | Tessellations (Grade 4 Book 2) | South Africa, Grade 4 Book 2, Ws 135 Tessellations, printed p. 162 |
 | Tessellation; translations and tessellations; reflections and tessellations; glide reflection; rotations and tessellations (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 90 Tessellation, printed p. 60; South Africa, Grade 5 Book 2, Ws 135–139 Tessellation; Translations and tessellations; Reflections and tessellations; Glide reflection; Rotations and tessellations, printed pp. 170, 172, 174, 176, 178 |
 
-**Acceptance count: taught in 12 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia).**
+**Acceptance count: taught in 13 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia, Sri Lanka).**
 
 Laos teaches tessellation as movement: Grade 5 combines translation with reflection to make tiling patterns, then translation with rotation — turning a tile about a point through 90° — and tessellates hexagons. Pakistan's Grade 7 book defines tessellation where polygons are studied (p.163). Nepal splits the topic across two student books: Grade 6 tessellates with triangles, rectangles and squares beside symmetry, and Grade 7 names the three kinds — regular, semi-regular and irregular. Libya returns to tessellation as enrichment in both Grade 8 and Grade 9, South Africa's workbooks drill the three tessellating shapes and add glide reflection, and Iraq's Grade 6 book teaches tessellation inside its geometry course.
 
@@ -74,3 +74,46 @@ India enters tessellations from Math-Magic Class 3–5: tiling a floor; floor pa
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 6: tessellations — Tessellation defined: covering a surface with no gaps and no overlaps; regular tessellations are exactly three — equilateral triangle, square, regular hexagon; from Grade 7: tiling — Tiling a floor with congruent regular pieces: equilateral triangles and squares tile the plane; the honeycomb read as a tessellation.
 
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Teselado.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's whole in-hand Maths set from the PDFs in two passes — **94 files / 66 distinct works: 26 pupil textbooks and 40 teacher guides, all Sri Lanka Educational Publications Department (EPD) / National Institute of Education (NIE), in the country's three media — English, Sinhala and Tamil** — and placed 479 items: 289 from the pupil books and 190 teacher-evidence items (the secondary guides at one item per term of the guide's own lesson sequence; the primary guides at one item per syllabus competency group or per part). Pass 1 read the expansion map's 59 files (32 works); Pass 2 pinned 35 further in-hand files the map's subject filter had missed — 34 NIE teacher guides for Grades 1–13 and one pupil textbook (Book S26, filed under the subject "Science for Technology") — and read every one. In the sections below the pupil books are cited as Books S1–S26 and the guides as Books T1–T40. Sri Lanka COUNTS in a lesson's taught-in figure only on the strength of its pupil-book rows; its guide rows are TEACHER EVIDENCE — a guide states its syllabus's competencies, its lesson sequence and its teaching instructions — cited as the evidence kind they are and never the basis of the count (the standing Ghana evidence precedent for guide rows). Set facts carried exactly: (1) the Grade 9 Sinhala pupil book is held only as chapter files of two different printings (Books S9–S10) whose shared chapter 20 is a different chapter in each, and NO chapter-26 file exists in either split — the English twin's chapter 26 is Algebraic fractions; the hole is carried as a set gap, not as read; (2) the 2018 Sinhala Grade 9 teacher guide is filed twice (two scans of one work) and is placed once (Book T2), and the file held as the Grade 7 2008 manual's "Tamil" copy is byte-identical to the English manual (same git blob SHA) and is cited once, as the English manual (Book T10); (3) the year-less Tamil Grade 4 and Grade 5 guides are proved by byte size to be NIE's 2015 editions, not the far larger 2019/2020 scans NIE also lists (Books T39–T40); (4) the 1976 Grade 12 Mathematics Part I scan (Book S23) ends with some six pages of an unrelated German textbook's verb tables (PDF pp. 271–276) — its mathematics runs to PDF p. 270 and its last chapters were sampled, not contents-verified; (5) the Grade 1 Sinhala 2026 guide is in hand as a Term 1 volume only (Book T33) — its Terms 2–3 are stocked nowhere — and the Grade 1 Tamil 2016 guide (Book T31) is marked DRAFT on its cover and is placed as filed; (6) the Grade 11 guide's Term 2 table labels one lesson (competency 23.6, inside the geometry cluster) "Central limit theorem" — recorded as printed in Book T19's entry; no row in this course rests on that label; (7) Grade 10 Mathematics Part I (English) and Grade 7 Mathematics Part I (Tamil, 2007–2015 edition) are NOT in hand in any filing — library gaps, not unread books; their twins in the other medium are held and read (Books S17 and S13/S14). The placements' named exclusions — revision exercises, answers, glossaries, assessment apparatus, and the guides' specimen lesson plans and school-based assessment instruments beyond their sequences — are stocked nowhere. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand book (94/94 files) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 10 items (3 from pupil books, 7 teacher evidence) from Book S2, Book S4, Book S14, Book T10, Book T11, Book T12, Book T13, Book T14, Book T15, Book T16.
+
+**Book S2:** *Mathematics, Grade 7, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 3,396,607 bytes, 179 PDF pp. Pages cited are printed pages (printed = PDF − 12).
+
+**Book S4:** *Mathematics, Grade 8, Part II* (English medium, new syllabus 2015) — Sri Lanka, Educational Publications Department (EPD); 8,416,021 bytes, 184 PDF pp. Pages cited are printed pages (printed = PDF − 12).
+
+**Book S14:** *கணிதம், தரம் 7, பகுதி II (Mathematics, Grade 7, Part II)* (Tamil medium; first edition 2007, this copy the 4th edition 2010) — Sri Lanka, Educational Publications Department (EPD); 24,329,912 bytes, 196 PDF pp. (Noolaham scan). The Tamil twin of Book S2, continuing its chapter numbering at 15–29; pages cited are its own printed pages. The set holds NO Tamil Part I of this edition (the 1997 whole book, Book S13, is held instead) — a library gap, not an unread book.
+
+**Book T10:** *Teacher's Instructional Manual — Mathematics, Grade 7* (English medium) — Sri Lanka, National Institute of Education (NIE), 2008 edition (© 2007, first print 2008); 985,975 bytes, 199 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Sequence of Lessons (printed pp. 20–21) by term. The file the library holds as this manual's "Tamil" copy is byte-identical to this English file (same git blob SHA d4f59a361f37601fa95309faa9b1f00b0510fcc5; NIE's own Tamil listing links the English file) — cited once, as this English manual.
+
+**Book T11:** *Teacher's Guide — Mathematics, Grade 7* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2016; 2,772,600 bytes, 155 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Lesson Sequence (printed p. 31) by term.
+
+**Book T12:** *Teacher's Instructional Manual — Mathematics, Grade 8* (English medium) — Sri Lanka, National Institute of Education (NIE), 2009 edition; 1,018,721 bytes, 216 PDF pp. TEACHER EVIDENCE ONLY — rows cite its Teaching Sequence (printed p. 25) by term.
+
+**Book T13:** *Mathematics Teacher Guide, Grade 8* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), 2009 edition; 826,879 bytes, 208 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T12: its teaching-sequence table (printed p. 28, read from renders) is the English manual's 31-lesson sequence.
+
+**Book T14:** *Teacher's Guide — Mathematics, Grade 8* (English medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 3,585,621 bytes, 167 PDF pp. TEACHER EVIDENCE ONLY — rows cite its lesson sequence (printed p. 33) by term.
+
+**Book T15:** *Mathematics Teacher Guide, Grade 8* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 4,271,463 bytes, 194 PDF pp. TEACHER EVIDENCE ONLY — the Tamil twin of Book T14: its lesson-sequence table (printed p. 37, read from renders) is the English guide's 30-lesson sequence.
+
+**Book T16:** *Mathematics Teacher Guide, Grade 8* (Sinhala medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2017; 3,743,615 bytes, 167 PDF pp. TEACHER EVIDENCE ONLY — the Sinhala twin of Book T14: its syllabus table runs in the English order (verified from sampled renders: competency 24 circles; competency 31 probability; first lesson Number Patterns, printed p. 26).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tessellation: what tessellation is, pure and semi-pure tessellations, and creating tessellations | Sri Lanka — *Mathematics, Grade 7, Part II (English)* (pupil's book, Grade 7, Part II), printed p. 148 |
+| Tessellation: what regular and semi-regular tessellations are, selecting suitable polygons for them, and creating regular and semi-regular tessellations | Sri Lanka — *Mathematics, Grade 8, Part II (English)* (pupil's book, Grade 8, Part II), printed p. 159 |
+| Ch.28 Tessellation | Sri Lanka — *Mathematics, Grade 7, Part II (Tamil, 2010)* (pupil's book, Grade 7, Part II), printed p. 157 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 7 Teacher's Instructional Manual, 2008 (English)* (teacher guide, Grade 7) — teacher evidence, Sequence of Lessons, printed pp. 20–21 — Term 3 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 7 Teacher's Guide, 2016 (English)* (teacher guide, Grade 7) — teacher evidence, Lesson Sequence, printed p. 31 — Term 3 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 8 Teacher's Instructional Manual, 2009 (English)* (teacher guide, Grade 8) — teacher evidence, Teaching Sequence, printed p. 25 — Term 3 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 8 Teacher's Guide, 2017 (English)* (teacher guide, Grade 8) — teacher evidence, lesson sequence, printed p. 33 — Term 3 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 8 Teacher Guide, 2009 (Tamil)* (teacher guide, Grade 8) — teacher evidence, teaching-sequence table, printed p. 28 — Term 3 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Tamil)* (teacher guide, Grade 8) — teacher evidence, lesson-sequence table, printed p. 37 — Term 3 |
+| TEACHER EVIDENCE: Tessellation | Sri Lanka — *Grade 8 Teacher Guide, 2017 (Sinhala)* (teacher guide, Grade 8) — teacher evidence, the guide's lesson sequence — Term 3 |
+
+Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.

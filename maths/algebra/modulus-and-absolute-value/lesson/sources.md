@@ -1,6 +1,6 @@
 # Sources — Modulus and Absolute Value
 
-countries: Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt, Kazakhstan, Libya, Iran, Iraq, Yemen
+countries: Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt, Kazakhstan, Libya, Iran, Iraq, Yemen, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -126,3 +126,22 @@ Bangladesh enters through its NCTB course — *Mathematics, Class Eight* (Nation
 Egypt enters through its Grade 11 General Term 1 book (Arabic edition), stocked by the 2026-11-08 re-verification sweep: absolute value.
 
 Iraq carries the absolute value of a real number in Grade 10 Literary, Chapter 2 (§2-3). Stocked 2026-11-11 by the Iraq re-verification sweep merge.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's whole in-hand Maths set from the PDFs in two passes — **94 files / 66 distinct works: 26 pupil textbooks and 40 teacher guides, all Sri Lanka Educational Publications Department (EPD) / National Institute of Education (NIE), in the country's three media — English, Sinhala and Tamil** — and placed 479 items: 289 from the pupil books and 190 teacher-evidence items (the secondary guides at one item per term of the guide's own lesson sequence; the primary guides at one item per syllabus competency group or per part). Pass 1 read the expansion map's 59 files (32 works); Pass 2 pinned 35 further in-hand files the map's subject filter had missed — 34 NIE teacher guides for Grades 1–13 and one pupil textbook (Book S26, filed under the subject "Science for Technology") — and read every one. In the sections below the pupil books are cited as Books S1–S26 and the guides as Books T1–T40. Sri Lanka COUNTS in a lesson's taught-in figure only on the strength of its pupil-book rows; its guide rows are TEACHER EVIDENCE — a guide states its syllabus's competencies, its lesson sequence and its teaching instructions — cited as the evidence kind they are and never the basis of the count (the standing Ghana evidence precedent for guide rows). Set facts carried exactly: (1) the Grade 9 Sinhala pupil book is held only as chapter files of two different printings (Books S9–S10) whose shared chapter 20 is a different chapter in each, and NO chapter-26 file exists in either split — the English twin's chapter 26 is Algebraic fractions; the hole is carried as a set gap, not as read; (2) the 2018 Sinhala Grade 9 teacher guide is filed twice (two scans of one work) and is placed once (Book T2), and the file held as the Grade 7 2008 manual's "Tamil" copy is byte-identical to the English manual (same git blob SHA) and is cited once, as the English manual (Book T10); (3) the year-less Tamil Grade 4 and Grade 5 guides are proved by byte size to be NIE's 2015 editions, not the far larger 2019/2020 scans NIE also lists (Books T39–T40); (4) the 1976 Grade 12 Mathematics Part I scan (Book S23) ends with some six pages of an unrelated German textbook's verb tables (PDF pp. 271–276) — its mathematics runs to PDF p. 270 and its last chapters were sampled, not contents-verified; (5) the Grade 1 Sinhala 2026 guide is in hand as a Term 1 volume only (Book T33) — its Terms 2–3 are stocked nowhere — and the Grade 1 Tamil 2016 guide (Book T31) is marked DRAFT on its cover and is placed as filed; (6) the Grade 11 guide's Term 2 table labels one lesson (competency 23.6, inside the geometry cluster) "Central limit theorem" — recorded as printed in Book T19's entry; no row in this course rests on that label; (7) Grade 10 Mathematics Part I (English) and Grade 7 Mathematics Part I (Tamil, 2007–2015 edition) are NOT in hand in any filing — library gaps, not unread books; their twins in the other medium are held and read (Books S17 and S13/S14). The placements' named exclusions — revision exercises, answers, glossaries, assessment apparatus, and the guides' specimen lesson plans and school-based assessment instruments beyond their sequences — are stocked nowhere. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand book (94/94 files) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 2 items (0 from pupil books, 2 teacher evidence) from Book T7, Book T26.
+
+**Book T7:** *G.C.E. (A/L) Mathematics Teacher Instructional Guide, Grade 13* (Tamil medium) — Sri Lanka, National Institute of Education (NIE), implemented from 2010; 15,262,461 bytes, 104 PDF pp. (Noolaham scan). TEACHER EVIDENCE ONLY — a term-by-term competency/content table for the A/L year (Maths I paper content) with period counts; the scan is faint and sampled pages were contrast-enhanced to read.
+
+**Book T26:** *Combined Mathematics Teacher's Instructional Manual, Grade 13* (English medium) — Sri Lanka, National Institute of Education (NIE), to be implemented from 2010; 1,150,724 bytes, 86 PDF pp. TEACHER EVIDENCE ONLY — term chapters at printed pp. 1–18 / 19–34 / 35–56, with the manual's own competency-level index at printed pp. 75–77.
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE: Modulus functions and inequalities | Sri Lanka — *Grade 13 A/L Mathematics Teacher Guide (Tamil, NIE)* (teacher guide, Grade 13) — teacher evidence, Term 2 competency table, printed pp. 17–35 |
+| TEACHER EVIDENCE: Maths I: Inequalities including modulus functions | Sri Lanka — *Grade 13 Combined Mathematics Manual, 2010 (English)* (teacher guide, Grade 13) — teacher evidence, Term 1 chapter, printed pp. 1–18 |
+
+Sri Lanka is added to the countries line above and named in its rows as teacher evidence, but it is NOT added to the acceptance count above — every Sri Lanka row in this lesson rests on a teacher guide, not a pupil textbook (the standing Ghana evidence precedent). Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.
