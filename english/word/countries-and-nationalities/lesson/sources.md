@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
@@ -33,7 +33,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya).** Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -121,3 +121,28 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Countries and origins: “Where are you from? I'm from Libya / England / America / Brazil.” — with a world-countries listening map | Libya, Grade 5 Pupil's Book, Unit 2, printed p.26 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Times, countries and manners (reading) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 9, printed p.58 |
+| Continents and countries | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 10, printed p.60 |
+| “We're in Europe” — Great Britain, Germany, France, Russia, Poland, the United Kingdom, and their capitals | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 10, printed p.61 |
+| North America — “Brr! North America” | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 10, printed p.62 |
+| “What is the UK?” — population, area and location | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 12, printed p.73 |
+| Welcome to the USA! | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 12, printed p.74 |
+| Australia “down under” and New Zealand — nationalities, capitals and cities | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 12, printed pp.75–76 |
+| Talking about inventions; the countries they come from | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 3, printed p.32 |
+| Descriptive language for the nation — “Our nation” | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 2, printed p.16 |
+| Nationality words; structures for showing changes | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, printed p.52 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

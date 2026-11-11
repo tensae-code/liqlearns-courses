@@ -215,7 +215,10 @@ re-verification sweep stocked these two parts, 2026-11-08 —
 flag 1 of the sweep's China diff). Uzbekistan is
 NOT counted: its English Matters 8 relative-clause
 evidence is one gap-fill exercise with no rule, which
-does not meet this lesson's taught-as-a-system bar.
+does not meet this lesson's taught-as-a-system bar. (Flag 2 of the 2026-11-08
+re-verification sweep, recorded 2026-11-11: the sweep's fresh read of printed pp.30–31 shows more than
+that description holds — see the Uzbekistan evidence section at the end of this file. The bar stands;
+Uzbekistan remains uncounted.)
 Mauritania practises whose-clauses in its Grade 7 teacher
 guide (teacher evidence) and who/whose descriptions in Grade
 10 (stocked 2026-11-09 by the Mauritania re-verification sweep
@@ -413,3 +416,13 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Relative clauses as a taught system | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed p.106 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan — relative-clauses evidence, recorded 2026-11-11 (re-verification sweep merge; sweep flag 2)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's *English Matters* Student's Book 8 from the file (Macmillan Education, first published 2002; held copy: the Uzbek-approved new colour edition, printed in Malaysia; ISBN 978-1-4050-1254-6; filed in english/books/uzbekistan.md) and records the relative-pronouns teaching the acceptance passage above describes as "one gap-fill exercise with no rule". The fresh page evidence is fuller: **Unit 3, Lessons 5–6 "Inventions", printed pp.30–31** — invention stories on p.30 and an Edison biography on p.31, completed with who / whose / where / which / when, under a contents line naming the block's language focus "relative pronouns". That evidence is recorded here in full so the record is right.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative pronouns in use — invention stories and an Edison biography completed with who / whose / where / which / when (evidence only; not counted) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 3, printed pp.30–31 |
+
+The lesson's taught-as-a-system bar is the course's to keep, and it stands: the evidence remains gap-fill completion work with no stated rule, so **Uzbekistan is NOT counted in this lesson** — the countries line and the acceptance count above are unchanged. Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

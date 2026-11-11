@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -150,7 +150,7 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 23 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya).** Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 24 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -495,3 +495,15 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | The Scientific section's science specialization reading set (32 specialization lessons across 8 units), counted once as a distinct reading set; the same set is stocked in nature-and-the-environment | Libya, Grade 12-2 (Scientific) Course Book, throughout |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Electrical appliances; homes yesterday and today | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 2, printed p.16 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

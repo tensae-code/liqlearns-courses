@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 1
@@ -116,7 +116,7 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 29 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya).** Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 30 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -499,3 +499,16 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Wider family: cousins and the family tree (the “Happy Birthday!” half of this point is stocked in congratulating-and-wishing) | Libya, Grade 2 Pupil's Book, Unit 6, printed p.65 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family values and traditions (Culture) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 1, printed p.10 |
+| A family tree — descriptive language (project) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 1, printed p.11 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

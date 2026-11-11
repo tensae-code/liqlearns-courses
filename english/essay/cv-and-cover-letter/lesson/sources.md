@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 12 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan, Vietnam, Malaysia).** Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 13 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -128,3 +128,15 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | A covering letter as model text (beside the Unit 8 job application) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 8, printed p.105 |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. The CV project was held as unkeyed stock in essay/opening-and-closing from 2026-11-04 because no CV lesson existed then (sweep flag 4); it is stocked here now, and the held note there carries a dated supersession. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a CV (project) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 9, printed p.107 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

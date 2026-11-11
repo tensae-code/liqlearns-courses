@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -67,8 +67,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 16 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
-Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya).** Libya joins with offers and requests at table (Grade 2) and polite offers — Shall I…? Would you like me to…? (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
+**Acceptance count: taught in 17 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with offers and requests at table (Grade 2) and polite offers — Shall I…? Would you like me to…? (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -244,3 +244,15 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Polite offers: Shall I…? Would you like me to…?, accepting and refusing (the suggestions half of this functional-box point is stocked in making-suggestions) | Libya, Grade 11-1 (Literary) Course Book, Units 1–8 functional boxes |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Offering food — “Would you like…?” | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 9, printed p.54 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

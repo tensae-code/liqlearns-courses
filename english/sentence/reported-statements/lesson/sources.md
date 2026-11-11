@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Reported statements (tense changes) | Mongolia, English XII, Unit 9, printed p.161 |
 | Direct and indirect speech rules stated in the book's closing units | Pakistan, *English 6*, printed p.114 |
 
-**Acceptance count: taught in 23 countries (Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya).** Libya joins with the reported speech system (Grade 10), the completed system (Grade 11-1) and the reporting-verb set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported speech and the said/told backshift chart in its Grade 10 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
+**Acceptance count: taught in 24 countries (Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the reported speech system (Grade 10), the completed system (Grade 11-1) and the reporting-verb set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported speech and the said/told backshift chart in its Grade 10 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -420,3 +420,15 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Verbs for reporting speech — the reporting-verb set beyond say/tell/ask | Libya, Grade 12-1 (Literary) Course Book, Grammar 1 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported speech — “Reporting the facts” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 5, printed p.54 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

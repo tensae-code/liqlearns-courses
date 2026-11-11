@@ -182,7 +182,11 @@ its own subtitle folder with its own lesson + questions):
   for the World**) ·
   safety-at-home · my-body-belongs-to-me · stereotypes
   (added 2026-11-11 by the South Africa re-verification
-  sweep merge — **Unit 7, Words for the World**)
+  sweep merge — **Unit 7, Words for the World**) ·
+  art-words · eating-out
+  (added 2026-11-11 by the Uzbekistan
+  re-verification sweep merge — **Unit 7, Words for
+  the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)

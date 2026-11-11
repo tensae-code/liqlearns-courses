@@ -1,6 +1,6 @@
 # Sources — British and American English
 
-countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya
+countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -34,7 +34,7 @@ differ only in cover wording and colophon; cited once.
 | A listening on where English comes from: English as a product of multiple influences from other languages | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 136 |
 | The Advanced teacher's guide for Unit 1 “Unity in Diversity” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), contents, printed p.1 (unit start) |
 
-**Acceptance count: taught in 8 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya).** Libya joins with English in the world — varieties and uses of English worldwide (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with English in the world — varieties and uses of English worldwide (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -75,3 +75,15 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | English in the world — varieties and uses of English worldwide | Libya, Grade 12-1 (Literary) Course Book, Unit 8, printed pp.90–101 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| British and American English (project) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 8, printed p.95 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

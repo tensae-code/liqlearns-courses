@@ -1,6 +1,6 @@
 # Sources — Have To for Obligation
 
-countries: Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya
+countries: Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 9 (Secundaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | have to / don't have to for jobs, rules with must / mustn't, and had to / didn't have to — the older course's obligation teaching (Module 5 "World of work", Units 9–10), held only in its Teacher's Book | Syria, *English for Syria*, Intermediate, Teacher's Book (York Press), Module 5, printed pp.63–76 — teacher's-book evidence; the matching student's book is not in hand |
 | must / mustn't for rules, at a nature reserve (Unit 13) | Syria, *English for Starters 5*, Pupil's Book (York Press), Unit 13, printed p.39 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya).** Libya joins with need for materials — “You need a ruler. What do I need for maths?” (Grade 5; stocked here as its closest obligation home) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with need for materials — “You need a ruler. What do I need for maths?” (Grade 5; stocked here as its closest obligation home) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 9 student book's full have-to treatment with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium spread is stocked with its true content stated, exactly as the sweep's placements carry it — the filing's own recorded slip (a possession table under an obligation heading) is not smoothed over. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -88,3 +88,16 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | need for materials: “You need a ruler. What do I need for maths?” (need; stocked in this obligation lesson as its closest home) | Libya, Grade 5 Pupil's Book, Unit 7, printed pp.106–108 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| must for obligation; mustn't for prohibition — “Teenage rules” (writing rules) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 6, printed p.66 |
+| do / don't + modal obligation — “A way of life” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 9, printed p.104 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

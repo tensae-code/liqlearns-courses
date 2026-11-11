@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -9,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 5 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan).**
+**Acceptance count: taught in 6 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 8 book's music unit — genres and instruments as one word set — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 8 (Secundaria 2) student book named above.
 
@@ -69,3 +69,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Entertainment words — classical music, concert, country music, musical and the performance side of the Unit 7 set | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, Unit 7, printed p.32 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Music words; describing and contrasting trends — “The new look of music” (project) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 7, printed p.83 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

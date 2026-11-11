@@ -271,6 +271,8 @@ about the other person, and close the talk.*
 
 - **Sweep addition (2026-11-11, South Africa re-verification sweep merge):** safety-at-home ✅ (1 lesson — spotting dangers in a picture of a home and saying why each is dangerous, from South Africa's Grade 1 HL Workbook 1) · my-body-belongs-to-me ✅ (1 lesson — your body belongs to you; private parts are private; tell a trusted grown-up, taught by seven of South Africa's workbooks, Grades 1–6) · stereotypes ✅ (1 lesson — a fixed belief that everyone in a group is the same, defined and worked inside South Africa's Grade 4 HL play unit)
 
+- **Sweep additions (2026-11-11, Uzbekistan re-verification sweep merge):** art-words ✅ (1 lesson — the kinds of art and the museum words of English Matters 8's Art Matters unit, which no lesson housed) · eating-out ✅ (1 lesson — the restaurants and cafés words of Fly High 6's At the table unit, which no lesson housed)
+
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
 definition says.*
@@ -2055,3 +2057,105 @@ adaptation) carries nothing in this merge. **Jordan:
 course now stands at **264 lessons across 44 units**.
 
 Stocked by Libya (2026-11-11, the re-verification sweep merge): 224 fresh items placed from Libya's 38 books — 54 already in course, 170 stocked into 96 lessons as 175 provenance rows (the Grade 2 family/"Happy Birthday!" point stocked in both family-words and congratulating-and-wishing; the Grade 10 extended-reading set in the-big-reading, news-writing and report-writing; the Grade 11-1 polite offers/suggestions point in making-offers and making-suggestions; the Grade 12-2 science set in technology-words and nature-and-the-environment). No new lessons were needed — every item mapped to an existing lesson. Stocked from the sweep's own-words placements only: the old filing (english/books/libya.md) carries word-for-word textbook passages throughout all grades (sweep flag 1 — confirmed extent: the whole filing, 1,347,167 bytes / 11,997 lines, 300+ "in full"/"kept" markers, admitted by its own 2026-10-26 banner); its scrub into summaries is the user's call and this merge used none of it. Flag 2 is FIXED in the course: the-present-perfect, the-present-perfect-continuous and the-passive cited Libya's secondary books one grade low — the "Grade 9" rows for the present perfect system, the "Travel Experiences" present-perfect-continuous box (p.40) and its Grammar Reference (pp.96–105), and the five-tense passive table (p.82) are all the Grade 10 (Secondary 1) book's, and one present-perfect-continuous row's "reference p.100" is the Grade 11-1 (Literary) book's; rows and book entries are corrected (the same shift was corrected for conditionals on 2026-11-04). Flag 3: the three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 (whole-text diff; the G4 Teacher's Book's PDF metadata still reads "LBY Primary G3 BOOK.indb"; production marks LBY0034_G4) — counted once at Grade 3, cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Flag 4: six Libya points the course already stocks were not itemised by the fresh read (the G7 scanning tip in ways-to-read; the G8 adverbs-of-manner box; the G8 present-perfect-continuous box; the G8 drawing-conclusions tip; the word-kind definition boxes in nouns, verbs, adjectives and pronouns; the G5 Workbook kitchen collocations and the G10 directions lesson) — recorded so they are not re-stocked; they stand as filed. Flag 5: the sweep spot-checked the standing-banner Libya rows in the greetings set, the alphabet, two-letter sounds, the quantifiers shop set, conditionals, plans-in-the-past and the Grade 11 readers — they agree with the books; verification notes stand in plans-in-the-past, conditionals and connectors-and-clauses (the last file's own rows were not in the spot-checked set, so its banner stands). Flag 6: "have got" (Grade 7, Unit 2) has no lesson of its own; it is stocked inside mine-and-yours as part of the possession system, as the placements target it. the-big-reading: Libya's standing there is unchanged — its complete-text place rests on the two Grade 11-1 bound-in graded readers (Robinson Crusoe, printed pp.150–177; Treasure Island, printed pp.178–216) already stocked; the 11 rows this merge adds are short stories, fables and reading sets, none a complete book-length text. Read depth is the sweep's declared one: scan-only books at lesser depth where declared (G2 via Book Map + unit pages; G5/G6 Activity Books by samples; G7 via its syllabus grid; G8/G9 via unit dividers + samples; G10–G12 from the work folder's 2026-10-25 page-by-page read notes, re-summarised in the placements and spot-verified against the books' own contents and grammar indexes). Teacher's Books are teacher evidence only (0 learner items counted from them); mirror workbook/activity exercises are not counted. Book errors carried: the Grade 10 Course Book's Key Words slips ("vaccination" tagged as a verb; "once" as a noun; "monitor (v)" glossed as a computer screen) — noted in words-you-dont-know, taught corrected; the Grade 10 Work Book's printed folio 12 is absent from its file (no workbook rows were stocked, so no citation rests on it); the Grade 10 Course Book's U8 L1 mis-set speech mark and its U3 L7 print/audio wording drift ride on points already in course (giving-directions) and are recorded here only. Slug routings against the sweep documents: the Grade 1 toy words, which the placements left unsettled (sports / the-town), are stocked in word/toys-and-games, the toys lesson built after the sweep; the Grade 2 likes/dislikes point follows the diff to food-and-fruit; the Grade 3 animal-description riddles follow the diff to animals; the Grade 12-1 passive-with-causative-form point follows the diff to the-passive-in-every-tense only. **Libya: 38 of 38 books re-read.** The English course now stands at **264 lessons across 44 units**.
+
+**Stocked by Uzbekistan (2026-11-11, the re-verification sweep merge):** the
+2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files
+and rebuilt its placements from the books: **275 items fresh from the books —
+119 already in the course, 156 missing**. The 5 verified books were all re-grabbed
+and proved by byte size, page count and rendered page (every contents page, every
+grammar/reference section and lesson pages across every unit read from rendered
+pages; all five books are image-only scans): *Fly High ENGLISH 5* (Grade 5 student's
+book, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; 67,246,853 B, 200 PDF pp;
+near-complete — printed p.95 missing, its Unit 10 Lesson 5 homework surviving on
+p.100); Starkov/Dixon/Rybakov *ENGLISH* (Grade 5, Astrel', Moscow 2001, ISBN
+5-17-008380-7 / 5-271-00836-3; 53,974,559 B, 242 PDF pp; complete); *Fly High
+ENGLISH 6* (Grade 6 Classbook & Workbook combined, O'qituvchi, Tashkent 2007, ISBN
+978-9943-02-094-8; 78,244,155 B, 193 PDF pp; near-complete — printed p.9 missing,
+its Unit 1 Lesson 4 workbook practice surviving on p.97); *English Matters*
+Student's Book 8 (Macmillan Education, first published 2002, ISBN
+978-1-4050-1254-6; 53,354,052 B, 160 PDF pp; near-complete — printed p.64 missing,
+the opening of Unit 6 Lessons 3–4); *English Matters* Student's Book 9 (Macmillan
+Education, first published 2003, ISBN 978-1-4050-1255-3; 55,107,130 B, 154 PDF pp;
+complete on sampled folios). **Reconciliation: 275 fresh = 119 already in course +
+130 stocked (below, as ~140 provenance rows across 69 lessons, ten placements
+dual-homed where the placements name two targets) + 26 Starkov items NOT stocked
+(flag 1).** The 130 stocked, by book: Fly High 5 — 22 items in 14 lessons (classroom
+things, transport, colours, school subjects, gerunds, TV in media-and-journalism,
+the weather set in weather-and-seasons, festivals, inviting, numbers, vowel sounds,
+the school-building description dual-homed in describing-people, weather adjectives
+in word-building, and two short readings in the-big-reading as a distinction country
+only). Fly High 6 — 39 items in 21 lessons (jobs, houses, appliances, fruit and
+a lot of dual-homed in food-and-fruit and quantifiers, shopping, health and animals
+dual-homed from one health point, birthdays, the past narrative dual-homed in
+past-actions and the-big-reading, cooking-words with can-for-ability dual-homed,
+offers, countries and nationalities, nature and the environment, imperatives,
+weddings in the-big-reading, and the new eating-out lesson). English Matters 8 —
+39 items in 25 lessons (hobbies, space and disasters, inventions and legends,
+biographies, advice and rules, proverbs, TV and film, newspapers, environment,
+weather in Britain, festivals, registers, and the new art-words lesson). English
+Matters 9 — 30 items in 24 lessons (likes dual-homed in gerunds and joining,
+memory word families, family, the state, the radio school, the causative dual-homed
+in the-causative and working-words, advertisements dual-homed in past-actions and
+advertisements-and-posters, bazaars, dictionary work, jobs adjectives dual-homed in
+jobs and adjectives, the phonetic alphabet, suggestions, hypothetical structures,
+British and American English, modals, and the CV project in cv-and-cover-letter).
+**2 NEW LESSONS BUILT (Unit 7):** art-words (English Matters 8's Art Matters unit —
+the art categories, p.38, and museums and places of interest, p.46) and eating-out
+(Fly High 6's restaurants and cafés, p.56). **5 sweep "NEW LESSON NEEDED" topics
+routed into lessons built after the sweep instead of duplicated:** weather words →
+weather-and-seasons; festivals and holidays → festivals-and-cultural-events; TV and
+media words → media-and-journalism; film words → films-and-movie-genres; government
+and politics words → government-and-politics-words. A sixth, impersonal it, has no
+stocked item at all (its only placement is Starkov p.197, inside the excluded book;
+sentence/dummy-subject-it already exists and gains nothing). **Excluded by the
+sweep and never counted as items:** the Fly High Learning review units; wordlists
+as lists (dictionary-use exercises ARE stocked, in using-the-dictionary); Starkov's
+revision units, its English–Russian Dictionary (pp.232–239) and Memos 2–7 (Memo 1
+handwriting and Memo 8 dictionary use ARE inside the 26); the Fly High 6 bound-in
+Workbook as pure mirror (except the p.97 survival); the Flags page; Geographical
+names; the Phonetic Spelling chart; the English Matters Reviews, Tests,
+Tapescripts, Wordlists, Irregular-Verbs lists and Phonetics charts. **The 4 sweep
+flags, dispositioned:** **Flag 1 — the Starkov claim is PARTLY WRONG on the sweep's
+own page evidence, corrected course-side.** The filing's sentence "the Russian
+Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is
+cited nowhere" stood in 36 lesson sources files; the placement record disproves
+the framing: the book's title page (PDF p.2) reads "Textbook for the 5th class of
+the secondary school" — it IS a genuine class-5 textbook, Moscow-published and
+Russian-medium, held and read from Uzbekistan's English record. The false clause
+was replaced in all 36 lesson files with a dated correction (2026-11-11); the
+book's 26 items stand unstocked under the standing exclusion ruling, reported
+missing here so the ruling can be revisited. The same clause also stands in the
+record-side files english/books/uzbekistan.md, english/books/README.md and
+english/READING-QUEUE.md — reported, not edited (merges never edit filings); the
+library-side Grade 5 slot record correction is still owed there. **Flag 2 —
+evidence recorded, the bar stands:** sentence/relative-clauses' acceptance prose
+described Uzbekistan's English Matters 8 evidence as "one gap-fill exercise with
+no rule"; the fresh read shows Unit 3 Lessons 5–6 "Inventions" (printed pp.30–31)
+— invention stories and an Edison biography completed with
+who/whose/where/which/when under a contents line naming the focus "relative
+pronouns". The fuller evidence is recorded in a dated evidence section in that
+lesson with a note on the acceptance passage; Uzbekistan remains NOT counted
+there. **Flag 3 — confirmed, no edit:** English Matters 8 Unit 9's contents word
+"conjunctions" names no conjunction ("conjunctions: Present simple for events");
+the festivals teaching on printed p.98 is stocked in festivals-and-cultural-events
+and the conjunctions half is stocked nowhere. **Flag 4 — fixed:** English Matters
+9's "Writing a CV" project (Unit 9, printed p.107), held as unkeyed stock in
+essay/opening-and-closing since 2026-11-04, is stocked in essay/cv-and-cover-letter,
+and the held note there carries a dated supersession. **Book errors carried,
+taught corrected:** Fly High 5's Wordlist prints "compitition" [sic] (p.181);
+Fly High 6's contents overstates every back-matter start page by 1 after its gap
+(the Wordlist actually runs pp.170–190, home reading ends p.141) and gives Unit 4
+Lesson 1 at p.25 (the lesson stands on folio 24); Fly High 6's Grammar text
+(p.145) cross-refers to the Irregular Verb List "at page 167" — the list stands
+at printed p.166; English Matters 8's "Disaster!" question (pp.20–21) prints
+"Kasantsev" [sic]; English Matters 9's Grammar Section (p.145) prints the
+third-conditional formula as "if + past perfect + would/wouldn't + present
+perfect", mislabelling would + have + past participle (noted in more-conditionals,
+whose own Unit 6 examples give the true form); Starkov p.128 prints "hap" for
+"hat" (inside the excluded book — recorded here only). **Read-depth honesty:**
+the fresh read is a rendered-page read of image-only scans — contents, grammar
+and reference sections whole, lesson pages sampled across every unit; the Starkov
+book was read at unit granularity and its 26 items are a floor, not a ceiling.
+Uzbekistan's 5 link-only books (Grades 3, 7, 10, 11) are cited nowhere and stay
+wants. **Uzbekistan: 5 of 5 books re-read.** The English course now stands at
+**266 lessons across 44 units**.

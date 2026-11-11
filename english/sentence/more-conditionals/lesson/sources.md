@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** *English 11* — Armenia, COAF. Filed in
@@ -93,9 +93,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 17 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 18 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya).** Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -168,3 +168,15 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | “How things could have been different” — third-conditional territory | Libya, Grade 12-1 (Literary) Course Book, Grammar 1 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Book error carried, taught corrected: English Matters 9's Grammar Section (printed p.145) prints the third-conditional formula as “if + past perfect + would/wouldn't + present perfect”, mislabelling would + have + past participle as “present perfect”; the book's own Unit 6 examples give the true form. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Structures for hypothetical situations — “Gestures” | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 8, printed p.94 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.

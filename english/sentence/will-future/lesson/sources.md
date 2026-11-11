@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan, Libya
+countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | WILL — predictions and moment-of-speaking decisions, won't, questions with short answers, future time expressions, and a Pachamama-predictions reading | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 10–12 |
 | WILL in full — the paradigm and future time expressions (the very paradigm the old filing left unread in its garbled extraction; the sweep's fresh visual read confirms it here, student folio 190) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 70 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Kazakhstan, Jordan, Libya).** Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found will taught in two full treatments with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One filing honesty item is carried exactly: the old filing's read of the compendium was a read of a garbled extraction, with the Year 4 WILL paradigm (§§1.2–1.3) admittedly unread; the sweep read the book visually and confirms the paradigm is present at the page cited. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -64,3 +64,17 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | will for spontaneous decisions and offers of help | Libya, Grade 7 Course Book, Unit 8 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Uzbekistan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the files: 5 student's books verified in hand — *Fly High ENGLISH 5* (Grade 5), *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Books 8 and 9, plus a second Grade 5 book, Starkov/Dixon/Rybakov *ENGLISH* (Astrel', Moscow 2001). The sweep placed 275 teaching items fresh from the books: 119 were already in the course and 156 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md). All five books are image-only scans; the fresh read rests on rendered-page reads of every contents page, every grammar and reference section, and lesson pages across every unit. The scans' completeness is the sweep's own: Fly High 5 lacks only printed p.95, Fly High 6 only printed p.9, English Matters 8 only printed p.64; English Matters 9 and the Starkov book are complete. No teacher's book exists in Uzbekistan's English record and none is cited; the bound-in Fly High 6 Workbook's mirror practice is not counted; the 5 link-only books (Grades 3, 7, 10 and 11) are cited nowhere. The Starkov book is a genuine textbook for the 5th class — Russian-published and Russian-medium, with no Uzbek content; its 26 items stand unstocked under a standing exclusion ruling (sweep flag 1), so nothing below rests on it. Uzbekistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| will for future predictions — “Space travel” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 2, printed p.18 |
+| The language of prediction — “Future news!” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 5, printed p.56 |
+| will for prediction — “Future planet!” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 8, printed p.92 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
