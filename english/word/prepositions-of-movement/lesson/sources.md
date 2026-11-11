@@ -1,6 +1,6 @@
 # Sources — Prepositions of Movement
 
-countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Haiti, Singapore, Moldova
+countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Haiti, Singapore, Moldova, Costa Rica
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions of movement and place — around, into, out of, through | Albania, Akelius A2 Guide, Chapter 38 "Nature," grammar focus, printed p.48 (PDF 51) |
 | The movement words at work in the chapter's own example: "walking through the forest" | Albania, Chapter 38, printed p.48 (PDF 51) |
 
-**Acceptance count: taught in 9 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Moldova, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -196,3 +196,17 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of movement (along, across, into, on the corner…) | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed p.153 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

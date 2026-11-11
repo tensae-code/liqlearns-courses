@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan, Colombia, Guyana
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan, Colombia, Guyana, Costa Rica
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -94,7 +94,7 @@ verification sweep.
 | Word Families, Rhyming Endings And Common Digraphs — Use common rhyming/ending words to decode words. | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.3.1, PDF p.43 (curriculum evidence) |
 | Word Families: Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words. e.g. – | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.3.1, PDF p.117 (curriculum evidence) |
 | Word Families, Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.3.1, PDF p.193 (curriculum evidence) |
-**Acceptance count: taught in 22 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji, Eritrea, Uruguay, Bhutan, Colombia, Guyana).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 23 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji, Eritrea, Uruguay, Bhutan, Colombia, Guyana, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -734,3 +734,20 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+**Book 2:** *Nuevo material de Inglés, Nivel Octavo* (student's book) — Costa Rica, CONED/UNED, 2018. 190 pp.; read copy 10,526,228 B, MD5 0c2e7a08a323c6e86762840e11516591 (the replacement asset — see the secured-copy note above). Printed folio = PDF page. No book errors were recorded for this book in the read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Short vowel sounds in word families (-at, -en, -ad) | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.83–84 |
+| Final-e word families (-ake, -ute, -ime) listening classification | Costa Rica — *Nuevo material de Inglés, Nivel Octavo* (CONED/UNED, Grade 8 student's book), printed pp.131–132 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

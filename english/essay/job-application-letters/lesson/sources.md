@@ -1,6 +1,6 @@
 # Sources — Job application letters
 
-countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Haiti, Nigeria, Colombia
+countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Haiti, Nigeria, Colombia, Costa Rica
 
 Every part traces to its book and page.
 
@@ -56,8 +56,8 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole Office Clerks key: answers and notes for the student coursebook's sub-lessons — mirror apparatus for the Office Clerks coursebook (teacher evidence) | Greece, English for Office Clerks KEY / Teacher's Book (teacher evidence), PDF pp.1–134 |
 | Hotel Unit 22 “Applying for a job” — job-application language for hotel work | Greece, English for the Hotel and Tourist Trade, Unit 22, Section D |
 
-**Acceptance count: taught in 21 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
-South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
+**Acceptance count: taught in 22 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
+South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Colombia, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
 prints the advert–CV–covering-letter chain whole;
 Cambodia coaches the covering letter paragraph by
 paragraph; Uzbekistan names the kind as its own lessons;
@@ -279,3 +279,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Material de transición inglés, 10th Grade* (student's book) — Costa Rica, CONED/UNED, 2020. 279 pp.; read copy 15,100,061 B, MD5 f57118608d8dd79910742673fd51838f (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried: the contents prints “INTEVIEWING” (for Interviewing) and the theme title “I Am No My Hair” (for I Am Not My Hair); the Chapter 2 opener prints the theme as “The Review Are in” against the contents page's “The Reviews Are”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading a job advertisement: finding the position, requirements, education, skills and how to apply (the ad itself sits on a picture page whose text the text layer does not carry; placed from the book's own exercise, as the placements declare) | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.9 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

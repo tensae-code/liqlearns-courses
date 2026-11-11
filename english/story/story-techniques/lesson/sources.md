@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Canada, Andorra, Dominican Republic
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Canada, Andorra, Dominican Republic, Costa Rica
 
 Every part traces to its book and page.
 
@@ -91,7 +91,7 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 21 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Liechtenstein, Dominican Republic).** Liechtenstein joins with the shape-character story writing of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 22 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Liechtenstein, Dominican Republic, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Liechtenstein joins with the shape-character story writing of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -725,3 +725,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Material de transición inglés, 10th Grade* (student's book) — Costa Rica, CONED/UNED, 2020. 279 pp.; read copy 15,100,061 B, MD5 f57118608d8dd79910742673fd51838f (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried: the contents prints “INTEVIEWING” (for Interviewing) and the theme title “I Am No My Hair” (for I Am Not My Hair); the Chapter 2 opener prints the theme as “The Review Are in” against the contents page's “The Reviews Are”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The five essential elements of a story: characters, setting, plot, conflict, resolution | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.76 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

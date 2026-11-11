@@ -131,6 +131,9 @@ its own subtitle folder with its own lesson + questions):
   **Unit 5, Conversation**) ·
   making-appointments · making-reservations (added 2026-11-11
   by the El Salvador expansion merge — **Unit 5, Conversation**) ·
+  interrupting-politely · interview-role-play (added
+  2026-11-11 by the Costa Rica expansion merge — **Unit 5,
+  Conversation**) ·
   at-the-doctors · making-complaints-and-claims (added
   2026-11-11 by the Dominican Republic expansion merge —
   **Unit 5, Conversation**) ·
@@ -258,6 +261,12 @@ its own subtitle folder with its own lesson + questions):
   helping-and-working-together (added 2026-11-11 by the
   Papua New Guinea expansion merge — **Unit 7, Words for
   the World**) ·
+  cultures-and-traditions · social-media ·
+  success-and-achievement · birthday-customs-around-the-world ·
+  education-systems · fame-and-celebrity-words ·
+  happiness-and-wellbeing · school-social-groups-and-cliques ·
+  science-and-inventions (added 2026-11-11 by the Costa Rica
+  expansion merge — **Unit 7, Words for the World**) ·
   housework-and-chores · events-and-announcements ·
   mishaps-and-accidents · beach-and-seaside-words ·
   types-of-resources · endangered-animals-and-conservation ·
@@ -496,6 +505,8 @@ Reading Like a Detective**) · exam-technique · translating-well ·
 other-ways-to-communicate · making-decisions ·
 problem-solving-strategies-and-games (added 2026-11-11 by the
 Uruguay expansion merge — **Unit 42, Reading Like a
+Detective**) · thinking-skills (added 2026-11-11 by the
+Costa Rica expansion merge — **Unit 42, Reading Like a
 Detective**) · Word → phrasal-verbs ·
 idioms-and-collocations · literary-words ·
 british-and-american-english · choosing-your-register ·

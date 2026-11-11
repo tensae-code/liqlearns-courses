@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Papua New Guinea, Singapore, Andorra, El Salvador, Zambia, Bhutan, Moldova, Dominican Republic, Colombia, Guyana
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Papua New Guinea, Singapore, Andorra, El Salvador, Zambia, Bhutan, Moldova, Dominican Republic, Colombia, Guyana, Costa Rica
 
 Every part traces to its book and page.
 
@@ -223,8 +223,8 @@ colophon; cited once.
 | Sequence adverbs — First / Then / Next / After that / Finally — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 | Sequence words for past events — First / then / next / after that / finally | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3A, printed pp.77–78 |
 
-**Acceptance count: taught in 43 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Bhutan, Moldova, Dominican Republic, Colombia, Guyana).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
+**Acceptance count: taught in 44 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Bhutan, Moldova, Dominican Republic, Colombia, Guyana, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -777,3 +777,19 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Octavo* (student's book) — Costa Rica, CONED/UNED, 2018. 190 pp.; read copy 10,526,228 B, MD5 0c2e7a08a323c6e86762840e11516591 (the replacement asset — see the secured-copy note above). Printed folio = PDF page. No book errors were recorded for this book in the read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs of sequence: first, next, then, after that, finally | Costa Rica — *Nuevo material de Inglés, Nivel Octavo* (CONED/UNED, Grade 8 student's book), printed pp.28–29 |
+| Explaining a sport's rules in order with sequence adverbs | Costa Rica — *Nuevo material de Inglés, Nivel Octavo* (CONED/UNED, Grade 8 student's book), printed pp.59–60 |
+| Past-narration linkers: first, then, after that, finally in a celebration recount | Costa Rica — *Nuevo material de Inglés, Nivel Octavo* (CONED/UNED, Grade 8 student's book), printed pp.88–89 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

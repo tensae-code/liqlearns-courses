@@ -1,6 +1,6 @@
 # Sources — Films and Movie Genres
 
-countries: Venezuela, Uzbekistan
+countries: Venezuela, Uzbekistan, Costa Rica
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | Types of films — comedy, drama, horror, action, science fiction and cartoons, with saying which genres you like | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 3, student printed pp.24–31 (guide plan printed p.22) |
 
-**Acceptance count: taught in 2 countries (Venezuela, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (Venezuela, Uzbekistan, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Venezuela's English books: the sweep re-read the Grade 9 Teacher's Book page by page and found its film-types lesson stocked nowhere in the course. Venezuela's held set is five Teacher's Books only and no student's book is held, so this lesson stands on teacher's-book evidence. Other countries join as their books are read.
 
@@ -27,3 +27,21 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Film descriptions and film genres — “Movie mania!” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 7, printed p.78 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Noveno* (student's book) — Costa Rica, CONED/UNED, 2018 (Danny Araya Yannarella). 259 pp.; read copy 11,919,102 B, MD5 b21a9eb179e544c8f2ed129e42c533f4 (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried, taught corrected where a row rests on them: Unit 5's title is printed “UNEXPENCTED SITUATIONS”; the cinema vocabulary header reads “CINEMA AND ENTERTAIMENT VOCABULARY”; the present-perfect grammar box (printed p.86) prints the present-perfect-continuous formula as the plain present-perfect affirmative; one answer option in the wedding-reading exercise reads “thirteen hour and a half”.
+
+**Book 2:** *Material de transición inglés, 10th Grade* (student's book) — Costa Rica, CONED/UNED, 2020. 279 pp.; read copy 15,100,061 B, MD5 f57118608d8dd79910742673fd51838f (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried: the contents prints “INTEVIEWING” (for Interviewing) and the theme title “I Am No My Hair” (for I Am Not My Hair); the Chapter 2 opener prints the theme as “The Review Are in” against the contents page's “The Reviews Are”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cinema and entertainment vocabulary I–II, Spanish→English: attendant, cast, chorus, footlights, matinee, première, prime time, screen, shooting, spotlight, trailer (the book's own header prints “CINEMA AND ENTERTAIMENT VOCABULARY” — taught corrected) | Costa Rica — *Nuevo material de Inglés, Nivel Noveno* (CONED/UNED, Grade 9 student's book), printed p.84 |
+| Documentary and film vocabulary: box office, narrator, screenplay, screenwriter, supporting cast, voice-overs | Costa Rica — *Nuevo material de Inglés, Nivel Noveno* (CONED/UNED, Grade 9 student's book), printed p.93 |
+| Talking about movies: discussion questions on genres, favourite films and characters | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.57 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

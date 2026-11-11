@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic, Costa Rica
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -91,7 +91,7 @@ nineteen," Grade 2; the Grade 3 third-person pair) and the
 Iran row (the age question widened to the whole family). No
 existing row changed.
 
-**Acceptance count: taught in 38 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Liechtenstein, Moldova, Dominican Republic) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Liechtenstein joins with the age line of its Grade 1 booklet's introduce-yourself page (stocked 2026-11-11 by the Liechtenstein expansion merge).
+**Acceptance count: taught in 39 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Liechtenstein, Moldova, Dominican Republic, Costa Rica) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Liechtenstein joins with the age line of its Grade 1 booklet's introduce-yourself page (stocked 2026-11-11 by the Liechtenstein expansion merge).
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -183,7 +183,7 @@ old! I am in Primary 3." — and the Introducing Yourself list carries
 the frame "I am …. years old." (p.6); the fill-in dialog asks it
 again (p.8). Egypt's form is the FULL form, "years old" said whole —
 beside Libya's short classroom exchange. This changes the count:
-**taught in 2 countries (Egypt, Libya, Cyprus).** Cyprus joins with Year 3's 'How old are you? How old is he/she?' (stocked 2026-11-11 by the Cyprus expansion merge).
+**taught in 2 countries (Egypt, Libya, Cyprus).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Cyprus joins with Year 3's 'How old are you? How old is he/she?' (stocked 2026-11-11 by the Cyprus expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -719,3 +719,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Age questions and answers, inside the personal-information set | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.21–24 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

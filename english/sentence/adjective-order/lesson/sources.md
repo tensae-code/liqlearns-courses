@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Haiti, Nigeria, Colombia
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Haiti, Nigeria, Colombia, Costa Rica
 Every part traces to its book and page.
 
 **Book 1:** English, Year 6 (Grade 12) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -45,7 +45,7 @@ verification sweep.
 | Adjective order — opinion, size, shape, age, colour, nationality, material | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B, printed p.94 (PDF p.100) |
 | Degrees and order of adjectives, with the adjective phrase, in the Try Again unit | Pakistan, *English X*, Unit 3 (contents) |
 
-**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with adjective order (Grade 11-1) and the completed adjective order (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's adjective order in food descriptions (stocked 2026-11-11 by the re-verification sweep merge). India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Colombia, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with adjective order (Grade 11-1) and the completed adjective order (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's adjective order in food descriptions (stocked 2026-11-11 by the re-verification sweep merge). India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.
 
@@ -221,3 +221,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjective order for describing clothes: size → colour → pattern → material → item | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.106–107 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

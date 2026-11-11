@@ -1,6 +1,6 @@
 # Sources — Have To for Obligation
 
-countries: Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Sri Lanka, Haiti, Zambia, Moldova, Colombia
+countries: Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Sri Lanka, Haiti, Zambia, Moldova, Colombia, Costa Rica
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 9 (Secundaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | have to / don't have to for jobs, rules with must / mustn't, and had to / didn't have to — the older course's obligation teaching (Module 5 "World of work", Units 9–10), held only in its Teacher's Book | Syria, *English for Syria*, Intermediate, Teacher's Book (York Press), Module 5, printed pp.63–76 — teacher's-book evidence; the matching student's book is not in hand |
 | must / mustn't for rules, at a nature reserve (Unit 13) | Syria, *English for Starters 5*, Pupil's Book (York Press), Unit 13, printed p.39 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Moldova, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 6's obligation with have to (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with need for materials — “You need a ruler. What do I need for maths?” (Grade 5; stocked here as its closest obligation home) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 6 must, have to and need to (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Moldova, Colombia, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 6's obligation with have to (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with need for materials — “You need a ruler. What do I need for maths?” (Grade 5; stocked here as its closest obligation home) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 6 must, have to and need to (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -235,3 +235,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Octavo* (student's book) — Costa Rica, CONED/UNED, 2018. 190 pp.; read copy 10,526,228 B, MD5 0c2e7a08a323c6e86762840e11516591 (the replacement asset — see the secured-copy note above). Printed folio = PDF page. No book errors were recorded for this book in the read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Have to for obligation, inside the shopping-tips work | Costa Rica — *Nuevo material de Inglés, Nivel Octavo* (CONED/UNED, Grade 8 student's book), printed pp.113–116 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

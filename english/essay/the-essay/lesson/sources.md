@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Canada, Andorra, El Salvador, Zambia, Moldova, Colombia, Iceland
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Canada, Andorra, El Salvador, Zambia, Moldova, Colombia, Iceland, Costa Rica
 
 Every part traces to its book and page.
 
@@ -287,7 +287,7 @@ verification sweep.
 | Writing an argumentative essay, "Why is breakfast important?" | Mongolia, English XII, Unit 8, printed p.152 |
 | A whole chapter on essay writing, with specimen essays | Pakistan, *English Grammar & Composition 9–10*, Chapter VI, printed p.46 |
 
-**Acceptance count: taught in 32 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Fiji, Eritrea, Samoa, Moldova, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 33 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Fiji, Eritrea, Samoa, Moldova, Colombia, Iceland, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -879,3 +879,18 @@ The 2026-11-10 expansion read read Iceland's in-hand English set from the secure
 Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Material de transición inglés, 10th Grade* (student's book) — Costa Rica, CONED/UNED, 2020. 279 pp.; read copy 15,100,061 B, MD5 f57118608d8dd79910742673fd51838f (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried: the contents prints “INTEVIEWING” (for Interviewing) and the theme title “I Am No My Hair” (for I Am Not My Hair); the Chapter 2 opener prints the theme as “The Review Are in” against the contents page's “The Reviews Are”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Parts of an essay: introduction, body, conclusion — the sandwich model | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.75 |
+| Writing an opinion essay: topic sentences, linking words, a 100–150 word task | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.113 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

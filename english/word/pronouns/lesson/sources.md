@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Moldova, Dominican Republic
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Moldova, Dominican Republic, Costa Rica
 
 Every part traces to its book and page.
 
@@ -343,8 +343,8 @@ verification sweep.
 | Pronouns introduced by name and job: sometimes we replace the names of people with another word instead of repeating the name | India — Marigold Book Two (Class 2), Unit 9 word work, printed pp.141–159 |
 | The PRONOUN TABLE printed in full (I, me / we, us; you; he, him, she, her / they, them; it for places and things) | India — Marigold Book Five (Class 5), Unit 10 language work |
 | Reference words: what "This" refers to in sentences from the story | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
-**Acceptance count: taught in 47 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 48 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Moldova, Dominican Republic, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -917,3 +917,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Personal pronouns and the verb be (am/is/are) in statements | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.9–11 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

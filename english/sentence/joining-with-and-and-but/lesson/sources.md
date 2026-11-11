@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra, Zambia, Moldova, Dominican Republic, Colombia
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra, Zambia, Moldova, Dominican Republic, Colombia, Costa Rica
 
 Every part traces to its book and page.
 
@@ -214,7 +214,7 @@ the 2026-11-08 re-verification sweep.
 | Demonstrate command and use of compound sentences in speech and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.3, PDF p.52 (curriculum evidence) |
 
 
-**Acceptance count: taught in 39 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea, Tunisia, Samoa, Suriname, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 40 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea, Tunisia, Samoa, Suriname, Moldova, Dominican Republic, Colombia, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -660,3 +660,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Connectors and, but, because (addition, contrast, reason) | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.51–52 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Sri Lanka, Haiti, Zimbabwe, Dominican Republic
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Sri Lanka, Haiti, Zimbabwe, Dominican Republic, Costa Rica
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -95,7 +95,7 @@ how-old-are-you), not here.
 | Introducing others as a printed outcome — the plans file introducing people among the lesson outcomes, with the *How do you do? / This is …* frames inside the greetings lessons | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lessons 1–2, guide printed pp.4–15 |
 | Introducing other people: let me introduce you to…, I'd like you to meet…, pleased/glad to meet you | Mauritania, Study English, Grade 7, printed pp.20–22 |
 | The register of introductions — informal "this is…" against formal "I'd like to introduce…", answered "How do you do?" | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed pp.14–15 |
-**Acceptance count: taught in 35 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Dominican Republic).** Cyprus joins with its introducing frames — 'This is…' for a friend and for your mother (stocked 2026-11-11 by the Cyprus expansion merge).
+**Acceptance count: taught in 36 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Dominican Republic, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Cyprus joins with its introducing frames — 'This is…' for a friend and for your mother (stocked 2026-11-11 by the Cyprus expansion merge).
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -718,3 +718,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduction expressions (What's your name? This is…, Nice to meet you, I'm from…) | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.6–7 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

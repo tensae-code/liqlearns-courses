@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa, Uganda, Nigeria, Papua New Guinea, Zimbabwe, Bhutan
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa, Uganda, Nigeria, Papua New Guinea, Zimbabwe, Bhutan, Costa Rica
 
 Every part traces to its book and page.
 
@@ -31,7 +31,7 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 16 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa, Uganda).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 17 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa, Uganda, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
 
@@ -278,3 +278,17 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Material de transición inglés, 10th Grade* (student's book) — Costa Rica, CONED/UNED, 2020. 279 pp.; read copy 15,100,061 B, MD5 f57118608d8dd79910742673fd51838f (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried: the contents prints “INTEVIEWING” (for Interviewing) and the theme title “I Am No My Hair” (for I Am Not My Hair); the Chapter 2 opener prints the theme as “The Review Are in” against the contents page's “The Reviews Are”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “Pass or Fail?”: school and exam vocabulary with sentence unscrambling (seminars, tutors, passing maths exams) | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.225 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

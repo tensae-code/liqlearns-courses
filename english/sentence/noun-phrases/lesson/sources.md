@@ -1,6 +1,6 @@
 # Sources — Noun Phrases
 
-countries: Indonesia, Nepal, Fiji, Eritrea, Uganda, Nigeria
+countries: Indonesia, Nepal, Fiji, Eritrea, Uganda, Nigeria, Costa Rica
 
 Every part traces to its book and page.
 
@@ -16,7 +16,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — noun phrases named and built | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.62 |
 | Sub lesson 4 — adjective phrases | Indonesia, English for Change Grade 11, Unit 2, printed p.47 |
 
-**Acceptance count: taught in 5 countries (Indonesia, Nepal, Fiji, Eritrea, Uganda).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the noun group taught in three of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its Grade 9 possessive-adjective sentence ("They have got long tails and horns") is stocked in Mine and Yours for the possessives it carries; the group it stands in is taught here. Other countries' noun-phrase teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 6 countries (Indonesia, Nepal, Fiji, Eritrea, Uganda, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the noun group taught in three of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its Grade 9 possessive-adjective sentence ("They have got long tails and horns") is stocked in Mine and Yours for the possessives it carries; the group it stands in is taught here. Other countries' noun-phrase teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 
 ## Nepal added 2026-11-11 (re-verification sweep merge)
@@ -105,3 +105,17 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Material de transición inglés, 10th Grade* (student's book) — Costa Rica, CONED/UNED, 2020. 279 pp.; read copy 15,100,061 B, MD5 f57118608d8dd79910742673fd51838f (the replacement asset — see the secured-copy note above). Pages cited are the printed folios. Book errors carried: the contents prints “INTEVIEWING” (for Interviewing) and the theme title “I Am No My Hair” (for I Am Not My Hair); the Chapter 2 opener prints the theme as “The Review Are in” against the contents page's “The Reviews Are”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Noun phrases: what a noun phrase is and its functions (subject, direct object…) | Costa Rica — *Material de transición inglés, 10th Grade* (CONED/UNED, Grade 10 student's book), printed p.222 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.

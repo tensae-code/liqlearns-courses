@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan, Moldova, Guyana
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan, Moldova, Guyana, Costa Rica
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -146,7 +146,7 @@ verification sweep.
 | The short-a sound, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Alphabet sounds — the sounds the letters make | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 
-**Acceptance count: taught in 25 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Bhutan, Moldova, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 26 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Bhutan, Moldova, Guyana, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -840,3 +840,17 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Costa Rica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDFs — **5 student books, 0 teacher books**: the CONED (Colegio Nacional de Educación a Distancia, Universidad Estatal a Distancia — UNED) English anthologies for Grades 7–11 (2017, 2018, 2018, 2020, 2021) — **398 teaching items placed, 0 already in the course**. Every read book is a student's book, so **Costa Rica is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: full page-by-page reads of all five books through their own text layers (no OCR needed); a small number of reading texts sit on picture pages whose text the text layer does not carry (Grade 9 pp.81, 169, 183, 203; Grade 10 pp.9, 20, 199–201) — those items are placed from the books' own surviving exercises and questions, which identify their content, and are marked as such in their rows. Secured-copy note, carried exactly as the placements record it: the byte sizes in the staging records and textbooks.tsv are stale — the secured release assets were replaced live during the pass by same-name re-uploads, and the books were read from the replacement set, the same editions (page counts match the records exactly: 174 / 190 / 259 / 279 / 253; the Grade 7 replacement is MD5-identical to the file CONED itself currently serves). Costa Rica stays PARTIAL for English: five MEP English Teacher's Guides (Grades 1, 2, 7, 8, 9) exist as located links only, are not in hand, were not read and are cited nowhere. The rows below are stocked from the expansion placements (costa-rica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Nuevo material de Inglés, Nivel Séptimo* (student's book) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED), Universidad Estatal a Distancia (UNED), 2017 (coord. Erika Prendas Vargas). 174 pp.; read copy 5,694,252 B, MD5 44b698d83a8d080d096ab0ef51461edd (the replacement asset — see the secured-copy note above). Printed folio = PDF page. Book errors carried: the contents prints “Charpet 4” (for Chapter 4), “Hou much does it cost?” (for How much does it cost?) and “Marvels of Cosra Rica” (for Costa Rica) — contents misprints; no row rests on them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonemes: words split into sound units (cat = 3 phonemes) | Costa Rica — *Nuevo material de Inglés, Nivel Séptimo* (CONED/UNED, Grade 7 student's book), printed pp.34–35 |
+
+Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.
