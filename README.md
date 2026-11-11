@@ -843,3 +843,30 @@ library's closed list:
 Working limits he set for this expansion: about 2 GB of
 downloaded-and-unfinished books at a time, and ten course workers
 on it — five for English, five for Maths.
+
+## Course architecture (ruled 2026-11-11)
+
+He does not want a hundred courses on the website. At most about
+fifty top-level courses, with subjects nested inside them. One
+"Language and Literature" course holds English, Amharic and every
+country's own language as parts inside it; Maths is one course;
+the same pattern holds throughout.
+
+Business, Commerce and Accounting are built as three separate
+courses. A country whose book mixes two or three of them gets its
+book split apart: each part goes into its own course (the business
+part into Business, the accounting part into Accounting, the
+commerce part into Commerce). Learners from mixed-book countries
+are told "your textbook is this one" and get a "How my government
+teaches it" section that follows their own book's way; that
+section is built last, not now.
+
+Civics and citizenship: his lean — separate them. In Ethiopia
+civics is the moral/manners subject, with a few constitution
+items that move into Citizenship; Law and Government go into
+Citizenship too. Muse's recommendation, awaiting his word: one
+course, "Civics and Citizenship" — the civics part (morals,
+manners, living together) is the shared world part, and the
+citizenship part (constitution, government, law, voting) is
+per-country inside "How my government teaches it," so nothing
+is dropped and there are not 200 citizenship courses.
