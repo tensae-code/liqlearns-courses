@@ -134,6 +134,8 @@ about the other person, and close the talk.*
   conversations and role play, discussion and debate, from
   Sierra Leone's plans and handbooks, Primary 1 to SSS 3)
 
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** recommending ✅ (1 lesson — telling someone what they should try, with the reason, fitted to the person, from Kazakhstan's Full Blast Grade 8 Module 8)
+
 ## Unit 6 — Word Kinds
 *End of unit: the learner knows what each kind of word does.*
 - nouns ✅ · verbs ✅ · adjectives ✅ · adverbs ✅ · pronouns ✅
@@ -287,6 +289,8 @@ definition says.*
 tell the time.*
 - numbers ✅ · days-and-months ✅ · telling-the-time ✅
 
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** measurements ✅ (1 lesson — the units we measure with: metre, centimetre, kilometre, kilo, gram, litre, and the How long / How heavy asking-and-answering sentences, from Kazakhstan's Full Blast Grade 8 Module 2)
+
 ## Unit 10 — Building a Sentence
 *End of unit: the learner can build a whole sentence and end it
 properly.*
@@ -345,6 +349,8 @@ words and belonging in their right places.*
   sweep merge):** phrases ✅ (1 lesson — the phrase itself and
   its kinds, the general lesson noun-phrases hangs off, from
   Sierra Leone's SSS 2 handbook)
+
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** time-clauses ✅ (1 lesson — joining two actions with when, while, as and as soon as, including the no-will-after-when rule for the future, from Kazakhstan's Full Blast Grade 8 Modules 3 and 5)
 
 ## Unit 14 — The Paragraph
 *End of unit: the learner can write a paragraph whose sentences
@@ -455,6 +461,8 @@ from a past moment.*
   and measured, from Sierra Leone's SSS 3 handbook — the unit's
   set is now complete)
 
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** the-future-perfect ✅ (1 lesson — will have done: the future perfect simple for things finished by a time point, from Kazakhstan's Full Blast Grade 9 Module 4, printed p.91)
+
 ## Unit 21 — Questions That Check
 *End of unit: the learner can check a statement with a tag and
 ask about the doer or the receiver without breaking the
@@ -561,6 +569,8 @@ advice, and letters to editors and authorities.*
   complaint-letters ✅ · letters-that-ask-and-advise ✅
   (catch-up build 2026-11-07 — 4 lessons, 80 question items)
 
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** asking-for-advice ✅ (1 lesson — the letter that asks for advice and the letter that answers it, from Kazakhstan's Full Blast Grade 8 Module 9 and Grade 6 Module 5)
+
 ## Unit 35 — Writing for a Job
 *End of unit: the learner can build a CV with its cover
 letter, write a personal statement or proposal, and prepare
@@ -583,6 +593,8 @@ write poems to named shapes.*
 - story-techniques ✅ · poetry-writing ✅ (catch-up build
   2026-11-07 — 2 lessons, 40 question items)
 
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** predicting ✅ (1 lesson — reading the clues a story has planted and saying what happens next, with reasons, from Kazakhstan's Full Blast Grade 8 Module 5)
+
 ## Unit 38 — Speeches and Shows
 *End of unit: the learner can write and give a speech, run a
 presentation, and turn a scene into a play script.*
@@ -599,6 +611,8 @@ presentation, and turn a scene into a play script.*
 a text down to notes and to a faithful summary.*
 - essay-kinds ✅ · note-making ✅ · summarising ✅ (catch-up
   build 2026-11-07 — 3 lessons, 60 question items)
+
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** advantages-and-disadvantages ✅ (1 lesson — weighing a thing's good points and bad points into a balanced piece, from Kazakhstan's Full Blast Grade 8 Module 3 and Grade 9 Module 3)
 
 ## Unit 36 — Writing the Facts
 *End of unit: the learner can write a report, a news story,
@@ -676,6 +690,8 @@ ways people communicate.*
 - exam-technique ✅ · translating-well ✅ ·
   other-ways-to-communicate ✅ (catch-up build 2026-11-07 —
   3 lessons, 51 question items)
+
+- **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** texting-and-messaging ✅ (1 lesson — writing a note and a text message that still reads clearly, and reading the chatspeak short forms, from Kazakhstan's Full Blast Grade 6 Module 5)
 
 ## After Unit 18
 The ladder keeps climbing — longer essays and the Story → Novel
@@ -1927,3 +1943,46 @@ disease and population readings, no complete book-length
 text. **Laos: 22 of 22 slots read.** No new lesson was
 built; the English course total is unchanged at **256
 lessons across 44 units**.
+
+**Kazakhstan** — merged 2026-11-11 from the re-verification
+sweep: 34 files = 32 distinct books re-read (two books are
+held twice as the same book/edition and counted once), **990
+fresh items: 808 already in course, 182 missing now
+STOCKED** (206 provenance rows — 24 of the items are
+dual-homed into a second or third target lesson the
+placements name). **8 NEW LESSONS**: the-future-perfect
+(Unit 20), time-clauses (Unit 13),
+advantages-and-disadvantages (Unit 39), asking-for-advice
+(Unit 34), recommending (Unit 5), predicting (Unit 41),
+measurements (Unit 9), texting-and-messaging (Unit 44). Two
+generic "conversation" items were housed in
+dialogue-and-discussion, per the sweep diff's routing.
+Kazakhstan joins the-big-reading as a distinction country
+only (25 → 26) — its stocked readings are module readers and
+extracts; no complete book-length text was re-read in the
+set. Flags: (1) the filing's Smiles Grade 3 tense ceiling is
+disproven by the book's own printed syllabus (past simple
+in Module 6, present continuous in Modules 7–8) — the items
+are stocked against the filing; the filing is reported, not
+edited; (2–3) the held Full Blast Grade 6 copy is
+incomplete and the Grade 9 copy is a gap photo set, so the
+older book entries' "FULLY READ + CITATION CHECK PASSED"
+formula does not hold for them — dated verification notes
+now stand in the 16 lesson files carrying Full Blast G6/G9
+entries, and the four Grade 9 Modules 5–7 claim rows stand
+as the filing's claims, not verified; (4) the Grade 10 book
+is the bespoke «Study Inn» book, NOT the record's "Gateway"
+— no lesson cited Gateway, so nothing course-side needed
+re-attributing; (5) the record's English Plus G7 "2025
+Second Edition" row describes a book not held (the held
+file is the 2017 first edition) — nothing is cited from it;
+(6) workbook records #965/#966 are titled "Grade 7" but are
+the Grade 8 and Grade 9 workbooks — the filing already
+carries the correction and no lesson cites them by the
+wrong grade. The Grade 2 Smiles file is defective exactly
+as the record warned (an Activity Book body inside Pupil's
+Book covers): only the Activity Book's proven items were
+stocked, and the G2 row's disposition stays the owner's
+call. **Kazakhstan: 34 of 34 files re-read.** The English
+course now stands at **264 lessons across 44 units**.
+

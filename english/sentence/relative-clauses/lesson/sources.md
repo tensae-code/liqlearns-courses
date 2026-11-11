@@ -1,7 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia
-
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -192,9 +191,9 @@ re-verification sweep.
 | Relative clauses with where and when | Mongolia, English XII, Unit 4, printed pp.71–72 |
 | Relative clauses with that after superlatives and indefinite words | Mongolia, English XII, Unit 4, printed p.74 |
 
-**Acceptance count: taught in 21 countries (Cambodia,
+**Acceptance count: taught in 22 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan).** Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -357,3 +356,27 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1*, Student's Book — Grade 8 (Kazakhstan) — Kazakhstan, Macmillan. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1+*, Student's Book — Grade 9 (Kazakhstan) — Kazakhstan, Macmillan. Verified in the sweep against its grammar lessons and database: this book teaches NO reported speech — the filing's negative there is correct. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative pronouns who, which, where (My country pages) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.72 |
+| Relative clauses | Kazakhstan — *Laser B1, Grade 8*, printed p.50 |
+| Relative pronouns | Kazakhstan — *English Plus, Grade 8*, printed p.11 |
+| Relative clauses | Kazakhstan — *Laser B1+, Grade 9*, printed p.66 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

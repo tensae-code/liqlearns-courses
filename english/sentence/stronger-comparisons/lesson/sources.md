@@ -1,7 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos
-
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Comparative Phrases box, p.26, is among this book's citation-checked anchors).
@@ -160,7 +159,7 @@ re-verification sweep.
 | Degrees of adjectives — regular and irregular adjectives compared — in the Harmony in Society unit (with relative pronouns, clauses and phrases, commas and dictionary use) | Pakistan, *English 6*, Unit 5, printed p.47 |
 | Degrees of adjectives in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 22 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos).** Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 23 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan).** Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
@@ -434,4 +433,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser A1+*, Student's Book — Grade 6 (Kazakhstan) — Kazakhstan, Macmillan (the author's name is printed "Taylore-Knowles" [sic] in the book). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1*, Student's Book — Grade 8 (Kazakhstan) — Kazakhstan, Macmillan. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparative adjectives | Kazakhstan — *English Plus, Grade 6*, printed p.97 |
+| Comparatives | Kazakhstan — *Laser A1+, Grade 6*, printed p.90 |
+| Comparatives and superlatives | Kazakhstan — *Laser B1, Grade 8*, printed p.42 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

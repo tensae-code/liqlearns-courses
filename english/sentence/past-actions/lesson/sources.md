@@ -804,3 +804,27 @@ Laos was already counted in this lesson; the rows above complete its stock and t
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1*, Student's Book — Grade 8 (Kazakhstan) — Kazakhstan, Macmillan. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past simple, regular and irregular (the book's main presentation) — stocked against the filing's "no past tenses" negative for this book: the book's own printed syllabus (pp.2–3) lists past simple in Module 6 (sweep flag 1; the filing is reported, not edited) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 6 Explorers and Inventors |
+| Past simple (full presentation) | Kazakhstan — *English Plus, Grade 5*, printed p.107 |
+| Was / were | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.39 |
+| Past simple | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.41 |
+| Past simple (with emphatic do in the book's database) | Kazakhstan — *Laser B1, Grade 8*, printed p.14 |
+
+Flag 1 disposition (sweep flag 1): the Smiles Grade 3 rows below are stocked against the filing's negative for that book ("no past tenses, no present continuous") — the book's own printed syllabus (pp.2–3) lists past simple in Module 6 and the present continuous in Modules 7 and 8, verified in the sweep from the printed syllabus itself; this file's Smiles rows follow the book. The filing (english/books/kazakhstan.md) is reported, not edited.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

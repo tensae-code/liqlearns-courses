@@ -1,7 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos
-
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -80,7 +79,7 @@ verification sweep.
 | Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
 | Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -257,4 +256,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Clothes (the Light and Dark module set) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 2 Light and Dark (printed pp.18–31) |
+| Clothes, footwear & accessories | Kazakhstan — *Excel, Grade 7 (2017)*, Module 9 Clothes & Fashion (printed pp.99–112) |
+| Clothes, footwear & accessories | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 9 Clothes & Fashion (printed pp.99–112) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

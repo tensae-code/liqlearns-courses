@@ -1,7 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia
-
+countries: Bolivia, Venezuela, Armenia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -10,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 3 countries (Bolivia, Venezuela, Armenia).**
+**Acceptance count: taught in 4 countries (Bolivia, Venezuela, Armenia, Kazakhstan).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 8 book's music unit — genres and instruments as one word set — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 8 (Secundaria 2) student book named above.
 
@@ -41,3 +40,21 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 9 — Kazakhstan, Express Publishing, ISBN 978-1-4715-7503-7 (from the back cover; the scan holds no imprint page). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Music; dancing | Kazakhstan — *Excel, Grade 9*, Module 7 Music & Film (printed pp.75–86) |
+| Discussing music (listening) | Kazakhstan — *English Plus, Grade 9*, printed p.84 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -1,7 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa
-
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10 (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center 'KIZUNA'. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
@@ -45,7 +44,7 @@ covers the 6th Year book only).
 | Commenting on ideas and posts: positive and negative comment phrases — what a great post, this post really resonates with me, it was boring / it was brilliant | Mauritania, Study English, Grade 13, printed pp.11–13 |
 | Blog reading: football obsession in England | Mongolia, English XI, Unit 7, printed p.109 |
 
-**Acceptance count: taught in 11 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+**Acceptance count: taught in 12 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa, Kazakhstan).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
 Mauritania comments on posts with a positive/negative phrase
 set in its Grade 13 book (stocked 2026-11-09 by the Mauritania
 re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 chat-forum project and Grade 9 advice blog (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
@@ -152,3 +151,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Writing a personal webpage (a boy's page about himself and his best mate, who plays in the school badminton team) | Malaysia, Form 4 *Full Blast Plus 4*, Module 1, printed p.13 |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a blog | Kazakhstan — *English Plus, Grade 6*, printed p.75 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -1,7 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos
-
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 4 (student's book) — Cambodia,
@@ -179,7 +178,7 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 24 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 25 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -487,4 +486,21 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Top Stars for Kazakhstan*, Student's Book — Grade 4 — Kazakhstan, MM Publications, © 2024 (the record's 2025 is wrong), ISBN 978-618-05-7570-5. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a project about someone's job | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 4 Buildings |
+| Occupations; actions | Kazakhstan — *Top Stars, Grade 4*, Module 4 People and Jobs (printed p.42) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

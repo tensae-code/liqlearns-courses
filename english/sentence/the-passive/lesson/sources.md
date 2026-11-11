@@ -540,3 +540,17 @@ Laos was already counted in this lesson; the rows above complete its stock and t
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *Laser B1+*, Student's Book — Grade 9 (Kazakhstan) — Kazakhstan, Macmillan. Verified in the sweep against its grammar lessons and database: this book teaches NO reported speech — the filing's negative there is correct. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The passive | Kazakhstan — *Laser B1+, Grade 9*, printed p.58 |
+
+Verification note (sweep flags 2–3): the Kazakhstan claim above from the earlier build — the Full Blast Grade 9 passive system tabled whole at Grade 9 (all tenses, modal passive, two objects, continuous passive, impersonal passive, Module 6, pp.143–166) — CANNOT be confirmed or refuted from the copy in hand: the held Grade 9 file is a photographed set with gaps and its contents rows for Modules 5–7 are only partly present. The claim stands as the filing's claim, not as verified (the parallel Excel Grade 9 teaches no impersonal passive anywhere in its read contents, which is a cross-check caution, not a disproof). This file's other older Kazakhstan Full Blast entries carry the same "FULLY READ + CITATION CHECK PASSED" formula, which does not hold for the two defective held copies (Grade 6 incomplete; Grade 9 gap photo set).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

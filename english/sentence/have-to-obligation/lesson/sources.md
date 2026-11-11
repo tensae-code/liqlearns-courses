@@ -1,7 +1,6 @@
 # Sources — Have To for Obligation
 
-countries: Bolivia, Syria, Vietnam
-
+countries: Bolivia, Syria, Vietnam, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 9 (Secundaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -25,7 +24,7 @@ Every part traces to its book and page.
 | have to / don't have to for jobs, rules with must / mustn't, and had to / didn't have to — the older course's obligation teaching (Module 5 "World of work", Units 9–10), held only in its Teacher's Book | Syria, *English for Syria*, Intermediate, Teacher's Book (York Press), Module 5, printed pp.63–76 — teacher's-book evidence; the matching student's book is not in hand |
 | must / mustn't for rules, at a nature reserve (Unit 13) | Syria, *English for Starters 5*, Pupil's Book (York Press), Unit 13, printed p.39 |
 
-**Acceptance count: taught in 3 countries (Bolivia, Syria, Vietnam).** Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Bolivia, Syria, Vietnam, Kazakhstan).** Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 9 student book's full have-to treatment with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium spread is stocked with its true content stated, exactly as the sweep's placements carry it — the filing's own recorded slip (a possession table under an obligation heading) is not smoothed over. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -42,3 +41,21 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Everyday English — expressing obligation | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Have to | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 5 Art and Music |
+| Have to and don't have to | Kazakhstan — *English Plus, Grade 8*, printed p.107 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

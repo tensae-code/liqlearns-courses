@@ -1,7 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa
-
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -28,7 +27,7 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa).** Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan).** Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge).
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
 
@@ -68,3 +67,18 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Too and enough; need; questions with whose (My country pages) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.86 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -525,3 +525,36 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *Laser A1+*, Student's Book — Grade 6 (Kazakhstan) — Kazakhstan, Macmillan (the author's name is printed "Taylore-Knowles" [sic] in the book). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1*, Student's Book — Grade 8 (Kazakhstan) — Kazakhstan, Macmillan. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1+*, Student's Book — Grade 9 (Kazakhstan) — Kazakhstan, Macmillan. Verified in the sweep against its grammar lessons and database: this book teaches NO reported speech — the filing's negative there is correct. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English — Sciences — Low-mid B2* («Study Inn»), Student's Book — Grade 10 — Kazakhstan, a bespoke book whose every spread carries the licence footer naming «Study Inn» as rights holder, issued at the request of the Ministry of Education and Science (ref. 13-2/048 of 10.09.2019); NO author, ISBN, imprint or year is printed anywhere in the book. It is NOT the Spencer / Macmillan "Gateway" book the record and inventory name — those names occur nowhere in its complete text layer (sweep flag 4; corrected here course-side, the filing is reported, not edited). Book error carried: its contents page numbers for Units 2–9 are all misprinted low; unit starts are cited as the sweep's placements give them. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| First conditional | Kazakhstan — *Laser A1+, Grade 6*, printed p.66 |
+| First conditional | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.83 |
+| Third conditional | Kazakhstan — *Laser B1, Grade 8*, printed p.48 |
+| Second conditional | Kazakhstan — *English Plus, Grade 8*, printed p.61 |
+| Conditionals: third | Kazakhstan — *Laser B1+, Grade 9*, printed p.74 |
+| First conditional | Kazakhstan — *English Plus, Grade 9*, printed p.35 |
+| Practising conditionals | Kazakhstan — *«Study Inn» English — Sciences, Grade 10*, Unit 2 Natural disasters (contents grammar row) |
+
+Verification note (sweep flags 2–3): the Kazakhstan claim above from the earlier build — Full Blast Grade 9 conditionals, Types 0/1/2 with Type 3 "held back" (Module 7) — CANNOT be confirmed or refuted from the copy in hand: the held Grade 9 file is a photographed set with gaps and its contents rows for Modules 5–7 are only partly present. The claim stands as the filing's claim, not as verified. This file's other older Kazakhstan Full Blast entries carry the same "FULLY READ + CITATION CHECK PASSED" formula, which does not hold for the two defective held copies (Grade 6 incomplete; Grade 9 gap photo set).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

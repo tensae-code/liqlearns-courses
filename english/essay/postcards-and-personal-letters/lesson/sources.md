@@ -1,7 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos
-
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 with bound-in
@@ -101,7 +100,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 19 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 20 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -479,4 +478,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Kazakhstan — Pupil's Book*, Grade 3 — Kazakhstan, Macmillan (printed title as found; no ISBN and no year are printed anywhere in the book, so the record's 2024 is unverifiable from the book itself). Book error carried: printed p.5 prints a leftover publisher's editorial note ("MAC ED: Is this the correct phonetic information for R? …") and the alphabet table gives Rr as [ɑː] while the book's own syllabus gives r [r] — the sound is stocked taught corrected. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a postcard (literacy strand) | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 4 Weather |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

@@ -894,3 +894,23 @@ Laos was already counted in this lesson; the rows above complete its stock and t
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous — stocked against the filing's "no present continuous" negative for this book: the book's printed syllabus lists the present continuous in Modules 7 and 8 (sweep flag 1) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 7 Water, Water, Everywhere! |
+| Present continuous (things happening now), with the imperative in fun contexts — stocked against the filing's negative (sweep flag 1, as the row above) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 8 Having Fun |
+| Be: negative | Kazakhstan — *English Plus, Grade 5*, printed p.15 |
+
+Flag 1 disposition (sweep flag 1): the Smiles Grade 3 rows below are stocked against the filing's negative for that book — the book's printed syllabus (pp.2–3) lists the present continuous in Modules 7 and 8, verified in the sweep from the printed syllabus itself. The filing (english/books/kazakhstan.md) is reported, not edited.
+
+Verification note (sweep flags 2–3): this file also carries Kazakhstan Full Blast book entries from the earlier build, some headed "FULLY READ + CITATION CHECK PASSED". For the two defective held copies — Full Blast Grade 6, which lacks about 20 printed pages, and Full Blast Grade 9, a photographed set with gaps — that formula does not hold; claims resting on those copies stand as the filing's claims, not as verified. A complete Full Blast G6 and a proper Full Blast G9 scan remain library wants.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -1,7 +1,6 @@
 # Sources — Dialogue and Discussion
 
-countries: Sierra Leone, Vietnam
-
+countries: Sierra Leone, Vietnam, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
@@ -84,7 +83,7 @@ Every part traces to its book and page.
 | Sub lesson 4: Debate | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 65, printed p.45 |
 | Sub lesson 4: Debate | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 112, printed p.39 |
 
-**Acceptance count: taught in 2 countries (Sierra Leone, Vietnam).** The Primary rows are teacher lesson-plan evidence, cited as such; the JSS and SSS rows are pupils' handbook lessons. Vietnam joins with its Grade 8 and Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (Sierra Leone, Vietnam, Kazakhstan).** The Primary rows are teacher lesson-plan evidence, cited as such; the JSS and SSS rows are pupils' handbook lessons. Vietnam joins with its Grade 8 and Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Sierra Leone's English books. The sweep re-read all 36 held books (1,771 teaching items placed; 1,466 missing) and marked 41 items NEW LESSON NEEDED for this topic: Sierra Leone teaches talking itself — pair talk, class discussion, the good listener and the good speaker, conversations, role play and formal debate — from Primary 1 to SSS 3, and no course lesson housed it. Under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson. Neighbouring lessons keep their own things: agreeing-and-disagreeing teaches agreeing and disagreeing, presentation-skills teaches presenting, listening-comprehension teaches listening to passages; this lesson is the talk between people itself.
 
@@ -102,3 +101,21 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 |---|---|
 | Everyday English — interrupting politely | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
 | Everyday English — getting attention and interrupting in a conversation | Vietnam, Tiếng Anh 12 (Global Success), Unit 6, printed p.82 (Book Map) |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Talking about inventions and inventors; talking about what you did in the past (speaking strand — the sweep's generic conversation target, housed in this conversation lesson) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 6 Explorers and Inventors |
+| Expressing interest (speaking strand — the sweep's generic conversation target, housed in this conversation lesson) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.56 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -1022,3 +1022,26 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Gapped text: football that generates electricity (thirty minutes of play, three hours of light) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 11, printed p.137 |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English — Sciences — Low-mid B2* («Study Inn»), Student's Book — Grade 10 — Kazakhstan, a bespoke book whose every spread carries the licence footer naming «Study Inn» as rights holder, issued at the request of the Ministry of Education and Science (ref. 13-2/048 of 10.09.2019); NO author, ISBN, imprint or year is printed anywhere in the book. It is NOT the Spencer / Macmillan "Gateway" book the record and inventory name — those names occur nowhere in its complete text layer (sweep flag 4; corrected here course-side, the filing is reported, not edited). Book error carried: its contents page numbers for Units 2–9 are all misprinted low; unit starts are cited as the sweep's placements give them. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading "Whizz-kids" | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.66 |
+| Reading "Arachnophobia" | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.108 |
+| Reading about reality TV | Kazakhstan — *English Plus, Grade 8*, printed p.34 |
+| Reading "Punks" | Kazakhstan — *English Plus, Grade 9*, printed p.82 |
+| The 3D printing reading | Kazakhstan — *«Study Inn» English — Sciences, Grade 10*, Unit 3 Virtual reality |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -706,3 +706,24 @@ Laos was already counted in this lesson; the rows above complete its stock and t
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *Smiles 1 for Kazakhstan*, Pupil's Book — Grade 1 — Kazakhstan, Express Publishing, 2016 (Jenny Dooley – Virginia Evans). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents tables and lesson pages).
+
+**Book:** *Smiles 2*, Activity Book — Grade 2 — Kazakhstan, Express Publishing, 2017 (Dooley – Evans). THE HELD FILE IS DEFECTIVE: it is the Activity Book's body (printed pp.4–92 only) inside Pupil's Book covers — no Pupil's Book lesson content exists in the file, and the contents' promised Story Cutouts (printed pp.93–126) and stickers are absent. Rows below cite the Activity Book only, exactly as held; the real Pupil's Book remains owed, and the G2 row's disposition stays the owner's call (library side). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Kazakhstan — Pupil's Book*, Grade 3 — Kazakhstan, Macmillan (printed title as found; no ISBN and no year are printed anywhere in the book, so the record's 2024 is unverifiable from the book itself). Book error carried: printed p.5 prints a leftover publisher's editorial note ("MAC ED: Is this the correct phonetic information for R? …") and the alphabet table gives Rr as [ɑː] while the book's own syllabus gives r [r] — the sound is stocked taught corrected. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numbers 1–10 | Kazakhstan — *Smiles 1 Pupil's Book, Grade 1*, Module 2 (printed pp.18–31) |
+| Numbers 1–50 | Kazakhstan — *Smiles 2 Activity Book, Grade 2*, Module 6 (printed pp.44–51; cited from the held Activity Book only — no Pupil's Book content is in the file) |
+| Numbers 1–100 | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 1 Hello, English! |
+| Numbers 1–20 | Kazakhstan — *English Plus, Grade 5*, printed p.8 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

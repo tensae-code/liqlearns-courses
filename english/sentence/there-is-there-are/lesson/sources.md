@@ -1,7 +1,6 @@
 # Sources — There Is and There Are
 
-countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia
-
+countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -30,7 +29,7 @@ Every part traces to its book and page.
 | Describing where you live — there is/are with prepositions of place | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed p.9 |
 | There is / there are (review) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4A |
 
-**Acceptance count: taught in 5 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia).** Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan).** Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found there is/are taught in four places with no full lesson of their own (the course's Introductory There, from Bangladesh, covers only the introductory use). Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the full system. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -82,3 +81,18 @@ The sweep, written before this lesson existed, marked this point "NEW LESSON NEE
 Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+| Lesson part | Where it comes from |
+|---|---|
+| There is / there are and plurals (house contexts) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 4 Buildings |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

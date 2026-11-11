@@ -1,7 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa
-
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 1 (Student's Book) — Egypt, Ministry of Education (GPS Publishing). Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -55,7 +54,7 @@ re-verification sweep.
 | A survey report printed whole: "Paucity of Textbooks in the Area of Allama Iqbal Town, Lahore" | Pakistan, *English 8*, printed p.122 |
 | Informative and explanatory texts as the unit's writing work | Pakistan, *English 12*, Unit 6, printed pp.38–44 (unit range) |
 
-**Acceptance count: taught in 17 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa).** Yemen joins with an earthquake report, a full experiment write-up and experimental procedures from its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 marine-animal report and Grade 11 chart, graph and table reports (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 18 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan).** Yemen joins with an earthquake report, a full experiment write-up and experimental procedures from its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 marine-animal report and Grade 11 chart, graph and table reports (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -240,3 +239,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a project about Summer Camp | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 7 Water, Water, Everywhere! |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

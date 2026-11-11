@@ -1,7 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia
-
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -151,8 +150,8 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia).** Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 21 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan).** Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -431,3 +430,30 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Reading: new gadgets (a fully digital guitar with a light-up fretboard) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 4, printed p.44 |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 9 — Kazakhstan, Express Publishing, ISBN 978-1-4715-7503-7 (from the back cover; the scan holds no imprint page). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sources of light and energy (with the module's rules and times-of-day set) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 2 Light and Dark (printed pp.18–31) |
+| Computers | Kazakhstan — *Excel, Grade 7 (2017)*, Module 2 Communication & Technology (printed pp.17–28) |
+| Computers | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 2 Communication & Technology (printed pp.17–28) |
+| Cybercrime vocabulary | Kazakhstan — *English Plus, Grade 8*, printed p.24 |
+| Technology; gadgets; computers | Kazakhstan — *Excel, Grade 9*, Module 9 Science & Technology (printed pp.99–110) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

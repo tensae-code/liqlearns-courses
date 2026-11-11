@@ -1,7 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos
-
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -114,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 23 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 24 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -342,4 +341,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Quantifiers much, many, a few (My country pages) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.16 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

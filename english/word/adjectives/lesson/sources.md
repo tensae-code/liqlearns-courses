@@ -690,3 +690,15 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 9 — Kazakhstan, Express Publishing, ISBN 978-1-4715-7503-7 (from the back cover; the scan holds no imprint page). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives; celebrations | Kazakhstan — *Excel, Grade 9*, Module 6 Traditions & Language (printed pp.63–74) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

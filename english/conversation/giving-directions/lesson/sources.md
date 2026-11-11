@@ -1,7 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos
-
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 (full-year combo;
@@ -155,7 +154,7 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 23 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 24 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -393,4 +392,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Laser A1+*, Student's Book — Grade 6 (Kazakhstan) — Kazakhstan, Macmillan (the author's name is printed "Taylore-Knowles" [sic] in the book). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving directions (saying what there is in a house; directions) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 4 Buildings |
+| Directions and position vocabulary | Kazakhstan — *Laser A1+, Grade 6*, Module 9 (printed pp.114–123) |
+| Giving directions (communication) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.59 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

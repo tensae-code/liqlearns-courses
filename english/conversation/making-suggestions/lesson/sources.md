@@ -1,7 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos
-
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -73,8 +72,8 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 15 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
-Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 16 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
+Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -240,4 +239,21 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making suggestions (speaking, key phrases) | Kazakhstan — *English Plus, Grade 5*, printed p.60 |
+| Planning a project (speaking); making and responding to plans | Kazakhstan — *English Plus, Grade 9*, printed p.62 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

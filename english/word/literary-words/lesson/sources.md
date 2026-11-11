@@ -1,7 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia
-
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 1 (Student's Book, with the year's Novel bound in) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
@@ -102,7 +101,7 @@ verification sweep.
 | Personification named and defined as a poetic literary device — "Personification is a poetic literary device" | Pakistan, *English 7*, Unit 9, printed p.79 |
 | Literary devices as the unit's grammar work (the key to its spot-the-error exercise is printed on the same page) | Pakistan, *English 12*, Unit 9, printed p.71 |
 
-**Acceptance count: taught in 21 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia).** Malaysia joins with similes, literature genres, and Form 5's famous-detectives words (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 22 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Kazakhstan).** Malaysia joins with similes, literature genres, and Form 5's famous-detectives words (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Literature Focus drama terms (Grade 11) and "The Swing" discussion (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
@@ -354,3 +353,28 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Famous-detectives vocabulary (Unit 6 opener) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 6, printed p.69 |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 9 — Kazakhstan, Express Publishing, ISBN 978-1-4715-7503-7 (from the back cover; the scan holds no imprint page). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nouns: films (the film word set) | Kazakhstan — *English Plus, Grade 5*, printed p.100 |
+| Characters (fiction) | Kazakhstan — *Excel, Grade 8 (2018)*, Module 5 Reading for Pleasure (printed pp.53–62) |
+| Books and films: features vocabulary | Kazakhstan — *English Plus, Grade 8*, printed p.60 |
+| Types of fiction | Kazakhstan — *Excel, Grade 9*, Module 5 Reading for Pleasure (printed pp.53–62) |
+| Types of films | Kazakhstan — *Excel, Grade 9*, Module 7 Music & Film (printed pp.75–86) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

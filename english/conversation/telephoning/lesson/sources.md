@@ -1,7 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam
-
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English for the Hotel and Tourist Trade,
@@ -66,7 +65,7 @@ PASSED 2026-11-04).
 | “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 | Telephoning: telephone greetings and the steps to make a call | Pakistan, *English 8*, printed pp.118–119 |
 
-**Acceptance count: taught in 14 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam).** Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
+**Acceptance count: taught in 15 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan).** Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -174,3 +173,18 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 |---|---|
 | Everyday English — making and accepting appointments | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
 | Everyday English — making an appointment | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phoning a friend | Kazakhstan — *English Plus, Grade 6*, printed p.38 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -1,7 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa
-
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -40,7 +39,7 @@ colophon; cited once.
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
 | Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 11 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -106,3 +105,21 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Laser B1+*, Student's Book — Grade 9 (Kazakhstan) — Kazakhstan, Macmillan. Verified in the sweep against its grammar lessons and database: this book teaches NO reported speech — the filing's negative there is correct. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The future (2) | Kazakhstan — *Laser B1+, Grade 9*, printed p.40 |
+| Future continuous | Kazakhstan — *English Plus, Grade 9*, printed p.61 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

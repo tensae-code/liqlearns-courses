@@ -1,7 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia
-
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -105,9 +104,9 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 16 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
+**Acceptance count: taught in 17 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
 Venezuela, Bolivia, Iran, Greece, Palestine,
-Sierra Leone, Sudan, Yemen, Iraq, Armenia).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -267,3 +266,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tag questions (My country pages) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.100 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

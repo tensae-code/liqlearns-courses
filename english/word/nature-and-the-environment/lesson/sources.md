@@ -1,7 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos
-
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English A2 (Akelius) Teacher's Guide — Albania.
@@ -199,7 +198,7 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 29 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos).** Malaysia joins with compass-point geography words, Close-Up's environment words, and Form 5's environment texts (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with three Grade 9 environment units and five guide-held Grade 11 nature units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 30 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with compass-point geography words, Close-Up's environment words, and Form 5's environment texts (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with three Grade 9 environment units and five guide-held Grade 11 nature units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -681,4 +680,31 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Environmental problems; our solar system | Kazakhstan — *Excel, Grade 7 (2017)*, Module 4 Space & Earth (printed pp.41–52) |
+| Environmental problems; our solar system | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 4 Space & Earth (printed pp.41–52) |
+| Geographical features vocabulary | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.54 |
+| Global issues; habitats; natural disasters | Kazakhstan — *Excel, Grade 8 (2018)*, Module 1 Our World (printed pp.5–16) |
+| Flowers; endangered animals | Kazakhstan — *Excel, Grade 8 (2018)*, Module 6 The Natural World (printed pp.63–74) |
+| Pollution and the environment vocabulary | Kazakhstan — *English Plus, Grade 8*, printed p.12 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

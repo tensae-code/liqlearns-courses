@@ -1,7 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia
-
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus (Classes
@@ -104,7 +103,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 17 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 18 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -389,3 +388,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Poem: “My Sister's Eating Porridge” | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), printed p.107 |
 
 Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Kazakhstan — Pupil's Book*, Grade 3 — Kazakhstan, Macmillan (printed title as found; no ISBN and no year are printed anywhere in the book, so the record's 2024 is unverifiable from the book itself). Book error carried: printed p.5 prints a leftover publisher's editorial note ("MAC ED: Is this the correct phonetic information for R? …") and the alphabet table gives Rr as [ɑː] while the book's own syllabus gives r [r] — the sound is stocked taught corrected. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a poem (literacy strand) | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 6 Health |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

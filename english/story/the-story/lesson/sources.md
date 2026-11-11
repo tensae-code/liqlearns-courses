@@ -1218,3 +1218,23 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a film story | Kazakhstan — *English Plus, Grade 5*, printed p.103 |
+| Writing a story | Kazakhstan — *Excel, Grade 7 (2017)*, Module 5 Reading for Pleasure |
+| Writing a story | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 5 Reading for Pleasure |
+
+Verification note (sweep flags 2–3): this file also carries Kazakhstan Full Blast book entries from the earlier build, some headed "FULLY READ + CITATION CHECK PASSED". For the two defective held copies — Full Blast Grade 6, which lacks about 20 printed pages, and Full Blast Grade 9, a photographed set with gaps — that formula does not hold; claims resting on those copies stand as the filing's claims, not as verified.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

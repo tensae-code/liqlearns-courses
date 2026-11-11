@@ -1,7 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua
-
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -147,7 +146,7 @@ verification sweep.
 | The short-a sound, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Alphabet sounds — the sounds the letters make | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 
-**Acceptance count: taught in 16 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua).** India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 17 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan).** India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -474,3 +473,32 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Long/short vowel discrimination (the book's Sounds strand, recurring all year) | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 1, Content Mapping printed p.iv |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Kazakhstan — Pupil's Book*, Grade 3 — Kazakhstan, Macmillan (printed title as found; no ISBN and no year are printed anywhere in the book, so the record's 2024 is unverifiable from the book itself). Book error carried: printed p.5 prints a leftover publisher's editorial note ("MAC ED: Is this the correct phonetic information for R? …") and the alphabet table gives Rr as [ɑː] while the book's own syllabus gives r [r] — the sound is stocked taught corrected. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 6 — Kazakhstan, MM Publications (H. Q. Mitchell – Marileni Malkogianni). THE HELD COPY IS INCOMPLETE: about 20 printed pages are missing, including the Modules 1–3 contents page, and there is no imprint, title page or back cover in the file — no "fully read" claim stands for the missing pages (sweep flag 3). Rows below rest on the copy as held, itemised from its contents skills/writing columns and module pages. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, MM Publications, ISBN 978-618-05-1660-7 (from the back cover; no imprint page in the scan). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonics: o [əʊ], i [aɪ], a [eɪ], a [æ], h [h] | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 6 Health |
+| Sounds Spot: short o (dog, long, body) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 1 Animals |
+| Sounds Spot: b–v (baby, bird, vine, valley) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 6 Explorers and Inventors |
+| Pronunciation: /ʌ/, /æ/, /eɪ/ | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 1 |
+| Pronunciation: /e/, /iː/ | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 6 |
+| Pronunciation: /k/, /s/; /s/, /ʃ/, /tʃ/ | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 8 |
+| Pronunciation: /tʃ/, /dʒ/ | Kazakhstan — *Full Blast!, Grade 8*, Module 1 Daily Life and Shopping |
+| Pronunciation: /e/, /ɪ/ | Kazakhstan — *Full Blast!, Grade 8*, Module 3 Sport, Health and Exercise |
+| Pronunciation: /ʌ/, /ɪ/, /aɪ/ | Kazakhstan — *Full Blast!, Grade 8*, Module 8 Food and Drink |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

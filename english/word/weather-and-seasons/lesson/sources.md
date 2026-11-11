@@ -1,7 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos
-
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Akelius A2 Teacher's Guide (guide for the
@@ -144,7 +143,7 @@ verification sweep.
 | Weather words: cloudy, windy, rainy, sunny | Pakistan, *English Nursery*, printed p.8 |
 | The seasons: spring, summer, autumn, winter | Pakistan, *English Nursery*, printed p.9 |
 
-**Acceptance count: taught in 24 countries (Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 25 countries (Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -383,4 +382,30 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Things for rainy weather; seaside activities | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 7 Water, Water, Everywhere! (printed pp.94–107) |
+| Months and seasons | Kazakhstan — *English Plus, Grade 5*, printed p.58 |
+| Weather conditions vocabulary | Kazakhstan — *English Plus, Grade 6*, printed p.72 |
+| Types of weather | Kazakhstan — *Excel, Grade 7 (2017)*, Module 4 Space & Earth (printed pp.41–52) |
+| Types of weather | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 4 Space & Earth (printed pp.41–52) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

@@ -1,7 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt
-
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus, Class 1 —
@@ -148,9 +147,9 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 22 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
+**Acceptance count: taught in 23 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
 China, Iran, India, Greece, Mongolia, Nicaragua,
-Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -466,3 +465,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Negative words with dis-, mis-, -less (Module 8 set — the word-building half) | Malaysia, Form 4 *Full Blast Plus 4*, Module 8 (contents) |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forming negative adjectives with im- / in- / il- / ir- / dis- | Kazakhstan — *Excel, Grade 8 (2018)*, Module 7 Travel & Transport |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

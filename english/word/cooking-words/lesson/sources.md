@@ -1,7 +1,6 @@
 # Sources — Cooking Words
 
-countries: Bolivia
-
+countries: Bolivia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -13,8 +12,23 @@ Every part traces to its book and page.
 | Culinary Terms (BTH) — cooking methods (grill, broil, barbecue, gratin, stir-fry, bake, roast, stew, caramelize, steam, sauté, toast, poach, microwave, simmer, scramble, glaze) and cooking action verbs (add, slice, drain, dice, pour, mix, beat, break, grease, carve, combine, knead, chop, measure, stir, mince, peel, dissolve, crush, whisk, weigh) (the book lists “Weight” as the verb for weigh, printed p. 36 — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 36–38 |
 | Gastronomy terms — picture grids of foods, drinks and cooking verbs | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 101 |
 
-**Acceptance count: taught in 1 country (Bolivia).**
+**Acceptance count: taught in 2 countries (Bolivia, Kazakhstan).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the cooking word sets — the Grade 11 culinary (BTH) spread and the compendium's gastronomy grids — with no lesson of their own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
 Searchable tag: the books' own names for these parts are “Culinary Terms” (Secundaria 5, BTH) and the gastronomy terms grids (compendium Year 5).
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cooking methods | Kazakhstan — *Excel, Grade 8 (2018)*, Module 8 Food & Drink (printed pp.87–98) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

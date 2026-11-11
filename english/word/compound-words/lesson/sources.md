@@ -1,7 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia
-
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** SMILE Book 7 — Pupil's Book (Grade 7) — Sudan,
@@ -79,7 +78,7 @@ the 2026-11-08 re-verification sweep.
 | Compound words — with homophones (whether/weather, scene/seen, herd/heard, hare/hair, they're/there/their) — in the opening unit | Pakistan, *English 6*, Unit 1, printed pp.1–13 |
 | Compound words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 17 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
+**Acceptance count: taught in 18 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -221,3 +220,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Compound nouns (Module 5 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 5 (contents) |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Sciences — Low-mid B2* («Study Inn»), Student's Book — Grade 10 — Kazakhstan, a bespoke book whose every spread carries the licence footer naming «Study Inn» as rights holder, issued at the request of the Ministry of Education and Science (ref. 13-2/048 of 10.09.2019); NO author, ISBN, imprint or year is printed anywhere in the book. It is NOT the Spencer / Macmillan "Gateway" book the record and inventory name — those names occur nowhere in its complete text layer (sweep flag 4; corrected here course-side, the filing is reported, not edited). Book error carried: its contents page numbers for Units 2–9 are all misprinted low; unit starts are cited as the sweep's placements give them. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Compound adjectives | Kazakhstan — *«Study Inn» English — Sciences, Grade 10*, Unit 9 Independent project (contents grammar row) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

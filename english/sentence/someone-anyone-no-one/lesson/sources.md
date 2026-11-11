@@ -1,7 +1,6 @@
 # Sources — Someone, anyone, no one
 
-countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen
-
+countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -49,8 +48,8 @@ lesson is reproduced.
 | Indefinite pronouns in full — the some-/any-/no-/every- × -body/-one/-thing/-where grid; they take a singular verb | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 47 |
 | Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 118 |
 
-**Acceptance count: taught in 7 countries (Albania, Bolivia,
-Cambodia, Mongolia, South Africa, Sierra Leone, Yemen).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 8 countries (Albania, Bolivia,
+Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the grid's place row, the -where words,
 inside its travel chapter. Bolivia boxes the
 some/any choice for people outright, with its
@@ -88,3 +87,18 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | The somebody/someone/somewhere/something series (Unit 5) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), Unit 5, step 10 (Workbook 3, printed pp.82–83) |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Some / any / every / no and their compounds | Kazakhstan — *Excel, Grade 8 (2018)*, Module 5 Reading for Pleasure |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

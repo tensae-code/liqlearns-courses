@@ -1,7 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq
-
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *English 11* — Armenia, COAF. Filed in
@@ -94,9 +93,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 15 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 16 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan, Iraq).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq, Kazakhstan).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -142,3 +141,18 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Discussing probable and less probable consequences | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Sciences — Low-mid B2* («Study Inn»), Student's Book — Grade 10 — Kazakhstan, a bespoke book whose every spread carries the licence footer naming «Study Inn» as rights holder, issued at the request of the Ministry of Education and Science (ref. 13-2/048 of 10.09.2019); NO author, ISBN, imprint or year is printed anywhere in the book. It is NOT the Spencer / Macmillan "Gateway" book the record and inventory name — those names occur nowhere in its complete text layer (sweep flag 4; corrected here course-side, the filing is reported, not edited). Book error carried: its contents page numbers for Units 2–9 are all misprinted low; unit starts are cited as the sweep's placements give them. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unreal conditionals | Kazakhstan — *«Study Inn» English — Sciences, Grade 10*, Unit 6 Capabilities of the human brain (contents grammar row) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

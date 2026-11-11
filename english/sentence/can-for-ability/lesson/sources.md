@@ -1,7 +1,6 @@
 # Sources — Can for Ability
 
-countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos
-
+countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 4 (Primaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -61,7 +60,7 @@ verification sweep.
 | Can for ability, possibility and permission | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
 | Ability frame with can: "Oscar can jump!" worked over five pictured children doing actions | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.67 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania teaches can/can't for ability in Grade 7 and the
 full can/could range — ability, probability, suggestion,
 surprise — in Grade 12 (stocked 2026-11-09 by the Mauritania
@@ -152,4 +151,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Can (ability) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 7 Water, Water, Everywhere! |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

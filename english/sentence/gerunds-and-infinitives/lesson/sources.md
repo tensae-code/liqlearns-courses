@@ -1,7 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos
-
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -169,7 +168,7 @@ verification sweep.
 | Gerunds, infinitives and participles in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 | Gerunds and participles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 25 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos).** Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 26 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan).** Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -418,4 +417,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Laser B1+*, Student's Book — Grade 9 (Kazakhstan) — Kazakhstan, Macmillan. Verified in the sweep against its grammar lessons and database: this book teaches NO reported speech — the filing's negative there is correct. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Like + -ing | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 5 Art and Music |
+| Infinitive of purpose (My country spread) | Kazakhstan — *English Plus, Grade 5*, printed p.76 |
+| Full infinitives (with to) and gerunds | Kazakhstan — *Laser B1+, Grade 9*, printed p.108 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

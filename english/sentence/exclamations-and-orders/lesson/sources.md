@@ -1,7 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos
-
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English Primary 3, Term 2 — Egypt, Ministry
@@ -136,7 +135,7 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 23 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos).** Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 24 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan).** Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -445,4 +444,21 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing school rules | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 2 Light and Dark |
+| Imperatives (language point) | Kazakhstan — *English Plus, Grade 5*, printed p.83 (opener spread) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

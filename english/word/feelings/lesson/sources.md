@@ -1,7 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos
-
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -103,7 +102,7 @@ re-verification sweep.
 | Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
 | Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 23 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos).** Malaysia joins with its degrees-of-liking scale, Full Blast Plus 4's feelings adjectives, and Form 5's feelings words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 feelings set, its Grade 7 "How do you feel?" unit and its guide-held Grade 11 "Stay calm!" unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 24 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with its degrees-of-liking scale, Full Blast Plus 4's feelings adjectives, and Form 5's feelings words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 feelings set, its Grade 7 "How do you feel?" unit and its guide-held Grade 11 "Stay calm!" unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -402,4 +401,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reacting to news and sympathising (sympathy phrases) | Kazakhstan — *English Plus, Grade 9*, printed p.110 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

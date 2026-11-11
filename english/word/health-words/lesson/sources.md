@@ -1,7 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos
-
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English A2 (Akelius) Teacher's Guide — Albania.
@@ -150,7 +149,7 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 28 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 healthy-lifestyle and village-health-volunteer units and its guide-held Grade 11 healthy-living unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 29 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Kazakhstan).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 healthy-lifestyle and village-health-volunteer units and its guide-held Grade 11 healthy-living unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -545,4 +544,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Injuries vocabulary | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.110 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

@@ -1,7 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa
-
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
 Scheme of Work, and confirmed by the pupil's-book read of
@@ -73,7 +72,7 @@ PASSED 2026-11-06).
 | Paraphrasing named in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Précis writing as the unit's writing work | Pakistan, *English 12*, Unit 11, printed pp.84–87 (unit range) |
 
-**Acceptance count: taught in 12 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa).** India
+**Acceptance count: taught in 13 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan).** India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
@@ -192,3 +191,21 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving a summary; writing a blurb | Kazakhstan — *Excel, Grade 7 (2017)*, Module 5 Reading for Pleasure |
+| Giving a summary; writing a blurb | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 5 Reading for Pleasure |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

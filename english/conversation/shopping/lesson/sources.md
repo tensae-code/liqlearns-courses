@@ -1,7 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos
-
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Grade 5 (Student's Book) — Cambodia,
@@ -98,7 +97,7 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 21 countries (Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with Full Blast Plus 4's shopping words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 22 countries (Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with Full Blast Plus 4's shopping words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -296,4 +295,21 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily routine & free-time activities; household duties & chores; shops & clothes | Kazakhstan — *Excel, Grade 8 (2018)*, Module 2 Daily Life & Shopping (printed pp.17–28) |
+| Online shopping (speaking) | Kazakhstan — *English Plus, Grade 8*, printed p.26 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

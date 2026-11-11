@@ -1,7 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos
-
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
 banner at the head of english/books/libya.md; its scrub
@@ -280,7 +279,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 25 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos)** — the
+**Acceptance count: taught in 26 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -877,4 +876,30 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos joins this lesson as a distinction country only: none of the texts above is a complete book-length text, and Laos does not join the five complete-text countries. The countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Top Stars for Kazakhstan*, Student's Book — Grade 4 — Kazakhstan, MM Publications, © 2024 (the record's 2025 is wrong), ISBN 978-618-05-7570-5. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 4 — Kazakhstan, Express Publishing, first published 2019, ISBN 978-1-4715-7756-7 (title page credits Dooley alone; the book is held twice as the same book/edition and is counted once). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 5 — Kazakhstan, Express Publishing (Virginia Evans, Jenny Dooley & Bob Obee — the third author the record omits), ISBN 978-1-4715-5775-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Stories 1–4, the short illustrated module stories after Modules 1–2, 3–4, 5–6, 7–8 (stocked as plot summaries only; short workbook-scale stories, not complete book-length texts) | Kazakhstan — *Top Stars, Grade 4*, printed pp.28, 52, 76, 100 |
+| Aesop's fables 1 and 2 (reading; stocked as plot summaries only) | Kazakhstan — *Smiles, Grade 4 (2019)*, Module 1 Kazakhstan in the World of Sport |
+| Reader: "Escape to Narnia" (stocked as a plot summary only) | Kazakhstan — *Excel, Grade 5*, Module 7 Fantasy World! |
+| Reading an adventure story; describing emotions (stocked as a plot summary only) | Kazakhstan — *English Plus, Grade 6*, printed p.70 |
+| Reading: fiction (stocked as a plot summary only) | Kazakhstan — *English Plus, Grade 9*, printed p.58 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

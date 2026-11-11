@@ -1,7 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt
-
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10, Student's Book — Cambodia,
@@ -95,9 +94,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 18 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 19 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -326,3 +325,21 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Laser A1+*, Student's Book — Grade 6 (Kazakhstan) — Kazakhstan, Macmillan (the author's name is printed "Taylore-Knowles" [sic] in the book). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agreeing and disagreeing; describing a scene | Kazakhstan — *Laser A1+, Grade 6*, Module 9 (printed pp.114–123) |
+| Exchanging opinions (speaking) | Kazakhstan — *English Plus, Grade 9*, printed p.26 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

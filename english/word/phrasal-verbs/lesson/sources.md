@@ -1,7 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia
-
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Teacher Compendium, Years 1–6 (reproducing
@@ -128,7 +127,7 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs — set the table, wash the dishes, pour, serve | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.53–55 |
 | Phrasal verbs and idioms, in the Major Shabbir Sharif Shaheed unit (with adjective types, pronoun-antecedent agreement, gerund and participle) | Pakistan, *English 6*, Unit 4 (contents) |
 
-**Acceptance count: taught in 16 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and
@@ -283,3 +282,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Phrasal verbs (Module 6 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 6 (contents) |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The phrasal-verb sets printed per module in the contents vocabulary column (set, loot, keep, put, go, hang, make, break, take) | Kazakhstan — *Excel, Grade 8 (2018)*, Modules 1–9 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

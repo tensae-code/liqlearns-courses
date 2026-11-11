@@ -1,7 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos
-
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Study English, Grade 12 (6th Year Secondary)
@@ -90,8 +89,8 @@ verification sweep.
 | The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
 | Reported questions (wh- and if/whether) | Mongolia, English XII, Unit 9, printed p.164 |
 
-**Acceptance count: taught in 18 countries (Cambodia,
-China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 19 countries (Cambodia,
+China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.
@@ -233,4 +232,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Laser B1*, Student's Book — Grade 8 (Kazakhstan) — Kazakhstan, Macmillan. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indirect questions | Kazakhstan — *Laser B1, Grade 8*, printed pp.103, 118 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

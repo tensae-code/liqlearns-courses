@@ -1,7 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq
-
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Akelius English course, Chapter 36 "How are you feeling" — Albania. Filed in english/books/albania.md (as filed). TEACHER'S-GUIDE evidence: the chapter's grammar focus and its printed student-content sets are recorded in the guide filing (overview printed pp.38–39; the chapter's sample plan is at printed pp.40–41 — page corrected 2026-11-08 by the re-verification sweep); this lesson words Albania as teacher's-guide evidence wherever it is used.
@@ -30,7 +29,7 @@ Every part traces to its book and page.
 | Participle adjectives, -ed and -ing (bored/boring, fascinated/fascinating) | Mongolia, English XII, Unit 10, printed pp.179–180 |
 | -ed / -ing adjectives — bored against boring, in the emotions lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 4, printed p.13 |
 
-**Acceptance count: taught in 9 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq).** Yemen joins with participle adjectives in its Grade 12 fish-curry lesson (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 10 -ed and -ing adjectives (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq, Kazakhstan).** Yemen joins with participle adjectives in its Grade 12 fish-curry lesson (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 10 -ed and -ing adjectives (stocked 2026-11-11 by the re-verification sweep merge).
 
 Albania's entry is teacher's-guide evidence and is worded as such everywhere it is used; the guide filing also records the chapter vocabulary list's misprints ("don't warry"; "clam" for calm) — neither misprint is taught in this lesson.
 
@@ -72,3 +71,18 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Adjectives ending in -ed and -ing | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives ending in -ed and -ing (My country pages) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.72 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

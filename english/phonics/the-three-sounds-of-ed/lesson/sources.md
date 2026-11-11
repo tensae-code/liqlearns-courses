@@ -1,7 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt
-
+countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos
@@ -39,7 +38,7 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 | The three sounds of -ed, in the health unit (with hygiene and healthy eating) | Pakistan, *English 4*, Unit 8 (contents) |
 
-**Acceptance count: taught in 12 countries (Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -147,3 +146,24 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Excel for Kazakhstan*, Student's Book with bound-in Workbook & Grammar Book — Grade 6 — Kazakhstan, Express Publishing (Evans, Dooley & Obee); Student's Book ISBN 978-1-4715-5555-8, bound-in Workbook © 2017, ISBN 978-1-4715-5557-2. Book error carried: the bound-in Workbook genuinely skips 7 — there is no Use of English 7 / Vocabulary Bank 7 in it (the filing's note is verified). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 6 — Kazakhstan, MM Publications (H. Q. Mitchell – Marileni Malkogianni). THE HELD COPY IS INCOMPLETE: about 20 printed pages are missing, including the Modules 1–3 contents page, and there is no imprint, title page or back cover in the file — no "fully read" claim stands for the missing pages (sweep flag 3). Rows below rest on the copy as held, itemised from its contents skills/writing columns and module pages. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sounds Spot: -s endings (gets up, drinks, plays) — the three sounds of the -s ending | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 3 Time |
+| Pronunciation: /t/, /d/, /ɪd/ strong forms | Kazakhstan — *Excel, Grade 6 (Student's Book + bound-in Workbook & Grammar Book)*, Module 2 Helping & Heroes |
+| Pronunciation: /t/, /d/, /ɪd/, /ɒ/, /aʊ/ (past-tense endings in narration) | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 2 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

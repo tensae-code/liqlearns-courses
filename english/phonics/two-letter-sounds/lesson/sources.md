@@ -925,3 +925,31 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+**Book:** *English for Kazakhstan — Pupil's Book*, Grade 3 — Kazakhstan, Macmillan (printed title as found; no ISBN and no year are printed anywhere in the book, so the record's 2024 is unverifiable from the book itself). Book error carried: printed p.5 prints a leftover publisher's editorial note ("MAC ED: Is this the correct phonetic information for R? …") and the alphabet table gives Rr as [ɑː] while the book's own syllabus gives r [r] — the sound is stocked taught corrected. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 6 — Kazakhstan, MM Publications (H. Q. Mitchell – Marileni Malkogianni). THE HELD COPY IS INCOMPLETE: about 20 printed pages are missing, including the Modules 1–3 contents page, and there is no imprint, title page or back cover in the file — no "fully read" claim stands for the missing pages (sweep flag 3). Rows below rest on the copy as held, itemised from its contents skills/writing columns and module pages. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, MM Publications, ISBN 978-618-05-1660-7 (from the back cover; no imprint page in the scan). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonics: c [k], ch [tʃ], sh [ʃ], r [r] — the r sound stocked taught corrected: the book's alphabet table (printed p.5) gives Rr as [ɑː] beside a leftover publisher's editorial note, against its own syllabus's r [r] | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 2 My School |
+| Phonics: ng [ŋ], ai/ay [eɪ], th [θ] | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 5 My Free Time |
+| Phonics: oo [uː], ar [ɑː], ow/ou [aʊ] | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 7 Buildings |
+| Phonics: wh [w], wh [h], z [z] | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 8 My Holidays |
+| Sounds Spot: ch–sh (cherry, chase, dish, fish) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 2 Light and Dark |
+| Sounds Spot: ou (house, mouse, blouse) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 4 Buildings |
+| Sounds Spot: s–sh (sea, sheep, fish) | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 8 Having Fun |
+| Pronunciation: /ɪ/, /iː/, /aɪ/ | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 3 |
+| Pronunciation: /ʊ/, /uː/ | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 5 |
+| Pronunciation: /əʊ/, /aʊ/ | Kazakhstan — *Full Blast!, Grade 8*, Module 2 Our World |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

@@ -83,6 +83,9 @@ its own subtitle folder with its own lesson + questions):
   dialogue-and-discussion (added 2026-11-11 by the Sierra
   Leone re-verification sweep merge — **Unit 5,
   Conversation**) ·
+  recommending (added 2026-11-11 by the Kazakhstan
+  re-verification sweep merge — **Unit 5,
+  Conversation**) ·
   likes-and-hobbies · stating-and-giving-opinions ·
   starting-and-ending-a-conversation (added 2026-11-09 by
   the Indonesia re-verification sweep merge — **Unit 5,
@@ -235,11 +238,17 @@ its own subtitle folder with its own lesson + questions):
   phrases (added 2026-11-11 by the Sierra Leone
   re-verification sweep merge — **Unit 13, Joining and
   Describing**) ·
+  time-clauses (added 2026-11-11 by the Kazakhstan
+  re-verification sweep merge — **Unit 13, Joining and
+  Describing**) ·
   participles-as-verb-forms (added 2026-11-11 by the Sierra
   Leone re-verification sweep merge — **Unit 19, Earlier
   Than the Past**) ·
   future-perfect-continuous-tense (added 2026-11-11 by the
   Sierra Leone re-verification sweep merge — **Unit 20, The
+  Future in Detail**) ·
+  the-future-perfect (added 2026-11-11 by the
+  Kazakhstan re-verification sweep merge — **Unit 20, The
   Future in Detail**) ·
   auxiliary-verbs (added 2026-11-11 by the South Sudan
   re-verification sweep merge — **Unit 26, How Sure Are
@@ -252,7 +261,9 @@ its own subtitle folder with its own lesson + questions):
   Sentences**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
-  Days, and Time**)
+  Days, and Time**) · measurements (added 2026-11-11 by the
+  Kazakhstan re-verification sweep merge — **Unit 9,
+  Numbers, Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
   answering-from-the-text (built 2026-10-27 — **Units 14–15**:
@@ -265,7 +276,10 @@ its own subtitle folder with its own lesson + questions):
   Texts**) ·
   the-four-language-skills-orientation (added 2026-11-11 by
   the Sierra Leone re-verification sweep merge — **Unit 15,
-  Reading Whole Texts**) · finding-information (added 2026-11-10 by the
+  Reading Whole Texts**) ·
+  texting-and-messaging (added 2026-11-11 by the
+  Kazakhstan re-verification sweep merge — **Unit 44,
+  Tests, Translating, Other Ways**) · finding-information (added 2026-11-10 by the
   Ghana re-verification sweep merge — **Unit 42, Reading
   Like a Detective**)
 - Essay → the-essay · opening-and-closing (built
@@ -274,6 +288,9 @@ its own subtitle folder with its own lesson + questions):
   the-big-reading (built 2026-10-27 — **Unit 17, Stories**;
   with this, all 17 units of the English path are built) ·
   riddles (added 2026-11-11 by the South Africa
+  re-verification sweep merge — **Unit 41, Stories and
+  Poems in Detail**) ·
+  predicting (added 2026-11-11 by the Kazakhstan
   re-verification sweep merge — **Unit 41, Stories and
   Poems in Detail**)
 **Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
@@ -295,7 +312,9 @@ the-past-perfect-continuous · the-past-continuous ·
 future-continuous · future-perfect · plans-in-the-past ·
 Essay → the-formal-letter · job-application-letters ·
 complaint-letters · letters-that-ask-and-advise ·
-cv-and-cover-letter · personal-statements-and-proposals ·
+asking-for-advice (added 2026-11-11 by the Kazakhstan
+re-verification sweep merge — **Unit 34, Letters That
+Work**) · cv-and-cover-letter · personal-statements-and-proposals ·
 job-interviews · report-writing · news-writing · process-writing ·
 forms-minutes-and-questionnaires · recount-text (added
 2026-11-09 by the Indonesia re-verification sweep merge —
@@ -304,7 +323,9 @@ blog-and-online-posts · article-writing ·
 advertisements-and-posters · speech-writing · presentation-skills ·
 play-scripts · radio-and-tv-programme-scripts (added
 2026-11-11 by the South Sudan re-verification sweep merge —
-**Unit 38, Speeches and Shows**) · essay-kinds · note-making · summarising ·
+**Unit 38, Speeches and Shows**) · essay-kinds · advantages-and-disadvantages (added
+2026-11-11 by the Kazakhstan re-verification sweep merge —
+**Unit 39, Essays and Shortening**) · note-making · summarising ·
 diary-and-journal · biography-writing ·
 postcards-and-personal-letters · Story → story-techniques ·
 poetry-writing · Paragraph → reading-between-the-lines ·

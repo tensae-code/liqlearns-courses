@@ -1,7 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt
-
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Honeydew (Textbook in English for Class
@@ -111,7 +110,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 20 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 21 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -391,3 +390,26 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 5 — Kazakhstan, Express Publishing (Virginia Evans, Jenny Dooley & Bob Obee — the third author the record omits), ISBN 978-1-4715-5775-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book with bound-in Workbook & Grammar Book — Grade 6 — Kazakhstan, Express Publishing (Evans, Dooley & Obee); Student's Book ISBN 978-1-4715-5555-8, bound-in Workbook © 2017, ISBN 978-1-4715-5557-2. Book error carried: the bound-in Workbook genuinely skips 7 — there is no Use of English 7 / Vocabulary Bank 7 in it (the filing's note is verified). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, MM Publications, ISBN 978-618-05-1660-7 (from the back cover; no imprint page in the scan). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pronunciation: word stress; the sounds /s/, /z/, /ɪz/ | Kazakhstan — *Excel, Grade 5*, Module 2 Living Things! |
+| Pronunciation: /ŋ/ | Kazakhstan — *Excel, Grade 5*, Module 9 Holidays |
+| Pronunciation: contracted forms ('ll / won't) | Kazakhstan — *Excel, Grade 6 (Student's Book + bound-in Workbook & Grammar Book)*, Module 6 Travel & Holidays |
+| Pronunciation: stressed syllables | Kazakhstan — *Full Blast!, Grade 8*, Module 5 Reading for Pleasure |
+| Pronunciation: stress and meaning | Kazakhstan — *Full Blast!, Grade 8*, Module 7 Travel and Transport |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

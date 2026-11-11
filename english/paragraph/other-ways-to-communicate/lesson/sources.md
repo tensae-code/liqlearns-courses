@@ -1,7 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Cambodia, Egypt
-
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Cambodia, Egypt, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Marigold Book Three (Textbook in English for Class III) and the Class 4 Marigold book — India, NCERT (National Council of Educational Research and Training). Filed in english/books/india.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
@@ -37,7 +36,7 @@ cited once.
 | Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
 | Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 14 countries (Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 Pchum Ben festival unit and its guide-held Grade 11 customs unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 language-learning vocabulary and Grade 11 TV, film and newspaper words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Cambodia, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 Pchum Ben festival unit and its guide-held Grade 11 customs unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 language-learning vocabulary and Grade 11 TV, film and newspaper words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -198,3 +197,21 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Means of communication | Kazakhstan — *Excel, Grade 7 (2017)*, Module 2 Communication & Technology (printed pp.17–28) |
+| Means of communication | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 2 Communication & Technology (printed pp.17–28) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

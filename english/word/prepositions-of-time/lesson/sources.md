@@ -1,7 +1,6 @@
 # Sources — Prepositions of Time
 
-countries: Bolivia, Nicaragua, Yemen
-
+countries: Bolivia, Nicaragua, Yemen, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -21,7 +20,7 @@ Every part traces to its book and page.
 | Prepositions inside travel and time questions — at / to / from / in / on / by | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.57 |
 | Prepositions of time — on + day/date, in + period | Nicaragua, Grade 9 Módulo Autoformativo, Unit 5B, PDF pp.137–139 |
 
-**Acceptance count: taught in 3 countries (Bolivia, Nicaragua, Yemen).** Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Bolivia, Nicaragua, Yemen, Kazakhstan).** Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the at/on/in time system taught in four places — two student books and two compendium charts — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -41,3 +40,24 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 Named sub-points (inside items already counted as stocked; the sweep named them as carrying no Yemen citation):
 
 | Time prepositions at / in / on (Language review 1) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.15 |
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Language for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing (2024 line). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks — the sweep's declared method for scan books).
+
+**Book:** *Top Stars for Kazakhstan*, Student's Book — Grade 3 — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of time | Kazakhstan — *English Language for Kazakhstan, Grade 3*, Module 4 Weather (printed pp.42–53) |
+| Prepositions of time (on, at) | Kazakhstan — *Top Stars, Grade 3*, Module 3 People I Love |
+| Prepositions on and at | Kazakhstan — *English Plus, Grade 5*, printed p.15 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

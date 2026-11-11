@@ -1,7 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa
-
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Academy Stars — Year 6 — Pupil's Book —
@@ -100,7 +99,7 @@ verification sweep.
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
 | A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 13 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa).** Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 14 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan).** Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -243,3 +242,24 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Writing journals | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 5, Content Mapping printed p.vi |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Kazakhstan — Pupil's Book*, Grade 3 — Kazakhstan, Macmillan (printed title as found; no ISBN and no year are printed anywhere in the book, so the record's 2024 is unverifiable from the book itself). Book error carried: printed p.5 prints a leftover publisher's editorial note ("MAC ED: Is this the correct phonetic information for R? …") and the alphabet table gives Rr as [ɑː] while the book's own syllabus gives r [r] — the sound is stocked taught corrected. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 3 — Kazakhstan, Express Publishing, Kazakh imprint 2018 (the title page credits Dooley alone; the record's 2017 is wrong). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, read from its contents/syllabus tables with module-opener checks).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a diary (literacy strand) | Kazakhstan — *English for Kazakhstan Pupil's Book, Grade 3 (Macmillan)*, Unit 8 My Holidays |
+| Writing a project about your favourite day | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 3 Time |
+| Writing a project about your daily routine | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 5 Art and Music |
+| Writing a project about your last birthday | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 6 Explorers and Inventors |
+| Writing a diary entry | Kazakhstan — *Smiles, Grade 3 (2018 imprint)*, Module 8 Having Fun |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

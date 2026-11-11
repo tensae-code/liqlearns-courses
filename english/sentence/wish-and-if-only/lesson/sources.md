@@ -1,7 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos
-
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -61,7 +60,7 @@ covers the 6th Year book only).
 | Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
 | Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 14 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos).** Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 15 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan).** Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -176,4 +175,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Sciences — Low-mid B2* («Study Inn»), Student's Book — Grade 10 — Kazakhstan, a bespoke book whose every spread carries the licence footer naming «Study Inn» as rights holder, issued at the request of the Ministry of Education and Science (ref. 13-2/048 of 10.09.2019); NO author, ISBN, imprint or year is printed anywhere in the book. It is NOT the Spencer / Macmillan "Gateway" book the record and inventory name — those names occur nowhere in its complete text layer (sweep flag 4; corrected here course-side, the filing is reported, not edited). Book error carried: its contents page numbers for Units 2–9 are all misprinted low; unit starts are cited as the sweep's placements give them. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| "If only…" (taught in the book's back reference section, beyond unit practice) | Kazakhstan — *«Study Inn» English — Sciences, Grade 10*, reference section |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

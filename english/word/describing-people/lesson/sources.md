@@ -1,7 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos
-
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10 (student's book) — Cambodia,
@@ -166,7 +165,7 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 25 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with Full Blast Plus 4's personality adjectives and appearance expressions (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+**Acceptance count: taught in 26 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with Full Blast Plus 4's personality adjectives and appearance expressions (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -516,4 +515,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book with bound-in Workbook & Grammar Book — Grade 6 — Kazakhstan, Express Publishing (Evans, Dooley & Obee); Student's Book ISBN 978-1-4715-5555-8, bound-in Workbook © 2017, ISBN 978-1-4715-5557-2. Book error carried: the bound-in Workbook genuinely skips 7 — there is no Use of English 7 / Vocabulary Bank 7 in it (the filing's note is verified). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing people (speaking, key phrases) | Kazakhstan — *English Plus, Grade 5*, printed p.46 |
+| Character adjectives | Kazakhstan — *Excel, Grade 6 (Student's Book + bound-in Workbook & Grammar Book)*, Module 7 Reading for Pleasure (printed pp.77–86) |
+| Adjectives: characteristics | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.82 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

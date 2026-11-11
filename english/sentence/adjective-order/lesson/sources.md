@@ -1,7 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia
-
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Year 6 (Grade 12) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -46,7 +45,7 @@ verification sweep.
 | Adjective order — opinion, size, shape, age, colour, nationality, material | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B, printed p.94 (PDF p.100) |
 | Degrees and order of adjectives, with the adjective phrase, in the Try Again unit | Pakistan, *English X*, Unit 3 (contents) |
 
-**Acceptance count: taught in 13 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia).** Malaysia joins with Close-Up's adjective order in food descriptions (stocked 2026-11-11 by the re-verification sweep merge). India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan).** Malaysia joins with Close-Up's adjective order in food descriptions (stocked 2026-11-11 by the re-verification sweep merge). India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.
 
@@ -128,3 +127,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Adjective order in food descriptions (with word formation) | Malaysia, Form 3 *Close-Up* B1, Unit 2 (contents, pp.17–28) |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 6 — Kazakhstan, MM Publications (H. Q. Mitchell – Marileni Malkogianni). THE HELD COPY IS INCOMPLETE: about 20 printed pages are missing, including the Modules 1–3 contents page, and there is no imprint, title page or back cover in the file — no "fully read" claim stands for the missing pages (sweep flag 3). Rows below rest on the copy as held, itemised from its contents skills/writing columns and module pages. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word order; usage and order of adjectives (developing skills) | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 1 (copy as held — the Modules 1–3 contents page is among the missing pages) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

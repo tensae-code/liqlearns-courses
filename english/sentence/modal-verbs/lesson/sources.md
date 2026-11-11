@@ -1,7 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela
-
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -13,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 3 countries (Bolivia, South Sudan, Venezuela).**
+**Acceptance count: taught in 4 countries (Bolivia, South Sudan, Venezuela, Kazakhstan).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the obligation modals compared as a family in two places — the Grade 11 student book's SHOULD/MUST unit and the compendium's starred Year 5 comparison — while the course taught them only scattered inside other lessons. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the comparison itself. The compendium's comparison is carried in its own wording, including its statement that have to is “not a modal verb”, so the claim is checkable against the cited page. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -52,3 +51,24 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | must beside the have to family — have to / has to / will have to, the obligation comparison | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 12, student printed pp.96–103 (guide plan printed p.75) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Laser B1+*, Student's Book — Grade 9 (Kazakhstan) — Kazakhstan, Macmillan. Verified in the sweep against its grammar lessons and database: this book teaches NO reported speech — the filing's negative there is correct. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modals | Kazakhstan — *Excel, Grade 8 (2018)*, Module 7 Travel & Transport |
+| Modals (obligation / possibility review set) | Kazakhstan — *Laser B1+, Grade 9*, printed p.82 |
+| Should, must, have to (language point) | Kazakhstan — *English Plus, Grade 9*, printed p.25 (opener spread) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

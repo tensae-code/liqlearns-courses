@@ -1,7 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos
-
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -73,7 +72,7 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 16 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 17 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -214,4 +213,18 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Invitations: making and responding | Kazakhstan — *English Plus, Grade 9*, printed p.74 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

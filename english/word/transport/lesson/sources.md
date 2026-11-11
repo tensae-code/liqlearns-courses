@@ -1,7 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos
-
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 2
@@ -95,7 +94,7 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 22 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos).** Malaysia joins with its travel-ticket exchange and Full Blast Plus 4's airport language (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 23 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with its travel-ticket exchange and Full Blast Plus 4's airport language (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -368,4 +367,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 8 (Kazakhstan edition) — Kazakhstan, Oxford University Press, ©/first published 2018. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 9 — Kazakhstan, Express Publishing, ISBN 978-1-4715-7503-7 (from the back cover; the scan holds no imprint page). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Journeys vocabulary; prepositions by and on | Kazakhstan — *English Plus, Grade 5*, printed p.86 |
+| The future of transport (listening) | Kazakhstan — *English Plus, Grade 8*, printed p.84 |
+| Means of transport; sights; landmarks | Kazakhstan — *Excel, Grade 9*, Module 8 Travel & Tourism (printed pp.87–98) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

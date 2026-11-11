@@ -1,7 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos
-
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -212,7 +211,7 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 21 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos).** Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 22 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan).** Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -433,4 +432,21 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 7 (Kazakhstan edition), 2017 first edition — Kazakhstan, Oxford University Press, ISBN 978-0-19-421186-4. The held file is this 2017 edition, held byte-identically twice and counted once; the record row claiming a 2025 "Second Edition" describes a book NOT held, and nothing here rests on it (sweep flag 5 — the 2nd edition remains owed, library side). Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a profile (biography phrases) | Kazakhstan — *English Plus, Grade 6*, printed p.51 |
+| Milestones vocabulary — become a professional, have a child… (life events, stocked under word sets) | Kazakhstan — *English Plus, Grade 7 (2017 first edition)*, printed p.40 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

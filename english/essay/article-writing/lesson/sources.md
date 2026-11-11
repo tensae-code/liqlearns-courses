@@ -1,7 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa
-
+countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Preparatory 9 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -80,7 +79,7 @@ verification sweep.
 | Writing an article, "How to make people environmentally friendly?" | Mongolia, English XII, Unit 7, printed p.129 |
 | Writing a magazine article about a wheelchair fashion or dance show | Mongolia, English XII, Unit 10, printed pp.187–188 |
 
-**Acceptance count: taught in 12 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 StudyMall/EcoMall project (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 StudyMall/EcoMall project (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -187,3 +186,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Writing an article describing a place | Malaysia, Form 4 *Full Blast Plus 4*, Module 7 (contents, skills spread) |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Sciences — Low-mid B2* («Study Inn»), Student's Book — Grade 10 — Kazakhstan, a bespoke book whose every spread carries the licence footer naming «Study Inn» as rights holder, issued at the request of the Ministry of Education and Science (ref. 13-2/048 of 10.09.2019); NO author, ISBN, imprint or year is printed anywhere in the book. It is NOT the Spencer / Macmillan "Gateway" book the record and inventory name — those names occur nowhere in its complete text layer (sweep flag 4; corrected here course-side, the filing is reported, not edited). Book error carried: its contents page numbers for Units 2–9 are all misprinted low; unit starts are cited as the sweep's placements give them. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an article | Kazakhstan — *«Study Inn» English — Sciences, Grade 10*, Unit 1 Science and scientific phenomena |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

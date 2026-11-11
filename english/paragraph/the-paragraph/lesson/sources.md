@@ -634,3 +634,8 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Kazakhstan — verification note (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's held Full Blast! books from the files themselves. The held Grade 6 copy lacks about 20 printed pages, including a contents page, and the held Grade 9 copy is a photographed set with gaps (printed pp.11, 62, 129, 195, 248 were never photographed, and its contents rows for Modules 5–7 are only partly present). The "FULLY READ + CITATION CHECK PASSED" formula in this file's Kazakhstan Full Blast book entries therefore does not hold for these two copies: rows resting on them stand on the copy as held, and any claim about Full Blast Grade 9 Modules 5–7 cannot be confirmed or refuted from the copy in hand — it stands as the filing's claim, not as verified (sweep flags 2–3). A complete Full Blast G6 and a proper Full Blast G9 scan remain library wants. The filing (english/books/kazakhstan.md) is reported, not edited.
+

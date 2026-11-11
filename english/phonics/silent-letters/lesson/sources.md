@@ -1,7 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia
-
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English — General Basic Education, Medium
@@ -68,7 +67,7 @@ verification sweep.
 | Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
 | Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 9 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -133,3 +132,27 @@ The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English b
 Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Excel for Kazakhstan*, Student's Book with bound-in Workbook & Grammar Book — Grade 6 — Kazakhstan, Express Publishing (Evans, Dooley & Obee); Student's Book ISBN 978-1-4715-5555-8, bound-in Workbook © 2017, ISBN 978-1-4715-5557-2. Book error carried: the bound-in Workbook genuinely skips 7 — there is no Use of English 7 / Vocabulary Bank 7 in it (the filing's note is verified). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 6 — Kazakhstan, MM Publications (H. Q. Mitchell – Marileni Malkogianni). THE HELD COPY IS INCOMPLETE: about 20 printed pages are missing, including the Modules 1–3 contents page, and there is no imprint, title page or back cover in the file — no "fully read" claim stands for the missing pages (sweep flag 3). Rows below rest on the copy as held, itemised from its contents skills/writing columns and module pages. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Full Blast! for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, MM Publications, ISBN 978-618-05-1660-7 (from the back cover; no imprint page in the scan). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pronunciation: silent letters | Kazakhstan — *Excel, Grade 6 (Student's Book + bound-in Workbook & Grammar Book)*, Module 3 Our Countryside |
+| Pronunciation: silent letters | Kazakhstan — *Full Blast!, Grade 6 (incomplete copy)*, Module 4 |
+| Pronunciation: silent letters | Kazakhstan — *Excel, Grade 8 (2018)*, Module 6 The Natural World |
+| Pronunciation of gh (/f/ or silent) | Kazakhstan — *Full Blast!, Grade 8*, Module 9 The World of Work |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+

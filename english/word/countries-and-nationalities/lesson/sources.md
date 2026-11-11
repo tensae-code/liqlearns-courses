@@ -1,7 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos
-
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
@@ -34,7 +33,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -78,4 +77,24 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Smiles 2*, Activity Book — Grade 2 — Kazakhstan, Express Publishing, 2017 (Dooley – Evans). THE HELD FILE IS DEFECTIVE: it is the Activity Book's body (printed pp.4–92 only) inside Pupil's Book covers — no Pupil's Book lesson content exists in the file, and the contents' promised Story Cutouts (printed pp.93–126) and stickers are absent. Rows below cite the Activity Book only, exactly as held; the real Pupil's Book remains owed, and the G2 row's disposition stays the owner's call (library side). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Smiles for Kazakhstan*, Pupil's Book — Grade 4 — Kazakhstan, Express Publishing, first published 2019, ISBN 978-1-4715-7756-7 (title page credits Dooley alone; the book is held twice as the same book/edition and is counted once). Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *English Plus*, Student's Book — Grade 5 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Where is it from? — origin and countries in written form | Kazakhstan — *Smiles 2 Activity Book, Grade 2*, Module 4 (the held Activity Book body, printed pp.4–92) |
+| The Vikings; places | Kazakhstan — *Smiles, Grade 4 (2019)*, Module 2 Values in Myths and Legends (printed pp.18–31) |
+| Countries and capitals word set | Kazakhstan — *English Plus, Grade 5*, printed p.6 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

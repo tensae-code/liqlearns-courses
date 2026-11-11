@@ -1,7 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos
-
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** *Uérakua anapu uantakua. Projects and
@@ -138,7 +137,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 25 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 26 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -445,4 +444,27 @@ The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 
 Laos is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Plus*, Student's Book — Grade 6 (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7 (2017 edition) — Kazakhstan, Express Publishing (Evans, Dooley & Obee), ISBN 978-1-4715-5783-9. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 7, 2nd edition — Kazakhstan, Express Publishing, ISBN 978-1-3992-1913-6. Its contents tables were read in full in the sweep and are identical in module, grammar, reading and writing programme to the 2017 edition's; the two editions are distinct books (different ISBN, different edition) and are cited separately, each checked against its own contents tables. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Excel for Kazakhstan*, Student's Book — Grade 8 — Kazakhstan, Express Publishing (Evans, Dooley & Obee), printed 2018 (the record's 2019 is wrong), ISBN 978-1-4715-7690-0. Filed in english/books/kazakhstan.md; re-read in the 2026-11-08 re-verification sweep (scan book, contents-table method).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Free-time activities vocabulary; verbs expressing preference | Kazakhstan — *English Plus, Grade 6*, printed pp.8–9 |
+| Holiday activities; sports; experiences; holiday problems | Kazakhstan — *Excel, Grade 7 (2017)*, Module 3 Holidays & Travel (printed pp.29–40) |
+| Holiday activities; sports; experiences; holiday problems | Kazakhstan — *Excel, Grade 7 (2nd edition)*, Module 3 Holidays & Travel (printed pp.29–40) |
+| Physical activities; sport | Kazakhstan — *Excel, Grade 8 (2018)*, Module 4 Sport, Health & Exercise (printed pp.41–52) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 

@@ -1,7 +1,6 @@
 # Sources — Modal perfects
 
-countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia
-
+countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 Term 1 (Student's
@@ -61,8 +60,8 @@ reproduced.
 | “Tragedies!” — might have, could have, should have (past modals) | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 2, printed p.113 |
 | Workbook Unit 10 (Natural phenomena), lessons 1–3 — practice of past modals with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, WB printed pp.108–117 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia).** Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
+**Acceptance count: taught in 10 countries (Bolivia,
+Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan).** Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
 past ladder inside the same numbered box as the
 present one, and adds blame and regret to it. Nepal's
 criticism forms rest on teacher's-guide evidence and
@@ -113,3 +112,21 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Kazakhstan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held English books (34 files — two books are held twice as the same book/edition, counted once) page by page where the file allowed: 990 teaching items were placed fresh from the books, 808 were already in the course, and 182 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md). Read depth is the sweep's declared one: the text-layer books were read in full; the scan books were read from their own contents/syllabus tables with module-opener spot checks — module-level reliable, with single opener-spread points possibly under-itemised.
+
+Kazakhstan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Laser B1*, Student's Book — Grade 8 (Kazakhstan) — Kazakhstan, Macmillan. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+**Book:** *English Plus*, Student's Book — Grade 9 (Kazakhstan edition) — Kazakhstan, Oxford University Press, first published 2019 (the records' 2015-era dating is wrong), ISBN 978 0 19 453123 8. Printed p. = PDF p. − 3. Filed in english/books/kazakhstan.md; re-read page by page in the 2026-11-08 re-verification sweep (text-layer book, read in full).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modal perfect (must have / can't have…) | Kazakhstan — *Laser B1, Grade 8*, printed p.22 |
+| Past modals (should have…) | Kazakhstan — *English Plus, Grade 9*, printed p.25 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
+
