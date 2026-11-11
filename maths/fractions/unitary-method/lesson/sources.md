@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya
 
 Every part traces to its book and page.
 
@@ -21,6 +21,8 @@ Every part traces to its book and page.
 
 **Book 10:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 11:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The unitary method named and drilled as its own method: many → one → many | Pakistan, Grade 5 student book, Unit 6 — Unitary Method, printed pp. 89–90 |
@@ -39,8 +41,12 @@ Every part traces to its book and page.
 | Razones, proporciones y regla de tres: simple rule of three (direct and inverse) | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 1 (Grade 7) section, printed p. 71 |
 | Razones, proporciones y regla de tres: compound rule of three | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 1 (Grade 7) section, printed p. 73 |
 | The unitary method, taught inside the financial-calculations chapter beside percent and discount | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 57–58 |
+| Understanding rate | Libya, Grade 5 pupil's book, Unit 11, Lesson 1, printed p.180 |
+| Word problems (rate) | Libya, Grade 5 pupil's book, Unit 11, Lesson 2, printed p.183 |
 
-**Acceptance count: taught in 8 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 9 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+
+Libya carries rate in Grade 5 — understanding rate, and word problems on rate (stocked by the 2026-11-08 re-verification sweep).
 
 Syria's Grade 8 Algebra exercises carry the rate-as-unitary-method work the lesson collects: a car's fuel consumption given as litres per 100 km and converted to the distance it covers on one litre.
 

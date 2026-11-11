@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa
+countries: Turkey, Bangladesh, South Africa, Libya
 
 Every part traces to its book and page.
 
@@ -8,6 +8,8 @@ Every part traces to its book and page.
 **Book 2:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 3:** *Mathematics, Grade 6 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 1 ISBN 978-1-4315-0037-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
+**Book 4:** *Statistics (الإحصاء), Grade 12* (student book; third year secondary, Humanities section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,8 +22,14 @@ Every part traces to its book and page.
 | Review: a lake-level line-graph study audited step by step; a survey whose respondents refused personal questions — the effects on ethics and on results; the safe-behaviour item | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed pp. 195–196 |
 | Judging the reliability of data sources — reliable data sources and honesty in research: checking information before using it | Bangladesh, Class 8 student book, Exp. 1 Mathematical Exploration, printed p. 21 (experience printed pp. 1–24) |
 | Questionnaires — designing data collection (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 23 Questionnaires (designing data collection), printed p. 70 |
+| Introduction; the importance of population statistics | Libya, Grade 12 Statistics (Humanities section), §§1-4–1-1-4, printed p.91 |
+| The population census; requirements for conducting it | Libya, Grade 12 Statistics (Humanities section), §2-4, printed p.93 |
+| Population terms — population density; population growth rate; ratios; the sex ratio | Libya, Grade 12 Statistics (Humanities section), §2-2-4, printed p.95 |
+| Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
 
-**Acceptance count: taught in 3 countries (Turkey, Bangladesh, South Africa).**
+**Acceptance count: taught in 4 countries (Turkey, Bangladesh, South Africa, Libya).**
+
+Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 
 This lesson exists because Turkey's Grade 7 book teaches the critical audit of research as named, developed material: the second half of its Statistical Research Process theme is titled "Examining statistical research processes" (printed pp. 190–196) and works a mismatched survey dissection, source tracing to the NSIDC, a source-less claim, itemised privacy failures, consent and the KVKK box, an audit performance task and an audit review; its collection step (printed p. 170) names personal-data questions. The course's collecting-and-showing-data lesson carries the research process itself — Turkey's own process lines are stocked there, including its Grade 6 survey-writing treatment with its survey privacy context (Grade 6, printed p. 175) — but no read book puts the audit of a finished study, or privacy and consent, into that lesson, and no lesson in the course carries privacy content at all. Under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source.
 

@@ -220,6 +220,10 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 133:** *Mathematics, Grade 6* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova et al., Mektep (Kazakh and Russian editions and further printings in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 134:** *Mathematics, Grade 6* (Aldamuratova set, Parts 1–2) — Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura, 2018 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 135:** *Mathematics, Grade 10 pupil's book, Part 1* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 136:** *Mathematics, Grade 12* (student book; third year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-2 Cartesian product p.13; 1-3 Relations p.16; 1-4 Function (application) p.19 (printed folios — an earlier version of this row carried the French contents-page numbers 2/8/11/14; corrected in the 2026-11-08 re-verification sweep) |
@@ -619,6 +623,11 @@ CITATION CHECK PASSED 2026-11-05).
 | Dependencies between quantities: given by formulas, tables and graphs; studying real-process graphs; direct proportionality and its graph | Kazakhstan, Grade 6 (Aldamuratova set), Part 2, Ch. IX, §9.1–9.5, printed pp. 148–180 |
 | Functions: the function and ways of giving it, graphs of tabulated functions, the linear function y = kx + b, mutual position of linear graphs, y = ax², y = ax³, y = k/x | Kazakhstan, Algebra 7 (Shynybekov set), Ch. 3, §3.1–3.5, printed pp. 74–121 |
 | The quadratic function | Kazakhstan, Algebra 8 (Abylkasymova set), Ch. 3 |
+| Functions (Ch.1 closing sections) | Libya, Grade 10 pupil's book Part 1, printed p.36 |
+| Even and odd functions | Libya, Grade 12 Mathematics (Science section), §1-3, printed p.55 |
+| One-to-one and onto functions | Libya, Grade 12 Mathematics (Science section), §2-3, printed p.57 |
+| Inverse functions | Libya, Grade 12 Mathematics (Science section), §3-3, printed p.59 |
+| Composite functions | Libya, Grade 12 Mathematics (Science section), §4-3, printed p.62 |
 
 **Acceptance count: taught in 38 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone).**.** Egypt carries the
 

@@ -202,6 +202,8 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 92:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 **Book 93:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 94:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fraction × whole number as repeated addition; fraction of a set | Kazakhstan, Grade 5, Ch.3 §3.11 Multiplying fractions and mixed numbers, p.195 (fraction × natural as repeated addition); Egypt, Grade 5 Term 2, Unit 9, L1 Multiplying a Fraction or Mixed Number by a Whole Number, pp.28–29; Sierra Leone, Primary 4 Term 2, L81–90 Multiplication of Like, Related and Proper Fractions, printed pp.45–64 (teacher plans); Libya, Grade 5, Unit 6, Product of a fraction by a whole number p.91, Fraction of a set (Grade 4, Ch.8) p.114 |
@@ -352,6 +354,15 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiply a mixed fraction — Ba able to solve (mixed fraction) × (whole number) and (whole number) × (mixed fraction) | Ghana, JICA Primary Mathematics Teacher Manual, Basic 5, Lesson 53, printed p. 53 (teacher evidence only) |
 | Standard B7.1.3.3: Demonstrate an understanding of the process of multiplying and dividing positive fractions and apply this in solving problems | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.1.3.3, printed p. 20 (curriculum evidence only) |
 | Multiplying and dividing common fractions and mixed numbers (inside common fractions and operations on them) | Kazakhstan, Grade 5 (Abylkasymova set), Part 1, Ch. 3, §16–28, printed pp. 80–140 |
+| Fractions and division | Libya, Grade 5 pupil's book, Unit 5, Lesson 4, printed p.80 |
+| Fraction × whole number | Libya, Grade 5 pupil's book, Unit 6, Lesson 1, printed p.91 |
+| Word problems (1) — fraction multiplication | Libya, Grade 5 pupil's book, Unit 6, Lesson 2, printed p.93 |
+| Multiplying fractions | Libya, Grade 5 pupil's book, Unit 6, Lesson 4, printed p.99 |
+| Word problems (2) | Libya, Grade 5 pupil's book, Unit 6, Lesson 5, printed p.101 |
+| Word problems (3) | Libya, Grade 5 pupil's book, Unit 6, Lesson 7, printed p.108 |
+| Multiplying fractions (§6-2) | Libya, Grade 7 pupil's book, §6-2, printed p.51 |
+| Dividing fractions (§7-2) | Libya, Grade 7 pupil's book, §7-2, printed p.54 |
+| Reciprocals (§3-4) | Libya, Grade 7 pupil's book, §3-4, printed p.105 |
 
 **Acceptance count: taught in 40 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, Tanzania, South Africa).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived, Iran multiplies and divides fractions in Grade 5 and defines reciprocals in Grade 6.
 not just stated; Egypt carries the area-model multiplication and

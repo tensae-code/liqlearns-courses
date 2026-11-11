@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya
 
 Every part traces to its book and page.
 
@@ -35,6 +35,8 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 19:** *Algebra, Grade 7* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 20:** *Algebra, Grade 7* (Abylkasymova set) — Kazakhstan, Abylkasymova, Kucher, Korchevsky, Zhumagulova, Mektep, 2017 (Kazakh, Russian, Uyghur and Uzbek editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 21:** *Algebra, Grade 7* (Yelemesov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 22:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -89,7 +91,15 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Rational expressions: the rational expression, reducing algebraic fractions, adding/subtracting/multiplying/dividing algebraic fractions, identical transformations | Kazakhstan, Algebra 7 (Shynybekov set), Ch. 6, §6.1–6.3, printed pp. 170–197 |
 | Rational expressions (the Mektep Grade 7 algebra line's closing chapter, parallel to the Shynybekov Ch. 6) | Kazakhstan, Algebra 7 (Abylkasymova set), Ch. 6 |
 | Rational expressions: rational expressions and their domain, simplifying | Kazakhstan, Algebra 7 (Yelemesov, English-medium edition), Ch. 6, printed pp. 242–272 |
-**Acceptance count: taught in 13 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Algebraic fractions (§1-2) | Libya, Grade 9 pupil's book, §1-2, printed p.36 |
+| Simplifying simple algebraic fractions (§2-2) | Libya, Grade 9 pupil's book, §2-2, printed p.36 |
+| Simplifying algebraic fractions with factorisation (§3-2) | Libya, Grade 9 pupil's book, §3-2, printed p.38 |
+| Multiplying/dividing algebraic fractions (§4-2) | Libya, Grade 9 pupil's book, §4-2, printed p.40 |
+| Adding/subtracting algebraic fractions, numerical denominators (§5-2) | Libya, Grade 9 pupil's book, §5-2, printed p.42 |
+| Adding/subtracting algebraic fractions, algebraic denominators (§6-2) | Libya, Grade 9 pupil's book, §6-2, printed p.46 |
+**Acceptance count: taught in 14 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+
+Libya carries algebraic fractions in Grade 9, Chapter 2 — simplifying, multiplying and dividing, and adding and subtracting with numerical and then algebraic denominators (stocked by the 2026-11-08 re-verification sweep).
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 

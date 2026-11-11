@@ -1,6 +1,6 @@
 # Sources — Radian measure
 
-countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Armenia, China, Indonesia
+countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Armenia, China, Indonesia, Libya
 
 Every part traces to its book and page.
 
@@ -34,6 +34,8 @@ Every part traces to its book and page.
 **Book 22:** *Algebra and Elements of Mathematical Analysis 10, advanced programme, teacher's methodological guide, Semester 1* (teacher guide) — Armenia, Limush, 2024, ISBN 978-9939-64-397-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 **Book 23:** *Mathematics, Compulsory Volume 3 （必修第三册）, B edition* (senior student book) — China, People's Education Press (PEP), Chinese. The held copy's imprint is redacted, so no full ISBN or printing year is quotable for this book. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* (Mathematics, Advanced level, Grade 11 student book, Revised edition) — Indonesia, Yosep Dwi Kristanto, Muhammad Taqiyuddin, Al Azhary Masta, Elyda Yulfiana, Kemendikbudristek, 2024, ISBN 978-623-388-335-1. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — gap batch). The matched student book of the 2024 Tingkat Lanjut Revisi teacher guide.
+
+**Book 25:** *Mathematics, Grade 10 pupil's book, Part 1* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -83,7 +85,10 @@ Every part traces to its book and page.
 | Radian: positive and negative rotations | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 1, Ch. 2, Part 1, printed p. 110 (teacher evidence) |
 | Angles generalised; radian measure and conversion between the degree and radian systems | China, Compulsory Volume 3 (B edition) student book, §7.1, printed pp. 3–13 |
 | Radians and degree–radian conversion, inside the trigonometric-functions chapter | Indonesia, Grade 11 Tingkat Lanjut Revisi 2024 student book, Bab 3, printed pp. 99–158 |
-**Acceptance count: taught in 21 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Armenia, China, Indonesia).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| Sexagesimal and circular (radian) measure | Libya, Grade 10 pupil's book Part 1, §11-3, printed p.115 |
+**Acceptance count: taught in 22 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Armenia, China, Indonesia, Libya).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+
+Libya carries radian measure in Grade 10 Part 1, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
 Malaysia opens Additional Mathematics Form 5 with circular measure: the radian defined from the arc itself, then s = rθ, sector and segment areas, all in radians.
 

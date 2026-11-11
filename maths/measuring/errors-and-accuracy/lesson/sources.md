@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya
 
 Every part traces to its book and page.
 
@@ -31,6 +31,8 @@ Every part traces to its book and page.
 
 **Book 17:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 18:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Approximate numbers as the opening of the topic | Kazakhstan, Shynybekov *Algebra 7*, §1.3, p.42; Yelemessov *Algebra 7*, Ch. 1, p.62 |
@@ -60,8 +62,11 @@ Every part traces to its book and page.
 | Adding and subtracting rounded numbers | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 1.7, printed p. 11 (teacher evidence) |
 | Introduction to Significant Figures; Rounding off Decimal Numbers to Significant Figures | Sierra Leone, JSS 2 Term 1, L9–L10, printed pp. 25–27 |
 | Significant Figures | Sierra Leone, SSS 2 Term 1, L5, printed p. 15 |
+| Significant figures (§2-4) | Libya, Grade 7 pupil's book, §2-4, printed p.104 |
 
-**Acceptance count: taught in 9 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 10 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+
+Libya carries significant figures in Grade 7, Chapter 4 (stocked by the 2026-11-08 re-verification sweep).
 
 Malaysia carries degree of accuracy in Form 3 as the doorway into significant figures, and meets approximation again at the top end, where a small change in a quantity is estimated from its derivative.
 

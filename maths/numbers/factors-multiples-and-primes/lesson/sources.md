@@ -173,6 +173,8 @@ Every part traces to its book and page.
 **Book 123:** *Mathematics, Grade 5* (Aldamuratova set, Parts 1–2) — Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 124:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 125:** *Mathematics, Grade 4 pupil's book, Term 1* (student book; the cover reads Term 1 — الفصل الدراسي الأول; the library record's “Part 1” wording is the record's, not the book's) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Factors and Multiples unit: prime and composite numbers; Greatest Common Factor | Egypt, Grade 4 Term 1 (Discovery Techbook, 2025/2026), Unit 6, folios 86–97 |
@@ -180,7 +182,7 @@ Every part traces to its book and page.
 | Divisor and multiple (§5.1, p.114); common divisor, greatest common divisor (§5.2, p.118); common multiple, least common multiple (§5.3, p.121) | Armenia, Mathematics 5, Chapter 5 — Divisibility, §5.1–§5.3, pp.114–121 |
 | Prime and composite numbers (§5.7, p.130); prime factorisation (§5.8, p.132); GCD and LCM via prime factorisation (§5.9, p.135) | Armenia, Mathematics 5, Chapter 5, §5.7–§5.9, pp.130–135 |
 | Factors and multiples (p.86); prime numbers; Greatest common factor (p.61); Least common multiple | Jordan, Grade 5 Student Book, pp.61, 86 |
-| Numbers, Factors and Multiples (opener p.9); prime factors (p.31); HCF (p.32); multiples (p.33); LCM (p.34) | Libya, Grade 7 Mathematics, Chapter 1, pp.9, 30–34 |
+| Numbers, Factors and Multiples (opener p.9); factors (§16-1, p.28); prime numbers (§17-1, p.29); prime factors (§18-1, p.30); highest common factor (§19-1, p.31); multiples (§20-1, p.32); lowest common multiple (§21-1, p.33) | Libya, Grade 7 Mathematics, Chapter 1, printed pp.9, 28–33 |
 | The greatest common divisor (§2.8, p.107); the least common multiple (§2.9, p.114) | Kazakhstan, Grade 5 Mathematics, §2.8–§2.9, pp.107–114 |
 | Grade 6 generalises: powers, GCD/LCM, primes | Greece, Grade 6 pupil book |
 | Divisors, multiples, primes, GCD, LCM | Vietnam, Toán 6 |
@@ -554,6 +556,9 @@ Every part traces to its book and page.
 | Divisibility signs for 2, 5 and 10 (inside multiplication and division by a one-digit number) | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1B, lessons 18–26, printed pp. 69–100 |
 | Divisibility basics and the Gauss sum method (inside natural numbers and zero; the four operations) | Kazakhstan, Grade 5 (Aldamuratova set), Part 1, Ch. I, §1.1–1.6, printed pp. 5–35 |
 | Divisibility of natural numbers: divisors and multiples; even and odd numbers; divisibility properties and signs (2, 5, 10; 3, 9); powers; prime factorisation; GCD; LCM | Kazakhstan, Grade 5 (Abylkasymova set), Part 1, Ch. 2, §10–15, printed pp. 52–77 |
+| Factors | Libya, Grade 4 pupil's book Term 1, Unit 2, Lesson 4, printed p.29 |
+| Multiples | Libya, Grade 4 pupil's book Term 1, Unit 2, Lesson 5, printed p.33 |
+| Divisibility tests (§15-1) | Libya, Grade 7 pupil's book, §15-1, printed p.24 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the divisibility tests and the
 Euclidean GCD; the text now teaches them. Sub lesson 2

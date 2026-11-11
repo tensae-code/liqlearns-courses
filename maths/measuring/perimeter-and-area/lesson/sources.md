@@ -73,7 +73,7 @@ school year 1440–1441 AH / 2019–2020 AD; no ISBN printed. Filed
 in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED
 2026-11-05).
 
-**Book 14:** Mathematics, Grade 4, Pupil's Book, Part 2
+**Book 14:** Mathematics, Grade 4, Pupil's Book, Term 2
 (Semester 2) (student book) — Libya, CERC, Ministry of
 Education; school year 1440–1441 AH / 2019–2020 AD; no ISBN
 printed. Filed in maths/books/libya.md (FULLY READ +
@@ -433,6 +433,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 223:** *Geometry, Grade 8* (Smirnov set) — Kazakhstan, Smirnov et al., Mektep (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 224:** *Geometry, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 225:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 226:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -451,8 +455,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area of combined figures (L158, p.105) | Kazakhstan, Grade 4 Part 4, Section 4C, L158, p.105 |
 | Perimeter, rectangle/square area formulas (§1.11) | Kazakhstan, Grade 5 (Atamura, 2017), §1.11 |
 | Area and perimeter: area (p.79); square centimetres (p.82); square metres (p.86); area and perimeter (p.89); more on perimeter (p.92) | Libya, Grade 3 Pupil's Book Part 2, Unit 18, pp.79–96 |
-| Area and perimeter: rectangles and squares (p.76); word problems (p.78); compound shapes — finding perimeter and area (p.80) | Libya, Grade 4 Pupil's Book Part 2, Chapter 13, pp.76–87 |
-| Perimeter (5-1, p.101); rectangle/square perimeter (5-2, p.103) | Libya, Grade 6 pupil's book, Chapter 5, pp.101–103 |
+| Area and perimeter: rectangles and squares (p.76); word problems (p.78); compound shapes — finding perimeter and area (p.80) | Libya, Grade 4 Pupil's Book Term 2, Chapter 13, pp.76–87 |
+| Perimeter (§1-5, printed p.101); area — triangle, parallelogram, trapezium (§2-5, printed pp.108–116) | Libya, Grade 8 pupil’s book, Chapter 5, printed pp.101–116 |
 | Perimeter of square (p.157) and rectangle (p.159); half-perimeter of rectangle (p.161); area concept (p.164) | Mauritania, Grade 4 student book, pp.157–164 |
 | Square perimeter (p.55); parallelogram (p.66) and its perimeter (p.70); rhombus (p.73) and its perimeter (p.78); trapezoid (p.76) and its perimeter (p.81); triangle (p.60) | Mauritania, Grade 5 student book, pp.55–81 |
 | Perimeter (p.159); quadrilateral perimeters (p.162); area units | Mauritania, Grade 6 student book, pp.159–162 |
@@ -893,6 +897,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Areas: the concept and properties of area; areas of triangle (incl. Heron, the trigonometric formulas, the inradius/circumradius forms), parallelogram, rhombus, trapezoid | Kazakhstan, Geometry 8 (Shynybekov set), Ch. 3, printed pp. 114–150 (pagination of the line's English edition) |
 | Areas (inside the Smirnov Grade 8 geometry course: quadrilaterals; right-triangle metric relations; areas; coordinates) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 3 |
 | Areas (inside the Soltan Grade 8 geometry course: quadrilaterals; right-triangle metric relations; areas; coordinates) | Kazakhstan, Geometry 8 (Soltan set), Ch. 3 |
+| Base and height of a triangle | Libya, Grade 5 pupil's book, Unit 4, Lesson 1, printed p.63 |
+| Area of a triangle | Libya, Grade 5 pupil's book, Unit 4, Lesson 2, printed p.66 |
+| Area and perimeter of composite shapes | Libya, Grade 6 pupil's book, Unit 11, Lesson 1, printed p.172 |
+| Area of a circle (§4-5) | Libya, Grade 8 pupil's book, §4-5, printed p.121 |
+| Converting square units (§5-5) | Libya, Grade 8 pupil's book, §5-5, printed p.124 |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with

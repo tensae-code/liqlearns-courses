@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya
 
 Every part traces to its book and page.
 
@@ -51,6 +51,8 @@ Every part traces to its book and page.
 **Book 27:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Algebra, Grade 7* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 29:** *Algebra, Grade 7* (Yelemesov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 30:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -128,8 +130,15 @@ Every part traces to its book and page.
 | Factoring out a common factor (inside monomials and polynomials) | Kazakhstan, Algebra 7 (Shynybekov set), Ch. 2, §2.1–2.4, printed pp. 46–73 |
 | Factorising by GCF and grouping (inside polynomials) | Kazakhstan, Algebra 7 (Yelemesov, English-medium edition), Ch. 2, printed pp. 86–126 |
 | Basic identities: difference of squares, square and cube of a binomial, sum and difference of cubes; identities in calculation and problem solving | Kazakhstan, Algebra 7 (Yelemesov, English-medium edition), Ch. 5, printed pp. 208–238 |
+| Expansion by the distributive law; incl. (ax+b)(cx+d) and perfect-square products | Libya, Grade 9 pupil's book, §1-1, printed p.10 |
+| Difference of perfect squares | Libya, Grade 9 pupil's book, §2-1, printed p.15 |
+| Perfect cubes: difference and sum of cubes | Libya, Grade 9 pupil's book, §3-1, printed p.18 |
+| HCF of algebraic terms | Libya, Grade 9 pupil's book, §4-1, printed p.20 |
+| Factorisation: by grouping; trinomials; difference of squares; sum/difference of cubes | Libya, Grade 9 pupil's book, §5-1, printed p.24 |
 
-**Acceptance count: taught in 13 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 14 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+
+Libya carries factorisation in Grade 9, Chapter 1, where expansion and factorisation are taught as one chapter (stocked by the 2026-11-08 re-verification sweep).
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 8: geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab; from Grade 11: every real polynomial splits into linear factors and irreducible quadratic factors (stated as form A).
 

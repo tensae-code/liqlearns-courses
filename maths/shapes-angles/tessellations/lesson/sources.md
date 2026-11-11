@@ -37,7 +37,7 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 | Tiling by rotation; the hexagon tessellation | Laos, Grade 5, Ch.10, L50 (pp.112–123) |
 | Regular, semi-regular and irregular tessellations | Nepal, Grade 7, Unit 9 (pp.75–83) |
 | Tessellating with triangles, rectangles and squares | Nepal, Grade 6, Lesson 19, Symmetry and Tessellation (pp.215–223) |
-| Tessellation as fun maths / tiling patterns | Libya, Grade 8 (p.126); Libya, Grade 9 (pp.134, 137–153) |
+| Tessellation as fun maths / tiling patterns | Libya, Grade 8 (p.126); Libya, Grade 9 (fun maths, p.134) |
 | The three tessellating shapes; glide reflection in tilings | South Africa, Grade 5 Workbook, Ws 90; Grade 4/G5 workbook glide-reflection rows as filed in maths/books/south-africa.md |
 | Tessellation in the primary geometry course | Iraq, Grade 6 (p.167) |
 | Tessellation: what it means, and which shapes tessellate | Malaysia, Mathematics Form 5, Ch. 5 §5.4, printed pp. 161–162 |

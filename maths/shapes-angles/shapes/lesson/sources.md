@@ -77,7 +77,7 @@ maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED
 maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED
 2026-11-05).
 
-**Book 15:** Mathematics, Grade 4, Pupil's Book, Part 2
+**Book 15:** Mathematics, Grade 4, Pupil's Book, Term 2
 (Semester 2) (student book) — Libya, Curriculum Centre (CERC),
 Ministry of Education; school year 1440–1441 AH / 2019–2020 AD;
 no ISBN printed. Filed in maths/books/libya.md (FULLY READ +
@@ -447,6 +447,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 273:** *Geometry, Grade 8* (Smirnov set) — Kazakhstan, Smirnov et al., Mektep (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 274:** *Geometry, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 275:** *Mathematics, Grade 1 pupil's book, Part 1* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 276:** *Mathematics, Grade 2 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 277:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 278:** *Mathematics, Grade 6 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 279:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 280:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -470,7 +482,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Quadrilaterals chapter (p.48): Bài 10 Tứ giác | Vietnam, Toán 8 v1, Chương III, p.48 |
 | Review of plane shapes — rectangle, square, triangle: sides, angles, equal-side marks, naming by vertex letters | Sierra Leone, JSS 1 Handbook, Term 2, L75, printed p.87 |
 | Rectangle (p.108), triangle and its kinds (p.110), parallelogram (p.121) and drawing it (p.122), rhombus (p.122) | Mauritania, Grade 4 student book, pp.108–122 |
-| 2D shapes: four-sided shapes (quadrilaterals) p.64; polygons p.69; more on squares and rectangles p.72 | Libya, Grade 4 Pupil's Book Part 2, Chapter 12, pp.64–75 |
+| 2D shapes: four-sided shapes (quadrilaterals) p.64; polygons p.69; more on squares and rectangles p.72 | Libya, Grade 4 Pupil's Book Term 2, Chapter 12, pp.64–75 |
 | 2D and 3D shapes: characteristics of quadrilaterals (sides, angles) — teacher-manual evidence only | Ghana, JICA Teacher Manual B5, Lessons 89–91 (teacher evidence, not pupil-book teaching) |
 | Triangles, polygons and angles (WS47–57, pp.122–155) | South Africa, Grade 9 Book 1, WS47–57, pp.122–155 |
 | Shapes of things around us: boxes, cans and everyday solids, which shapes roll, drawing with box faces; making shapes with sticks and tiles | Laos, Grade 1 student book (new series), ch. 9, printed p. 86; ch. 16, printed p. 130 |
@@ -1076,6 +1088,17 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Polygons and quadrilaterals: the polygon and angle sums, parallelogram properties and signs, rectangle/rhombus/square and their signs, the trapezoid, triangle midlines, Thales' theorem, proportional segments | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 2, printed pp. 58–88 |
 | Quadrilaterals (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 1 |
 | Quadrilaterals (inside the Soltan Grade 8 geometry course) | Kazakhstan, Geometry 8 (Soltan set), Ch. 1 |
+| Recognising shapes | Libya, Grade 1 pupil's book Part 1, Unit 6, Lesson 1, printed p.72 |
+| Shapes around us | Libya, Grade 1 pupil's book Part 1, Unit 6, Lesson 2, printed p.76 |
+| Flat and curved surfaces | Libya, Grade 2 pupil's book Part 2, Unit 15, Lesson 3, printed p.96 |
+| Semicircles and quarter-circles | Libya, Grade 2 pupil's book Part 2, Unit 16, Lesson 1, printed p.99 |
+| Triangles: right-angled, isosceles, equilateral | Libya, Grade 5 pupil's book, Unit 14, Lesson 2, printed p.207 |
+| Solid shapes | Libya, Grade 6 pupil's book, Unit 3, Lesson 1, printed p.36 |
+| Nets of solids | Libya, Grade 6 pupil's book, Unit 3, Lesson 2, printed p.40 |
+| Types of triangles (§1-4) | Libya, Grade 8 pupil's book, §1-4, printed p.79 |
+| Quadrilaterals (§6-4) | Libya, Grade 8 pupil's book, §6-4, printed pp.79–95 |
+| Types of polygons (§8-4) | Libya, Grade 8 pupil's book, §8-4, printed pp.79–95 |
+| Types of polygons (§1-6) | Libya, Grade 9 pupil's book, §1-6, printed p.129 |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family

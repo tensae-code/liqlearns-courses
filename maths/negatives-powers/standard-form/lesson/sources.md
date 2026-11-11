@@ -89,7 +89,7 @@ Every part traces to its book and page.
 | Standard form of large numbers (Ch. 3); standard form of large and small numbers (Ch. 7) | Greece, Grade 7, Ch. 3 and Ch. 7, pp. 55–70 and 113–146 |
 | Scientific notation | South Africa, Grade 8 Book 1, WS19, within WS14–26, pp. 30–55 |
 | Standard form of large numbers (L37, p. 108); standard form of small numbers (L38, p. 111); conversion to and from standard form (L39, p. 114); rule of thumb: standard form for numbers < 0.001 or ≥ 10,000 | Sierra Leone, JSS 3, L37–39, printed pp. 108–114 |
-| Standard form | Libya, Grade 8, Ch. 2, §2-14, p. 61 |
+| Standard form | Libya, Grade 8, Ch. 2, §10-2, printed p.61 |
 | Powers of 10: 10ⁿ = 1 followed by n zeros, 10⁻ⁿ = 1/10ⁿ, scientific-notation forms | Laos, Grade 7 student book, L16, printed pp. 59–80 |
 | Scientific-notation form A × 10ⁿ with 1 ≤ A < 10, as prerequisite to the powers lesson | Laos, Grade 8 teacher guide, L1 prerequisites (student book L1, printed pp. 1–52) |
 | Standard form a × 10ⁿ, converting ordinary ↔ standard in both directions and calculating in standard form (Earth's mass, truck capacities, light speed) — now from the student book itself; the book's stated range is taught corrected as 1 ≤ a < 10 (it prints 1 < a < 10) and its Earth's-mass exponent taught corrected as 6 × 10²¹ t | Indonesia, Grade 8 Merdeka student book, Bab 1, printed pp. 37–40 |

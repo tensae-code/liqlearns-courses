@@ -65,7 +65,7 @@ book) — Libya, CERC, Ministry of Education; school year
 maths/books/libya.md (FULLY READ + CITATION CHECK PASSED
 2026-11-05).
 
-**Book 12:** Mathematics, Grade 4, Pupil's Book, Part 2
+**Book 12:** Mathematics, Grade 4, Pupil's Book, Term 2
 (Semester 2) (student book) — Libya, CERC, Ministry of
 Education; school year 1440–1441 AH / 2019–2020 AD; no ISBN
 printed. Filed in maths/books/libya.md (FULLY READ +
@@ -357,6 +357,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 171:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 172:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 173:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 174:** *Mathematics, Grade 6 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 175:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -372,8 +378,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volume (p.38) | Armenia, Mathematics 6, §1.10, p.38 |
 | Getting to know volume (p.75); comparing volumes (p.77); measuring in litres (p.79) | Libya, Grade 2 Pupil's Book Part 2, Unit 13, pp.75–82 |
 | Volume and capacity: measuring in litres and millilitres (p.35) | Libya, Grade 3 Pupil's Book Part 2, Unit 13, pp.35–43 |
-| Understanding volume (p.100); finding volume (p.102); volume of cuboids and liquids (p.105) | Libya, Grade 4 Pupil's Book Part 2, Chapter 16, pp.100–112 |
-| Cuboid 8×4×5 cm = 160 cm³; finding an unknown edge (p.233); volumes of solids and of liquids (Unit 12) | Libya, Grade 8, Unit 12 and Unit 16, pp.145–233 |
+| Understanding volume (p.100); finding volume (p.102); volume of cuboids and liquids (p.105) | Libya, Grade 4 Pupil's Book Term 2, Chapter 16, pp.100–112 |
+| Surface area (§1-6, printed p.128); surface area of a cylinder (§2-6, printed p.129); volume of solids (§3-6, printed p.133); converting cubic units (§4-6, printed p.140); density (§5-6, printed p.141) | Libya, Grade 8 pupil’s book, Chapter 6, printed pp.128–141 |
+| Finding an unknown edge (volume) | Libya, Grade 5 pupil’s book, Unit 16, printed p.241 (body evidence — the book’s contents page lists this unit’s lessons at printed pp.239 and 245, past the book’s own end at p.241; the contents pagination for this unit is faulty) |
 | Cube area (p.193) and volume (p.194); cylinder (pp.135, 137) | Mauritania, Grade 6 student book, pp.135–194 |
 | Cube, right pavé and right prism (p.133) | Mauritania, 1AS student book, ch.9, p.133 |
 | Volume of rectangular prisms (JSS 1, L86); volume of cubes (L87); volume of rectangular prisms revisited (L88) | Sierra Leone, JSS 1 Handbook, Term 2, L86–L88 |
@@ -733,6 +740,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The cube and the rectangular parallelepiped; volume of a rectangular parallelepiped | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1D, lessons 35–38, printed pp. 127–136 |
 | Spatial figures: the rectangular parallelepiped and cube and their nets; problems on cutting figures | Kazakhstan, Grade 5 (Aldamuratova set), Part 2, Ch. IX, §9.1–9.2, printed pp. 174–180 |
 | Spatial figures: the rectangular parallelepiped (and cube) and its net (§54; sampled at printed p. 110, span approximate) | Kazakhstan, Grade 5 (Abylkasymova set), Part 2, printed pp. ~105–~120 |
+| Building solids from unit cubes | Libya, Grade 4 pupil's book Term 2, Unit 15, Lesson 1, printed p.95 |
+| Word problems (volume) | Libya, Grade 5 pupil's book, Unit 16, printed pp.238–239 (verified body pages; the contents page lists p.245, past the book's end) |
+| Volumes of solids | Libya, Grade 6 pupil's book, Unit 12, Lesson 1, printed p.182 |
+| Volumes of liquids | Libya, Grade 6 pupil's book, Unit 12, Lesson 2, printed p.188 |
+| Pyramids: surface area and volume (§3-5) | Libya, Grade 9 pupil's book, §3-5, printed p.110 |
+| Cone: curved surface area and volume (§4-5) | Libya, Grade 9 pupil's book, §4-5, printed p.114 |
+| Surface area of a sphere (§5-5) | Libya, Grade 9 pupil's book, §5-5, printed p.120 |
+| Volume of a sphere (§6-5) | Libya, Grade 9 pupil's book, §6-5, printed p.121 |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,

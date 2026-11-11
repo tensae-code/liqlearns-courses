@@ -238,6 +238,16 @@ Every part traces to its book and page.
 **Book 177:** *Mathematics, Grade 4 teacher guides, Parts 1–2* (Akpaeva set) (teacher guides) — Kazakhstan, Akpaeva et al., Almatykitap. Teacher evidence only: programme, lesson guidance and keys companioning the Akpaeva Grade 4 student parts (Part 1 guide to student Parts 1–2; Part 2 guide to student Parts 3–4). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 178:** *Mathematics, Grade 4 workbooks, Parts 1–4* (Akpaeva set; Kazakh and Russian editions) (workbooks) — Kazakhstan, Almatykitap. Workbook evidence: practice companions to the Akpaeva Grade 4 student parts. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 179:** *Mathematics, Grade 1 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 180:** *Mathematics, Grade 2 pupil's book, Part 1* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 181:** *Mathematics, Grade 2 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 182:** *Mathematics, Grade 4 pupil's book, Term 1* (student book; the cover reads Term 1 — الفصل الدراسي الأول; the library record's “Part 1” wording is the record's, not the book's) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 183:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Uniting sets with equal numbers of elements — multiplication (L71); the components of multiplication (L72) | Kazakhstan, Grade 2 (Ospanov set), L71–L72, p.16 |
@@ -793,6 +803,36 @@ Every part traces to its book and page.
 | TEACHER EVIDENCE: lesson guidance and keys for the Akpaeva Grade 4 Parts 1–2 course (multi-digit numbers; multiplication/division by one-, two- and three-digit numbers; motion and work problems) | Kazakhstan, Grade 4 teacher guide (Akpaeva set), Part 1 (teacher evidence) |
 | Workbook practice companions to the Akpaeva Grade 4 student parts (WORKBOOK, Kazakh edition) | Kazakhstan, Grade 4 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
 | Workbook practice companions to the Akpaeva Grade 4 student parts (WORKBOOK, Russian edition) | Kazakhstan, Grade 4 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
+| Adding a number to itself | Libya, Grade 1 pupil's book Part 2, Unit 13, Lesson 1, printed p.40 |
+| Multiplication stories | Libya, Grade 1 pupil's book Part 2, Unit 13, Lesson 2, printed p.44 |
+| Story problems (multiplication) | Libya, Grade 1 pupil's book Part 2, Unit 13, Lesson 3, printed p.46 |
+| How we multiply | Libya, Grade 2 pupil's book Part 1, Unit 6, Lesson 1, printed p.77 |
+| ×2 by skip-counting | Libya, Grade 2 pupil's book Part 1, Unit 7, Lesson 1, printed p.83 |
+| ×2 with dot paper | Libya, Grade 2 pupil's book Part 1, Unit 7, Lesson 2, printed p.86 |
+| ×2, short method | Libya, Grade 2 pupil's book Part 1, Unit 7, Lesson 3, printed p.88 |
+| ×3 by skip-counting | Libya, Grade 2 pupil's book Part 1, Unit 7, Lesson 4, printed p.89 |
+| ×3 with dot paper | Libya, Grade 2 pupil's book Part 1, Unit 7, Lesson 5, printed p.92 |
+| ×3, short method | Libya, Grade 2 pupil's book Part 1, Unit 7, Lesson 6, printed p.94 |
+| ×4 by skip-counting | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 1, printed p.24 |
+| ×4 with dot paper | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 2, printed p.26 |
+| ×4, short method | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 3, printed p.29 |
+| ×5 by skip-counting | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 4, printed p.32 |
+| ×5 with dot paper | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 5, printed p.34 |
+| ×5, short method | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 6, printed p.36 |
+| ×10 by skip-counting | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 7, printed p.37 |
+| ×10 with dot paper | Libya, Grade 2 pupil's book Part 2, Unit 10, Lesson 8, printed p.39 |
+| ×6 by skip-counting | Libya, Grade 3 pupil's book Part 1, Unit 5, Lesson 1, printed p.51 |
+| ×7 by skip-counting | Libya, Grade 3 pupil's book Part 1, Unit 5, Lesson 2, printed p.53 |
+| ×8 by skip-counting | Libya, Grade 3 pupil's book Part 1, Unit 5, Lesson 3, printed p.55 |
+| ×9 | Libya, Grade 3 pupil's book Part 1, Unit 5, Lesson 4, printed p.57 |
+| Problem solving 2: multiplication | Libya, Grade 3 pupil's book Part 1, Unit 8, Lesson 1, printed p.94 |
+| Multiplying by a one-digit number | Libya, Grade 4 pupil's book Term 1, Unit 3, Lesson 1, printed p.37 |
+| Multiplying by a two-digit number | Libya, Grade 4 pupil's book Term 1, Unit 3, Lesson 2, printed p.41 |
+| Word problems (mult/div) | Libya, Grade 4 pupil's book Term 1, Unit 3, Lesson 4, printed p.51 |
+| Multiplying by tens, hundreds, thousands | Libya, Grade 5 pupil's book, Unit 2, Lesson 1, printed p.27 |
+| Multiplying by a two-digit whole number | Libya, Grade 5 pupil's book, Unit 3, Lesson 1, printed p.43 |
+| Word problems (1) | Libya, Grade 5 pupil's book, Unit 3, Lesson 3, printed p.53 |
+| Word problems (2) | Libya, Grade 5 pupil's book, Unit 3, Lesson 4, printed p.57 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Saudi Arabia

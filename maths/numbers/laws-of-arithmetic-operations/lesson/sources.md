@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya
 
 Every part traces to its book and page.
 
@@ -75,6 +75,8 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 **Book 47:** *Mathematics, Grade 2* (Ospanov set, Parts 1–2) — Kazakhstan, Ospanov, Astambaeva, Mergembaeva, Kozlenko, Atamura, Almaty 2022 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 48:** *Mathematics, Grade 2* (Zhakupova set, Parts 1–4) — Kazakhstan, Zhakupova, Lebedeva, Orekhova, Ushakova, NIS, Nur-Sultan 2022. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 49:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 50:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -219,7 +221,11 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Rational computation methods: the properties of addition and multiplication; the order of operations | Kazakhstan, Grade 2 (Zhakupova set), Part 4, §1, printed pp. 5–32 |
 | Oral multiplication and division: the distributive property (32·2, 320·2, 32·20; 48:2, 480:2, 480:20); dividing a sum by a number | Kazakhstan, Grade 3 (Akpaeva set), Part 2, §2C, lessons 66–78, printed pp. 61–90 |
 | Non-table multiplication and division: rationalising calculations with the properties of division | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3A, lessons 81–88, printed pp. 4–21 |
-**Acceptance count: taught in 14 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| Properties of the operations (§12-1) | Libya, Grade 7 pupil's book, §12-1, printed p.19 |
+| Sum, difference, product, quotient, remainder (§14-1) | Libya, Grade 7 pupil's book, §14-1, printed p.23 |
+**Acceptance count: taught in 15 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+
+Libya carries the properties of the operations, and sum, difference, product, quotient and remainder, in Grade 7, Chapter 1 (stocked by the 2026-11-08 re-verification sweep).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 

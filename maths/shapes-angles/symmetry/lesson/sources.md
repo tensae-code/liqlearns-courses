@@ -68,7 +68,7 @@ book) — Jordan, NCCD, Arabic; Ministry decision 2021/159;
 deposit 2022/4/2076; 173 pp. Filed in maths/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
-**Book 14:** Mathematics, Grade 4, Pupil's Book, Part 2
+**Book 14:** Mathematics, Grade 4, Pupil's Book, Term 2
 (Semester 2) (student book) — Libya, Curriculum Centre (CERC),
 Ministry of Education; school year 1440–1441 AH / 2019–2020 AD;
 no ISBN printed. Filed in maths/books/libya.md (FULLY READ +
@@ -244,7 +244,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry (p.98); reflection (p.101) | Jordan, Grade 4 Student Book Term 1, Unit 6, pp.98–101 |
 | Identifying the axis of symmetry of 2-D shapes (Unit 4 opener, p.98) | Jordan, Grade 7 Student's Book Term 1, Unit 4, p.98 |
 | Planes of symmetry in cross-sections and solids of revolution (Unit 8, L2, p.124) | Jordan, Grade 8 Student Book Term 2, Unit 8, L2, p.124 |
-| Symmetry: identifying symmetrical shapes (p.88); making symmetrical shapes (p.91) | Libya, Grade 4 Pupil's Book Part 2, Chapter 14, pp.88–94 |
+| Symmetry: identifying symmetrical shapes (p.88); making symmetrical shapes (p.91) | Libya, Grade 4 Pupil's Book Term 2, Chapter 14, pp.88–94 |
 | Line symmetry in plane shapes (7-1, p.138); rotational symmetry (7-2, p.145); symmetry of polygons (7-3, p.150) | Libya, Grade 9, Chapter 7, pp.137–153 |
 | Reflection — mirror image across a mirror line/line of symmetry (L93, p.109); line of symmetry — folding test (L94, p.112); rotational symmetry — looking the same after a rotation, plus-sign example at 90°, order of rotational symmetry (L96, p.118) | Sierra Leone, JSS 2 Handbook, Term 2, L93–L96, pp.109–118 |
 | Symmetry inside the coordinate unit (pp.73–77) | Egypt, Grade 5 Term 2, Unit 10, pp.73–77 |

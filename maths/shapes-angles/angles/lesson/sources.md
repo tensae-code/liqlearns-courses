@@ -64,7 +64,7 @@ school year 1440–1441 AH / 2019–2020 AD; no ISBN printed. Filed
 in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED
 2026-11-05).
 
-**Book 12:** Mathematics, Grade 4, Pupil's Book, Part 1
+**Book 12:** Mathematics, Grade 4, Pupil's Book, Term 1
 (Semester 1) (student book) — Libya, CERC, Ministry of
 Education; school year 1440–1441 AH / 2019–2020 AD; no ISBN
 printed. Filed in maths/books/libya.md (FULLY READ +
@@ -345,6 +345,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 196:** *Mathematics, Grade 7* (Zabara et al., NIS line, Parts 1–2) — Kazakhstan, NIS. (Filed in the records as “Algebra”; the books are mixed mathematics — Part 1 carries geometry and Part 2's sampled chapters are geometry; the scans carry no contents page, and Part 2 beyond the sampled chapters is placed from samples.) Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 197:** *Geometry, Grade 7* (Turapbekov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 198:** *Mathematics, Grade 10 pupil's book, Part 2* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 199:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 200:** *Mathematics, Grade 6 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 201:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 202:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 203:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -360,7 +372,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Types of angles (p.6); right, acute and obtuse angles, building a right angle with a set square | Kazakhstan, Grade 2 Part 3, Section 3A, pp.6–16 |
 | Measuring angles and degrees (Bài 7, p.23); acute, obtuse, straight angles (Bài 8, p.26) | Vietnam, Toán 4 v1, Theme 2, Bài 7–8, pp.23–31 |
 | Angles (p.70); comparing angles (p.72); the right angle (p.75); angles in shapes (p.77) | Libya, Grade 3 Pupil's Book Part 2, Unit 17, pp.70–78 |
-| Estimating and measuring right angles (p.64); measuring angles up to 180° (p.67); drawing angles up to 180° (p.70); turns and right angles (p.72) — first protractor work in the band | Libya, Grade 4 Pupil's Book Part 1, Chapter 5, pp.64–76 |
+| Estimating and measuring right angles (p.64); measuring angles up to 180° (p.67); drawing angles up to 180° (p.70); turns and right angles (p.72) — first protractor work in the band | Libya, Grade 4 Pupil's Book Term 1, Chapter 5, pp.64–76 |
 | Angle recognition, not measure (p.61) | Mauritania, Grade 3 student book, angles lesson, p.61 |
 | Angles (p.96) | Mauritania, Grade 6 student book, geometry, p.96 |
 | Introduction to angles — vertex, arms, 360°/180°/90° (L91, p.138); right angles and the protractor (L92, p.142); measurement of angles, both scales (L93, p.145); unknown angles in triangles, sum 180° (L94, p.148); complementary and supplementary angles (L96–L98, pp.154–159); intersecting lines, vertically opposite angles equal (L99, p.161); transversal of parallel lines (L100, p.164) | Sierra Leone, JSS 1 Handbook, Term 2, L91–L100, printed pp.138–164 |
@@ -745,6 +757,25 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | The rest of Part 2's geometry chapters (parallel to the Grade 7 geometry course) — placed from chapter samples only: the book's scans carry no contents page, and this is the one partially read book of the sweep's Kazakhstan set | Kazakhstan, Grade 7 (Zabara et al., NIS line), Part 2 (sample-based placement) |
 | Basic geometric information | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 1, printed pp. ~5–50 |
 | Mutual positions of lines: parallel lines and transversals, proving lines parallel, the angle sum and exterior angle of a triangle, the triangle inequality, right-triangle properties | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 3, printed pp. 90–138 |
+| Types of angles | Libya, Grade 5 pupil's book, Unit 8, Lesson 1, printed p.132 |
+| Finding unknown angle measures | Libya, Grade 5 pupil's book, Unit 8, Lesson 2, printed p.137 |
+| Angles of a triangle | Libya, Grade 5 pupil's book, Unit 14, Lesson 1, printed p.200 |
+| Angles of quadrilaterals | Libya, Grade 5 pupil's book, Unit 14, Lesson 3, printed p.214 |
+| Finding unknown angle measures in shapes | Libya, Grade 6 pupil's book, Unit 2, Lesson 1, printed p.25 |
+| Angles (§2-7) | Libya, Grade 7 pupil's book, §2-7, printed p.154 |
+| Types of angles (§3-7) | Libya, Grade 7 pupil's book, §3-7, printed p.155 |
+| Measuring angles (§4-7) | Libya, Grade 7 pupil's book, §4-7, printed p.156 |
+| Complementary angles (§5-7) | Libya, Grade 7 pupil's book, §5-7, printed p.167 |
+| Supplementary angles (§6-7) | Libya, Grade 7 pupil's book, §6-7, printed p.168 |
+| Vertically opposite angles (§7-7) | Libya, Grade 7 pupil's book, §7-7, printed p.172 |
+| Angles at a point (§8-7) | Libya, Grade 7 pupil's book, §8-7, printed p.173 |
+| Parallel lines and angles (§1-3) | Libya, Grade 8 pupil's book, §1-3, printed p.67 |
+| Angle sum of a triangle (§2-4) | Libya, Grade 8 pupil's book, §2-4, printed pp.79–95 |
+| Exterior angle of a triangle (§3-4) | Libya, Grade 8 pupil's book, §3-4, printed pp.79–95 |
+| Angle sum of a quadrilateral (§5-4) | Libya, Grade 8 pupil's book, §5-4, printed pp.79–95 |
+| Interior angle sum of a polygon (§2-6) | Libya, Grade 9 pupil's book, §2-6, printed p.129 |
+| Exterior angles of a polygon (§3-6) | Libya, Grade 9 pupil's book, §3-6, printed p.132 |
+| Review of angle properties — taught revision section inside the chapter | Libya, Grade 10 pupil's book Part 2, §4-8, printed p.81 |
 
 **Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and

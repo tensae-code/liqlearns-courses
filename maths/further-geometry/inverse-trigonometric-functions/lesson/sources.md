@@ -1,6 +1,6 @@
 # Sources — Inverse trigonometric functions
 
-countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania
+countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya
 
 Every part traces to its book and page.
 
@@ -21,6 +21,8 @@ Every part traces to its book and page.
 
 **Book 11:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Algebra and Elements of Mathematical Analysis 10, advanced programme, teacher's methodological guide, Semester 2* (teacher guide) — Armenia, Limush, 2025. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
+
+**Book 13:** *Mathematics, Grade 12* (student book; third year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -50,8 +52,11 @@ Every part traces to its book and page.
 | Derivatives of arcsin, arccos, arctan, arccot | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 181–183 |
 | Arcsine and arccosine of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 3, printed p. 363 (teacher evidence) |
 | Arctangent and arccotangent of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 4, printed p. 383 (teacher evidence) |
-**Acceptance count: taught in 9 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania).**
+| Derivatives of the inverse trig functions | Libya, Grade 12 Mathematics (Science section), §10-6, printed p.165 |
+**Acceptance count: taught in 10 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
+
+Libya carries derivatives of the inverse trigonometric functions in Grade 12 Mathematics (Science section), Chapter 6 (stocked by the 2026-11-08 re-verification sweep).
 
 Rwanda teaches inverse trigonometric functions in its Advanced Senior Five book, defining all six inverses with their domains, ranges and principal values.
 

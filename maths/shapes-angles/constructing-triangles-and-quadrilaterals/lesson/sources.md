@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya
 
 Every part traces to its book and page.
 
@@ -40,6 +40,10 @@ Every part traces to its book and page.
 **Book 24:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 25:** *Mathematics, Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
+**Book 26:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -112,7 +116,13 @@ Every part traces to its book and page.
 | Construct angles and a triangle (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 25a–b Construct angles and a triangle, printed pp. 58, 60 |
 | Construct angles and a triangle; constructing quadrilaterals (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 48a–b Construct angles and a triangle, printed pp. 106, 108; South Africa, Grade 8 Book 1, Ws 50a–b Constructing quadrilaterals, printed pp. 112, 114 |
 | Constructing triangles; constructing quadrilaterals (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 41a–b Constructing triangles, printed pp. 106, 108; South Africa, Grade 9 Book 1, Ws 42a–b Constructing quadrilaterals, printed pp. 110, 112 |
-**Acceptance count: taught in 16 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa).** North Macedonia enters from its main set — Grade 7 (2025).
+| Constructing triangles | Libya, Grade 5 pupil's book, Unit 15, Lesson 1, printed p.221 |
+| Constructing quadrilaterals | Libya, Grade 5 pupil's book, Unit 15, Lesson 2, printed p.225 |
+| Constructing triangles (§4-4) | Libya, Grade 8 pupil's book, §4-4, printed pp.79–95 |
+| Constructing quadrilaterals (§7-4) | Libya, Grade 8 pupil's book, §7-4, printed pp.79–95 |
+**Acceptance count: taught in 17 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya).** North Macedonia enters from its main set — Grade 7 (2025).
+
+Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 

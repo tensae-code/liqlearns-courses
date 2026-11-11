@@ -693,6 +693,22 @@ Every part traces to its book and page.
 | Workbook practice companions to the Akpaeva Grade 2 student parts (WORKBOOK, Russian edition) | Kazakhstan, Grade 2 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
 | Numbers within 1,000: oral and written (algorithm) addition and subtraction of three-digit numbers | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1A, lessons 1–5, 9–13, printed pp. 4–33 |
 | Multi-digit numbers: written addition and subtraction with multi-digit numbers | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1A, lessons 3–8, printed pp. 14–35 |
+| Subtraction to 10, counting forwards | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 1, printed p.56 |
+| Subtraction using number bonds | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 2, printed p.60 |
+| Making subtraction stories | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 3, printed p.62 |
+| Subtracting numbers (to 10) | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 4, printed p.64 |
+| Solving story problems | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 5, printed p.66 |
+| Number-sentence families | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 6, printed p.69 |
+| Subtraction using number bonds (to 20) | Libya, Grade 1 pupil's book Part 1, Unit 9, Lesson 3, printed p.97 |
+| Simple subtraction | Libya, Grade 1 pupil's book Part 2, Unit 12, Lesson 4, printed p.35 |
+| Addition and subtraction (intro) | Libya, Grade 2 pupil's book Part 1, Unit 2, Lesson 1, printed p.20 |
+| Add/sub with base-ten blocks | Libya, Grade 2 pupil's book Part 1, Unit 2, Lesson 2, printed p.23 |
+| Simple subtraction to 1,000 | Libya, Grade 2 pupil's book Part 1, Unit 2, Lesson 4, printed p.27 |
+| Mental subtraction to 100 | Libya, Grade 2 pupil's book Part 2, Unit 9, Lesson 2, printed p.21 |
+| Problem solving 1: addition and subtraction | Libya, Grade 3 pupil's book Part 1, Unit 4, Lesson 1, printed p.46 |
+| Two-step word problems | Libya, Grade 3 pupil's book Part 1, Unit 4, Lesson 2, printed p.49 |
+| Mental subtraction by approximating to 50s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 2, printed p.101 |
+| Mental subtraction by approximating to 100s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 4, printed p.107 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Indonesia Grade 5

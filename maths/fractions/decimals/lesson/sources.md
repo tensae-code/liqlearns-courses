@@ -312,6 +312,8 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 160:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 161:** *Mathematics, Grade 6* (Aldamuratova set, Parts 1–2) — Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura, 2018 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 162:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Tenths, hundredths, thousandths; place value; reading decimals aloud | Jordan, Grade 4 Term 2, Unit 7, L1 Tenths p.33, L2 Hundredths p.38, L3 Decimal numbers p.42; Egypt, Grade 5 Term 1, Unit 1, L1 Decimals to the Thousandths Place pp.3–6, L2 Place Value Shuffle pp.7–10, L3 Composing and Decomposing Decimals pp.11–14; Kazakhstan, Grade 5, Ch.4 §4.1 The decimal fraction; reading and writing decimals, p.16; Libya, Grade 4, Ch.9, Understanding tenths p.8, hundredths p.13, thousandths p.18; Vietnam, Grade 5 Volume 1, Theme 2, Bài 10 The decimal concept p.32 |
@@ -734,6 +736,23 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Revision worksheets: Grade 8 key concepts, decimal fractions among them (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Revision R1–R16, Key concepts from Grade 8: whole numbers and properties of numbers; multiples and factors; exponents; integers and patterns; common fractions; percentages and decimal fractions; input and output; algebra; graphs; financial mathematics; geometric figures; transformations; geometric objects; perimeter and area; volume and surface area; data, printed pp. ii–l |
 | Decimal fractions and operations on them, incl. mixed decimal/common-fraction arithmetic (sampled at printed p. 50; the held Part 2 scan carries no contents page, so the span is approximate) | Kazakhstan, Grade 5 (Abylkasymova set), Part 2, printed pp. ~45–~60 |
 | Converting infinite periodic decimals to common fractions (inside rational numbers) | Kazakhstan, Grade 6 (Aldamuratova set), Part 1, Ch. II, §2.1–2.17, printed pp. 70–169 |
+| Comparing decimals | Libya, Grade 4 pupil's book Term 2, Unit 9, Lesson 4, printed p.23 |
+| Ordering decimals | Libya, Grade 4 pupil's book Term 2, Unit 9, Lesson 5, printed p.24 |
+| Common fractions and decimals | Libya, Grade 4 pupil's book Term 2, Unit 9, Lesson 6, printed p.28 |
+| Adding/subtracting decimals | Libya, Grade 4 pupil's book Term 2, Unit 10, Lesson 1, printed p.32 |
+| Multiplying/dividing decimals | Libya, Grade 4 pupil's book Term 2, Unit 10, Lesson 2, printed p.44 |
+| Estimating decimals | Libya, Grade 4 pupil's book Term 2, Unit 10, Lesson 3, printed p.52 |
+| Word problems (decimals) | Libya, Grade 4 pupil's book Term 2, Unit 10, Lesson 4, printed p.54 |
+| Decimal × two-digit whole number | Libya, Grade 5 pupil's book, Unit 9, Lesson 3, printed p.160 |
+| Word problems (decimals) | Libya, Grade 5 pupil's book, Unit 9, Lesson 5, printed p.167 |
+| Decimal place value (§1-3) | Libya, Grade 7 pupil's book, §1-3, printed p.68 |
+| Decimals | Libya, Grade 7 pupil's book, §2-3, printed p.68 |
+| Common fractions | Libya, Grade 7 pupil's book, §3-3, printed p.72 |
+| Recurring decimals (§4-3) | Libya, Grade 7 pupil's book, §4-3, printed p.75 |
+| Comparing decimals (§5-3) | Libya, Grade 7 pupil's book, §5-3, printed p.78 |
+| Adding/subtracting decimals (§6-3) | Libya, Grade 7 pupil's book, §6-3, printed p.79 |
+| Multiplying decimals (§7-3) | Libya, Grade 7 pupil's book, §7-3, printed pp.85–89 |
+| Dividing decimals (§8-3) | Libya, Grade 7 pupil's book, §8-3, printed pp.92–95 |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, Tanzania).** Nepal carries decimals from tenths and hundredths with fraction↔decimal conversion in Grade 3 (L23, Nepali pp. 96–99; English 2074 pp. 97–100), through decimal place value and addition/subtraction in Grade 4 (L4 §4.2), ×/÷ by 10/100/1000 and rounding to thousandths in Grade 5 (Unit 12, pp. 77–95), ×/÷ by whole numbers and by decimals in Grade 6 (पाठ 5, pp. 76–85), decimal operations in word problems in Grade 7 (Unit 16, pp. 139–143), to terminating vs repeating decimals with repeating decimals → fractions in Grade 8 (Unit 14, pp. 110–118). The Grade 3 English p. 99 slips '2/100 = 0.002' (correct 0.02) and '2.1 read as two point two one' (correct 'two point one') are taught corrected; the Nepali book has both right. Bangladesh carries decimals from first decimals in Class 4 (Ch. 9, pp. 103–120) — 0.1, the decimal point, tenths/hundredths/thousandths, addition and subtraction, ×/÷ by 10 and 100, decimal ↔ fraction — through decimal fractions to thousandths with ×/÷ by integers, by 10/100 and by decimals in Class 5 (Ch. 7, pp. 65–88), the decimal place-value game with multiplication and division of decimal fractions in Class 6 (Ch. 4, pp. 57–102), and GCD/LCM of decimal fractions in Class 7 (Exp. 3, pp. 57–79), to finite, infinite and recurring decimals in Class 8 (Exp. 2, pp. 25–46). Iraq carries decimals from tenths and hundredths with comparing and converting in Grade 4 (4/5 = 0.8), through decimals to thousandths with comparing, ordering, rounding and converting in Grade 5, to decimal multiplication and division — by whole numbers and by decimals — in Grade 6 (Ch. 4, pp. 74–97). Kazakhstan carries the fullest decimal Iran begins decimals with tenths in Grade 4, takes them to thousandths with three of the four operations in Grade 5, and adds decimal division in Grade 6.
 course — reading, converting, comparing, all four operations,

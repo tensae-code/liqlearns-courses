@@ -379,6 +379,10 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 **Book 209:** *Mathematics, Grade 4 teacher guides, Parts 1–2* (Akpaeva set) (teacher guides) — Kazakhstan, Akpaeva et al., Almatykitap. Teacher evidence only: programme, lesson guidance and keys companioning the Akpaeva Grade 4 student parts (Part 1 guide to student Parts 1–2; Part 2 guide to student Parts 3–4). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 210:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 211:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 212:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | Kazakhstan, Grade 3 Part 2, L41 The notion of a share, p.4; Jordan, Grade 1 Term 2, Unit 9, L1 Congruent (equal) parts p.50, L2 The half p.52, L3 The quarter p.54, L5 Comparing fractions p.58; Greece, Grade 3, Unit 4, ch.22 Introduction to fractions, printed pp.17–28; Sierra Leone, Primary 1 Term 2, L88–92 halves and quarters from pictures and stories (teacher plans) |
@@ -867,6 +871,25 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | TEACHER EVIDENCE: lesson guidance and keys for the Akpaeva Grade 4 Parts 3–4 course (fractions: the whole from its part, comparing, adding/subtracting, proper and improper fractions, mixed numbers) | Kazakhstan, Grade 4 teacher guide (Akpaeva set), Part 2 (teacher evidence) |
 | Common fractions and operations on them: the fraction, the basic property, improper and mixed fractions, converting mixed numbers, comparing, adding/subtracting, multiplying/dividing, fractions as division of naturals | Kazakhstan, Grade 5 (Abylkasymova set), Part 1, Ch. 3, §16–28, printed pp. 80–140 |
 | Word problems: finding a part of a number and the number from its part (§29) | Kazakhstan, Grade 5 (Abylkasymova set), Part 2, Ch. 4, printed pp. 4–~44 |
+| Understanding common fractions | Libya, Grade 2 pupil's book Part 2, Unit 11, Lesson 1, printed p.45 |
+| Parts of the whole | Libya, Grade 2 pupil's book Part 2, Unit 11, Lesson 2, printed p.48 |
+| Take away and add on (fractions of a pie) | Libya, Grade 2 pupil's book Part 2, Unit 11, Lesson 3, printed p.51 |
+| Comparing and ordering fractions | Libya, Grade 2 pupil's book Part 2, Unit 11, Lesson 4, printed p.56 |
+| Numerator and denominator | Libya, Grade 3 pupil's book Part 2, Unit 15, Lesson 1, printed p.48 |
+| Equivalent fractions | Libya, Grade 3 pupil's book Part 2, Unit 15, Lesson 2, printed p.49 |
+| More equivalent fractions (short method) | Libya, Grade 3 pupil's book Part 2, Unit 15, Lesson 3, printed p.51 |
+| Comparing common fractions | Libya, Grade 3 pupil's book Part 2, Unit 15, Lesson 4, printed p.53 |
+| Mixed numbers | Libya, Grade 4 pupil's book Term 1, Unit 8, Lesson 1, printed p.104 |
+| Improper fractions | Libya, Grade 4 pupil's book Term 1, Unit 8, Lesson 2, printed p.107 |
+| Converting fractions | Libya, Grade 4 pupil's book Term 1, Unit 8, Lesson 3, printed p.110 |
+| Word problems (mixed numbers) | Libya, Grade 4 pupil's book Term 1, Unit 8, Lesson 5, printed p.118 |
+| Common fractions and decimals | Libya, Grade 4 pupil's book Term 2, Unit 9, Lesson 6, printed p.28 |
+| Fractions and division | Libya, Grade 5 pupil's book, Unit 5, Lesson 4, printed p.80 |
+| Meaning of a fraction (§1-2) | Libya, Grade 7 pupil's book, §1-2, printed p.41 |
+| Types of fractions (§2-2) | Libya, Grade 7 pupil's book, §2-2, printed p.42 |
+| Equivalent fractions (§3-2) | Libya, Grade 7 pupil's book, §3-2, printed p.42 |
+| Comparing fractions (§4-2) | Libya, Grade 7 pupil's book, §4-2, printed p.46 |
+| Word problems (fractions) (§9-2) | Libya, Grade 7 pupil's book, §9-2, printed p.60 |
 
 **Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).** Nepal carries fractions from half and quarter only in Grade 1 (L37, pp. 74–75), through 1/2 to 1/10 with comparing and fraction of a set in Grade 2 English (L18, pp. 61–72) and half/quarter only in the Grade 2 Nepali book (L12, pp. 175–180), numerator/denominator with like-fraction addition and subtraction only in Grade 3 (L22, pp. 89–95), equivalent fractions and like/unlike addition and subtraction with mixed numbers in Grade 4 (L4 §4.1), fraction multiplication in Grade 5 (Unit 12, pp. 77–95), to all four operations on fractions in Grade 6 (पाठ 4, pp. 53–75) and fraction word problems in Grade 7 (Unit 16, pp. 139–143). The Grade 2 English p. 61 label of 'Two fourth' as 2/3 is taught corrected (2/4). Bangladesh carries fractions from halves, quarters and thirds with numerator and denominator named in Class 3 (Ch. 9, pp. 84–98), through proper vs improper fractions, equivalence, reducing to lowest terms by HCF and common denominators by LCM in Class 4 (Ch. 8, pp. 87–102), proper/improper/mixed conversion in Class 5 (Ch. 6, pp. 38–64), comparing, improper/mixed fractions and reciprocals in Class 6 (Ch. 4, pp. 57–102), to GCD and LCM of fractions in Class 7 (Exp. 3, pp. 57–79). Two Class 3 English-only slips on p. 95 are taught corrected: the fraction-subtraction rule swaps minuend and subtrahend (correct: subtract the subtrahend's numerator from the minuend's), and the bubble reading “in 4/5 and 4/5” should read “in 4/5 and 2/5” — the Bangla is correct on both. Iraq carries fractions from unit fractions, 2/3 and 3/4 in Grade 2, through multiples of unit fractions, equivalence, comparing and ordering and adding and subtracting in Grades 3–4, to decimals and fractions with fraction operations in Grades 5–6. Kazakhstan carries the first share on Iran introduces fractions in words in Grade 2, gives the notation, equality and comparison in Grade 3, and develops them in Grade 4.
 clock faces and the full Grade 5 fraction course with the

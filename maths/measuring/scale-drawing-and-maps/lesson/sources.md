@@ -82,7 +82,7 @@ Every part traces to its book and page.
 | Scale = plan length ÷ real length; rectangle 50 m × 150 m copied; a rectangle drawn enlarged 2× | Laos, Grade 7 student book, L43 (Part 6), printed pp.171–202 |
 | Map scale as a proportion application (minor source) | Laos, Grade 9 student book, Ch. 1, L6, printed p.25 |
 | Kuwait Towers model at 1:500 (real heights 187 m, 147 m, 113 m; 1 cm = 5 m; main tower model 37.4 cm); scale drawing worked among the proportion applications | Kuwait, Grade 10 Term 1 student book, Unit 2 project, printed pp.81–82; 2-1, printed pp.82–96 |
-| Scale drawing and maps as its own section | Libya, Grade 8 student book, Ch. 2, §2-8, printed p.41 |
+| Scale drawing and maps as its own section | Libya, Grade 8 student book, Ch. 2, §6-2, printed p.41 |
 | Map scale and applications | Vietnam, Grade 5 Volume 2, Theme 7, Bài 37, printed p.8 |
 | Proportionality and map scale | Mauritania, Grade 6 student book, printed p.81 |
 | Enlargement and reduction; scale drawing as a taught lesson | Yemen, Grade 6 Part 2 student book, Unit 5: 5-3, printed p.17; 5-4, printed p.23 |

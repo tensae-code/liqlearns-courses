@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya
 
 Every part traces to its book and page.
 
@@ -79,6 +79,8 @@ Every part traces to its book and page.
 **Book 52:** *Algebra, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 53:** *Algebra, Grade 8* (Yelemessov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 54:** *Mathematics, Grade 8* (Ryskeldieva et al., NIS line) — Kazakhstan, NIS (one 192-page book held in four identical part-files across languages/printings: Ch. 1 square roots and irrational expressions, Ch. 2 polygons and quadrilaterals, Ch. 3 quadratic equations, Ch. 4 relations between sides and angles of a right triangle). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 55:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -224,7 +226,11 @@ Every part traces to its book and page.
 | Square roots and irrational expressions: irrational numbers, real numbers | Kazakhstan, Algebra 8 (Soltan set), Ch. 1 |
 | Square roots and irrational expressions: real numbers and root properties | Kazakhstan, Algebra 8 (Yelemessov, English-medium edition), Ch. 1, printed pp. 14–46 |
 | Square roots and irrational expressions: the square root, irrational and real numbers, estimating roots, the graphs y = √x and y = ∛x | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 1, §1.1–1.18, printed pp. 8–56 |
-**Acceptance count: taught in 21 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+| Whole numbers (§1-1) | Libya, Grade 7 pupil's book, §1-1, printed p.9 |
+| Rational and irrational numbers (§10-2) | Libya, Grade 7 pupil's book, §10-2, printed p.62 |
+**Acceptance count: taught in 22 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+
+Libya carries the real number system in Grade 7 — whole numbers in Chapter 1 and rational and irrational numbers in Chapter 2 (stocked by the 2026-11-08 re-verification sweep).
 
 Syria classifies the number families in the Grade 9 Algebra opener — rationals characterised (a terminating or eventually periodic decimal), π and √2 proved irrational in the exercises, and every real number located on the number line — before its Grade 7 book has already placed rationals and integers on the line as families.
 

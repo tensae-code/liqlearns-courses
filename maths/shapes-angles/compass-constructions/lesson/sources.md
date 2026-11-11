@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya
 
 Every part traces to its book and page.
 
@@ -78,6 +78,8 @@ Every part traces to its book and page.
 **Book 50:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 **Book 51:** *Geometry, Grade 7* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 52:** *Geometry, Grade 7* (Turapbekov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 53:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -213,7 +215,10 @@ Every part traces to its book and page.
 | Construct angles and polygons using a protractor; using a pair of compasses; construct a hexagon; constructing a pentagon; constructing an octagon (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 39 Construct angles and polygons using a protractor, printed p. 100; South Africa, Grade 9 Book 1, Ws 40a–b Using a pair of compasses, printed pp. 102, 104; South Africa, Grade 9 Book 1, Ws 44 Construct a hexagon, printed p. 116; South Africa, Grade 9 Book 1, Ws 45 Constructing a pentagon, printed p. 118; South Africa, Grade 9 Book 1, Ws 46 Constructing an octagon, printed p. 120 |
 | Geometric constructions (inside circle and geometric constructions: constructions, constructing a triangle from three elements) | Kazakhstan, Geometry 7 (Shynybekov set), Ch. IV, §18–23, printed pp. 107–140 |
 | Circle and geometrical construction (inside circle and its parts, central angle, relative positions, tangents) | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 4, printed pp. 142–190 |
-**Acceptance count: taught in 24 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| Geometric constructions (§2-3) | Libya, Grade 8 pupil's book, §2-3, printed pp.74–76 |
+**Acceptance count: taught in 25 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+
+Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 

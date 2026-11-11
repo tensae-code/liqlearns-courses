@@ -320,6 +320,12 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 169:** *Geometry, Grade 8* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once; chapter pagination as in the line's English edition). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 170:** *Geometry, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 171:** *Mathematics, Grade 2 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 172:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 173:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -606,6 +612,11 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circles: chords, arcs, inscribed angles (§5.17 self-test; sampled) | Kazakhstan, Grade 7 (Zabara et al., NIS line), Part 2, sampled at printed p. 180 |
 | The rectangular coordinate system: the equation of a circle, incl. tangent to axes | Kazakhstan, Geometry 8 (Shynybekov set), Ch. 4, printed pp. 152–180 (pagination of the line's English edition) |
 | The rectangular coordinate system: the equation of a circle (inside the Soltan Grade 8 geometry course) | Kazakhstan, Geometry 8 (Soltan set), Ch. 4 |
+| Semicircles and quarter-circles | Libya, Grade 2 pupil's book Part 2, Unit 16, Lesson 1, printed p.99 |
+| Circumference of a circle (§3-5) | Libya, Grade 8 pupil's book, §3-5, printed p.118 |
+| Area of a circle (§4-5) | Libya, Grade 8 pupil's book, §4-5, printed p.121 |
+| Arc length (§1-5) | Libya, Grade 9 pupil's book, §1-5, printed p.97 |
+| Area of a sector (§2-5) | Libya, Grade 9 pupil's book, §2-5, printed p.103 |
 
 **Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the

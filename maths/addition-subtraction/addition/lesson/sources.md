@@ -906,6 +906,25 @@ Every part traces to its book and page.
 | Workbook practice companions to the Akpaeva Grade 2 student parts (WORKBOOK, Russian edition) | Kazakhstan, Grade 2 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
 | Numbers within 1,000: oral and written (algorithm) addition and subtraction of three-digit numbers | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1A, lessons 1–5, 9–13, printed pp. 4–33 |
 | Multi-digit numbers: written addition and subtraction with multi-digit numbers | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1A, lessons 3–8, printed pp. 14–35 |
+| Number bonds with cubes | Libya, Grade 1 pupil's book Part 1, Unit 3, Lesson 1, printed p.42 |
+| Number bonds on the balance | Libya, Grade 1 pupil's book Part 1, Unit 3, Lesson 2, printed p.45 |
+| Addition to 10, counting on | Libya, Grade 1 pupil's book Part 1, Unit 4, Lesson 1, printed p.47 |
+| Addition by matching | Libya, Grade 1 pupil's book Part 1, Unit 4, Lesson 2, printed p.49 |
+| Addition using number bonds | Libya, Grade 1 pupil's book Part 1, Unit 4, Lesson 3, printed p.51 |
+| Adding numbers (to 10) | Libya, Grade 1 pupil's book Part 1, Unit 4, Lesson 4, printed p.53 |
+| Number-sentence families | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 6, printed p.69 |
+| Adding by making 10 | Libya, Grade 1 pupil's book Part 1, Unit 9, Lesson 1, printed p.93 |
+| Addition using number bonds (to 20) | Libya, Grade 1 pupil's book Part 1, Unit 9, Lesson 2, printed p.95 |
+| Simple addition | Libya, Grade 1 pupil's book Part 2, Unit 12, Lesson 3, printed p.32 |
+| Adding three numbers | Libya, Grade 1 pupil's book Part 2, Unit 12, Lesson 5, printed p.38 |
+| Addition and subtraction (intro) | Libya, Grade 2 pupil's book Part 1, Unit 2, Lesson 1, printed p.20 |
+| Add/sub with base-ten blocks | Libya, Grade 2 pupil's book Part 1, Unit 2, Lesson 2, printed p.23 |
+| Simple addition to 1,000 | Libya, Grade 2 pupil's book Part 1, Unit 2, Lesson 3, printed p.25 |
+| Mental addition to 100 | Libya, Grade 2 pupil's book Part 2, Unit 9, Lesson 1, printed p.18 |
+| Problem solving 1: addition and subtraction | Libya, Grade 3 pupil's book Part 1, Unit 4, Lesson 1, printed p.46 |
+| Two-step word problems | Libya, Grade 3 pupil's book Part 1, Unit 4, Lesson 2, printed p.49 |
+| Mental addition by approximating to 50s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 1, printed p.98 |
+| Mental addition by approximating to 100s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 3, printed p.104 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Indonesia Grade 5

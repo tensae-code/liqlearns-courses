@@ -422,6 +422,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 234:** *Mathematics, Grade 6* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova et al., Mektep (Kazakh and Russian editions and further printings in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 235:** *Geometry, Grade 7* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 236:** *Mathematics, Grade 4 pupil's book, Term 2* (student book; the cover reads Term 2 — الفصل الدراسي الثاني; the library record's “Part 2” wording is the record's, not the book's) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 237:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 238:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -1030,6 +1036,34 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Kilometre and millimetre; tonne and gram | Kazakhstan, Grade 3 (Akpaeva set), Part 2, §2B, lessons 61–64, printed pp. 48–58 |
 | Scale (inside ratio and proportion) | Kazakhstan, Grade 6 (Abylkasymova set), Part 1, Ch. 1, §1–5, printed pp. 18–53 |
 | Measuring angles (inside basic geometric information: comparing segments and angles) | Kazakhstan, Geometry 7 (Shynybekov set), Ch. I, §1–6, printed pp. 5–39 |
+| Length: comparing two things | Libya, Grade 1 pupil's book Part 2, Unit 10, Lesson 1, printed p.8 |
+| Length: comparing more than two | Libya, Grade 1 pupil's book Part 2, Unit 10, Lesson 2, printed p.11 |
+| Length: using a starting line | Libya, Grade 1 pupil's book Part 2, Unit 10, Lesson 3, printed p.14 |
+| Length: measuring things | Libya, Grade 1 pupil's book Part 2, Unit 10, Lesson 4, printed p.16 |
+| Length in units | Libya, Grade 1 pupil's book Part 2, Unit 10, Lesson 5, printed p.18 |
+| Measuring in metres | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 1, printed p.54 |
+| Comparing lengths in metres | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 2, printed p.55 |
+| Measuring in centimetres | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 3, printed p.56 |
+| Comparing lengths in centimetres | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 4, printed p.58 |
+| Length and shape | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 5, printed p.59 |
+| Adding/subtracting lengths | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 6, printed p.61 |
+| Word problems (length) | Libya, Grade 2 pupil's book Part 1, Unit 4, Lesson 7, printed p.63 |
+| Measuring line segments | Libya, Grade 2 pupil's book Part 2, Unit 15, Lesson 1, printed p.93 |
+| Measuring in metres and centimetres | Libya, Grade 3 pupil's book Part 2, Unit 11, Lesson 1, printed p.18 |
+| Kilometres and metres | Libya, Grade 3 pupil's book Part 2, Unit 11, Lesson 2, printed p.20 |
+| Comparing lengths or distances | Libya, Grade 3 pupil's book Part 2, Unit 11, Lesson 3, printed p.21 |
+| Adding lengths | Libya, Grade 3 pupil's book Part 2, Unit 11, Lesson 4, printed p.23 |
+| Subtracting lengths | Libya, Grade 3 pupil's book Part 2, Unit 11, Lesson 5, printed p.25 |
+| Measuring in kilograms and grams | Libya, Grade 3 pupil's book Part 2, Unit 12, Lesson 1, printed p.27 |
+| Comparing masses | Libya, Grade 3 pupil's book Part 2, Unit 12, Lesson 2, printed p.29 |
+| Adding masses | Libya, Grade 3 pupil's book Part 2, Unit 12, Lesson 3, printed p.30 |
+| Subtracting masses | Libya, Grade 3 pupil's book Part 2, Unit 12, Lesson 4, printed p.32 |
+| Mult/div with measurements | Libya, Grade 4 pupil's book Term 2, Unit 11, Lesson 1, printed p.57 |
+| Converting measurements | Libya, Grade 5 pupil's book, Unit 6, Lesson 3, printed p.95 |
+| Converting units of measurement | Libya, Grade 5 pupil's book, Unit 9, Lesson 4, printed p.162 |
+| Length (§3-5) | Libya, Grade 7 pupil's book, §3-5, printed p.119 |
+| Mass (§5-5) | Libya, Grade 7 pupil's book, §5-5, printed p.129 |
+| Capacity (§6-5) | Libya, Grade 7 pupil's book, §6-5, printed p.132 |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the

@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya
 
 Every part traces to its book and page.
 
@@ -73,6 +73,14 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 45:** *Mathematics, Grade 7 Book 1; Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 **Book 46:** *Mathematics, Grade 1* (Akpaeva set, Parts 1–2) — Kazakhstan, Akpaeva et al., Almatykitap, 2021 (Kazakh, Russian and Uyghur editions and a 2023 printing in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 47:** *Mathematics, Grade 1 workbooks №1–№4* (Zhakupova set) (workbooks) — Kazakhstan, Zhakupova, Orekhova, Lebedeva et al., NIS / Mektep, © 2016, adapted to large print by Tsentr SATR, 2018. Workbook evidence: practice companions to the Zhakupova Grade 1 student course for visually impaired pupils. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 48:** *Mathematics, Grade 2 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 49:** *Mathematics, Grade 4 pupil's book, Term 1* (student book; the cover reads Term 1 — الفصل الدراسي الأول; the library record's “Part 1” wording is the record's, not the book's) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 50:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 51:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -194,8 +202,18 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Parallel and perpendicular lines (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 47 Parallel and perpendicular lines, printed p. 104; South Africa, Grade 8 Book 1, Ws 61 Parallel and perpendicular lines, printed p. 140 |
 | Figures: point, lines, ray, segment | Kazakhstan, Grade 1 (Akpaeva set), Part 1, lessons 24–25, printed pp. 52–55 |
 | Workbook practice: point, line, ray, segment, broken line; curves, closed and open lines, the straight line (WORKBOOK) | Kazakhstan, Grade 1 workbooks (Zhakupova set), Workbooks №1 and №4, worksheets 37–62 and 66–136 (workbook evidence) |
+| Measuring line segments | Libya, Grade 2 pupil's book Part 2, Unit 15, Lesson 1, printed p.93 |
+| Straight and curved lines | Libya, Grade 2 pupil's book Part 2, Unit 15, Lesson 2, printed p.95 |
+| Perpendicular lines | Libya, Grade 4 pupil's book Term 1, Unit 6, Lesson 1, printed p.77 |
+| Drawing perpendicular lines | Libya, Grade 4 pupil's book Term 1, Unit 6, Lesson 2, printed p.81 |
+| Parallel lines | Libya, Grade 4 pupil's book Term 1, Unit 6, Lesson 3, printed p.82 |
+| Drawing parallel lines | Libya, Grade 4 pupil's book Term 1, Unit 6, Lesson 4, printed p.86 |
+| Points, lines and planes (§1-7) | Libya, Grade 7 pupil's book, §1-7, printed p.152 |
+| Parallel lines and angles (§1-3) | Libya, Grade 8 pupil's book, §1-3, printed p.67 |
 
-**Acceptance count: taught in 18 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 19 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+
+Libya carries lines from Grade 2 (line segments, rays, perpendicular and parallel lines) through Grade 8 (parallel lines and angles, points, lines and planes in Grade 7) (stocked by the 2026-11-08 re-verification sweep).
 
 Ghana also contributes to this lesson as teacher evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 
