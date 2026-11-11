@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Canada
 
 Every part traces to its book and page.
 
@@ -527,3 +527,25 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Canada added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs — **2 teacher resource guides, 0 student books**: *English First Peoples, Grades 10–12 — Teacher Resource Guide* (FNESC/FNSA, 2018; 409 pp) and *English 12 First Peoples — Teacher Resource Guide* (FNESC, 2008; 307 PDF pages), the guides for British Columbia's English First Peoples courses — 145 teaching items placed. Both files were grabbed through the authenticated GitHub route and verified byte-exact against the library record (2018 guide 5,438,437 bytes; 2008 guide 3,393,665 bytes). Every Canada item in this section is TEACHER EVIDENCE of what the BC English First Peoples courses teach: Canada has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both guides read in full, page by page through their text layers (716 PDF pages); the 2018 guide amalgamates and replaces the 2008 guide, so where the two carry the same teaching, each is cited on its own evidence. The rows below are stocked from the expansion placements (canada-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English First Peoples, Grades 10–12 — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee and First Nations Schools Association (FNESC/FNSA), West Vancouver, ©2018, 409 pp. Printed page = PDF page (the footer numbers match the PDF pages throughout); pages cited are printed pages.
+
+**Book 2:** *English 12 First Peoples — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee (FNESC), ©2008, 307 PDF pages. Printed page = PDF page − 1 (the Table of Contents is printed p.7 = PDF p.8); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduction to English First Peoples: representing what you have learned in a chosen form — drama, dance, song, video, poster, model, cartoon, storyboard, website, verbal-visual essay | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed p.49 |
+| Unit 7: Drama: memorizing (internalizing) a dramatic text and polishing oral delivery for performance (the performance form is also stocked in play-scripts) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.120, 125–130 |
+| Unit 8: Research Essay: oral and visual presentation of research findings (“First Peoples Issues Awareness Day”) and the closing reflection | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.136–138 |
+| Unit 9: Identity: jigsaw teaching — each group teaches the class its assigned short story (six named stories, with printed teaching handouts for each) (the stories themselves are also stocked in the-story) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.156–171 |
+| First Peoples' Oral Traditions: delivering your own speech for an authentic reason, with co-constructed criteria for delivery and self- and peer-assessment (the speech-composing itself is stocked in speech-writing) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.82–84 |
+| Unit 4: Lost People: the 10-minute group presentation that ends the novel-background research project (the research itself is stocked in report-writing) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.63–65 |
+| Unit 6: From the Heart — Poetry: the spoken account inside the final poetry project — how the poets' lives shaped their themes (the dramatic presentation itself is stocked in play-scripts; the project's essay form in the-essay) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.107–108 |
+
+Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.

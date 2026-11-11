@@ -1,6 +1,6 @@
 # Sources — Reading between the lines
 
-countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone, South Sudan, Venezuela, Yemen, Vietnam, South Africa, Cambodia, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Samoa, Uruguay, Sri Lanka, Nigeria, Zimbabwe
+countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone, South Sudan, Venezuela, Yemen, Vietnam, South Africa, Cambodia, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Samoa, Uruguay, Sri Lanka, Nigeria, Zimbabwe, Canada
 Every part traces to its book and page.
 
 **Book 1:** English, Preparatory 8 Term 1 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
@@ -382,3 +382,28 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Canada added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs — **2 teacher resource guides, 0 student books**: *English First Peoples, Grades 10–12 — Teacher Resource Guide* (FNESC/FNSA, 2018; 409 pp) and *English 12 First Peoples — Teacher Resource Guide* (FNESC, 2008; 307 PDF pages), the guides for British Columbia's English First Peoples courses — 145 teaching items placed. Both files were grabbed through the authenticated GitHub route and verified byte-exact against the library record (2018 guide 5,438,437 bytes; 2008 guide 3,393,665 bytes). Every Canada item in this section is TEACHER EVIDENCE of what the BC English First Peoples courses teach: Canada has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both guides read in full, page by page through their text layers (716 PDF pages); the 2018 guide amalgamates and replaces the 2008 guide, so where the two carry the same teaching, each is cited on its own evidence. The rows below are stocked from the expansion placements (canada-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English First Peoples, Grades 10–12 — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee and First Nations Schools Association (FNESC/FNSA), West Vancouver, ©2018, 409 pp. Printed page = PDF page (the footer numbers match the PDF pages throughout); pages cited are printed pages.
+
+**Book 2:** *English 12 First Peoples — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee (FNESC), ©2008, 307 PDF pages. Printed page = PDF page − 1 (the Table of Contents is printed p.7 = PDF p.8); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Planning for Instruction: what makes a text an “authentic First Peoples text” — authentic voice (created by or through First Peoples), First Peoples themes, and First Peoples storytelling techniques (circular/cyclical structures, repetition, weaving in of spirituality, humour) as judging criteria | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.25–26 |
+| Challenges with Representation: representation, authenticity and authentic voice as analysis concepts — point of view, an author's authority to tell a story, self-representation against representing others, bias, stereotypes against life-like characters (the guide's Evaluating Authenticity framework) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.58–63 |
+| In Search of Authentic First Peoples' Voice: analysing film portrayals of First Peoples across film history (the documentary *Reel Injun* as the spine) — stereotype patterns, and how First Peoples films break them | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.65–67 |
+| The Politics of Identity: “othering” and identity defined by others, read through Marilyn Dumont's poem “Leather and Naugahyde” | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.211–212 |
+| Belonging, Grade 10: stereotype, prejudice and discrimination as three distinct concepts — defined, then traced in the novel's chapters | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.230–240 |
+| Further Steps toward Reconciliation: reading multiple historical voices on one policy — supporters, a survivor, an opponent, and an international comparison (Australia): perspective and stance compared across texts | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.265–278 |
+| Further Steps toward Reconciliation: propaganda and public opinion — how propaganda shapes opinion, analysed on residential-school-era materials | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.278–280 |
+| Digital Trickster, Grade 12: cultural appreciation against cultural appropriation — telling them apart on real cases (“I Am Not a Costume”) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.390–393 |
+
+Book error carried, taught corrected: Book 1's Belonging unit heads a lesson at printed p.231 “Lesson 9 – Following up on Prejudice and Discrimination: This lesson is a continuation of Lesson 9” — it continues Lesson 8, not itself; the stereotype/prejudice/discrimination teaching above is stocked as the continuation of Lesson 8.
+
+Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.

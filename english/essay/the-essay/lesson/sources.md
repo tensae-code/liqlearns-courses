@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Canada
 
 Every part traces to its book and page.
 
@@ -762,3 +762,26 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Canada added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs — **2 teacher resource guides, 0 student books**: *English First Peoples, Grades 10–12 — Teacher Resource Guide* (FNESC/FNSA, 2018; 409 pp) and *English 12 First Peoples — Teacher Resource Guide* (FNESC, 2008; 307 PDF pages), the guides for British Columbia's English First Peoples courses — 145 teaching items placed. Both files were grabbed through the authenticated GitHub route and verified byte-exact against the library record (2018 guide 5,438,437 bytes; 2008 guide 3,393,665 bytes). Every Canada item in this section is TEACHER EVIDENCE of what the BC English First Peoples courses teach: Canada has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both guides read in full, page by page through their text layers (716 PDF pages); the 2018 guide amalgamates and replaces the 2008 guide, so where the two carry the same teaching, each is cited on its own evidence. The rows below are stocked from the expansion placements (canada-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English First Peoples, Grades 10–12 — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee and First Nations Schools Association (FNESC/FNSA), West Vancouver, ©2018, 409 pp. Printed page = PDF page (the footer numbers match the PDF pages throughout); pages cited are printed pages.
+
+**Book 2:** *English 12 First Peoples — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee (FNESC), ©2008, 307 PDF pages. Printed page = PDF page − 1 (the Table of Contents is printed p.7 = PDF p.8); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Challenges with Representation: the summative brief essay (“Why does representation matter?”) and its academic-writing scoring points — thesis-led introduction and conclusion, quotations correctly formatted and attributed, transitions, voice and tone for audience (the compare-and-contrast form is also stocked in essay-kinds) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.60, 63–64 |
+| How Do We Define Ourselves?: integrating quotations — providing well-integrated quotations to support ideas in writing about a text | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.190, 205–208 |
+| “You Want Me to Write a What?” — The Literary Essay: the literary analysis essay — the student guide to the form: thesis, body paragraphs first, text-based evidence in every paragraph | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.325–329 |
+| “You Want Me to Write a What?” — The Literary Essay: integrating quotations smoothly into your own sentences | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.328–330 |
+| Unit 4: Lost People: the literary essay on *Monkey Beach* as the unit's written summit (the 2008 form of the literary-essay row above) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.80–82 |
+| Introduction to English First Peoples: citing specific evidence — the debate unit's requirement that a case rest on cited evidence (the debate itself is stocked in stating-and-giving-opinions) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.49–51 |
+| Place-Conscious Learning: the writing part of the extended-metaphor work — building and presenting your own extended metaphor in writing (the metaphor teaching itself is stocked in literary-words) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.134–139 |
+| Unit 6: From the Heart — Poetry: the essay form of the final poetry project — a group compare-and-contrast research essay on the poets' styles (500 words per member; citations and a Works Cited list required) (the performance form is stocked in play-scripts; the spoken account in presentation-skills) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.107–108 |
+
+Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.

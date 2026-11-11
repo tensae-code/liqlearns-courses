@@ -364,7 +364,11 @@ its own subtitle folder with its own lesson + questions):
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**) · the-writing-process
   (added 2026-11-11 by the Samoa expansion merge —
-  **Unit 16, The Essay**)
+  **Unit 16, The Essay**) · making-a-short-documentary-film
+  (added 2026-11-11 by the Canada expansion merge —
+  **Unit 38, Speeches and Shows**) · the-photo-essay (added
+  2026-11-11 by the Canada expansion merge — **Unit 39,
+  Essays and Shortening**)
 - Story → the-story · telling-a-story-back ·
   the-big-reading (built 2026-10-27 — **Unit 17, Stories**;
   with this, all 17 units of the English path are built) ·

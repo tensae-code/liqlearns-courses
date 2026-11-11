@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Canada
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
 banner at the head of english/books/libya.md; its scrub
@@ -1361,3 +1361,28 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Canada added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs — **2 teacher resource guides, 0 student books**: *English First Peoples, Grades 10–12 — Teacher Resource Guide* (FNESC/FNSA, 2018; 409 pp) and *English 12 First Peoples — Teacher Resource Guide* (FNESC, 2008; 307 PDF pages), the guides for British Columbia's English First Peoples courses — 145 teaching items placed. Both files were grabbed through the authenticated GitHub route and verified byte-exact against the library record (2018 guide 5,438,437 bytes; 2008 guide 3,393,665 bytes). Every Canada item in this section is TEACHER EVIDENCE of what the BC English First Peoples courses teach: Canada has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both guides read in full, page by page through their text layers (716 PDF pages); the 2018 guide amalgamates and replaces the 2008 guide, so where the two carry the same teaching, each is cited on its own evidence. The rows below are stocked from the expansion placements (canada-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English First Peoples, Grades 10–12 — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee and First Nations Schools Association (FNESC/FNSA), West Vancouver, ©2018, 409 pp. Printed page = PDF page (the footer numbers match the PDF pages throughout); pages cited are printed pages.
+
+**Book 2:** *English 12 First Peoples — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee (FNESC), ©2008, 307 PDF pages. Printed page = PDF page − 1 (the Table of Contents is printed p.7 = PDF p.8); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Identity, Grade 10: literature-circle novel study — reading a chosen novel in four sections, answering response questions per section and doing a group activity per section (four named novels offered; the novels are external texts, not in hand — the row evidences the study, not the texts) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.141–145 |
+| How Do We Define Ourselves?: novel study of *Keeper'n Me* in small groups — part-by-part discussion and response-journal writing (the journal part is also stocked in diary-and-journal; the novel is an external text, not in hand) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.189–196 |
+| What Creates Family?: literature-circle novel study on the theme of family (three named novels) with discussion questions (external texts, not in hand) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.247–249 |
+| Lost People: novel study choice between two named novels (*Monkey Beach*; *Indian Horse*) with reader-response questions (external texts, not in hand) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.309–314 |
+| Unit 5: Residential Schooling: reading a novel through extracts with the read-aloud strategy (*Kiss of the Fur Queen*, chs.1–2 and beyond; *Three Day Road* extracts) and a comparative film (*Rabbit-Proof Fence*, the Australian parallel) (external texts, not in hand) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.83–88 |
+| Unit 9: Identity: literature-circle study of *Keeper'n Me* — the whole class, one novel (the 2008 form of the *Keeper'n Me* row above; external text, not in hand) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.139–145 |
+| Unit 12: Métis Literature: novel study I — Maria Campbell's *Halfbreed*, chapter-by-chapter questions and journal responses, incl. Campbell's humour as mediator in tragedy (the journal part is also stocked in diary-and-journal; the novel is an external text, not in hand) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.238–258 |
+| Unit 12: Métis Literature: novel study II — selections from *In Search of April Raintree* (external text, not in hand) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.259–270 |
+
+Canada does not join this lesson's complete-text standing: no Canada pupil book is in hand, and the novels its rows study are external texts the guides teach around, not texts reproduced in a Canada book in hand.
+
+Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.

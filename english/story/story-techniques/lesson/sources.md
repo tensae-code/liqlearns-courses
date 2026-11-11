@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Canada
 
 Every part traces to its book and page.
 
@@ -669,3 +669,30 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Canada added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs — **2 teacher resource guides, 0 student books**: *English First Peoples, Grades 10–12 — Teacher Resource Guide* (FNESC/FNSA, 2018; 409 pp) and *English 12 First Peoples — Teacher Resource Guide* (FNESC, 2008; 307 PDF pages), the guides for British Columbia's English First Peoples courses — 145 teaching items placed. Both files were grabbed through the authenticated GitHub route and verified byte-exact against the library record (2018 guide 5,438,437 bytes; 2008 guide 3,393,665 bytes). Every Canada item in this section is TEACHER EVIDENCE of what the BC English First Peoples courses teach: Canada has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both guides read in full, page by page through their text layers (716 PDF pages); the 2018 guide amalgamates and replaces the 2008 guide, so where the two carry the same teaching, each is cited on its own evidence. The rows below are stocked from the expansion placements (canada-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English First Peoples, Grades 10–12 — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee and First Nations Schools Association (FNESC/FNSA), West Vancouver, ©2018, 409 pp. Printed page = PDF page (the footer numbers match the PDF pages throughout); pages cited are printed pages.
+
+**Book 2:** *English 12 First Peoples — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee (FNESC), ©2008, 307 PDF pages. Printed page = PDF page − 1 (the Table of Contents is printed p.7 = PDF p.8); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| First Peoples' Story, Grade 10: telling your own story aloud — opening with a hook, or starting at the most exciting part and flashing back | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.98–99 |
+| We Are Our Stories: narrative structures beyond the linear arc — recursive, circular and cyclical structures common in Indigenous storytelling | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed p.107 |
+| We Are Our Stories: orality into prose — finding a written presentational style that captures the nuance of an oral telling (Harry Robinson's “Captive in an English Circus”, as told to Wendy Wickwire) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.107–108 |
+| Identity, Grade 10: character study inside the novel study — how a character's experiences and trauma shape identity, tracked across the novel's four sections | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.147–160 |
+| Understanding Character: direct and indirect characterization; how a writer develops a protagonist (the guide's development-of-the-protagonist framework), applied to short stories | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.181–183 |
+| Understanding Character: the character hotseat — answering in role as a character to show understanding of the character | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed p.184 |
+| Relationships: writing from a character's perspective — the “character write” | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.298–300 |
+| Unit 3: Storytelling: recursive narrative structure spotted during reading (the King chapter study: how the coyote/duck strands recur), and stories within stories (the campfire frame in the unit's stories) (the 2008 form of the narrative-structures row above) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.53–54, 59–60 |
+| Unit 3: Storytelling: two-narrator / two-time-period story structure — one narrator in the 1890s losing her children to residential school, one in the 1970s losing her children: how the doubled narration works | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.55–57 |
+| Unit 10: Humour: circular structure in a humorous story — Lee Maracle's “Yin Chin” (handed out as a text): what it says about human nature, and how its circular structure fits its meaning | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.190–196 |
+| Understanding Character: the voice part of writing a sequel — staying in the story character's voice, peer-checked for consistency (the sequel-writing itself is stocked in telling-a-story-back) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.186–187 |
+| Belonging, Grade 10: the character-study part of the “three flower bouquet” — building the visual character study across the novel's chapters (the textual-proof part is stocked in answering-from-the-text) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.226–228 |
+
+Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.

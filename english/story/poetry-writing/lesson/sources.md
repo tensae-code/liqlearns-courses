@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Canada
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus (Classes
@@ -724,3 +724,26 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Canada added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs — **2 teacher resource guides, 0 student books**: *English First Peoples, Grades 10–12 — Teacher Resource Guide* (FNESC/FNSA, 2018; 409 pp) and *English 12 First Peoples — Teacher Resource Guide* (FNESC, 2008; 307 PDF pages), the guides for British Columbia's English First Peoples courses — 145 teaching items placed. Both files were grabbed through the authenticated GitHub route and verified byte-exact against the library record (2018 guide 5,438,437 bytes; 2008 guide 3,393,665 bytes). Every Canada item in this section is TEACHER EVIDENCE of what the BC English First Peoples courses teach: Canada has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both guides read in full, page by page through their text layers (716 PDF pages); the 2018 guide amalgamates and replaces the 2008 guide, so where the two carry the same teaching, each is cited on its own evidence. The rows below are stocked from the expansion placements (canada-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English First Peoples, Grades 10–12 — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee and First Nations Schools Association (FNESC/FNSA), West Vancouver, ©2018, 409 pp. Printed page = PDF page (the footer numbers match the PDF pages throughout); pages cited are printed pages.
+
+**Book 2:** *English 12 First Peoples — Teacher Resource Guide* (TEACHER EVIDENCE ONLY: a teacher resource guide, cited for what it teaches, never as a pupil's book) — Canada (British Columbia), First Nations Education Steering Committee (FNESC), ©2008, 307 PDF pages. Printed page = PDF page − 1 (the Table of Contents is printed p.7 = PDF p.8); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Beats and Bytes: spoken word and hip hop as contemporary oral tradition — performing and playing with spoken language; songs read as poetry that tells stories | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.111–117 |
+| Identity, Grade 10: “Where I'm From” poems — writing your identity as a poem built from the places and things that formed you | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed p.146 |
+| What Creates Family?: close reading a poem in strips — Joy Harjo's “Perhaps the World Ends Here” cut into 11 strips and read as a class to build the whole | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.252–254 |
+| First Steps: writing poetry from words and images gathered at a photo exhibit (“Where Are the Children?”) | Canada — English First Peoples, Grades 10–12 — Teacher Resource Guide (FNESC/FNSA, 2018) — teacher evidence, printed pp.261–262 |
+| Unit 6: From the Heart — Poetry: types of poems — telling poem types apart (incl. lyrical, free verse, sonnet, epic; concrete poems; a poem can be two types at once) and the oral roots of epics | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.103–105 |
+| Unit 6: From the Heart — Poetry: writing your own poem in a chosen form, through three drafts with a peer-feedback checklist — name the simile you like, the verb that could be stronger, ask what the poem is about | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.105–107 |
+| Unit 6: From the Heart — Poetry: songs and drums as poetry's kin — the unit opens by treating songs as poems (the drums/songs/poetry lesson) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.101–102 |
+| Unit 5: Residential Schooling: form mirrors theme — the broken form of Rita Joe's “I Lost My Talk” (fragments punctuated as sentences, unpunctuated clauses) mirrors what the poem is about (the poem study itself is stocked in answering-from-the-text) | Canada — English 12 First Peoples — Teacher Resource Guide (FNESC, 2008) — teacher evidence, printed pp.95–97 |
+
+Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.
