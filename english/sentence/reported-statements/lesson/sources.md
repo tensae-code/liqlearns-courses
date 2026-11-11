@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea
 
 Every part traces to its book and page.
 
@@ -661,3 +661,16 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Papua New Guinea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: the 2015 scripted elementary guides for Prep, Grade 1 (E1) and Grade 2 (E2); the 2017 Junior Primary programme guides for Grades 3, 4 and 5; and the Senior Primary programme guides for Grade 6 (2019), Grade 7 (2018) and Grade 8 (2019) — 170 teaching items placed. Every Papua New Guinea item in this section is TEACHER EVIDENCE of what is taught: Papua New Guinea has no student English book in hand, and no row below is pupil-book evidence; teacher guides never substitute for a pupil book. Read depth, as the placements declare it: all nine books read in full, page by page through their text layers (1,546 PDF pages) — in the three elementary guides every daily-lesson page was checked (header, song, phonics step) and the Content/Term Overviews read in full; in the Grades 3–8 programme guides the Content Standards, Yearly Overviews, all strand Weekly Programmes and all sample guided lesson plans were read in full; no book was read at reduced depth. The rows below are stocked from the expansion placements (papua-new-guinea-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 6:** English Teacher Guide, Primary Grade 5 — Standards Based (Department of Education, Papua New Guinea, First Edition 2017). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 170 pp; record: grade-05/gov/papua-new-guinea/english/teacher/grade-5-english-teachers-guide.pdf (3,113,477 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book errors E2–E3: the Contents lists “Assessment Overview: Grade 3” (printed p.75) inside this Grade 5 book, and the Phonics Weekly Program note (printed p.46) says the sounds “are revising them in Grade 3” — carried-over Grade 3 wording, noted; the book is cited as the Grade 5 book it is.
+
+| Lesson part | Where it comes from |
+|---|---|
+| G5 Language Patterns strand, printed pp.59–61: direct and indirect speech taught across the strand's weeks | Papua New Guinea — English Teacher Guide, Grade 5 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.59–61 |
+
+Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.

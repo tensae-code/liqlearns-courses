@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -825,3 +825,16 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Papua New Guinea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: the 2015 scripted elementary guides for Prep, Grade 1 (E1) and Grade 2 (E2); the 2017 Junior Primary programme guides for Grades 3, 4 and 5; and the Senior Primary programme guides for Grade 6 (2019), Grade 7 (2018) and Grade 8 (2019) — 170 teaching items placed. Every Papua New Guinea item in this section is TEACHER EVIDENCE of what is taught: Papua New Guinea has no student English book in hand, and no row below is pupil-book evidence; teacher guides never substitute for a pupil book. Read depth, as the placements declare it: all nine books read in full, page by page through their text layers (1,546 PDF pages) — in the three elementary guides every daily-lesson page was checked (header, song, phonics step) and the Content/Term Overviews read in full; in the Grades 3–8 programme guides the Content Standards, Yearly Overviews, all strand Weekly Programmes and all sample guided lesson plans were read in full; no book was read at reduced depth. The rows below are stocked from the expansion placements (papua-new-guinea-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 4:** English Teacher Guide, Primary Grade 3 — Standards Based (Department of Education, Papua New Guinea, First Edition 2017). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 180 pp; record: grade-03/gov/papua-new-guinea/english/teacher/grade-3-english-teachers-guide.pdf (3,487,106 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book error E4 (Spelling programme, printed p.62): a theme is named “Jews harp” for the Jew's harp (the musical instrument) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| G3 Reading strand, printed p.43: the Computers and ICT theme word set of the weekly programme | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.35, 39, 43 and 47 |
+
+Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.

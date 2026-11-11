@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea
 
 Every part traces to its book and page.
 
@@ -456,3 +456,16 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Papua New Guinea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: the 2015 scripted elementary guides for Prep, Grade 1 (E1) and Grade 2 (E2); the 2017 Junior Primary programme guides for Grades 3, 4 and 5; and the Senior Primary programme guides for Grade 6 (2019), Grade 7 (2018) and Grade 8 (2019) — 170 teaching items placed. Every Papua New Guinea item in this section is TEACHER EVIDENCE of what is taught: Papua New Guinea has no student English book in hand, and no row below is pupil-book evidence; teacher guides never substitute for a pupil book. Read depth, as the placements declare it: all nine books read in full, page by page through their text layers (1,546 PDF pages) — in the three elementary guides every daily-lesson page was checked (header, song, phonics step) and the Content/Term Overviews read in full; in the Grades 3–8 programme guides the Content Standards, Yearly Overviews, all strand Weekly Programmes and all sample guided lesson plans were read in full; no book was read at reduced depth. The rows below are stocked from the expansion placements (papua-new-guinea-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 9:** English Teacher Guide, Grade 8 — Standards Based (Department of Education, Papua New Guinea, Published 2019). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 136 pp; record: grade-08/gov/papua-new-guinea/english/teacher/grade-8-english-teachers-guide.pdf (3,007,103 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book errors E7–E8: a Term 4 Week 6 example sentence prints “beause” for “because”, and the Term 2 weekly grid runs Week 1, 2, 3, then “Week 5”, skipping Week 4 in the numbering — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| G8 Term 3: letter conventions taught as a set | Papua New Guinea — English Teacher Guide, Grade 8 (Department of Education, Papua New Guinea, 2019) — teacher evidence, printed Term 3 |
+
+Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.

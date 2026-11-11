@@ -1,6 +1,6 @@
 # Sources
 
-countries: Samoa
+countries: Samoa, Papua New Guinea
 
 **Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
 **Book 2:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
@@ -19,3 +19,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 This lesson exists because of Sāmoa: Sāmoa's Year 9 and Year 13 books both teach how to work and talk in a group — the ground rules of a good group and the phases of solving a problem together — and no lesson in the course held group discussion as its own topic before.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Papua New Guinea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: the 2015 scripted elementary guides for Prep, Grade 1 (E1) and Grade 2 (E2); the 2017 Junior Primary programme guides for Grades 3, 4 and 5; and the Senior Primary programme guides for Grade 6 (2019), Grade 7 (2018) and Grade 8 (2019) — 170 teaching items placed. Every Papua New Guinea item in this section is TEACHER EVIDENCE of what is taught: Papua New Guinea has no student English book in hand, and no row below is pupil-book evidence; teacher guides never substitute for a pupil book. Read depth, as the placements declare it: all nine books read in full, page by page through their text layers (1,546 PDF pages) — in the three elementary guides every daily-lesson page was checked (header, song, phonics step) and the Content/Term Overviews read in full; in the Grades 3–8 programme guides the Content Standards, Yearly Overviews, all strand Weekly Programmes and all sample guided lesson plans were read in full; no book was read at reduced depth. The rows below are stocked from the expansion placements (papua-new-guinea-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 7:** English Teacher Guide, Grade 6 — Standards Based (Department of Education, Papua New Guinea, Published 2019; ISBN 978-9980-905-29-1). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 174 pp; record: grade-06/gov/papua-new-guinea/english/teacher/english-teachers-guide-grade-6.pdf (3,146,874 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. This book has NO row in textbooks.tsv — it is held in the staging records and the push state (Flag F1, reported in the CURRICULUM merge paragraph). Book error E9: the Term 3 Week 1 grid lists “synonym, antonym” as its example of commonly confused words — the pair are opposites, not a confusable pair; taught corrected, as word relationships.
+
+| Lesson part | Where it comes from |
+|---|---|
+| G6 Term 4 Weeks 8–9: philosophy for children — big questions talked through in class | Papua New Guinea — English Teacher Guide, Grade 6 (Department of Education, Papua New Guinea, 2019) — teacher evidence, printed Term 4 Weeks 8–9 |
+
+Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.

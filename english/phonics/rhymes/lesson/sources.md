@@ -1,6 +1,6 @@
 # Sources — Rhymes
 
-countries: Ghana
+countries: Ghana, Papua New Guinea
 
 Every part traces to its book and page.
 
@@ -16,3 +16,23 @@ Every part traces to its book and page.
 | Rhymes — Compose short rhymes and tongue-twisters and recite them | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.2.1, PDF p.91 (curriculum evidence) |
 
 **Acceptance count: taught in 0 countries — this lesson stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so no country is counted as teaching this lesson from a pupil's book. This lesson exists because of Ghana's books: Ghana's NaCCA Basic 1–3 curriculum opens its oral-language strand with Rhymes at every level — listening to and singing songs and reciting rhymes and tongue-twisters at Basic 1, interpreting them at Basic 2, composing short rhymes and talking about the benefits of songs at Basic 3; the course's word-families lesson teaches rhyming endings inside words, but no lesson taught the rhymes themselves. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+
+## Papua New Guinea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: the 2015 scripted elementary guides for Prep, Grade 1 (E1) and Grade 2 (E2); the 2017 Junior Primary programme guides for Grades 3, 4 and 5; and the Senior Primary programme guides for Grade 6 (2019), Grade 7 (2018) and Grade 8 (2019) — 170 teaching items placed. Every Papua New Guinea item in this section is TEACHER EVIDENCE of what is taught: Papua New Guinea has no student English book in hand, and no row below is pupil-book evidence; teacher guides never substitute for a pupil book. Read depth, as the placements declare it: all nine books read in full, page by page through their text layers (1,546 PDF pages) — in the three elementary guides every daily-lesson page was checked (header, song, phonics step) and the Content/Term Overviews read in full; in the Grades 3–8 programme guides the Content Standards, Yearly Overviews, all strand Weekly Programmes and all sample guided lesson plans were read in full; no book was read at reduced depth. The rows below are stocked from the expansion placements (papua-new-guinea-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 4:** English Teacher Guide, Primary Grade 3 — Standards Based (Department of Education, Papua New Guinea, First Edition 2017). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 180 pp; record: grade-03/gov/papua-new-guinea/english/teacher/grade-3-english-teachers-guide.pdf (3,487,106 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book error E4 (Spelling programme, printed p.62): a theme is named “Jews harp” for the Jew's harp (the musical instrument) — noted, taught corrected.
+
+**Book 7:** English Teacher Guide, Grade 6 — Standards Based (Department of Education, Papua New Guinea, Published 2019; ISBN 978-9980-905-29-1). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 174 pp; record: grade-06/gov/papua-new-guinea/english/teacher/english-teachers-guide-grade-6.pdf (3,146,874 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. This book has NO row in textbooks.tsv — it is held in the staging records and the push state (Flag F1, reported in the CURRICULUM merge paragraph). Book error E9: the Term 3 Week 1 grid lists “synonym, antonym” as its example of commonly confused words — the pair are opposites, not a confusable pair; taught corrected, as word relationships.
+
+**Book 9:** English Teacher Guide, Grade 8 — Standards Based (Department of Education, Papua New Guinea, Published 2019). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 136 pp; record: grade-08/gov/papua-new-guinea/english/teacher/grade-8-english-teachers-guide.pdf (3,007,103 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book errors E7–E8: a Term 4 Week 6 example sentence prints “beause” for “because”, and the Term 2 weekly grid runs Week 1, 2, 3, then “Week 5”, skipping Week 4 in the numbering — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| G3 Yearly Overview (annual overview): the imaginative-texts line — songs, rhymes and poems named as the year's imaginative reading | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed Yearly Overview |
+| G3 Appendices, printed pp.166 and 168: the songs and poems printed in the guide's appendices for class use | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.166 and 168 |
+| G6 sample guided lesson plan: the poem “The Herons” read and worked in the plan (named only — no text transcribed) | Papua New Guinea — English Teacher Guide, Grade 6 (Department of Education, Papua New Guinea, 2019) — teacher evidence, printed sample guided lesson plan |
+| G8 sample lesson plan: the poem “The Laughing Cup” read and worked in the plan (named only — no text transcribed) | Papua New Guinea — English Teacher Guide, Grade 8 (Department of Education, Papua New Guinea, 2019) — teacher evidence, printed sample lesson plan |
+
+Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.

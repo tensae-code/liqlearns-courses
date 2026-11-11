@@ -1,6 +1,6 @@
 # Sources — Listening Comprehension
 
-countries: Ghana, Sierra Leone, South Sudan, Fiji
+countries: Ghana, Sierra Leone, South Sudan, Fiji, Papua New Guinea
 
 Every part traces to its book and page.
 
@@ -103,3 +103,33 @@ Routing note: the expansion diff marks this topic "NEW LESSON NEEDED: listening 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Papua New Guinea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: the 2015 scripted elementary guides for Prep, Grade 1 (E1) and Grade 2 (E2); the 2017 Junior Primary programme guides for Grades 3, 4 and 5; and the Senior Primary programme guides for Grade 6 (2019), Grade 7 (2018) and Grade 8 (2019) — 170 teaching items placed. Every Papua New Guinea item in this section is TEACHER EVIDENCE of what is taught: Papua New Guinea has no student English book in hand, and no row below is pupil-book evidence; teacher guides never substitute for a pupil book. Read depth, as the placements declare it: all nine books read in full, page by page through their text layers (1,546 PDF pages) — in the three elementary guides every daily-lesson page was checked (header, song, phonics step) and the Content/Term Overviews read in full; in the Grades 3–8 programme guides the Content Standards, Yearly Overviews, all strand Weekly Programmes and all sample guided lesson plans were read in full; no book was read at reduced depth. The rows below are stocked from the expansion placements (papua-new-guinea-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+Routing note: the expansion diff proposed a NEW "listening comprehension" lesson for Papua New Guinea's items; this lesson already exists (built by the Sierra Leone re-verification sweep merge), so the items are stocked here instead — no second lesson was built.
+
+**Book 4:** English Teacher Guide, Primary Grade 3 — Standards Based (Department of Education, Papua New Guinea, First Edition 2017). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 180 pp; record: grade-03/gov/papua-new-guinea/english/teacher/grade-3-english-teachers-guide.pdf (3,487,106 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book error E4 (Spelling programme, printed p.62): a theme is named “Jews harp” for the Jew's harp (the musical instrument) — noted, taught corrected.
+
+**Book 5:** English Teacher Guide, Primary Grade 4 — Standards Based (Department of Education, Papua New Guinea, First Edition 2017). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 186 pp; record: grade-04/gov/papua-new-guinea/english/teacher/grade-4-english-teachers-guide.pdf (3,665,048 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book error E1: the Contents (printed p.v) lists the Spelling Weekly Program at p.52 — the programme is at printed p.62 — and lists the Written Sentences/Grammar sample plans (p.57) before it; a contents pagination error, noted; rows cite the programmes' real pages.
+
+**Book 7:** English Teacher Guide, Grade 6 — Standards Based (Department of Education, Papua New Guinea, Published 2019; ISBN 978-9980-905-29-1). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 174 pp; record: grade-06/gov/papua-new-guinea/english/teacher/english-teachers-guide-grade-6.pdf (3,146,874 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. This book has NO row in textbooks.tsv — it is held in the staging records and the push state (Flag F1, reported in the CURRICULUM merge paragraph). Book error E9: the Term 3 Week 1 grid lists “synonym, antonym” as its example of commonly confused words — the pair are opposites, not a confusable pair; taught corrected, as word relationships.
+
+**Book 8:** English Teacher Guide, Grade 7 — Standards Based (Department of Education, Papua New Guinea, Published 2018). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 136 pp; record: grade-07/gov/papua-new-guinea/english/teacher/grade-7-english-teachers-guide.pdf (2,865,228 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book error E6: the Term 4 enrichment line prints the proverb as “A stich in time saves nine” — “stich” for “stitch”; taught corrected.
+
+**Book 9:** English Teacher Guide, Grade 8 — Standards Based (Department of Education, Papua New Guinea, Published 2019). TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 136 pp; record: grade-08/gov/papua-new-guinea/english/teacher/grade-8-english-teachers-guide.pdf (3,007,103 bytes; the read copy byte-matches its record). Printed page = PDF page − 6; pages cited are printed pages. Book errors E7–E8: a Term 4 Week 6 example sentence prints “beause” for “because”, and the Term 2 weekly grid runs Week 1, 2, 3, then “Week 5”, skipping Week 4 in the numbering — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| G3 Weekly Programmes, printed pp.34–49: oral comprehension questions after the weekly story read | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.34–49 |
+| G3 Listening strand, printed pp.34–49: listening to a visitor and talking about what was heard | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.34–49 |
+| G3 Listening strand, printed pp.34–49: the set listening comprehension — answering questions about a heard story | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.34–49 |
+| G3 Listening strand, printed pp.34–49: listening to directions and following a route (the directions part of this item is stocked in giving-directions) | Papua New Guinea — English Teacher Guide, Grade 3 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.34–49 |
+| G4 Weekly Programmes, printed pp.34–49: pattern practice — read and listen, substituting the pattern | Papua New Guinea — English Teacher Guide, Grade 4 (Department of Education, Papua New Guinea, 2017) — teacher evidence, printed pp.34–49 |
+| G6 Term 1 Week 4: the directions/message week — listening for a message and its directions (the directions part of this item is stocked in giving-directions) | Papua New Guinea — English Teacher Guide, Grade 6 (Department of Education, Papua New Guinea, 2019) — teacher evidence, printed Term 1 Week 4 |
+| G7 Term 2: the term's listening specification — the set listening work of the term | Papua New Guinea — English Teacher Guide, Grade 7 (Department of Education, Papua New Guinea, 2018) — teacher evidence, printed Term 2 |
+| G8 Term 1: the “Message” listening task and the telephone conversation — listening with a message to catch (the message part of this item is stocked in finding-the-idea-of-a-text) | Papua New Guinea — English Teacher Guide, Grade 8 (Department of Education, Papua New Guinea, 2019) — teacher evidence, printed Term 1 |
+
+Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.

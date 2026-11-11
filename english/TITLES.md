@@ -228,7 +228,10 @@ its own subtitle folder with its own lesson + questions):
   (added 2026-11-11 by the Liechtenstein expansion
   merge — **Unit 7, Words for the World**) ·
   immigration-and-living-abroad (added 2026-11-11 by the
-  Haiti expansion merge — **Unit 7, Words for the World**)
+  Haiti expansion merge — **Unit 7, Words for the World**) ·
+  helping-and-working-together (added 2026-11-11 by the
+  Papua New Guinea expansion merge — **Unit 7, Words for
+  the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
