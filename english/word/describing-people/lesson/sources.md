@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -166,8 +166,9 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 16 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan).** North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
+Indonesia, Mauritania, Mexico, India, Greece, Nicaragua,
+North Macedonia, Pakistan, South Sudan, Sudan).** North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -248,3 +249,36 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 6:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessive adjective *my*; describing a person (draw, eye, hair, his/her, son) | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 3, Lesson 7, printed p.23 |
+| *can* for requests; describing yourself, people and places | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 9, Lesson 7, printed p.71 |
+| Role Models | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 5, printed p.37 |
+| Special People (revision) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 8, printed p.40 |
+| Photography (dictation drawing; describing a photo) — stocked in part | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 6, Lesson 3, printed p.43 |
+| Talking Parrots (feeling adjectives) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 11, Lesson 4, printed p.84 |
+| Description writing (question-per-point method; the transport compositions) (its process method is stocked in process-writing) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 10, printed pp.139–153 |
+| Character adjectives | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+| Descriptive-writing model phrases | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+| Describing a person (factual description vs personal opinion) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 7, printed pp.102–118 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

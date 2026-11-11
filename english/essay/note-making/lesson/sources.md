@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -43,8 +43,8 @@ verification sweep.
 | A mind map as note-making — the farmers'-market shopping mind map (when, where, with who, how can we get there, how much, shopping list) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.43 |
 | Note-making and reporting worked on a factual report text (About the Unit writing) | India — Flamingo (Class 12), Writing in Lost Spring (About the Unit), printed pp.21–22 |
 
-**Acceptance count: taught in 6 countries (India,
-Uzbekistan, Kuwait, South Africa, China, South Sudan).** India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
+**Acceptance count: taught in 7 countries (India, Uzbekistan, Kuwait, South Africa, China,
+South Sudan, Sudan).** India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
 note-making as a five-step worked craft and sub-titling
 as its reader-facing twin; Uzbekistan cuts sentences to
 note form with the standard abbreviations; Kuwait writes
@@ -66,3 +66,18 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Martin Luther King — jumbled-note reordering (dual-homed with biography-writing; counted once) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 3, printed pp.36–50 |
+| The *Newsweek* interview on economic development, with note-taking | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 7, printed pp.102–118 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

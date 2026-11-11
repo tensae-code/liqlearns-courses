@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -160,7 +160,9 @@ re-verification sweep.
 | Degrees of adjectives — regular and irregular adjectives compared — in the Harmony in Society unit (with relative pronouns, clauses and phrases, commas and dictionary use) | Pakistan, *English 6*, Unit 5, printed p.47 |
 | Degrees of adjectives in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 14 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 15 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania,
+Mexico, India, Greece, Mongolia, Pakistan, Palestine,
+Sierra Leone, South Sudan, Sudan).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
@@ -246,3 +248,44 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparatives *-er* (planets) | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 2, Lesson 2, printed p.10 |
+| Superlatives *-est*; *between / on the left / on the right / in the middle* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 2, Lesson 5, printed p.13 |
+| Comparatives + superlatives of short adjectives; present-simple facts | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 2, Lesson 6, printed p.14 |
+| Comparatives and superlatives: fast/faster/the fastest, old, new, cheap — the set's first full comparison set | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 8, Lesson 1, PDF p.69 |
+| Comparatives/superlatives consolidation | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 9, Lesson 2, PDF p.79 |
+| Comparative test items (slower than / the slowest; old city) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 12, Lesson 6, PDF p.108 |
+| Getting Around; comparatives | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 8, Lesson 2, printed p.58 |
+| Holiday Fun (comparatives *better/worse*; past-tense choice; holiday email) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 1, Lesson 1, printed p.1 |
+| The World around Us (comparatives/superlatives) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 3, Lesson 1, printed p.17 |
+| Oliver Twist Meets Fagin (irregular comparatives; the Dickens paragraph) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 4, Lesson 7, printed p.31 |
+| Amazing Abilities (three record-holders; comparatives/superlatives) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 8, Lesson 5, printed p.61 |
+| Amazing World Records (*as tall as*; *even though*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 11, Lesson 2, printed p.82 |
+| Calligraphy (Kufic, Thuluth, Riq'ah, Sini); comparatives and superlatives | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 2, Lesson 6, printed p.14 |
+| The Beauty of Nature (comparatives in “both…but…”; adverb-of-frequency placement) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 4, printed p.41 |
+| Who's Best? (*as…as*; “Anything you can do, I can do better”) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 6, printed p.46 |
+| Fact or Fiction (superlative statements judged true/false) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 10, printed p.59 |
+| Revision lesson — Farm, Family and Animals (the unit's comparison points) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 12, printed p.178 |
+| A Visit to the Zoo (comparative/superlative adjective table) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 6, Lesson 6, printed p.199 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

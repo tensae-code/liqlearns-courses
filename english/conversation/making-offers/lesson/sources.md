@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan
 
 Every part traces to its book and page.
 
@@ -68,8 +68,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Malaysia, Mongolia, Nepal, Syria, China, Mauritania).** Syria opens the lesson
+**Acceptance count: taught in 8 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan).** Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -89,3 +89,32 @@ sweep).
 Mauritania offers help and things, with accepting and
 declining, in its Grade 8 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge).
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| *would like* + noun/verb; *can* for requests | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 1, Lesson 6, printed p.6 |
+| *would like* questions; numbers 1–100 | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 8, Lesson 4, printed p.60 |
+| *would like*; adjectives hard/easy, fast/slow | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 5, printed p.77 |
+| *would like to* + verb; *by* (car) | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 6, Lesson 1, printed p.41 |
+| *want to / would like to* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 6, Lesson 4, printed p.44 |
+| Places to Visit; *would like to* | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 8, Lesson 3, printed p.59 |
+| Healthy Habits; making offers (“Shall I carry your bag for you?”) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 5, Lesson 7, printed p.39 |
+| Merowe (*Would you like to…?* invitations) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 3, Lesson 7, printed p.81 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

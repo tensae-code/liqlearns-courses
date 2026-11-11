@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan
 
 Every part traces to its book and page.
 
@@ -100,8 +100,8 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 9 countries (Mexico, Mongolia,
-Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua).** Mexico carries the
+**Acceptance count: taught in 10 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
+Bolivia, China, Indonesia, Nicaragua, Sudan).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -142,3 +142,27 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Articles; the imperative “Point to…”; classroom words | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 5, Lesson 1, printed p.33 |
+| *like/enjoy* + -ing; school subjects; time | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 1, printed p.89 |
+| At School | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 1, printed p.17 |
+| My School | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 2, printed p.18 |
+| The Khalwa (Qur'anic school) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 4, printed p.20 |
+| My Favourite Subject | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 5, printed p.21 |
+| Different Schools (home schools, camel schools) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 6, printed p.22 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

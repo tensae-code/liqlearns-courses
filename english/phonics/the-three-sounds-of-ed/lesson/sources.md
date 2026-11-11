@@ -1,6 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine
+countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan
 
 Every part traces to its book and page.
 
@@ -39,7 +39,8 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 | The three sounds of -ed, in the health unit (with hygiene and healthy eating) | Pakistan, *English 4*, Unit 8 (contents) |
 
-**Acceptance count: taught in 6 countries (Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine).**
+**Acceptance count: taught in 7 countries (Bolivia, India, Barbados, Nicaragua, Pakistan,
+Palestine, Sudan).**
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -72,3 +73,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Pronunciation: past-tense (-ed) endings | Palestine, Grade 10 Part 1, Unit 6 (per the book's Contents, printed p.3) |
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The three sounds of -ed (/t/, /d/, /ɪd/) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 2, printed pp.21–36 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

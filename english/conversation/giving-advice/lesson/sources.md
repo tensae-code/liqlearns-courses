@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -152,7 +152,9 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 17 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan).** Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+**Acceptance count: taught in 18 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
+China, Iran, Indonesia, Mauritania, Mexico, Greece,
+Mongolia, Nicaragua, Rwanda, South Sudan, Sudan).** Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -224,3 +226,41 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Advice modal *you should*; *like* + -ing | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 5, printed p.45 |
+| *should/shouldn't* advice | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 7, Lesson 7, printed p.55 |
+| Revision lesson — Time and Weather (the unit's advice points) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 7, Lesson 8, printed p.56 |
+| *should/shouldn't* — safety advice | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 9, Lesson 5, printed p.69 |
+| *should* advice about animals; imperatives | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 7, printed p.95 |
+| *should* for advice; *why/who/what*; seasons | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 4, printed p.20 |
+| *must/mustn't* sentences | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 8, Lesson 3, PDF p.71 |
+| *should/shouldn't* health sentences | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 11, Lesson 2, PDF p.96 |
+| *always/never* + *should/shouldn't* | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 11, Lesson 6, PDF p.100 |
+| A Tidy School; *need to* (with an incidental present-perfect line) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 7, printed p.23 |
+| Relationships (advice language; the grandmother email) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 12, Lesson 1, printed p.89 |
+| Advice with *should* (dual-homed with health-words; counted once) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 1, Lesson 5, printed p.5 |
+| Revision lesson — Daily Life and Work (advice-giving; wall magazine) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 4, Lesson 13, printed p.136 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

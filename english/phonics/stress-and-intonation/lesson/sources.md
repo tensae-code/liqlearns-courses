@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -111,7 +111,9 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 14 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 15 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
+China, Iran, Indonesia, Greece, Nicaragua, Pakistan,
+Palestine, Rwanda, Sudan).** Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -206,3 +208,22 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Organs of Speech (speech organs; sounds [b]/[p], [t]/[d], [v]/[f]) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 1, Lesson 10, printed p.28 |
+| “Peter Piper” | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 2, printed pp.21–36 |
+| Word stress (CONduct/conDUCT: present, import, export, insult) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 10, printed pp.139–153 |
+| Intonation, including question-tag tunes | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Complaint letters
 
-countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh
+countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -52,8 +52,8 @@ outcome and teaches no complaint lesson (see the row).
 | The complaint named as a learning outcome and taught nowhere in the unit: Unit 12 "Roots" prints "lodge complaint" among its learning outcomes on the unit opener — and no lesson in the unit teaches complaint writing (outcome evidence only, stated exactly; stocked 2026-11-08 by the re-verification sweep, which found the outcome in the fresh read and no complaint lesson behind it) | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Twelve opener, printed p.151 |
 | Hotel Unit 12 “Responding to complaints” — complaint-response language in food and beverage service | Greece, English for the Hotel and Tourist Trade, Unit 12, printed p.205 |
 
-**Acceptance count: taught in 6 countries (Greece,
-Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh).** Greece teaches
+**Acceptance count: taught in 7 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana,
+Bangladesh, Sudan).** Greece teaches
 the complaint and its apologetic reply as one worked pair;
 Uzbekistan reads a formal complaint and corrects a
 style-mixed one; Sierra Leone names the letter of
@@ -64,3 +64,17 @@ names "lodge complaint" as a printed learning outcome in
 its Classes 9–10 book and teaches no complaint lesson
 behind it — outcome evidence only (added 2026-11-08 by
 the re-verification sweep).
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The homework complaint letter | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 6, printed pp.83–98 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

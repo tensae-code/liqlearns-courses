@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -53,7 +53,8 @@ cited once.
 | Reading: a magazine article on the importance of breakfast — skimming and scanning | Mongolia, English XII, Unit 8, printed p.137 |
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
-**Acceptance count: taught in 10 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia,
+Nicaragua, Sierra Leone, South Sudan, Sudan).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -160,3 +161,26 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Revision: Learning English | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 1, Lesson 8, printed p.8 |
+| Revision: All about Science | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 5, Lesson 8, printed p.40 |
+| Revision: The End! | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 12, Lesson 8, printed p.96 |
+| Revision: Science (bacteria encyclopedia entry; matching headings) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 1, Lesson 8, printed p.8 |
+| Revision: An Arab Adventure (encyclopedia; Ibn Battuta) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 3, Lesson 8, printed p.24 |
+| Revision lesson — Home and City | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 1, Lesson 11, printed p.31 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

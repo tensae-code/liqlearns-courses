@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 15 countries (Bolivia,
-Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
-Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 16 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
+Mongolia, Nepal, China, Mauritania, Greece, Nicaragua,
+Pakistan, Palestine, Sierra Leone, Sudan).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -167,3 +167,41 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Determiners all/lots of/many/some | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 2, Lesson 6, printed p.14 |
+| *how much/how many*; countable and uncountable; “How do you spell that?” | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 5, Lesson 6, printed p.38 |
+| *how much/many* (continued) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 5, Lesson 7, printed p.39 |
+| Revision lesson — Places in Sudan (the unit's quantity points) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 5, Lesson 8, printed p.40 |
+| Quantity *a lot of / many / much / enough*; countable/uncountable | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 5, Lesson 3, printed p.35 |
+| Quantifiers *a lot / not many / not much* | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 7, Lesson 5, PDF p.65 |
+| *a/an/some/any* | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 8, Lesson 6, PDF p.74 |
+| *lots of / aren't many / isn't much* (dual-homed with present-actions; counted once) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 7, Lesson 6, printed p.54 |
+| Oliver Twist Wants More! (*more/less/enough/too much*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 4, Lesson 6, printed p.30 |
+| The Ecosystem (quantifiers *a few/a little/enough/too much/too many*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 10, Lesson 1, printed p.73 |
+| Loch Ness (*too much / not enough*; the lesson also teaches expressing opinion on the reading) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 3, Lesson 6, printed p.79 |
+| Expressions of quantity (a customs officer and passenger dialogue) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 8, printed pp.119–136 |
+| The quantity scale *few/a few, little/a little* | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 9, printed pp.137–154 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

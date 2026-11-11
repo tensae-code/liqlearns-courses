@@ -542,3 +542,21 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Common irregular plurals; present continuous | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 1, Lesson 7, printed p.7 |
+| Regular/irregular plurals; *How?*; quantity | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 4, Lesson 1, printed p.25 |
+| Irregular plurals (knee/child/person set) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 11, Lesson 1, PDF p.95 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

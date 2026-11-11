@@ -454,3 +454,43 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| *'ve got*; size and colour adjectives in the Gonfooth the hedgehog story | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 4, Lesson 6, printed p.30 |
+| Prepositions behind/in front of/next to; apostrophe-'s; possessive adjectives my/your/his/her | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 1, Lesson 1, printed p.1 |
+| Demonstratives this/that/these/those | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 2, Lesson 4, printed p.12 |
+| Present continuous singular/plural with adjectives of size, colour and temperature; seasons and weather | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 3, Lesson 3, printed p.19 |
+| Prepositions around/behind/down/in/in front of/on/out of/over/through | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 2, printed p.26 |
+| Prepositions by/for/from/in/on | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 5, Lesson 2, printed p.34 |
+| Adjectives and adjective phrases | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 5, Lesson 4, printed p.36 |
+| *This is/These are*; animal-body words | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 2, printed p.42 |
+| *can* for ability (people and animals); noun phrases with adjectives (a big brain) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 7, printed p.47 |
+| Demonstratives + possessives (hobbies) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 11, Lesson 4, printed p.84 |
+| *there is/are*; place prepositions between/in front of/next to/near/outside | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 2, printed p.90 |
+| Adjectives (dangerous, loud, big, small, fast, long); this/these | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 5, printed p.93 |
+| Materials words (brick, cotton, gold, iron, leather, rock, stone, wood, wool) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 9, Lesson 5, PDF p.82 |
+| Materials completion (One More Time revision set) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 12 (cited by unit; the placements fold this point into the unit's lines without its own page) |
+| Hassan and Hussain (describing words; *both/neither/not as…as*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 2, Lesson 2, printed p.10 |
+| Ramadan (two-column comparison) — stocked in part | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 7, printed p.163 |
+| The Fashion reading (kilt, laawo, sideri, tobe) — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 8, printed pp.119–136 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

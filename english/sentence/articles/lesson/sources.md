@@ -188,3 +188,24 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a/an with nouns; regular plurals | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Articles a/an/the; imperatives | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 3, Lesson 2, printed p.18 |
+| No article with plural nouns | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 1, printed p.41 |
+| Articles/determiners a/an/the, this, these, some | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 1, Lesson 4, printed p.4 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

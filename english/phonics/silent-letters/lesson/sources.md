@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -68,7 +68,8 @@ verification sweep.
 | Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
 | Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 6 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan,
+Sudan).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -83,3 +84,21 @@ varieties and is flagged as such wherever it appears.
 Counts grow as other closed countries' books are read.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 4* works silent letters in its Beauty of Nature unit and *English 8* carries them in its grammar system. Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 2:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Silent letters sets (know, kneel, wrong, write, listen, castle, calm, lamb, column) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 12, printed pp.167–179 |
+| Silent 'gh' spelling and rhyming-word matching | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 2, printed pp.17–35 |
+| Silent letters with rhyme matching | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 3, printed pp.36–50 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

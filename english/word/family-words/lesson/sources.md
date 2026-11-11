@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -117,9 +117,10 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 15 countries (Mongolia, North
-Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran,
-Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 16 countries (Mongolia, North Macedonia, Palestine, Rwanda,
+Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania,
+Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan,
+Sudan).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -234,3 +235,28 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessive *'s* | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 3, Lesson 6, printed p.22 |
+| *have got* — first introduction | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 4, Lesson 1, printed p.25 |
+| Possessive adjectives + apostrophe-'s; likes and dislikes | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 1, Lesson 7, printed p.7 |
+| My Family | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Weddings (2) (family-relation words; “The Bride”) (the lesson's spot-the-mistakes exercise is stocked in fixing-sentence-errors) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 8, printed p.52 |
+| Family Relations (the full kinship set: uncle, aunt, cousin, niece, father-in-law…) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 10, printed p.171 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

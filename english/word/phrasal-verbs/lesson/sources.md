@@ -189,3 +189,27 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Activity Book* — Sudan, NCCER. Catalogued as the Grade 8 activity book and keyed lesson-for-lesson to the Grade 8 Pupil's Book; its own title pages read Grade 7 — a publisher inconsistency recorded by the sweep (its flag F3), carried here honestly. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cars (car parts; phrasal verbs *break down, fill up, pump up*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 5, Lesson 6, printed p.38 |
+| Unusual Hobbies (phrasal-verb building: *waste time, make a mistake, save money*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 6, Lesson 4, printed p.44 |
+| Phrasal verbs *cheer up / carry on / hold on / pick up / wake up* | Sudan — SMILE Book 6 Activity Book, Unit 11, Lesson 4, printed p.99 |
+| Rules of the Road (*must/mustn't* table; phrasal *get/take/walk*) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 6, Lesson 5, printed p.196 |
+| The phrasal verbs set (hand over, fill in, catch on, deal with, put up with, turn down, hand in, take on, wake up, hold up, consist of, go over) (this lesson stocked only SPINE 5 for Sudan before) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 7, printed pp.102–118 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

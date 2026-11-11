@@ -236,3 +236,36 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 6:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Joining sentences with *who*; present simple | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 4, Lesson 3, printed p.27 |
+| Sentences with *who*; present continuous | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 5, Lesson 2, printed p.34 |
+| Early Sudanese Traders; relative clauses *who/where/which* | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 3, Lesson 5, printed p.21 |
+| Al Neelain Mosque (relative clauses *who/which*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 9, Lesson 4, printed p.68 |
+| A Sudanese Adventure (Alex Thompson; *when / who / which / where*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 12, Lesson 4, printed p.92 |
+| National Dress; relative clauses *that/which* — second teaching occurrence (only U7 L1 was stocked) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 2, Lesson 2, printed p.10 |
+| Defining people with *who* in a newspaper report (dual-homed with news-writing; counted once) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 8, printed p.165 |
+| Types of Animals — building sentences with relative clauses *who/whose/which/that* (cross-citation under flag F10: the same lesson's plurals and animals points are counted in nouns and animals in the sweep diff's §A) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 6, Lesson 7, printed pp.201–203 |
+| Relative clauses *who/which/whom/where* — Grammar Corner (this lesson stocked only SMILE Book 9 for Sudan before) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 7, printed pp.99–108 |
+| Relative pronouns *who/whose/which*, and *whom* in written English (cross-citation under flag F10: the point is counted in pronouns in the sweep diff's §A) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 6, printed pp.91–92 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

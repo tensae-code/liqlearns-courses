@@ -1,6 +1,6 @@
 # Sources — News writing
 
-countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, South Sudan
+countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -83,7 +83,9 @@ verification sweep.
 | Role of the Media: a whole unit on the media (with compound words, pronouns, punctuating a passage, and summary and dialogue writing) | Pakistan, *English 7*, Unit 12 (contents) |
 | A road-accident news report printed whole: "Youth killed in a road accident in Lahore" (its p.33 neighbour text prints "causalities" for casualties — book error, taught corrected) | Pakistan, *English 8*, printed p.32 |
 
-**Acceptance count: taught in 12 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, South Sudan).** Greece joins with the Grade 7 Advanced 'School Reporting!' newspaper lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a newspaper report written from notes in Class 9, and the interview turned into a newspaper report in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico,
+India, Greece, Mongolia, Pakistan, Sierra Leone,
+South Sudan, Sudan).** Greece joins with the Grade 7 Advanced 'School Reporting!' newspaper lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a newspaper report written from notes in Class 9, and the interview turned into a newspaper report in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 7* gives the media a whole unit (Unit 12), and *English 8* prints a road-accident news report whole (printed p.32). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -128,3 +130,22 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A Terrible Accident (newspaper report of a house collapse) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 1, Lesson 6, printed p.16 |
+| Newspaper Report (defining people with *who* — its report passives are stocked in the-passive; its defining-relative point is stocked in relative-clauses) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 8, printed p.165 |
+| Writing your own news flash | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 1, printed pp.1–20 |
+| The spoof animal newspaper | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 8, printed pp.109–124 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

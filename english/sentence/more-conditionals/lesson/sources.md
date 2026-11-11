@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -94,9 +94,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 13 countries (Armenia,
-Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+**Acceptance count: taught in 14 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+South Africa, Syria, Bolivia, Mauritania, India, Greece,
+Mongolia, Pakistan, Sudan).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -115,3 +115,20 @@ Mauritania teaches the unreal conditional in its Grade 11 book
 merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep teaches Conditionals Type II in its grammar system. *English X* works the second conditional in its Great Expectations unit and the third in its closing grammar stretch. English X is filed in english/books/pakistan.md and was re-read in the same sweep.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Revision: A Healthy World (“If I were president…” — second conditional) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 10, Lesson 8, printed p.80 |
+| “Faster and Faster” with Nurmi and the counterfactual *would have* — stocked in part | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 12, printed pp.167–179 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

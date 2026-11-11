@@ -593,3 +593,48 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past simple of *be* and *can*; frequency; *Do you…?* questions | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 6, printed p.30 |
+| *was/were, could* — negatives and questions | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 3, printed p.75 |
+| *was/were, could*; talking about years and dates (the dates point is also stocked in days-and-months) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 7, printed p.79 |
+| Revision lesson — Machines | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 8, printed p.80 |
+| Past simple (negative) of *be* and *can* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 3, printed p.91 |
+| Past simple *was/were* sentences and questions; *in/at/with* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Past simple of common verbs; dates and lengths of time (astronaut, rocket) | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 2, Lesson 7, printed p.15 |
+| Revision lesson — The Earth, the Sun and Space | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 2, Lesson 8, printed p.16 |
+| Past simple regular + irregular, affirmative/negative/questions | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 5, printed p.21 |
+| Past simple without *did*; *said/threw*; *when/later/then/now* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 6, printed p.22 |
+| Past simple irregular (cut, had, gave, rode, took, woke up) | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 4, Lesson 2, printed p.26 |
+| Past simple negatives/questions; *ate/went/wrote*; time adverbs | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 4, Lesson 7, printed p.31 |
+| Past simple *was/wasn't/were/weren't* + regular and common irregular (thought) | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 6, Lesson 6, printed p.46 |
+| Present + past simple (flew); airport vocabulary | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 6, Lesson 7, printed p.47 |
+| Revision lesson — Travel and Holidays | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 6, Lesson 8, printed p.48 |
+| *couldn't* (past ability, negative) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 7, Lesson 4, PDF p.64 |
+| *was/were* questions and answers (traveller/weather reading) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 8, Lesson 5, PDF p.73 |
+| Past forms in life stories (is born → was born, have, married, built) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 9, Lesson 3, PDF p.80 |
+| Irregular past forms (ate, drank, built, got) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 10, Lesson 2, PDF p.87 |
+| Past forms (One More Time revision set) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 12 (cited by unit; the placements fold this point into the unit's lines without its own page) |
+| Everyone is Good at Something (the blind presenter Mohammed Atta); *was/were* | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 1, printed p.33 |
+| Living with Gorillas (Dian Fossey); *did/didn't* | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 3, printed p.35 |
+| Radom National Park; past simple against “have changed” | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 8, Lesson 4, printed p.60 |
+| The tense-choice revision story — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 10, printed pp.155–170 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

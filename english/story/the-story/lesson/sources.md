@@ -988,3 +988,45 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 7:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Sukkar's tail story (plot summary only; dual-homed with adverbs, counted once) | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 5, Lesson 6, printed p.38 |
+| The Scorpion — the scorpion-and-frog story (plot summary only) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 1, Lesson 7, printed p.7 |
+| Once Upon a Time — Nada and the crocodile (plot summary only) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 6, Lesson 4, printed p.44 |
+| My Journey — the River Nile story (plot summary only) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 8, Lesson 7, printed p.63 |
+| The Princess and the Ring (plot summary only) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Dukan Wad Al-Baseer (plot summary only) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 4, Lesson 2, printed p.26 |
+| The Arts — “The Wise Man of the Village”; the 50–100-word competition entry | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 12, Lesson 2, printed p.90 |
+| Stories (the monkey, the lion and the fox — plot summary only) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 8, Lesson 4, printed p.60 |
+| The Princess and the Pea (Andersen — plot summary only; the lesson also teaches predicting from a title and guessing vocabulary from context) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 1, Lesson 1, printed p.1 |
+| Bad Luck (Stephen Murrow's broken arm — plot summary only; frequency sorting) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 2, printed p.35 |
+| The Lion, the Hyena and the Fox (fable — plot summary only; the lesson's animal proverbs are stocked in idioms-and-collocations) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 3, printed p.145 |
+| The Hen That Lay Golden Eggs (plot summary only; joining sentences with *where*; riddles) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 6, Lesson 10, printed p.213 |
+| “Income Generators” — Amna's rabbits under the Productive Families programme (plot summary only) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 1, printed pp.1–20 |
+| The folk story (plot summary only) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 2, printed pp.21–36 |
+| “Job Hunting” — Rachel Peter's story (plot summary only) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 2, printed pp.17–35 |
+| “Tito and Tana” (plot summary only) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 3, printed pp.36–50 |
+| “Closer to Home” dilemma stories — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 3, printed pp.36–50 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -126,7 +126,9 @@ verification sweep.
 | Idioms and proverbs in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Idioms and proverbs in texts, as the opening unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 1, printed p.7 |
 
-**Acceptance count: taught in 15 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan).** Greece joins with the Grade 9 'Colour's my world!' colour-idioms lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China,
+Iran, Mexico, India, Greece, Mongolia, Nicaragua,
+Pakistan, Palestine, South Sudan, Sudan).** Greece joins with the Grade 9 'Colour's my world!' colour-idioms lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -206,3 +208,31 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 4:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The money idioms set: “saving for a rainy day”, “look after the pennies”, “cost an arm and a leg”, “money doesn't grow on trees”, “have money to burn”, “look like a million dollars”, “get your money's worth” | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 6, Lesson 3, printed p.43 |
+| The animal proverbs set (“Birds of a feather flock together”…) (dual-homed with the-story; counted once) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 3, printed p.145 |
+| The Baggara Village exam-style questions and the *busy bee* idiom | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 2, printed pp.21–36 |
+| The proverbs set | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 2, printed pp.21–36 |
+| The Man-and-Lion proverb dialogue — stocked in part | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 8, printed pp.109–124 |
+| The tree proverbs | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 1, printed pp.1–16 |
+| The work proverbs | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 2, printed pp.17–35 |
+| The similes set (“as bright as day … as smooth as silk”) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 3, printed p.49 |
+| “Things you can do with TIME” collocations (pass/waste/kill/save/spend time) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 7, printed pp.102–118 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

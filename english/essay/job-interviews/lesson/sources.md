@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -65,8 +65,8 @@ verification sweep.
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 | Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 9 countries (Cambodia,
-Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 10 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania,
+India, Mongolia, South Sudan, Sudan).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -101,3 +101,17 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Mme Tussaud fact chart and role-play interview — stocked in part; the text is internally inconsistent as printed (marriage in 1749 against her dates 1760–1850; London residence from 1766 against an 1820 London exhibition), noted as printed | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

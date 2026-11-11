@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 7 countries (China,
-Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine).** Egypt states the
+**Acceptance count: taught in 8 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania,
+Palestine, Sudan).** Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -91,3 +91,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Causative structures | Palestine, Grade 12, Unit 8, printed pp.83–84 |
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| *make and let* (the causative, bare infinitive) (not stocked from Sudan before) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 9, printed pp.137–154 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

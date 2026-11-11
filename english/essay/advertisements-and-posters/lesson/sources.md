@@ -147,3 +147,35 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 6 Activity Book* — Sudan, NCCER. Catalogued as the Grade 8 activity book and keyed lesson-for-lesson to the Grade 8 Pupil's Book; its own title pages read Grade 7 — a publisher inconsistency recorded by the sweep (its flag F3), carried here honestly. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 6:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| International Children's Day; the rights poster | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 7, Lesson 5, printed p.53 |
+| Nuba Mountains (the Nuba Tours brochure) (the brochure's reported speech is stocked in reported-statements) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 3, Lesson 6, printed p.22 |
+| Brochure writing (Nuba Tours) | Sudan — SMILE Book 6 Activity Book, Unit 3, Lesson 6C, printed p.27 |
+| Learning for a Job (training adverts: mechanic, chef) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 4, Lesson 4, printed p.28 |
+| Adverts; comparatives/superlatives in advert language | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 6, Lesson 2, printed p.42 |
+| The N CO-OP advertisement | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 1, printed pp.1–20 |
+| “Endangered Species” and the anti-poaching notice — stocked in part | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 8, printed pp.109–124 |
+| The SPINE Gum Arabic Scheme advertisement | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 1, printed pp.1–16 |
+| “Is the 'Developed' World Really Developed?” (the literacy advert) — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 7, printed pp.102–118 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

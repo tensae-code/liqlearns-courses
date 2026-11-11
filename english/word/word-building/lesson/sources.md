@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -148,8 +148,9 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 15 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 16 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
+China, Iran, India, Greece, Mongolia, Nicaragua,
+Pakistan, Palestine, Sierra Leone, South Sudan, Sudan).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -284,3 +285,33 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Activity Book* — Sudan, NCCER. Catalogued as the Grade 8 activity book and keyed lesson-for-lesson to the Grade 8 Pupil's Book; its own title pages read Grade 7 — a publisher inconsistency recorded by the sweep (its flag F3), carried here honestly. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 4:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Trading Partners (nationalities) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 7, Lesson 4, printed p.52 |
+| Verb→noun *-er* building | Sudan — SMILE Book 6 Activity Book, Unit 3, Lessons 3 and 5, printed pp.21–25 |
+| Adjectives in *-able/-ible* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 1, printed pp.1–20 |
+| Nouns in *-tion/-sion* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 3, printed pp.37–52 |
+| Prefixes *re-/fore-/over-* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 4, printed pp.53–68 |
+| Noun endings *-ment/-ty/-y* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 5, printed pp.69–82 |
+| Nouns in *-logy/-ist* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 6, printed pp.83–98 |
+| Negative prefixes *dis-/un-/in-/im-* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 9, printed pp.125–138 |
+| Nationality endings *-ese/-ish/-ian/-i* | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 12, printed pp.167–179 |
+| Adjective endings | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 1, printed pp.1–16 |
+| Prefixes *re-/pre-/fore-* | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 2, printed pp.17–35 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

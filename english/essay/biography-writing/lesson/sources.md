@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan
 
 Every part traces to its book and page.
 
@@ -213,7 +213,9 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 15 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 16 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia,
+China, Mexico, India, Greece, Mongolia, Pakistan,
+Palestine, Rwanda, Sierra Leone, Sudan).** Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -290,3 +292,40 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 5:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A Heroine (Malala Yousafzai) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 2, printed p.34 |
+| An Amazing Man (Dr Philip Emeagwali) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 7, printed p.39 |
+| A Young Artist (Amani) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 6, Lesson 5, printed p.45 |
+| Osman Digna (event–date matching) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 1, Lesson 5, printed p.5 |
+| Two Famous English Novelists (*both/neither*; Brontë and Dickens) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 11, Lesson 7, printed p.87 |
+| Famous Scientists (Bell, Pasteur, Curie, Newton; passive forms inside the text) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Famous Sudanese Writers (Leila Aboulela); *before/after* + -ing | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 2, Lesson 3, printed p.11 |
+| A Matter of Science (Fleming and penicillin) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 8, Lesson 3, printed p.59 |
+| Discovering the World (Arab explorers) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 8, Lesson 5, printed p.61 |
+| “Women on the Move” (Fatima Salih) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 3, printed pp.37–52 |
+| The Shakespeare biography | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 9, printed pp.125–138 |
+| Helen Keller (her Braille/finger-spelling is stocked in other-ways-to-communicate) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+| The Taha Hussein radio interview | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+| The Martin Luther King biography (with jumbled-note reordering; its note work is stocked in note-making) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 3, printed pp.36–50 |
+| The Abdalla Ragab success story | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 4, printed pp.51–64 |
+| Agatha Christie's Life | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 9, printed pp.137–154 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Subject-verb agreement
 
-countries: Nepal, Sierra Leone, South Africa, Pakistan
+countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -58,8 +58,7 @@ CHECK PASSED 2026-11-03).
 | Subject–verb agreement with is/are | South Africa, English Home Language Grade 6 Workbook 1, printed p.30 |
 | Subject-verb agreement as a named grammar point of the older Grade 9 book | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 
-**Acceptance count: taught in 4 countries (Nepal,
-Sierra Leone, South Africa, Pakistan).** Nepal files the three
+**Acceptance count: taught in 5 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan).** Nepal files the three
 tricky examples this lesson is built on — one of,
 twenty dollars, police — inside its Grade 7 quantity
 unit, and returns to agreement as a named Grade 10
@@ -93,3 +92,17 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sequence of tenses — stocked in part | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 12, printed pp.167–179 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

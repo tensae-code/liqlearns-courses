@@ -561,3 +561,30 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| *How many?*; present continuous | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 3, printed p.27 |
+| Numbers to 30; *don't* imperatives | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 5, printed p.29 |
+| Numbers 31–59; *How many?* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 3, printed p.43 |
+| Possessives incl. hers/its/our/their; *there is/are* + fractions | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 7, Lesson 2, printed p.50 |
+| Ordinal numbers 1st–5th | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 8, Lesson 2, printed p.58 |
+| Revision — measuring | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 8, Lesson 8, printed p.64 |
+| Ordinal numbers 6th–10th; question words (what time, what day/date) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 9, Lesson 2, printed p.66 |
+| Ordinal numbers 1st–10th; *was/were, could*; country words | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 4, printed p.92 |
+| Ordinal numbers and dates (17th …) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 7, Lesson 1, PDF p.61 |
+| How to Measure (thermometer, scales, tape, jug, speedometer) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 1, Lesson 4, printed p.4 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

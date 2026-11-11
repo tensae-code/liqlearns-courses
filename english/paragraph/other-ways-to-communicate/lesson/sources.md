@@ -1,6 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -37,7 +37,8 @@ cited once.
 | Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
 | Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 7 countries (Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Afghanistan, Ecuador, India, Mexico, Mongolia,
+Sierra Leone, South Sudan, Sudan).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -77,3 +78,28 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 4:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudanese Languages (Professor Abdelrahim; regional greetings) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 9, Lesson 2, printed p.66 |
+| Phone In! (telephone English; *ring up, can make it*) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 4, Lesson 8, printed p.116 |
+| Revision lesson — Letters, Driving and Animals (guessing game; road-safety poster; sign language) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 6, Lesson 12, printed p.219 |
+| Helen Keller — Braille and finger-spelling (dual-homed with biography-writing; counted once) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 11, printed pp.154–166 |
+| “Trees for Fuel” dialogue — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 1, printed pp.1–16 |
+| The greetings/punctuality/superstitions reading — stocked in part — book error taught corrected: the book's “Eskimos in ICELAND rub noses” places Inuit in Iceland; Inuit are not in Iceland | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 8, printed p.120 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

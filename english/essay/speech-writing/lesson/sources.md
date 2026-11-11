@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -88,8 +88,9 @@ colophon; cited once.
 | A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
 | Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 12 countries (Egypt, Ghana,
-Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan).** Egypt sets the speech for or against an
+**Acceptance count: taught in 13 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
+Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan,
+Sudan).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -149,3 +150,17 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “Women in Development” and Ms Suzi Kwong's Beijing conference speech — book inconsistency noted: the chapter introduction dates the conference 1995, the speech caption on printed p.66 dates it 1996 | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 5, printed pp.65–80 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

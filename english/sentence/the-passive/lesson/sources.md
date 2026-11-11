@@ -448,3 +448,37 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Passive *is/are called*; countable/uncountable; clothes words — a fixed-formula passive, barred from this lesson by the sources' own “taught-as-a-form” note until now; stocked under the everything-goes-in ruling | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 1, printed p.17 |
+| Passive *is/are made of*; materials — a fixed-formula passive, as above | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 3, printed p.19 |
+| Handicrafts; passive *are made / are used for* — a fixed-formula passive, barred from this lesson by the sources' own “taught-as-a-form” note until now; stocked under the everything-goes-in ruling | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 6, Lesson 6, printed p.46 |
+| Sudanese Handicrafts (mat-making instructions; the past passive) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 6, Lesson 2, printed p.42 |
+| Sand Art; the passive (“Sculptures are washed away by water”) — an in-text passive, barred from this lesson by the sources' own “taught-as-a-form” note until now; stocked under the everything-goes-in ruling | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 2, Lesson 4, printed p.12 |
+| A Sudanese Artist (Ibrahim El-Salahi); past passive *were shown / was known* — an in-text passive, as above | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 2, Lesson 7, printed p.15 |
+| The History of the University of Khartoum (passives inside the text) — an in-text passive, as above | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 7, Lesson 3, printed p.51 |
+| A Time for Tea; passive process description (“the leaves are picked”) — an in-text passive, as above | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 8, Lesson 6, printed p.62 |
+| The Family Farm (the passive inside the text: “dura is grown”) — an in-text passive, barred from this lesson by the sources' own “taught-as-a-form” note until now; stocked under the everything-goes-in ruling | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 1, printed p.137 |
+| Christmas; the future passive (“A special pudding will be prepared”) — as above | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 6, printed p.158 |
+| The passive in newspaper reports (*was taken / were rushed / was called*) (the same lesson is stocked in news-writing for the report form; counted once) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 8, printed p.165 |
+
+The Grade 5, Grade 7, Grade 9 and SPINE 4 rows above stock points this lesson's earlier Sudan entries expressly barred under a “taught-as-a-form” rule; they are stocked now under the everything-goes-in ruling (2026-11-06), labelled as the fixed-formula and in-text passive evidence they are — not as a taught passive system.
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

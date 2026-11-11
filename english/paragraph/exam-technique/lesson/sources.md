@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan
 
 Every part traces to its book and page.
 
@@ -31,7 +31,8 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 6 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan,
+Sierra Leone, Sudan).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
 
@@ -61,3 +62,22 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Test Your Knowledge (general-knowledge quiz) — stocked in part | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 7, Lesson 7, printed p.55 |
+| The whole-system tense-formation quiz — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 1, printed pp.1–16 |
+| The Spine Challenge teasers and Problem Page — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 5, printed pp.65–80 |
+| The surgeon logic story and the transport word search — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 10, printed pp.155–170 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

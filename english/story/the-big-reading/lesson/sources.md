@@ -421,3 +421,34 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 5:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Revision: School Time — reading about schools in Sudan (a short revision reading, not a complete book-length text) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 3, Lesson 8, printed p.24 |
+| Everest — a reading stocked in part; not a complete book-length text | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 3, Lesson 2, printed p.18 |
+| Revision: My Sudan — a short revision reading, not a complete book-length text | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 9, Lesson 8, printed p.72 |
+| Revision: Amazing Wonders — a short revision reading, not a complete book-length text | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 11, Lesson 8, printed p.88 |
+| The Gold Rush (California) — a reading stocked in part; not a complete book-length text | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 6, Lesson 5, printed p.45 |
+| Revision: Test Your Learning (the oldest universities encyclopedia) — a short revision reading, not a complete book-length text | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 7, Lesson 8, printed p.56 |
+| The *Tom Brown's School Days* extract (plot summary only) — stocked in part; an extract, not a complete book-length text | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 10, printed pp.139–153 |
+| The “The Truth” extract (Poirot and Mrs Lorrimer — plot summary only) — stocked in part; an extract, not a complete book-length text | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 9, printed pp.137–154 |
+
+Every Sudan item stocked in this section is a short reading or an extract, stocked in part; none is a complete book-length text. Sudan's complete-text standing in this lesson rests on *Anna and the Fighter* alone (verified complete in the sweep).
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

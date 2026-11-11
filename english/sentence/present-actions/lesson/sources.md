@@ -642,3 +642,58 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| *There are…*; questions in the present simple | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 3, Lesson 4, printed p.20 |
+| Present-simple questions (the same lesson's days of the week are stocked in days-and-months) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Present simple negative; prepositions in/on/about | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 1, Lesson 4, printed p.4 |
+| Present continuous (continued) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 2, Lesson 3, printed p.11 |
+| Present continuous, 1st and 3rd person | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 2, Lesson 5, printed p.13 |
+| Present continuous; possessives incl. *our* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 3, Lesson 5, printed p.21 |
+| Adverb of frequency *always*; time phrases *in the morning/at night* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 3, Lesson 6, printed p.22 |
+| Revision lesson — the unit's present-tense points | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 3, Lesson 8, printed p.24 |
+| Revision lesson — Sports and Games | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 8, printed p.32 |
+| Present simple; *let's* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 6, printed p.46 |
+| Revision lesson — Amazing Animals | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 6, Lesson 8, printed p.48 |
+| Possessives; present simple *don't/doesn't* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 7, Lesson 5, printed p.53 |
+| Frequency always/sometimes/never; present simple | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 8, Lesson 5, printed p.61 |
+| Present simple negative; who/what/where/why | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 6, printed p.78 |
+| Present continuous questions + contractions | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 11, Lesson 2, printed p.82 |
+| Present simple negative; imperatives with and without *don't* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 11, Lesson 6, printed p.86 |
+| Revision lesson — Free Time Fun | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 11, Lesson 8, printed p.88 |
+| Present continuous; *was/were, could/couldn't* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 6, printed p.94 |
+| Revision lesson — A Second Look | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 12, Lesson 8, printed p.96 |
+| Present simple; *next to/with/in/to* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 1, Lesson 5, printed p.5 |
+| Revision lesson — Clothes | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 8, printed p.24 |
+| *can/can't* ability; present-simple negatives/questions | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 4, Lesson 6, printed p.30 |
+| Present simple; *would like to* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 6, Lesson 2, printed p.42 |
+| Present continuous sentence writing | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 9, Lesson 6, PDF p.83 |
+| Present-simple questions about a festival day (Eid El Fitr) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 10, Lesson 7, PDF p.93 |
+| A Wedding; present continuous describing pictures (its quantifiers *lots of / aren't many / isn't much* are stocked in quantifiers) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 7, Lesson 6, printed p.54 |
+| My Best Friend Jane (present simple vs continuous) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 2, Lesson 4, printed p.12 |
+| Plans with Friends (present continuous for plans; invitation language) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 2, Lesson 5, printed p.13 |
+| Revision lesson — Sport and Celebrations (health and fitness quiz) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 12, printed p.64 |
+| Huda's Day (present-simple forms; long and short answers) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 6, Lesson 2, printed p.184 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

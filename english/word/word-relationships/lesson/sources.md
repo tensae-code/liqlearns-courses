@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -176,7 +176,9 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 16 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 17 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran,
+Mauritania, Mexico, India, Greece, Mongolia, Nicaragua,
+Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -291,3 +293,22 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Opposite adjectives (quiet/easy/hard, black, cheap, dirty/clean, fast) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 8, Lesson 2, PDF p.70 |
+| “Two wheels” definitions (“a passenger is a person who…”) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 2, printed pp.17–35 |
+| Odd-word-out | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 4, printed pp.51–64 |
+| Gender words — masculine/feminine/neutral (dual-homed with pronouns; counted once) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 5, printed pp.65–80 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 9 countries (Syria,
-Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 10 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -71,3 +71,17 @@ Sudan's letter-writing unit sits in its Primary 6 book
 three is counted here.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English X* analyses and writes the job application in its World Without Books unit. It is filed in english/books/pakistan.md and was re-read in the 2026-11-08 re-verification sweep.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Life Stories — two CV timelines compared (its form filling is stocked in forms-minutes-and-questionnaires) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 4, Lesson 6, printed p.109 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

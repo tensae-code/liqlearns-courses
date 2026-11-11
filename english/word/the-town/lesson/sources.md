@@ -415,3 +415,25 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nouns with *the* — “the (red) light”; road-safety words (go, stop, wait) | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 3, Lesson 3, printed p.19 |
+| Where is Sudan? (map, neighbours, compass points) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 3, Lesson 1, printed p.17 |
+| Saudi Arabia (country profile) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 3, Lesson 4, printed p.20 |
+| City Life (1): Nairobi | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 1, Lesson 5, printed p.14 |
+| City Life (II): London | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 1, Lesson 7, printed p.19 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

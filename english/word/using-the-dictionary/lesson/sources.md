@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -219,8 +219,11 @@ verification sweep.
 | Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
 | College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
-**Acceptance count: taught in 24 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
+**Acceptance count: taught in 25 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq,
+Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda,
+Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela,
+Palestine, South Sudan, Sudan).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -330,3 +333,17 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Abbreviations (UN, WHO, VIP, a.m./p.m., PTO) — stocked in part (the set was named inside the compound-words sources row but not stocked as its own point) | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 1, printed pp.1–16 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan
 
 Every part traces to its book and page.
 
@@ -41,7 +41,8 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
 | Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 7 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone).**
+**Acceptance count: taught in 8 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine,
+Sierra Leone, Sudan).**
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -106,3 +107,17 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Anagram/unscramble country and place words | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 7, Lesson 2, PDF p.62 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

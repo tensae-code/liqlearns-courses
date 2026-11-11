@@ -304,3 +304,23 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Starter 1 Pupil's Book* — Grade 1: Basic Level, 2nd Edition 2020 — Sudan, Federal Ministry of Education / The National Centre for Curriculum and Educational Research (NCCER). Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Joining with *and*; possessive adjective *our* | Sudan — SMILE Starter 1, Grade 1 Pupil's Book, Unit 3, Lesson 5, printed p.21 |
+| Joining with *and/or* (the same lesson's days of the week are stocked in days-and-months) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 1, Lesson 2, printed p.2 |
+| Conjunction *or*; present continuous | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 8, Lesson 7, printed p.63 |
+| Conjunctions *and/but/or* as a choice of joining word — beyond the joining line already stocked from this lesson | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 9, Lesson 3, printed p.67 |
+| *and/but/or*; *would like* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 11, Lesson 1, printed p.81 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

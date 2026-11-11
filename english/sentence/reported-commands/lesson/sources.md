@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan
 
 Every part traces to its book and page.
 
@@ -57,8 +57,8 @@ colophon; cited once.
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 | Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 7 countries (Mauritania,
-Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine).** Mauritania states the
+**Acceptance count: taught in 8 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan,
+Palestine, Sudan).** Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -84,3 +84,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Reporting advice and orders | Palestine, Grade 12, Unit 8, printed p.82 |
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A Visit to Kenya (*too/enough*; reported instructions) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 3, Lesson 7, printed p.23 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

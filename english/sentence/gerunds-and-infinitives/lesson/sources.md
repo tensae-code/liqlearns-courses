@@ -256,3 +256,37 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| *like/enjoy* + noun/-ing; present simple affirmative/negative/questions | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 1, printed p.25 |
+| *like/enjoy* + -ing; *should(n't)* | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 5, Lesson 4, printed p.36 |
+| *enjoyed/disliked* + -ing | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 9, Lesson 4, PDF p.81 |
+| Three Famous Sudanese; *good at* + -ing | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 6, Lesson 3, printed p.43 |
+| Friendly People (“Welcoming Sudan”); infinitive of purpose (*to pay, to eat, to return*) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 3, Lesson 7, printed p.23 |
+| My Hobby and My Job; gerunds after *love / be good at*; *would like to* | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 4, Lesson 5, printed p.29 |
+| Growing Food; verb + to-infinitive (*hope to, decide to, plan to*) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 5, Lesson 2, printed p.34 |
+| We Do Things Ourselves; gerunds after *like/dislike/enjoy/prefer/hate*; *Would you mind…?* + -ing | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 5, Lesson 4, printed p.149 |
+| *like/prefer* with nouns and gerunds — stocked in part | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 4, printed pp.53–68 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

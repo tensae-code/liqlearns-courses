@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -93,7 +93,9 @@ verification sweep.
 | Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
 | A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 14 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan).** Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
+India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda,
+Sierra Leone, South Sudan, Sudan).** Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -148,3 +150,23 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How Does It Work? — pinhole-camera instructions | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 4, Lesson 5, printed p.29 |
+| From Farm to Home (the banana chain: producer → wholesaler → retailer → consumer) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 7, Lesson 6, printed p.54 |
+| Description writing as a process (question-per-point method) — stocked in part (dual-homed with describing-people; counted once) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 10, printed pp.139–153 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -101,8 +101,8 @@ verification sweep.
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
 | A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 9 countries (Malaysia,
-Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan).** India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 10 countries (Malaysia, Nepal, Egypt, China, India, Mongolia,
+Pakistan, Palestine, South Sudan, Sudan).** India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -139,3 +139,20 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cartoons (adverbs; Warda's diary) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 4, Lesson 4, printed p.28 |
+| David's Diary (diary notes turned into a letter) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 3, Lesson 4, printed p.74 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

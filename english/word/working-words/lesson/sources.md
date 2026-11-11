@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -111,7 +111,8 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 8 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 9 countries (Greece, Bolivia, China, India, Nicaragua, Palestine,
+Rwanda, Sierra Leone, Sudan).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -253,3 +254,43 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 3 (A) Pupil's Book* — Grade 5: Basic Level — Sudan, NCCER. Units 1–6 only; the (B) half's pupil's book is not in hand. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present simple 1st/3rd singular; jobs words | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 2, Lesson 8, printed p.16 |
+| *like/enjoy* + -ing; traffic jobs | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 9, Lesson 6, printed p.70 |
+| Present simple; *is/are called*; jobs (fireman, mechanic, overalls) | Sudan — SMILE Book 3 (A), Grade 5 Pupil's Book, Unit 3, Lesson 7, printed p.23 |
+| Jobs words (nurse, doctor, writer, dentist, farmer, policeman) | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 7, Lesson 7, PDF p.67 |
+| Free Time; *such as* | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 1, Lesson 3, printed p.3 |
+| The Arts; *want to* | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 6, Lesson 1, printed p.41 |
+| A School Sports Day | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 7, Lesson 3, printed p.51 |
+| Working the Land (farming words; infinitive matching) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 1, Lesson 3, printed p.3 |
+| Puzzles and Games (the Rubik's Cube) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 1, Lesson 7, printed p.7 |
+| Children and Work (“Stop Children Working!” leaflet) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 4, Lesson 3, printed p.27 |
+| Revision: Hard Work (Mariam text) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 4, Lesson 8, printed p.32 |
+| Sport Worldwide | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 1, printed p.32 |
+| “Collective Work in the Nuba Mountains” — stocked in part | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 4, printed pp.53–68 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

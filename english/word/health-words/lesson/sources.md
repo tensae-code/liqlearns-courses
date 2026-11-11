@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -150,8 +150,10 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 18 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan).** North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 19 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
+China, Iran, Indonesia, Mauritania, Mexico, India,
+Greece, Mongolia, Nicaragua, North Macedonia, Pakistan,
+Sierra Leone, South Sudan, Sudan).** North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -254,3 +256,38 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 6:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Best I Can Be (disability texts) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 5, Lesson 4, printed p.36 |
+| Revision: Our Amazing Bodies | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 8, Lesson 8, printed p.64 |
+| Don't Smoke! (the three anti-smoking texts; El Sheikh's heart attack) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 10, Lesson 5, printed p.77 |
+| Traditional Medicine (fenugreek, hibiscus, rosemary) (its advice with *should* is stocked in giving-advice) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 1, Lesson 5, printed p.5 |
+| Revision: Food Facts (farming fact sheet) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 5, Lesson 8, printed p.40 |
+| Learning isn't Easy (learning difficulties) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 7, Lesson 5, printed p.53 |
+| Sports Time (“Stay Fit and Healthy!”; Abebe Bikila) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 8, Lesson 2, printed p.58 |
+| Food and Health (listening interview) | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 8, Lesson 7, printed p.63 |
+| FIRST AID (Dr Abbas Ramzy's advice) — book error taught corrected: the book's snake-bite instructions (cut the bite site; use a new razor blade) are outdated and dangerous; modern first aid forbids cutting a snake bite | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 2, Lesson 3, printed p.37 |
+| “The Fight against Germs” | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 5, printed pp.69–82 |
+| “Food for Life” (the six nutrients personified) — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 6, printed pp.81–101 |
+| The Radio SPINE interview on Sudanese eating habits — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 6, printed pp.81–101 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

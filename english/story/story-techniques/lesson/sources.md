@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan
 
 Every part traces to its book and page.
 
@@ -92,8 +92,8 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 7 countries (Ghana,
-South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone).** India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 8 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India,
+Sierra Leone, Sudan).** India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -318,3 +318,20 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 6 Activity Book* — Sudan, NCCER. Catalogued as the Grade 8 activity book and keyed lesson-for-lesson to the Grade 8 Pupil's Book; its own title pages read Grade 7 — a publisher inconsistency recorded by the sweep (its flag F3), carried here honestly. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Anna and the Fighter* by Elizabeth Laird — Macmillan Readers, Beginner Level (Macmillan Heinemann ELT; this edition first published 2005; ISBN 978-1-4050-7610-4 / 978 0 2300 3502 7) — Sudan's Grade 8 literature reader. The story is complete in this copy (printed pp.3–30, verified in the sweep); at Beginner level the series carries no glossary or exercises by design. Filed in english/books/sudan.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story-ending writing (the second Juha tale) | Sudan — SMILE Book 6 Activity Book, Unit 4, Lesson 8D, printed p.35 |
+| The picture-story spread — the Polona arrival retold as a comic strip with speech bubbles (“Where's your ticket?”) — a distinct reading form; only the prose story was stocked before | Sudan — *Anna and the Fighter* (Macmillan Readers, Beginner Level), printed pp.8–9 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

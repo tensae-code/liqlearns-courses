@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan
 
 Every part traces to its book and page.
 
@@ -106,9 +106,9 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 12 countries (Egypt,
-Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
-Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone).** Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+**Acceptance count: taught in 13 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
+Venezuela, Bolivia, Iran, Greece, Palestine,
+Sierra Leone, Sudan).** Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -183,3 +183,26 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Where is it? — prepositions; question tags (*isn't it / aren't they*) | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 2, Lesson 4, printed p.12 |
+| Independence Day; question tags | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 7, Lesson 4, printed p.52 |
+| Shanghai; question tags — book error noted: the lesson's listening rubric wrongly repeats Unit 2 Lesson 6's football-coach text | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 3, Lesson 4, printed p.20 |
+| Who am I?; question tags and short answers | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 4, Lesson 5, printed p.29 |
+| Who is the cleverest?; question tags | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 3, Lesson 5, printed p.76 |
+| Journey to Karima (2) (sandstorm and ferry; more question tags) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 3, Lesson 10, printed p.87 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

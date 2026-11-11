@@ -495,3 +495,23 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 2 Pupil's Book* — Grade 4: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 2 Activity Book* — Grade 4 — Sudan, NCCER; practice companion to the Book 2 Pupil's Book. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Impersonal *you* (“You play this…”) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 4, Lesson 7, printed p.31 |
+| *there is/are* with *there was/were* | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 5, Lesson 5, printed p.37 |
+| Question words (What's this? What am I?) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 1, printed p.73 |
+| Object pronouns — second teaching occurrence (the first is stocked in pronouns) | Sudan — SMILE Book 2, Grade 4 Pupil's Book, Unit 10, Lesson 2, printed p.74 |
+| Change-of-person rewriting — rewrite sentences in another person | Sudan — SMILE Book 2, Grade 4 Activity Book, Unit 1, Lesson 7, printed p.23; Unit 2, Lesson 5, printed p.34 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

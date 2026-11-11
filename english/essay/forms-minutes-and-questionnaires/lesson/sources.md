@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan
+countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan
 
 Every part traces to its book and page.
 
@@ -57,7 +57,9 @@ verification sweep.
 | A personal information card — name, grade, age, phone number | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed p.4 |
 | Addresses — saying and writing an address | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 8, printed p.37 |
 
-**Acceptance count: taught in 11 countries (Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan).** Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Albania, Ghana, Greece, South Africa, China, India,
+Mongolia, Nicaragua, Palestine, Rwanda, South Sudan,
+Sudan).** Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -110,3 +112,28 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md). SPINE 4 rows cite the lesson's printed page as folio-read in the sweep diff; the placements' regularised spans for that book are not used.
+
+**Book 1:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SPINE 4 Pupil's Book* — Grade 10 — Sudan, Ministry of Education, first published 1995, El Tarbia Printing Press, ISBN 978-99942-919-0-8. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SPINE 5 Pupil's Book* — Grade 11 — Sudan, Ministry of Education, first published 1996, El Tarbia Printing Press, ISBN 978-99942-919-9-6. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+**Book 4:** *SPINE 6 Pupil's Book* — Grade 12 — Sudan, Ministry of Education, first published 1997, El Tarbia Printing Press, ISBN 978-99942-919-8-9. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep. Chapter spans are the filing's, folio-verified in the sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Population Statistics (bar graphs; true/false correction) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 5, Lesson 3, printed p.35 |
+| Read the Label Carefully! (three nutrition labels) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 7, Lesson 5, printed p.53 |
+| Form filling — airport and Hobbies Club forms (dual-homed with cv-and-cover-letter; counted once) | Sudan — SPINE 4, Grade 10 Pupil's Book, Unit 4, Lesson 6, printed p.109 |
+| Questionnaire design (the survey's instrument) (not stocked from Sudan before) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 3, printed pp.37–52 |
+| Information transfer (a letter turned into a comparison table; state tables into prose) | Sudan — SPINE 5, Grade 11 Pupil's Book, Chapter 5, printed pp.69–82 |
+| The Kenana Sugar report and FACT SHEET completion — stocked in part | Sudan — SPINE 6, Grade 12 Pupil's Book, Chapter 7, printed pp.102–118 |
+
+Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.

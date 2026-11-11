@@ -545,3 +545,28 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English books page by page (694 teaching items placed; 178 already in the course, 514 missing, 2 apparatus items excluded). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md).
+
+**Book 1:** *SMILE Book 3 Activity Book* — Grade 5 — Sudan, NCCER. The full 12-unit activity book; its Units 7–12 are the only in-hand witness to the Book 3 (B) half, cited by unit/lesson and PDF page as in the placements. Filed in english/books/sudan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SMILE Book 7 Pupil's Book* — Intermediate Level 1 (Grade 7), 2nd Edition 2021 — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SMILE Book 6 Pupil's Book* — Grade 8: Basic Level — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SMILE Book 9 Pupil's Book* — Intermediate Level 3 (Grade 9) — Sudan, NCCER. Filed in english/books/sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Questions with *going to* | Sudan — SMILE Book 3, Grade 5 Activity Book, Unit 10, Lesson 4, PDF p.89 |
+| Revision: Special Days — present-continuous plans; messages | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 7, Lesson 8, printed p.56 |
+| Revision: Time to Travel | Sudan — SMILE Book 7, Grade 7 Pupil's Book, Unit 8, Lesson 8, printed p.64 |
+| Scouts and Guides (*going to* sentence work) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 6, Lesson 7, printed p.47 |
+| Sudan in the Future (*will/won't/might*) | Sudan — SMILE Book 6, Grade 8 Pupil's Book, Unit 9, Lesson 7, printed p.71 |
+| Work in the Future; *will/won't* predictions | Sudan — SMILE Book 9, Grade 9 Pupil's Book, Unit 4, Lesson 7, printed p.31 |
+
+Sudan was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
