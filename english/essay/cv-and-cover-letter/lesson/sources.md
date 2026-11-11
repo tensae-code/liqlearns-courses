@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 13 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 14 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -73,7 +73,7 @@ false negative (sweep flag 1): the 2026-11-08 sweep
 re-read Tiếng Anh 12 and found Unit 9's Writing section
 is "Writing your CV" — a model CV with a headings-matching
 task and "Write your own CV" (printed pp.116–127) — which
-the filing misses. Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+the filing misses. Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia was recorded the same way as Vietnam, and that was also a false negative (sweep flag F2): the 2026-11-08 sweep re-read the Grade 12 Student's Textbook and found Unit 10's §10F.2 "Curriculum Vitae" (printed p.261) teaching CV writing, which the filing misses. Ethiopia joins with its Grade 12 CV point, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English X* analyses and writes the job application in its World Without Books unit. It is filed in english/books/pakistan.md and was re-read in the 2026-11-08 re-verification sweep.
 
@@ -155,3 +155,17 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 Outside the sweep's 426, and changing no count: the sweep also verified in the held book the position of the Grade 10 model CV already cited in this lesson (Unit 11, printed p.128) — recorded here so the verification is credited.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a curriculum vitae | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 10, §10F.2, printed p.261 |
+
+**Sweep flag F2, corrected in this merge:** the acceptance paragraph above records that no CV teaching for Ethiopia (Grade 12) could be confirmed in its filing. That was a false negative: the 2026-11-08 re-verification sweep re-read the Grade 12 Student's Textbook and found the CV teaching at Unit 10, §10F.2 "Curriculum Vitae", printed p.261, and the row above stocks it. (South Sudan's position in that paragraph is unchanged.)
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -115,7 +115,7 @@ verification sweep.
 | Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
 | The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 15 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -123,7 +123,7 @@ and conclusions as separate skills; India names the
 essay's four characteristics; Indonesia gives three
 kinds labelled structures of their own; Sierra Leone
 builds the five-paragraph essay and lessons for its
-kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 for-and-against essay and Grade 11 discursive-essay phrases (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 for-and-against essay and Grade 11 discursive-essay phrases (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its persuasive, expository, descriptive and argumentative essay work in Grades 5, 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -328,3 +328,28 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Reading: road accidents in Nepal; writing: an opinion essay | Nepal, *English Grade 8* (Grade 8), printed p.226 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a persuasive paragraph: convincing others to agree with you | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 8, printed p.214 |
+| Writing an expository paragraph | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 10, printed p.131 |
+| Writing expository texts: what an expository essay explains | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.301 |
+| Writing an expository essay | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 4, printed p.99 |
+| Writing a descriptive essay | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 5, printed p.125 |
+| Writing an argumentative essay (the book's second teaching of it, with a different model) | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 9, printed p.235 |
+
+**Sweep flag F8, resolved in this merge:** the Grade 12 book teaches the argumentative essay twice — Unit 8 (printed p.212) and Unit 9 (printed p.235), with two different models. The course already stocked one Grade 12 row (the Unit 8 instance); the Unit 9 row above stocks the second instance, so both are now cited and the point is not double-counted.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

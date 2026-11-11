@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -104,7 +104,7 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 19 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya).** Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+**Acceptance count: taught in 20 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia).** Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -121,7 +121,7 @@ teacher's-guide only: its guide works perfect-tense tags
 with a HAVE chart for a student book not held in full.
 The sweep also stocked Mauritania's Grade 13 tag revision in
 its mining context (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Iraq joins with its Grade 11 question tags (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Iraq joins with its Grade 11 question tags (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 tag questions (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -332,3 +332,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 Before this merge the sweep verified this lesson's only Nepal entry was Grade 7 Unit 18; the rows below complete the ladder from Grade 3 to Grade 12.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tag questions added to affirmative and negative statements in different tenses | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 8, printed p.105 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

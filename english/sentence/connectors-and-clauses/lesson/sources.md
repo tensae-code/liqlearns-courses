@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia
 
 Every part traces to its book and page.
 
@@ -162,7 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 26 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 27 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -186,7 +186,7 @@ temporal connectives (stocked 2026-11-09 by the
 re-verification sweep merge).
 The sweep also stocked Mauritania's Grade 11 sentence
 connectors and Grade 13's FANBOYS conjunctions (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its linking words, conjunctions and reason clauses across Grades 9–12, plus the Grade 12 Activity Book's writing-lesson connector teaching (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its linking words, conjunctions and reason clauses across Grades 9–12, plus the Grade 12 Activity Book's writing-lesson connector teaching (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its connector and cohesion work in Grades 5, 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -576,3 +576,27 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: connectives (the “‘I am Sorry’ — the Hardest Three Words to Say” unit; speaking: criticising) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.114 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 11 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published August 2023, ISBN 978-99990-0-002-4. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only except its front matter: cover, imprint and full contents were read from the book's own text layer, and body points were cross-checked against the paired Grade 11 Teacher's Guide's per-unit objectives and language-focus lines, which mirror this book unit by unit. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing about cause and effect: rearranging sentences into a paragraph | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 6, printed p.164 |
+| Sentence connectors for joining and completing sentences in a paragraph | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 1, printed p.33 |
+| Connectors of compare and contrast | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.285 |
+| Clauses of concession | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 1, printed p.18 |
+| Cohesion: comparing and contrasting devices (similar to, in contrast, however, even though, as…as…) | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 1, printed p.16 |
+| Expressing result: so…that / so few…that… | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 2, printed p.40 |
+| Time conjunctions and their tense relations: when, before, since, so that, because, as soon as, until, after | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 4, printed p.93 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 1
@@ -116,7 +116,7 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 32 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 33 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -143,7 +143,7 @@ repeats the set as a Chapter 0 recap at Grades 7 and 9
 books are read (see READING-QUEUE.md).
 Mauritania introduces the family in a written message in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Iraq joins with its family sets in Grades 1, 2 and 3 and its Grade 10 family-occasions words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 8, 9, 10 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Iraq joins with its family sets in Grades 1, 2 and 3 and its Grade 10 family-occasions words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 8, 9, 10 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with the family words of its Grade 1 opener and family song, and the Grade 2 family tree (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -536,3 +536,19 @@ The 2026-11-08 re-verification sweep re-read Tanzania's one in-hand English book
 |---|---|
 | Royal-family words taught as question-and-answer definitions: the king's wife is a queen, his son a prince, his daughter a princess | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Four “The magic tree”, printed p.18 |
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (no ISBN printed in the book). Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: its contents and Unit 1 were read in full from rendered pages, and the remaining units through the paired Grade 1 Teacher's Guide's lesson scripts and Minimum Learning Competencies, which reproduce this book's lessons in order. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: Unit 1 was read in full from rendered pages, and the remaining units through the paired Grade 2 Teacher's Guide, which scripts every lesson of this book in order and lists its competencies — so those items are located by unit. Printed p. = PDF p. − 2.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words on the unit opener picture: father, mother, sister, brother | Ethiopia, English for Ethiopia, Grade 1 Student's Book, Unit 1, printed p.1 |
+| The "My Family" song, closing line "This is my great family" | Ethiopia, English for Ethiopia, Grade 1 Student's Book, Unit 1, printed p.14 |
+| Family tree words: grandfather, grandmother, father, mother, brother, sister, uncle, aunt, cousin; describing a family tree | Ethiopia, English for Ethiopia, Grade 2 Student's Book, Unit 1, printed p.2 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

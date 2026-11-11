@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia
 
 Every part traces to its book and page.
 
@@ -49,7 +49,7 @@ pinned for them here.
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 | Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 8 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -60,7 +60,7 @@ work in it; Kuwait's Handwriting Book 3A supplies the
 training routine (trace the grey model, copy the solid
 model, on four-line guides) and is recorded exactly as
 filed: it teaches no joins, and none is claimed from it.
-Counts grow as other closed countries' books are read. Iraq joins with its Grade 3 Activity Book's systematic handwriting strand — letter formation with dotted models and word tracing, activity-book-only teaching (stocked 2026-11-11 by the re-verification sweep merge).
+Counts grow as other closed countries' books are read. Iraq joins with its Grade 3 Activity Book's systematic handwriting strand — letter formation with dotted models and word tracing, activity-book-only teaching (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 1 letter-forming strand (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -120,3 +120,15 @@ The 2026-11-08 re-verification sweep re-read Tanzania's one in-hand English book
 |---|---|
 | Copying whole sentences out by hand — the vehicle of Unit One's homophone exercise: the instruction is to copy the five sentences and circle the same-pronunciation pairs | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit One “Reading fluently”, printed p.2 |
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (no ISBN printed in the book). Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: its contents and Unit 1 were read in full from rendered pages, and the remaining units through the paired Grade 1 Teacher's Guide's lesson scripts and Minimum Learning Competencies, which reproduce this book's lessons in order. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forming letters: connecting dotted lines and forming letters; drawing letter-like symbols | Ethiopia, English for Ethiopia, Grade 1 Student's Book, whole-book writing strand |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

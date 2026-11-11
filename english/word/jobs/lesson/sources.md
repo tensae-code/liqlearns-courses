@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 4 (student's book) — Cambodia,
@@ -178,7 +178,7 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 29 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania).** Libya joins with jobs and professions as a system — job descriptions, a firefighter's day, career plans with going to (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 30 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia).** Libya joins with jobs and professions as a system — job descriptions, a firefighter's day, career plans with going to (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -194,7 +194,7 @@ twice: the family-jobs set in Grade 4, and at Grade 6 a
 whole people's-jobs unit — the job set, interviews, job
 advertisements, work duties and future jobs (stocked
 2026-11-08 by the re-verification sweep). Other closed countries
-join as their books are read (see READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its jobs teaching across Grades 6, 8, 9 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+join as their books are read (see READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its jobs teaching across Grades 6, 8, 9 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 4 jobs talk, Grade 6 traffic officers and Grade 8 preferred-jobs expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -592,3 +592,21 @@ The 2026-11-08 re-verification sweep re-read Tanzania's one in-hand English book
 |---|---|
 | A job as a life aim: the boy's dream of becoming a doctor, blessed and tied to studying hard | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Five “My dream”, printed pp.21–22 |
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is imposed as two-page spreads (77 PDF pages carrying 146 printed pages); printed pages are cited.
+
+**Book:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Contents pagination is cited: the book skips printed folio 91, so printed pages from Unit 4 on run one ahead of its contents list.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jobs listening and talk: what people do | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 1, printed p.1 |
+| Traffic officers and road vocabulary | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 3, printed p.67 |
+| Expressions for talking about preferred jobs | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 5, printed p.59 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

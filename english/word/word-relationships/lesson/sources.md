@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal, Ethiopia
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 26 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its homophones and Full Blast Plus 4's easily-confused words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 27 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its homophones and Full Blast Plus 4's easily-confused words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -194,7 +194,7 @@ opposites, and sorting words into categories (stocked
 their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 teacher guide names synonyms and antonyms
 as taught content (teacher evidence; stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its homophones (to/two/too; sun/son), lend against borrow, synonyms and word families in Grades 6, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its homophones (to/two/too; sun/son), lend against borrow, synonyms and word families in Grades 6, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its synonym, antonym and confusing-words work across Grades 4 to 12 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -509,3 +509,32 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Vocabulary: homophones (the book-review unit; a bundled strand named in the sweep diff's convention note) | Nepal, *English Grade Eleven* (Grade 11), printed p.162 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is imposed as two-page spreads (77 PDF pages carrying 146 printed pages); printed pages are cited.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Contents pagination is cited: the book skips printed folio 91, so printed pages from Unit 4 on run one ahead of its contents list.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Synonyms matched: gifted/endowed, abundant/plentiful, vast/huge, endemic/native… | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 7, printed p.86 |
+| Commonality and difference words: culture, diversity, patriotic… | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 9, printed p.114 |
+| Antonyms: diverse/alike, advantage/disadvantage, peaceful/violent… | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 9, printed p.227 |
+| Hard-work adjectives and their synonyms: hardworking, diligent, industrious, tireless, dedicated | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 7, printed p.174 |
+| First aid vocabulary and synonyms: victim, conscious, shock… | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 8, printed p.191 |
+| Synonyms: matching passage words with their synonyms and using both | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 10, printed p.134 |
+| Confusing words: terms easily confused with one another | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.299 |
+| Antonyms as vocabulary work | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 3, printed p.65 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

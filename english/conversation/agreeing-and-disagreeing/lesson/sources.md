@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10, Student's Book — Cambodia,
@@ -94,9 +94,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 20 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 21 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya).** Libya joins with agreeing and disagreeing with suggestions (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia).** Libya joins with agreeing and disagreeing with suggestions (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -113,7 +113,7 @@ negative — "Me, neither" — inside its Grade 3 likes unit
 The sweep also stocked Mauritania's other agreement teaching:
 the Grade 9 forms, the Grade 10 polite/informal set, and Grade
 13's full and partial agreement with clarification (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico's Grade 8 book practises agreement as a civic skill: tombola games designed for democratic decision-making and assertive attitudes (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its opinion and agreement work in Grades 7, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 8, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico's Grade 8 book practises agreement as a civic skill: tombola games designed for democratic decision-making and assertive attitudes (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its opinion and agreement work in Grades 7, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 8, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its agreeing forms and its debate and persuasion work in Grades 4, 7 and 8 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -372,3 +372,23 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Unit 20 “Power and Politics”: speaking — denying (outside the sweep's 426 — the truncated tail; stocked under the everything-goes-in ruling) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed pp.150–179 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is imposed as two-page spreads (77 PDF pages carrying 146 printed pages); printed pages are cited.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agreeing with "so do I / so does…", "I… too", and "don't/doesn't either" | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 5, printed pp.66–67 |
+| Dairy farming debate: Ethiopian-origin vs hybrid cows for quality milk (the book's Unit 5 is titled "Diary"; its lessons are about dairy farming) | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 5, printed p.59 |
+| Arguing for or against a premise; persuasion | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 8, printed p.105 |
+| Debate on advantages and disadvantages of livestock farming | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 5, printed p.59 |
+| Afforestation vs reforestation: expressing agreement and disagreement about plants | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 6, printed p.74 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

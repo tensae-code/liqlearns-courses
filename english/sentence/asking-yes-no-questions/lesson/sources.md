@@ -491,3 +491,16 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Present simple Yes/No questions about habits: “Do you wash … / go to bed early / eat healthy food? Yes, I do. / No, I don't.” | Libya, Grade 3 Pupil's Book, Unit 5, printed p.70 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson; the rows below complete its stock.
+
+**Book:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is imposed as two-page spreads (77 PDF pages carrying 146 printed pages); printed pages are cited.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Auxiliary verbs do and does: questions and negative statements | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 6, printed pp.80–81 |
+| Simple present affirmative sentences changed into the negative and interrogative | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 9, printed pp.120–121 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** Honeydew (Textbook in English for Class
@@ -110,7 +110,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 22 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 23 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -138,7 +138,7 @@ falling, rising, emphatic stress, rising (stocked
 teaches word stress and sentence stress in its Grade 11
 English for Change (stocked 2026-11-09 by the
 re-verification sweep merge). Counts
-grow as other closed countries' books are read. Iraq joins with its pronunciation, stress and phonemic work across Grades 4, 6, 7, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+grow as other closed countries' books are read. Iraq joins with its pronunciation, stress and phonemic work across Grades 4, 6, 7, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 vowel contrasts and schwa (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -442,3 +442,18 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Writing with the phonetic alphabet — “The written word” (Culture) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 7, printed p.82 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Long /u:/ and short /u/ vowel contrast | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 5, printed p.59 |
+| Long /i:/ and short /i/ vowel contrast | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 6, printed p.73 |
+| The schwa vowel sound /ə/ | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 7, printed p.89 |
+| Long [ai] vs short [i] sounds | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 9, printed p.120 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

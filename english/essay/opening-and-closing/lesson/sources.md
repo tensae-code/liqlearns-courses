@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia
 
 Every part traces to its book and page.
 
@@ -136,7 +136,7 @@ PASSED 2026-11-03).
 | The parts of a letter named as one set — heading, salutation, body, complimentary close, signature — worked in the guide's Lesson 1 (Part I), with the lesson's own letter printed complete in the guide (below) and the good-wish, greeting and farewell formulas sorted around it | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, guide printed pp.4–13 |
 | One complete letter printed in full in a guide — the only student text in the whole five-book set reproduced complete: Pedro Estévez's letter to Mr. González (printed p.6), opening with its salutation and closing with its complimentary close and signature, the model the letter-writing work is built on | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, Part A, guide printed p.6 |
 
-**Acceptance count: taught in 21 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 22 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -164,7 +164,7 @@ set from subject line and greeting to register and sign-off,
 and Workbook 12A — workbook only — extracts audience-involving
 openers among the persuasive techniques of a model speech
 outline. Rwanda stocks the ends in part — its P3 pupil's book and guide teach the personal letter's frame as named parts (address, date, salutation, sign-off), its P5 book analyses a friendly letter's format part by part, and its P6 book names a composition's introduction / main body / conclusion as its structure — but no read Rwanda book gives a guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries, and there is no essay-ends teaching. Other closed countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Ethiopia joins with its Grade 7 paragraph conclusions (stocked 2026-11-11 by the re-verification sweep merge).
 
 **South Africa added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The First Additional Language book's worksheet 100 uses a story, "My money has disappeared!", to teach introductions and conclusions by name (Theme 7, printed pp.70–102 — the worksheet and theme are cited, no single page is invented); the Home Language book's persuasive argument ends in a taught concluding recommendation (printed pp.48–49). Stated plainly: the named teaching is for story openings/closings plus an argument's conclusion — South Africa has no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries.
 
@@ -216,3 +216,15 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a conclusion to a paragraph | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 7, printed p.89 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

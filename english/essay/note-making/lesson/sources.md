@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia
 
 Every part traces to its book and page.
 
@@ -43,8 +43,8 @@ verification sweep.
 | A mind map as note-making — the farmers'-market shopping mind map (when, where, with who, how can we get there, how much, shopping list) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.43 |
 | Note-making and reporting worked on a factual report text (About the Unit writing) | India — Flamingo (Class 12), Writing in Lost Spring (About the Unit), printed pp.21–22 |
 
-**Acceptance count: taught in 9 countries (India, Uzbekistan, Kuwait, South Africa, China,
-South Sudan, Sudan, Yemen, Nepal).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
+**Acceptance count: taught in 10 countries (India, Uzbekistan, Kuwait, South Africa, China,
+South Sudan, Sudan, Yemen, Nepal, Ethiopia).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
 note-making as a five-step worked craft and sub-titling
 as its reader-facing twin; Uzbekistan cuts sentences to
 note form with the standard abbreviations; Kuwait writes
@@ -52,7 +52,7 @@ notes and messages in elliptical styles; South Africa
 teaches main idea and note-taking together. China makes
 notes as a mind map — the shopping trip sorted around its
 questions (stocked 2026-11-08 by the re-verification
-sweep). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+sweep). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its table, graph and chart work in Grades 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -134,3 +134,23 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Writing: note keeping (a bundled strand of the Maya Empire unit, named in the sweep diff's convention note) | Nepal, *English, Grade 9* (Grade 9), printed p.169 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Transferring information from a text to a table; identifying main ideas | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 1, printed p.1 |
+| Note-taking from listening; comparing and contrasting data from a table | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 10, printed p.131 |
+| Interpreting graphs: reading statistical diagrams | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 6, printed p.172 |
+| Writing a paragraph from information in a chart | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 1, printed p.20 |
+| Comparing two pie charts in writing | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 6, printed p.154 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

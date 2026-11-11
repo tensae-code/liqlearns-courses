@@ -1092,3 +1092,29 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | A listening conversation about Chinese New Year (decorations, red envelopes with money, dragon and lion dances) with detail questions | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 2, printed pp.15–17 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson; the rows below complete its stock.
+
+**Book:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: Unit 1 was read in full from rendered pages, and the remaining units through the paired Grade 3 Teacher's Guide, which gives suggested answers for every activity in this book in order — so those items are located by unit. Printed p. = PDF p. − 2.
+
+**Book:** English for Ethiopia, Grade 9 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: its ten units were itemised from the paired Grade 9 Teacher's Guide's contents (verified: the same ten units in the same order — no pair mismatch), with student-book anchors verified on rendered pages (§2.4.4 at printed p.47). Pages cited are the guide's contents pagination; the student book's own folios run a few pages later.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 11 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published August 2023, ISBN 978-99990-0-002-4. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only except its front matter: cover, imprint and full contents were read from the book's own text layer, and body points were cross-checked against the paired Grade 11 Teacher's Guide's per-unit objectives and language-focus lines, which mirror this book unit by unit. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A listening story about a school ("My School"), with prediction and true/false work | Ethiopia, English for Ethiopia, Grade 3 Student's Book, Unit 1, printed pp.1–3 |
+| Poverty reading, vocabulary and discussion | Ethiopia, English for Ethiopia, Grade 9 Student's Textbook, Unit 6, printed p.97 |
+| Community services reading | Ethiopia, English for Ethiopia, Grade 9 Student's Textbook, Unit 7, printed p.113 |
+| Population growth and land degradation reading | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 1, printed p.7 |
+| Punctuality reading: respect for time as a life skill | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 3, printed p.74 |
+| Migration in Ethiopia reading | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 6, printed p.150 |
+| Multilingualism reading: cognitive benefits of being multilingual | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 9, printed p.247 |
+| Patriotism reading and discussion | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 7, printed p.172 |
+| Conflict resolution reading and discussion | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 9, printed p.234 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

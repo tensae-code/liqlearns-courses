@@ -661,3 +661,24 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Animal-action verbs — the verb half of the Unit 8 set (bite, dig, dive, feed on, fight, hide, lay eggs, roar, sting) | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, Unit 8, printed p.42 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson; the rows below complete its stock.
+
+**Book:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: Unit 1 was read in full from rendered pages, and the remaining units through the paired Grade 2 Teacher's Guide, which scripts every lesson of this book in order and lists its competencies — so those items are located by unit. Printed p. = PDF p. − 2.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 11 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published August 2023, ISBN 978-99990-0-002-4. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only except its front matter: cover, imprint and full contents were read from the book's own text layer, and body points were cross-checked against the paired Grade 11 Teacher's Guide's per-unit objectives and language-focus lines, which mirror this book unit by unit. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "has" and "have" for possession (the guide's Expressions competency for this book) | Ethiopia, English for Ethiopia, Grade 2 Student's Book, Unit 6 |
+| Action verbs describing the behaviour of farm animals | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 5, printed p.59 |
+| Direct and indirect objects; transitive and intransitive verbs | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.293 |
+| Appendix I: regular and irregular verb forms | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Appendix I, printed p.273 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

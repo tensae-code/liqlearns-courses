@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -113,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 26 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -129,7 +129,7 @@ classroom's own things in Grade 4 (stocked 2026-11-08 by
 the re-verification sweep).
 Mauritania teaches the quantity words and the containers set
 in its Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project. Iraq joins with its quantifiers in Grades 5, 8, 9, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 6 and 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project. Iraq joins with its quantifiers in Grades 5, 8, 9, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 6 and 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 quantity words, Grade 7 countable and uncountable nouns, and the Grade 10 quantifier set (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -418,3 +418,21 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 **Sweep flag F2, corrected in this merge:** this lesson's older Nepal row cited “English Grade 10, Unit 13, pp.157–171” for much/many and some/any. That span is Grade 8's Unit 13 (the tiger-population unit); the held Grade 10 Unit 13 is “Narrating past events” (printed p.145). The row was corrected to Grade 8 above (2026-11-11), and that correction is what stocks item 176 of the sweep's missing list — the first row in the table below records it.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: Unit 1 was read in full from rendered pages, and the remaining units through the paired Grade 2 Teacher's Guide, which scripts every lesson of this book in order and lists its competencies — so those items are located by unit. Printed p. = PDF p. − 2.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Quantity and amount words in simple sentences | Ethiopia, English for Ethiopia, Grade 2 Student's Book, Unit 6 |
+| Countable and uncountable nouns | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 6, printed p.73 |
+| Quantifiers: much, many, little, a little, few, a lot of, less | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 8, printed p.235 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

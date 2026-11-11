@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -63,8 +63,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 10 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 11 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -76,7 +76,7 @@ speaking work in Grade 9, opens the unit with the
 cross-cultural "I'm Sorry" reading and a company apology
 letter, sets the apology letter as writing, and its
 (DRAFT) teacher's guide carries a seven-lesson apologising
-unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 and Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 and Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -205,3 +205,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Reading “The earth and us” (environment) with apologising language (the reading text itself is stocked in answering-from-the-text) | Nepal, *English Book Grade 6* (Grade 6), printed p.48 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: Unit 1 was read in full from rendered pages, and the remaining units through the paired Grade 2 Teacher's Guide, which scripts every lesson of this book in order and lists its competencies — so those items are located by unit. Printed p. = PDF p. − 2.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Good manners expressions and dialogue | Ethiopia, English for Ethiopia, Grade 2 Student's Book, Unit 8 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

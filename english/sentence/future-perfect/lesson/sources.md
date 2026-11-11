@@ -1,6 +1,6 @@
 # Sources — Future perfect
 
-countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya
+countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia
 
 Every part traces to its book and page.
 
@@ -35,7 +35,7 @@ Every part traces to its book and page.
 | The future system, active and passive: future indefinite, continuous, perfect and perfect continuous, with the passive of the indefinite and the perfect — each tense its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.117–136 (sections at printed pp.117, 120, 123, 127; passive at pp.131, 134) |
 | The future perfect tense in the culture unit's grammar work (with sentence patterns, direct and indirect object, and phrases, clauses and sentences) | Pakistan, *English 7*, Unit 11, printed p.103 |
 
-**Acceptance count: taught in 11 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya).** Libya joins with the future perfect and the future continuous as a pair (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with a single test-only appearance of the form — a future perfect item in its Grade 12 Activity Book's test pages, untaught in the Student's Book and stocked as test-only exposure, exactly as the sweep carries it (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia).** Libya joins with the future perfect and the future continuous as a pair (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with a single test-only appearance of the form — a future perfect item in its Grade 12 Activity Book's test pages, untaught in the Student's Book and stocked as test-only exposure, exactly as the sweep carries it (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 11 future perfect identification (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It teaches the whole future system, active and passive, tense by tense — the future perfect stands at printed p.123 and its passive at p.134. *English 7* names the future perfect in its culture unit (Unit 11, printed p.103); it is filed in english/books/pakistan.md and was re-read in the same sweep.
 
@@ -102,3 +102,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: simple future and future perfect (with Wh-questions and reported speech) | Nepal, *English, Grade 9* (Grade 9), printed p.210 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 11 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published August 2023, ISBN 978-99990-0-002-4. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only except its front matter: cover, imprint and full contents were read from the book's own text layer, and body points were cross-checked against the paired Grade 11 Teacher's Guide's per-unit objectives and language-focus lines, which mirror this book unit by unit. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple future and future perfect tenses identified in a paragraph, and their functions discussed | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 4, printed p.108 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

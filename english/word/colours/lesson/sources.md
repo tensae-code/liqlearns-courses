@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia
 
 Every part traces to its book and page.
 
@@ -74,7 +74,7 @@ verification sweep.
 | Colours and shapes as a named strand of the book's Language Focus | Pakistan, *English 1*, contents Language Focus column |
 | Colours and shapes as a named strand of the book's contents | Pakistan, *English 2*, contents |
 
-**Acceptance count: taught in 25 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 colour sets — blue, green, red and yellow (Unit 2) and orange, pink, black, white, brown and grey (Unit 4) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 26 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 colour sets — blue, green, red and yellow (Unit 2) and orange, pink, black, white, brown and grey (Unit 4) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -82,7 +82,7 @@ names the pairing, not a separate colour list, and none is
 claimed); Mongolia carries the rainbow seven, the mixing
 chart and the primary/secondary/neutral sorting. Other
 closed countries join as their books are read (see
-READING-QUEUE.md). Iraq joins with its Grade 1 colour set and its Grade 3 revisit (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 3 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Iraq joins with its Grade 1 colour set and its Grade 3 revisit (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 3 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 1 colour words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -332,3 +332,15 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Describing what you see with colours as adjectives: “I see a green bird. / a fish — it's red, orange, and yellow” | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 3, printed p.42 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (no ISBN printed in the book). Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: its contents and Unit 1 were read in full from rendered pages, and the remaining units through the paired Grade 1 Teacher's Guide's lesson scripts and Minimum Learning Competencies, which reproduce this book's lessons in order. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colour words: listening, saying and pointing to colours | Ethiopia, English for Ethiopia, Grade 1 Student's Book, Unit 3, printed p.43 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

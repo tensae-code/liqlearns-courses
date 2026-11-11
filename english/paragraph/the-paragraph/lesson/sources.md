@@ -668,3 +668,37 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Controlled paragraph writing: completing a short paragraph describing a park scene and a school scene from a word box | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed pp.30–31 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson; the rows below complete its stock.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Contents pagination is cited: the book skips printed folio 91, so printed pages from Unit 4 on run one ahead of its contents list.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a short paragraph about an accident | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 3, printed p.81 |
+| Writing about cause and effect: rearranging sentences into a paragraph | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 6, printed p.164 |
+| Writing a paragraph about an area of your culture or heritage, from family and elders | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 9, printed p.240 |
+| Writing a short paragraph about the importance of first aid | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 8, printed p.186 |
+| Writing a conclusion to a paragraph | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 7, printed p.89 |
+| Writing a well-developed paragraph | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 2, printed p.12 |
+| Writing a paragraph on an endangered animal | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 4, printed p.38 |
+| Writing a narrative paragraph | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 7, printed p.91 |
+| Writing an expository paragraph | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 10, printed p.131 |
+| Writing a narrative paragraph, with an outline (a punctuality example) | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 3, printed p.89 |
+| Re-arranging the sentences of a paragraph into order | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.295 |
+| Writing paragraphs comparing and contrasting things; writing a paragraph from information in a chart | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 1, printed p.20 |
+| Reordering jumbled paragraphs | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 2, printed p.50 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

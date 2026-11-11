@@ -1,6 +1,6 @@
 # Sources — Verbs with two objects
 
-countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen
+countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia
 
 Every part traces to its book and page.
 
@@ -35,8 +35,8 @@ verification sweep.
 | A named language point in the teacher notes: transitive and intransitive verbs — underline the direct object (He brought me a colourful umbrella; I will write a letter to him; give yourself a chance) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 | Transitive and intransitive verbs in the grammar system (with action, linking and helping verbs) | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Mongolia, India, Pakistan, Venezuela, Yemen).** Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
+**Acceptance count: taught in 7 countries (Cambodia,
+Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia).** Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
 half — verbs with two objects, direct vs indirect
 objects — evidenced by the Grade 11 Teacher's Book's
 spreads, the student's book not being held. Mongolia
@@ -46,7 +46,7 @@ matched Grammar Reference pair on send. The to/for
 signpost choice and the pronoun rule are taught here
 as the working system of the same two shapes; no third
 country's filing teaches the two-object system as a
-named point, and the lesson does not claim one.
+named point, and the lesson does not claim one. Ethiopia joins with its Grade 10 direct and indirect objects (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* works transitive and intransitive verbs in its grammar system, beside action, linking and helping verbs. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -71,3 +71,15 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Verbs with two objects — “Let's buy Nadia a ring / buy a ring for Nadia”; “Peter gave us these comics” (Language summary) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.29 |
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Direct and indirect objects; transitive and intransitive verbs | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.293 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

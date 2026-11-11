@@ -1,6 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -60,7 +60,7 @@ covers the 6th Year book only).
 | Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
 | Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 17 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya).** Libya joins with regrets — I wish / If only + past perfect (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 18 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya, Ethiopia).** Libya joins with regrets — I wish / If only + past perfect (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -76,7 +76,7 @@ was found in english/EGYPT-BOOK-MAP.md, so Egypt is
 not cited here.
 Mauritania sets hope against wish in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 12 wish pattern (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -226,3 +226,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: wish, expressing regrets (the “Down the Rabbit Hole” unit) | Nepal, *English Grade Eleven* (Grade 11), printed p.109 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The verb pattern with "wish" and "if only": wishes about present and past, wish vs hope | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 9, printed p.228 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

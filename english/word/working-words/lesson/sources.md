@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
 sector English, and it is counted and flagged as such.
@@ -110,7 +110,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 17 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 18 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -133,7 +133,7 @@ by the re-verification sweep): not trade English, but the
 everyday things-and-materials word sets its primary and
 Grade 9 books teach — the toy/thing set of Grade 3 and the
 material words of the Grade 9 made-of unit. Other closed countries join as their books are read
-(see READING-QUEUE.md). Iraq joins with its Grade 12 police and armed forces words (stocked 2026-11-11 by the re-verification sweep merge).
+(see READING-QUEUE.md). Iraq joins with its Grade 12 police and armed forces words (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its pottery, village-economy and tourism word sets (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -470,3 +470,21 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Entrepreneurs — business vocabulary (the causative revision is stocked in the-causative) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 6, printed p.71 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: Unit 1 was read in full from rendered pages, and the remaining units through the paired Grade 3 Teacher's Guide, which gives suggested answers for every activity in this book in order — so those items are located by unit. Printed p. = PDF p. − 2.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pottery words and reading | Ethiopia, English for Ethiopia, Grade 3 Student's Book, Unit 10 |
+| Words for economic activities in a village: income, contributes, forest… | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 1, printed p.1 |
+| Tourism and tourist information | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 4, printed p.93 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

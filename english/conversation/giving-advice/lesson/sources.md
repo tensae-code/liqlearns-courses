@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan, Ethiopia
 
 Every part traces to its book and page.
 
@@ -152,7 +152,7 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 28 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 8 stay-well advice, its obligations-and-advice unit, and the advice-led remainder of the Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+**Acceptance count: taught in 29 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 8 stay-well advice, its obligations-and-advice unit, and the advice-led remainder of the Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -183,7 +183,7 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania gives advice with the full modal ladder in its
 Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its advice language across Grades 6, 8, 10, 11 and 12 — should/shouldn't, ought to, had better, If I were you (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 5, 6, 7, 8, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its advice language across Grades 6, 8, 10, 11 and 12 — should/shouldn't, ought to, had better, If I were you (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 5, 6, 7, 8, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its advice expressions and obligation modals in Grades 6, 8 and 9 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -530,3 +530,21 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: should and had better (the Mandela inauguration speech unit; a bundled strand named in the sweep diff's convention note) | Nepal, *English Grade Eleven* (Grade 11), printed p.79 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Contents pagination is cited: the book skips printed folio 91, so printed pages from Unit 4 on run one ahead of its contents list.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 9 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: its ten units were itemised from the paired Grade 9 Teacher's Guide's contents (verified: the same ten units in the same order — no pair mismatch), with student-book anchors verified on rendered pages (§2.4.4 at printed p.47). Pages cited are the guide's contents pagination; the student book's own folios run a few pages later.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expressions for giving and receiving advice | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 8, printed p.186 |
+| Modals should/ought to, have to, may, might, can, could, for giving and receiving advice | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 3, printed p.24 |
+| Modals of obligation and advice for road safety: must, should, have to | Ethiopia, English for Ethiopia, Grade 9 Student's Textbook, Unit 3, printed p.52 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

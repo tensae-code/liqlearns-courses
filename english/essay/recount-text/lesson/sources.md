@@ -1,6 +1,6 @@
 # Sources — Recount Text
 
-countries: Indonesia, Egypt, Nepal
+countries: Indonesia, Egypt, Nepal, Ethiopia
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — writing a recount text | Indonesia, English for Nusantara Grade 9, printed p.119 |
 | Sub lesson 3 — a recount of a sports event, as the kind's public model | Indonesia, Work in Progress Grade 10, Chapter 2, printed p.29 |
 
-**Acceptance count: taught in 3 countries (Indonesia, Egypt, Nepal).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Indonesia, Egypt, Nepal, Ethiopia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -58,3 +58,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Writing: personal narratives | Nepal, *English Grade Eleven* (Grade 11), printed p.3 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a narrative paragraph, with an outline (a punctuality example) | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 3, printed p.89 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

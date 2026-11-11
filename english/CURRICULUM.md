@@ -2287,3 +2287,70 @@ counted in 27 lessons and completes its stock in 14 more. No new
 lessons were built — every missing item targeted an existing lesson.
 **Ecuador: 6 of 6 distinct in-hand books re-read (9 files).** The
 English course now stands at **267 lessons across 44 units**.
+
+**Stocked by Ethiopia (2026-11-11, the re-verification sweep merge):** the
+2026-11-08 re-verification sweep re-read Ethiopia's English set from the
+files: 24 books verified in hand — 12 student's books and 12 teacher's
+guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic
+of Ethiopia, Ministry of Education), 4,576 PDF pages. The sweep placed
+335 teaching items fresh from the books: 92 were already in the course
+and 243 were missing. All 243 are stocked here — 293 provenance rows
+into 106 lessons (multi-homed where the placements name two or three
+lessons). Ethiopia is newly counted in 76 lessons and completes its
+stock in 30 more; one further lesson (asking-with-question-words)
+received a citation correction only. No new lessons were built — every
+missing item targeted an existing lesson. The 12 teacher's guides are
+teacher evidence only and contribute no learner items. Read depth is
+the sweep's declared one: the 19 books with full text layers were read
+page by page through their contents, unit objectives, grammar,
+vocabulary and writing sections; the five image-only or near-image-only
+student's books (Grades 1, 2, 3, 9 and 11) were read at declared lesser
+depth — rendered-page reads of contents and unit openers plus the paired
+guides' scripts, contents and keys, which reproduce the student books'
+lessons in order; the Grade 9 pages cited are the paired guide's
+contents pagination, the student book's own folios running a few pages
+later. Flags: F1 VERIFIED IN PLACE — the present perfect continuous is
+stocked from Grade 9, as the course's sources already had it (the
+filing's "never taught as a form" verdict is incomplete for Grade 9;
+filing-side, reported, not edited). F2 FIXED — Grade 12 CV writing is
+real (Student's Textbook Unit 10, §10F.2, printed p.261);
+cv-and-cover-letter's "could not be confirmed" record was a false
+negative, corrected in its acceptance paragraph and stocked there. F3
+CONFIRMED — the Grade 9 guide's Unit 8 writing key does misplace the
+internet essay (the guide's own error, exactly as the filing said); no
+course file repeats it. F4 CONFIRMED — the held Grade 10 teacher's guide
+is a pre-final production file (cover "GRRADE 10"; imprint "First
+Published xxxxx 2022"; its printed ISBN does not match the finished
+student book's); the final-printing guide remains owed library-side. F5
+VERIFIED IN PLACE — the points the earlier merge stocked at section
+depth, which the fresh placements under-read (Grade 5 comparisons, the
+present continuous passive, Grade 8 conditionals, the Grade 11
+all-tenses passive paradigm and its systems points, Grade 12's "Common
+Mistakes" set among them), stand as stocked and count as in course. F6 —
+the filing's completeness claim is a filing-side matter: reading had
+not become stocking, which this merge closes; reported, not edited. F7
+FIXED — asking-with-question-words placed Grade 4's Wh-question work in
+a "soil unit (printed p.63)"; the fresh read finds the Wh-words lesson
+in Unit 2 "Rainy Season" (printed pp.28–29), Unit 4 carrying
+prepositions of place, and printed p.63 inside Unit 5's span; the row
+and the acceptance paragraph are corrected. F8 RESOLVED — the Grade 12
+book teaches the argumentative essay twice (Units 8 and 9, two
+different models); the Unit 9 instance is now stocked in essay-kinds
+beside the already-stocked Unit 8 row, the point counted once. Book
+errors carried: the Grade 7 book's Unit 5 is titled "Diary" while its
+lessons teach dairy farming (noted where the debate row touches it);
+the Grade 6 book skips printed folio 91, so its sections cite contents
+pagination; the Grade 5 contents leaves repeat Units 2, 4, 7 and 9
+(printing duplication); the Grade 9 book prints a placeholder-looking
+ISBN (978-99990-0-000-0) and its guide an unfinished imprint; the Grade
+12 model letter's misprints ("sow" for "show", "lke" for "like") and the
+Grade 10 punctuality reading's "respection" are the books' own and are
+not held up as models. Six placements items the diff counts as already
+in course through another lesson's stock (Grade 4 and Grade 6
+comparisons, in adjectives; Grade 5 accident words and the Grade 11
+global-warming and artificial-intelligence units' vocabulary work, in
+words-you-dont-know; Grade 9 urban life, in the-town; Grade 10 adverbs
+of time and frequency, in adverbs) were checked against HEAD during
+this merge and are not double-cited. **Ethiopia: 24 of 24 books
+re-read.** The English course now stands at **267 lessons across 44
+units**.

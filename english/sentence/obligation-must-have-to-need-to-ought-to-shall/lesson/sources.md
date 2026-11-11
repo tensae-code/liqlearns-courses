@@ -1,6 +1,6 @@
 # Sources — Obligation Compared — Must, Have To, Need To, Ought To, Shall
 
-countries: Mauritania, India, Nicaragua, Ecuador
+countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ verification sweep.
 | Should with have to/has to — the full forms, including negatives and questions | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 | The obligation scale — must (100%) / have to / should (60%) / don't have to (0%) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C (printed p.38 in the filing's anchor) |
 
-**Acceptance count: taught in 4 countries (Mauritania, India, Nicaragua, Ecuador).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land.
+**Acceptance count: taught in 5 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge).
 
 Nicaragua joins with the Grade 9 Student's Book's rules lesson (must/mustn't against should and may, PDF p.86) and the Grade 10 module's full should/have to treatment with its obligation scale — must (100%) / have to / should (60%) / don't have to (0%) (Unit 1C, the filing's anchor is printed p.38) (stocked 2026-11-11 by the re-verification sweep merge).
 
@@ -42,3 +42,18 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Modal verbs for rules and norms: should, must, have to, need to, can and ought to for necessity, obligation and permission, with rule examples (the same point is also stocked in modal-verbs) | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 2, printed p.15 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Contents pagination is cited: the book skips printed folio 91, so printed pages from Unit 4 on run one ahead of its contents list.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modal auxiliaries must, have/has to, need to: compulsion and no choice | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 5, printed p.125 |
+| Modal auxiliaries compared: ought to, should, must, have to, need to, can, will | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.288 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

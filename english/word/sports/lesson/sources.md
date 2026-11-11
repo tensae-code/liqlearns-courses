@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** *Uérakua anapu uantakua. Projects and
@@ -137,7 +137,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 31 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador).** Libya joins with the Grade 2 activity verbs and fun-park words and the Grade 12 world-of-sport reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 32 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia).** Libya joins with the Grade 2 activity verbs and fun-park words and the Grade 12 world-of-sport reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -154,7 +154,7 @@ re-verification sweep). Iran carries the hobbies and
 free-time set in Grade 8, asked as "What's your hobby?"
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia names what a game needs in Grade 6 and talks about extracurricular activities in Grade 7 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
-READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set. Iraq joins with its sports teaching across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 4, 6, 7, 8 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set. Iraq joins with its sports teaching across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 4, 6, 7, 8 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its traditional games, fitness words and athlete biographies (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -553,3 +553,21 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Playground equipment and actions (slide, swings, jungle gym, net, rope, tunnel, boat; climb, run, jump, play) with “What do you like to do in the playground?” | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 5, printed p.80 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Contents pagination is cited: the book skips printed folio 91, so printed pages from Unit 4 on run one ahead of its contents list.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Traditional games reading and discussion | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 1, printed p.3 |
+| Fitness words: fitness, dumbbell, juice, nutrition (with a listening text about Bruce Lee) | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 8, printed p.105 |
+| Athlete biographies used as writing models (a famous Ethiopian long-distance runner) | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 5, printed p.140 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

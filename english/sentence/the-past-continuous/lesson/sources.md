@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal, Ethiopia
 
 Every part traces to its book and page.
 
@@ -110,11 +110,11 @@ re-verification sweep.
 | Simple past and past continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Past indefinite and past continuous as the justice unit's grammar (with précis writing) | Pakistan, *English X*, Unit 1 (contents) |
 
-**Acceptance count: taught in 26 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal).** Libya joins with the past continuous as a taught system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal, Ethiopia).** Libya joins with the past continuous as a taught system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico teaches the past progressive in Grade 8 (interrupted actions, then a past-simple contrast review) and contrasts simple past with past progressive again in Grade 9 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 past simple against past continuous (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico teaches the past progressive in Grade 8 (interrupted actions, then a past-simple contrast review) and contrasts simple past with past progressive again in Grade 9 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 past simple against past continuous (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 and Grade 8 past continuous (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 4* teaches the past continuous in its geography unit, *English 8* pairs simple past and past continuous in its grammar system, and *English X* sets past indefinite and past continuous in its opening unit. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -351,3 +351,18 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Interrupted continuous action (past continuous broken by a past simple event) | Nepal, *English Grade 10* (Grade 10), Unit 14, printed p.154 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past continuous tense, affirmative forms, contrasted with the simple past | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 8, printed p.208 |
+| Past continuous tense to describe past activities | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 4, printed p.38 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

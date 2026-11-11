@@ -1,6 +1,6 @@
 # Sources — Double comparatives
 
-countries: Greece, Vietnam, China, Mongolia, Yemen
+countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | USE ONLY — the shape in dialogue, never taught: "The more you read, the faster you'll be" (Unit 1); "the more I get to know Julie, the more …" (Unit 11) | China, Grade 9, Unit 1, pp.1–8; Unit 11 (as filed in english/books/china.md) |
 | Less / least, and double comparatives (more and more; the more…, the more…) | Mongolia, English XII, Unit 10, printed pp.182–183 |
 
-**Acceptance count: taught in 5 countries (Greece, Vietnam, China, Mongolia, Yemen).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Greece, Vietnam, China, Mongolia, Yemen, Ethiopia).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 10 double comparative (stocked 2026-11-11 by the re-verification sweep merge).
 
 China is counted as a use witness only: its Grade 9 book carries the locked shape inside dialogues and teaches no rule for it — the filing shows use, and this lesson words China as use only, exactly as filed. Pakistan is NOT counted: its Grade 12 "very better" is an error-to-correct item, not a teaching, and it appears in this lesson only as the corrected error.
 
@@ -40,3 +40,15 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Emphasis by repeating comparatives — “faster and faster, more and more worried” (Language review 2) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.7 |
 | Double comparatives with “the…the…” — “The deeper the water, the greater the pressure” (Language review 8) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.31 |
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The double comparative "the more…, the more…", inside the degrees-of-comparison unit | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 1, printed p.18 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

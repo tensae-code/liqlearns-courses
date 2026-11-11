@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia
 
 Every part traces to its book and page.
 
@@ -224,8 +224,8 @@ verification sweep.
 | Ordering the La Cegua story — retelling in sequence | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2C |
 | A whole chapter on story writing: specimen stories, and stories built up from outlines | Pakistan, *English Grammar & Composition 9–10*, Chapter II, printed p.8 |
 
-**Acceptance count: taught in 31 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 32 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -264,7 +264,7 @@ teaching — and Workbook 12A, workbook only, has pupils order
 the 11 sentences of a model story, noting its sequencing
 words and pronoun links, before a past-event description.
 Rwanda stocks the telling-back in part: retelling is set as a task in three pupil's books — the P1 story retold and resequenced, the P3 story read by the teacher for retelling, and the P6 fable read for retelling beside the unit's summaries and retellings — but no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries. Syria stocks the telling-back in part: its Grade 5 *English for Starters 5* (York Press) sets a four-part story to order and then predict its ending (Unit 18, printed p.55), and its closing whole-book quiz sets a character's story to retell from memory — "Tell the story of Queen Zenobia" (Revision 5, printed p.74) — retelling set as tasks, with no own-words retelling aim stated, so that framing rests on the other countries too. Other closed countries join as
-their books are read (see READING-QUEUE.md). Mexico's Grade 8 book gathers an anthology of short folktales and legends in English, to retell (stocked 2026-11-09 by the Mexico re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+their books are read (see READING-QUEUE.md). Mexico's Grade 8 book gathers an anthology of short folktales and legends in English, to retell (stocked 2026-11-09 by the Mexico re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 holiday telling and Grade 8 charity story (stocked 2026-11-11 by the re-verification sweep merge).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
 
@@ -489,3 +489,18 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 The Grade 5 and Grade 8 rows below are student's-book narration; Nepal's named-retelling stock in this lesson still rests on the Grade 6 teacher's guide's “Popcorn Storytelling” (teacher evidence), as the file already states — the new rows add narration practice, not a named retelling method.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Holiday talk and reading | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 1, printed p.6 |
+| Listening to and telling a story: a girl who founded a charity for the poor (plot summary only) | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 7, printed p.91 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Stative verbs
 
-countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa
+countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia
 
 Every part traces to its book and page.
 
@@ -23,7 +23,7 @@ Every part traces to its book and page.
 | Stative verbs — senses and emotions verbs take simple forms — in the Grand Canyon lesson | Nicaragua, Inglés Grade 10, Lesson 12, p.94 |
 | "Stative verbs in the continuous form" and "Linking verbs" — the Grammar box pairing this lesson follows: the stative question and the linking-verb system in one box | Vietnam, Tiếng Anh 11, Unit 3 "Cities of the future", Grammar box heading, printed p.30 (unit pp.28–37) |
 
-**Acceptance count: taught in 8 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa).** Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia).** Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 4 linking verbs and Grade 10 stative verbs (stocked 2026-11-11 by the re-verification sweep merge).
 
 Vietnam's box heading is quoted exactly as filed — "Stative verbs in the continuous form" — because the filing gives the heading, not a rule in the opposite sense; this lesson takes the not-continuous RULE from Egypt's full statement and Cambodia's rule-plus-error-correction, and stocks Vietnam for the pairing of the stative question with linking verbs, as its filing presents it.
 
@@ -63,3 +63,18 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is imposed as two-page spreads (77 PDF pages carrying 146 printed pages); printed pages are cited.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Linking verbs (am, are, was, were; smells, looks) circled and used | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 7, printed pp.92–93 |
+| State (stative) verbs: thoughts and opinions | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 9, printed p.269 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

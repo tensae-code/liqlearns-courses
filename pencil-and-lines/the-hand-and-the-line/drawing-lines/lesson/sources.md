@@ -211,3 +211,17 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the row above completes its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The row below is this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson. A Grade 1 tracing row already stood in the main table above; the sweep counted the book's named pre-writing stroke set itself as unstocked, and the row below stocks it.
+
+**Book:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (no ISBN printed in the book). Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only: its contents and Unit 1 were read in full from rendered pages, and the remaining units through the paired Grade 1 Teacher's Guide's lesson scripts and Minimum Learning Competencies, which reproduce this book's lessons in order. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pre-writing strokes traced: horizontal, vertical and slanting lines, ovals and loops — the book's dotted-line stroke set | Ethiopia, English for Ethiopia, Grade 1 Student's Book, Unit 1, printed p.2 |
+
+Ethiopia was already counted in this lesson; the row above completes its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

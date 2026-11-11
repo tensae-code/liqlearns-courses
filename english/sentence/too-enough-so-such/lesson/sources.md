@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya).** Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia).** Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
 
@@ -127,3 +127,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Expressing unexpected results (so/such … that, too … to) | Nepal, *English Grade 10* (Grade 10), Unit 9, printed p.94 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expressing result: so…that / so few…that… | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 2, printed p.40 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

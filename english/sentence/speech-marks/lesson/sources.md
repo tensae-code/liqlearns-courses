@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia
 
 Every part traces to its book and page.
 
@@ -75,8 +75,8 @@ verification sweep.
 | Punctuation and quotation marks in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Quotation marks in the book's closing grammar stretch (with simple, compound and complex sentences) | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 9 countries (Malaysia,
-Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
+**Acceptance count: taught in 10 countries (Malaysia,
+Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
 6 Scheme of Work — a teacher planning document, not a
 pupil's textbook — and is worded as mapped coverage
 throughout: Unit 1 of the map sets direct speech
@@ -96,7 +96,7 @@ marks in its Grade 8 feelings chapter (stocked 2026-11-09
 by the re-verification sweep merge).
 No other closed country's filing teaches direct-speech
 punctuation as a named system; the lesson does not claim
-them.
+them. Ethiopia joins with its Grade 7 semi-colon and apostrophe work and Grade 10 apostrophe (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -168,3 +168,20 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Semi-colon and colon, applied uses — the semi-colon is the newly stocked half; the colon was already stocked in this lesson | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 7, printed p.89 |
+| Using the apostrophe | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 8, printed p.105 |
+| Using the semi-colon in written texts | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 10, printed p.134 |
+| The apostrophe | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 4, printed p.118 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

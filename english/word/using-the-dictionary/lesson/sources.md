@@ -495,3 +495,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 **Sweep flag F4, verified in place:** the sweep re-checked this lesson's Grade 10 teacher's-guide entry and confirmed the correction already standing in this file — the 2024 “Feedback Copy” Grade 10 guide keys to a newer Grade 10 edition (18 thematic units) that is not the held book (19 functional units), so its glossary work is the guide's own teaching, teacher evidence only, and is not evidence for the held student's book. No edit was needed. The word lists and the glossary stocked below are the student's books' own end-of-book finding tools, stocked as such; Nepal's counted place in this lesson rests on its dictionary-skills teaching (Grade 6 Unit 8, Grade 7 entry reading, Grade 8 abbreviations, Grade 11 use and order), exactly as the file already states.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson; the rows below complete its stock.
+
+**Book:** English for Ethiopia, Grade 10 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 10.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dictionary work with the phrasal verbs with "get" | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 4, printed p.104 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

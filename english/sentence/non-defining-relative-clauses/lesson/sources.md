@@ -1,6 +1,6 @@
 # Sources — Non-defining relative clauses
 
-countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan
+countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia
 
 Every part traces to its book and page.
 
@@ -76,7 +76,7 @@ verification sweep.
 | Prepositions in relative clauses (defining vs non-defining, preposition final or fronted), reviewed | Yemen, Pupil's Book 6 (Grade 12), Language review 4 (p.15) |
 | Grammar as named work: non-defining relative clauses; negatives used for emphasis; metaphors identified in the text | India — First Flight (Class 10), Grammar in A Letter to God (What We Have Done), printed p.13 |
 
-**Acceptance count: taught in 8 countries (Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
+**Acceptance count: taught in 9 countries (Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
 both kinds and all three hard rules in a single
 Secondary 11 box. Malaysia teaches defining and
 non-defining together twice — Form 3 Unit 4 and Form 4
@@ -90,7 +90,7 @@ whole-sentence which its own heading at Grade 12
 Unit 3. Yemen presents non-defining clauses in
 Pupil's Book 5's Language review 2 and reviews the
 defining/non-defining contrast with prepositions in
-Pupil's Book 6.
+Pupil's Book 6. Ethiopia joins with its Grade 12 non-defining clauses (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -129,3 +129,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Relative clauses and prepositional relative phrases — the non-defining half of the Unit 7 treatment | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 7, printed pp.18–19 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** English for Ethiopia, Grade 12 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 6.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative clauses including non-defining clauses, with who, which, whose, whom, that | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 6, printed p.149 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.

@@ -1009,3 +1009,29 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Library activities in present-simple statements and do-questions: “What do you do in the library? I read books / use dictionaries and atlases / listen to stories” (the unit's yes/no frame was already stocked in asking-yes-no-questions; the activity statements were not) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 2, printed p.24 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Ethiopia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the files: 24 books verified in hand — 12 student's books and 12 teacher's guides, Grades 1–12, *English for Ethiopia* (Federal Democratic Republic of Ethiopia, Ministry of Education), 4,576 PDF pages in all. The sweep placed 335 teaching items fresh from the books: 92 were already in the course and 243 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md). Method: the 19 books with full text layers were read page by page through their contents, unit objectives, grammar, vocabulary and writing sections; the five image-only or near-image-only student's books (Grades 1, 2, 3, 9 and 11) were read at the lesser depth declared in the placements — rendered-page reads of contents and unit openers plus the paired guides' scripts, contents and keys, which reproduce the student books' lessons in order. The 12 teacher's guides are teacher evidence only and contribute no learner items here. Ethiopia was already counted in this lesson; the rows below complete its stock.
+
+**Book:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is imposed as two-page spreads (77 PDF pages carrying 146 printed pages); printed pages are cited.
+
+**Book:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 4.
+
+**Book:** English for Ethiopia, Grade 7 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 8 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md; re-read page by page in the 2026-11-08 re-verification sweep. Printed p. = PDF p. − 5.
+
+**Book:** English for Ethiopia, Grade 11 Student's Textbook — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published August 2023, ISBN 978-99990-0-002-4. Filed in english/books/ethiopia.md; re-read in the 2026-11-08 re-verification sweep. The book is image-only except its front matter: cover, imprint and full contents were read from the book's own text layer, and body points were cross-checked against the paired Grade 11 Teacher's Guide's per-unit objectives and language-focus lines, which mirror this book unit by unit. Printed p. = PDF p. − 4.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple present tense verb forms completing a paragraph about a teacher | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 3, printed pp.36–37 |
+| Simple present affirmative sentences changed into the negative and interrogative | Ethiopia, English for Ethiopia, Grade 4 Student's Book, Unit 9, printed pp.120–121 |
+| What tense is; the simple present tense, affirmative forms first | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 1, printed p.14 |
+| Simple present tense for habitual actions | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 2, printed p.44 |
+| Simple present tense in everyday activities, general truths and planned future actions | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 1, printed p.1 |
+| Describing daily routines in the simple present tense | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 1, printed p.1 |
+| Simple present tense for causes of environmental hazards | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 1, printed p.18 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
