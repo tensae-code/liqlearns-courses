@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -111,7 +111,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 6 countries (Greece, Bolivia, China, India, Nicaragua, Palestine).** India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 7 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -151,3 +151,25 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Business words — distribute, marketing, market share, market value, returns, sector, up market … | Palestine, Grade 12, Unit 8, printed pp.78–87 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom objects: desk, pencil, blackboard, book, cupboard — “What is this/that?” | Rwanda, Primary 1 Pupil's Book (Success English for Rwandan Schools), printed pp.8–9 |
+| Community work (Umuganda): a reading on the community work day, with questions | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.66 |
+| Crafts in Rwanda: what people made in the past (wood carvings — sculptures, doors, gourds, knife handles, instruments), what craft objects were used for, and the raw materials (grass, recycled paper, beads, thread; iron for knives and pangas) | Rwanda, P5 Learner's Book, printed pp.141–145 |
+| Modern handicrafts (baskets, pots, ceramics), and writing instructions for making a craft object | Rwanda, P5 Learner's Book, printed pp.146–149 |
+| Agriculture tools in the past: sickle, hoe, pickaxe, and what each is used for | Rwanda, P5 Learner's Book, printed pp.152–153 |
+| Farming in the past (a listening text) and agriculture in the present: crops grown, animals kept | Rwanda, P5 Learner's Book, printed pp.154–157 |
+| Agricultural exports: tea and coffee, and the countries that receive them | Rwanda, P5 Learner's Book, printed pp.158–159 |
+| Agriculture in the future | Rwanda, P5 Learner's Book, printed pp.160–161 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

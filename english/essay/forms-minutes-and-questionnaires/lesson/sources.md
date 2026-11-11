@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine
+countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -57,7 +57,7 @@ verification sweep.
 | A personal information card — name, grade, age, phone number | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed p.4 |
 | Addresses — saying and writing an address | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 8, printed p.37 |
 
-**Acceptance count: taught in 9 countries (Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine).** India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda).** Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -77,3 +77,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Completing a university application form | Palestine, Grade 12, Unit 1, printed pp.11–13 |
 | Planning, writing and conducting a questionnaire | Palestine, Grade 12, Unit 4, printed pp.45–47 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using a questionnaire to find out food likes, then reporting the most and least liked | Rwanda, Primary 2 Learner's Book, printed pp.39–40 |
+| Conducting a survey: a likes-and-preferences bar graph of a Primary 6 class, with percentages and fan counts — the book's question “How many fans does cycling has?” (printed p.8) is a book error, taught corrected (“How many fans does cycling have?”) | Rwanda, Pupil's Book 6, printed pp.7–8 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

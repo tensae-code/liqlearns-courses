@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -111,7 +111,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 13 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 14 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -168,3 +168,24 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Pronunciation: weak stress in sentences (weak forms becoming /ə/) | Palestine, Grade 10 Part 1, Unit 5 (per the book's Contents, printed p.3) |
 
 The Grade 10 book's pronunciation strands are placed by its Contents (printed p.3); each unit's strand is cited at that grain, exactly as the placements carry it.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Teacher's Guide 3* (teacher's guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019. TEACHER EVIDENCE — the companion to Pupil's Book 3, cited only for what the guide itself teaches. Filed in english/books/rwanda.md; read in the 2026-11-08 re-verification sweep (contents, content maps and every guide-only teaching section in full; answer keys not re-verified page by page).
+
+**Book 3:** *Primary Learner's English Teachers' Guide for Rwandan Schools, P4* (teacher's guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019. TEACHER EVIDENCE — the companion to the P4 Learner's Book, cited only for what the guide itself teaches. Filed in english/books/rwanda.md; read in the 2026-11-08 re-verification sweep (contents, content maps and every guide-only teaching section in full; answer keys not re-verified page by page).
+
+**Book 4:** *English for Rwandan Primary Schools, Teacher's Guide 6* (teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2018 — one year earlier than the 2019 Pupil's Book 6, with unit-for-unit correspondence. TEACHER EVIDENCE — cited only for what the guide itself teaches. Filed in english/books/rwanda.md; read in the 2026-11-08 re-verification sweep (contents, content maps and every guide-only teaching section in full; answer keys not re-verified page by page).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pronunciation reading-aloud: “Read aloud the following words. Pay attention to their pronunciation” | Rwanda, P5 Learner's Book, printed p.30 |
+| A tongue twister in the transport unit, read fast | Rwanda, P5 Learner's Book, printed pp.118–121 |
+| Assessment rubrics throughout the companion guide require learners to “recognise and pronounce [words]… stress correctly… clearly articulate… rhythm and stress” — the guide's standard, cited as teacher evidence | Rwanda, Teacher's Guide 3 (teacher evidence), TG passim (e.g. PDF pp.51, 114, 189) |
+| Tongue twisters used to teach sounds, rhythm and stress (Unit 1 close, on the Learner's Book p.19) — cited as teacher evidence | Rwanda, P4 Teacher's Guide (teacher evidence), TG PDF p.64 |
+| Assessment rubrics in every unit repeat “key sounds, stress and rhythm… stress correctly” as the pronunciation standard — cited as teacher evidence | Rwanda, Teacher's Guide 6 (teacher evidence), TG passim (e.g. PDF pp.27–28) |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

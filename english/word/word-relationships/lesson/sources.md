@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda
 
 Every part traces to its book and page.
 
@@ -176,8 +176,7 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 13 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 14 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -208,3 +207,14 @@ Mauritania re-verification sweep merge). Mexico works word relationships as iden
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It closes with a "Pair of Words" chapter of confusable pairs (printed p.175). *English 6* names homographs in its festival unit (Unit 2, printed p.14), and *English 12* works word patterns, figurative language and nuances of meaning in Unit 4 (printed p.30) and antonyms and synonyms in Unit 12 (printed p.95). English 6 and English 12 are filed in english/books/pakistan.md and were re-read in the same sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Defining: an information text on mammals — carnivores and herbivores defined; dictionary-or-text definitions of mammal, vertebrate, warm-blooded, glands, environment, marsupials, monotremes | Rwanda, P5 Learner's Book, printed pp.38–39 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

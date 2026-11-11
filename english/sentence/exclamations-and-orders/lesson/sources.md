@@ -197,3 +197,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Device instructions — press the button, turn on, click on the mouse (imperatives for using devices) | Palestine, Grade 5 Blended Learning Module 4, Unit 2, printed pp.6–8 |
 
 The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving and following instructions — the classroom imperatives of §1.7 | Rwanda, Primary 2 Learner's Book, printed p.9 |
+| Following instructions: instruction verbs in class actions, and writing ten classroom sentences | Rwanda, P5 Learner's Book, printed pp.26–30 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

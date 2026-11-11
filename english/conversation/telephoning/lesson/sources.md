@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -66,8 +66,7 @@ PASSED 2026-11-04).
 | “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 | Telephoning: telephone greetings and the steps to make a call | Pakistan, *English 8*, printed pp.118–119 |
 
-**Acceptance count: taught in 9 countries (Greece,
-Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine).** Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
+**Acceptance count: taught in 10 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda).** Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -103,3 +102,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Noting details on the telephone, then writing an email from the notes (the email-writing half is also stocked in postcards-and-personal-letters) | Palestine, Grade 10 Part 1, Unit 1, printed pp.13–15 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telephoning: a phone conversation with an aunt — greetings and closing | Rwanda, Pupil's Book 3, printed p.63 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

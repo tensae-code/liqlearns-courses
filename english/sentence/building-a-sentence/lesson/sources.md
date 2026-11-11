@@ -408,3 +408,14 @@ READING-QUEUE.md).
 **Book 7:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Declarative sentences named: a friend answers with “a declarative sentence” | Rwanda, Pupil's Book 6, printed p.96 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

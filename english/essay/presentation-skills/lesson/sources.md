@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda
 
 Every part traces to its book and page.
 
@@ -114,8 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 9 countries (Syria,
-Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 10 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda).** Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -127,3 +126,14 @@ Grade 9 (stocked 2026-11-08 by the re-verification
 sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Working in groups: a passage on group work, and a group rules chart (get along, respect others, on task, quiet voices, participate) | Rwanda, P5 Learner's Book, printed pp.35–37 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

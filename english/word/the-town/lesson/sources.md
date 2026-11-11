@@ -372,3 +372,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Town places — mosque, church, shop, school, park, playground, house | Palestine, Grade 2 Part 1, Unit 8, printed pp.46–51 |
 
 The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing the map of Rwanda: provinces, neighbours, borders | Rwanda, P5 Learner's Book, printed pp.77–78 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

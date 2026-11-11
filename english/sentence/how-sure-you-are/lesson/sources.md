@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -140,8 +140,7 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 14 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 15 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -187,3 +186,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Modal verbs for present and future — may, might, can, can't, must, shall: possibility, ability, necessity; suggesting, requesting, offering | Palestine, Grade 10 Part 1, Unit 3, printed pp.35, 41 |
 | Modal verbs of probability and possibility | Palestine, Grade 12, Unit 4, printed pp.42–43 |
 | Modal verbs with infinitives for present meanings | Palestine, Grade 12, Unit 11, printed p.118 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Must / mustn't for duty and rules: a rights dialogue (“we must receive good education… I must respect other people's opinions”), school rules (“You must respect all school property”), and a climate poster task about must and mustn't | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.83–87, 120–122 |
+| The modal verbs grammar point: could, should, must, shouldn't, may, might, wouldn't, mustn't — ability, obligation, possibility | Rwanda, Pupil's Book 6, printed p.58 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

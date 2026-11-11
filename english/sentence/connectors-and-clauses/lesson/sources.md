@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -162,8 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 13 countries (Bolivia,
-Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine).** North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 14 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -209,3 +208,15 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Time phrases and pronouns for cohesion in a story | Palestine, Grade 12, Unit 3, printed pp.30–33 |
 | Linking words and phrases | Palestine, Grade 12, Unit 11, printed pp.116–119 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The because-clauses grammar point: giving a reason the listener does not know | Rwanda, Pupil's Book 6, printed p.71 |
+| The connectors grammar point: first, secondly, thirdly, therefore, furthermore, more so, however, another reason, for example | Rwanda, Pupil's Book 6, printed p.86 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

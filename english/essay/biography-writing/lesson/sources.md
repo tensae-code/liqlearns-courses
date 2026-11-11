@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -213,8 +213,7 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 13 countries (Egypt,
-Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine).** Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 14 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -241,3 +240,15 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Word set 1 (abroad, dream, give up, graduate …) with a Marie Curie life-story reading and listening | Palestine, Grade 10 Part 1, Unit 6, printed pp.74–76 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telling your life story: Ishimwe's timeline, events in order | Rwanda, P5 Learner's Book, printed pp.7–8 |
+| Recounting past experiences: making your own timeline, and an acrostic of events from a name | Rwanda, P5 Learner's Book, printed pp.9–10 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

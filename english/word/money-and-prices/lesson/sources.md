@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda
 
 Every part traces to its book and page.
 
@@ -78,8 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 8 countries (Cambodia,
-Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 9 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda).** Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -111,3 +110,14 @@ Mauritania re-verification sweep merge).
 **Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The cost of clothes: prices in francs, cheap and expensive compared | Rwanda, Pupil's Book 3, printed pp.96–98 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

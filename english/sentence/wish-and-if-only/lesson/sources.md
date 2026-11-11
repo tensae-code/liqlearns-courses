@@ -1,6 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -61,8 +61,7 @@ covers the 6th Year book only).
 | Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
 | Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine).** Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 10 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda).** Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -86,3 +85,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Past wishes and regrets | Palestine, Grade 12, Unit 9, printed pp.92–93 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing future hopes: what pupils would like to do and be | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.9–10 |
+| Making future plans: tourist destinations, in would like sentences | Rwanda, Pupil's Book 6, printed pp.22–26 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

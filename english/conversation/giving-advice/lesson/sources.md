@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda
 
 Every part traces to its book and page.
 
@@ -152,8 +152,7 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 15 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+**Acceptance count: taught in 16 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda).** Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -197,3 +196,15 @@ verification sweep merge). Mexico advises at community scale: individual goals t
 **Book 4:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The should grammar point: should / shouldn't for advice (plant more trees…) | Rwanda, Pupil's Book 6, printed p.106 |
+| The need to grammar point: need to / needn't for polite telling | Rwanda, Pupil's Book 6, printed p.107 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

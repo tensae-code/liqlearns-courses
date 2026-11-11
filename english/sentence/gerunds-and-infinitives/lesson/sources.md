@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -169,8 +169,7 @@ verification sweep.
 | Gerunds, infinitives and participles in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 | Gerunds and participles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 16 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 17 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -213,3 +212,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Infinitives and -ing forms | Palestine, Grade 12, Unit 2, printed pp.18–20 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leisure and sports: talking about what you like doing, with the like + -ing grammar point (“I like singing”) | Rwanda, Pupil's Book 6, printed pp.1–6 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

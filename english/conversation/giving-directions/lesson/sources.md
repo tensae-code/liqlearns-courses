@@ -200,3 +200,14 @@ merge).
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Nursery* teaches the position words in and out (printed p.134); *English 2* follows traffic rules in Unit 5 and *English 3* works road safety and making queues in its own Unit 5. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Equator and the Prime Meridian, with position words: below, above, northern, southern, in, on, between, eastern, western | Rwanda, P5 Learner's Book, printed pp.167–169 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

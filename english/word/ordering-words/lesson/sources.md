@@ -35,7 +35,7 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | HOW TO LOOK AT AN INDEX — a real subject index (Living World History) reproduced and questions answered from it; Amartya Sen's index and French's *Index* shown as second examples | India — Beehive, Class 9, Unit 9 ("The Bond of Love"), Thinking about Language, as filed in english/books/india.md |
 | Using Reference Materials: dictionary/thesaurus look-up tasks worked through an adapted Aladdin story | Rwanda — P.5 Learner's Book, Unit 2, topic at printed p.43, tasks at printed p.45 |
 | Using Tables of Contents and Indexes: how a table of contents and an index work, practised on specimen examples whose page numbers are not this book's | Rwanda — P.5 Learner's Book, Unit 3, topic at printed p.69, specimens at printed pp.69–71 |
-| Dictionary pronunciation/transcription tasks: IPA transcriptions given for the professions/job words; dictionary transcription work recurs (and in Test 2.2) | Rwanda — P.5 Learner's Book, Unit 1, printed pp.18–19; also printed p.33, p.86 and Test 2.2, printed p.50, as filed in english/books/rwanda.md |
+| Dictionary tasks on sounds and meanings: “Use a dictionary to find the sounds and meanings…” set for the professions/job words (Activity 1.8.7) — the Learner's Book prints NO transcriptions for them; its only two printed transcription examples are repeat as /ri'pi:t/ (apostrophe stress mark) and influence as /'Influəns/ (a book error — capital I for ɪ — taught corrected). The full IPA pronunciation guide stands in the companion P.5 Teacher's Guide, printed pp.10–11, and is cited in using-the-dictionary | Rwanda — P.5 Learner's Book, Unit 1, printed p.19 (the task); printed p.33 and p.86 (the two printed examples), as re-read in the 2026-11-08 re-verification sweep (attribution corrected 2026-11-11 by the Rwanda sweep merge — the Learner's Book was wrongly credited with the guide's IPA material) |
 | NOT cited: the P.5 Teacher's Guide's answer keys — the filing records errors in that guide's keys, so this lesson stands on the Learner's Book alone | Rwanda — P.5 filing, english/books/rwanda.md (standing flag honoured) |
 | Alphabetical order | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.6–7 |
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
@@ -49,8 +49,10 @@ workplaces: a real dictionary page taken apart skill by
 skill in Class 6, and the index taught by name, from a
 real index, in Class 9. Rwanda stocks the finding
 skills as a study unit — reference materials (Unit 2),
-contents and indexes (Unit 3) — with the dictionary's
-transcriptions as part of its tasks. This lesson is
+contents and indexes (Unit 3) — with dictionary
+sound-and-meaning tasks in its units (the IPA
+transcription guide itself is the companion Teacher's
+Guide's, not the Learner's Book's). This lesson is
 the deep drill beside Using the dictionary: that lesson
 teaches the finding machine; this one walks the order
 to the fourth letter and beyond, and takes the entry
@@ -80,3 +82,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Picture dictionary — the book's words collected in a–z sections | Palestine, Grade 1 Part 1, printed pp.58–61 |
 | Picture dictionary — the book's words collected in a–z sections | Palestine, Grade 1 Part 2, printed pp.58–61 |
 | Picture dictionary — a–z sections, including in/on/under | Palestine, Grade 2 Part 1, printed pp.58–61 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Teacher's Guide 3* (teacher's guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019. TEACHER EVIDENCE — the companion to Pupil's Book 3, cited only for what the guide itself teaches. Filed in english/books/rwanda.md; read in the 2026-11-08 re-verification sweep (contents, content maps and every guide-only teaching section in full; answer keys not re-verified page by page).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dictionary skills as a named, repeated lesson strand in the companion guide: its scheme-of-work tables list “dictionary skills” as a lesson type again and again, and its guidance teaches “the way words in a dictionary [are ordered]”, to use a children's not an advanced dictionary, and to fall back on the Pupil's Book glossary when no dictionary exists — cited as teacher evidence | Rwanda, Teacher's Guide 3 (teacher evidence), TG PDF pp.7–12, 35, 50–51 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -115,8 +115,7 @@ verification sweep.
 | Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
 | The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda).** Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -129,3 +128,14 @@ kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an arg
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep carries a whole writing system — summary, essay, dialogue, paragraph, email writing, character sketch, descriptive writing, the contrast essay and personal narrative. *English 12* builds arguments with valid reasoning and evidence in Unit 7 (printed p.49 area) and sets the argumentative paragraph in Unit 12 (printed p.92); it is filed in english/books/pakistan.md and was re-read page by page in the same sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Teacher's Guide for Rwandan Primary Schools, P5* (teacher's guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019. TEACHER EVIDENCE — the companion to the P5 Learner's Book, cited only for what the guide itself teaches. Filed in english/books/rwanda.md; read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Steps in the Writing Process printed in the companion guide (A. Pre-writing: brainstorm, research, gather and outline…), supporting the Pupil's Book's writing topic — cited as teacher evidence | Rwanda, P5 Teacher's Guide (teacher evidence), TG PDF p.59 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

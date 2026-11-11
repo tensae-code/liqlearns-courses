@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda
 
 Every part traces to its book and page.
 
@@ -74,8 +74,7 @@ verification sweep.
 | Colours and shapes as a named strand of the book's Language Focus | Pakistan, *English 1*, contents Language Focus column |
 | Colours and shapes as a named strand of the book's contents | Pakistan, *English 2*, contents |
 
-**Acceptance count: taught in 10 countries (Palestine, Bolivia,
-Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan).** North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 11 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda).** Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -100,3 +99,17 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 1* and *English 2* both carry colours and shapes as a named strand of their contents' language focus. Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colour names, including the rainbow set (indigo, violet), asked with “What colour is this pen?” | Rwanda, Primary 1 Pupil's Book (Success English for Rwandan Schools), printed pp.10–12 |
+| Describing the colours of clothes | Rwanda, Pupil's Book 3, printed pp.91–92 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

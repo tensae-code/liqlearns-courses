@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -80,8 +80,7 @@ verification sweep.
 | Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
 | Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 9 countries (Bolivia, Cambodia,
-Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine).** North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 10 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda).** Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -124,3 +123,19 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Clothes words — t-shirt, shoes, shorts, jeans, dress, skirt (the set itself; describing clothes with colours was already stocked from this unit in colours) | Palestine, Grade 1 Part 2, Unit 13, printed pp.22–27 |
 
 The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Clothes words, with “What is he/she wearing? He is wearing a yellow shirt” — the present continuous for wearing | Rwanda, Primary 1 Pupil's Book (Success English for Rwandan Schools), printed pp.24–27 |
+| Naming clothes, with this is / these are | Rwanda, Pupil's Book 3, printed pp.88–90 |
+| Talking about what people are wearing (present continuous) | Rwanda, Pupil's Book 3, printed p.93 |
+| Matching clothes with the weather | Rwanda, Pupil's Book 3, printed pp.94–95 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

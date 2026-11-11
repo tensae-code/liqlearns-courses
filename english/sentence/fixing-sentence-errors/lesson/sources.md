@@ -1,6 +1,6 @@
 # Sources — Fixing sentence errors
 
-countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine
+countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -62,8 +62,7 @@ Education. Filed in english/books/sierra-leone.md
 | Editing and proofreading, and final-draft writing and critiquing, as the unit's writing work | Pakistan, *English 12*, Unit 2, printed pp.14–16 |
 | Spot the error as the unit's grammar work | Pakistan, *English 12*, Unit 8, printed p.60 |
 
-**Acceptance count: taught in 7 countries (Ethiopia,
-Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine).** Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
+**Acceptance count: taught in 8 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
 five-error clinic: Grade 11 names fragments, run-ons
 and comma splices together, and Grade 12 builds its
 writing strand on them, adding dangling modifiers and
@@ -86,3 +85,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Reading and correcting an informal letter (spelling and punctuation mistakes) | Palestine, Grade 12, Unit 5, printed p.57 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Planning and evaluating writing: a draft set against its final copy (“War at Home”) — finding the 8 spelling mistakes and the grammatical mistakes corrected between them, with transition words added | Rwanda, P5 Learner's Book, printed pp.45–48 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

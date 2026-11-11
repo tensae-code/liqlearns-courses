@@ -169,3 +169,14 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep; the earlier North Macedonia sections in this file covered only the Pupil's Book. North Macedonia was already counted in this lesson, so the acceptance count does not change. The Teacher's Book rows are teacher evidence: the secured Pupil's Book copy holds printed pp.3–11 only, and the Teacher's Book reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Teacher's Book's own Programme overview (pp.IX–X) lists Module 1's craftwork as "make a headband" — a copy error in the book; the lesson itself (pupil printed p.5) is "Make a heart", and the rows follow the lesson. Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Nursery* names the family — grandfather, grandmother, father, mother, brother, sister (printed p.4) — and *English 3* works The People I Love, family and home together (Unit 3). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words: father, mother and the family members at home and school | Rwanda, Primary 1 Pupil's Book (Success English for Rwandan Schools), printed p.15 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

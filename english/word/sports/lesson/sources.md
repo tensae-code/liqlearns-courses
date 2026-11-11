@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -138,8 +138,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 13 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 14 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -182,3 +181,23 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Activities table — camping, flower arranging, photography, rugby, tennis, white-water rafting | Palestine, Grade 10 Part 1, Unit 3, printed p.39 |
 | Sport words and football phrases — amateur, criteria, judge, objective, promising, reserve, rule out … | Palestine, Grade 12, Unit 9, printed pp.88–97 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sports words: naming and talking about sports | Rwanda, Primary 2 Learner's Book, printed pp.12–13 |
+| Famous Rwandan sportspeople — named athletes and their sports | Rwanda, Primary 2 Learner's Book, printed p.15 |
+| A listening text: balls for different sports, described by size, shape and colour | Rwanda, Primary 2 Learner's Book, printed p.16 |
+| The national team (Amavubi): a reading, with listening answers | Rwanda, Primary 2 Learner's Book, printed p.19 |
+| Hobbies: describing my hobbies — like doing (playing, reading, swimming…) | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.21–22 |
+| Famous entertainers and sportspeople, with a text on Muhammad Ali and the 1974 Kinshasa “Rumble in the Jungle” (facts only) | Rwanda, Pupil's Book 6, printed pp.16–20 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

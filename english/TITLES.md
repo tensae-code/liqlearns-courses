@@ -133,7 +133,16 @@ its own subtitle folder with its own lesson + questions):
   for the World**) ·
   culture-and-living-abroad-words (added 2026-11-11 by
   the Palestine re-verification sweep merge — **Unit 7,
-  Words for the World**)
+  Words for the World**) ·
+  world-landmarks (added 2026-11-11 by the Rwanda
+  re-verification sweep merge — **Unit 7, Words for the
+  World**) ·
+  continents-and-capitals (added 2026-11-11 by the Rwanda
+  re-verification sweep merge — **Unit 7, Words for the
+  World**) ·
+  the-solar-system (added 2026-11-11 by the Rwanda
+  re-verification sweep merge — **Unit 7, Words for the
+  World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)

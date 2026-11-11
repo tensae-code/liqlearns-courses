@@ -128,3 +128,17 @@ books are read (see READING-QUEUE.md). Mexico's science-in-English projects were
 **Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School people: head teacher, teacher, my school | Rwanda, Primary 1 Pupil's Book (Success English for Rwandan Schools), printed pp.17–18 |
+| Talking about school and school subjects, and a favourite subject | Rwanda, Primary 2 Learner's Book, printed pp.5–6 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

@@ -218,3 +218,12 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Nursery* teaches the hot/cold adjective pair with pictured things (printed p.11), and *English 12* sets descriptive composition as its Devoted Friend unit's writing work (printed pp.50–61). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+| Lesson part | Where it comes from |
+|---|---|
+| A friendship dialogue: best friend, the first person who helped me | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.31 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

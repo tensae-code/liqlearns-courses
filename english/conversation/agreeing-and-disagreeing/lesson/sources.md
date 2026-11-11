@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda
 
 Every part traces to its book and page.
 
@@ -95,8 +95,7 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 8 countries (Cambodia,
-Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua).** Mongolia
+**Acceptance count: taught in 9 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda).** Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -120,3 +119,18 @@ the Grade 9 forms, the Grade 10 polite/informal set, and Grade
 **Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agreeing inside a quiz dialogue (Cyusa against Shania): “Yes, we agree” | Rwanda, P5 Learner's Book, printed pp.31–33 |
+| A class debate: “Women should not enjoy the same leisure activities as men” | Rwanda, Pupil's Book 6, printed p.21 |
+| A debate: “Mothers care for us more than our fathers”, with peace starting from the family | Rwanda, Pupil's Book 6, printed p.73 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

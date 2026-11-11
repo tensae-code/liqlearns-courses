@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -276,7 +276,7 @@ ow/ou split) and the China Grade 4 row (the r-controlled
 ladder er · ir/ur/er · ar · or). The cover test moved from
 Sub lesson 3 to Sub lesson 5; no existing row changed.
 
-**Acceptance count: taught in 29 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia).** North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 30 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda).** Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -759,3 +759,20 @@ thing and live in phonics/blends.)
 ## North Macedonia added 2026-11-11 (re-verification sweep merge)
 
 **Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The three Sound spot rows are teacher evidence: they rest on this book's reproduced pupil pages and notes for Modules 3, 6 and 8 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — those pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Primary Learner's English Teachers' Guide for Rwandan Schools, P4* (teacher's guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019. TEACHER EVIDENCE — the companion to the P4 Learner's Book, cited only for what the guide itself teaches. Filed in english/books/rwanda.md; read in the 2026-11-08 re-verification sweep (contents, content maps and every guide-only teaching section in full; answer keys not re-verified page by page).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound spotting in a “Working with sounds” box: words with the i sound — iron, tidy, wipe, like, milk, dish | Rwanda, Primary 2 Learner's Book, printed p.54 |
+| Sounds-and-spelling poems (the “Junction” poem and a routine poem) carrying place and date sentences | Rwanda, Pupil's Book 3, printed pp.20–21, 53 |
+| A transport-topic objective naming “a quick revision of vowel sounds and the phonetic rules regarding their usage” — an objective statement only: no phonetic table, rules list or IPA symbols are printed in this guide (searched whole file) | Rwanda, P4 Teacher's Guide (teacher evidence), TG PDF p.94 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

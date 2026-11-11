@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda
 
 Every part traces to its book and page.
 
@@ -73,8 +73,7 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 7 countries (Albania, Cambodia,
-Mongolia, Syria, Iran, Mauritania, Greece).** Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 8 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda).** Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -91,3 +90,17 @@ it — so it is not cited here.
 Mauritania makes suggestions with the full Grade 8 form set —
 let's, why don't we, shall we, how about, we could (stocked
 2026-11-09 by the Mauritania re-verification sweep merge).
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making suggestions with let's, with more and fewer | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.122 |
+| The making-suggestions grammar point: “Shall we…?”, and may for suggestions | Rwanda, Pupil's Book 6, printed p.37 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

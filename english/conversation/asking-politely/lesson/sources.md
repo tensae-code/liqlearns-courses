@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -89,8 +89,7 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 11 countries (Cambodia,
-Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 12 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -137,3 +136,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Asking permission — "Can I use it? Can I borrow your bike, please? Can I try your mobile phone?" | Palestine, Grade 5 Blended Learning Module 4, Unit 2, printed pp.6, 8 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking permission politely: “May I please come in? — Yes, you may” | Rwanda, Primary 2 Learner's Book, printed p.10 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

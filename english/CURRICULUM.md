@@ -195,6 +195,17 @@ about the other person, and close the talk.*
   culture-and-living-abroad-words ✅ (1 lesson — the living-
   abroad words of Palestine's Grade 12, Unit 11, which no
   lesson housed)
+- **Sweep addition (2026-11-11, Rwanda re-verification
+  sweep merge):** world-landmarks ✅ (1 lesson — the famous
+  structures, Big Ben, St Basil's, Christ the Redeemer, the
+  Burj Khalifa, the Giza Pyramids and the Great Wall, of
+  Rwanda's Primary 4 book, which no lesson housed) ·
+  continents-and-capitals ✅ (1 lesson — the continents,
+  countries and capitals of Rwanda's Primary 5 book and the
+  Primary 4 "About the World" text, which no lesson housed)
+  · the-solar-system ✅ (1 lesson — the universe, the
+  planets and the dwarf planets of Rwanda's Pupil's Book 6,
+  which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -967,6 +978,24 @@ cited once, under the main books. **5 NEW LESSONS**:
 Unit 3's short forms and possessive forms). **Palestine: 8 of
 8 read.** The English course now stands at **216 lessons
 across 44 units**.
+
+**Rwanda re-verification sweep merge (2026-11-11):** all 11
+of Rwanda's held English books were re-read page by page by
+the 2026-11-08 sweep (347 fresh items placed; 244 already in
+the course). The 103 missing items are now stocked: 96 items
+into 42 existing lessons (Rwanda new to 33 of them; dictionary
+tasks stocked in using-the-dictionary and ordering-words —
+the books' own glossaries excluded under the standing
+glossary decision) and 6 items into **3 NEW LESSONS**:
+**world-landmarks** (Unit 7 — the Primary 4 book's famous
+structures), **continents-and-capitals** (Unit 7 — the
+Primary 5 world geography and the Primary 4 "About the
+World" text), **the-solar-system** (Unit 7 — Pupil's Book
+6's planets and dwarf planets). Two wrong-book citations
+were fixed: the P5 Teacher's Guide's IPA guide is no longer
+credited to the P5 Learner's Book in using-the-dictionary or
+ordering-words. **Rwanda: 11 of 11 re-read.** The English
+course now stands at **219 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

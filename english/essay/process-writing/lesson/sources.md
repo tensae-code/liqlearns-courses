@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda
 
 Every part traces to its book and page.
 
@@ -93,7 +93,7 @@ verification sweep.
 | Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
 | A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 11 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda).** Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -102,3 +102,14 @@ verification sweep.
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 3* writes instructions among its writing kinds; *English 5* reads the Invention of Glass as a process text (Unit 8, printed p.49); and *English 8* sets a recipe among its writing kinds. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Planning a trip: pictures and questions, and a birthday story listened to | Rwanda, P5 Learner's Book, printed pp.14–15 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

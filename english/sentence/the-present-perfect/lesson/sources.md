@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -311,8 +311,7 @@ verification sweep.
 | Past simple vs present perfect | Mongolia, English XII, Unit 6, printed pp.110–111 |
 
 
-**Acceptance count: taught in 31 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine).** India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 32 countries (Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda).** Rwanda joins with the Primary 4 present perfect, in transport sentences and named for experiences (stocked 2026-11-11 by the re-verification sweep merge). India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -413,3 +412,15 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Present perfect — just, so far, still, already | Palestine, Grade 10 Part 1, Unit 2, printed pp.21, 26–27 |
 | Past simple or present perfect — choosing between them | Palestine, Grade 10 Part 1, Unit 2, printed p.26 |
 | Present simple / perfect and present continuous — the review system, with a university-life reading | Palestine, Grade 12, Unit 1, printed pp.4–10 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The present perfect in transport sentences: “The tourists have walked from Kigali to Butare… for two days” | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.45 |
+| The present perfect for experiences, named as the tense in use — “I have climbed the Eiffel Tower. I climbed it when I went…” — the perfect set against the past | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.107 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

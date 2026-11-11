@@ -517,3 +517,15 @@ Palestine was already counted in this lesson from its Grade 1 books. The 2026-11
 | Numbers 14–16 | Palestine, Grade 2 Part 1, Unit 3, printed pp.16–21 |
 | Numbers 17–20 | Palestine, Grade 2 Part 1, Unit 4, printed pp.22–27 |
 | Reading telephone numbers aloud — long 02- number strings, digit by digit | Palestine, Grade 2 Part 1, Unit 7, printed p.41 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Graphs: the horizontal X axis, and interpreting a travel-to-school time graph, from survey data | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.17–18 |
+| Graph work on animals pupils have seen: vertical and horizontal axes, collecting class data | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.79–80 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

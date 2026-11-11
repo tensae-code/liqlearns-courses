@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -199,8 +199,7 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 15 countries (Albania, Mexico,
-Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine).** North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 16 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda).** Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -257,3 +256,32 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Garden things — bee, butterfly, bird, flower, tree | Palestine, Grade 2 Part 1, Unit 3, printed pp.16–21 |
 | Geography words — beach, lake, valley, landform word puzzles | Palestine, Grade 10 Part 1, Unit 2, printed p.25 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nature words: river, mountain, valley, hill, lake, sea, stream — where people live | Rwanda, Pupil's Book 3, printed pp.104–107 |
+| Rivers of the world (Nile, Mississippi, Amazon, Yangtze), with river comparisons — longer, shortest | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.109–110 |
+| Climate change: describing it, its causes (cutting trees, burning…) and its effects (droughts, stronger winds, changing rain) | Rwanda, P4 Learner's Book (Primary Learner's English), printed pp.117–120 |
+| Protecting the environment: reuse and recycle, store rain water, must reduce rubbish | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.121 |
+| Not-allowed sentences for protecting the environment | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.123 |
+| Describing the map of Western Province: geographical features and a sketch map (Mt Karisimbi, Volcanoes National Park, Lake Kivu) | Rwanda, P5 Learner's Book, printed pp.79–81 |
+| Describing physical features on a map, and the uses of physical features (hydropower, transport, tourism, rain, habitats) | Rwanda, P5 Learner's Book, printed pp.82–86 |
+| Describing wildlife in Rwanda | Rwanda, P5 Learner's Book, printed pp.87–88 |
+| Kinds of country: mountainous, forested, lowlands (the Netherlands, dykes), islands (Jamaica, Madagascar, Britain), snowy, desert | Rwanda, P5 Learner's Book, printed pp.170–172 |
+| A tourist-guide text: Volcanoes National Park — location, flora and fauna, activities | Rwanda, P5 Learner's Book, printed pp.173–178 |
+| The environment: what makes it up; a farmer dialogue (a crop drying up) | Rwanda, Pupil's Book 6, printed pp.98–99 |
+| Locating key resources in Rwanda on a map | Rwanda, Pupil's Book 6, printed pp.100–101 |
+| Industry and water pollution: waste poured into the lake | Rwanda, Pupil's Book 6, printed pp.104–105 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

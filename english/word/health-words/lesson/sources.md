@@ -195,3 +195,15 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 3* gives health a unit of its own — personal cleanliness and hygiene (Unit 10). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Taking care of our body: what you use to wash, brush and clean (soap, water, toothbrush…) | Rwanda, Pupil's Book 3, printed pp.83–86 |
+| A reading: a boy with stomach ache goes to hospital; the doctor's questions | Rwanda, Pupil's Book 3, printed p.86 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

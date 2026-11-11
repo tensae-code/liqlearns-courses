@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -55,7 +55,7 @@ re-verification sweep.
 | A survey report printed whole: "Paucity of Textbooks in the Area of Allama Iqbal Town, Lahore" | Pakistan, *English 8*, printed p.122 |
 | Informative and explanatory texts as the unit's writing work | Pakistan, *English 12*, Unit 6, printed pp.38–44 (unit range) |
 
-**Acceptance count: taught in 11 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine).** Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -79,3 +79,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Writing: describing the climate of Palestine from a map | Palestine, Grade 10 Part 1, Unit 5, printed p.71 |
 | Planning and writing a report of a sporting event; writing a personal email | Palestine, Grade 12, Unit 9, printed pp.96–97 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Learner's Book for Rwandan Primary Schools, P.5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Researching an animal with dictionary, texts, magazines, newspapers and internet, and presenting the findings | Rwanda, P5 Learner's Book, printed p.39 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

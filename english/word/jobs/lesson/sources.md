@@ -224,3 +224,18 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Emergency word set 1 (cost, deal with, emergency, exhausted …) and real-life firefighter accounts | Palestine, Grade 10 Part 1, Unit 4, printed pp.46–48 |
 | Work words — employment, job security, make a living, prospects, outweigh, charity … | Palestine, Grade 12, Unit 7, printed pp.68–77 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Rwandan Primary Schools, Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jobs matched to pictures: carpenter, farmer, teacher, nurse, police officer, shopkeeper | Rwanda, Primary 2 Learner's Book, printed p.49 |
+| People and jobs in the community: job names, what people do, who-does-what questions | Rwanda, Pupil's Book 3, printed pp.22–31 |
+| Talking about future careers: “I want to be…”, what a friend wants to be, will be when I grow up | Rwanda, Pupil's Book 3, printed pp.32–35 |
+
+Rwanda was already counted in this lesson; the acceptance count does not change. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

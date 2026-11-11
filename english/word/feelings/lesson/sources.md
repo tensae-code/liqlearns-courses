@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda
 
 Every part traces to its book and page.
 
@@ -103,8 +103,7 @@ re-verification sweep.
 | Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
 | Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 10 countries (Albania, Bolivia,
-Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 11 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda).** Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -141,3 +140,14 @@ are read (see READING-QUEUE.md).
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Nursery* names feelings three times — a My Day routine page (printed p.7, the routine vocabulary's closest home), its Feelings page (printed p.33) and a Responsible Citizen values page (printed p.78). *English 1* expresses emotions in its Blessings of Allah unit and *English 2* works gratitude (Unit 4) and the good deed (Unit 9). All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English for Rwandan Primary Schools, Pupil's Book 6* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A feelings word-puzzle — “Find at least 6 words that are used to describe feelings” — in the family and personalities unit | Rwanda, Pupil's Book 6, printed p.69 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia, Mexico, Greece, Palestine
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia, Mexico, Greece, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -105,8 +105,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 9 countries (Barbados,
-Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine).** Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 10 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda).** Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -136,3 +135,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Word set 2 (along with, (house) arrest, attack, culture/cultural, cultivate, delighted, editor, except for …) with a Palestinian poem as the unit's text (stocked as the poem's place in the unit only — no poem text is carried into the course) | Palestine, Grade 10 Part 1, Unit 6, printed pp.78–80 |
+
+## Rwanda added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Primary Learner's English for Rwandan Schools, P4* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A climate-change poem/song text (charcoal burning, the ozone layer) | Rwanda, P4 Learner's Book (Primary Learner's English), printed p.58 |
+
+Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
