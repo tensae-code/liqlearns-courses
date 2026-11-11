@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, El Salvador
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, El Salvador, Zambia
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -1070,3 +1070,20 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Literacy Teacher's Guide — Catch Up Programme (Grades 3–5)* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zambia, Ministry of Education with Pratham, ZESSTA, VVOB, TaRL Africa, UNICEF and USAID, 2023. 35 pp; 7,033,604 bytes, SHA-256 a34cdc66…; grabbed from its recorded VVOB source at exactly its recorded size. Pages cited are the book's printed folios. Language caveat (expansion flag F6): the guide is written in English but directs the teacher to teach in the learners' familiar (Zambian) language and translate all examples, and its sample assessment tool is printed in Cinyanja — its rows are early-literacy SKILLS evidence for Grades 3–5, not English-medium pupil content.
+
+**Book 11:** *English Language ECE Teaching Module for Intellectual Disabilities (ages 3–4), Term 3* (special education) (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia Educational Publishing House, first published 2024. 30 pp; 1,541,436 bytes, SHA-256 a9ebd575…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages. Record note (expansion flags F2/F3): recorded kind “student” under the bare title “English Language”; the file is a special-education teaching module.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Basket game and flipping-the-flash-card: recall and recognition of letter sounds and syllables (beginner/letter level) | Zambia — Literacy Teacher's Guide, Catch Up Programme (Grades 3–5) (Ministry of Education / VVOB, 2023) — teacher evidence (early-literacy skills; familiar-language delivery), printed p.16 |
+| Handwriting — Letters (0.1.1.8.1): moulding letters with clay, arranging letters in order, forming and reading simple words | Zambia — English Language ECE Teaching Module for Intellectual Disabilities, Term 3 (Zambia Educational Publishing House, 2024) — teacher evidence, PDF pp.16–19 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

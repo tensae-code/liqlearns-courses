@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Andorra
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Andorra, Zambia
 
 Every part traces to its book and page.
 
@@ -1054,3 +1054,17 @@ The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs �
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 9:** *Pre-Literacy in English Language Teaching Module, ECE Level 1 (ages 3–4), Term 2* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2025, ISBN 978-9982-01-594-0. 60 pp; 1,269,197 bytes, SHA-256 e12c9bc5…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages. Record note (expansion flag F2): recorded kind “student”; its own cover says TEACHING MODULE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Description (0.1.4): describing objects by colour, size and shape in sentences and short paragraphs | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, PDF pp.9–12 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

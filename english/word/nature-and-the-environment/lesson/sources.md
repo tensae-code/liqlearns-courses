@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia
 Every part traces to its book and page.
 
 **Book 1:** English A2 (Akelius) Teacher's Guide — Albania.
@@ -1206,3 +1206,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 4:** *Oral English Language Teaching Module, Grade 2 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2026. 53 pp; 1,259,933 bytes, SHA-256 085f13a4…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 2 (the book's own “Page N of 53”); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Community practices (2.1.4): discussing good practices and the environment (“What environment do you like? — I like the clean …, because …”) and demonstrating good practices in school (cleaning the classroom) | Zambia — Oral English Language Teaching Module, Grade 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, printed pp.43–46 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

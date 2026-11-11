@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Zambia
 
 Every part traces to its book and page.
 
@@ -1061,3 +1061,28 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 5:** *Literacy in English Language Teaching Module, Grade 2 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 78 pp; 1,151,721 bytes, SHA-256 c99d9326…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 5; pages cited are printed pages.
+
+**Book 6:** *English Language Teaching Module, Grade 4 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 91 pp; 1,176,892 bytes, SHA-256 7bc18f78…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page; pages cited are printed pages.
+
+**Book 10:** *English Language Level 1 Teaching Module for Intellectual Disabilities, Term 2* (special education) (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, ISBN 978-9982-01-695-5. 21 pp; 1,384,773 bytes, SHA-256 b70a0410…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages. Record note (expansion flags F2/F3): recorded kind “student” under the bare title “English Language”; the file is a special-education teaching module.
+
+**Book 12:** *Pre-Literacy in English Language Teaching Module, ECE Level 2 (ages 4–5), Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 116 pp; 1,061,829 bytes, SHA-256 7208b793…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nouns (2.17.1): identifying and using nouns in oral and written sentences; changing singular nouns to plural by adding 's' | Zambia — Literacy in English Language Teaching Module, Grade 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, printed pp.5–7 |
+| Types of nouns — collective nouns (4.4.2, Unit 10): group, team, herd; “a school of fish”, “a troop of monkeys”, “stung by a group of bees” | Zambia — English Language Teaching Module, Grade 4 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, pp.21–23 |
+| Sample lesson plan — countable nouns (4.4.2.3): identifying and writing countable nouns in a text | Zambia — English Language Teaching Module, Grade 4 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, pp.85–88 |
+| Singular nouns (1.8.1): nouns as naming words; identifying single things and using singular nouns in simple sentences | Zambia — English Language Level 1 Teaching Module for Intellectual Disabilities, Term 2 (Curriculum Development Centre) — teacher evidence, PDF pp.17–18 |
+| Plural nouns (1.8.2): more than one; adding or removing “s” | Zambia — English Language Level 1 Teaching Module for Intellectual Disabilities, Term 2 (Curriculum Development Centre) — teacher evidence, PDF pp.19–20 |
+| Singular and plural (0.2.3): one and many — “This is one book / These are many books”, “What is this? — It is a book”, adding –s and –es for regular plurals | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, PDF pp.40–48 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

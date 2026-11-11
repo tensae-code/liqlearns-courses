@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Singapore
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Singapore, Zambia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -666,3 +666,23 @@ The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs
 Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Literacy Teacher's Guide — Catch Up Programme (Grades 3–5)* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zambia, Ministry of Education with Pratham, ZESSTA, VVOB, TaRL Africa, UNICEF and USAID, 2023. 35 pp; 7,033,604 bytes, SHA-256 a34cdc66…; grabbed from its recorded VVOB source at exactly its recorded size. Pages cited are the book's printed folios. Language caveat (expansion flag F6): the guide is written in English but directs the teacher to teach in the learners' familiar (Zambian) language and translate all examples, and its sample assessment tool is printed in Cinyanja — its rows are early-literacy SKILLS evidence for Grades 3–5, not English-medium pupil content.
+
+**Book 9:** *Pre-Literacy in English Language Teaching Module, ECE Level 1 (ages 3–4), Term 2* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2025, ISBN 978-9982-01-594-0. 60 pp; 1,269,197 bytes, SHA-256 e12c9bc5…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages. Record note (expansion flag F2): recorded kind “student”; its own cover says TEACHING MODULE.
+
+**Book 12:** *Pre-Literacy in English Language Teaching Module, ECE Level 2 (ages 4–5), Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 116 pp; 1,061,829 bytes, SHA-256 7208b793…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rhyming words to practise vowels: completing rhyming words by changing the first letter (the T Toro → J Joro pattern) | Zambia — Literacy Teacher's Guide, Catch Up Programme (Grades 3–5) (Ministry of Education / VVOB, 2023) — teacher evidence (early-literacy skills; familiar-language delivery), printed p.17 |
+| Rhymes (0.1.5): listening to and reciting simple rhymes; matching rhyming picture words (dog–log, cat–hat) | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, PDF pp.18–22 |
+| Rhyming (0.2.8.7): hearing and making rhyming words (cat–hat, sun–run, book–look) | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, PDF pp.77–80 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

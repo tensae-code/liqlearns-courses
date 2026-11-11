@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -229,3 +229,20 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 4:** *Oral English Language Teaching Module, Grade 2 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2026. 53 pp; 1,259,933 bytes, SHA-256 085f13a4…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 2 (the book's own “Page N of 53”); pages cited are printed pages.
+
+**Book 8:** *Pre-Literacy in English Teaching Module, ECE Level 1 (ages 3–4), Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Republic of Zambia, Ministry of Education. 56 pp; 1,435,467 bytes, SHA-256 48947888…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages (the module's folios are inconsistent in the text layer).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Songs: singing simple songs (the national anthem's first stanza; “If you are happy and you know it”; “Head and shoulders, knees and toes” for body parts — the body-parts part is also stocked in the-body) and answering oral questions on the songs | Zambia — Oral English Language Teaching Module, Grade 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, printed pp.34–36 |
+| Songs (0.1.7): singing simple songs with actions; the days-of-the-week song; songs with repetitive words (“This is the way we wash our hands…”); story songs; singing while playing musical instruments | Zambia — Pre-Literacy in English Teaching Module, ECE Level 1 Term 3 (Ministry of Education) — teacher evidence, PDF pp.8–12 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

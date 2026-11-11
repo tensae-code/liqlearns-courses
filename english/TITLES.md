@@ -68,7 +68,9 @@ its own subtitle folder with its own lesson + questions):
   South Africa re-verification sweep merge — **Unit 2, The
   Alphabet**) ·
   early-writing-stages (added 2026-11-11 by the Singapore
-  expansion merge — **Unit 2, The Alphabet**)
+  expansion merge — **Unit 2, The Alphabet**) ·
+  visual-discrimination · visual-memory (added 2026-11-11
+  by the Zambia expansion merge — **Unit 2, The Alphabet**)
 - Phonics → blending-sounds · two-letter-sounds · blends ·
   word-families ·
   rhymes · songs (added 2026-11-10 by the Ghana
@@ -81,6 +83,8 @@ its own subtitle folder with its own lesson + questions):
   Together**) ·
   phonetics (added 2026-11-11 by the Fiji expansion
   merge — **Unit 3, Sounds Together**) ·
+  tongue-twisters (added 2026-11-11 by the Zambia
+  expansion merge — **Unit 3, Sounds Together**) ·
   sight-words (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 4, First Words**)
 - Conversation → hello-and-your-name · how-are-you ·

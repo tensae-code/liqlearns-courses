@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Nigeria, Zimbabwe, Canada, Andorra
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Nigeria, Zimbabwe, Canada, Andorra, Zambia
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -538,3 +538,24 @@ The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs �
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 4:** *Oral English Language Teaching Module, Grade 2 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2026. 53 pp; 1,259,933 bytes, SHA-256 085f13a4…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 2 (the book's own “Page N of 53”); pages cited are printed pages.
+
+**Book 6:** *English Language Teaching Module, Grade 4 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 91 pp; 1,176,892 bytes, SHA-256 7bc18f78…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page; pages cited are printed pages.
+
+**Book 8:** *Pre-Literacy in English Teaching Module, ECE Level 1 (ages 3–4), Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Republic of Zambia, Ministry of Education. 56 pp; 1,435,467 bytes, SHA-256 48947888…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages (the module's folios are inconsistent in the text layer).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Drama — simple plays (2.3.1): performing the play “The Lost Shoe” (a teacher cannot find the shoe she is wearing — plot summary only) and answering oral questions on it | Zambia — Oral English Language Teaching Module, Grade 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, printed pp.10–13 |
+| Drama (4.1.7, Unit 12 Digital Literacy): what drama is; dialogue, character, plot, theme, setting; reading the story “Learning with Technology” (Musa, Nchimunya and Chanda work together with locked school tablets — plot summary only) and performing short scenes | Zambia — English Language Teaching Module, Grade 4 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, pp.40–44 |
+| Drama — analysing simple plays (4.1.7, Unit 13): the elements of a play through a short inclusion play — plot summary only: Buumba suggests Purity, who uses a wheelchair, should only watch; Aisha objects, Buumba apologises and Purity joins in drawing and giving ideas | Zambia — English Language Teaching Module, Grade 4 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, pp.63–66 |
+| Drama (0.1.8): dramatising simple plays and farm activities (“Old MacDonald”; acting out weeding and watering), retelling the play's story, roles, dialogue and expressions | Zambia — Pre-Literacy in English Teaching Module, ECE Level 1 Term 3 (Ministry of Education) — teacher evidence, PDF pp.13–16 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

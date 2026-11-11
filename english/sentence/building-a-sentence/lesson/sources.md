@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Suriname, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Suriname, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Zambia
 
 Every part traces to its book and page.
 
@@ -921,3 +921,17 @@ The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs
 Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Literacy Teacher's Guide — Catch Up Programme (Grades 3–5)* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zambia, Ministry of Education with Pratham, ZESSTA, VVOB, TaRL Africa, UNICEF and USAID, 2023. 35 pp; 7,033,604 bytes, SHA-256 a34cdc66…; grabbed from its recorded VVOB source at exactly its recorded size. Pages cited are the book's printed folios. Language caveat (expansion flag F6): the guide is written in English but directs the teacher to teach in the learners' familiar (Zambian) language and translate all examples, and its sample assessment tool is printed in Cinyanja — its rows are early-literacy SKILLS evidence for Grades 3–5, not English-medium pupil content.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word and sentence building with flashcards: groups build as many words as they can from sound/syllable cards, then make sentences from them | Zambia — Literacy Teacher's Guide, Catch Up Programme (Grades 3–5) (Ministry of Education / VVOB, 2023) — teacher evidence (early-literacy skills; familiar-language delivery), printed p.17 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

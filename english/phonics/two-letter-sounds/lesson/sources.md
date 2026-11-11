@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Zambia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -1281,3 +1281,36 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Literacy in English Language Teaching Module, Grade 1 Term 2* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2025. 88 pp; 15,940,417 bytes, SHA-256 2bde4adc…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 9; pages cited are printed pages. Record note (expansion flag F2): the records title this file “Literature in English Language” and kind it “student” — its own cover and PDF title say TEACHING MODULE; it is the Term 2 companion of Book 3. Book error E8 (printed p.54): the /or/ subtopic overview calls /or/ “a common consonant sound” and “a common vowel sound” two paragraphs later — taught corrected as a vowel sound (see the /or/ row).
+
+**Book 3:** *Literacy in English Teaching Module, Grade 1 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2025. 72 pp; 1,599,926 bytes, SHA-256 7991fcd9…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 6; pages cited are printed pages. Record note (expansion flag F2): recorded kind “student”; its own cover says TEACHING MODULE. Its introduction states the modules exist “in the absence of approved textbooks.”
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound /ai/: the long vowel digraph (rain, wait, snail, brain, main) | Zambia — Literacy in English Language Teaching Module, Grade 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.34–37 |
+| Sound /oa/: the long vowel digraph (boat; “The boat floats”) | Zambia — Literacy in English Language Teaching Module, Grade 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.42–45 |
+| Sound /ie/: the long vowel digraph | Zambia — Literacy in English Language Teaching Module, Grade 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.46–49 |
+| Sound /ee/: the long vowel digraph | Zambia — Literacy in English Language Teaching Module, Grade 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.50–53 |
+| Sound /or/: the vowel digraph (fork, torch, horn) — taught corrected as a vowel sound (the book's overview contradicts itself on this, E8) | Zambia — Literacy in English Language Teaching Module, Grade 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.54–57 |
+| Sound /ng/: the digraph (king, spring, bring, long, bang, wing; “The bell is ringing”) | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.2–5 |
+| Short sound /oo/: the digraph in stood, wood, took, look, book | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.6–9 |
+| Long sound /oo/: the digraph in moon, doom, boom, food | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.10–12 |
+| Sound /ch/: the digraph (chips, church, bench, orchard) | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.22–25 |
+| Sound /sh/: the digraph (ship, dash, wish, brush; completing __eep, fi__, ca__, __op) | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.26–28 |
+| Sound /th/ (voiceless): the digraph | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.29–33 |
+| Sound /th/ (voiced): the digraph in that, this, them, then, the | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.34–36 |
+| Sound /qu/: the digraph | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.37–40 |
+| Sound /ou/: the digraph/diphthong | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.41–44 |
+| Sound /oi/: the digraph/diphthong | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.45–48 |
+| Sound /ue/: the digraph | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.49–52 |
+| Sound /er/: the digraph | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.53–56 |
+| Sound /ar/: the digraph | Zambia — Literacy in English Teaching Module, Grade 1 Term 3 (Curriculum Development Centre, 2025) — teacher evidence, printed pp.57–60 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

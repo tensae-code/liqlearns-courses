@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, El Salvador
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, El Salvador, Zambia
 
 Every part traces to its book and page.
 
@@ -621,3 +621,20 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 6:** *English Language Teaching Module, Grade 4 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 91 pp; 1,176,892 bytes, SHA-256 7bc18f78…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page; pages cited are printed pages.
+
+**Book 12:** *Pre-Literacy in English Language Teaching Module, ECE Level 2 (ages 4–5), Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 116 pp; 1,061,829 bytes, SHA-256 7208b793…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Polite expressions (4.1.3.1, Unit 11): greetings, requests, gratitude, apologies and asking for help politely in social settings (“Can I assist you with that? — Yes, please”) | Zambia — English Language Teaching Module, Grade 4 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, pp.24–27 |
+| Making requests (0.2.1.4): polite requests and responses — “Please give me a pencil”, “May I have a book, please?”, “Please help me”, “May I come in, please?” — “Yes, you may / Here you are / You are welcome” | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, PDF pp.10–16 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.

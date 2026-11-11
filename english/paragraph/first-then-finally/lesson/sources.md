@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Papua New Guinea, Singapore, Andorra, El Salvador
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Papua New Guinea, Singapore, Andorra, El Salvador, Zambia
 
 Every part traces to its book and page.
 
@@ -672,3 +672,23 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Zambia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs — **12 documents, all teacher-facing: eleven Curriculum Development Centre teaching modules and the Catch Up Literacy Teacher's Guide; 0 pupil's books** — 164 teaching items placed. Every file was secured from its recorded original source (the CDC Digital Library; the Catch Up guide from its recorded VVOB source) at a byte size matching the textbooks repo's contents record exactly, and verified by byte size, page count and cover. Every Zambia item in this section is TEACHER EVIDENCE of what is taught: Zambia has no pupil English book in hand — five of the twelve files are even recorded as “student” books in the records, but their own covers say TEACHING MODULE (expansion flags F2/F3) — and no row below is pupil-book evidence; a teaching module never substitutes for a pupil's book. Two of the modules state why the set looks this way: they were produced “in the absence of approved textbooks.” Read depth, as the placements declare it: all 12 books read in full, page by page through their text layers (the two Grade 1 phonics modules run one seven-part lesson shape per sound — every subtopic's overview and competences were read and the full shape verified in complete reads of multiple subtopics per book; individual exercise lines inside a sound subtopic are practice of the placed sound and are not itemised). The rows below are stocked from the expansion placements (zambia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 5:** *Literacy in English Language Teaching Module, Grade 2 Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 78 pp; 1,151,721 bytes, SHA-256 c99d9326…; CDC Digital Library download byte-matching the textbooks repo's contents record. Printed page = PDF page − 5; pages cited are printed pages.
+
+**Book 9:** *Pre-Literacy in English Language Teaching Module, ECE Level 1 (ages 3–4), Term 2* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, © 2025, ISBN 978-9982-01-594-0. 60 pp; 1,269,197 bytes, SHA-256 e12c9bc5…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages. Record note (expansion flag F2): recorded kind “student”; its own cover says TEACHING MODULE.
+
+**Book 12:** *Pre-Literacy in English Language Teaching Module, ECE Level 2 (ages 4–5), Term 3* (TEACHER EVIDENCE ONLY: a teaching module, cited for what it teaches, never as a pupil's book) — Zambia, Curriculum Development Centre, Lusaka, 2026. 116 pp; 1,061,829 bytes, SHA-256 7208b793…; CDC Digital Library download byte-matching the textbooks repo's contents record. Pages cited are PDF pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Logical order (2.14.2): sequencing pictures, sentences and words logically (the cooking-nshima sequence: make fire → put pot on fire → cook → eat; unscrambling “The tree near dog is a big”) | Zambia — Literacy in English Language Teaching Module, Grade 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, printed pp.62–68 |
+| Chores (0.1.4.2): role-playing home chores and describing the process with sequencing words (first, next, then, finally — e.g. washing plates) | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 1 Term 2 (Curriculum Development Centre, 2025) — teacher evidence, PDF pp.12–14 |
+| Visual discrimination — sequencing simple stories in pictures (0.2.7.3): arranging mixed-up pictures in order and retelling with first, next, then, last (the visual-skill half of this topic is stocked in visual-discrimination) | Zambia — Pre-Literacy in English Language Teaching Module, ECE Level 2 Term 3 (Curriculum Development Centre, 2026) — teacher evidence, PDF pp.68–72 |
+
+Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
