@@ -1,6 +1,6 @@
 # Sources — Taxation
 
-countries: Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic
+countries: Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ On Malaysia in this lesson: Malaysia's Form 5 book is the first in the read set 
 | Tax — indirect taxes, withholding tax and VAT — inside the Senior 1 money unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | Rwanda, Senior 1 Student's Book, Unit 4, printed pp. 116–121 |
 | Income tax — inside the commercial arithmetic unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | South Sudan, Student's Book 2, Unit 1, printed pp. 12–13 |
 
-**Acceptance count: taught in 9 countries (Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
+**Acceptance count: taught in 10 countries (Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
 
 India enters taxation from Mathematics Class 8: sales tax and GST.
 
@@ -115,3 +115,18 @@ Into this lesson the placements stock 2 items from Book 3 and Book 6.
 Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.
+
+## Ireland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Ireland's whole in-hand Maths set from the PDFs — **9 pupil textbooks of the Text & Tests series (The Celtic Press / CJ Fallon): one English volume, Text & Tests 4 (New Edition), and eight Irish-language (Téacs & Trialacha) volumes** — and placed 570 items. Ireland has no government-published textbooks: every book in the set is a commercial in-use title held as a complete free copy. The English TT4 was read in phase3-staging (byte- and SHA-256-verified in place); the eight Irish volumes were re-grabbed from their recorded COGG (cogg.ie) source URLs, each landing byte-exact at its recorded size, every file's identity proved from its cover, copyright and contents pages. The expansion map's count is right: **9 student + 0 teacher** — the one further Ireland file in hand, *Dúchas 2 — Leabhar Scileanna*, is a Junior Cycle Irish-language (Gaeilge) skills book, not Maths, and is cited nowhere in this course. Extent, honestly: five whole-course books (TT1, TT2 GL, TT3, English TT4, TT6); three strand volumes complete as published but covering one strand only (TT4 Irish = Strand 2; TT5 Irish = Strand 1; TT7 Irish = Strand 5); and one supplement booklet (the TT5 Forlíonadh — deferred Strand 1 material and the Central Limit Theorem), complete as published, not a standalone textbook. Two record flags ride with the set (the read's flagged claims F1–F2, both about the library records, not the course): **F1** — 8 of the 9 PDFs are absent from their phase3-staging folders, which hold only books.json + CURRICULUM.md; all eight are secured in GitHub and were re-grabbed byte-exact from COGG for the read, and restoring them into staging is owed on the library side. **F2** — the held TT3 is the updated edition (2024) of the 2013 book, with an added Chapter 19, Inferential Statistics, that no record mentions; its three items are stocked from that chapter and TT3's book entry names the edition wherever it appears. The older strand books and the English TT4 New Edition teach much of the same Leaving Certificate Higher Level ground in two languages and editions (e.g. TT6 chs. 1–2 ≈ TT4 Eng chs. 1–2; TT7 ch. 2 ≈ TT4 Eng ch. 7): each book's row is stocked as its own citation — they are distinct held books, not duplicates — while Ireland itself is counted once in this lesson's taught-in figure. Counting grain: one item per distinct teaching section of each book. The placements' named exclusions — every book's chapter tests (“Cuir triail ort féin”), tasks, learning-experience and review sections, chapter summaries and Answers sections, and every book's prefaces, keyword lists and contents pages — are stocked nowhere. Ireland COUNTS in this lesson's taught-in figure: every Ireland book is a pupil textbook. Into this lesson the placements stock 2 items, every one a pupil-textbook row, from Book 1 (TT2 GL), Book 2 (TT3).
+
+**Book 1:** *Téacs & Trialacha 2, Gnáthleibhéal (Eagrán Nua)* — TT2 GL (pupil textbook) — The Celtic Press / CJ Fallon; Irish edition of *Text & Tests 2: Ordinary Level Maths* (English ©2019), ISBN 978-1-9997795-5-9; 23,039,404 bytes, 543 PDF pp. Junior Cycle Ordinary Level (two-year course). Printed page = PDF page − 9.
+
+**Book 2:** *Téacs & Trialacha 3* — TT3 (pupil textbook) — The Celtic Press / CJ Fallon; Leaving Certificate Ordinary Level, Strands 1–5; English ©2012, Irish © Foras na Gaeilge 2013, ISBN 978-1-85791-993-6; 11,385,583 bytes, 604 PDF pp. Printed page = PDF page − 10. **The held file is the updated edition (2024): its preface states it is the completed edition of the 2013 book with an added Chapter 19, Inferential Statistics — one chapter more than the library records describe (the read's flag F2); Chapters 1–18 are the recorded book.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Income tax (§5.5 Cáin ioncaim) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 90 |
+| Income tax (§5.6 Cáin ioncaim) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 113 |
+
+Ireland is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Ireland row in this lesson is a pupil-textbook row, so Ireland counts in full. Ireland's class for Maths is **COURSES-CLOSED for the in-hand set**. The staging flag F1 (8 of the 9 PDFs absent from their phase3-staging folders, all secured in GitHub; restore owed) is a library-record matter — reported here, not fixed by this merge.

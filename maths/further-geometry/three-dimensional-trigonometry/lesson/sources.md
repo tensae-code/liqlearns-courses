@@ -1,6 +1,6 @@
 # Sources — Three-dimensional trigonometry
 
-countries: Jordan, Malaysia, Albania, Tajikistan, Bahamas, Australia, Dominica
+countries: Jordan, Malaysia, Albania, Tajikistan, Bahamas, Australia, Dominica, Ireland
 
 Every part traces to its book and page.
 
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Solving problems in 3D space with trigonometry | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 58–60 |
 | Worked problem: dihedral angle of a regular octahedron = 2 arccos(1/√3) ≈ 109.5°, by halving the octahedron into two square pyramids and taking a section | Tajikistan, Геометрия (Grade 11), printed p. 54 |
 
-**Acceptance count: taught in 6 countries (Jordan, Malaysia, Albania, Tajikistan, Australia, Dominica).**
+**Acceptance count: taught in 7 countries (Jordan, Malaysia, Albania, Tajikistan, Australia, Dominica, Ireland).**
 Jordan is the sole full source in the read stock: its Grade 10 Term 1 book closes its trigonometry-applications unit with a dedicated lesson on solving 3-D problems (printed p. 124), standing on the same unit's bearings, sine rule, cosine rule and triangle-area lessons. No other read country's filing carries a dedicated 3-D trigonometry treatment, and none is claimed here — this lesson is built at exactly the size that one source supports.
 
 Malaysia joins Jordan in this lesson from the applications end of its solution-of-triangles chapter: one worked prism problem that asks for an angle between lines in space and an angle between planes.
@@ -72,3 +72,18 @@ Into this lesson the placements stock 1 items from Book 3.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Ireland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Ireland's whole in-hand Maths set from the PDFs — **9 pupil textbooks of the Text & Tests series (The Celtic Press / CJ Fallon): one English volume, Text & Tests 4 (New Edition), and eight Irish-language (Téacs & Trialacha) volumes** — and placed 570 items. Ireland has no government-published textbooks: every book in the set is a commercial in-use title held as a complete free copy. The English TT4 was read in phase3-staging (byte- and SHA-256-verified in place); the eight Irish volumes were re-grabbed from their recorded COGG (cogg.ie) source URLs, each landing byte-exact at its recorded size, every file's identity proved from its cover, copyright and contents pages. The expansion map's count is right: **9 student + 0 teacher** — the one further Ireland file in hand, *Dúchas 2 — Leabhar Scileanna*, is a Junior Cycle Irish-language (Gaeilge) skills book, not Maths, and is cited nowhere in this course. Extent, honestly: five whole-course books (TT1, TT2 GL, TT3, English TT4, TT6); three strand volumes complete as published but covering one strand only (TT4 Irish = Strand 2; TT5 Irish = Strand 1; TT7 Irish = Strand 5); and one supplement booklet (the TT5 Forlíonadh — deferred Strand 1 material and the Central Limit Theorem), complete as published, not a standalone textbook. Two record flags ride with the set (the read's flagged claims F1–F2, both about the library records, not the course): **F1** — 8 of the 9 PDFs are absent from their phase3-staging folders, which hold only books.json + CURRICULUM.md; all eight are secured in GitHub and were re-grabbed byte-exact from COGG for the read, and restoring them into staging is owed on the library side. **F2** — the held TT3 is the updated edition (2024) of the 2013 book, with an added Chapter 19, Inferential Statistics, that no record mentions; its three items are stocked from that chapter and TT3's book entry names the edition wherever it appears. The older strand books and the English TT4 New Edition teach much of the same Leaving Certificate Higher Level ground in two languages and editions (e.g. TT6 chs. 1–2 ≈ TT4 Eng chs. 1–2; TT7 ch. 2 ≈ TT4 Eng ch. 7): each book's row is stocked as its own citation — they are distinct held books, not duplicates — while Ireland itself is counted once in this lesson's taught-in figure. Counting grain: one item per distinct teaching section of each book. The placements' named exclusions — every book's chapter tests (“Cuir triail ort féin”), tasks, learning-experience and review sections, chapter summaries and Answers sections, and every book's prefaces, keyword lists and contents pages — are stocked nowhere. Ireland COUNTS in this lesson's taught-in figure: every Ireland book is a pupil textbook. Into this lesson the placements stock 2 items, every one a pupil-textbook row, from Book 1 (TT4 Eng), Book 2 (TT4 S2).
+
+**Book 1:** *Text & Tests 4 (New Edition)* — TT4 Eng (pupil textbook, English) — O.D. Morris, Paul Cooke and Frances O'Regan, The Celtic Press; Leaving Certificate Higher Level, ISBN 978-0-7144-2464-4; 190,534,625 bytes, 561 PDF pp. Printed page = PDF page − 8. The one Ireland Maths book physically present in phase3-staging, byte- and SHA-256-verified in place.
+
+**Book 2:** *Téacs & Trialacha 4, Ardleibhéal — Snáithe 2* — TT4 S2 (pupil textbook) — The Celtic Press / CJ Fallon; Leaving Certificate Higher Level, **Strand 2 only — complete as published**; English ©2010, Irish © Foras na Gaeilge 2018, ISBN 978-1-85791-943-1; 10,658,652 bytes, 200 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Problems in three dimensions (§3.6) | Ireland — *Text & Tests 4 (New Edition)* (TT4 Eng; pupil textbook), printed p. 118 |
+| Three-dimensional problems (§2.6 Fadhbanna tríthoiseacha) | Ireland — *Téacs & Trialacha 4 (Snáithe 2)* (TT4 S2; pupil textbook), printed p. 54 |
+
+Ireland is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Ireland row in this lesson is a pupil-textbook row, so Ireland counts in full. Ireland's class for Maths is **COURSES-CLOSED for the in-hand set**. The staging flag F1 (8 of the 9 PDFs absent from their phase3-staging folders, all secured in GitHub; restore owed) is a library-record matter — reported here, not fixed by this merge.

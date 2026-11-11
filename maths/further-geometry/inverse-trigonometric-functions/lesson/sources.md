@@ -1,6 +1,6 @@
 # Sources — Inverse trigonometric functions
 
-countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Sri Lanka, Belarus, Bhutan, Dominican Republic, Germany
+countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Sri Lanka, Belarus, Bhutan, Dominican Republic, Germany, Ireland
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ Every part traces to its book and page.
 | Arcsine and arccosine of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 3, printed p. 363 (teacher evidence) |
 | Arctangent and arccotangent of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 4, printed p. 383 (teacher evidence) |
 | Derivatives of the inverse trig functions | Libya, Grade 12 Mathematics (Science section), §10-6, printed p.165 |
-**Acceptance count: taught in 14 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Belarus, Bhutan, Dominican Republic, Germany).**
+**Acceptance count: taught in 15 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Belarus, Bhutan, Dominican Republic, Germany, Ireland).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
 
 Libya carries derivatives of the inverse trigonometric functions in Grade 12 Mathematics (Science section), Chapter 6 (stocked by the 2026-11-08 re-verification sweep).
@@ -150,3 +150,18 @@ The 2026-11-10 expansion read read Germany's whole in-hand Maths set from the PD
 Germany is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from the in-hand pupil textbooks named above. Germany's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Germany Maths book (3/3) has been read in full and stocked; the 152 NRW-grid rows never in hand are outside the reckoning.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/germany-placements.md.
+
+## Ireland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Ireland's whole in-hand Maths set from the PDFs — **9 pupil textbooks of the Text & Tests series (The Celtic Press / CJ Fallon): one English volume, Text & Tests 4 (New Edition), and eight Irish-language (Téacs & Trialacha) volumes** — and placed 570 items. Ireland has no government-published textbooks: every book in the set is a commercial in-use title held as a complete free copy. The English TT4 was read in phase3-staging (byte- and SHA-256-verified in place); the eight Irish volumes were re-grabbed from their recorded COGG (cogg.ie) source URLs, each landing byte-exact at its recorded size, every file's identity proved from its cover, copyright and contents pages. The expansion map's count is right: **9 student + 0 teacher** — the one further Ireland file in hand, *Dúchas 2 — Leabhar Scileanna*, is a Junior Cycle Irish-language (Gaeilge) skills book, not Maths, and is cited nowhere in this course. Extent, honestly: five whole-course books (TT1, TT2 GL, TT3, English TT4, TT6); three strand volumes complete as published but covering one strand only (TT4 Irish = Strand 2; TT5 Irish = Strand 1; TT7 Irish = Strand 5); and one supplement booklet (the TT5 Forlíonadh — deferred Strand 1 material and the Central Limit Theorem), complete as published, not a standalone textbook. Two record flags ride with the set (the read's flagged claims F1–F2, both about the library records, not the course): **F1** — 8 of the 9 PDFs are absent from their phase3-staging folders, which hold only books.json + CURRICULUM.md; all eight are secured in GitHub and were re-grabbed byte-exact from COGG for the read, and restoring them into staging is owed on the library side. **F2** — the held TT3 is the updated edition (2024) of the 2013 book, with an added Chapter 19, Inferential Statistics, that no record mentions; its three items are stocked from that chapter and TT3's book entry names the edition wherever it appears. The older strand books and the English TT4 New Edition teach much of the same Leaving Certificate Higher Level ground in two languages and editions (e.g. TT6 chs. 1–2 ≈ TT4 Eng chs. 1–2; TT7 ch. 2 ≈ TT4 Eng ch. 7): each book's row is stocked as its own citation — they are distinct held books, not duplicates — while Ireland itself is counted once in this lesson's taught-in figure. Counting grain: one item per distinct teaching section of each book. The placements' named exclusions — every book's chapter tests (“Cuir triail ort féin”), tasks, learning-experience and review sections, chapter summaries and Answers sections, and every book's prefaces, keyword lists and contents pages — are stocked nowhere. Ireland COUNTS in this lesson's taught-in figure: every Ireland book is a pupil textbook. Into this lesson the placements stock 2 items, every one a pupil-textbook row, from Book 1 (TT4 Eng), Book 2 (TT4 S2).
+
+**Book 1:** *Text & Tests 4 (New Edition)* — TT4 Eng (pupil textbook, English) — O.D. Morris, Paul Cooke and Frances O'Regan, The Celtic Press; Leaving Certificate Higher Level, ISBN 978-0-7144-2464-4; 190,534,625 bytes, 561 PDF pp. Printed page = PDF page − 8. The one Ireland Maths book physically present in phase3-staging, byte- and SHA-256-verified in place.
+
+**Book 2:** *Téacs & Trialacha 4, Ardleibhéal — Snáithe 2* — TT4 S2 (pupil textbook) — The Celtic Press / CJ Fallon; Leaving Certificate Higher Level, **Strand 2 only — complete as published**; English ©2010, Irish © Foras na Gaeilge 2018, ISBN 978-1-85791-943-1; 10,658,652 bytes, 200 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Inverse trigonometric functions (§8.5) | Ireland — *Text & Tests 4 (New Edition)* (TT4 Eng; pupil textbook), printed p. 319 |
+| Inverse trigonometric functions (§5.5 Feidhmeanna triantánachta inbhéartacha) | Ireland — *Téacs & Trialacha 4 (Snáithe 2)* (TT4 S2; pupil textbook), printed p. 160 |
+
+Ireland is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Ireland row in this lesson is a pupil-textbook row, so Ireland counts in full. Ireland's class for Maths is **COURSES-CLOSED for the in-hand set**. The staging flag F1 (8 of the 9 PDFs absent from their phase3-staging folders, all secured in GitHub; restore owed) is a library-record matter — reported here, not fixed by this merge.

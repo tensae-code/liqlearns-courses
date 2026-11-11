@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic, Germany, Gabon
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic, Germany, Gabon, Ireland
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 54 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Germany, Gabon).**.** Egypt carries the
+**Acceptance count: taught in 55 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Germany, Gabon, Ireland).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1440,3 +1440,47 @@ The 2026-11-10 expansion read read Gabon's whole in-hand Maths set from the PDFs
 Gabon is added to the countries line and to the acceptance count above on its pupil-textbook rows; its teacher-evidence rows are named but stay outside the count. Gabon's class for Maths is **COURSES-CLOSED for the in-hand set**, with the pupil-coverage caveat recorded above: no primary pupil book is in hand — primary coverage rests on the IPN curricula and the *Super Efficace* teacher guides.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/gabon-placements.md.
+
+## Ireland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Ireland's whole in-hand Maths set from the PDFs — **9 pupil textbooks of the Text & Tests series (The Celtic Press / CJ Fallon): one English volume, Text & Tests 4 (New Edition), and eight Irish-language (Téacs & Trialacha) volumes** — and placed 570 items. Ireland has no government-published textbooks: every book in the set is a commercial in-use title held as a complete free copy. The English TT4 was read in phase3-staging (byte- and SHA-256-verified in place); the eight Irish volumes were re-grabbed from their recorded COGG (cogg.ie) source URLs, each landing byte-exact at its recorded size, every file's identity proved from its cover, copyright and contents pages. The expansion map's count is right: **9 student + 0 teacher** — the one further Ireland file in hand, *Dúchas 2 — Leabhar Scileanna*, is a Junior Cycle Irish-language (Gaeilge) skills book, not Maths, and is cited nowhere in this course. Extent, honestly: five whole-course books (TT1, TT2 GL, TT3, English TT4, TT6); three strand volumes complete as published but covering one strand only (TT4 Irish = Strand 2; TT5 Irish = Strand 1; TT7 Irish = Strand 5); and one supplement booklet (the TT5 Forlíonadh — deferred Strand 1 material and the Central Limit Theorem), complete as published, not a standalone textbook. Two record flags ride with the set (the read's flagged claims F1–F2, both about the library records, not the course): **F1** — 8 of the 9 PDFs are absent from their phase3-staging folders, which hold only books.json + CURRICULUM.md; all eight are secured in GitHub and were re-grabbed byte-exact from COGG for the read, and restoring them into staging is owed on the library side. **F2** — the held TT3 is the updated edition (2024) of the 2013 book, with an added Chapter 19, Inferential Statistics, that no record mentions; its three items are stocked from that chapter and TT3's book entry names the edition wherever it appears. The older strand books and the English TT4 New Edition teach much of the same Leaving Certificate Higher Level ground in two languages and editions (e.g. TT6 chs. 1–2 ≈ TT4 Eng chs. 1–2; TT7 ch. 2 ≈ TT4 Eng ch. 7): each book's row is stocked as its own citation — they are distinct held books, not duplicates — while Ireland itself is counted once in this lesson's taught-in figure. Counting grain: one item per distinct teaching section of each book. The placements' named exclusions — every book's chapter tests (“Cuir triail ort féin”), tasks, learning-experience and review sections, chapter summaries and Answers sections, and every book's prefaces, keyword lists and contents pages — are stocked nowhere. Ireland COUNTS in this lesson's taught-in figure: every Ireland book is a pupil textbook. Into this lesson the placements stock 25 items, every one a pupil-textbook row, from Book 1 (TT2 GL), Book 2 (TT3), Book 3 (TT4 Eng), Book 4 (TT6), Book 5 (TT7).
+
+**Book 1:** *Téacs & Trialacha 2, Gnáthleibhéal (Eagrán Nua)* — TT2 GL (pupil textbook) — The Celtic Press / CJ Fallon; Irish edition of *Text & Tests 2: Ordinary Level Maths* (English ©2019), ISBN 978-1-9997795-5-9; 23,039,404 bytes, 543 PDF pp. Junior Cycle Ordinary Level (two-year course). Printed page = PDF page − 9.
+
+**Book 2:** *Téacs & Trialacha 3* — TT3 (pupil textbook) — The Celtic Press / CJ Fallon; Leaving Certificate Ordinary Level, Strands 1–5; English ©2012, Irish © Foras na Gaeilge 2013, ISBN 978-1-85791-993-6; 11,385,583 bytes, 604 PDF pp. Printed page = PDF page − 10. **The held file is the updated edition (2024): its preface states it is the completed edition of the 2013 book with an added Chapter 19, Inferential Statistics — one chapter more than the library records describe (the read's flag F2); Chapters 1–18 are the recorded book.**
+
+**Book 3:** *Text & Tests 4 (New Edition)* — TT4 Eng (pupil textbook, English) — O.D. Morris, Paul Cooke and Frances O'Regan, The Celtic Press; Leaving Certificate Higher Level, ISBN 978-0-7144-2464-4; 190,534,625 bytes, 561 PDF pp. Printed page = PDF page − 8. The one Ireland Maths book physically present in phase3-staging, byte- and SHA-256-verified in place.
+
+**Book 4:** *Téacs & Trialacha 6* — TT6 (pupil textbook) — The Celtic Press / CJ Fallon; Leaving Certificate Higher Level; Irish edition of *Project Maths: Text & Tests 6* (English © Cooke, Morris & O'Regan 2012, An Cló Ceilteach / The Celtic Press); no ISBN printed in the file (the records carry none either); 5,198,029 bytes, 304 PDF pp. Printed page = PDF page − 6.
+
+**Book 5:** *Téacs & Trialacha 7, Ardleibhéal — Snáithe 5* — TT7 (pupil textbook) — The Celtic Press / CJ Fallon; Leaving Certificate Higher Level, **Strand 5 only (Functions and Calculus) — complete as published**; Irish edition of *Project Maths: Text & Tests 7* (English © Morris & Cooke 2013); no ISBN printed in the file (the records carry none either); 7,004,795 bytes, 194 PDF pp. Printed page = PDF page − 7. The set's only source of integral calculus.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Functions (§21.1 Feidhmeanna) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 403 |
+| Mapping diagrams (§21.2 Léaráidí mapála) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 406 |
+| Function notation (§21.3 Nodaireacht feidhmeanna) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 411 |
+| Graphing linear functions (§22.1 Feidhmeanna líneacha a léiriú ar ghraif) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 416 |
+| Graphs of quadratic functions (§22.2 Graif d'fheidhmeanna cearnacha) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 421 |
+| Using quadratic graphs (§22.3 Graif chearnacha a úsáid) | Ireland — *Téacs & Trialacha 2, Gnáthleibhéal* (TT2 GL; pupil textbook), printed p. 425 |
+| Functions (§16.1 Feidhmeanna) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 452 |
+| Operations with functions (§16.2 Oibríochtaí ina bhfuil feidhmeanna) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 458 |
+| Finding unknown coefficients (§16.3 Comhéifeachtaí anaithnide a fháil) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 462 |
+| Graphs of linear functions (§17.1 Graif d'fheidhmeanna líneacha) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 470 |
+| Graphs of quadratic functions (§17.2 Graif d'fheidhmeanna cearnacha) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 476 |
+| Using and interpreting quadratic graphs (§17.3) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 479 |
+| Quadratic graphs and practical problems (§17.4 Graif chearnacha agus fadhbanna praiticiúla) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 485 |
+| Cubic functions (§17.5 Feidhmeanna ciúbacha) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 489 |
+| Using graphs of cubic functions (§17.6 Graif d'fheidhmeanna ciúbacha a úsáid) | Ireland — *Téacs & Trialacha 3* (TT3; pupil textbook), printed p. 494 |
+| Polynomial functions, an introduction (§1.2) | Ireland — *Text & Tests 4 (New Edition)* (TT4 Eng; pupil textbook), printed p. 6 |
+| Graphs of cubic and higher-order polynomials (§2.10) | Ireland — *Text & Tests 4 (New Edition)* (TT4 Eng; pupil textbook), printed p. 81 |
+| Polynomial functions, an introduction (§1.2 Feidhmeanna iltéarmacha, réamheolas) | Ireland — *Téacs & Trialacha 6* (TT6; pupil textbook), printed p. 6 |
+| Graphs of cubic polynomials (§2.10 Graif d'iltéarmaigh chiúbacha) | Ireland — *Téacs & Trialacha 6* (TT6; pupil textbook), printed p. 78 |
+| An introduction to functions (§1.1 Réamheolas ar fheidhmeanna) | Ireland — *Téacs & Trialacha 7 (Snáithe 5)* (TT7; pupil textbook), printed p. 1 |
+| Composition of functions (§1.2 Comhshuíomh feidhmeanna) | Ireland — *Téacs & Trialacha 7 (Snáithe 5)* (TT7; pupil textbook), printed p. 10 |
+| Types of functions (§1.3 Cineálacha feidhmeanna) | Ireland — *Téacs & Trialacha 7 (Snáithe 5)* (TT7; pupil textbook), printed p. 13 |
+| Inverse functions (§1.4 Feidhmeanna inbhéartacha) | Ireland — *Téacs & Trialacha 7 (Snáithe 5)* (TT7; pupil textbook), printed p. 19 |
+| Sketching graphs of functions (§1.6 Graif feidhmeanna a sceitseáil) | Ireland — *Téacs & Trialacha 7 (Snáithe 5)* (TT7; pupil textbook), printed p. 30 |
+| Related graphs (§1.8 Graif ghaolmhara) | Ireland — *Téacs & Trialacha 7 (Snáithe 5)* (TT7; pupil textbook), printed p. 44 |
+
+Ireland is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Ireland row in this lesson is a pupil-textbook row, so Ireland counts in full. Ireland's class for Maths is **COURSES-CLOSED for the in-hand set**. The staging flag F1 (8 of the 9 PDFs absent from their phase3-staging folders, all secured in GitHub; restore owed) is a library-record matter — reported here, not fixed by this merge.
