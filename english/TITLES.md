@@ -103,7 +103,10 @@ its own subtitle folder with its own lesson + questions):
   China re-verification sweep merge — **Unit 7, Words for
   the World**) · toys-and-games (added 2026-11-09 by the
   Indonesia re-verification sweep merge — **Unit 7, Words
-  for the World**)
+  for the World**) ·
+  maritime-english (added 2026-11-10 by the Greece
+  re-verification sweep merge — **Unit 7, Words for
+  the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)

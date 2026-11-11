@@ -138,7 +138,10 @@ about the other person, and close the talk.*
   nature-and-the-environment ✅ · technology-words ✅ ·
   money-and-prices ✅ · describing-people ✅ · word-building ✅ ·
   word-relationships ✅ · compound-words ✅ · working-words ✅
-  (specialist: hotels/offices/tourism, Greece) — 18 lessons, 520
+  (specialist: Greece's EPAL sector English — hotels, offices,
+  agriculture, engineering, electricity and the sector
+  folders; its stock was completed by the Greece sweep merge,
+  2026-11-10) — 18 lessons, 520
   question items
 - **Sweep additions (2026-11-08, Bolivia re-verification sweep
   merge):** shapes ✅ · music-words ✅ · cooking-words ✅ ·
@@ -152,6 +155,11 @@ about the other person, and close the talk.*
 - **Sweep addition (2026-11-09, Indonesia re-verification sweep
   merge):** toys-and-games ✅ (1 lesson — the toys chapter of
   Indonesia's Grade 4 book, which no lesson housed)
+- **Sweep addition (2026-11-10, Greece re-verification sweep
+  merge):** maritime-english ✅ (1 lesson — the English of
+  ships and the sea from Greece's Maritime English Volumes
+  1–2 and the IMO Standard Marine Communication Phrases,
+  which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -694,6 +702,28 @@ rhymes and songs in Unit 3; labelling in Unit 2;
 listening-comprehension in Unit 15; and
 finding-information in Unit 42. The English path now stands
 at **203 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-10 (GREECE).** The
+sweep re-read Greece's 43 in-hand books page by page and
+placed 669 teaching items; 171 were already in the course and
+498 were missing — whole books had been read and filed but
+never stocked (the Maritime English volumes, Exploiting the
+Earth, the sector folders, the EPAL General books, the
+workbooks and teacher's books of the Think Teen! sets, and
+the Grade 9 set among them). This merge stocked all 498:
+75 primary-book items (Grades 1–6), 83 Grade 7 items,
+111 Grade 8 items, 82 Grade 9 / Lykeio / EPAL General items,
+108 EPAL sector items and 39 maritime items in a new lesson
+— every one into the sources files of 90+ existing lessons
+with its book and printed page, countries lines and
+acceptance counts updated together. It built 1 new lesson: maritime-english in Unit 7.
+It also fixed the sweep's Flag 1, a false citation: the
+forms lesson's application-dossier row no longer cites a
+non-existent Think Teen! Grade 9 'Go For It!' unit — the
+content is re-pinned to General English 2 (24-0622), and the
+working-words lesson's framing now names the full EPAL
+sector set it holds (Flag 3). The English path now stands
+at **204 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are
