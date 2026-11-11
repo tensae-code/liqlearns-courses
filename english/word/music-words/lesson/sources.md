@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova, Dominican Republic, Colombia, Guyana
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova, Dominican Republic, Colombia, Guyana, Iceland
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -9,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 16 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay, Bhutan, Moldova, Dominican Republic, Colombia, Guyana).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
+**Acceptance count: taught in 17 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay, Bhutan, Moldova, Dominican Republic, Colombia, Guyana, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -327,3 +327,18 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Spotlight 10 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas, Carolyn Keay & Catharina Lantz; © 2010 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012, 2nd printing 2015; ISBN 978-9979-0-1609-0. Student's book, Grade 10. 170 PDF pp.; staging record grade-10/gov/iceland/english/student/07061_spotlight10_nem.pdf (56,927,349 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: “neigbourhood” for neighbourhood (printed p.50 area) (E4); “notoriou” for notorious and the caption “Paranormal Acitvity” for Activity (E5); “Elhers-Danlos” for Ehlers-Danlos syndrome (E6); the irregular-verb table prints “deal – delt” for deal – dealt (printed pp.141–143) (E7); “Iast week” for last week and the byline “Angelas Ashes” without its apostrophe (E8).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading “Kwaito” — the Johannesburg music style of young black South Africans: a mixture of disco, hiphop, R&B, reggae and house; artists Arthur Mafokate, Zola, Mandoza | Iceland — *Spotlight 10* (Grade 10), printed p.105 |
+| Reading “Woodstock – An Unforgettable Event in Music History” — the music part: the 1969 festival's 32 bands (Hendrix, The Who, Joplin) (its reading home is answering-from-the-text) | Iceland — *Spotlight 10* (Grade 10), printed pp.90–91 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

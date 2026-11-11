@@ -1,6 +1,6 @@
 # Sources — Checking Facts Online
 
-countries: Indonesia, Barbados, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Moldova, Colombia
+countries: Indonesia, Barbados, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Moldova, Colombia, Iceland
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | All three sub lessons — identifying fake news taught as a procedure text: how to spot a false online claim and check it before believing it | Indonesia, English for Nusantara Grade 9, printed p.324 |
 
-**Acceptance count: taught in 5 countries (Indonesia, Samoa, Uruguay, Moldova, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the fake-news check taught as a full procedure with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). No book headline or claim text is reproduced. Other countries' fact-checking teaching joins as their sweep merges land.
+**Acceptance count: taught in 6 countries (Indonesia, Samoa, Uruguay, Moldova, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the fake-news check taught as a full procedure with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). No book headline or claim text is reproduced. Other countries' fact-checking teaching joins as their sweep merges land.
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -184,3 +184,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Spotlight 10 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas, Carolyn Keay & Catharina Lantz; © 2010 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012, 2nd printing 2015; ISBN 978-9979-0-1609-0. Student's book, Grade 10. 170 PDF pp.; staging record grade-10/gov/iceland/english/student/07061_spotlight10_nem.pdf (56,927,349 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: “neigbourhood” for neighbourhood (printed p.50 area) (E4); “notoriou” for notorious and the caption “Paranormal Acitvity” for Activity (E5); “Elhers-Danlos” for Ehlers-Danlos syndrome (E6); the irregular-verb table prints “deal – delt” for deal – dealt (printed pp.141–143) (E7); “Iast week” for last week and the byline “Angelas Ashes” without its apostrophe (E8).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading (dialogue) “Common Sense Dot Com” — the checking stance: three 9th graders discuss reading critically online, parental restrictions on posting photos, and strangers pretending to be someone else (its reading home is answering-from-the-text) | Iceland — *Spotlight 10* (Grade 10), printed pp.8–10 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

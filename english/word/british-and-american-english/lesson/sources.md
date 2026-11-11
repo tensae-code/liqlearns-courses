@@ -1,6 +1,6 @@
 # Sources — British and American English
 
-countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya, Uzbekistan, Tunisia, Uruguay, Nigeria, Andorra, Moldova
+countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya, Uzbekistan, Tunisia, Uruguay, Nigeria, Andorra, Moldova, Iceland
 
 Every part traces to its book and page.
 
@@ -34,7 +34,7 @@ differ only in cover wording and colophon; cited once.
 | A listening on where English comes from: English as a product of multiple influences from other languages | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 136 |
 | The Advanced teacher's guide for Unit 1 “Unity in Diversity” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), contents, printed p.1 (unit start) |
 
-**Acceptance count: taught in 12 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya, Uzbekistan, Tunisia, Uruguay, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with English in the world — varieties and uses of English worldwide (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya, Uzbekistan, Tunisia, Uruguay, Moldova, Iceland).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with English in the world — varieties and uses of English worldwide (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -175,3 +175,17 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Spotlight 10 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas, Carolyn Keay & Catharina Lantz; © 2010 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012, 2nd printing 2015; ISBN 978-9979-0-1609-0. Student's book, Grade 10. 170 PDF pp.; staging record grade-10/gov/iceland/english/student/07061_spotlight10_nem.pdf (56,927,349 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: “neigbourhood” for neighbourhood (printed p.50 area) (E4); “notoriou” for notorious and the caption “Paranormal Acitvity” for Activity (E5); “Elhers-Danlos” for Ehlers-Danlos syndrome (E6); the irregular-verb table prints “deal – delt” for deal – dealt (printed pp.141–143) (E7); “Iast week” for last week and the byline “Angelas Ashes” without its apostrophe (E8).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading “Where Did the English Language Come from?” — the circles part: North American English today, English as a link language, and the three circles (inner/outer/expanding) (its reading home is answering-from-the-text) | Iceland — *Spotlight 10* (Grade 10), printed pp.64–67 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

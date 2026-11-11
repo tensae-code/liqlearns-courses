@@ -289,6 +289,9 @@ its own subtitle folder with its own lesson + questions):
   commas-in-lists-dates-and-places (added 2026-11-11
   by the Guyana expansion merge — **Unit 10, Building a
   Sentence**) ·
+  the-hyphen (added 2026-11-11 by the Iceland
+  expansion merge — **Unit 10, Building a
+  Sentence**) ·
   inversion (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 18, Deeper Sentences**) ·
   the-subjunctive (added 2026-11-11 by the Tunisia
@@ -364,7 +367,10 @@ its own subtitle folder with its own lesson + questions):
   (added 2026-11-11 by the Afghanistan re-verification
   sweep merge — **Unit 9, Numbers, Days, and Time**) ·
   writing-the-date (added 2026-11-11 by the Suriname
-  expansion merge — **Unit 9, Numbers, Days, and Time**)
+  expansion merge — **Unit 9, Numbers, Days, and Time**) ·
+  measurements-sizes-and-temperature-conversion
+  (added 2026-11-11 by the Iceland expansion merge —
+  **Unit 9, Numbers, Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
   answering-from-the-text (built 2026-10-27 — **Units 14–15**:

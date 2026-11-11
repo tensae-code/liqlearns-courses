@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Colombia
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Colombia, Iceland
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -49,8 +49,8 @@ verification sweep.
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
 | The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 23 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Costas's plea letter to the President, as the model for a child's letter asking for help and peace (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 24 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Costas's plea letter to the President, as the model for a child's letter asking for help and peace (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -334,3 +334,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Spotlight 10 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas, Carolyn Keay & Catharina Lantz; © 2010 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012, 2nd printing 2015; ISBN 978-9979-0-1609-0. Student's book, Grade 10. 170 PDF pp.; staging record grade-10/gov/iceland/english/student/07061_spotlight10_nem.pdf (56,927,349 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: “neigbourhood” for neighbourhood (printed p.50 area) (E4); “notoriou” for notorious and the caption “Paranormal Acitvity” for Activity (E5); “Elhers-Danlos” for Ehlers-Danlos syndrome (E6); the irregular-verb table prints “deal – delt” for deal – dealt (printed pp.141–143) (E7); “Iast week” for last week and the byline “Angelas Ashes” without its apostrophe (E8).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading “Internet Health Advice from Dr. Feelgood” — three problem-page letters and replies on body image (overweight and eating when depressed; tall and thin; starving/dizzy dieting and binge eating) with health advice, with word list (the vocabulary part also stocks health-words; the feelings part feelings) | Iceland — *Spotlight 10* (Grade 10), printed pp.22–25 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

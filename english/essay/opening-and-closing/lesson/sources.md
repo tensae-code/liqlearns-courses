@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Barbados, Samoa, Suriname, Nigeria
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Barbados, Samoa, Suriname, Nigeria, Iceland
 
 Every part traces to its book and page.
 
@@ -136,7 +136,7 @@ PASSED 2026-11-03).
 | The parts of a letter named as one set — heading, salutation, body, complimentary close, signature — worked in the guide's Lesson 1 (Part I), with the lesson's own letter printed complete in the guide (below) and the good-wish, greeting and farewell formulas sorted around it | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, guide printed pp.4–13 |
 | One complete letter printed in full in a guide — the only student text in the whole five-book set reproduced complete: Pedro Estévez's letter to Mr. González (printed p.6), opening with its salutation and closing with its complimentary close and signature, the model the letter-writing work is built on | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, Part A, guide printed p.6 |
 
-**Acceptance count: taught in 24 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Samoa, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 25 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Samoa, Suriname, Iceland).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -281,3 +281,17 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Spotlight 9 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas & Catharina Lantz; © 2009 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012 (further printings 2014, 2019); ISBN 978-9979-0-1559-8. Student's book, Grade 9. 150 PDF pp.; staging record grade-09/gov/iceland/english/student/7059_spotlight_9_textabok.pdf (101,709,990 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: the “Canadian Trivia” list (printed p.39) calls the Italian Guglielmo Marconi a Canadian and says basketball was invented in Canada — it was invented by the Canadian James Naismith in Springfield, Massachusetts, USA (E1); the Narnia book is *The Voyage of the Dawn Treader*, printed “Dawn Trader” (printed p.45) (E2); the misprints “pick upp” (p.74), “trakcing” (p.89) and “Tahiland” (p.101) (E3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition Guide: “Basic Email and Letter Writing” — formal openings/closings (“Dear Ms. Williams”, “To Whom It May Concern”, “Sincerely”, “With Kind Regards”) and informal ones (“Hi Tom!”, “Take care”, “See ya!”); contractions and slang only in informal writing (the formal-letter system also stocks the-formal-letter) | Iceland — *Spotlight 9* (Grade 9), printed p.123 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

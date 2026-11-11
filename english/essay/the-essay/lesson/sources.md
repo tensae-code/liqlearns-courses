@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Canada, Andorra, El Salvador, Zambia, Moldova, Colombia
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Canada, Andorra, El Salvador, Zambia, Moldova, Colombia, Iceland
 
 Every part traces to its book and page.
 
@@ -287,7 +287,7 @@ verification sweep.
 | Writing an argumentative essay, "Why is breakfast important?" | Mongolia, English XII, Unit 8, printed p.152 |
 | A whole chapter on essay writing, with specimen essays | Pakistan, *English Grammar & Composition 9–10*, Chapter VI, printed p.46 |
 
-**Acceptance count: taught in 31 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Fiji, Eritrea, Samoa, Moldova, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 32 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Fiji, Eritrea, Samoa, Moldova, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -864,3 +864,18 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Spotlight 9 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas & Catharina Lantz; © 2009 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012 (further printings 2014, 2019); ISBN 978-9979-0-1559-8. Student's book, Grade 9. 150 PDF pp.; staging record grade-09/gov/iceland/english/student/7059_spotlight_9_textabok.pdf (101,709,990 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: the “Canadian Trivia” list (printed p.39) calls the Italian Guglielmo Marconi a Canadian and says basketball was invented in Canada — it was invented by the Canadian James Naismith in Springfield, Massachusetts, USA (E1); the Narnia book is *The Voyage of the Dawn Treader*, printed “Dawn Trader” (printed p.45) (E2); the misprints “pick upp” (p.74), “trakcing” (p.89) and “Tahiland” (p.101) (E3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition Guide: the four-step writing process (read a sample, draft, compare and improve, final copy) and the difference between formal and informal writing (the register part also stocks choosing-your-register) | Iceland — *Spotlight 9* (Grade 9), printed p.120 |
+| Composition Guide: guidelines for formal texts — brainstorm, title, mind map, outline, and the three sections (introduction, content section, conclusion, with no new ideas in the conclusion) | Iceland — *Spotlight 9* (Grade 9), printed pp.120–121 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

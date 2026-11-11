@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Andorra, El Salvador
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Andorra, El Salvador, Iceland
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
 Scheme of Work, and confirmed by the pupil's-book read of
@@ -72,7 +72,7 @@ PASSED 2026-11-06).
 | Paraphrasing named in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Précis writing as the unit's writing work | Pakistan, *English 12*, Unit 11, printed pp.84–87 (unit range) |
 
-**Acceptance count: taught in 23 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India
+**Acceptance count: taught in 24 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname, Iceland).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
@@ -543,3 +543,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Spotlight 9 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas & Catharina Lantz; © 2009 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012 (further printings 2014, 2019); ISBN 978-9979-0-1559-8. Student's book, Grade 9. 150 PDF pp.; staging record grade-09/gov/iceland/english/student/7059_spotlight_9_textabok.pdf (101,709,990 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: the “Canadian Trivia” list (printed p.39) calls the Italian Guglielmo Marconi a Canadian and says basketball was invented in Canada — it was invented by the Canadian James Naismith in Springfield, Massachusetts, USA (E1); the Narnia book is *The Voyage of the Dawn Treader*, printed “Dawn Trader” (printed p.45) (E2); the misprints “pick upp” (p.74), “trakcing” (p.89) and “Tahiland” (p.101) (E3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition Guide: “The Summary” — writing only the main ideas of a long story, film or subject, with a worked example summary of the film *The Golden Compass* | Iceland — *Spotlight 9* (Grade 9), printed p.121 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

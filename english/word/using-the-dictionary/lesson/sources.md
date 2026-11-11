@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, Moldova, Guyana
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, Moldova, Guyana, Iceland
 
 Every part traces to its book and page.
 
@@ -219,11 +219,11 @@ verification sweep.
 | Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
 | College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
-**Acceptance count: taught in 32 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
+**Acceptance count: taught in 33 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq,
 Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda,
 Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela,
-Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Guyana).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
+Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Guyana, Iceland).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -740,3 +740,21 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Spotlight 9 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas & Catharina Lantz; © 2009 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012 (further printings 2014, 2019); ISBN 978-9979-0-1559-8. Student's book, Grade 9. 150 PDF pp.; staging record grade-09/gov/iceland/english/student/7059_spotlight_9_textabok.pdf (101,709,990 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: the “Canadian Trivia” list (printed p.39) calls the Italian Guglielmo Marconi a Canadian and says basketball was invented in Canada — it was invented by the Canadian James Naismith in Springfield, Massachusetts, USA (E1); the Narnia book is *The Voyage of the Dawn Treader*, printed “Dawn Trader” (printed p.45) (E2); the misprints “pick upp” (p.74), “trakcing” (p.89) and “Tahiland” (p.101) (E3).
+
+**Book 2:** *Spotlight 10 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas, Carolyn Keay & Catharina Lantz; © 2010 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012, 2nd printing 2015; ISBN 978-9979-0-1609-0. Student's book, Grade 10. 170 PDF pp.; staging record grade-10/gov/iceland/english/student/07061_spotlight10_nem.pdf (56,927,349 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: “neigbourhood” for neighbourhood (printed p.50 area) (E4); “notoriou” for notorious and the caption “Paranormal Acitvity” for Activity (E5); “Elhers-Danlos” for Ehlers-Danlos syndrome (E6); the irregular-verb table prints “deal – delt” for deal – dealt (printed pp.141–143) (E7); “Iast week” for last week and the byline “Angelas Ashes” without its apostrophe (E8).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Appendix “Word Lists for: Canadian Travel Spots, New York City, New York Sights” — the glossed word lists for those three texts gathered in one place | Iceland — *Spotlight 9* (Grade 9), printed p.131 |
+| Appendix “Word List in Alphabetical Order” — the use part: the book's full English–Icelandic glossary worked as a dictionary (its alphabetical-order home is ordering-words) | Iceland — *Spotlight 9* (Grade 9), printed pp.133–147 |
+| Reference apparatus: the “Words for” translation lists for two texts and the “Word List in Alphabetical Order” — every glossed word in the book with its Icelandic translation, used as the book's dictionary (its alphabetical-order home is ordering-words) | Iceland — *Spotlight 10* (Grade 10), printed pp.144–166 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

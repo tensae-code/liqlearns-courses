@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Papua New Guinea, El Salvador, Colombia
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Papua New Guinea, El Salvador, Colombia, Iceland
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -65,7 +65,7 @@ verification sweep.
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 | Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 19 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa, Uganda, Uruguay, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 20 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa, Uganda, Uruguay, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -293,3 +293,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Spotlight 10 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas, Carolyn Keay & Catharina Lantz; © 2010 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012, 2nd printing 2015; ISBN 978-9979-0-1609-0. Student's book, Grade 10. 170 PDF pp.; staging record grade-10/gov/iceland/english/student/07061_spotlight10_nem.pdf (56,927,349 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: “neigbourhood” for neighbourhood (printed p.50 area) (E4); “notoriou” for notorious and the caption “Paranormal Acitvity” for Activity (E5); “Elhers-Danlos” for Ehlers-Danlos syndrome (E6); the irregular-verb table prints “deal – delt” for deal – dealt (printed pp.141–143) (E7); “Iast week” for last week and the byline “Angelas Ashes” without its apostrophe (E8).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading (dialogue) “Pick Up a Piece” — the future-plans part: two Soweto schoolgirls plan matric, Business College and Wits University, and a coffee shop selling local art (its reading home is answering-from-the-text; the shop part stocks shopping) | Iceland — *Spotlight 10* (Grade 10), printed pp.106–107 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.

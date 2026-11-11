@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Colombia
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Colombia, Iceland
 
 Every part traces to its book and page.
 
@@ -59,8 +59,8 @@ verification sweep.
 | The formal letter in the Young Boy's Adventure unit | Pakistan, *English 7*, Unit 10 (contents) |
 | Formal letters set against informal letters, worked on the survey report's letter — addressed to the Managing Director, PCTB, though its rubric names the Director of Education (the book's own mismatch, noted) | Pakistan, *English 8*, printed p.122 |
 
-**Acceptance count: taught in 20 countries (Greece,
-Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Suriname, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
+**Acceptance count: taught in 21 countries (Greece,
+Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Suriname, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
 reference before its course begins; Sudan opens its final
 book with official/business letters and later sets formal
 against informal in one writing lesson; Laos diagrams the
@@ -503,3 +503,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's in-hand English set from the secured PDFs — **2 student books, 0 teacher books**: *Spotlight 9* (Grade 9) and *Spotlight 10* (Grade 10), Menntamálastofnun, Kópavogi — 104 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Iceland is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their own complete text layers (no OCR needed); both read copies byte-match their records (GitHub Releases, `mid-size-books-3`). Iceland stays PARTIAL for English: named link-only books remain outstanding — at minimum *Spotlight 8 – Nemendabók* (Grade 8 student) and the *Yes we can 5* teacher guide, each with an exact link on record and never secured (diff flag F1: the expansion map's link-only count of 0 for Iceland is wrong); the Spotlight 8/9/10 workbooks are likewise link-only and cited nowhere. The rows below are stocked from the expansion placements (iceland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Spotlight 9 — Nemendabók (Textbook)* — Iceland, Menntamálastofnun, Kópavogi. Randall Jonas & Catharina Lantz; © 2009 Natur och Kultur, Stockholm; Icelandic edition edited by Aldís Yngvadóttir; 1st edition 2012 (further printings 2014, 2019); ISBN 978-9979-0-1559-8. Student's book, Grade 9. 150 PDF pp.; staging record grade-09/gov/iceland/english/student/7059_spotlight_9_textabok.pdf (101,709,990 bytes; the read copy byte-matches its record). Printed page = PDF page − 1; pages cited are printed pages. Book errors carried, taught corrected: the “Canadian Trivia” list (printed p.39) calls the Italian Guglielmo Marconi a Canadian and says basketball was invented in Canada — it was invented by the Canadian James Naismith in Springfield, Massachusetts, USA (E1); the Narnia book is *The Voyage of the Dawn Treader*, printed “Dawn Trader” (printed p.45) (E2); the misprints “pick upp” (p.74), “trakcing” (p.89) and “Tahiland” (p.101) (E3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition Guide: “Basic Email and Letter Writing” — the formal letter part: formal openings and closings (“Dear Ms. Williams”, “To Whom It May Concern”, “Sincerely”, “With Kind Regards”) set against informal ones, with contractions and slang only in informal writing (the openings/closings stocking is in opening-and-closing) | Iceland — *Spotlight 9* (Grade 9), printed p.123 |
+
+Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.
