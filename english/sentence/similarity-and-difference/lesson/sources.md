@@ -1,6 +1,6 @@
 # Sources — Similarity and Difference
 
-countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia
+countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — difference: different from, unlike, not the same as, not similar to | Mauritania, Study English, Grade 9, printed pp.21–24; repeated at Grade 10, printed pp.9–10 |
 | Sub lesson 4 — whereas joining the two sides | Mauritania, Study English, Grade 9, printed pp.21–24 |
 
-**Acceptance count: taught in 7 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 8 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -102,3 +102,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The structure 'not a/an … but a/an …' for contrasting identity/nationality | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed p.36 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

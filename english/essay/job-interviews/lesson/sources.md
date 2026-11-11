@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa, Uganda
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -65,7 +65,7 @@ verification sweep.
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 | Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 16 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 17 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa, Uganda).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -194,3 +194,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The job-readiness theme of 'What do employers expect?': doing homework before the interview, readiness to learn from less-qualified experienced workers, respect for colleagues (the passage itself is stocked in answering-from-the-text) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.10–11 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

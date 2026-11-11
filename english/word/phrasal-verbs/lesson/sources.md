@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** Teacher Compendium, Years 1–6 (reproducing
@@ -127,7 +127,7 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs — set the table, wash the dishes, pour, serve | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.53–55 |
 | Phrasal verbs and idioms, in the Major Shabbir Sharif Shaheed unit (with adjective types, pronoun-antecedent agreement, gerund and participle) | Pakistan, *English 6*, Unit 4 (contents) |
 
-**Acceptance count: taught in 26 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and
@@ -438,3 +438,17 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phrasal verbs: verb + preposition/adverb (turn down, come across, run into, get up, write down, take after), incl. three-part phrasal verbs, with meanings (put off, give up, look into, put up with, kick off, do away with, come through) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.15–16 |
+| Get-phrasal verbs: get about, get along with, get away, get rid of, get together, get behind, get by, get back, get down to, get into (the get-meanings half of the unit is stocked in idioms-and-collocations) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.35–37 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

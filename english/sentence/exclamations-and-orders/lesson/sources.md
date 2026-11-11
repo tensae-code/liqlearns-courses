@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Uganda
 Every part traces to its book and page.
 
 **Book 1:** English Primary 3, Term 2 — Egypt, Ministry
@@ -135,7 +135,7 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 34 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its classroom instructions, from Year 1's stand up/sit down to 'Open your books' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 35 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Uganda).** Cyprus joins with its classroom instructions, from Year 1's stand up/sit down to 'Open your books' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -665,3 +665,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Interjections and exclamatory sentences: strong-feeling words with '!', and changing declarative sentences into exclamatory ones with What…/How… (and back) | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.15–16 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

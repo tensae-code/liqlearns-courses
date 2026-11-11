@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -413,8 +413,8 @@ the 2026-11-08 re-verification sweep.
 | Adverb Phrases — Form and use adjective phrases correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.11.1, PDF p.218 (curriculum evidence) |
 | Adjectives — Use comparatives forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.4.1, PDF p.209 (curriculum evidence) |
 | Using Qualifying Words-Adjectives — Use superlative forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.5.1, PDF p.239 (curriculum evidence) |
-**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea, Tunisia, Samoa).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea, Tunisia, Samoa, Uganda).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -894,3 +894,28 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives: a word that modifies/describes a noun; finding adjectives in the two poems ('Urban Life', 'The Village') and sorting adjectives for urban vs village life | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.12–13 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Descriptive words (adjectives): adjectives of quality (opinion, size/shape, colour, origin, material) and quantity (number/amount) — the formation part is stocked in word-building | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.20–21 |
+
+**Book 3:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives for composition: attributive vs predicative position, and the demonstrative, possessive and interrogative adjective sets (the demonstrative set is stocked in demonstratives-this-that-these-those) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.8–9 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

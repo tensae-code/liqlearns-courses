@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Comparative Phrases box, p.26, is among this book's citation-checked anchors).
@@ -159,7 +159,7 @@ re-verification sweep.
 | Degrees of adjectives — regular and irregular adjectives compared — in the Harmony in Society unit (with relative pronouns, clauses and phrases, commas and dictionary use) | Pakistan, *English 6*, Unit 5, printed p.47 |
 | Degrees of adjectives in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 33 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its size adjectives (enormous, huge, gigantic, tiny) and Year 5's comparatives and superlatives (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with comparatives and the superlatives of the mountains of Libya (Grade 5) and the completed comparison system — as … as, both … and, neither … nor (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 34 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its size adjectives (enormous, huge, gigantic, tiny) and Year 5's comparatives and superlatives (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with comparatives and the superlatives of the mountains of Libya (Grade 5) and the completed comparison system — as … as, both … and, neither … nor (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
@@ -657,3 +657,17 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The 'as … as / not so … as' pattern for sameness, inside the comparing-and-contrasting unit | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.8–9 |
+| Regular and irregular adjectives: regular comparison with -er/-est and more/most vs irregular forms (good/better/best, little/less/least) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.21–22 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

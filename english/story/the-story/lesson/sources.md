@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -649,8 +649,8 @@ verification sweep.
 | Story: at the fair the friends paint their faces and Extra cannot recognise them (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 4, pupil printed p.55 |
 | Story: a hot beach day where Extra rubs ice cream on himself instead of sun cream (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 4, pupil printed p.63 |
 | A complete poem read at story scale: Robert Frost's "Stopping by Woods on a Snowy Evening", with alliteration, imagery and paraphrasing (filed as a summary only) | Pakistan, *English IX* (older curriculum), Unit 7 (contents) |
-**Acceptance count: taught in 45 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with the programme's story spine — one mediated picturebook per unit across Years 1–6, from 'I Want My Dinner' to 'Eat Your Peas' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with writing a story — guided story composition (Grade 8) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 46 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with the programme's story spine — one mediated picturebook per unit across Years 1–6, from 'I Want My Dinner' to 'Eat Your Peas' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with writing a story — guided story composition (Grade 8) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -1598,3 +1598,28 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story 'A Journey to Nabikuyi' — plot summary only: a family leaves Kampala by bus for their village Nabikuyi after schools and shops close for COVID-19; luggage in the boot, passengers ask the driver to slow down, then bodabodas from Iganga, home by 2 o'clock — comprehension in full sentences | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.9–10 |
+
+**Book 2:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story 'A Girl's Escape' — plot summary only: Mary, one of 12 children of separated poor parents, is taken by her father to the capital as a child house-help, beaten and kept from her family, until an aid group (The Children Freedom Foundation) helps her escape and reunite with her mother — comprehension plus glossary work (remote, impoverished, refuge, furious, kidnapped, stunned, reunion, thrilled) | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.1–2 |
+
+**Book 3:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story — plot summary only: the narrator and her stepsister Abenakyo grow up in Mzee Mikaya's large, loving polygamous homestead (23 children, herds and land); the sisters share notes and revise together; respect for elders is the family's key rule; an aunt warns them about relationships — comprehension on family relationships and emotions | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.10–12 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

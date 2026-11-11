@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 15 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa).** Cyprus joins with Year 6's must/mustn't for class rules (the Pupil's Book's printed class-rules list) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 16 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa, Uganda).** Cyprus joins with Year 6's must/mustn't for class rules (the Pupil's Book's printed class-rules list) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -278,3 +278,22 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modals and modal perfects: can/could, shall/should, will/would, ought to for ability, possibility and obligation, contrasted in an environment dialogue (the 'too late' perfect forms are stocked in modal-perfects) | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.9–11 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modal verbs: can/could, may/might, shall/should, must/have to, will/would for ability, possibility, permission and obligation | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed p.7 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

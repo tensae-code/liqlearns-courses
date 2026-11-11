@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -31,7 +31,7 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 15 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa, Uganda).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
 
@@ -193,3 +193,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Exam-style comprehension format: the *Coming to Birth* extract set with exam questions, incl. a metaphor question and rewriting 'Does he work on the railway?' as a statement (the extract itself is stocked in the-big-reading) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.23–25 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

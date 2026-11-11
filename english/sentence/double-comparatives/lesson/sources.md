@@ -1,6 +1,6 @@
 # Sources — Double comparatives
 
-countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia
+countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | USE ONLY — the shape in dialogue, never taught: "The more you read, the faster you'll be" (Unit 1); "the more I get to know Julie, the more …" (Unit 11) | China, Grade 9, Unit 1, pp.1–8; Unit 11 (as filed in english/books/china.md) |
 | Less / least, and double comparatives (more and more; the more…, the more…) | Mongolia, English XII, Unit 10, printed pp.182–183 |
 
-**Acceptance count: taught in 7 countries (Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 10 double comparative (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia, Uganda).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 10 double comparative (stocked 2026-11-11 by the re-verification sweep merge).
 
 China is counted as a use witness only: its Grade 9 book carries the locked shape inside dialogues and teaches no rule for it — the filing shows use, and this lesson words China as use only, exactly as filed. Pakistan is NOT counted: its Grade 12 "very better" is an error-to-correct item, not a teaching, and it appears in this lesson only as the corrected error.
 
@@ -68,3 +68,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparing structures: 'the + comparative …, the + comparative …' for two changes together (the as…as half of the unit is stocked in stronger-comparisons) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.8–9 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

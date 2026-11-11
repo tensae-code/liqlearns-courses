@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -223,8 +223,8 @@ colophon; cited once.
 | Sequence adverbs — First / Then / Next / After that / Finally — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 | Sequence words for past events — First / then / next / after that / finally | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3A, printed pp.77–78 |
 
-**Acceptance count: taught in 36 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
+**Acceptance count: taught in 37 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -567,3 +567,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition: jumbled sentences — reading ten shuffled sentences and reordering them into a true story (a matoke thief chased and taken to the police station), then checking spelling and grammar | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.45–46 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

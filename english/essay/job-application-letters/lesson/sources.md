@@ -1,6 +1,6 @@
 # Sources — Job application letters
 
-countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa
+countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -56,8 +56,8 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole Office Clerks key: answers and notes for the student coursebook's sub-lessons — mirror apparatus for the Office Clerks coursebook (teacher evidence) | Greece, English for Office Clerks KEY / Teacher's Book (teacher evidence), PDF pp.1–134 |
 | Hotel Unit 22 “Applying for a job” — job-application language for hotel work | Greece, English for the Hotel and Tourist Trade, Unit 22, Section D |
 
-**Acceptance count: taught in 18 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
-South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa).** Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
+**Acceptance count: taught in 19 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
+South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan, Eritrea, Tunisia, Samoa, Uganda).** Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
 prints the advert–CV–covering-letter chain whole;
 Cambodia coaches the covering letter paragraph by
 paragraph; Uzbekistan names the kind as its own lessons;
@@ -198,3 +198,18 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition writing: the letter of application — layout and impression, opening/middle/closing language for applying in response to an advertisement, a worked sample application for an Office Assistant post, then writing an application from real-style adverts | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.15–19 |
+
+Note carried from the read: the Senior Four book's sample application (printed pp.17–18) is Kenyan school material (Kenyan examinations and addresses) reproduced in a Ugandan book — stocked as a form model; the qualifications it names are Kenya's, not Uganda's.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

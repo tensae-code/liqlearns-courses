@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -373,8 +373,8 @@ verification sweep.
 | “Change through Time” — a child's life across eras; going to and future simple | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 4, Lesson 11, printed p.71 |
 | Workbook “Change through Time” — practice of going to and future simple with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 4, Lesson 11, WB printed pp.41–52 |
 | Future simple, active and passive | Mongolia, English XII, Unit 3, printed pp.47–48 |
-**Acceptance count: taught in 40 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 6's going to — future plans and Tom's cruise plans (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “going to” for planned purchases and intentions at the school shop and on trips (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
+**Acceptance count: taught in 41 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 6's going to — future plans and Tom's cruise plans (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “going to” for planned purchases and intentions at the school shop and on trips (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -840,3 +840,28 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'Going to' as the future of anticipation (evidence now for what will happen), changing will-sentences into going-to form | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed p.19 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'Going to' for intentions, decisions already taken and predictions — not for moment-of-speaking decisions or in conditions (the will/shall half of the unit is stocked in will-future) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed p.44 |
+
+**Book 3:** *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (teacher's guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2008, 100 pp, ISBN 978-9970-117-05-5. TEACHER-GUIDE EVIDENCE ONLY: only its English learning area was read (§5 'Teaching English', printed pp.31–37, and the English sample lesson plans, Appendices ii–iii, printed pp.89–92); cited as evidence of what Primary Three English lessons teach, never as a pupil's book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The 'In the Garden' playlet's planned-action sentences, spoken throughout in 'We are going to…' (guide Appendices ii–iii) — this row rests on a teacher's guide and is teacher-guide evidence; Uganda's place in this lesson's count rests on the Senior One and Senior Three booklets above | Uganda — *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008) — teacher-guide evidence, printed pp.36–37 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
 banner at the head of english/books/libya.md; its scrub
@@ -279,7 +279,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 33 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Afghanistan, Fiji, Samoa)** — the
+**Acceptance count: taught in 34 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Afghanistan, Fiji, Samoa, Uganda)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -1243,3 +1243,25 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Literary extract — plot summary only: Pip is brought by Mr Pumblechook to Miss Havisham's barred, unwelcoming house and let in by the proud young lady (from Charles Dickens, *Great Expectations*) — read as the direct/indirect-speech follow-up text | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed p.6 |
+| Literary extract — plot summary only: Kino has found the Pearl of the World; the whole town's dreams, schemes and hungers fix on his pearl and he becomes every man's enemy, while he and Juana still believe everyone shares their joy (from John Steinbeck, *The Pearl*) | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.14–15 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Literary extract (exam-style comprehension) — plot summary only: Paulina, newly arrived in the city, is lost and unwell near the railway station/market, cannot find the road to her husband Martin Were's house, and asks a kind elderly Luo lady for directions (from Marjorie Oludhe Macgoye, *Coming to Birth*) — its exam format is stocked in exam-technique | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.23–25 |
+
+Distinction note: Uganda joins this lesson as a distinction country only — all three rows are extracts printed inside textbooks, none is a complete book-length text, and Uganda does not join the complete-text countries on their terms.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

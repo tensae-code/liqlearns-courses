@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji, Eritrea, Tunisia, Samoa
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus, Class 1 —
@@ -147,7 +147,7 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 33 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji, Eritrea, Tunisia, Samoa).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with noun → adjective building (cloud → cloudy) (Grade 7), the affixes im-/de-/re- and -less/-ful (Grade 10) and the prefix re- (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 34 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with noun → adjective building (cloud → cloudy) (Grade 7), the affixes im-/de-/re- and -less/-ful (Grade 10) and the prefix re- (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -722,3 +722,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forming adjectives from other words (length→lengthy, thank→thankful, ignorance→ignorant), inside the descriptive-words unit (the adjective sets themselves are stocked in adjectives) | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.20–21 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Modal perfects
 
-countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea, Tunisia
+countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea, Tunisia, Uganda
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 Term 1 (Student's
@@ -60,7 +60,7 @@ reproduced.
 | “Tragedies!” — might have, could have, should have (past modals) | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 2, printed p.113 |
 | Workbook Unit 10 (Natural phenomena), lessons 1–3 — practice of past modals with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, WB printed pp.108–117 |
 
-**Acceptance count: taught in 14 countries (Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea, Tunisia).** Libya joins with deductions about the past — must have / can't have / might have + participle (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
+**Acceptance count: taught in 15 countries (Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea, Tunisia, Uganda).** Libya joins with deductions about the past — must have / can't have / might have + participle (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
 past ladder inside the same numbered box as the
 present one, and adds blame and regret to it. Nepal's
 criticism forms rest on teacher's-guide evidence and
@@ -189,3 +189,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The 'too late' modal perfect forms should have / could have / would have / ought to have, inside the Senior One modals unit (the modal set itself is stocked in modal-verbs) | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.9–11 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

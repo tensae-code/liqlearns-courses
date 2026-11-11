@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -47,8 +47,8 @@ verification sweep.
 | Form noticed: reflexive pronouns — emphatic use (himself/yourself) against same-subject use | India — Flamingo (Class 12), Noticing form in The Rattrap, printed pp.43–44 |
 | Reciprocal and reflexive pronouns, in the nature unit (with affixes, articles and sentence patterns) | Pakistan, *English 6*, Unit 3, printed p.27 |
 
-**Acceptance count: taught in 10 countries (Bolivia,
-Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
+**Acceptance count: taught in 11 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -107,3 +107,22 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) — the possessive half of the unit is stocked in pronouns | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.25–26 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reflexive verbs acting back on the subject with -self/-selves pronouns, inside the transitive/intransitive/reflexive verbs unit | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.21–22 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

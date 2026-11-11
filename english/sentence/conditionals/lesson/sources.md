@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -349,8 +349,8 @@ verification sweep.
 | “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 | Zero and first conditionals, including varied first-conditional forms | Mongolia, English XII, Unit 8, printed pp.143–146 |
 
-**Acceptance count: taught in 37 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
+**Acceptance count: taught in 38 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -645,3 +645,36 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The structure '…unless… / Unless…' = if…not: rewriting if-sentences with unless in both positions, comma after an opening Unless-clause | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.22–24 |
+
+**Book 2:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Conditional sentences: Type 1 (present + future/modal), Type 2 (past simple + would — unlikely but possible), Type 3 (past perfect + would have — unfulfilled/impossible) | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.23–24 |
+
+**Book 3:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The past conditional: Type 2 (past simple + would — unlikely) and Type 3 (past perfect + would have — unfulfilled/impossible), 'were' for all persons in imagined conditions, inverted forms (Had he had time…), and other condition introducers (even if, suppose that, provided that, as long as, on condition that) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.1–2 |
+| The first/real conditional (if + present simple, … will…) for real/possible future situations | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.16–17 |
+| Open and closed conditionals (zero conditional): if/when + present with imperative or present results, for instructions and for general facts (If water is heated to 100°C, it boils) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.32–33 |
+
+**Book 4:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rephrasing if-sentences with 'unless' (conditional clauses without 'if'), inside the Senior Four sentence-transformation and revision unit | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.25–28 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

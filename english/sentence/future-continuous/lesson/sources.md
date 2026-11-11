@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya, Eritrea
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya, Eritrea, Uganda
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -39,7 +39,7 @@ colophon; cited once.
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
 | Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 15 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya, Eritrea).** Libya joins with the future continuous — first presented in Grade 8 and taught in Grade 10 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 16 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya, Eritrea, Uganda).** Libya joins with the future continuous — first presented in Grade 8 and taught in Grade 10 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -162,3 +162,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The future continuous (will be + -ing): an activity in progress at a future point, going on over a future period, or definitely planned | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed p.45 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

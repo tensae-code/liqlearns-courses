@@ -1,6 +1,6 @@
 # Sources — This, That, These and Those
 
-countries: Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia
+countries: Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -18,7 +18,7 @@ Every part traces to its book and page.
 | This / That / These / Those, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Demonstratives — this / that / these / those | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
 
-**Acceptance count: taught in 8 countries (Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 5's 'this' vs 'that' for near and far things (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the demonstratives taught as their own point in the Grade 7 book's shopping lesson, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' demonstratives teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 9 countries (Mauritania, Nicaragua, Saudi Arabia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 5's 'this' vs 'that' for near and far things (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the demonstratives taught as their own point in the Grade 7 book's shopping lesson, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' demonstratives teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 Nicaragua joins with the Grade 7 Student's Book's Unit 2 treatment and the Grade 7 module's Unit 2 set (stocked 2026-11-11 by the re-verification sweep merge). Remap noted: the sweep's placements named these items under the older pronouns target; the pointing words stock here, in the lesson built for them (the Mongolia sweep merge routing).
 
@@ -99,3 +99,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The demonstrative adjective set (this/that/these/those), inside the adjectives-for-composition unit | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.8–9 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

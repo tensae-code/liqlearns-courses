@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Tunisia, Samoa
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** SMILE Book 7 — Pupil's Book (Grade 7) — Sudan,
@@ -78,7 +78,7 @@ the 2026-11-08 re-verification sweep.
 | Compound words — with homophones (whether/weather, scene/seen, herd/heard, hare/hair, they're/there/their) — in the opening unit | Pakistan, *English 6*, Unit 1, printed pp.1–13 |
 | Compound words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 25 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Tunisia, Samoa).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
+**Acceptance count: taught in 26 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Tunisia, Samoa, Uganda).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -339,3 +339,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Compound words: closed (fireworks, somebody, schoolhouse), open (ice cream, post office, half sister) and hyphenated (part-time, mother-in-law, well-being) compounds, incl. the rule that -ly adverbs are not hyphenated | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.21–23 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 26 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 5's restaurant prices — 'How much is it? It's…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 27 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 5's restaurant prices — 'How much is it? It's…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -442,3 +442,22 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Banking vocabulary (account, ATM, bank, cheque, deposit, save, teller, withdraw, balance, credit, cashier, manager); abbreviations a/c and ATM in full | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.47–48 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Banking word definitions (cheque, interest, paying-in slip, counterfoil, payee, bounce, statement), inside the 'Opening a Bank Account' unit (the passage itself is stocked in answering-from-the-text) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.38–41 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

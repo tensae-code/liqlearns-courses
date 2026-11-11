@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia
+countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Uganda
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | WILL — predictions and moment-of-speaking decisions, won't, questions with short answers, future time expressions, and a Pachamama-predictions reading | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 10–12 |
 | WILL in full — the paradigm and future time expressions (the very paradigm the old filing left unread in its garbled extraction; the sweep's fresh visual read confirms it here, student folio 190) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 70 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 6's will — promises and spontaneous decisions, and 'I think Mr Hatch will…' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 12 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 6's will — promises and spontaneous decisions, and 'I think Mr Hatch will…' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -190,3 +190,30 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The future: shall/will/'ll, going to, present continuous and will-be-ing forms for the future; the book's rule 'do not use shall except with I and we' | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed p.18 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The simple future tense (will, shall): the book's person rule (shall for 1st person, will for 2nd/3rd, will for a definite promise, shall for the speaker's decision about others), negative and interrogative forms | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.8–9 |
+
+**Book 3:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using 'will/shall' for the future, with the modern note that the will/shall distinction is now almost non-existent (the going-to half of the unit is stocked in going-to-later) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed p.44 |
+
+Book error noted and taught corrected: the Senior Two book's simple-future example 'My cousin shall will always be with me' (printed p.8) stacks two auxiliaries; the course teaches one.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

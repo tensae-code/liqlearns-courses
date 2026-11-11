@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -446,9 +446,9 @@ verification sweep.
 | The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
 | Present continuous for gradual change | Mongolia, English XI, Unit 1, printed p.14 |
 | Present continuous, active and passive, for changing situations | Mongolia, English XII, Unit 1, printed pp.17–18 |
-**Acceptance count: taught in 44 countries (Egypt, Ghana,
+**Acceptance count: taught in 45 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -1216,3 +1216,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple present inside the three-tense unit: the present for nature/habit/senses with the 3rd-person -s/-es/-ies rule and do/does negatives and questions (the present-continuous part is stocked in the-present-continuous, the present-perfect part in the-present-perfect) | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.15–19 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

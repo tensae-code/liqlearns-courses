@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -343,8 +343,8 @@ verification sweep.
 | Pronouns introduced by name and job: sometimes we replace the names of people with another word instead of repeating the name | India — Marigold Book Two (Class 2), Unit 9 word work, printed pp.141–159 |
 | The PRONOUN TABLE printed in full (I, me / we, us; you; he, him, she, her / they, them; it for places and things) | India — Marigold Book Five (Class 5), Unit 10 language work |
 | Reference words: what "This" refers to in sentences from the story | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
-**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 44 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -730,3 +730,22 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Personal pronouns: the subject/object sets (I/me, we/us, he/him, she/her, it, you, they/them) and replacing nouns with pronouns | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.17–18 |
+
+**Book 2:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessive pronouns (mine, ours, yours, his, hers, its, theirs, incl. 'a friend of mine') — the reflexive half of the unit is stocked in reflexive-pronouns | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.25–26 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

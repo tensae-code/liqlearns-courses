@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 16 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 17 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa, Uganda).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -195,3 +195,18 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition writing: the Curriculum Vitae — personal data, education, work experience, interests, references (never parents/relatives), studied from a model CV and then written for real job advertisements | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.12–14 |
+
+Note carried from the read: the Senior Four book's model CV (printed pp.12–13) is Kenyan school material (Kenya Polytechnic, KCPE/KCSE, Kenyan addresses) reproduced in a Ugandan book — stocked as a form model; the qualifications it names are Kenya's, not Uganda's.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

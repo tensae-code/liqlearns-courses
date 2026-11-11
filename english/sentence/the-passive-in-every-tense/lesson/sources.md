@@ -1,6 +1,6 @@
 # Sources — The passive in every tense
 
-countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya, Eritrea
+countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya, Eritrea, Uganda
 
 Every part traces to its book and page.
 
@@ -47,7 +47,7 @@ Every part traces to its book and page.
 | Present and past perfect passive, reviewed in museum contexts | Mongolia, English XI, Unit 10, printed pp.156–157 |
 | The passive voice taught systematically for the present tenses — indefinite, continuous and perfect, each in its own section (the same book carries the passive through the past and future tenses too; those coats are stocked at the past perfect and future perfect lessons) | Pakistan, *English Grammar & Composition 9–10*, printed pp.88–95 (sections at printed pp.88, 91, 93) |
 
-**Acceptance count: taught in 12 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya, Eritrea).** Libya joins with the passive extended — continuous and perfect forms (Grade 11-1) and the passive in continuous tenses with the causative perfect form (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 present and past continuous passive, from the Student's Book's own book map (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 13 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya, Eritrea, Uganda).** Libya joins with the passive extended — continuous and perfect forms (Grade 11-1) and the passive in continuous tenses with the causative perfect form (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 present and past continuous passive, from the Student's Book's own book map (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 The basic present/past passive itself is stocked by the earlier lesson, The passive, and is not re-counted here; this lesson's count covers only the countries whose books carry the deeper coats named above. Nepal's entry is teacher's-guide evidence and is worded as such everywhere it is used.
 
@@ -108,3 +108,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forming the passive across tenses (present simple/continuous, past simple/continuous, present perfect, future), inside the active-and-passive-voice unit | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.41–43 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

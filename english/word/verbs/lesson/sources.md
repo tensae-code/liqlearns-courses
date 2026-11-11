@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -282,8 +282,8 @@ verification sweep.
 | Explore the use of proverbs to enrich communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.4.1, PDF p.59 (curriculum evidence) |
 | Action phrases met in a numbering activity: read a book, play with a ball, listen to music, watch TV | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Checkpoint 7, Lesson 8, pupil printed p.58 |
 | Action verbs set — hear, read, dance, cook, jump, draw, sing, see, fly, run — matched to pictures | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.66 |
-**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its verb sets — the jungle movement verbs, shake/stretch, and the action and social verbs of Years 4–5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the action phrases and the action-verb set as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its verb sets — the jungle movement verbs, shake/stretch, and the action and social verbs of Years 4–5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the action phrases and the action-verb set as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -805,3 +805,24 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Regular and irregular verbs: past forms with -ed/-d (regular) vs changed/unpredictable forms (irregular: go/went, find/found, keep/kept, feel/felt, get/got, sit/sat) | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.14–15 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Transitive, intransitive and reflexive verbs: transitive verbs take an object, intransitive do not, reflexive verbs act back on the subject (the reflexive-pronoun part is stocked in reflexive-pronouns) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.21–22 |
+
+Book error noted and taught corrected: the Senior One book's Term 3 Lesson 1 answer key marks 'Sarah fed the baby' as a regular verb — feed/fed is irregular.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

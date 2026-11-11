@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Reported statements (tense changes) | Mongolia, English XII, Unit 9, printed p.161 |
 | Direct and indirect speech rules stated in the book's closing units | Pakistan, *English 6*, printed p.114 |
 
-**Acceptance count: taught in 30 countries (Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the reported speech system (Grade 10), the completed system (Grade 11-1) and the reporting-verb set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported speech and the said/told backshift chart in its Grade 10 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
+**Acceptance count: taught in 31 countries (Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the reported speech system (Grade 10), the completed system (Grade 11-1) and the reporting-verb set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported speech and the said/told backshift chart in its Grade 10 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -547,3 +547,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Direct and indirect (reported) speech: quotation marks and reporting verbs; the tense-shift rules and the cases where the tense does NOT change (reporting verb in the present, general truths, still-happening events, would/might/could/ought to/used to, after wish/would rather/had better/it is high time) | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.3–6 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

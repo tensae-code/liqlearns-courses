@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia, Barbados, Afghanistan, Fiji, Eritrea, Tunisia, Samoa
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia, Barbados, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -162,7 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 32 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 33 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -717,3 +717,23 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The structure '…while… / While…' joining two actions happening at the same time, mid-sentence and sentence-initial forms | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.6–8 |
+| The structure '…as soon as… / As soon as…' for one thing happening right after another, rewriting 'immediately' sentences in both positions | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.49–50 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Connective clauses: connectives/conjunctions and linking adverbs (but, when, because, although, however, therefore, much as) joining sentences, at the start or in the middle | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.1–2 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

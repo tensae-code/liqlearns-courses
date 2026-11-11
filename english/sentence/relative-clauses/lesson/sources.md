@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Barbados, Afghanistan, Cyprus, Eritrea, Tunisia, Samoa
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Barbados, Afghanistan, Cyprus, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -191,7 +191,7 @@ re-verification sweep.
 | Relative clauses with where and when | Mongolia, English XII, Unit 4, printed pp.71–72 |
 | Relative clauses with that after superlatives and indefinite words | Mongolia, English XII, Unit 4, printed p.74 |
 
-**Acceptance count: taught in 30 countries (Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 6's defining clauses — 'a place where…', 'something/someone that…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with relative clauses as a taught system (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+**Acceptance count: taught in 31 countries (Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 6's defining clauses — 'a place where…', 'something/someone that…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with relative clauses as a taught system (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -553,3 +553,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative clauses: joining sentences with who, whose, whom, which, that, why, when, where | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.26–27 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

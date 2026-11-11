@@ -1,6 +1,6 @@
 # Sources — Expressing Purpose
 
-countries: Mauritania, Yemen, Kuwait, Eritrea, Tunisia
+countries: Mauritania, Yemen, Kuwait, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — in order to / so as to + base verb | Mauritania, Study English, Grade 9, printed pp.53–56 |
 | Sub lesson 3 — so that + a whole clause | Mauritania, Study English, Grade 9, printed pp.53–56; Grade 10, printed pp.44–45 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Yemen, Kuwait, Eritrea, Tunisia).** Yemen joins with purpose with “to” + infinitive in its Grade 10 Language review 2 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found purpose taught as its own lesson in the Grade 9 book (and repeated in Grade 10), with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' purpose teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 6 countries (Mauritania, Yemen, Kuwait, Eritrea, Tunisia, Uganda).** Yemen joins with purpose with “to” + infinitive in its Grade 10 Language review 2 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found purpose taught as its own lesson in the Grade 9 book (and repeated in Grade 10), with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' purpose teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Yemen added 2026-11-11 (re-verification sweep merge)
 
@@ -69,3 +69,24 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'in order to / In order to…' for purpose, set beside so as to / so that / wanted to, rewriting in both positions | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.31–33 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Clauses of purpose: 'so that' and 'in order to' for why somebody does something | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.34–35 |
+
+Book error noted and taught corrected: the Senior Three book's purpose-clause example 'The students waited for a long time that they almost gave up' (printed p.34) omits 'so'.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

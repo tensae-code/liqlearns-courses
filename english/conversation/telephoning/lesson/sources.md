@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** English for the Hotel and Tourist Trade,
@@ -65,7 +65,7 @@ PASSED 2026-11-04).
 | “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 | Telephoning: telephone greetings and the steps to make a call | Pakistan, *English 8*, printed pp.118–119 |
 
-**Acceptance count: taught in 23 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa).** Libya joins with telephoning — telephone language and “On the Phone” conversations (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
+**Acceptance count: taught in 24 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda).** Libya joins with telephoning — telephone language and “On the Phone” conversations (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -309,3 +309,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telephone vocabulary (telephone, airtime, receiver, landline, handset, call, mobile, mast, dial, SIM card) and plurals | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed p.25 (exercises to p.26) |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

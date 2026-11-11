@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -104,7 +104,7 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 23 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa).** Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+**Acceptance count: taught in 24 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa, Uganda).** Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -396,3 +396,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tag/tail questions inside the Senior Four types-of-questions unit (eight question types and the answer shape each one takes) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.1–2 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

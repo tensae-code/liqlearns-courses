@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya, Afghanistan, Eritrea, Tunisia
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya, Afghanistan, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -57,7 +57,7 @@ colophon; cited once.
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 | Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 15 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya, Afghanistan, Eritrea, Tunisia).** Libya joins with reporting commands and requests — tell for commands, ask for requests (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
+**Acceptance count: taught in 16 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya, Afghanistan, Eritrea, Tunisia, Uganda).** Libya joins with reporting commands and requests — tell for commands, ask for requests (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -197,3 +197,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reporting statements, commands, advice and offers, inside the Senior Four sentence-transformation and revision unit | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.25–28 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

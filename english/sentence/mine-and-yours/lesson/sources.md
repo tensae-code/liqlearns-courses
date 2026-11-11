@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -205,7 +205,7 @@ re-verification sweep.
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
 | Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The possessive case ('s / s') named in the guide's Unit Ten content list for identifying people (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.30 |
-**Acceptance count: taught in 39 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 40 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -698,3 +698,17 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessives as modifiers/determiners (my, your, his, her, its, our, their before a noun) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed p.8 |
+| Possessive pronouns (mine, ours, yours, his, hers, its, theirs standing alone) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed p.10 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

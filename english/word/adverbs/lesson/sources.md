@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -350,8 +350,8 @@ verification sweep.
 | Adverbs of Manner | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 10, PDF p.111 (teacher evidence) |
 | Using Simple Prepositions — Use adverbs to talk about when and where | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.6.1, PDF p.88 (curriculum evidence) |
 | Use question marks, full stops and commas correctly in sentences | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.12.1, PDF p.218 (curriculum evidence) |
-**Acceptance count: taught in 41 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -826,3 +826,36 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs: what an adverb is (tells how, when or where), identifying adverbs, and forming adverbs from adjectives with -ly (soft→softly, angry→angrily) | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.3–5 |
+
+**Book 2:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs of time/frequency (always, often, usually, sometimes…), presented as telling how often, with reading a weekly timetable and writing frequency sentences | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.5–6 |
+| Adverbs of manner: how something happens; many formed from adjectives with -ly (quick→quickly), plus the non--ly set (fast, well, hard) | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.20–21 |
+
+**Book 3:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs modifying verbs, adjectives and other adverbs; choosing adjective vs adverb forms (quick/quickly, easy/easily, bad/badly; friendly is an adjective) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.14–15 |
+| Adverbs of degree (very, quite, too, absolutely, really, completely, almost, enough, strongly, totally, rather, extremely, fairly) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.17–18 |
+
+**Book 4:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs of degree (much, so, very) picked out of a text and used | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed p.9 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

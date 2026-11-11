@@ -1,6 +1,6 @@
 # Sources — Fixing sentence errors
 
-countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Barbados, Kuwait, Fiji, Samoa
+countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Barbados, Kuwait, Fiji, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -62,7 +62,7 @@ Education. Filed in english/books/sierra-leone.md
 | Editing and proofreading, and final-draft writing and critiquing, as the unit's writing work | Pakistan, *English 12*, Unit 2, printed pp.14–16 |
 | Spot the error as the unit's grammar work | Pakistan, *English 12*, Unit 8, printed p.60 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Kuwait, Fiji, Samoa).** Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
+**Acceptance count: taught in 18 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Kuwait, Fiji, Samoa, Uganda).** Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
 five-error clinic: Grade 11 names fragments, run-ons
 and comma splices together, and Grade 12 builds its
 writing strand on them, adding dangling modifiers and
@@ -290,3 +290,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sentence transformation and revision practice: rewriting sentences (fronted phrases, Not realizing…, I never…, passive openings, whose-joining, Not only…) (the reporting part is stocked in reported-questions and reported-commands; the unless-rephrasing part in conditionals) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.25–28 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Noun Phrases
 
-countries: Indonesia, Nepal, Fiji, Eritrea
+countries: Indonesia, Nepal, Fiji, Eritrea, Uganda
 
 Every part traces to its book and page.
 
@@ -16,7 +16,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — noun phrases named and built | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.62 |
 | Sub lesson 4 — adjective phrases | Indonesia, English for Change Grade 11, Unit 2, printed p.47 |
 
-**Acceptance count: taught in 4 countries (Indonesia, Nepal, Fiji, Eritrea).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the noun group taught in three of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its Grade 9 possessive-adjective sentence ("They have got long tails and horns") is stocked in Mine and Yours for the possessives it carries; the group it stands in is taught here. Other countries' noun-phrase teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 5 countries (Indonesia, Nepal, Fiji, Eritrea, Uganda).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the noun group taught in three of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its Grade 9 possessive-adjective sentence ("They have got long tails and horns") is stocked in Mine and Yours for the possessives it carries; the group it stands in is taught here. Other countries' noun-phrase teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 
 ## Nepal added 2026-11-11 (re-verification sweep merge)
@@ -58,3 +58,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Noun phrases: a noun/pronoun head with modifiers working as one noun (that girl; the man wearing a light blue shirt), as subject or object; building and identifying noun phrases | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.23–24 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

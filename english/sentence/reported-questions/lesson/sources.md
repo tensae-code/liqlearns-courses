@@ -1,6 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya, Afghanistan, Fiji, Eritrea, Tunisia
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya, Afghanistan, Fiji, Eritrea, Tunisia, Uganda
 Every part traces to its book and page.
 
 **Book 1:** Study English, Grade 12 (6th Year Secondary)
@@ -89,7 +89,7 @@ verification sweep.
 | The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
 | Reported questions (wh- and if/whether) | Mongolia, English XII, Unit 9, printed p.164 |
 
-**Acceptance count: taught in 25 countries (Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya, Afghanistan, Fiji, Eritrea, Tunisia).** Libya joins with indirect questions with polite frames and the reported-questions system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 26 countries (Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya, Afghanistan, Fiji, Eritrea, Tunisia, Uganda).** Libya joins with indirect questions with polite frames and the reported-questions system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.
@@ -359,3 +359,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reporting questions, inside the Senior Four sentence-transformation and revision unit | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.25–28 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

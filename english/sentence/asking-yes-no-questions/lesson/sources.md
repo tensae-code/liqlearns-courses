@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -293,9 +293,9 @@ cited once.
 | Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
 | Yes/no questions built two ways — with be (am/is/are) and with do/does — with dialogue practice asking and answering identity questions in the simple present | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed pp. 21, 25 |
 | The Easter egg game exchange "Have you got my egg? — No!", with making an Easter bunny mask | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.71 |
-**Acceptance count: taught in 40 countries (Bangladesh,
+**Acceptance count: taught in 41 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Cyprus, Eritrea, Tunisia).** Cyprus joins with its guessing and possession questions — 'Is it a…?' and 'Have you got…?' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What is it? It's a … / What are they?” (Grade 1) and present simple habit questions “Do you …? Yes, I do / No, I don't” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Cyprus, Eritrea, Tunisia, Uganda).** Cyprus joins with its guessing and possession questions — 'Is it a…?' and 'Have you got…?' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What is it? It's a … / What are they?” (Grade 1) and present simple habit questions “Do you …? Yes, I do / No, I don't” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -575,3 +575,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Types of questions: yes/no, wh-, indirect (embedded), appended, tag/tail, negative, statement and multiple-choice/free-response questions, and the answer shape each one takes (the tag part is stocked in question-tags, the wh- part in asking-with-question-words) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.1–2 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

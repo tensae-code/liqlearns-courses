@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 with bound-in
@@ -100,7 +100,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 29 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its letter writing — the e-pal e-mail, the holiday postcard, and Mr Hatch's gap-fill email (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 30 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its letter writing — the e-pal e-mail, the holiday postcard, and Mr Hatch's gap-fill email (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -672,3 +672,23 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter-writing vocabulary (envelope, invite, occasion, affectionate, reply, friend, address, party, letter, ceremony), with plurals and alphabetical ordering inside the lesson | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.13–14 |
+| Writing an informal (friendly) letter: writer's address, date, salutation, body, closing, name; completing a model letter and writing an invitation letter to a friend (writing task on p.21) | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.19–20 |
+
+**Book 2:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter writing (informal): parts and layout of a friendly letter (writer's address and date top-right, greeting left, indented paragraphs, friendly ending), with a model letter about a Leos Club children's-rights sensitisation | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.4–5 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

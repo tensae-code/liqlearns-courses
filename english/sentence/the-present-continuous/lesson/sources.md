@@ -1,6 +1,6 @@
 # Sources — The Present Continuous
 
-countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa
+countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -18,7 +18,7 @@ covers the 6th Year book only).
 | All four sub lessons — the present continuous taught across the book's doing chapters: "What are you doing?" with am/is/are + verb-ing over chores, play and classroom actions | Indonesia, English for Nusantara Kids Grade 3, printed pp.59–88 |
 | The present continuous for actions happening now (be + verb-ing; the spellings taking/cutting/beginning) | Mauritania, Study English, Grade 7, printed pp.61–63 |
 
-**Acceptance count: taught in 9 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
+**Acceptance count: taught in 10 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
 Mauritania joins with its Grade 7 book's present continuous
 for actions happening now (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 present continuous (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -149,3 +149,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous inside the three-tense unit: the present continuous for actions happening now | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.15–19 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

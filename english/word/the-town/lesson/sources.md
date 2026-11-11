@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -270,8 +270,8 @@ re-verification sweep.
 | Workbook “Different Places – Different Buildings” — practice on types of buildings across cultures with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 3, WB printed pp.5–16 |
 | Places met in a matching activity: a jungle, a zoo, a supermarket, a candy shop (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.50 |
 | Culture spot "Welcome to Britain": the London Eye — a teacher-read landmark text (135 metres high, capsules, views over London) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 5, pupil printed p.56 |
-**Acceptance count: taught in 40 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea, Tunisia).** Cyprus joins with its town places, from Year 4's set to Year 6's church, bookshop, bank, hotel, museum, theatre (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with town places — school, park, hospital, supermarket, bakery, library (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Checkpoint places set and the London Eye culture spot as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 41 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea, Tunisia, Uganda).** Cyprus joins with its town places, from Year 4's set to Year 6's church, bookshop, bank, hotel, museum, theatre (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with town places — school, park, hospital, supermarket, bakery, library (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Checkpoint places set and the London Eye culture spot as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -859,3 +859,16 @@ Book error E1, carried: Prime English's contents (printed p.2) lists Unit 13's f
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Post Office vocabulary (post, stamp, directory, parcel, money order, box, package, mail, aerogram, registered mail, telegram) | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed p.21 (exercises to p.22) |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

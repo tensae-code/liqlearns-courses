@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -492,8 +492,8 @@ verification sweep.
 | An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
 | Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
 | Passage comprehension taught as its own chapter: solved examples first, then exercises | Pakistan, *English Grammar & Composition 9–10*, Chapter V, printed p.31 |
-**Acceptance count: taught in 40 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+**Acceptance count: taught in 41 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -1331,3 +1331,46 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dialogue 'Kintu Gets COVID-19' — summary only: Juma tells Jessica that Kintu returned from Dubai, tested positive at Entebbe Airport and is quarantined; visitors are not allowed — read/acted dialogue with comprehension questions | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.11–12 |
+| Poem comprehension: a short two-stanza poem about COVID-19 as 'a funny but terrible disease' (by Matovu Brian) — theme summary only — answered in full sentences (stanzas, poet, safety items) | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.28–29 |
+| Passage comprehension — summary only: Namudira, a Ugandan girl in Butaleja District, writes about her Kenyan friend Betty and Chinese friend Lee, respecting each other's cultures and food, and her school's annual cultural festival | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.37–38 |
+| Poem 'Languages' (by Jireh Atugonza) — summary only: different peoples speak different languages; Uganda has many languages and English brings Ugandans together — comprehension in full sentences | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.40–41 |
+
+**Book 2:** *English Language Home-Study Learning, Senior One* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 44 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading passage 'Child Labour' — summary only: millions of children are trapped in child labour that denies health and education; about 168 million children aged 5–17 are affected, and prevention means protecting children's rights under the UN Convention on the Rights of the Child | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed p.7 |
+| Reading passage 'Pollution in Uganda' — summary only: pollution is a leading killer in developing countries; in Kampala air pollution comes mainly from transport/rapid motorisation, in rural areas from firewood cooking (article by Serginho Roosblad, 2015) — comprehension plus a 3-sentence summary of the dangers | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.8–9 |
+| Two poems compared — summaries only: 'Urban Life' (Webster Mubonwa: noise, factory pollution, rushing, paying for everything) and 'The Village' (Marma Gashe: Kanyiriri village of toil, old women trudging to weedy maize plots) — noting differences between town and village life | Uganda — *English Language Home-Study Learning, Senior One* (NCDC, 2020), printed pp.11–12 |
+
+**Book 3:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading passage — summary only: Ms Sheila Alice Angaza becomes the first Minister for Ethics, Integrity and Transparency in the fictional Republic of Tchweza and argues the country itself needs lessons in honesty after colonialism, coups and civil wars — comprehension on honesty/dishonesty | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.3–5 |
+| Reading passage 'Appreciate Yourself the Way You Are' — summary only: accept your body and abilities as you are; Auma answers Ojambo's teasing about her big head and thin legs by taking pride in her brain and her legs that carry her first to school — comprehension | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.6–7 |
+| Reading story — summary only: 'great people never die' — Mwalimu Julius Nyerere, the teacher who led Tanganyika to uhuru out of love for his country; and Bogere, a young man who shows patriotism by cleaning up his dirty suburb Naibowa — comprehension plus finding adverbs of degree in the story | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.19–21 |
+| Dialogue comprehension — summary only: Rosie's family debates her poor exam results — Aunt Betty says stay at school and work for a good job, Mother says leave and marry, Joseph says her practical brains suit farm work; Rosie is not ready to marry — plus writing a composition about your own future plans | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.29–31 |
+| Reading passage 'Opening a Bank Account' — summary only: from hiding money in bags and holes to bank accounts; paying in with a paying-in slip and counterfoil, cheque books, bounced cheques and being overdrawn ('in red'), statements — with the bank dialogue (Nambi opens a current account) put in order (the banking-word definitions are stocked in money-and-prices) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.38–41 |
+
+**Book 4:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Article 'Choosing a Career' — summary only: know yourself (skills, likes/dislikes, values), find out about occupations, make decisions, take action; a satisfying career needs a well-thought-out decision (its summary task is stocked in summarising) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.3–5 |
+| Reading comprehension by skimming and scanning: two career portraits — summary only: Mkami, who left an accounts job to build a crafts business with her carpenter cousin Jimmy, now employing 40 people; and Asha, the office manager who 'keeps the company going' at an education-book publisher — advantages/disadvantages and advice extracted | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.6–7 |
+| Reading for meaning: 'What do employers expect?' — summary only: employers want school leavers who know their own minds, have done homework before the interview, are ready to learn from less-qualified experienced workers, respect colleagues and are ambitious without greed — comprehension of a job-readiness passage (its job-readiness theme is stocked in job-interviews) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.10–11 |
+| Comprehension passage on globalisation — summary only: globalisation as growing interconnectedness (WHO wording quoted in the book): multinational companies, fast flows of goods, services, finance, people and ideas; an emerging global culture (baseball caps, jeans, global music/film) can clash with local traditions, and world languages like English dominate while local languages may die out; the 'global village' — with the Four Palm Hotel staff passage | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.20–21 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

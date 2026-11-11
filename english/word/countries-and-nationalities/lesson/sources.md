@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uganda
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
@@ -33,7 +33,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 4's countries and nationalities set — Cyprus/Cypriot first in its own book's list (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 20 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 4's countries and nationalities set — Cyprus/Cypriot first in its own book's list (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -297,3 +297,19 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Countries and nationalities: forming nationality words from country names (Uganda→Ugandan, China→Chinese, Japan→Japanese, Sudan→Sudanese, America→American) | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.34–35 |
+| Languages vocabulary: names of Ugandan and world languages (Luganda, Lumasaba, Runyankore-Rukiga, French, English, German, Latin, Kinyarwanda, Luo, Ateso, Kiswahili, Chinese, Ibo, Lingala) matched to the peoples who speak them | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.39–40 |
+
+Book error noted and taught corrected: the Primary Five book spells the Ugandan language cluster 'Runyankitura' (printed p.39) for Runyankore-Rukiga (Runyakitara).
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

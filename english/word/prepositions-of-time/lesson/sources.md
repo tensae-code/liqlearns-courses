@@ -1,6 +1,6 @@
 # Sources — Prepositions of Time
 
-countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia
+countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Uganda
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Prepositions inside travel and time questions — at / to / from / in / on / by | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.57 |
 | Prepositions of time — on + day/date, in + period | Nicaragua, Grade 9 Módulo Autoformativo, Unit 5B, PDF pp.137–139 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 12 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Uganda).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the at/on/in time system taught in four places — two student books and two compendium charts — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -163,3 +163,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of time (at, on, in, during, by, for — and when NOT to use them: before next/last/every…, yesterday/today/tomorrow), inside the prepositions unit | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.23–26 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

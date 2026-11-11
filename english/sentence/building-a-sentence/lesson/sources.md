@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -741,3 +741,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets (Primary Five; Senior One–Four, August 2020 — student's books, read page by page) plus the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008). 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. This lesson's Uganda share rests ONLY on the Teacher's Guide's English learning area — teacher-guide evidence of what Primary Three English lessons teach (guide §5 'Teaching English', printed pp.31–37, and the English sample lesson plans, Appendices ii–iii, printed pp.89–92; printed page = PDF page − 7 in the guide). A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section and is collapsed into that booklet. The rows below are stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md).
+
+**Book 1:** *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (teacher's guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2008, 100 pp, ISBN 978-9970-117-05-5. TEACHER-GUIDE EVIDENCE ONLY: only its English learning area was read (§5 'Teaching English', printed pp.31–37, and the English sample lesson plans, Appendices ii–iii, printed pp.89–92); cited as evidence of what Primary Three English lessons teach, never as a pupil's book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rearranging sentences into a paragraph and words into a sentence, inside the guide's sentence-level reading-and-writing set (§5 'Teaching English') | Uganda — *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008) — teacher-guide evidence, printed pp.31–32 |
+
+Uganda enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — a teacher's guide is cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

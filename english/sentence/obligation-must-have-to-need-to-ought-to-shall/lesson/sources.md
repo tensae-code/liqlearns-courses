@@ -1,6 +1,6 @@
 # Sources — Obligation Compared — Must, Have To, Need To, Ought To, Shall
 
-countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait, Eritrea, Tunisia
+countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait, Eritrea, Tunisia, Uganda
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ verification sweep.
 | Should with have to/has to — the full forms, including negatives and questions | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 | The obligation scale — must (100%) / have to / should (60%) / don't have to (0%) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C (printed p.38 in the filing's anchor) |
 
-**Acceptance count: taught in 9 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait, Eritrea, Tunisia).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 10 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait, Eritrea, Tunisia, Uganda).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 Nicaragua joins with the Grade 9 Student's Book's rules lesson (must/mustn't against should and may, PDF p.86) and the Grade 10 module's full should/have to treatment with its obligation scale — must (100%) / have to / should (60%) / don't have to (0%) (Unit 1C, the filing's anchor is printed p.38) (stocked 2026-11-11 by the re-verification sweep merge).
 
@@ -119,3 +119,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'need to' for obligation, set beside have to / has to / ought to / must / should, and rewriting obligation sentences with need to | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.26–27 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

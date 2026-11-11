@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -413,9 +413,9 @@ verification sweep.
 | “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
 | “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 | Past tenses for storytelling (past simple, past continuous, past perfect) | Mongolia, English XII, Unit 6, printed pp.107–108 |
-**Acceptance count: taught in 42 countries (Bolivia, Ghana,
+**Acceptance count: taught in 43 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -1049,3 +1049,18 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple past tense: past uses (habit, completed event), regular/irregular past forms, changing present and present-continuous sentences into the past (the past-perfect half of the unit is stocked in the-past-perfect) | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.10–14 |
+
+Book error noted and taught corrected: the Senior Two book introduces the simple past with 'the irregular verbs do not change' (printed p.10) — wrong as stated; irregular verbs change unpredictably, as the book's own examples (saw, kept, sang) show.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

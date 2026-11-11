@@ -1,6 +1,6 @@
 # Sources — Law and Crime Words
 
-countries: Yemen, Armenia, Eritrea
+countries: Yemen, Armenia, Eritrea, Uganda
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — the story of Doctor Crippen, the first criminal caught by radio (stocked as a plot summary only, never transcribed) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), Arts reader 1 “Crime and punishment”, printed p.42 |
 | Sub lesson 2 — young people and the law | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), Arts reader 3 “Young people and the law”, printed p.44 |
 
-**Acceptance count: taught in 3 countries (Yemen, Armenia, Eritrea).** Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 4 countries (Yemen, Armenia, Eritrea, Uganda).** Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Yemen's English books: the sweep re-read Pupil's Book 5 page by page and found its two law readers stocked nowhere in the course; its diff marks the topic "NEW LESSON NEEDED: law and crime words". Yemen's other five Teacher's Books (1, 2, 4, 5, 6) are link-only and were not read; nothing here rests on them. Other countries join as their books are read.
 
@@ -43,3 +43,18 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Home-Study Learning, Primary Five* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 60 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Peace-and-security vocabulary (cell, army, arrow, case, gun, court, judge, crime, police station, security, report, handcuffs, magistrate, witness, defence, peace), with peace/piece and cell/sell sound-alike work inside the lesson | Uganda — *English Home-Study Learning, Primary Five* (NCDC, 2020), printed pp.42–43 |
+
+Routing note: the expansion diff marks this topic 'NEW LESSON NEEDED: law, crime and security words'. This lesson already exists — it was built by the Yemen re-verification sweep merge — so Uganda's word set is stocked here and no duplicate lesson was built.
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya, Ethiopia, Cyprus
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya, Ethiopia, Cyprus, Uganda
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -60,7 +60,7 @@ covers the 6th Year book only).
 | Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
 | Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya, Ethiopia, Cyprus).** Cyprus joins with Year 6's 'I wish I could…' matched to places and sights (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with regrets — I wish / If only + past perfect (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 20 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya, Ethiopia, Cyprus, Uganda).** Cyprus joins with Year 6's 'I wish I could…' matched to places and sights (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with regrets — I wish / If only + past perfect (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -265,3 +265,16 @@ Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; t
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The imagined-condition forms behind wishes, taught inside the past-conditional unit: Type 2 and Type 3 patterns with 'were' for all persons in imagined conditions | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.1–2 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

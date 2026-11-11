@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
 Scheme of Work, and confirmed by the pupil's-book read of
@@ -72,7 +72,7 @@ PASSED 2026-11-06).
 | Paraphrasing named in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Précis writing as the unit's writing work | Pakistan, *English 12*, Unit 11, printed pp.84–87 (unit range) |
 
-**Acceptance count: taught in 20 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa).** India
+**Acceptance count: taught in 21 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Uganda).** India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
@@ -334,3 +334,22 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Summary writing: representing a text in a shorter version in your own words — opening sentence with title/author/main point, no own opinions; summary of the Tchweza passage as the worked example | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed p.5 |
+
+**Book 2:** *English Language Home-Study Learning, Senior Four* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 34 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Summary task on the 'Choosing a Career' article: the article read, then summarised in not more than 100 words (the article itself is stocked in answering-from-the-text) | Uganda — *English Language Home-Study Learning, Senior Four* (NCDC, 2020), printed pp.3–5 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

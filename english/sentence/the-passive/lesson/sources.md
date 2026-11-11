@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -346,8 +346,8 @@ verification sweep.
 | Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
-**Acceptance count: taught in 37 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
+**Acceptance count: taught in 38 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa, Uganda).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -662,3 +662,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Three* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 56 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Active and passive voice: when the passive is used (doer unknown, action matters more, doer obvious) and forming the passive (formation across tenses is stocked in the-passive-in-every-tense; the 'Growing Tea' process text in process-writing) | Uganda — *English Language Home-Study Learning, Senior Three* (NCDC, 2020), printed pp.41–43 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.

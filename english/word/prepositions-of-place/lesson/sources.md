@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 18 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its place words, from Year 1's in/on to Year 5's behind, in front of, near, far from (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 19 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its place words, from Year 1's in/on to Year 5's behind, in front of, near, far from (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -317,3 +317,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: five NCDC *Home-Study Learning* English booklets — *English Home-Study Learning, Primary Five* and *English Language Home-Study Learning, Senior One–Four* (Ministry of Education and Sports, August 2020), all student's books, read page by page — plus the English learning area of the *National Primary School Curriculum for Uganda, Teacher's Guide, Primary Three* (NCDC, 2008), which is teacher evidence only. 99 teaching items were placed fresh from the books; Uganda had no presence in the course before, so all 99 were missing. A seventh in-hand file, the *Primary Five Home-Study Merged Package* (NCDC, 2020), reprints the Primary Five booklet's English section lesson for lesson (all 27 lesson headings verified; pages spot-compared identical in content and printed pagination) and is collapsed into that booklet — no separate rows rest on it. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md). Stories and readings are stocked as plot summaries only. Printed page = PDF page − 6 in the five booklets.
+
+**Book 1:** *English Language Home-Study Learning, Senior Two* (student's book) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, August 2020, 36 pp. Read page by page in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of place, and prepositions attached to verbs (apply for, arrive at, depend on, listen to, rely on…), with the note that approach/attack/ask/enter/discuss/resemble take no preposition, inside the prepositions unit | Uganda — *English Language Home-Study Learning, Senior Two* (NCDC, 2020), printed pp.23–26 |
+
+Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
