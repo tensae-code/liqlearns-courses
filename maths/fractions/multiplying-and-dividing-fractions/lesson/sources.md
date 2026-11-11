@@ -209,6 +209,7 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 98:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 99:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 100:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -280,6 +281,7 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiplying and dividing fractions and mixed numbers (Grade 7 revisit) | Kuwait, Grade 7 Term 2 student book, Unit 5 — Fractions and operations, printed pp. 15–62 |
 | Multiplying and dividing fractions | Iran, Grade 5 student book, Ch. 2 |
 | Reciprocals defined; fraction multiplication and division consolidated | Iran, Grade 6 student book, Ch. 2 |
+| Fraction patterns continued (ادامه‌ی الگوهای کسری) — fraction work with patterns | Iran, Grade 4 student book, Ch. 2, printed p. 28 |
 | Multiplying a fraction by a non-zero whole number (a fraction of a quantity); multiplying two fractions, and mixed numbers by fractions and by mixed numbers; dividing a fraction or mixed number by a whole number (multiply by the reciprocal) | Pakistan (Punjab), Grade 4 (PCTB), Unit 3, printed pp. 63–69 |
 | Multiplying a fraction by a whole number as repeated addition; multiplying two or more fractions (proper, improper and mixed) with cancelling; dividing one fraction by another by multiplying by the reciprocal; fraction expressions simplified with BODMAS, including { } brackets | Pakistan (Punjab), Class 5 (PCTB, Urdu-medium), printed pp. 33–40 |
 | Multiplying rational numbers; dividing rational numbers using the reciprocal; division by zero is undefined | Pakistan (Punjab), Class 7 (PCTB), printed pp. 13–14 |

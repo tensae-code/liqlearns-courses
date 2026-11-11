@@ -138,6 +138,7 @@ Every part traces to its book and page.
 **Book 93:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 94:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 95:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 96:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -219,6 +220,7 @@ Every part traces to its book and page.
 | Quadratic equations — factorising, completing the square, the discriminant and the formula; the parabola | Iran, Grade 10 Mathematics (1) student book, Ch. 4, printed pp. 69–93 |
 | Quadratic equations — factorising and the formula (no completing-the-square development in this book) | Iran, Grade 10 Mathematics and Statistics (1) student book (Humanities branch), Ch. 1, printed pp. 19–32 |
 | Sum and product of the roots | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 1, printed pp. 7–16 |
+| Quadratic equations (معادله درجه دوم) | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 1, printed p. 11 |
 | Quadratic equations: definition and the general form | China, Grade 9 Volume 1, Ch. 21, printed pp. 2–4 |
 | Solving by direct square roots; solving by completing the square | China, Grade 9 Volume 1, Ch. 21, printed pp. 5–9 |
 | The quadratic formula and the discriminant | China, Grade 9 Volume 1, Ch. 21, printed pp. 9–12 |

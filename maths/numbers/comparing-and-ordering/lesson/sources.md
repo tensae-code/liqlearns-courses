@@ -332,6 +332,7 @@ Every part traces to its book and page.
 **Book 239:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 240:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 241:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -507,6 +508,7 @@ Every part traces to its book and page.
 | More and less; the signs <, >, = | Iran, Grade 1 student book, printed pp. 73–82, 116, 131 |
 | Ordering rational numbers | Iran, Grade 8 student book, Ch. 1 |
 | Ordering real numbers on the number line | Iran, Grade 9 student book, Ch. 2 |
+| Comparing numbers (مقایسه‌ی عددها) | Iran, Grade 3 student book, Ch. 6, printed p. 100 |
 | Comparing and ordering two-digit numbers; the comparison language "much more / a little more, much less / a little less" | China, Grade 1 Volume 2, Unit 4, printed pp. 42–45 |
 | Comparing and ordering numbers to 10,000; ordering sets of numbers | China, Grade 2 Volume 2, Unit 7, printed pp. 90, 92 |
 | Real numbers on the number line; comparing real numbers, including root expressions | China, Grade 7 Volume 2, Ch. 6, printed pp. 54, 57, 61–62 |

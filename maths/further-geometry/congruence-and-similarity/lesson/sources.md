@@ -224,6 +224,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 118:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 119:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 120:** *Toán 8, Tập Một* (Mathematics 8, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35041-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 121:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -321,8 +322,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Thales' theorem on proportional segments and its converse, with the fourth proportional construction; similar figures and similar triangles with the similarity coefficient; the three similarity criteria (AA; SAS; SSS); perimeters of similar triangles in ratio k and areas in ratio k² | North Macedonia, Grade 8 (2010 edition), Theme 1, printed pp. 16–36 |
 | Congruent figures matched by superposition | Iran, Grade 7 student book, Ch. 4 |
 | The congruence criteria SSS, SAS and ASA, stated | Iran, Grade 8 student book, Ch. 6, printed p. 95 |
-| Congruence proved; similar figures (this book states no AA/SAS/SSS similarity criteria) | Iran, Grade 9 student book, Ch. 3, printed pp. 53–58 |
+| Congruence proved; similar figures (this book states no AA/SAS/SSS similarity criteria) | Iran, Grade 9 student book, Ch. 3, printed pp. 37–58 (proof introduced at printed p. 37; congruent triangles at printed p. 44; similar figures at printed pp. 53–58 — page range corrected 2026-11-11, it previously covered the similar-figures lesson only) |
 | Thales' theorem, proved; the similarity criteria AA, SAS and SSS | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 2, printed pp. 34–44 |
+| Reasoning and Thales' theorem | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 2, printed p. 31 |
+| Similarity of triangles | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 2, printed p. 42 |
 | Classifying triangles by their sides — equilateral and isosceles (side-based classification only) | China, Grade 4 Volume 2, Unit 5, printed p. 64 |
 | Enlarging and reducing figures: same shape, sides in one ratio, angles equal | China, Grade 6 Volume 2, Unit 4, printed pp. 59–60 |
 | Similar figures and similar polygons; the similarity ratio | China, Grade 9 Volume 2, Ch. 27, printed pp. 24–27 |

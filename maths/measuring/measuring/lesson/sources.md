@@ -452,6 +452,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 259:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 260:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 261:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 262:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 263:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -659,6 +662,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Longer and shorter; comparing weights — marking the heavier object | Iran, Grade 1 student book, printed p. 168 |
 | First clock reading — the hours on the clock face | Iran, Grade 1 student book, printed p. 112 |
 | Measuring length — centimetres and millimetres | Iran, Grade 2 student book, Ch. 5 |
+| Measuring length (اندازه‌گیری طول) | Iran, Grade 4 student book, Ch. 4, printed p. 90 |
+| Measuring capacity (اندازه‌گیری گنجایش) | Iran, Grade 5 student book, Ch. 6, printed p. 118 |
+| Length and surface area — the measuring half (طول و سطح) | Iran, Grade 6 student book, Ch. 5, printed p. 88 |
 | Grams and kilograms: 1 kg = 1000 g; estimating mass and choosing between g and kg | China, Grade 2 Volume 2, Unit 8, printed pp. 101–108 |
 | The calendar: months and days, leap years, and the 24-hour clock | China, Grade 3 Volume 2, Unit 6, printed pp. 76–84 |
 | Guide evidence: the field-measurement activity "the distance between two inaccessible points" designed in full — group roles, record table, error analysis, repeat-measurement advice | China, Compulsory Volume 4 (B edition) teacher guide, printed pp. 36–39 (teacher evidence) |

@@ -166,6 +166,7 @@ Every part traces to its book and page.
 **Book 113:** *Mathematics, Grade 6, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-376-0, National Library deposit no. 2022/4/2063 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 114:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 115:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 116:** *Mathematics (1), Grade 10 student book* (shared by the Mathematical Sciences and Experimental Sciences branches; code 110211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2512-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -250,6 +251,7 @@ Every part traces to its book and page.
 | Square roots — the root taken as the positive root; estimating roots; no surd arithmetic yet | Iran, Grade 7 student book, Ch. 7, printed pp. 93–95 |
 | Radical rules — √(ab) and √(a/b) | Iran, Grade 8 student book, Ch. 7, printed pp. 115–117 |
 | Cube roots; arithmetic with radicals; rationalising denominators | Iran, Grade 9 student book, Ch. 4, printed pp. 68–77 |
+| The n-th root (ریشه nام) | Iran, Grade 10 Mathematics (1) student book, Ch. 3, printed p. 54 |
 | The arithmetic square root; square roots of perfect squares | China, Grade 7 Volume 2, Ch. 6, printed p. 40 |
 | Estimating √2; irrational numbers introduced as non-terminating, non-repeating decimals | China, Grade 7 Volume 2, Ch. 6, printed pp. 41–42 |
 | Comparing roots; the decimal-shift pattern for square and cube roots | China, Grade 7 Volume 2, Ch. 6, printed pp. 43–44 |

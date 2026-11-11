@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania, Iran
 
 Every part traces to its book and page.
 
@@ -47,6 +47,8 @@ Every part traces to its book and page.
 **Book 34:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 35:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 36:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Hesaban (2) [Calculus (2)], Grade 12 student book* (Mathematical Sciences branch; code 112214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3112-9. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -104,8 +106,10 @@ Every part traces to its book and page.
 | Solving trigonometric equations | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U5 L2, printed p. 124 |
 | Solving trigonometric equations | Jordan, Grade 12 Student Book Term 1 (Academic Track), Unit 2, Lesson 3, printed p. 61 |
 | Workbook practice: trigonometric identities and equations (Maths T1 U2) | Jordan, Grade 12 Workbook Term 1, Unit 2 (workbook evidence) |
+| Trigonometric equations (معادلات مثلثاتی) | Iran, Grade 12 Hesaban (2) student book (Mathematical Sciences branch), Ch. 2, Lesson 2, printed pp. 35–44 |
+| Trigonometric equations (معادله‌های مثلثاتی) | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 2, Lesson 2, printed p. 42 |
 
-**Acceptance count: taught in 23 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania)**.** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 24 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania, Iran)**.** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
 
 Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.
 

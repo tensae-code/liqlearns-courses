@@ -231,6 +231,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 106:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 107:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 108:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 109:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -298,6 +299,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry by folding and by mirror | Iran, Grade 2 student book, Ch. 3 |
 | Axial symmetry and central symmetry | Iran, Grade 5 student book, Ch. 4 |
 | Centre of symmetry; rotational symmetry | Iran, Grade 6 student book, Ch. 4 |
+| Symmetric patterns (الگوهای متقارن) | Iran, Grade 3 student book, Ch. 1, printed p. 19 |
 | Axially symmetric figures and their axes of symmetry, met in patterns and paper cutting | China, Grade 2 Volume 2, Unit 3, printed pp. 29, 33–36 |
 | Axial symmetry on grids: drawing the other half of a figure and its axis | China, Grade 4 Volume 2, Unit 7, printed pp. 82–84 |
 | Central symmetry as a half-turn about a centre; rotational symmetry of regular polygons and of the circle | China, Grade 9 Volume 1, Ch. 23, printed pp. 64–67, 73 |

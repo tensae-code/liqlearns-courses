@@ -377,6 +377,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 186:** *Toán 9, Tập Hai* (Mathematics 9, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39237-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 187:** *Toán 11, Tập Hai* (Mathematics 11, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35080-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 188:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -554,6 +555,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volumes of prisms, V = S·h; the lateral surface area of a cylinder, 2πrh | Iran, Grade 7 student book, Ch. 6, printed pp. 69–82 |
 | Volume and surface area of the sphere — V = (4/3)πR³, S = 4πR²; the pyramid and the cone at one third | Iran, Grade 9 student book, Ch. 8, printed pp. 130–144 |
 | Solid geometry — the shapes themselves; volumes are not computed in this book | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 4 |
+| Volume and mass (حجم و جرم) | Iran, Grade 6 student book, Ch. 5, printed p. 94 |
 | Nets of cuboids and cubes; the surface area of cuboids and cubes | China, Grade 5 Volume 2, Unit 3, printed pp. 23–26 |
 | Volume and its units; the cuboid volume V = abh and the cube volume V = a³; V = Sh; converting volume units; capacity; the volume of irregular objects by displacement | China, Grade 5 Volume 2, Unit 3, printed pp. 27–39 |
 | Cylinders: nets, surface area and volume; cones: surface and volume V = ⅓Sh | China, Grade 6 Volume 2, Unit 3, printed pp. 17–36 |

@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran
 
 Every part traces to its book and page.
 
@@ -103,6 +103,11 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 66:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 67:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 68:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 69:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 70:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 71:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -260,8 +265,13 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Parallel straight lines | Jordan, Grade 3 Student Book Term 1, Unit 6, Lesson 3, printed p. 100 |
 | Parallel and intersecting lines | Jordan, Grade 4 Student Book Term 1, Unit 5, Lesson 3, printed p. 94 |
 | Workbook practice: geometry and patterns (T1 U6) | Jordan, Grade 3 Workbook Term 1, Unit 6 (workbook evidence) |
+| Line, ray, segment (خط، نیم‌خط، پاره‌خط) | Iran, Grade 3 student book, Ch. 5, printed p. 82 |
+| Perpendicular and parallel lines (عمود ـ موازی) | Iran, Grade 4 student book, Ch. 6, printed p. 122 |
+| Lines and angles (خط و زاویه) — the lines half | Iran, Grade 6 student book, Ch. 5, printed p. 102 |
+| Relations between segments (روابط بین پاره‌خط‌ها) | Iran, Grade 7 student book, Ch. 4, printed p. 42 |
+| Parallelism and perpendicularity (توازی و تعامد) | Iran, Grade 8 student book, Ch. 3, printed p. 34 |
 
-**Acceptance count: taught in 22 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 23 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Vietnam carries the lines strand from Grade 2 (points, segments, straight lines, curves, collinear points) through Grade 4 (perpendicular and parallel lines), Grade 6 (points and lines, rays, segments and midpoints) and Grade 7 (recognising parallel lines, Euclid's postulate, perpendicular and oblique lines). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

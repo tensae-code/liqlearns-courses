@@ -61,6 +61,8 @@ Every part traces to its book and page.
 **Book 45:** *Mathematics, Grade 11, Term 1, General track (Literary section)* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (Deposit no. 10555/2015; ISBN 978-977-706-012-7). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 46:** *Mathematics, Grade 11, Term 1, General track (Literary section), Arabic edition* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (the held file is a double scan of this one book; cited once). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 47:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 48:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -75,6 +77,10 @@ Every part traces to its book and page.
 | Limits at infinity | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L11, printed p. 70 |
 | Evaluating limits algebraically | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L12, printed p. 77 |
 | Limits at infinity and asymptotes | Iran, Hesaban (2), pp.46–67; Pakistan, Class 12, Ch.1, p.25 (taught corrected: the limit at infinity is −∞, not ∞) |
+| The limit of a function at a point | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 6, printed p. 120 |
+| Limits at infinity and the rules for calculating limits | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 6, printed p. 128 |
+| The limit of a function at a point | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 3, printed p. 50 |
+| Limits at infinity | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 3, printed p. 58 |
 | Sequence limits and the number e | Armenia, Grade 11, Ch.3, §§5–7, pp.58–70; Vietnam, Toán 11 v1, Bài 15, p.106; Cambodia, Grade 12 Advanced, Ch.1, pp.1–18 (student book only — the Advanced teacher guide's six sequence-limit answers are unverified and are cited nowhere); Cambodia, Grade 11 Basic, Ch.1, pp.2–9 |
 | Sandwich theorem and sin θ/θ → 1 | Pakistan, Class 12, Ch.1, ch-pp.18–31; South Sudan, Secondary Additional Mathematics 4, pp.43–49; Kuwait, Grade 12 T1, pp.42–47 (taught corrected: sin x/x at 37π/7 ≈ −0.0471; cos x/x at 100 = +0.00862; at 450 = −0.00162256) |
 | ε-δ definition and proofs by definition | Cambodia, Grade 12 Basic, Ch.1 §1.1, pp.2–27 (the p.7 slip is taught corrected: 369/4, thresholds ≈11.1/−8.1); Cambodia, PRIVATE Limits and Continuity booklet (Khem Putthi), pp.9–64 |

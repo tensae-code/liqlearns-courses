@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran
 
 Every part traces to its book and page.
 
@@ -40,6 +40,7 @@ Every part traces to its book and page.
 **Book 27:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Geometry (1), Grade 10 student book* (Mathematical Sciences branch; code 110213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2501-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -100,8 +101,9 @@ Every part traces to its book and page.
 | Visualising 3-D objects; views (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 98 Visualising 3-D objects, printed p. 74; South Africa, Grade 7 Book 2, Ws 102a–b Views, printed pp. 82, 84 |
 | Visualise geometric objects; perspective (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 118 Visualise geometric objects, printed p. 140; South Africa, Grade 9 Book 2, Ws 120a–c Perspective, printed pp. 144, 146, 148 |
 | Workbook practice: three-dimensional shapes (T2 U8) | Jordan, Grade 8 Workbook Term 2, Unit 8 (workbook evidence) |
+| Drawing the views of a solid (ترسیم‌های هندسی) | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 4, printed pp. 77–96 |
 
-**Acceptance count: taught in 13 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 14 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 

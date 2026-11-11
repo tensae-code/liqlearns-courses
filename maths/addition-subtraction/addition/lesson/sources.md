@@ -514,6 +514,7 @@ Every part traces to its book and page.
 | Addition first written as an expression; adding on the number line | Iran, Grade 1 student book, §13, printed p. 86 onwards |
 | Adding two- and three-digit numbers, with carrying | Iran, Grade 2 student book, Chs. 2 and 6 |
 | Addition of larger numbers | Iran, Grade 3 student book, Ch. 6 |
+| Addition with fingers and objects; number bonds (first pass) | Iran, Grade 2 student book, Ch. 1, printed p. 9 (placements give this page as approximate) |
 | Adding whole tens; two-digit + one-digit and two-digit + whole-ten, with carrying | China, Grade 1 Volume 2, Unit 6, printed pp. 62–65 |
 | The part-relations of the four operations: addend + addend = sum, and recovering an addend from the sum | China, Grade 4 Volume 2, Unit 1, printed pp. 2–3 |
 | The addition and subtraction laws stated in letters, and simplifying additions with them | China, Grade 4 Volume 2, Unit 3, printed pp. 17–21 |

@@ -435,7 +435,7 @@ Every part traces to its book and page.
 | Multiplication facts and strategies; multiplying by one- and two-digit numbers | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed pp. 108–136 |
 | Doubling to 10 as readiness for ×2 (the same spread's halving is fair sharing, not division notation, and is not filed here) | North Macedonia, Grade 1, Block E, printed p. 98 |
 | Multiplication tables seeded by skip-counting charts (counting by 6s, 7s and 8s) | Iran, Grade 1 student book, printed pp. 149, 153, 156 |
-| Multiplication built up — arrays and the tables | Iran, Grade 3 student book, Chs. 2 and 8 |
+| Multiplication built up — arrays and the tables | Iran, Grade 3 student book, Chs. 4 and 8 (corrected 2026-11-11 from "Chs. 2 and 8": Ch. 2 is the four-digit-numbers chapter and teaches no multiplication; the multiplication lessons are Ch. 4, printed pp. 64–72) |
 | Two-digit by two-digit multiplication | Iran, Grade 4 student book, Ch. 3 |
 | Groundwork for multiplication: repeated addition as grouping | China, Grade 1 Volume 2, Unit 6, printed pp. 77–78 |
 | Multiplication-table facts practised as the tool for division — fact families linking × and ÷ | China, Grade 2 Volume 2, Units 2 and 4, printed pp. 19, 25, 38–44 |

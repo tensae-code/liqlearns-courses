@@ -452,6 +452,7 @@ Every part traces to its book and page.
 | Subtraction first written as an expression | Iran, Grade 1 student book, §14, printed p. 93 onwards |
 | Subtracting two- and three-digit numbers, with borrowing | Iran, Grade 2 student book, Chs. 2 and 6 |
 | Subtraction of larger numbers | Iran, Grade 3 student book, Ch. 6 |
+| Subtraction with fingers and objects; number bonds (first pass) | Iran, Grade 2 student book, Ch. 1, printed p. 9 (placements give this page as approximate) |
 | Subtraction within 20 with borrowing; how-many-more / how-many-fewer problems; the subtraction table and its patterns | China, Grade 1 Volume 2, Units 2 and 6, printed pp. 8–24, 69–70 |
 | The part-relations of the four operations: minuend − subtrahend = difference, and recovering each part | China, Grade 4 Volume 2, Unit 1, printed pp. 2–3 |
 | Simplifying chained subtractions: a − b − c = a − (b + c) | China, Grade 4 Volume 2, Unit 3, printed pp. 20–21 |

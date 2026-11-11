@@ -404,6 +404,7 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 **Book 230:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 231:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 232:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -569,6 +570,8 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Fractions in words only — parts of a whole, no notation yet | Iran, Grade 2 student book, Ch. 7 |
 | Fraction notation; equal fractions; comparing fractions | Iran, Grade 3 student book, Ch. 3 |
 | Fractions developed further | Iran, Grade 4 student book, Ch. 2 |
+| Mixed numbers (عددهای مخلوط) | Iran, Grade 4 student book, Ch. 5, printed p. 100 |
+| Fractions greater than 1 (کسرهای بزرگ‌تر از واحد) | Iran, Grade 5 student book, Ch. 2, printed p. 22 |
 | The meaning of a fraction; the unit "1" as one object or as a whole group; fractions on the number line | China, Grade 5 Volume 2, Unit 4, printed pp. 45–48 |
 | Fractions as division: a/b = a ÷ b | China, Grade 5 Volume 2, Unit 4, printed pp. 49–52 |
 | Proper, improper and mixed numbers, and converting between them | China, Grade 5 Volume 2, Unit 4, printed pp. 53–54 |

@@ -442,6 +442,7 @@ Every part traces to its book and page.
 **Book 318:** *Toán 9, Tập Hai* (Mathematics 9, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39237-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 319:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35079-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 320:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -699,6 +700,7 @@ Every part traces to its book and page.
 | Displaying data | Iran, Grade 11 Statistics and Probability student book (Mathematical Sciences branch), Ch. 3, Lesson 1, printed p. 70 |
 | Data collection — methods and sampling | Iran, Grade 11 Statistics and Probability student book (Mathematical Sciences branch), Ch. 4, printed pp. 98–111 |
 | The statistics cycle — question, data, display, conclusion | Iran, Grade 12 Mathematics and Statistics (3) student book (Humanities branch), Ch. 1, Lesson 3, printed pp. 28–44 |
+| Grouping data into tables (گروه‌بندی داده‌ها) | Iran, Grade 8 student book, Ch. 8, printed p. 120 |
 | Classifying objects by one standard, then re-sorting the same objects by a different standard; picture graphs | China, Grade 1 Volume 2, Unit 3, printed pp. 27–32 |
 | Class surveys tallied with 正 marks and read back; pictographs where one block stands for 1, then for 2 | China, Grade 2 Volume 2, Unit 1, printed pp. 2–6 |
 | Compound (two-way) tables built from survey counts | China, Grade 3 Volume 2, Unit 3, printed pp. 36–40 |

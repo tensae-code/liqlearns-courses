@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran
 
 Every part traces to its book and page.
 
@@ -86,6 +86,7 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 **Book 57:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 58:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 59:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -242,7 +243,8 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Properties of multiplication | Jordan, Grade 3 Student Book Term 1, Unit 4, Lesson 9, printed p. 72 |
 | Multiplication using the distributive property | Jordan, Grade 3 Student Book Term 2, Unit 7, Lesson 3, printed p. 12 |
 | Algebraic properties | Jordan, Grade 6 Student Book Term 2, Unit 5, Lesson 4, printed p. 24 |
-**Acceptance count: taught in 18 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam)**.** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| Properties of multiplication — the laws worked through multiplication (خاصیت‌های ضرب) | Iran, Grade 3 student book, Ch. 4, printed p. 70 |
+**Acceptance count: taught in 19 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran)**.** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Vietnam carries the laws of arithmetic in Grade 4 — the commutative and associative properties of addition (Bài 24) and of multiplication (Bài 40), and the distributive property of multiplication over addition (Bài 42). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

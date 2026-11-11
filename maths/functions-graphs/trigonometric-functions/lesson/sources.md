@@ -70,6 +70,10 @@ Every part traces to its book and page.
 **Book 49:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 50:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 51:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Mathematics (1), Grade 10 student book* (shared by the Mathematical Sciences and Experimental Sciences branches; code 110211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2512-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *Hesaban (1) [Calculus (1)], Grade 11 student book* (Mathematical Sciences branch; code 111214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2787-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -82,6 +86,11 @@ Every part traces to its book and page.
 | Directed angle in standard position; degree/radian conversion; unit circle; calculator values of circular functions — taught corrected: printed p.84 gives tan(−36°) as −0.588, which is sin(−36°); the true value is tan(−36°) ≈ −0.7265 | Iraq, Grade 10 Scientific student book, Chapter 4, printed p.84 (calculator exercise) |
 | Trigonometric functions of any angle, inside the trigonometry chapter | Greece, Algebra B' Lykeiou (Grade 11) (W6), Chapter 3 — Trigonometry, printed pp.49–127 |
 | Periodicity, period/max/min of y = a·sin bx + c and y = a·cos bx + c; the tangent function, its domain and graph (pp.30–34) | Iran, Hesaban (2), Grade 12 (Mathematical Sciences branch), Chapter 2, printed pp.24–44 |
+| The unit circle (دایره مثلثاتی) | Iran, Grade 10 Mathematics (1) student book, Ch. 2, printed pp. 28–46 |
+| Trigonometric ratios of some angles (نسبت‌های مثلثاتی برخی زاویه‌ها) | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 4, printed p. 98 |
+| Trigonometric functions (توابع مثلثاتی) | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 4, printed p. 105 |
+| Trigonometric functions (توابع مثلثاتی) | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 4, printed p. 88 |
+| Periodicity and the tangent function (دوره تناوب و تابع تانژانت) | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 2, printed p. 32 |
 | Trigonometric functions as their own lesson | Vietnam, Toán 11, Tập Một, Bài 3 — Hàm số lượng giác, printed p.22 |
 | Graphs of sin, cos, tan: period, amplitude, and the asymptotes of tan at odd multiples of π/2; radian measure alongside degrees inside the same unit | Ethiopia, Grade 10 student book, Unit 4, printed pp.199–250 |
 | Graphs of trigonometric functions | South Sudan, Secondary Mathematics Student's Book 4, Unit 2, printed pp.41–45 |

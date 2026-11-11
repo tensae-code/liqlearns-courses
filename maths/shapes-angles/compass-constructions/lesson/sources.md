@@ -84,6 +84,7 @@ Every part traces to its book and page.
 **Book 55:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 56:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 57:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *Mathematics (2), Grade 11, Experimental Sciences branch* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -95,6 +96,7 @@ Every part traces to its book and page.
 | Constructing 75°, 105°, 150° by joining angles | Sierra Leone, SSS 2 Term 2, L83 (p.101) |
 | Parallels and perpendiculars through a point | Laos, Grade 6, L12–L14, L18, L20 (pp.87–107, 136–166); Kuwait, Grade 7 Term 2, Unit 6 (pp.63–128); Kuwait, Grade 8 Term 2, L5-2 (p.26) |
 | Constructions with reasons (justifications) | Iran, Geometry (1) (pp.10–16) |
+| Geometric constructions (ترسیم‌های هندسی) | Iran, Mathematics (2), Grade 11, Ch.2, printed p.26 |
 | The stages of a construction problem | Armenia, Geometry 7, Ch.II §10, §17 (pp.34–76, 107–140) |
 | First ruler-and-compass figures | Bangladesh, Class 7, Exp.5 (pp.104–124); Bangladesh, Class 4, Ch.14 (pp.155–160) |
 | Copying an arc: with the compasses, transferring the opening of a given arc (قوس) to draw an arc equal to it on another circle | Syria, Grade 6 pupil's book, printed pp. 105–106 |

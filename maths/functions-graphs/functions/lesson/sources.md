@@ -240,6 +240,7 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 154:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 155:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 156:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 157:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -377,6 +378,8 @@ CITATION CHECK PASSED 2026-11-05).
 | Functions (this book teaches neither composition nor inverse functions) | Iran, Grade 11 Mathematics and Statistics (2) student book (Humanities branch), Ch. 2, printed pp. 21–54 |
 | Monotonicity; transformations of graphs | Iran, Grade 12 Hesaban (2) student book (Mathematical Sciences branch), Ch. 1 |
 | Composition of functions; inverse functions | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 1 (composition, Lesson 2, printed pp. 11–23; inverse, Lesson 3, printed pp. 24–30) |
+| Input–output machines (ماشین ورودی ـ خروجی) — the first function idea | Iran, Grade 3 student book, Ch. 1, printed p. 13 |
+| The parabola (سهمی) | Iran, Grade 10 Mathematics (1) student book, Ch. 3, printed p. 87 |
 | Direct and inverse proportion as the first named function relations, y/x = k and xy = k (no function vocabulary used yet); a journey graph read in the general review | China, Grade 6 Volume 2, Unit 4 and Unit 6, printed pp. 45–49, 85 |
 | The quadratic function defined; y = ax²; the vertex form; the general form reached by completing the square | China, Grade 9 Volume 1, Ch. 22, printed pp. 28–40 |
 | Optimisation with quadratic functions; fitting a quadratic to measured data | China, Grade 9 Volume 1, Ch. 22, printed pp. 49–53 |

@@ -373,6 +373,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 216:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 217:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 218:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 219:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -540,6 +542,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Measuring angles with a protractor; degrees | Iran, Grade 4 student book, Ch. 4, printed pp. 78–85 |
 | Angle bisectors; the angle sums of polygons | Iran, Grade 5 student book, Ch. 4 |
 | Interior angles of a polygon — (n − 2) × 180°; exterior angles sum to 360° | Iran, Grade 8 student book, Ch. 3 |
+| Lines and angles (خط و زاویه) — the angles half | Iran, Grade 6 student book, Ch. 5, printed p. 102 |
+| Angles (زاویه) | Iran, Grade 7 student book, Ch. 4, printed p. 45 |
 | Classifying triangles by their angles; the triangle angle sum 180°, proved by paper folding; the quadrilateral angle sum 360° | China, Grade 4 Volume 2, Unit 5, printed pp. 63, 67–69 |
 | Adjacent supplementary angles and vertically opposite angles; perpendicular lines and the shortest perpendicular distance | China, Grade 7 Volume 2, Ch. 5, printed pp. 2–5 |
 | Angles at a transversal — corresponding, alternate interior, same-side interior; parallel lines: the postulate, the tests for parallelism, and the properties of parallels | China, Grade 7 Volume 2, Ch. 5, printed pp. 6–20 |

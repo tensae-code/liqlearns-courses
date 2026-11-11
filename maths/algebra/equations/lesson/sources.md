@@ -302,6 +302,8 @@ Every part traces to its book and page.
 **Book 223:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 224:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 225:** *Mathematics and Statistics (1), Grade 10 student book* (Humanities branch; code 110212) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2503-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 226:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -448,6 +450,8 @@ Every part traces to its book and page.
 | Solving equations by trial substitution and by the balance principles | Iran, Grade 7 student book, Ch. 3 |
 | Linear equations, including fractional equations — (1/2)x − 1/3 = 5/6 gives x = 7/3 | Iran, Grade 8 student book, Ch. 4, printed p. 66 |
 | Rational, radical and absolute-value equations | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 1 |
+| Equations (معادله) | Iran, Grade 10 Mathematics and Statistics (1) student book (Humanities branch), Ch. 1, printed p. 10 |
+| Rational and radical equations (معادله‌های گویا و رادیکالی) | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 1, printed p. 19 |
 | First formal solve-the-equation exercises, set inside the fraction exercise sets | China, Grade 5 Volume 2, Unit 6, printed p. 95 |
 | Solving equations consolidated in the general review (the balance method carried over from Volume 1) | China, Grade 6 Volume 2, Unit 6, printed pp. 81–83 |
 | An equation defined as two equal expressions, modelled by a balance; a linear equation in one variable (general form ax + b = 0); solving by the balance method — the same operation on both sides — and checking by substitution; real-life problems modelled and solved | Pakistan (Punjab), Class 6 (PCTB), printed pp. 94–101 |

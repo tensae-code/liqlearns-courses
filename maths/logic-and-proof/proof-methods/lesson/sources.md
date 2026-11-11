@@ -59,6 +59,8 @@ Every part traces to its book and page.
 **Book 39:** *Mathematics, Grade 7* (Zabara et al., NIS line, Parts 1–2) — Kazakhstan, NIS. (Filed in the records as “Algebra”; the books are mixed mathematics — Part 1 carries geometry and Part 2's sampled chapters are geometry; the scans carry no contents page, and Part 2 beyond the sampled chapters is placed from samples.) Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 40:** *Mathematics, Grade 8, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-380-7, National Library deposit no. 2022/4/2065 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Mathematics (2), Grade 11, Experimental Sciences branch* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Statistics and Probability, Grade 11, Mathematical Sciences branch* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2773-3. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -73,6 +75,8 @@ Every part traces to its book and page.
 | The flawed printed proof, diagnosed | Iran, Grade 9, Ch.3, p.37 |
 | Proof by contradiction | Kazakhstan, Turapbekov Geometry 7, §3, p.36; Shynybekov Geometry 7, Ch.1, p.27; Armenia, Geometry 7, Ch.II §9, within pp.34–76; Iran, Discrete Mathematics, Ch.1 L1, pp.2–8 |
 | Disproof by counterexample; proof by cases; direct proof | Iran, Discrete Mathematics, Ch.1 L1, pp.2–8 (F₅ = 641 × 6,700,417 at p.2; parity case-split at p.4) |
+| Reasoning in geometry, with Thales' theorem | Iran, Mathematics (2), Grade 11, Ch.2, printed p.31 |
+| Mathematical reasoning (استدلال ریاضی) | Iran, Statistics and Probability, Grade 11, Ch.1, printed p.12 |
 | Validity, modus ponens / tollens, affirming-the-consequent fallacy | Laos, Grade 10, Ch.I L3, pp.20–29 |
 | Deductive vs inductive reasoning; main methods of proof and refutation | Armenia, Grade 11 (natural-mathematics stream), Ch.3 §§3–5, pp.63, 68, 72 |
 | Proving and refuting general (∀) and existential (∃) assertions | Armenia, Grade 12 logic book, §5, p.30 |

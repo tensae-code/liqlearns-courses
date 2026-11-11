@@ -86,6 +86,10 @@ Every part traces to its book and page.
 **Book 58:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 60:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 62:** *Hesaban (1) [Calculus (1)], Grade 11 student book* (Mathematical Sciences branch; code 111214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2787-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 63:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 64:** *Mathematics and Statistics (1), Grade 10 student book* (Humanities branch; code 110212) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2503-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -101,6 +105,11 @@ Every part traces to its book and page.
 | Equation of a circle — centre at the origin; general centre (a, b); completing the square to find centre and radius; circles through two points and touching the x-axis | South Sudan, Secondary Mathematics Student's Book 4, Unit 2, printed pp.30–40 |
 | The circle analytically — standard equation (x − h)² + (y − k)² = r²; expanded form with the test a² + b² > 4c ⇔ real circle, = 4c ⇔ a single point, < 4c ⇔ no points (p.42); tangency and relative position of line and circle | Iran, Geometry (3) Grade 12 student book, Chapter 2, Lesson 2, printed pp.40–46 |
 | The circle's standard and expanded equations; relative positions of two circles | Iran, Mathematics (3) Grade 12 student book, Chapter 6, printed pp.134–142 |
+| Equation of a line (معادله خط) | Iran, Grade 9 student book, Ch. 6, printed p. 96 |
+| Slope and intercept (شیب خط و عرض از مبدأ) | Iran, Grade 9 student book, Ch. 6, printed p. 102 |
+| Introduction to analytic geometry (آشنایی با هندسه تحلیلی) | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 1, printed p. 29 |
+| Analytic geometry (هندسه تحلیلی) | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 1, printed p. 2 |
+| Graph of a linear function (نمودار تابع خطی) | Iran, Grade 10 Mathematics and Statistics (1) student book (Humanities branch), Ch. 2, printed p. 56 |
 | Coordinates of the midpoint in a parallelogram problem: the centre's coordinates are half the sums of the endpoints' coordinates, checked on a parallelogram drawn in a coordinate frame — the fourth vertex found from the other three | Syria, Grade 7 student's book, printed p. 55 |
 | Distance between two points: the same-x and same-y cases first, then the general distance formula √[(x₂ − x₁)² + (y₂ − y₁)²] obtained from Pythagoras; inverse problems and word problems | Malaysia, Mathematics Form 2, Ch. 7 §7.1, printed pp. 122–131 |
 | The midpoint formula ((x₁ + x₂)/2, (y₁ + y₂)/2); an endpoint found from the midpoint and the other endpoint | Malaysia, Mathematics Form 2, Ch. 7 §7.2, printed pp. 132–139 |

@@ -233,6 +233,8 @@ Every part traces to its book and page.
 **Book 164:** *Toán 5, Tập Hai* (Mathematics 5, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39224-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 165:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 166:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 167:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -350,6 +352,8 @@ Every part traces to its book and page.
 | Estimating a count and then counting to check — to 20 and to 30 (estimating only; no rounding is taught in this book) | North Macedonia, Grade 1, Block F, printed pp. 108, 117 |
 | Rounding numbers; approximate calculations | Iran, Grade 4 student book, Ch. 1; Ch. 3, printed pp. 56–59 |
 | Approximation — truncation and rounding named as two different moves | Iran, Grade 6 student book, Ch. 3; Ch. 7 |
+| Approximating numbers (تقریب زدن) | Iran, Grade 3 student book, Ch. 2, printed p. 37 |
+| Approximate calculation (محاسبات تقریبی) | Iran, Grade 9 student book, Ch. 2, printed p. 28 |
 | Estimating quantities by grouping in tens; the approximation language of the guessing game — no formal rounding at this stage | China, Grade 1 Volume 2, Unit 4, printed pp. 45–47 |
 | Approximate numbers to the nearest hundred or thousand; estimating whether money suffices by bounding the cost | China, Grade 2 Volume 2, Unit 7, printed pp. 91, 93, 96 |
 | Rounding decimals to a stated place; rewriting large numbers in 万 (ten-thousand) and 亿 (hundred-million) units | China, Grade 4 Volume 2, Units 4–5, printed pp. 52–54 |

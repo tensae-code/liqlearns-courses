@@ -448,6 +448,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 235:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 236:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 237:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -609,6 +610,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Areas of the rhombus and the trapezium | Iran, Grade 5 student book, Ch. 6 |
 | Areas of polygons | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 3, Lesson 2, printed pp. 65–76 |
 | Heron's formula (the proof is printed at p. 75) | Iran, Grade 11 Geometry (2) student book (Mathematical Sciences branch), Ch. 3, printed p. 75 |
+| Length and surface area (طول و سطح) | Iran, Grade 6 student book, Ch. 5, printed p. 88 |
 | Area as covering with unit squares; area units; the area of rectangles and squares | China, Grade 3 Volume 2, Unit 5, printed pp. 61–67 |
 | Converting area units; tiling and fencing applications of rectangle and square areas | China, Grade 3 Volume 2, Unit 5, printed pp. 69–75 |
 | Area and perimeter of composite figures by the cut-and-shift (translation) method | China, Grade 4 Volume 2, Unit 7, printed pp. 87–88 |
