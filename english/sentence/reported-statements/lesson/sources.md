@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Reported statements (tense changes) | Mongolia, English XII, Unit 9, printed p.161 |
 | Direct and indirect speech rules stated in the book's closing units | Pakistan, *English 6*, printed p.114 |
 
-**Acceptance count: taught in 25 countries (Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the reported speech system (Grade 10), the completed system (Grade 11-1) and the reporting-verb set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported speech and the said/told backshift chart in its Grade 10 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
+**Acceptance count: taught in 26 countries (Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the reported speech system (Grade 10), the completed system (Grade 11-1) and the reporting-verb set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported speech and the said/told backshift chart in its Grade 10 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -472,3 +472,17 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Reported speech revised inside a diary text: direct vs reported statements compared (predicted, believed, complained, explained…) | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 7, printed p.172 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported statements (said/told that…, tense and pronoun shifts) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 15, printed p.159 |
+| Direct and indirect speech for statements (the unit's work, with the dining-customs letter writing) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 8, printed p.91 |
+| Reported speech: the tense-shift table (present → past, past → past perfect, present perfect → past perfect…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 9, printed p.127 |

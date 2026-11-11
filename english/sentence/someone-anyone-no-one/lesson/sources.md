@@ -1,6 +1,6 @@
 # Sources — Someone, anyone, no one
 
-countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan
+countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -48,8 +48,8 @@ lesson is reproduced.
 | Indefinite pronouns in full — the some-/any-/no-/every- × -body/-one/-thing/-where grid; they take a singular verb | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 47 |
 | Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 118 |
 
-**Acceptance count: taught in 8 countries (Albania, Bolivia,
-Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 9 countries (Albania, Bolivia,
+Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the grid's place row, the -where words,
 inside its travel chapter. Bolivia boxes the
 some/any choice for people outright, with its
@@ -102,3 +102,12 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Some/any/every/no compounds (somebody, anyone, everything, nowhere), and some in questions expecting yes | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 10, printed pp.126–128 |

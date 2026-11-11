@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ lesson is reproduced.
 | Christmas greetings exchanged — "Merry Christmas to you! — And a Happy New Year, too!" — plus making an angel for the tree | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.69 |
 | The Easter song "Here's my Easter bunny rabbit. What a funny bunny!" with Easter vocabulary (bunny, egg, jump, tail, long ears) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.70 |
 
-**Acceptance count: taught in 21 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 special-day birthday words and its Grade 9 wedding unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+**Acceptance count: taught in 22 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 special-day birthday words and its Grade 9 wedding unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -350,3 +350,13 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Speaking: expressing good wishes | Nepal, *English Grade Eleven* (Grade 11), printed p.3 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Eid dialogue and reading (Eidi money, best clothes, visiting grandparents) and Now Rooz greetings and likes | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 11, printed pp.98–104 |

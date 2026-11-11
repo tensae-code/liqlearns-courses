@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Barbados
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Comparative Phrases box, p.26, is among this book's citation-checked anchors).
@@ -159,7 +159,7 @@ re-verification sweep.
 | Degrees of adjectives — regular and irregular adjectives compared — in the Harmony in Society unit (with relative pronouns, clauses and phrases, commas and dictionary use) | Pakistan, *English 6*, Unit 5, printed p.47 |
 | Degrees of adjectives in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 27 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia).** Libya joins with comparatives and the superlatives of the mountains of Libya (Grade 5) and the completed comparison system — as … as, both … and, neither … nor (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 28 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Afghanistan).** Libya joins with comparatives and the superlatives of the mountains of Libya (Grade 5) and the completed comparison system — as … as, both … and, neither … nor (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
@@ -552,3 +552,17 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use comparative and superlative forms | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 54 (49) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Superlatives (the tallest, the most expensive, the best/worst/farthest) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 14, printed p.141 |
+| Comparing schools with more/fewer/less + comparative adjectives | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 3, printed p.29 |
+| Comparative spelling rules revised (add -er; -e → -r; -y → -ier) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 11, printed p.140 |

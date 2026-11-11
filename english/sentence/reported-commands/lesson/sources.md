@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya, Afghanistan
 
 Every part traces to its book and page.
 
@@ -57,7 +57,7 @@ colophon; cited once.
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 | Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 12 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya).** Libya joins with reporting commands and requests — tell for commands, ask for requests (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
+**Acceptance count: taught in 13 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya, Afghanistan).** Libya joins with reporting commands and requests — tell for commands, ask for requests (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -161,3 +161,13 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: reported speech — imperatives | Nepal, *English, Grade 9* (Grade 9), printed p.132 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported commands and requests, with time-expression shifts (today → that day, tomorrow → the following day) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 15, printed p.165 |

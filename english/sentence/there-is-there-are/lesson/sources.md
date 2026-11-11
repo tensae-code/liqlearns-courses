@@ -1,6 +1,6 @@
 # Sources — There Is and There Are
 
-countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia
+countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Describing where you live — there is/are with prepositions of place | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed p.9 |
 | There is / there are (review) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4A |
 
-**Acceptance count: taught in 8 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia).** Libya joins with “There is a monkey on the tree” (Grade 1) and There was / There were (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan).** Libya joins with “There is a monkey on the tree” (Grade 1) and There was / There were (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found there is/are taught in four places with no full lesson of their own (the course's Introductory There, from Bangladesh, covers only the introductory use). Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the full system. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -125,3 +125,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| There is / Are there any…? questions about city facilities | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 6, printed p.47 |

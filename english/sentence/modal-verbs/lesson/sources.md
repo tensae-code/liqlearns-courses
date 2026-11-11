@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 10 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -209,3 +209,15 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use can, may, must, should, would, could and might correctly | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 78 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modals for rules and strong advice: have to, must, mustn't, can't, should, had better; rules as No + verb-ing | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 15, printed p.152 |
+| Had better (advice and recommendations; had better not as a warning) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 5, printed p.56 |

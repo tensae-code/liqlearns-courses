@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 20 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya).** Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 21 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan).** Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -330,3 +330,13 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | “Oriental bazaars” — talking about prices and values | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, printed p.56 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prices: "How much is it? — five Afghanis; How much does it cost?" | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 11, printed p.104 |

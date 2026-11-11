@@ -1,6 +1,6 @@
 # Sources — Prepositions of Time
 
-countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal
+countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Prepositions inside travel and time questions — at / to / from / in / on / by | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.57 |
 | Prepositions of time — on + day/date, in + period | Nicaragua, Grade 9 Módulo Autoformativo, Unit 5B, PDF pp.137–139 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the at/on/in time system taught in four places — two student books and two compendium charts — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -90,3 +90,13 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Prepositions of time rule stated: at with clock times and festivals, in with months/years/seasons, on with days and dates | Nepal, *My English Book Grade 5* (Grade 5), printed p.89 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of time in/on/at (in the morning, on Saturday, at 7:00) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 13, printed p.124 |

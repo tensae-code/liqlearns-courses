@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** SMILE Book 7 — Pupil's Book (Grade 7) — Sudan,
@@ -78,7 +78,7 @@ the 2026-11-08 re-verification sweep.
 | Compound words — with homophones (whether/weather, scene/seen, herd/heard, hare/hair, they're/there/their) — in the opening unit | Pakistan, *English 6*, Unit 1, printed pp.1–13 |
 | Compound words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 22 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
+**Acceptance count: taught in 23 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Saudi Arabia, Afghanistan).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -296,3 +296,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Hyphenated compound adjectives (89-meter-high, 13-year-old, a ten-Afghani note — no plural -s inside) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 12, printed p.155 |

@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan
 
 Every part traces to its book and page.
 
@@ -64,7 +64,7 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 14 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the causative — get/have something done (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
+**Acceptance count: taught in 15 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the causative — get/have something done (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -193,3 +193,13 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: causative verbs (a bundled strand of the ant-and-grasshopper unit, named in the sweep diff's convention note; the unit's passive work is stocked in the-passive) | Nepal, *English, Grade 9* (Grade 9), printed p.107 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Causative: have/get something done ("have your hair cut", "have it fixed") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 7, printed p.82 |

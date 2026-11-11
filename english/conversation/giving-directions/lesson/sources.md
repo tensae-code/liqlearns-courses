@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Barbados
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 (full-year combo;
@@ -154,7 +154,7 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 26 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 27 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Afghanistan).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -498,3 +498,18 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | The compass points east / north / west / south, in the Two Friends Out in Nature chant | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed p.59 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Compass directions and map positions (north-west, east, near) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 6, printed p.51 |
+| Asking a stranger for help and the way: "Excuse me, can you help me? … It is on the corner" | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 12, printed p.108 |
+| Asking the way inside a school ("Where is the principal's office? — over there, straight ahead, near…") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 3, printed p.27 |
+| Giving directions and road signs; imperative instructions (go straight, turn left, don't enter) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 9, printed p.87 |

@@ -1,6 +1,6 @@
 # Sources — Job application letters
 
-countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia
+countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -56,8 +56,8 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole Office Clerks key: answers and notes for the student coursebook's sub-lessons — mirror apparatus for the Office Clerks coursebook (teacher evidence) | Greece, English for Office Clerks KEY / Teacher's Book (teacher evidence), PDF pp.1–134 |
 | Hotel Unit 22 “Applying for a job” — job-application language for hotel work | Greece, English for the Hotel and Tourist Trade, Unit 22, Section D |
 
-**Acceptance count: taught in 14 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
-South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia).** Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
+**Acceptance count: taught in 15 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
+South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia, Nepal, Ethiopia, Afghanistan).** Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
 prints the advert–CV–covering-letter chain whole;
 Cambodia coaches the covering letter paragraph by
 paragraph; Uzbekistan names the kind as its own lessons;
@@ -141,3 +141,13 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing an application letter | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 9, printed p.238 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The application letter: reading one and writing one | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 12, printed p.142 |

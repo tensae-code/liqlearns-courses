@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan
 
 Every part traces to its book and page.
 
@@ -100,7 +100,7 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 21 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador).** Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 22 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan).** Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -387,3 +387,13 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | School subjects (English, math, art, music, science, computers, P.E.) and talking about favourite and least favourite classes | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects (with the school staff words) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 3, printed p.22 |

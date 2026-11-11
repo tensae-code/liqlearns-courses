@@ -758,3 +758,14 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | "be going to + infinitive" and "will + infinitive" for future intentions, and the meaning difference | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 4, printed p.107 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Talking about vacation plans: "What is your plan for this winter vacation? — I want to…" | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 6, printed p.63 |
+| "I'm going to…" for holiday plans (going to Helmand) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 7, printed p.68 |

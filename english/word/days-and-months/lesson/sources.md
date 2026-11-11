@@ -539,3 +539,13 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Calendar types and local calendars talk | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 2, printed p.12 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking the date and the day: "What date is today? — It's 1st of January. What day is today? — Today is Sunday" | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 4, printed p.35 |

@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 1
@@ -116,7 +116,7 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 34 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 35 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -566,3 +566,15 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words and the family tree (wife/mother, husband/father, brother/son, sister/daughter) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit 13, printed p.119 |
+| Extended family words: grandmother, grandfather, aunt (father's sister), uncle (father's brother) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 1, printed p.11 |

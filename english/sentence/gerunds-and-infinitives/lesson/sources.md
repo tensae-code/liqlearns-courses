@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -168,7 +168,7 @@ verification sweep.
 | Gerunds, infinitives and participles in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 | Gerunds and participles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 32 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with like + -ing and want to + verb (Grade 7), adjective + infinitive and the verb + to-infinitive list (Grade 10), and words followed by the infinitive and the -ing/infinitive contrasts (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 33 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with like + -ing and want to + verb (Grade 7), adjective + infinitive and the verb + to-infinitive list (Grade 10), and words followed by the infinitive and the -ing/infinitive contrasts (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -541,3 +541,19 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Gerunds and infinitives: when and how to use them; verbs always followed by gerund or infinitive | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 3, printed p.30 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The verb + infinitive pattern (promise/decide/plan/agree to…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 5, printed p.49 |
+| The verb + object + infinitive pattern (want/tell/advise someone to…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 5, printed p.51 |
+| By + gerund, for how a machine works ("By pressing the power button") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 9, printed p.91 |
+| Gerunds: verb + -ing as a noun (subject, object, after prepositions; enjoy/finish/imagine/practise + -ing) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 10, printed p.117 |
+| Verb + -ing as a noun (poisoning, falling, smoking as danger nouns) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 2, printed p.24 |

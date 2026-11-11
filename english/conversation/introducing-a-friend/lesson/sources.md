@@ -613,3 +613,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Introducing a friend, with a suggestion: “This is my friend, Omar. Nice to meet you (too)! Ready? Let's go to the new computer store!” | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 5 Friends, Actions, Things, printed p.36 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introducing people and exchanging personal information, with a reading on greetings around the world | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 6, printed p.54 |

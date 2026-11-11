@@ -1,6 +1,6 @@
 # Sources — Contractions and Possessive Forms
 
-countries: Palestine, South Africa, Barbados
+countries: Palestine, South Africa, Barbados, Afghanistan
 
 Every part traces to its book and page.
 
@@ -11,7 +11,7 @@ Every part traces to its book and page.
 | Writing mechanics: short forms (contractions) and possessive forms; writing a paragraph about oneself | Palestine, Grade 10 Part 1, Unit 3, printed p.43 |
 | The lesson's example forms and sentences | The mechanics the book names — short forms (contractions) and possessive forms — worked in the course's own sentences; no sentence is quoted from the book |
 
-**Acceptance count: taught in 2 countries (Palestine, South Africa).**
+**Acceptance count: taught in 3 countries (Palestine, South Africa, Afghanistan).**
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -64,3 +64,17 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use an apostrophe to show ownership and in contractions | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 52 (47) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The contractions table (she is → she's, do not → don't, cannot → can't, I will → I'll) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 6, printed p.48 |
+| Be contractions (I'm, he's, we're, isn't…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 6, printed p.63 |
+
+Routing note: the sweep marked both items "NEW LESSON NEEDED: contractions". The short forms are this lesson's Sub lesson 1 — the apostrophe's first job — so they are stocked here, in that sub lesson's part of the lesson, and no separate contractions lesson was built.

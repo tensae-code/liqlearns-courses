@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Saudi Arabia
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English Primary 3, Term 2 — Egypt, Ministry
@@ -135,7 +135,7 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 29 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Saudi Arabia).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 30 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador, Saudi Arabia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -566,3 +566,17 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom instruction dialogue (stand up / read this / sit down) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit 6, printed p.56 |
+| Classroom instructions as imperatives (Close your book! Open your book! Turn to page 8! Listen! Write! Look at the board!) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 2, printed p.13 |
+| Imperatives for safety: Do's and Don'ts strengthened with always/never ("Always fasten your seatbelt / Never waste any time") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 1, printed p.8 |

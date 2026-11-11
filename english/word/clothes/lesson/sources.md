@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -79,7 +79,7 @@ verification sweep.
 | Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
 | Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 22 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia).** Libya joins with the Grade 2 clothes word set (T-shirt, trousers, skirt, shirt, dress, trainers, hat, skates, socks, shoes, jacket) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 23 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia, Afghanistan).** Libya joins with the Grade 2 clothes word set (T-shirt, trousers, skirt, shirt, dress, trainers, hat, skates, socks, shoes, jacket) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -353,3 +353,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Clothes words (with the unit's colour words) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 9, printed p.83 |

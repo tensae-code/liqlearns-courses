@@ -1074,3 +1074,20 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Daily routine talk in the present simple (“Tell me about your day! I get up at 6 o'clock. Then I do my homework. Do you watch TV in the evening? Yes, I do”) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 3 My Day, Animals, Places, printed p.18 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 4:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily-routine questions (What time do you get up? What do you do after…?) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 5, printed p.46 |
+| A week of routines reading (a different activity each weekday) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 5, printed p.48 |
+| "What do you do in the mornings / on Friday mornings?" — weekday, weekend and time-of-day expressions | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 3, printed pp.16–18 |
+| Simple present questions with do/does (Wh- and Yes/No) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 7, printed p.72 |
+| Simple present for regular actions (revision in a school context) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 3, printed p.29 |

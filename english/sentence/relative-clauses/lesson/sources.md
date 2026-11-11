@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Barbados
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -191,7 +191,7 @@ re-verification sweep.
 | Relative clauses with where and when | Mongolia, English XII, Unit 4, printed pp.71–72 |
 | Relative clauses with that after superlatives and indefinite words | Mongolia, English XII, Unit 4, printed p.74 |
 
-**Acceptance count: taught in 25 countries (Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia).** Libya joins with relative clauses as a taught system (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+**Acceptance count: taught in 26 countries (Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan).** Libya joins with relative clauses as a taught system (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -483,3 +483,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use but, who, whom, which and because to join sentences | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 54 (49) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative pronouns who/whom/which/that | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 12, printed p.144 |

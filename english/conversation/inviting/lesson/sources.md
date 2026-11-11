@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,7 +72,7 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 18 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 19 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -253,3 +253,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Inviting: “I'm going to a wedding party. Will you come with me? — Yes, please / No, thank you” | Nepal, *My English Book Grade 4* (Grade 4), printed p.47 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Inviting: "Would you like to join us?" at the museum | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 14, printed p.142 |
+| Invitations: making, accepting and refusing (I'd love to / I'm afraid I can't / I have other plans) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 14, printed p.147 |

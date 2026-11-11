@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Akelius A2 Teacher's Guide (guide for the
@@ -143,7 +143,7 @@ verification sweep.
 | Weather words: cloudy, windy, rainy, sunny | Pakistan, *English Nursery*, printed p.8 |
 | The seasons: spring, summer, autumn, winter | Pakistan, *English Nursery*, printed p.9 |
 
-**Acceptance count: taught in 31 countries (Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with months and seasons with weather description writing (Grade 7) and the weather and climate reading set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 32 countries (Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with months and seasons with weather description writing (Grade 7) and the weather and climate reading set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -527,3 +527,15 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The four seasons, with a spring weather and farming reading | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 6, printed p.59 |
+| Describing the weather of a country (the unit's capitals-and-weather speaking work) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 15, printed p.144 |

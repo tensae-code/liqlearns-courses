@@ -562,3 +562,13 @@ Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placement
 ## Libya — verification note added 2026-11-11 (re-verification sweep merge)
 
 The Libya rows in this file were cited under the standing banner that the libya.md read is agent-assisted and a 10-citation spot-check is still owed. The 2026-11-08 re-verification sweep independently re-read all 38 Libya books from the book files, and this file's Libya rows — as corrected on 2026-11-04 — are among those it spot-checked against the books: they agree (sweep flag 5). The sweep's findings are recorded where they belong: the filing itself carries word-for-word textbook passages throughout (flag 1 — its scrub is the user's call; the 2026-11-11 Libya merge stocked from the sweep's own-words placements only), and three other lessons carried Libya secondary books labelled one grade low (flag 2 — fixed in the-present-perfect, the-present-perfect-continuous and the-passive).
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Conditionals contrasted: if + present → future (possible) vs if + past → would (unlikely/imagined) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 6, printed p.83 |

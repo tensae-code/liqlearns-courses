@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia
+countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia).** Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan).** Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -188,3 +188,15 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions between, near, next to, opposite, behind, in front of | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 6, printed p.58 |
+| Prepositions of place: past, near, under, over, beside, between, next to | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 9, printed p.88 |

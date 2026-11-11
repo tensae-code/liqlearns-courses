@@ -1,6 +1,6 @@
 # Sources — Stative verbs
 
-countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia
+countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -23,7 +23,7 @@ Every part traces to its book and page.
 | Stative verbs — senses and emotions verbs take simple forms — in the Grand Canyon lesson | Nicaragua, Inglés Grade 10, Lesson 12, p.94 |
 | "Stative verbs in the continuous form" and "Linking verbs" — the Grammar box pairing this lesson follows: the stative question and the linking-verb system in one box | Vietnam, Tiếng Anh 11, Unit 3 "Cities of the future", Grammar box heading, printed p.30 (unit pp.28–37) |
 
-**Acceptance count: taught in 9 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia).** Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 4 linking verbs and Grade 10 stative verbs (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia, Afghanistan).** Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 4 linking verbs and Grade 10 stative verbs (stocked 2026-11-11 by the re-verification sweep merge).
 
 Vietnam's box heading is quoted exactly as filed — "Stative verbs in the continuous form" — because the filing gives the heading, not a rule in the opposite sense; this lesson takes the not-continuous RULE from Egypt's full statement and Cambodia's rule-plus-error-correction, and stocks Vietnam for the pairing of the stative question with linking verbs, as its filing presents it.
 
@@ -78,3 +78,13 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | State (stative) verbs: thoughts and opinions | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 9, printed p.269 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Stative verbs of the senses (look, sound, smell, taste, feel + adjective) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 6, printed p.59 |

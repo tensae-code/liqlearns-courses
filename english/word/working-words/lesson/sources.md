@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
 sector English, and it is counted and flagged as such.
@@ -110,7 +110,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 18 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 19 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -488,3 +488,13 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Tourism and tourist information | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 4, printed p.93 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A hotel check-in dialogue (a reservation, room number, length of stay) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 10, printed p.87 |

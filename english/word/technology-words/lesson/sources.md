@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -150,7 +150,7 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 27 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 28 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -564,3 +564,15 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Robotics reading and vocabulary | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 10, printed p.247 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A reading text on computers in education, with true/false questions | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 3, printed p.30 |
+| Media words (report, news, Facebook, television, Twitter, internet, email, text a message, study online) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 13, printed pp.119–123 |

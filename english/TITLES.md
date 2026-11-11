@@ -273,7 +273,9 @@ its own subtitle folder with its own lesson + questions):
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**) · measurements (added 2026-11-11 by the
   Kazakhstan re-verification sweep merge — **Unit 9,
-  Numbers, Days, and Time**)
+  Numbers, Days, and Time**) · fractions-and-percentages
+  (added 2026-11-11 by the Afghanistan re-verification
+  sweep merge — **Unit 9, Numbers, Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
   answering-from-the-text (built 2026-10-27 — **Units 14–15**:

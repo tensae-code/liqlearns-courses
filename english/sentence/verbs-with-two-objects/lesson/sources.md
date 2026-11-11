@@ -1,6 +1,6 @@
 # Sources — Verbs with two objects
 
-countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Barbados
+countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Barbados, Afghanistan
 
 Every part traces to its book and page.
 
@@ -35,8 +35,8 @@ verification sweep.
 | A named language point in the teacher notes: transitive and intransitive verbs — underline the direct object (He brought me a colourful umbrella; I will write a letter to him; give yourself a chance) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 | Transitive and intransitive verbs in the grammar system (with action, linking and helping verbs) | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia).** Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
+**Acceptance count: taught in 8 countries (Cambodia,
+Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Afghanistan).** Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
 half — verbs with two objects, direct vs indirect
 objects — evidenced by the Grade 11 Teacher's Book's
 spreads, the student's book not being held. Mongolia
@@ -97,3 +97,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use the basic sentence types correctly, including the indirect-object pattern (She gave him a book) and the object-plus-modifier pattern (The mason built the wall high) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 72–74 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Direct and indirect objects (give him a present; told the story to her parents) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 10, printed p.105 |

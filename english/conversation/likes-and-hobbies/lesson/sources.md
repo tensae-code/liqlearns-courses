@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 6 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -83,3 +83,16 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Likes with activity verbs: “I like ice-skating / skateboarding / swimming” | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 6, printed p.100 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Hobbies talk: "Do you have any hobbies?" with like + -ing lists (reading, painting, cooking, swimming, fishing, gardening, playing tennis/football, horse riding, shopping) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 8, printed pp.65–71 |
+| The reading text "My favourite hobby is reading" (why reading is good) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 8, printed p.73 |
+| Like + verb-ing (likes and dislikes of activities) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 1, printed p.4 |

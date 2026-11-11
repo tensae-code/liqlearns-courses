@@ -1025,3 +1025,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Phonics Practice: the consonant digraphs sh / ch / ph / wh (ship, sheep, dish; cheese, cherry, chick, lunch; phone, photo, elephant; whale, whistle) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Term 3 Phonics Practice, printed p.116 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Grade 9 phonics strand: long-vowel spellings and the ou/ow spellings | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, the book's phonics strand, counted at, printed p.8 |

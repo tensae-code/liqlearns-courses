@@ -1,6 +1,6 @@
 # Sources — Participle clauses
 
-countries: Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan
+countries: Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan, Afghanistan
 
 Every part traces to its book and page.
 
@@ -50,7 +50,7 @@ verification sweep.
 | The reduced relative forms in full: past participle for a passive clause ("the car stolen last night"), present participle for an active clause ("the man talking to my father") — closing the relative-clause line opened in Secondary 11 | Egypt, Secondary 12 Term 2, Unit 10, Lesson 3 (as filed in EGYPT-BOOK-MAP.md) |
 | Form noticed: present participles indicating simultaneous action ("…wishing Danny would…") — analyse examples, find five more | India — Flamingo (Class 12), Noticing form in Going Places, printed pp.86–87 |
 
-**Acceptance count: taught in 9 countries (Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan).** Yemen joins with present-participle joining in its Grade 11 review and -ing joining in its Grade 12 review (stocked 2026-11-11 by the re-verification sweep merge). India joins with present participles indicating simultaneous action, noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches
+**Acceptance count: taught in 10 countries (Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan, Afghanistan).** Yemen joins with present-participle joining in its Grade 11 review and -ing joining in its Grade 12 review (stocked 2026-11-11 by the re-verification sweep merge). India joins with present participles indicating simultaneous action, noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches
 participle clauses for reason with the perfect
 participle inside the same presentation. Egypt states
 the reduced relatives as a clean pair — present
@@ -102,3 +102,13 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Reduced adverbial clauses (Unit 10) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 10, printed p.50 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shortening relative clauses: subject who/which/that → participle -ing clauses; object who/which/that dropped | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 4, printed p.55 |

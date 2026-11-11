@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan, Ethiopia, Saudi Arabia
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan, Ethiopia, Saudi Arabia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -152,7 +152,7 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 30 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan, Ethiopia, Saudi Arabia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 8 stay-well advice, its obligations-and-advice unit, and the advice-led remainder of the Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+**Acceptance count: taught in 31 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Laos, Uzbekistan, Ethiopia, Saudi Arabia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 8 stay-well advice, its obligations-and-advice unit, and the advice-led remainder of the Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -562,3 +562,20 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 4:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Advice inside the illness dialogue: "You should go home and rest" | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 5, printed p.34 |
+| Advice for illnesses with should and "Why don't you…?" | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 5, printed p.41 |
+| Have got + illness, with advice (take a painkiller, go to the doctor, stay in bed) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 10, printed p.98 |
+| The doctor's advice with should/shouldn't | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 11, printed p.111 |
+| Asking about appropriateness: "Should I take a gift? — Yes, I think you definitely should" | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 10, printed p.105 |

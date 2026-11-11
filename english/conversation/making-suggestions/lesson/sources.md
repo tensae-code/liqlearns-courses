@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,8 +72,8 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 19 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
-Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with polite suggestions — Shall we…? — with accepting and refusing (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 20 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
+Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with polite suggestions — Shall we…? — with accepting and refusing (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -293,3 +293,15 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Art-class actions and materials (draw, paint, glue, cut; paper, paintbrush, scissors, crayon, marker, pencil) and suggestions with “Let's paint a picture” | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 3, printed p.42 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making suggestions (Why don't we…? Let's… How about…?) and accepting/refusing them | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 2, printed p.17 |
+| Making and replying to suggestions (Why don't you…? — That's a good idea / I'm afraid I can't, because…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 2, printed p.24 |

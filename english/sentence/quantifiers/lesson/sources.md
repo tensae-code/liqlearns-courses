@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -113,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 28 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -436,3 +436,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Quantifiers: much, many, little, a little, few, a lot of, less | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 8, printed p.235 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How many / How much (with prices in Afghanis) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 11, printed p.104 |
+| Some/any in statements and questions | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 14, printed p.135 |
+| Countable vs uncountable nouns revised (worshippers countable; room = space uncountable) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 12, printed p.156 |

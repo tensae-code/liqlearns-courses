@@ -691,3 +691,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Frequency markers as a named, scored set — always, usually, sometimes, usually don't, never — in a healthy-life questionnaire (sweep flag 2: this file's Saudi note said no Saudi book in hand introduces adverbs as a word kind; the fresh read found this set, and the note is corrected in place) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Unit 10 A Healthy Life, printed p.75 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs of frequency with time expressions (before/after, at exactly, at around) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 7, printed p.69 |

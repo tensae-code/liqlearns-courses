@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -211,7 +211,7 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 26 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with autobiography — reading one and writing a short one (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 27 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with autobiography — reading one and writing a short one (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -533,3 +533,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Write for self-expression or to entertain: poems, fictional narratives and autobiographical accounts | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 34 (29) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing about the life of a famous person (the unit's writing work) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 5, printed p.43 |

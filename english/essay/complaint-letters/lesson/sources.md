@@ -1,6 +1,6 @@
 # Sources — Complaint letters
 
-countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Barbados
+countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Barbados, Afghanistan
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -52,7 +52,7 @@ outcome and teaches no complaint lesson (see the row).
 | The complaint named as a learning outcome and taught nowhere in the unit: Unit 12 "Roots" prints "lodge complaint" among its learning outcomes on the unit opener — and no lesson in the unit teaches complaint writing (outcome evidence only, stated exactly; stocked 2026-11-08 by the re-verification sweep, which found the outcome in the fresh read and no complaint lesson behind it) | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Twelve opener, printed p.151 |
 | Hotel Unit 12 “Responding to complaints” — complaint-response language in food and beverage service | Greece, English for the Hotel and Tourist Trade, Unit 12, printed p.205 |
 
-**Acceptance count: taught in 10 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa).** Greece teaches
+**Acceptance count: taught in 11 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam, South Africa, Afghanistan).** Greece teaches
 the complaint and its apologetic reply as one worked pair;
 Uzbekistan reads a formal complaint and corrects a
 style-mixed one; Sierra Leone names the letter of
@@ -131,3 +131,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Write letters of complaint or requesting all relevant information | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 52 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Complaining about food, with apologies and excuses | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 13, printed p.139 |

@@ -256,7 +256,7 @@ verification sweep.
 | Past simple introduced as a system — regular and irregular verbs, affirmative and negative with didn't, with a verb list (smile–smiled, rent–rented, stop–stopped, study–studied, drive–drove, go–went, see–saw) and past-form drills | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 3, Lesson 1, printed pp.24–25 |
 | Did questions (Did you go…? Yes, I did / No, he didn't) with a present↔past irregular list (go/went, drive/drove, take/took, meet/met) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 3, Lesson 2, printed pp.26–27 |
 | The past tense of be — was/were affirmative, negative, yes/no questions with short answers, and wh- questions (How old was he? When was she born?) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 5, Lesson 1, printed pp.44–45 |
-| The scope stated plainly: Grades 4–6 use past forms freely in their readings — the Grade 5 zoo and birthday stories, Grade 6's travel texts, even drilled did-questions in Grade 6 Units 10 and 13 — but no primary book teaches the tense, so nothing is stocked from them; the system is Grade 8's | Afghanistan, the held set as filed in english/books/afghanistan.md (Grade 5 and Grade 6 honest negatives) |
+| The scope stated plainly: Grades 4–6 use past forms freely in their readings — the Grade 5 zoo and birthday stories, Grade 6's travel texts, even drilled did-questions in Grade 6 Units 10 and 13 — but no primary book teaches the tense as a system; the system is Grade 8's. The Grade 6 Unit 10 drilled did-questions are stocked as a row in the Afghanistan sweep section below (2026-11-11), as drilled questions, not as the system | Afghanistan, the held set as filed in english/books/afghanistan.md (Grade 5 and Grade 6 honest negatives) |
 | Simple past — the full paradigm (the series' first full past-tense treatment) | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5, PDF p.103 |
 | Describing past activities — the regular past spelling rules, an 8-rule chart | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 6, PDF pp.134–136 |
 | Didn't + infinitive; wasn't / weren't | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 6, PDF pp.137–138 |
@@ -941,3 +941,16 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use the correct form of the verb in the simple present, simple future, simple past, present continuous and past continuous | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 77 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Where were you born?" (the past of be inside the birth-place unit) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 7, printed p.54 |
+| Past Yes/No questions drilled: "Did you visit Kabul? — Yes, I did / No, they did not" (drilled questions inside the travel unit — stocked as a row by the sweep merge; the scope row above stands: no primary book teaches the past tense as a system) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 10, printed p.90 |
+| Simple past in a reading and conversation on how people lived in caves vs modern houses | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 4, printed p.43 |

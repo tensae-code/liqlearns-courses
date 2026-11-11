@@ -1,6 +1,6 @@
 # Sources — Asking for Clarification and Repetition
 
-countries: Mauritania, Vietnam, Barbados
+countries: Mauritania, Vietnam, Barbados, Afghanistan
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — repetition and spelling repair: say it again; how do you spell…? | Mauritania, Study English, Grade 7, printed pp.30–32 |
 | Sub lesson 3 — meaning repair: what does it mean; I beg your pardon | Mauritania, Study English, Grade 7, printed pp.30–32 |
 
-**Acceptance count: taught in 2 countries (Mauritania, Vietnam).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (Mauritania, Vietnam, Afghanistan).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -47,3 +47,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Ask appropriate questions to gain information and to maintain or clarify understanding | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 25 (20) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking for repetition and clarification ("Sorry? How many…? Pardon? When did he invent it?") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 9, printed p.94 |

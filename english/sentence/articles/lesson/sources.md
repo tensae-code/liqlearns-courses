@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Year 1 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -105,7 +105,7 @@ verification sweep.
 | Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
 | Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 26 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia).** Libya joins with a/an with singular food nouns (Grade 2) and the articles system — a/an, the and zero article (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+**Acceptance count: taught in 27 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia, Afghanistan).** Libya joins with a/an with singular food nouns (Grade 2) and the articles system — a/an, the and zero article (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -441,3 +441,14 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Articles revised: definite and indefinite | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 9, printed p.258 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The indefinite articles a/an rule (a before a consonant letter, an before a vowel letter) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 1, printed p.9 |
+| Articles a/an/the in full (first mention a, the known thing the) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 7, printed p.65 |

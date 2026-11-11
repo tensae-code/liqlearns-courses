@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -49,7 +49,7 @@ pinned for them here.
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 | Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 10 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia, Afghanistan).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -172,3 +172,13 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Steps to improve your handwriting (choose a pen, slow down, copy a model) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 4, printed pp.31–32 |

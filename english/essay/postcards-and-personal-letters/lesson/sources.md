@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 with bound-in
@@ -100,7 +100,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 23 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia).** Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 24 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan).** Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -576,3 +576,15 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Write letters expressing thanks and regret to communicate feelings | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 50 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The friendly letter: its parts, and a model thank-you letter to a teacher | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 13, printed p.126 |
+| Writing a letter (the unit's writing work) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 2, printed p.13 |

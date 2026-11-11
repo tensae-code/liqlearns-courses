@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -49,8 +49,8 @@ verification sweep.
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
 | The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 15 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal).** Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 16 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan).** Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -211,3 +211,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Write invitation letters to relatives, friends and acquaintances | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 52 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The excuse letter: its parts (greeting, body, closing, signature) and a model absence letter | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 5, printed p.38 |

@@ -1,6 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Study English, Grade 12 (6th Year Secondary)
@@ -89,7 +89,7 @@ verification sweep.
 | The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
 | Reported questions (wh- and if/whether) | Mongolia, English XII, Unit 9, printed p.164 |
 
-**Acceptance count: taught in 21 countries (Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya).** Libya joins with indirect questions with polite frames and the reported-questions system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 22 countries (Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen, Iraq, Armenia, Egypt, Laos, Kazakhstan, Jordan, Libya, Afghanistan).** Libya joins with indirect questions with polite frames and the reported-questions system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.
@@ -289,3 +289,17 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Reporting questions | Nepal, *English Grade 10* (Grade 10), Unit 3, printed p.23 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported questions (if/whether for Yes/No; wh- reporting) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 14, printed p.150 |
+| Reporting questions (asked whether/if…; wanted to know where…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 9, printed p.106 |
+| Reported questions: pronoun, tense, word-order and here/now word changes | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 10, printed p.146 |

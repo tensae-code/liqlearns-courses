@@ -295,6 +295,8 @@ tell the time.*
 
 - **Sweep addition (2026-11-11, Kazakhstan re-verification sweep merge):** measurements ✅ (1 lesson — the units we measure with: metre, centimetre, kilometre, kilo, gram, litre, and the How long / How heavy asking-and-answering sentences, from Kazakhstan's Full Blast Grade 8 Module 2)
 
+- **Sweep addition (2026-11-11, Afghanistan re-verification sweep merge):** fractions-and-percentages ✅ (1 lesson — the English words for fractions and percentages: half, quarter, three-fifths, five-eighths, 75%, from Afghanistan's Grade 12 book, Unit 1, which no lesson housed)
+
 ## Unit 10 — Building a Sentence
 *End of unit: the learner can build a whole sentence and end it
 properly.*
@@ -2476,3 +2478,75 @@ and the record's "full-year" filenames for the two
 Grade 2 books are wrong (Term 1 and Term 3 respectively).
 **Saudi Arabia: 6 of 6 books re-read.** The English
 course now stands at **269 lessons across 44 units**.
+
+**Afghanistan English re-verification sweep merge
+(2026-11-11):** the sweep re-read all 9 of Afghanistan's
+held English books (256 teaching items placed; 99 already
+in the course, 157 missing). All 157 missing items are
+stocked — 171 provenance rows into 88 lessons, plus 1 NEW
+LESSON — and 0 are excluded. Afghanistan joins 71 lessons
+for the first time (countries line and acceptance count
+updated together in each) and completes its stock in 17
+lessons that already counted it. **1 new lesson:**
+fractions-and-percentages (Unit 9 — Numbers, Days, and
+Time), founded on the Grade 12 book's Unit 1 maths
+conversation (half, quarter, three-fifths, five-eighths,
+75%), printed p.3. Routings, stated plainly: the sweep's
+"NEW LESSON NEEDED: contractions" (Grade 6, printed p.48;
+Grade 8, printed p.63) is stocked in
+contractions-and-possessive-forms, whose Sub lesson 1 is
+the short forms — no separate contractions lesson was
+built; its "NEW LESSON NEEDED: art-and-craft-words"
+(Grade 5, printed p.143) is stocked in art-words, with
+handicraft and sewing carried as the book's craft kinds.
+The set is 9 student's books, 0 teacher books (English
+for Afghanistan, Let's Start Grades 4–6, Student's Book
+Grades 7–12, all Publication 1398, 1,537 PDF pp); read
+depth as the sweep declares it: Grades 4–6 page by page
+in full, Grades 7–12 through objectives, grammar boxes,
+summaries and vocabulary with readings at each grammar
+point. FLAG 1 FIXED: whats-his-and-her-name's 2026-11-04
+"printed nowhere" note was wrong for the *his* half —
+"What is his name? — His name is Ehsan" stands at Grade
+7, Unit 5, Lesson 1, printed p.41, and is now stocked;
+the *her* half was not found in any of the nine books and
+that part of the note stands. The big-reading items are
+stocked as plot-summary rows with Afghanistan joining the
+DISTINCTION countries only: the premise of its
+2026-11-04 exclusion stands (no complete book-length
+text is printed in the set), and the note is corrected in
+place; what the set prints complete is short stories
+(Grades 5–6), beside the Grade 8 "Around the World in
+Eighty Days" excerpt and the Grade 12 readings set. The
+blending-sounds exclusion likewise stands, re-verified:
+no book teaches blending as a procedure, so Afghanistan
+is not counted there; the sweep's two phonics strands are
+stocked in their filed homes — Grade 7's (short/long
+vowel rules, soft/hard c and g) in blends, Grade 9's
+(long-vowel and ou/ow spellings) in two-letter-sounds —
+with the disposition recorded in blending-sounds itself.
+The past-actions scope row is corrected in place: no
+primary book teaches the past tense as a system (the
+system is Grade 8's), and Grade 6's drilled did-questions
+(Unit 10, printed p.90) are now stocked as a row. Two
+diff pins were rebuilt from the placements, which govern:
+classroom object words stand at Grade 7, Unit 2, printed
+p.12 (diff said p.11) and school subjects at Unit 3,
+printed p.22 (diff said p.20). Book errors carried,
+taught corrected: Grade 4's title page prints
+"Elementry" [sic] and "Read the new werds", "Yake" for
+yak and "a raddish"; Grade 5's specifications page prints
+"English for Afghananistan's"; Grade 6's contents print
+"Healty lifestyle" and "My birth placee"; Grade 9's
+printed contents page numbers run 1–3 pages above the
+actual unit openers from Unit 2 on (all citations use
+actual printed folios). REPORTED, record-side, not
+edited: the held Grade 9 file IS the correct Grade 9
+Student's Book (title page and specifications verified),
+but its records are off — grade-09 books.json titles it
+without "Student's Book" and textbooks.tsv carries no
+Grade 9 English row at all (8 rows) although books.json,
+push state and the release asset all carry it; the fix is
+owed on the textbooks side. **Afghanistan: 9 of 9 books
+re-read.** The English course now stands at **270
+lessons across 44 units**.

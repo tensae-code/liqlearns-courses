@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** *Uérakua anapu uantakua. Projects and
@@ -137,7 +137,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 32 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia).** Libya joins with the Grade 2 activity verbs and fun-park words and the Grade 12 world-of-sport reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 33 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia, Afghanistan).** Libya joins with the Grade 2 activity verbs and fun-park words and the Grade 12 world-of-sport reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -571,3 +571,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Athlete biographies used as writing models (a famous Ethiopian long-distance runner) | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 5, printed p.140 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vacation activity words (skiing, flying a kite, playing cricket, visiting relatives, going to the zoo/mosque) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 7, printed p.69 |
+| A dialogue on the importance of sports, with an invitation to play | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 14, printed p.129 |
+| The sports word set and the Olympic rings reading (the sports list from archery to wrestling) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 14, printed pp.133–137 |

@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -104,7 +104,7 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 20 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia).** Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+**Acceptance count: taught in 21 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan).** Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -344,3 +344,17 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Tag questions added to affirmative and negative statements in different tenses | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 8, printed p.105 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tag questions (the unit's stated work: "learn the usage of had better, tag questions and possessive nouns") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 5, printed p.54 |
+| Question tags that expect "yes", including present-simple tags with do/does | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 11, printed p.167 |
+| Question tags across tenses as one system: present (don't you?), past (didn't you?), and negative-statement tags (…do you?) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Units 2–4, printed pp.18–37 |

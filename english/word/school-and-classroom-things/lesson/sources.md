@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia
+countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -38,7 +38,7 @@ Every part traces to its book and page.
 | The school things word set — a schoolbag, a sharpener, a pen, a ruler, a book, a rubber, a pencil case, a pencil — with "What's this? — It's a pen!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
 | Project frame "In my schoolbag there is …", listing a pen, a book, a pencil case | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 6, pupil printed p.25 |
 
-**Acceptance count: taught in 15 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 and Grade 3 classroom word sets (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 16 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 and Grade 3 classroom word sets (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -210,3 +210,15 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom object words (whiteboard, map, clock, board marker, desk, chair, eraser, computer, notice board, dictionary, notebook) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 3, printed p.25 |
+| Classroom object words (the secondary set) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 2, printed p.12 |

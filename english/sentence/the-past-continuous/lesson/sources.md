@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal, Ethiopia, Barbados
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal, Ethiopia, Barbados, Afghanistan
 
 Every part traces to its book and page.
 
@@ -110,7 +110,7 @@ re-verification sweep.
 | Simple past and past continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Past indefinite and past continuous as the justice unit's grammar (with précis writing) | Pakistan, *English X*, Unit 1 (contents) |
 
-**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal, Ethiopia).** Libya joins with the past continuous as a taught system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 28 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Jordan, Libya, Nepal, Ethiopia, Afghanistan).** Libya joins with the past continuous as a taught system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
@@ -383,3 +383,16 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use the correct form of the verb in the simple present, simple future, simple past, present continuous and past continuous | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 77 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past continuous: form and questions | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 11, printed p.113 |
+| Joining past continuous and past simple with when/while/as | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 11, printed p.117 |
+| Past continuous in while-clauses (While I was visiting…, I went…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 9, printed p.112 |

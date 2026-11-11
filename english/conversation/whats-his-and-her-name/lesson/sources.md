@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -58,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 19 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia).** Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 20 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan).** Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -243,7 +243,7 @@ Libya's wording.
 
 **Yemen checked 2026-11-04 — corrected 2026-11-11 (sweep flag 2).** The earlier note here said the question 'What's his/her name?' is never printed in any held book. That was wrong: the 2026-11-08 re-verification sweep's fresh read found Pupil's Book 1 (Grade 7), printed p.12 printing "What's his name?" (with "His name is Bill / Her name is Anne"), and printed p.13 printing "What's your name? How old are you? Where are you from?" — the question is now stocked in the Yemen section of this file.
 
-**Afghanistan checked 2026-11-04 — not stocked.** The frame "What's his/her name?" is printed nowhere in the nine books. Grade 4's family unit practises his/her over family members ("This is Habib. Halima is his wife.", Unit Thirteen, printed pp.119–120) and its review asks "What do we call the woman's child?", but no book asks a third person's name. Nothing is stocked.
+**Afghanistan checked 2026-11-04 — corrected 2026-11-11 (re-verification sweep, flag 1).** The earlier note here said the frame "What's his/her name?" is printed nowhere in the nine books. That was wrong for the *his* half: the sweep's fresh read found "What is his name? — His name is Ehsan" printed in Grade 7, Unit 5, Lesson 1 (printed p.41), and it is now stocked in the Afghanistan sweep section of this file. The *her* half was not found in any of the nine books — that part of the note stands. Grade 4's family unit practises his/her over family members ("This is Habib. Halima is his wife.", Unit Thirteen, printed pp.119–120) and its review asks "What do we call the woman's child?", but no book asks a third person's name with *her*.
 
 **Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador prints this lesson's exact frame in both of its Starship coursebooks — as opener grammar in Pre A1.2 and again in the A1.1 school unit.
 
@@ -309,3 +309,13 @@ The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English b
 Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "What is his name? — His name is Ehsan" (the Samim and Latif conversation) — stocked by the sweep merge under flag 1: this file's 2026-11-04 "printed nowhere" note was wrong for the *his* half and is corrected in place; the *her* half was not found in any of the nine books | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 5, Lesson 1, printed p.41 |

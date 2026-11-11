@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English for the Hotel and Tourist Trade,
@@ -65,7 +65,7 @@ PASSED 2026-11-04).
 | “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 | Telephoning: telephone greetings and the steps to make a call | Pakistan, *English 8*, printed pp.118–119 |
 
-**Acceptance count: taught in 18 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia).** Libya joins with telephoning — telephone language and “On the Phone” conversations (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
+**Acceptance count: taught in 19 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan).** Libya joins with telephoning — telephone language and “On the Phone” conversations (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -242,3 +242,15 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making an appointment by phone: "Can I make an appointment with Dr. Shams today?" | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 11, printed p.111 |
+| Telephoning: leaving and taking a message | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 14, printed p.150 |

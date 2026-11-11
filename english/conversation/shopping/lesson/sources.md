@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** English, Grade 5 (Student's Book) — Cambodia,
@@ -97,7 +97,7 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 25 countries (Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's shopping words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 26 countries (Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's shopping words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -352,3 +352,14 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Ordering in a restaurant: “Are you ready to order? — I want an omelette and a coke”; “I want the bill, please” | Nepal, *My English Book Grade 5* (Grade 5), printed p.9 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing things by questions: What is it like? What size? What colour? How much is it? How wide? | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 9, printed p.86 |
+| Naming shops, and a reading about shopping places (the unit's objectives) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 11, printed p.104 |

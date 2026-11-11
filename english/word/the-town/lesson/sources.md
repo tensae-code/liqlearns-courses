@@ -753,3 +753,16 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Workbook Goal 92: listen-and-draw matching of nine destinations (Najran, Dubai, Riyadh, Sydney, Jeddah, Jizan, Jordan, Lebanon, Oman) to activities (sweep flag 5: this matching stood in this file under Goal 82, whose own work is listen-and-draw plus drawing a map of your own route to school; the Goal 82 row and note are corrected in place) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Workbook Goal 92, printed p.230 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan was already counted in this lesson; the acceptance count does not change.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Country and land words inside the "Our country" reading on Afghanistan (country, capital, province, jungle, mountain, river) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 13, printed pp.133–134 |
+| Describing a city: "What's it like? — It's a big and clean city", with a reading text on Kabul | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 6, printed pp.45–47 |
+| "Where were you born?" and describing a home village (jobs, weather, what it is famous for) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 7, printed p.54 |

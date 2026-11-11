@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Barbados
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Barbados, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** Academy Stars — Year 6 — Pupil's Book —
@@ -99,7 +99,7 @@ verification sweep.
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
 | A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 15 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya).** Libya joins with reading a diary entry about past events (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 16 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Afghanistan).** Libya joins with reading a diary entry about past events (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -306,3 +306,13 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Write buddy journals to convey feelings; compose poems to express emotions | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 48 (43) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading someone's diary and writing your own diary (the unit's work) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 11, printed p.109 |

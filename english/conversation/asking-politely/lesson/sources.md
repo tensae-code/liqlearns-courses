@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -89,7 +89,7 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 25 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+**Acceptance count: taught in 26 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -398,3 +398,17 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking a stranger for help and the way: "Excuse me, can you help me?…" | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 12, printed p.108 |
+| Polite requests with modals (Can I have…? Would you make me…? Would you mind…? Could you…?), with accepting and refusing | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 13, printed p.135 |
+| Polite questions: "Would you mind …-ing…?" and agreeing answers ("No, not at all") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 11, printed p.168 |

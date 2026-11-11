@@ -1,6 +1,6 @@
 # Sources — Can for Ability
 
-countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia
+countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 4 (Primaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -60,7 +60,7 @@ verification sweep.
 | Can for ability, possibility and permission | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
 | Ability frame with can: "Oscar can jump!" worked over five pictured children doing actions | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.67 |
 
-**Acceptance count: taught in 16 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with can/can't for ability — “Can you sing? Yes, I can. / No, I can't.” (Grade 2) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 17 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with can/can't for ability — “Can you sing? Yes, I can. / No, I can't.” (Grade 2) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania teaches can/can't for ability in Grade 7 and the
 full can/could range — ability, probability, suggestion,
 surprise — in Grade 12 (stocked 2026-11-09 by the Mauritania
@@ -233,3 +233,15 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Modal verbs "can" and "could": ability, permission and possibility uses compared | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 6, printed p.151 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Afghanistan — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English books (256 teaching items placed; 99 already in the course, 157 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/afghanistan-placements.md). Read depth, as the sweep declares it: Grades 4–6 page by page in full; Grades 7–12 page by page through every unit's objectives, grammar boxes, grammar summaries and vocabulary lists, with conversations and readings read at each grammar point. Afghanistan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book 1:** *English for Afghanistan: Let's Start*, Grade 6 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 2:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Can/can't for ability and "good at" (paint, take photos, swim, cook, ride a bicycle, play volleyball) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 4, printed pp.23–29 |
+| Can/can't for ability, questions and short answers (the full system) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 1, printed p.3 |
