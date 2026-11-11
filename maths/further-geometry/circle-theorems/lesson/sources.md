@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador
 
 Every part traces to its book and page.
 
@@ -229,7 +229,7 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Angles of a cyclic quadrilateral | Libya, Grade 10 pupil's book Part 2, §7-8, printed p.91 |
 | Alternate segment angles | Libya, Grade 10 pupil's book Part 2, §8-8, printed p.97 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -268,3 +268,21 @@ India stocks circle theorems from Mathematics Class 9–10: equal chords; tangen
 Mongolia enters through its ministry textbooks Математик VIII, IX, X (Grades 8, 9, 10): definition; proof.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 11 (teacher's book): Radius and chords (circle theorems); Tangents to a circle; Angles in a circle 1 (incl. alternate segment theorem: angle BAT = angle ACB); Angles in a circle 2 (cyclic quadrilaterals: opposite angles sum to 180°); Applying the circle theorems; equation of a tangent to a circle at a point (plan 59).
+
+## El Salvador added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read El Salvador's whole in-hand Maths set from the PDFs — the MINEDUCYT **ESMATE** programme (Proyecto de Mejoramiento de los Aprendizajes en Matemática en Educación Básica y Educación Media, MINEDUCYT–JICA, 2015–2019): **63 filed entries = 43 distinct works** — 16 student files covering the 11 grade textbooks (Grades 1–11; Grade 1 in 4 part-files, Grade 2 in 3), 25 teacher guides, and 2 JICA materials documents (the materials-use guideline and the Japan–El Salvador unit list) filed 11 times each, byte-identical, MD5-proved — the 2 documents are programme apparatus with no teaching content, cited once each in the country record and stocked in no lesson. The read placed 383 teaching items: 281 from the student textbooks and 102 teacher-evidence items from the guides (one per unit per grade). In the sections below the student books are cited as Books S1–S13 and the guides as Books T1–T12, in grade order. El Salvador COUNTS in this lesson's taught-in figure on the strength of its student-textbook rows; its guide rows are TEACHER EVIDENCE — the guides reproduce the student lessons with teaching plans, worked solutions and a unit test per unit — cited as the evidence kind they are and never the basis of the count. Book errors: none that changes a placement (the Grade 9 book's history opener dates al-Khwārizmī to c. 825 BC; he lived c. 780–850 AD — a front-matter error in an excluded motivation essay, in no teaching item, so nothing is taught from it). The placements' named exclusions — *Recortables* cut-out pages, covers, credits and unit-opener history/motivation essays, the GeoGebra practice lessons of Grades 10–11, end-of-unit and end-of-trimester tests in the student books, teacher-guide front matter, and the Grade 6 book's *Repaso* review sections — are stocked nowhere.
+
+Into this lesson the placements stock 3 items (2 from student books, 1 teacher evidence) from Book S11, Book T10.
+
+**Book S11:** *Libro de texto, 9.° grado* (student textbook, Grade 9, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 13,388,982 bytes, 197 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T10:** *Guía metodológica, 9.° grado* (teacher guide, Grade 9) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM9_01: 14,064,097 bytes, 246 PDF pp.; GM9_02: 5,465,200 bytes, 220 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Elements of the circumference; inscribed and central angles; the inscribed-angle theorem; congruent arcs (Grade 9 student book, Unidad 7, Lección 1) | El Salvador — *Libro de texto, 9.° grado* (student textbook), Grade 9, printed p. 144 |
+| Tangents to a circle (construction); chords and arcs; similarity applications; four points on a circumference (cyclic quadrilaterals); the semi-inscribed angle (Grade 9 student book, Unidad 7, Lección 2) | El Salvador — *Libro de texto, 9.° grado* (student textbook), Grade 9, printed p. 152 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 7, inscribed and central angles (Grade 9 teacher guide) | El Salvador — *Guía metodológica, 9.° grado* (teacher guide) — teacher evidence, Unidad 7 |
+
+El Salvador is added to the countries line and to the acceptance count above on its student-textbook rows; where this lesson also carries El Salvador guide rows, they are teacher evidence only. El Salvador's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 43 distinct works) has been read and stocked, and no link-only Maths book stands between it and closure (the 7 JICA exercise workbooks CE3–CE9 were never filed into the library and are outside the set).

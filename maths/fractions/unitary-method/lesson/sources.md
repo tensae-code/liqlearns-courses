@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ On Nepal in this lesson: the unitary method is a named lesson in Nepal's books a
 | Unitary method | Nepal, Grade 8 student book, Unit 17, printed p. 136 |
 | Ratios and proportions using the unitary method | South Sudan, Pupil's Book 7, §1.4, printed p. 5 |
 
-**Acceptance count: taught in 12 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 13 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Vietnam carries the reduce-to-the-unit problem type in Grade 4 (Bài 47). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -75,3 +75,20 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Afghanistan enters from its Grade 8 Dari book, where the unitary method is taught inside the financial-calculations chapter, beside percent and discount (printed pp. 57–58).
 
 South Sudan enters through its Primary 7 pupil's book, whose ratios-and-proportions section names the unitary method itself (§1.4, printed p. 5).
+
+## El Salvador added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read El Salvador's whole in-hand Maths set from the PDFs — the MINEDUCYT **ESMATE** programme (Proyecto de Mejoramiento de los Aprendizajes en Matemática en Educación Básica y Educación Media, MINEDUCYT–JICA, 2015–2019): **63 filed entries = 43 distinct works** — 16 student files covering the 11 grade textbooks (Grades 1–11; Grade 1 in 4 part-files, Grade 2 in 3), 25 teacher guides, and 2 JICA materials documents (the materials-use guideline and the Japan–El Salvador unit list) filed 11 times each, byte-identical, MD5-proved — the 2 documents are programme apparatus with no teaching content, cited once each in the country record and stocked in no lesson. The read placed 383 teaching items: 281 from the student textbooks and 102 teacher-evidence items from the guides (one per unit per grade). In the sections below the student books are cited as Books S1–S13 and the guides as Books T1–T12, in grade order. El Salvador COUNTS in this lesson's taught-in figure on the strength of its student-textbook rows; its guide rows are TEACHER EVIDENCE — the guides reproduce the student lessons with teaching plans, worked solutions and a unit test per unit — cited as the evidence kind they are and never the basis of the count. Book errors: none that changes a placement (the Grade 9 book's history opener dates al-Khwārizmī to c. 825 BC; he lived c. 780–850 AD — a front-matter error in an excluded motivation essay, in no teaching item, so nothing is taught from it). The placements' named exclusions — *Recortables* cut-out pages, covers, credits and unit-opener history/motivation essays, the GeoGebra practice lessons of Grades 10–11, end-of-unit and end-of-trimester tests in the student books, teacher-guide front matter, and the Grade 6 book's *Repaso* review sections — are stocked nowhere.
+
+Into this lesson the placements stock 2 items (1 from student books, 1 teacher evidence) from Book S7, Book T6.
+
+**Book S7:** *Libro de texto, 5.° grado* (student textbook, Grade 5, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 18,263,367 bytes, 196 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T6:** *Guía metodológica, 5.° grado* (teacher guide, Grade 5) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM5_01: 12,344,677 bytes, 244 PDF pp.; GM5_02: 12,471,242 bytes, 244 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Quantity per unit (unit rate — e.g. per person, per metre) (Grade 5 student book, Unidad 6, Lección 1) | El Salvador — *Libro de texto, 5.° grado* (student textbook), Grade 5, printed p. 100 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 6, quantity per unit (Grade 5 teacher guide) | El Salvador — *Guía metodológica, 5.° grado* (teacher guide) — teacher evidence, Unidad 6 |
+
+El Salvador is added to the countries line and to the acceptance count above on its student-textbook rows; where this lesson also carries El Salvador guide rows, they are teacher evidence only. El Salvador's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 43 distinct works) has been read and stocked, and no link-only Maths book stands between it and closure (the 7 JICA exercise workbooks CE3–CE9 were never filed into the library and are outside the set).

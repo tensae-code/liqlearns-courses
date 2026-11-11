@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 38 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone).**.** Egypt carries the
+**Acceptance count: taught in 39 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -773,3 +773,47 @@ The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PD
 Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.
+
+## El Salvador added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read El Salvador's whole in-hand Maths set from the PDFs — the MINEDUCYT **ESMATE** programme (Proyecto de Mejoramiento de los Aprendizajes en Matemática en Educación Básica y Educación Media, MINEDUCYT–JICA, 2015–2019): **63 filed entries = 43 distinct works** — 16 student files covering the 11 grade textbooks (Grades 1–11; Grade 1 in 4 part-files, Grade 2 in 3), 25 teacher guides, and 2 JICA materials documents (the materials-use guideline and the Japan–El Salvador unit list) filed 11 times each, byte-identical, MD5-proved — the 2 documents are programme apparatus with no teaching content, cited once each in the country record and stocked in no lesson. The read placed 383 teaching items: 281 from the student textbooks and 102 teacher-evidence items from the guides (one per unit per grade). In the sections below the student books are cited as Books S1–S13 and the guides as Books T1–T12, in grade order. El Salvador COUNTS in this lesson's taught-in figure on the strength of its student-textbook rows; its guide rows are TEACHER EVIDENCE — the guides reproduce the student lessons with teaching plans, worked solutions and a unit test per unit — cited as the evidence kind they are and never the basis of the count. Book errors: none that changes a placement (the Grade 9 book's history opener dates al-Khwārizmī to c. 825 BC; he lived c. 780–850 AD — a front-matter error in an excluded motivation essay, in no teaching item, so nothing is taught from it). The placements' named exclusions — *Recortables* cut-out pages, covers, credits and unit-opener history/motivation essays, the GeoGebra practice lessons of Grades 10–11, end-of-unit and end-of-trimester tests in the student books, teacher-guide front matter, and the Grade 6 book's *Repaso* review sections — are stocked nowhere.
+
+Into this lesson the placements stock 15 items (11 from student books, 4 teacher evidence) from Book S9, Book T8, Book S10, Book T9, Book S11, Book T10, Book S12, Book T11, Book S13.
+
+**Book S9:** *Libro de texto, 7.° grado* (student textbook, Grade 7, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 7,920,457 bytes, 197 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T8:** *Guía metodológica, 7.° grado* (teacher guide, Grade 7) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM7_01: 16,839,092 bytes, 224 PDF pp.; GM7_02: 6,493,162 bytes, 252 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+**Book S10:** *Libro de texto, 8.° grado* (student textbook, Grade 8, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 8,709,466 bytes, 197 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T9:** *Guía metodológica, 8.° grado* (teacher guide, Grade 8) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM8_01: 17,187,224 bytes, 264 PDF pp.; GM8_02: 5,212,676 bytes, 228 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+**Book S11:** *Libro de texto, 9.° grado* (student textbook, Grade 9, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 13,388,982 bytes, 197 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T10:** *Guía metodológica, 9.° grado* (teacher guide, Grade 9) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM9_01: 14,064,097 bytes, 246 PDF pp.; GM9_02: 5,465,200 bytes, 220 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+**Book S12:** *Libro de texto, 1.° año de bachillerato* (student textbook, Grade 10, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 15,233,485 bytes, 228 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T11:** *Guía metodológica, 1.° año de bachillerato* (teacher guide, Grade 10) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (SM10_01: 10,154,086 bytes, 292 PDF pp.; SM10_02: 8,417,822 bytes, 244 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+**Book S13:** *Matemática, Libro de texto, 2.° año de bachillerato* (student textbook, Grade 11; JICA file LT11_01) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 11,070,921 bytes, 228 PDF pp. Pages cited are the book's own printed folios.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The idea of a function; direct proportionality, its constant (including negative), the form y = ax, the Cartesian plane and graphing direct proportionality (Grade 7 student book, Unidad 6, Lección 1) | El Salvador — *Libro de texto, 7.° grado* (student textbook), Grade 7, printed p. 114 |
+| Inverse proportionality, its constant and graphs, the form y = a/x (Grade 7 student book, Unidad 6, Lección 2) | El Salvador — *Libro de texto, 7.° grado* (student textbook), Grade 7, printed p. 128 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 6, direct and inverse proportionality (Grade 7 teacher guide) | El Salvador — *Guía metodológica, 7.° grado* (teacher guide) — teacher evidence, Unidad 6 |
+| The linear function y = ax + b: rate of change, slope and intercept, reading the equation from tables, graphs, one point plus slope, two points, and intercepts (Grade 8 student book, Unidad 3, Lección 1) | El Salvador — *Libro de texto, 8.° grado* (student textbook), Grade 8, printed p. 44 |
+| Applications of the linear function (Grade 8 student book, Unidad 3, Lección 3) | El Salvador — *Libro de texto, 8.° grado* (student textbook), Grade 8, printed p. 85 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 3, the linear function (Grade 8 teacher guide) | El Salvador — *Guía metodológica, 8.° grado* (teacher guide) — teacher evidence, Unidad 3 |
+| The functions y = x-squared and y = ax-squared — graphs, characteristics and how y varies (Grade 9 student book, Unidad 4, Lección 1) | El Salvador — *Libro de texto, 9.° grado* (student textbook), Grade 9, printed p. 80 |
+| Finding the equation of a quadratic function from initial conditions (Grade 9 student book, Unidad 4, Lección 2) | El Salvador — *Libro de texto, 9.° grado* (student textbook), Grade 9, printed p. 94 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 4, the quadratic function of the form y = ax-squared + c (Grade 9 teacher guide) | El Salvador — *Guía metodológica, 9.° grado* (teacher guide) — teacher evidence, Unidad 4 |
+| Definition of a function — domain, range, representations (Grade 10 student book, Unidad 4, Lección 1) | El Salvador — *Libro de texto, 1.° año de bachillerato* (student textbook), Grade 10, printed p. 78 |
+| The quadratic function — graph, vertex, properties (Grade 10 student book, Unidad 4, Lección 2) | El Salvador — *Libro de texto, 1.° año de bachillerato* (student textbook), Grade 10, printed p. 82 |
+| Applications of the quadratic function (Grade 10 student book, Unidad 4, Lección 3) | El Salvador — *Libro de texto, 1.° año de bachillerato* (student textbook), Grade 10, printed p. 94 |
+| Other functions (further function types and their graphs) (Grade 10 student book, Unidad 4, Lección 4) | El Salvador — *Libro de texto, 1.° año de bachillerato* (student textbook), Grade 10, printed p. 108 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 4, real functions (Grade 10 teacher guide) | El Salvador — *Guía metodológica, 1.° año de bachillerato* (teacher guide) — teacher evidence, Unidad 4 |
+| Bijective functions and the inverse function (Grade 11 student book, Unidad 5, Lección 1) | El Salvador — *Matemática, Libro de texto, 2.° año de bachillerato* (student textbook), Grade 11, printed p. 120 |
+
+El Salvador is added to the countries line and to the acceptance count above on its student-textbook rows; where this lesson also carries El Salvador guide rows, they are teacher evidence only. El Salvador's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 43 distinct works) has been read and stocked, and no link-only Maths book stands between it and closure (the 7 JICA exercise workbooks CE3–CE9 were never filed into the library and are outside the set).

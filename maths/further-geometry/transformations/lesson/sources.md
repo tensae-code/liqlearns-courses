@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador
 
 Every part traces to its book and page.
 
@@ -449,7 +449,7 @@ textbook.
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 35 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 36 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -510,3 +510,23 @@ The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PD
 Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.
+
+## El Salvador added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read El Salvador's whole in-hand Maths set from the PDFs — the MINEDUCYT **ESMATE** programme (Proyecto de Mejoramiento de los Aprendizajes en Matemática en Educación Básica y Educación Media, MINEDUCYT–JICA, 2015–2019): **63 filed entries = 43 distinct works** — 16 student files covering the 11 grade textbooks (Grades 1–11; Grade 1 in 4 part-files, Grade 2 in 3), 25 teacher guides, and 2 JICA materials documents (the materials-use guideline and the Japan–El Salvador unit list) filed 11 times each, byte-identical, MD5-proved — the 2 documents are programme apparatus with no teaching content, cited once each in the country record and stocked in no lesson. The read placed 383 teaching items: 281 from the student textbooks and 102 teacher-evidence items from the guides (one per unit per grade). In the sections below the student books are cited as Books S1–S13 and the guides as Books T1–T12, in grade order. El Salvador COUNTS in this lesson's taught-in figure on the strength of its student-textbook rows; its guide rows are TEACHER EVIDENCE — the guides reproduce the student lessons with teaching plans, worked solutions and a unit test per unit — cited as the evidence kind they are and never the basis of the count. Book errors: none that changes a placement (the Grade 9 book's history opener dates al-Khwārizmī to c. 825 BC; he lived c. 780–850 AD — a front-matter error in an excluded motivation essay, in no teaching item, so nothing is taught from it). The placements' named exclusions — *Recortables* cut-out pages, covers, credits and unit-opener history/motivation essays, the GeoGebra practice lessons of Grades 10–11, end-of-unit and end-of-trimester tests in the student books, teacher-guide front matter, and the Grade 6 book's *Repaso* review sections — are stocked nowhere.
+
+Into this lesson the placements stock 3 items (2 from student books, 1 teacher evidence) from Book S8, Book T7, Book S9.
+
+**Book S8:** *Libro de texto, 6.° grado* (student textbook, Grade 6, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 21,048,663 bytes, 196 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T7:** *Guía metodológica, 6.° grado* (teacher guide, Grade 6) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM6_01: 11,778,875 bytes, 228 PDF pp.; GM6_02: 14,503,370 bytes, 260 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+**Book S9:** *Libro de texto, 7.° grado* (student textbook, Grade 7, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 7,920,457 bytes, 197 PDF pp. Pages cited are the book's own printed folios.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Translations and symmetries (Grade 6 student book, Unidad 10, Lección 1) | El Salvador — *Libro de texto, 6.° grado* (student textbook), Grade 6, printed p. 158 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 10, translations, symmetries and rotations (Grade 6 teacher guide) | El Salvador — *Guía metodológica, 6.° grado* (teacher guide) — teacher evidence, Unidad 10 |
+| Points and lines; patterns of figures; translation, symmetry and rotation of figures (Grade 7 student book, Unidad 8, Lección 1) | El Salvador — *Libro de texto, 7.° grado* (student textbook), Grade 7, printed p. 152 |
+
+El Salvador is added to the countries line and to the acceptance count above on its student-textbook rows; where this lesson also carries El Salvador guide rows, they are teacher evidence only. El Salvador's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 43 distinct works) has been read and stocked, and no link-only Maths book stands between it and closure (the 7 JICA exercise workbooks CE3–CE9 were never filed into the library and are outside the set).

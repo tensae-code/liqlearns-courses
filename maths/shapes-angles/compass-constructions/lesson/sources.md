@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador
 
 Every part traces to its book and page.
 
@@ -242,7 +242,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Drawing a line segment of given length | Yemen, Grade 3 Part 1, Unit 4, printed p. 92 |
 | Drawing and bisecting a line segment | Yemen, Grade 5 Part 2, Unit 8, printed p. 138 |
 | Drawing an angle of given measure | Yemen, Grade 5 Part 2, Unit 8, printed p. 142 |
-**Acceptance count: taught in 30 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
+**Acceptance count: taught in 31 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -297,3 +297,20 @@ The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PD
 Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.
+
+## El Salvador added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read El Salvador's whole in-hand Maths set from the PDFs — the MINEDUCYT **ESMATE** programme (Proyecto de Mejoramiento de los Aprendizajes en Matemática en Educación Básica y Educación Media, MINEDUCYT–JICA, 2015–2019): **63 filed entries = 43 distinct works** — 16 student files covering the 11 grade textbooks (Grades 1–11; Grade 1 in 4 part-files, Grade 2 in 3), 25 teacher guides, and 2 JICA materials documents (the materials-use guideline and the Japan–El Salvador unit list) filed 11 times each, byte-identical, MD5-proved — the 2 documents are programme apparatus with no teaching content, cited once each in the country record and stocked in no lesson. The read placed 383 teaching items: 281 from the student textbooks and 102 teacher-evidence items from the guides (one per unit per grade). In the sections below the student books are cited as Books S1–S13 and the guides as Books T1–T12, in grade order. El Salvador COUNTS in this lesson's taught-in figure on the strength of its student-textbook rows; its guide rows are TEACHER EVIDENCE — the guides reproduce the student lessons with teaching plans, worked solutions and a unit test per unit — cited as the evidence kind they are and never the basis of the count. Book errors: none that changes a placement (the Grade 9 book's history opener dates al-Khwārizmī to c. 825 BC; he lived c. 780–850 AD — a front-matter error in an excluded motivation essay, in no teaching item, so nothing is taught from it). The placements' named exclusions — *Recortables* cut-out pages, covers, credits and unit-opener history/motivation essays, the GeoGebra practice lessons of Grades 10–11, end-of-unit and end-of-trimester tests in the student books, teacher-guide front matter, and the Grade 6 book's *Repaso* review sections — are stocked nowhere.
+
+Into this lesson the placements stock 2 items (1 from student books, 1 teacher evidence) from Book S9, Book T8.
+
+**Book S9:** *Libro de texto, 7.° grado* (student textbook, Grade 7, MINED 2026-tree edition) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); 7,920,457 bytes, 197 PDF pp. Pages cited are the book's own printed folios.
+
+**Book T8:** *Guía metodológica, 7.° grado* (teacher guide, Grade 7) — El Salvador, MINEDUCYT (ESMATE programme, MINEDUCYT–JICA, 2015–2019); held as two files (GM7_01: 16,839,092 bytes, 224 PDF pp.; GM7_02: 6,493,162 bytes, 252 PDF pp.). Cited by unit. TEACHER EVIDENCE ONLY — the guide reproduces the student book's lessons with lesson-by-lesson teaching plans, worked solutions and a unit test (*Prueba de la unidad*) per unit; it is cited as teacher evidence, never as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The circle and its elements; ruler-and-compass drawings; perpendiculars, distance point-line, perpendicular bisector, angle bisector, tangent; arc length and area of a circular sector; the incentre of a triangle (Grade 7 student book, Unidad 8, Lección 2) | El Salvador — *Libro de texto, 7.° grado* (student textbook), Grade 7, printed p. 160 |
+| TEACHER EVIDENCE: guide apparatus — lesson plans, worked solutions and the unit test for Unidad 8, plane figures and building geometric solids (Grade 7 teacher guide) | El Salvador — *Guía metodológica, 7.° grado* (teacher guide) — teacher evidence, Unidad 8 |
+
+El Salvador is added to the countries line and to the acceptance count above on its student-textbook rows; where this lesson also carries El Salvador guide rows, they are teacher evidence only. El Salvador's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 43 distinct works) has been read and stocked, and no link-only Maths book stands between it and closure (the 7 JICA exercise workbooks CE3–CE9 were never filed into the library and are outside the set).
