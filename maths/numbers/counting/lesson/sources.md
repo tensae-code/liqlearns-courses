@@ -478,6 +478,7 @@ Every part traces to its book and page.
 | Counting to 100 by ones, fives and tens, and backwards; number sequences read off the hundred chart | China, Grade 1 Volume 2, Unit 4, printed pp. 33–34, 38, 41 |
 | Counting to 1,000 and to 10,000 in hundreds and thousands | China, Grade 2 Volume 2, Unit 7, printed pp. 75–77, 82–83 |
 | Numbers 1–10 introduced one at a time — poem, count the objects, recognise, trace and write; numbers 11–20 counted on the abacus; numbers 21–50 counted in pictured rows and written; the final revision grid 1–50 | Pakistan (Punjab), Primer (PCTB), printed pp. 26–121, 144 |
+| Ordinal numbers | Pakistan (Punjab), Primer (PCTB), printed p. 138 |
 | Numbers 0–9 one by one — count the set, read and write the numeral and the number word; count in tens to 100; the 1–100 number grid with missing numbers filled | Pakistan (Punjab), Grade 1 (PCTB), Unit 1, printed pp. 3–9, 32–33 |
 | Counting on to 1,000 and counting backwards; 1,000 is the first 4-digit number | Pakistan (Punjab), Grade 2 (PCTB), Unit 1, printed pp. 1–26 |
 | Even and odd numbers by the pairing test and the last-digit rules; Roman numbers 1 to 20 read, written and converted both ways | Pakistan (Punjab), Grade 3 (PCTB), Unit 1, printed pp. 2–10 |
@@ -879,7 +880,7 @@ Mauritania carries the whole primary climb in its IPN Arabic pupil books — Gra
 
 China carries counting in the primary Volume 2 books — to 100 in Grade 1, built on the hundred chart, and to 10,000 in Grade 2.
 
-Pakistan (Punjab) carries counting from the nursery primer upward — numbers to 50 in the Primer, to 100 in Grade 1 and to 1,000 in Grade 2 — and returns to counting at Class 11, where the PECTAA mathematics book builds the fundamental counting principle, factorials, permutations and combinations.
+Pakistan (Punjab) carries counting from the nursery primer upward — numbers to 50 in the Primer (its ordinal numbers stand on their own page, printed p. 138, stocked in the table above by the 2026-11-08 re-verification sweep merge), to 100 in Grade 1 and to 1,000 in Grade 2 — and returns to counting at Class 11, where the PECTAA mathematics book builds the fundamental counting principle, factorials, permutations and combinations.
 
 Syria carries the primary climb in semester books — numbers to 9 and zero as the empty set in Grade 1 Semester 1; teens as ten plus ones, counting by tens to 100 and skip-counting in twos and fives in Semester 2; the number 100 in Grade 2; counting in thousands to 10,000 in Grade 3 — and returns to counting in Grade 6 and Grade 7, where the natural numbers are defined as the set {0, 1, 2, …} on the number line, and in Grade 9 Algebra, where π enters historically as circumference ÷ diameter.
 
