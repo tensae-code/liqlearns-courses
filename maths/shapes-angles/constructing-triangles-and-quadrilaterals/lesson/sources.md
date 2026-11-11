@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria, Djibouti, Chile, Dominica, Dominican Republic, Ireland, Honduras
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria, Djibouti, Chile, Dominica, Dominican Republic, Ireland, Honduras, Iceland
 
 Every part traces to its book and page.
 
@@ -133,7 +133,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
 | Construct a parallelogram | South Sudan, Pupil's Book 7, §3.4, printed p. 46 |
 | Construct a trapezium | South Sudan, Pupil's Book 7, §3.5, printed p. 47 |
-**Acceptance count: taught in 29 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria, Chile, Dominica, Dominican Republic, Ireland, Honduras).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 30 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria, Chile, Dominica, Dominican Republic, Ireland, Honduras, Iceland).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -346,3 +346,17 @@ The 2026-11-10 expansion read read Honduras's whole in-hand Maths set from the P
 | Constructing rectangles and squares | Honduras — *Libro del Estudiante, Matemáticas, 3er grado* (pupil textbook), printed p. 78 |
 
 Honduras is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Honduras row in this lesson is a pupil-textbook row, so Honduras counts in full. Honduras's class for Maths is **COURSES-CLOSED**. The download-list §A label fault is a library-record matter, reported here, not fixed by this merge.
+
+## Iceland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Iceland's whole in-hand Maths set from the files — **28 files: 14 pupil books and 14 teacher books**, all published by MMS (Miðstöð menntunar og skólaþjónustu, formerly Námsgagnastofnun), the Icelandic state publisher; the Sproti (Grades 1–4) and Stika (Grades 5–7) series are Icelandic adaptations of the Norwegian *Multi* series (Gyldendal), and Skali is the Icelandic adaptation of the Norwegian *Maximum* series — and placed 229 items (161 pupil + 68 teacher evidence). The expansion map's count and kind split are exact. Three record matters ride with the set (record-level; the records themselves are not edited — merges never edit the records): textbooks.tsv omits the Stika 1a Kennarabók (27 TSV rows for the true 28 files — the book itself is in hand, in books.json, the push-state and the GitHub release); no Stika 1b Kennarabók exists in any record, although the Stika 1a pupil book's own front matter lists kennarabækur 1a and 1b as series components, so Stika 1b pupil content stands on the pupil book alone; and Sproti 4b's secured PDF (154 pp.) files its Ch. 9 (Mælingar og tugabrot) twice — PDF pp. 50–71 and PDF pp. 72–93 are the same printed chapter — counted once in every citation below. The set holds only the Skali 1A teacher book for Grade 8 — no Skali pupil book is in hand — so every Skali item is teacher evidence. The placements' named exclusions are stocked nowhere: the workbooks (æfingahefti) and worksheet files, which exist only as download-list links and are not in the in-hand set; the Skali pupil books (1A/1B nemendabækur), not in hand; the other MMS series in the download list (Stærðfræði 8+/9+/10+, Vinkill, Áttatíu), not in hand and not read; and front matter, the books' SPIL game pages as standalone content, and the Norwegian-original credits, none counted as items (the pupil books' own built-in practice pages and tests are apparatus inside the books read). Pupil items are COUNTED normally; teacher-evidence items (the 14 kennarabækur) are named in the rows and stay outside the acceptance count. Into this lesson the placements stock 1 pupil item from Book 1.
+
+**Book 1:** *Stika 2a — Nemendabók* (Grade 6 pupil book) — Iceland, MMS (Miðstöð menntunar og skólaþjónustu, formerly Námsgagnastofnun), the Icelandic state publisher; Icelandic adaptation of the Norwegian *Multi* series (Gyldendal); ISBN 978-9979-0-1590-1; 23,142,071 bytes, 132 PDF pp. Printed p. = PDF p. − 2. PUPIL textbook — counted.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prisms and pyramids and their properties; quadrilaterals (trapezium, parallelogram, rhombus) and their diagonals; drawing triangles and quadrilaterals with ruler, compasses and protractor | Iceland — *Stika 2a — Nemendabók* (Grade 6 pupil book) — printed Ch. 4, second half |
+
+Iceland is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from Iceland's pupil books. Iceland's class for Maths is **COURSES-CLOSED** — every in-hand Iceland Maths file (28 of 28) has been read in full and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/iceland-placements.md.
