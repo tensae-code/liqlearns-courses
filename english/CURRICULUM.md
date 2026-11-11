@@ -2483,7 +2483,8 @@ course now stands at **269 lessons across 44 units**.
 (2026-11-11):** the sweep re-read all 9 of Afghanistan's
 held English books (256 teaching items placed; 99 already
 in the course, 157 missing). All 157 missing items are
-stocked — 171 provenance rows into 88 lessons, plus 1 NEW
+stocked — 167 provenance rows into 88 lessons (10 items
+dual-homed, plus the flag-1 row), plus 1 NEW
 LESSON — and 0 are excluded. Afghanistan joins 71 lessons
 for the first time (countries line and acceptance count
 updated together in each) and completes its stock in 17
