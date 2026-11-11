@@ -436,6 +436,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 225:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 226:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 227:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-371-5 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 228:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 229:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 230:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -902,6 +906,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area and perimeter of composite shapes | Libya, Grade 6 pupil's book, Unit 11, Lesson 1, printed p.172 |
 | Area of a circle (§4-5) | Libya, Grade 8 pupil's book, §4-5, printed p.121 |
 | Converting square units (§5-5) | Libya, Grade 8 pupil's book, §5-5, printed p.124 |
+| Workbook practice: geometry and measurement (T2 U11) | Jordan, Grade 3 Workbook Term 2, Unit 11 (workbook evidence) |
+| Workbook practice: measurement (T2 U9) | Jordan, Grade 4 Workbook Term 2, Unit 9 (workbook evidence) |
+| Workbook practice: measurement (T2 U9) | Jordan, Grade 5 Workbook Term 2, Unit 9 (workbook evidence) |
+| Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with

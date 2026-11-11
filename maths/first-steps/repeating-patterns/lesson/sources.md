@@ -1,6 +1,6 @@
 # Sources — Repeating Patterns
 
-countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone, Kazakhstan, Libya
+countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone, Kazakhstan, Libya, Jordan
 
 Every part traces to its book and page.
 
@@ -67,6 +67,10 @@ Every part traces to its book and page.
 **Book 47:** *Mathematics, Grade 1 pupil's book, Part 1* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 48:** *Mathematics, Grade 2 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *Mathematics, Grade 1, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-366-1, National Library deposit no. 2022/4/2057 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathematics, Grade 2, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-368-5, National Library deposit no. 2022/4/2059 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Mathematics, Grade 4, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-372-2, National Library deposit no. 2022/4/2061 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-367-8 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP deposit line names it Term 1 (الفصل الدراسي الأول) — a cataloguing slip inside the book; its cover, contents and deposit number 2022/4/2058 prove it is the Term 2 workbook, and it is cited as Term 2.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -190,8 +194,14 @@ Every part traces to its book and page.
 | Number sequences (inside counting by thousands to 1,000,000) | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1A, lessons 6–8, printed pp. 17–23 |
 | Recognising patterns | Libya, Grade 1 pupil's book Part 1, Unit 6, Lesson 3, printed p.77 |
 | Making patterns | Libya, Grade 2 pupil's book Part 2, Unit 16, Lesson 2, printed p.102 |
+| Geometric patterns | Jordan, Grade 1 Student Book Term 2, Unit 8, Lesson 4, printed p. 42 |
+| Problem-solving plan: look for a pattern | Jordan, Grade 2 Student Book Term 2, Unit 6, Lesson 8, printed p. 22 |
+| Geometric patterns | Jordan, Grade 2 Student Book Term 2, Unit 8, Lesson 7, printed p. 64 |
+| Number patterns | Jordan, Grade 4 Student Book Term 2, Unit 8, Lesson 1, printed p. 62 |
+| Geometric patterns | Jordan, Grade 4 Student Book Term 2, Unit 8, Lesson 3, printed p. 70 |
+| Workbook practice: geometric shapes (Unit 8) | Jordan, Grade 1 Workbook Term 2, Unit 8, printed pp. 16–20 (workbook evidence) |
 
-**Acceptance count: taught in 19 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone, Kazakhstan, Libya).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 20 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone, Kazakhstan, Libya, Jordan).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Libya carries repeating patterns in Grade 1 Part 1 and Grade 2 Part 2 (stocked by the 2026-11-08 re-verification sweep).
 

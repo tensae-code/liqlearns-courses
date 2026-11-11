@@ -232,6 +232,16 @@ Every part traces to its book and page.
 **Book 168:** *Mathematics, Grade 4 pupil's book, Term 1* (student book; the cover reads Term 1 — الفصل الدراسي الأول; the library record's “Part 1” wording is the record's, not the book's) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 169:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 170:** *Mathematics, Grade 2, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-368-5, National Library deposit no. 2022/4/2059 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 171:** *Mathematics, Grade 3, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-370-8, National Library deposit no. 2022/4/2060 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 172:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 173:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-369-2 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 174:** *Mathematics, Grade 2, Teacher Guide, Term 2 — Unit 7 chunk (first-edition part-work)* (teacher guide) — Jordan, Ministry of Education (Arabic). Teacher evidence only: a per-unit chunk of the first-edition Grade 2 Term 2 guide covering Unit 7 (division). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 175:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 176:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-371-5 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 177:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 178:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-353-5 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 179:** *Mathematics, Grade 5, Teacher Guide, Term 1 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 5 Term 1 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -651,6 +661,36 @@ Every part traces to its book and page.
 | Dividing by a two-digit whole number | Libya, Grade 5 pupil's book, Unit 3, Lesson 2, printed p.47 |
 | Word problems (1) | Libya, Grade 5 pupil's book, Unit 3, Lesson 3, printed p.53 |
 | Word problems (2) | Libya, Grade 5 pupil's book, Unit 3, Lesson 4, printed p.57 |
+| Forming equal groups | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 1, printed p. 30 |
+| Division as repeated subtraction | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 2, printed p. 32 |
+| The relation between division and multiplication | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 3, printed p. 34 |
+| Dividing by 2 | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 4, printed p. 36 |
+| Dividing by 5 | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 5, printed p. 38 |
+| Dividing by 3 | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 6, printed p. 40 |
+| Dividing by 4 | Jordan, Grade 2 Student Book Term 2, Unit 7, Lesson 7, printed p. 42 |
+| The concept of division | Jordan, Grade 3 Student Book Term 1, Unit 5, Lesson 1, printed p. 80 |
+| The relation of division to multiplication | Jordan, Grade 3 Student Book Term 1, Unit 5, Lesson 2, printed p. 82 |
+| Related facts | Jordan, Grade 3 Student Book Term 1, Unit 5, Lesson 3, printed p. 84 |
+| Properties of division | Jordan, Grade 3 Student Book Term 1, Unit 5, Lesson 4, printed p. 86 |
+| The remainder | Jordan, Grade 3 Student Book Term 1, Unit 5, Lesson 5, printed p. 88 |
+| Dividing multiples of ten | Jordan, Grade 3 Student Book Term 2, Unit 8, Lesson 1, printed p. 26 |
+| Estimating quotients | Jordan, Grade 3 Student Book Term 2, Unit 8, Lesson 2, printed p. 28 |
+| Division without remainder, two-digit quotient | Jordan, Grade 3 Student Book Term 2, Unit 8, Lesson 3, printed p. 30 |
+| Division with remainder, two-digit quotient | Jordan, Grade 3 Student Book Term 2, Unit 8, Lesson 4, printed p. 32 |
+| Division with remainder, one-digit quotient | Jordan, Grade 3 Student Book Term 2, Unit 8, Lesson 5, printed p. 34 |
+| Dividing multiples of 10, 100, 1000 | Jordan, Grade 4 Student Book Term 1, Unit 3, Lesson 1, printed p. 50 |
+| Estimating quotients | Jordan, Grade 4 Student Book Term 1, Unit 3, Lesson 2, printed p. 53 |
+| Dividing numbers | Jordan, Grade 4 Student Book Term 1, Unit 3, Lesson 3, printed p. 56 |
+| Division with zeros in the quotient | Jordan, Grade 4 Student Book Term 1, Unit 3, Lesson 4, printed p. 60 |
+| Estimating quotients | Jordan, Grade 5 Student Book Term 1, Unit 2, Lesson 4, printed p. 42 |
+| Dividing numbers | Jordan, Grade 5 Student Book Term 1, Unit 2, Lesson 5, printed p. 45 |
+| Workbook practice: division (Unit 7) | Jordan, Grade 2 Workbook Term 2, Unit 7 (workbook evidence) |
+| TEACHER EVIDENCE: lesson guidance for Unit 7, division (first-edition per-unit chunk) | Jordan, Grade 2 Teacher Guide Term 2, Unit 7 chunk (teacher evidence) |
+| Workbook practice: division facts (T1 U5) | Jordan, Grade 3 Workbook Term 1, Unit 5 (workbook evidence) |
+| Workbook practice: dividing by a one-place number (T2 U8) | Jordan, Grade 3 Workbook Term 2, Unit 8 (workbook evidence) |
+| Workbook practice: division (T1 U3) | Jordan, Grade 4 Workbook Term 1, Unit 3 (workbook evidence) |
+| Workbook practice: multiplication and division (T1 U2) | Jordan, Grade 5 Workbook Term 1, Unit 2 (workbook evidence) |
+| TEACHER EVIDENCE: guidance from a partial copy of the Grade 5 Term 1 guide | Jordan, Grade 5 Teacher Guide Term 1, fragment copy (teacher evidence) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Ethiopia Grade 4

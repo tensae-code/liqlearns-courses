@@ -223,6 +223,13 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 135:** *Mathematics, Grade 10 pupil's book, Part 1* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 136:** *Mathematics, Grade 12* (student book; third year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 137:** *Mathematics, Grade 4, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-372-2, National Library deposit no. 2022/4/2061 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 138:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 139:** *Mathematics, Grade 10, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-382-1, National Library deposit no. 2022/4/2066 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 140:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 141:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 142:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-384-5 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 143:** *Mathematics, Grade 10, Teacher Guide, Term 2* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-425-5 (Arabic). Teacher evidence only: lesson guidance and keys for the Grade 10 Term 2 course. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -628,6 +635,21 @@ CITATION CHECK PASSED 2026-11-05).
 | One-to-one and onto functions | Libya, Grade 12 Mathematics (Science section), §2-3, printed p.57 |
 | Inverse functions | Libya, Grade 12 Mathematics (Science section), §3-3, printed p.59 |
 | Composite functions | Libya, Grade 12 Mathematics (Science section), §4-3, printed p.62 |
+| Input–output tables | Jordan, Grade 4 Student Book Term 2, Unit 8, Lesson 2, printed p. 66 |
+| Functions | Jordan, Grade 7 Student Book Term 1, Unit 3, Lesson 4, printed p. 83 |
+| Piecewise functions | Jordan, Grade 9 Student Book Term 1, Unit 2, Lesson 1, printed p. 52 |
+| Interpreting graphical representations | Jordan, Grade 9 Student Book Term 1, Unit 2, Lesson 2, printed p. 64 |
+| The quadratic function | Jordan, Grade 9 Student Book Term 1, Unit 2, Lesson 3, printed p. 74 |
+| Geometric transformations of quadratic functions | Jordan, Grade 9 Student Book Term 1, Unit 2, Lesson 4, printed p. 87 |
+| Polynomial functions | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 1, printed p. 8 |
+| Composition of functions | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 3, printed p. 25 |
+| The inverse function | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 4, printed p. 32 |
+| Branching (piecewise) functions | Jordan, Grade 11 Student Book Term 1 (Academic Track), Unit 1, Lesson 1, printed p. 8 |
+| Geometric transformations of functions | Jordan, Grade 11 Student Book Term 1 (Academic Track), Unit 1, Lesson 2, printed p. 19 |
+| Workbook practice: patterns and equations (T2 U8) | Jordan, Grade 4 Workbook Term 2, Unit 8 (workbook evidence) |
+| Workbook practice: linear equations (T1 U3) | Jordan, Grade 7 Workbook Term 1, Unit 3 (workbook evidence) |
+| Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
+| TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
 **Acceptance count: taught in 38 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone).**.** Egypt carries the
 

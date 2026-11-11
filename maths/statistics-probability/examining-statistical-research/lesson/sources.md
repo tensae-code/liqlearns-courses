@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa, Libya
+countries: Turkey, Bangladesh, South Africa, Libya, Jordan
 
 Every part traces to its book and page.
 
@@ -10,6 +10,7 @@ Every part traces to its book and page.
 **Book 3:** *Mathematics, Grade 6 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 1 ISBN 978-1-4315-0037-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 **Book 4:** *Statistics (الإحصاء), Grade 12* (student book; third year secondary, Humanities section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 5:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,8 +27,9 @@ Every part traces to its book and page.
 | The population census; requirements for conducting it | Libya, Grade 12 Statistics (Humanities section), §2-4, printed p.93 |
 | Population terms — population density; population growth rate; ratios; the sex ratio | Libya, Grade 12 Statistics (Humanities section), §2-2-4, printed p.95 |
 | Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
+| The statistical question | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 1, printed p. 108 |
 
-**Acceptance count: taught in 4 countries (Turkey, Bangladesh, South Africa, Libya).**
+**Acceptance count: taught in 5 countries (Turkey, Bangladesh, South Africa, Libya, Jordan).**
 
 Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 

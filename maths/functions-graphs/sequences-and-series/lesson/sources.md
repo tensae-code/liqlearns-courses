@@ -236,6 +236,11 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 139:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 140:** *Mathematics, Grade 11* (student book; second year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 141:** *Mathematics, Grade 4, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-372-2, National Library deposit no. 2022/4/2061 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 142:** *Mathematics, Grade 6, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-376-0, National Library deposit no. 2022/4/2063 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 143:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 144:** *Mathematics, Grade 10, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-382-1, National Library deposit no. 2022/4/2066 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 145:** *Mathematics, Grade 11, Workbook (Exercise Book), Term 1 — Academic Track, TRUE COMPANION copy (file …6262)* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, printed ISBN 978-9923-41-793-5 (Arabic). Workbook evidence: this is the held Grade 11 Term 1 student book's true companion (its limits set sits in Unit 2, p. 34, matching the student book's arrangement). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -558,6 +563,11 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sum of a geometric series (§7-8) | Libya, Grade 11 Mathematics (Science section), §7-8, printed p.203 |
 | Infinite geometric series (§8-8) | Libya, Grade 11 Mathematics (Science section), §8-8, printed p.205 |
 | Recurring decimals as geometric series (§9-8) | Libya, Grade 11 Mathematics (Science section), §9-8, printed p.207 |
+| Number patterns | Jordan, Grade 4 Student Book Term 2, Unit 8, Lesson 1, printed p. 62 |
+| Sequences | Jordan, Grade 6 Student Book Term 2, Unit 5, Lesson 6, printed p. 38 |
+| Sequences | Jordan, Grade 7 Student Book Term 1, Unit 3, Lesson 3, printed p. 77 |
+| Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
+| Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
 **Acceptance count: taught in 36 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove

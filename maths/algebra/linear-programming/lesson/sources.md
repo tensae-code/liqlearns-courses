@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan
 
 Every part traces to its book and page.
 
@@ -17,6 +17,7 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 **Book 7:** *Mathematics, Secondary 1 (Grade 10), Term 2* — Egypt, Ministry of Education and Technical Education (Arabic edition; distinct from the held old English edition). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 8:** *Mathematics, Student Textbook Grade 12* — Ethiopia, Ministry of Education, First Published August 2023, © 2023 MoE, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 12* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-031-4 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 1 — Business Track* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-788-1 (Arabic). Workbook evidence: practice companion to the Grade 12 Business Track student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,7 +59,8 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Maximum and minimum values (§4.2) | Ethiopia, Grade 12 student book, Unit 4 — introduction to linear programming, printed p. 260 |
 | Applications of linear programming (§4.3) | Ethiopia, Grade 12 student book, Unit 4 — introduction to linear programming, printed p. 274 |
 | Introduction to linear programming: guidance and answers (teacher evidence) | Ethiopia, Grade 12 teacher guide (teacher evidence), Unit 4, guide pp. 153–218 |
-**Acceptance count: taught in 8 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Workbook practice: linear programming (Business T1 U3) | Jordan, Grade 12 Workbook Term 1 (Business Track), Unit 3 (workbook evidence) |
+**Acceptance count: taught in 9 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Sudan teaches linear programming in Grade 11, from the formulation to word problems.
 

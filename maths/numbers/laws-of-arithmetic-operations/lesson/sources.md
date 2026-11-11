@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan
 
 Every part traces to its book and page.
 
@@ -77,6 +77,11 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 **Book 49:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 50:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Mathematics, Grade 1, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-344-9, National Library deposit no. 2022/4/2024 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Mathematics, Grade 2, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-346-3, National Library deposit no. 2022/4/2026 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP extent line claims 96 pages; the book has 92 printed pages and is complete (its contents end with the Unit 5 cumulative questions at p. 92) — the held copy is not truncated.
+**Book 53:** *Mathematics, Grade 3, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-348-7, National Library deposit no. 2022/4/2027 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Mathematics, Grade 3, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-370-8, National Library deposit no. 2022/4/2060 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Mathematics, Grade 6, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-376-0, National Library deposit no. 2022/4/2063 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -223,7 +228,12 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Non-table multiplication and division: rationalising calculations with the properties of division | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3A, lessons 81–88, printed pp. 4–21 |
 | Properties of the operations (§12-1) | Libya, Grade 7 pupil's book, §12-1, printed p.19 |
 | Sum, difference, product, quotient, remainder (§14-1) | Libya, Grade 7 pupil's book, §14-1, printed p.23 |
-**Acceptance count: taught in 15 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| Properties of addition | Jordan, Grade 1 Student Book Term 1, Unit 3, Lesson 6, printed p. 76 |
+| Properties of addition | Jordan, Grade 2 Student Book Term 1, Unit 3, Lesson 6, printed p. 52 |
+| Properties of multiplication | Jordan, Grade 3 Student Book Term 1, Unit 4, Lesson 9, printed p. 72 |
+| Multiplication using the distributive property | Jordan, Grade 3 Student Book Term 2, Unit 7, Lesson 3, printed p. 12 |
+| Algebraic properties | Jordan, Grade 6 Student Book Term 2, Unit 5, Lesson 4, printed p. 24 |
+**Acceptance count: taught in 16 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Libya carries the properties of the operations, and sum, difference, product, quotient and remainder, in Grade 7, Chapter 1 (stocked by the 2026-11-08 re-verification sweep).
 

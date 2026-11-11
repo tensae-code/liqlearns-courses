@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan
 
 Every part traces to its book and page.
 
@@ -37,6 +37,8 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 21:** *Algebra, Grade 7* (Yelemesov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 22:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 9, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-407-1, National Library deposit no. 2023/1/205 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 10, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-382-1, National Library deposit no. 2022/4/2066 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -97,7 +99,11 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Multiplying/dividing algebraic fractions (§4-2) | Libya, Grade 9 pupil's book, §4-2, printed p.40 |
 | Adding/subtracting algebraic fractions, numerical denominators (§5-2) | Libya, Grade 9 pupil's book, §5-2, printed p.42 |
 | Adding/subtracting algebraic fractions, algebraic denominators (§6-2) | Libya, Grade 9 pupil's book, §6-2, printed p.46 |
-**Acceptance count: taught in 14 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Multiplying and dividing rational algebraic expressions | Jordan, Grade 9 Student Book Term 2, Unit 7, Lesson 1, printed p. 92 |
+| Adding and subtracting rational algebraic expressions | Jordan, Grade 9 Student Book Term 2, Unit 7, Lesson 2, printed p. 101 |
+| Solving rational equations | Jordan, Grade 9 Student Book Term 2, Unit 7, Lesson 3, printed p. 108 |
+| Division of polynomials and rational functions | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 2, printed p. 18 |
+**Acceptance count: taught in 15 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Libya carries algebraic fractions in Grade 9, Chapter 2 — simplifying, multiplying and dividing, and adding and subtracting with numerical and then algebraic denominators (stocked by the 2026-11-08 re-verification sweep).
 

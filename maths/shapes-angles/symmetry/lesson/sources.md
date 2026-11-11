@@ -228,6 +228,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 104:** *Mathematics, Grade 1 Book 2; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 5 Book 1; Grade 6 Book 1; Grade 7 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 7 Book 2 ISBN 978-1-4315-0220-2. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 **Book 105:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+**Book 106:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -385,6 +386,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lines of symmetry (Grade 5 Book 1) | South Africa, Grade 5 Book 1, Ws 58a–b Lines of symmetry, printed pp. 158, 160 |
 | Reflection symmetry; more reflection symmetry (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 38–39 Reflection symmetry; More reflection symmetry, printed pp. 104, 106 |
 | Reflection and reflective symmetry (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 89 Reflection and reflective symmetry, printed p. 56 |
+| Workbook practice: geometry (T1 U5) | Jordan, Grade 4 Workbook Term 1, Unit 5 (workbook evidence) |
 
 **Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-

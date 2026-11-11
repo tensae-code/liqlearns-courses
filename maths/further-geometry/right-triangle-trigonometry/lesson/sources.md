@@ -140,6 +140,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 73:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 **Book 74:** *Mathematics, Grade 8* (Ryskeldieva et al., NIS line) — Kazakhstan, NIS (one 192-page book held in four identical part-files across languages/printings: Ch. 1 square roots and irrational expressions, Ch. 2 polygons and quadrilaterals, Ch. 3 quadratic equations, Ch. 4 relations between sides and angles of a right triangle). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 75:** *Geometry, Grade 8* (Smirnov set) — Kazakhstan, Smirnov et al., Mektep (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 76:** *Mathematics, Grade 10, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-360-9, National Library deposit no. 2022/4/2036 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 77:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -287,6 +289,11 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Relations between sides and angles of a right triangle: sine/cosine/tangent/cotangent definitions and values, the basic identities, solving right triangles | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 4, printed pp. 138–179 |
 | Metric relations in right triangles: trigonometric ratios, the Pythagorean theorem and converse, the Euclidean theorems, the basic trigonometric identities, complementary-angle ratios, solving right triangles | Kazakhstan, Geometry 8 (Shynybekov set), Ch. 2, printed pp. 76–112 (pagination of the line's English edition) |
 | Right-triangle metric relations and trigonometry (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 2 |
+| Trigonometric ratios | Jordan, Grade 9 Student Book Term 2, Unit 5, Lesson 4, printed p. 40 |
+| Applications of trigonometric ratios | Jordan, Grade 9 Student Book Term 2, Unit 5, Lesson 5, printed p. 49 |
+| Trigonometric ratios | Jordan, Grade 10 Student Book Term 1, Unit 3, Lesson 1, printed p. 66 |
+| Trigonometric ratios for angles within one revolution | Jordan, Grade 10 Student Book Term 1, Unit 3, Lesson 2, printed p. 74 |
+| Workbook practice: trigonometry (T1 U3) | Jordan, Grade 10 Workbook Term 1, Unit 3 (workbook evidence) |
 
 **Acceptance count: taught in 35 countries (Jordan, Egypt, Sierra
 Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine).**

@@ -104,6 +104,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 43:** *Mathematics, Secondary 1 (Grade 10), Term 2* — Egypt, Ministry of Education and Technical Education (Arabic edition; distinct from the held old English edition). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 44:** *Mathematics, Grade 11, Term 1, General track (Literary section)* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (Deposit no. 10555/2015; ISBN 978-977-706-012-7). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 45:** *Mathematics, Grade 11, Term 1, General track (Literary section), Arabic edition* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (the held file is a double scan of this one book; cited once). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 46:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -194,6 +195,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Ley de senos aplicada: with AB=30 m, α=30°, β=120° → third angle 30°, AC=30√3 by the sine rule, height CE=AC·sen 30°=15√3 | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 141 |
 | Leyes trigonométricas: sine rule, cosine rule and tangent (Napier) rule stated in a reference box; notable triangles 37°/53°, 45°, 30°/60° with their side ratios | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 141 |
 | Triángulos oblicuángulos: sine rule (worked example verified: β = 4.40°, α = 160.60°) and cosine rule, solving oblique triangles | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 5 (Grade 11) section, printed p. 151 |
+| Using the sine of the angle to find the area of the triangle | Jordan, Grade 10 Student Book Term 1, Unit 4, Lesson 4, printed p. 119 |
+| Workbook practice: applications of triangles (T1 U4) | Jordan, Grade 10 Workbook Term 1, Unit 4 (workbook evidence) |
 
 **Acceptance count: taught in 26 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9

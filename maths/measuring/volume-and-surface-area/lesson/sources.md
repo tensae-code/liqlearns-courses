@@ -362,6 +362,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 174:** *Mathematics, Grade 6 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 175:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 176:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -748,6 +749,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Cone: curved surface area and volume (§4-5) | Libya, Grade 9 pupil's book, §4-5, printed p.114 |
 | Surface area of a sphere (§5-5) | Libya, Grade 9 pupil's book, §5-5, printed p.120 |
 | Volume of a sphere (§6-5) | Libya, Grade 9 pupil's book, §6-5, printed p.121 |
+| Volume of the quadrilateral prism and its surface area | Jordan, Grade 6 Student Book Term 2, Unit 7, Lesson 5, printed p. 108 |
+| Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,

@@ -273,6 +273,16 @@ Every part traces to its book and page.
 **Book 201:** *Mathematics, Grade 2 workbooks, Parts 1–4* (Akpaeva set; Kazakh and Russian editions) (workbooks) — Kazakhstan, Almatykitap. Workbook evidence: practice companions to the Akpaeva Grade 2 student parts. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 202:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 203:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 204:** *Mathematics, Grade 3, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-348-7, National Library deposit no. 2022/4/2027 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 205:** *Mathematics, Grade 4, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-350-0, National Library deposit no. 2022/4/2028 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 206:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 207:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-345-6 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 208:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-367-8 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP deposit line names it Term 1 (الفصل الدراسي الأول) — a cataloguing slip inside the book; its cover, contents and deposit number 2022/4/2058 prove it is the Term 2 workbook, and it is cited as Term 2.
+**Book 209:** *Mathematics, Grade 1, Teacher Guide, Term 1* (teacher guide) — Jordan, Ministry of Education, first edition (2020 trial arrangement: addition and subtraction before two-place numbers) (Arabic). Teacher evidence only: lesson guidance and keys for the first-edition Grade 1 Term 1 arrangement; a different edition from the current NCCD guide, not a duplicate of it. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 210:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-347-0 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 211:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 212:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 213:** *Mathematics, Grade 5, Teacher Guide, Term 1 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 5 Term 1 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -925,6 +935,32 @@ Every part traces to its book and page.
 | Two-step word problems | Libya, Grade 3 pupil's book Part 1, Unit 4, Lesson 2, printed p.49 |
 | Mental addition by approximating to 50s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 1, printed p.98 |
 | Mental addition by approximating to 100s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 3, printed p.104 |
+| Addition using the number line | Jordan, Grade 1 Student Book Term 1, Unit 3, Lesson 1, printed p. 66 |
+| Double plus 1 | Jordan, Grade 1 Student Book Term 1, Unit 3, Lesson 3, printed p. 70 |
+| Components of the number 10 | Jordan, Grade 1 Student Book Term 1, Unit 3, Lesson 4, printed p. 72 |
+| Properties of addition | Jordan, Grade 1 Student Book Term 1, Unit 3, Lesson 6, printed p. 76 |
+| Adding three numbers | Jordan, Grade 1 Student Book Term 1, Unit 3, Lesson 7, printed p. 78 |
+| Related facts | Jordan, Grade 1 Student Book Term 1, Unit 4, Lesson 4, printed p. 92 |
+| Adding tens | Jordan, Grade 1 Student Book Term 2, Unit 6, Lesson 1, printed p. 8 |
+| Mental addition | Jordan, Grade 1 Student Book Term 2, Unit 6, Lesson 2, printed p. 10 |
+| Adding two numbers within two places | Jordan, Grade 1 Student Book Term 2, Unit 6, Lesson 3, printed p. 12 |
+| Adding multiples of ten and of a hundred mentally | Jordan, Grade 2 Student Book Term 1, Unit 3, Lesson 1, printed p. 42 |
+| Estimating the sum | Jordan, Grade 2 Student Book Term 1, Unit 3, Lesson 2, printed p. 44 |
+| Addition without regrouping | Jordan, Grade 2 Student Book Term 1, Unit 3, Lesson 3, printed p. 46 |
+| Properties of addition | Jordan, Grade 2 Student Book Term 1, Unit 3, Lesson 6, printed p. 52 |
+| Adding multiples of 10, 100 and 1000 | Jordan, Grade 3 Student Book Term 1, Unit 2, Lesson 1, printed p. 28 |
+| Estimating the sum | Jordan, Grade 3 Student Book Term 1, Unit 2, Lesson 2, printed p. 30 |
+| Addition with regrouping (1) | Jordan, Grade 3 Student Book Term 1, Unit 2, Lesson 3, printed p. 32 |
+| Addition with regrouping (2) | Jordan, Grade 3 Student Book Term 1, Unit 2, Lesson 4, printed p. 34 |
+| Adding numbers | Jordan, Grade 4 Student Book Term 1, Unit 1, Lesson 5, printed p. 22 |
+| Adding and subtracting whole numbers | Jordan, Grade 5 Student Book Term 1, Unit 1, Lesson 3, printed p. 16 |
+| Workbook practice: addition (Unit 3) | Jordan, Grade 1 Workbook Term 1, Unit 3, printed pp. 30–37 (workbook evidence) |
+| Workbook practice: addition within two places (Unit 6) | Jordan, Grade 1 Workbook Term 2, Unit 6, printed pp. 6–10 (workbook evidence) |
+| TEACHER EVIDENCE: lesson plans and keys for the Grade 1 Term 1 course in the first-edition arrangement (addition and subtraction taught before two-place numbers) | Jordan, Grade 1 Teacher Guide Term 1, first edition (teacher evidence) |
+| Workbook practice: addition (Unit 3) | Jordan, Grade 2 Workbook Term 1, Unit 3, printed pp. 23– (workbook evidence) |
+| Workbook practice: addition (T1 U2) | Jordan, Grade 3 Workbook Term 1, Unit 2 (workbook evidence) |
+| Workbook practice: numbers — adding and subtracting (T1 U1) | Jordan, Grade 4 Workbook Term 1, Unit 1 (workbook evidence) |
+| TEACHER EVIDENCE: guidance from a partial copy of the Grade 5 Term 1 guide | Jordan, Grade 5 Teacher Guide Term 1, fragment copy (teacher evidence) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Indonesia Grade 5

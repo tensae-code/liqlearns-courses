@@ -427,6 +427,17 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 237:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 238:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 239:** *Mathematics, Grade 1, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-366-1, National Library deposit no. 2022/4/2057 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 240:** *Mathematics, Grade 4, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-372-2, National Library deposit no. 2022/4/2061 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 241:** *Mathematics, Grade 5, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-374-6, National Library deposit no. 2022/4/2062 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 242:** *Mathematics, Grade 6, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-354-8, National Library deposit no. 2022/4/2030 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 243:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-367-8 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP deposit line names it Term 1 (الفصل الدراسي الأول) — a cataloguing slip inside the book; its cover, contents and deposit number 2022/4/2058 prove it is the Term 2 workbook, and it is cited as Term 2.
+**Book 244:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-369-2 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 245:** *Mathematics, Grade 2, Teacher Guide, Term 2 — Unit 10 chunk (first-edition part-work)* (teacher guide) — Jordan, Ministry of Education (Arabic). Teacher evidence only: a per-unit chunk of the first-edition Grade 2 Term 2 guide covering Unit 10 (measurement). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 246:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-371-5 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 247:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 248:** *Mathematics, Grade 4, Teacher Guide, Term 2 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 4 Term 2 guide material (see the filing attribution note on the Term 2 fragment copies). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 249:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -1064,6 +1075,25 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Length (§3-5) | Libya, Grade 7 pupil's book, §3-5, printed p.119 |
 | Mass (§5-5) | Libya, Grade 7 pupil's book, §5-5, printed p.129 |
 | Capacity (§6-5) | Libya, Grade 7 pupil's book, §6-5, printed p.132 |
+| Comparing lengths and ordering them | Jordan, Grade 1 Student Book Term 2, Unit 11, Lesson 1, printed p. 84 |
+| Non-standard length units | Jordan, Grade 1 Student Book Term 2, Unit 11, Lesson 2, printed p. 86 |
+| Comparing masses and ordering them | Jordan, Grade 1 Student Book Term 2, Unit 11, Lesson 3, printed p. 88 |
+| Non-standard mass units | Jordan, Grade 1 Student Book Term 2, Unit 11, Lesson 4, printed p. 90 |
+| Comparing capacities and ordering them | Jordan, Grade 1 Student Book Term 2, Unit 11, Lesson 5, printed p. 92 |
+| Non-standard capacity units | Jordan, Grade 1 Student Book Term 2, Unit 11, Lesson 6, printed p. 94 |
+| The metre and the centimetre | Jordan, Grade 3 Student Book Term 2, Unit 11, Lesson 1, printed p. 84 |
+| Standard length units | Jordan, Grade 4 Student Book Term 2, Unit 9, Lesson 1, printed p. 84 |
+| Standard mass units | Jordan, Grade 4 Student Book Term 2, Unit 9, Lesson 2, printed p. 88 |
+| Standard capacity units | Jordan, Grade 4 Student Book Term 2, Unit 9, Lesson 3, printed p. 91 |
+| Capacity and length measurement units | Jordan, Grade 5 Student Book Term 2, Unit 9, Lesson 2, printed p. 104 |
+| Measurement: applications on decimal numbers | Jordan, Grade 6 Student Book Term 1, Unit 3, Lesson 3, printed p. 81 |
+| Workbook practice: measurement (Unit 11) | Jordan, Grade 1 Workbook Term 2, Unit 11, printed pp. 34–39 (workbook evidence) |
+| Workbook practice: measurement (Unit 10) | Jordan, Grade 2 Workbook Term 2, Unit 10 (workbook evidence) |
+| TEACHER EVIDENCE: lesson guidance for Unit 10, measurement (first-edition per-unit chunk) | Jordan, Grade 2 Teacher Guide Term 2, Unit 10 chunk (teacher evidence) |
+| Workbook practice: geometry and measurement (T2 U11) | Jordan, Grade 3 Workbook Term 2, Unit 11 (workbook evidence) |
+| Workbook practice: measurement (T2 U9) | Jordan, Grade 4 Workbook Term 2, Unit 9 (workbook evidence) |
+| TEACHER EVIDENCE: guidance from a partial copy of the Grade 4 Term 2 guide material | Jordan, Grade 4 Teacher Guide Term 2, fragment copy (teacher evidence) |
+| Workbook practice: measurement (T2 U9) | Jordan, Grade 5 Workbook Term 2, Unit 9 (workbook evidence) |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the

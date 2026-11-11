@@ -504,6 +504,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Quadrilaterals (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 1 |
 | Right-triangle metric relations (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 2 |
 | Quadrilaterals (inside the Soltan Grade 8 geometry course) | Kazakhstan, Geometry 8 (Soltan set), Ch. 1 |
+| Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
+| Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
 **Acceptance count: taught in 36 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests

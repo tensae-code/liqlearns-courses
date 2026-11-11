@@ -174,6 +174,11 @@ Every part traces to its book and page.
 **Book 124:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 125:** *Mathematics, Grade 4 pupil's book, Term 1* (student book; the cover reads Term 1 — الفصل الدراسي الأول; the library record's “Part 1” wording is the record's, not the book's) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 126:** *Mathematics, Grade 4, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-350-0, National Library deposit no. 2022/4/2028 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 127:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 128:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 129:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-353-5 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 130:** *Mathematics, Grade 5, Teacher Guide, Term 1 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 5 Term 1 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -559,6 +564,15 @@ Every part traces to its book and page.
 | Factors | Libya, Grade 4 pupil's book Term 1, Unit 2, Lesson 4, printed p.29 |
 | Multiples | Libya, Grade 4 pupil's book Term 1, Unit 2, Lesson 5, printed p.33 |
 | Divisibility tests (§15-1) | Libya, Grade 7 pupil's book, §15-1, printed p.24 |
+| Divisibility by 2, 3, 5, 10 | Jordan, Grade 4 Student Book Term 1, Unit 4, Lesson 1, printed p. 70 |
+| Factors | Jordan, Grade 4 Student Book Term 1, Unit 4, Lesson 2, printed p. 74 |
+| Prime and non-prime numbers | Jordan, Grade 4 Student Book Term 1, Unit 4, Lesson 3, printed p. 78 |
+| Divisibility by 4, 6, 9 | Jordan, Grade 5 Student Book Term 1, Unit 3, Lesson 1, printed p. 54 |
+| Factorising a number into its prime factors | Jordan, Grade 5 Student Book Term 1, Unit 3, Lesson 2, printed p. 58 |
+| The least common multiple | Jordan, Grade 5 Student Book Term 1, Unit 3, Lesson 4, printed p. 64 |
+| Workbook practice: number properties (T1 U4) | Jordan, Grade 4 Workbook Term 1, Unit 4 (workbook evidence) |
+| Workbook practice: number properties (T1 U3) | Jordan, Grade 5 Workbook Term 1, Unit 3 (workbook evidence) |
+| TEACHER EVIDENCE: guidance from a partial copy of the Grade 5 Term 1 guide | Jordan, Grade 5 Teacher Guide Term 1, fragment copy (teacher evidence) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the divisibility tests and the
 Euclidean GCD; the text now teaches them. Sub lesson 2

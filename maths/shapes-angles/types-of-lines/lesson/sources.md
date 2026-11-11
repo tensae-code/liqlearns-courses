@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan
 
 Every part traces to its book and page.
 
@@ -81,6 +81,9 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 50:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 51:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Mathematics, Grade 3, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-348-7, National Library deposit no. 2022/4/2027 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *Mathematics, Grade 4, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-350-0, National Library deposit no. 2022/4/2028 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -210,8 +213,12 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Drawing parallel lines | Libya, Grade 4 pupil's book Term 1, Unit 6, Lesson 4, printed p.86 |
 | Points, lines and planes (§1-7) | Libya, Grade 7 pupil's book, §1-7, printed p.152 |
 | Parallel lines and angles (§1-3) | Libya, Grade 8 pupil's book, §1-3, printed p.67 |
+| Point, straight line and ray | Jordan, Grade 3 Student Book Term 1, Unit 6, Lesson 1, printed p. 96 |
+| Parallel straight lines | Jordan, Grade 3 Student Book Term 1, Unit 6, Lesson 3, printed p. 100 |
+| Parallel and intersecting lines | Jordan, Grade 4 Student Book Term 1, Unit 5, Lesson 3, printed p. 94 |
+| Workbook practice: geometry and patterns (T1 U6) | Jordan, Grade 3 Workbook Term 1, Unit 6 (workbook evidence) |
 
-**Acceptance count: taught in 19 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 20 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Libya carries lines from Grade 2 (line segments, rays, perpendicular and parallel lines) through Grade 8 (parallel lines and angles, points, lines and planes in Grade 7) (stocked by the 2026-11-08 re-verification sweep).
 

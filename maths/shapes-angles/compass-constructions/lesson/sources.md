@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan
 
 Every part traces to its book and page.
 
@@ -80,6 +80,7 @@ Every part traces to its book and page.
 **Book 52:** *Geometry, Grade 7* (Turapbekov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 53:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Mathematics, Grade 6, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-354-8, National Library deposit no. 2022/4/2030 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -216,7 +217,8 @@ Every part traces to its book and page.
 | Geometric constructions (inside circle and geometric constructions: constructions, constructing a triangle from three elements) | Kazakhstan, Geometry 7 (Shynybekov set), Ch. IV, §18–23, printed pp. 107–140 |
 | Circle and geometrical construction (inside circle and its parts, central angle, relative positions, tangents) | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 4, printed pp. 142–190 |
 | Geometric constructions (§2-3) | Libya, Grade 8 pupil's book, §2-3, printed pp.74–76 |
-**Acceptance count: taught in 25 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| Geometric constructions | Jordan, Grade 6 Student Book Term 1, Unit 4, Lesson 5, printed p. 117 |
+**Acceptance count: taught in 26 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 

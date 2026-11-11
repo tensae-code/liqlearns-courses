@@ -458,6 +458,15 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 279:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 280:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 281:** *Mathematics, Grade 1, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-366-1, National Library deposit no. 2022/4/2057 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 282:** *Mathematics, Grade 2, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-368-5, National Library deposit no. 2022/4/2059 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 283:** *Mathematics, Grade 7, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-378-4, National Library deposit no. 2022/4/2064 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 284:** *Mathematics, Grade 9, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-407-1, National Library deposit no. 2023/1/205 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 285:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-367-8 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP deposit line names it Term 1 (الفصل الدراسي الأول) — a cataloguing slip inside the book; its cover, contents and deposit number 2022/4/2058 prove it is the Term 2 workbook, and it is cited as Term 2.
+**Book 286:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-369-2 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 287:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 288:** *Mathematics, Grade 5, Teacher Guide, Term 2 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 5 Term 2 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 289:** *Mathematics, Grade 8, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-381-4 (Arabic). Workbook evidence: practice companion to the Grade 8 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: this file was recorded in the library as the Grade 9 Term 2 workbook; the book itself is the Grade 8 Term 2 exercise book (cover: الرياضيات — الصف الثامن — كتاب التمارين), and Grade 9 has no workbook in hand.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -1099,6 +1108,21 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Quadrilaterals (§6-4) | Libya, Grade 8 pupil's book, §6-4, printed pp.79–95 |
 | Types of polygons (§8-4) | Libya, Grade 8 pupil's book, §8-4, printed pp.79–95 |
 | Types of polygons (§1-6) | Libya, Grade 9 pupil's book, §1-6, printed p.129 |
+| Solids | Jordan, Grade 1 Student Book Term 2, Unit 8, Lesson 1, printed p. 36 |
+| Plane shapes | Jordan, Grade 1 Student Book Term 2, Unit 8, Lesson 2, printed p. 38 |
+| Sides and vertices of plane shapes | Jordan, Grade 1 Student Book Term 2, Unit 8, Lesson 3, printed p. 40 |
+| Solids | Jordan, Grade 2 Student Book Term 2, Unit 8, Lesson 3, printed p. 56 |
+| Edges, faces and vertices | Jordan, Grade 2 Student Book Term 2, Unit 8, Lesson 4, printed p. 58 |
+| Plane shapes | Jordan, Grade 2 Student Book Term 2, Unit 8, Lesson 5, printed p. 60 |
+| Sides and vertices | Jordan, Grade 2 Student Book Term 2, Unit 8, Lesson 6, printed p. 62 |
+| Congruence | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 1, printed p. 50 |
+| Bisectors in the triangle | Jordan, Grade 9 Student Book Term 2, Unit 5, Lesson 2, printed p. 19 |
+| Mid-segments and altitudes in the triangle | Jordan, Grade 9 Student Book Term 2, Unit 5, Lesson 3, printed p. 31 |
+| Workbook practice: geometric shapes (Unit 8) | Jordan, Grade 1 Workbook Term 2, Unit 8, printed pp. 16–20 (workbook evidence) |
+| Workbook practice: fractions and shapes (Unit 8) | Jordan, Grade 2 Workbook Term 2, Unit 8 (workbook evidence) |
+| Workbook practice: geometry (T2 U8) | Jordan, Grade 5 Workbook Term 2, Unit 8 (workbook evidence) |
+| TEACHER EVIDENCE: guidance from a partial copy of the Grade 5 Term 2 guide | Jordan, Grade 5 Teacher Guide Term 2, fragment copy (teacher evidence) |
+| Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family

@@ -325,6 +325,9 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 172:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 173:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 174:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 175:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 176:** *Mathematics, Grade 10, Teacher Guide, Term 1 (chunk copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 10 Term 1 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -617,6 +620,9 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Area of a circle (§4-5) | Libya, Grade 8 pupil's book, §4-5, printed p.121 |
 | Arc length (§1-5) | Libya, Grade 9 pupil's book, §1-5, printed p.97 |
 | Area of a sector (§2-5) | Libya, Grade 9 pupil's book, §2-5, printed p.103 |
+| Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
+| Workbook practice: the circle (T1 U2) | Jordan, Grade 10 Workbook Term 1, Unit 2 (workbook evidence) |
+| TEACHER EVIDENCE: guidance from a partial copy (chunk) of the Grade 10 Term 1 guide | Jordan, Grade 10 Teacher Guide Term 1, chunk copy (teacher evidence) |
 
 **Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the

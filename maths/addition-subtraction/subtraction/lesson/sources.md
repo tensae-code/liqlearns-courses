@@ -258,6 +258,14 @@ Every part traces to its book and page.
 **Book 187:** *Mathematics, Grade 2 workbooks, Parts 1–4* (Akpaeva set; Kazakh and Russian editions) (workbooks) — Kazakhstan, Almatykitap. Workbook evidence: practice companions to the Akpaeva Grade 2 student parts. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 188:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 189:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 190:** *Mathematics, Grade 3, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-348-7, National Library deposit no. 2022/4/2027 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 191:** *Mathematics, Grade 4, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-350-0, National Library deposit no. 2022/4/2028 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 192:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 193:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-345-6 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 194:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-367-8 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP deposit line names it Term 1 (الفصل الدراسي الأول) — a cataloguing slip inside the book; its cover, contents and deposit number 2022/4/2058 prove it is the Term 2 workbook, and it is cited as Term 2.
+**Book 195:** *Mathematics, Grade 1, Teacher Guide booklet — 'Unit 2' (the subtraction unit, first-edition arrangement)* (teacher guide) — Jordan, Ministry of Education (Arabic). Teacher evidence only: the per-unit booklet issue of the first-edition Grade 1 guide covering the subtraction unit (numbered Unit 2 in that arrangement; it is Unit 4 in the current arrangement). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 196:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-347-0 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 197:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -709,6 +717,31 @@ Every part traces to its book and page.
 | Two-step word problems | Libya, Grade 3 pupil's book Part 1, Unit 4, Lesson 2, printed p.49 |
 | Mental subtraction by approximating to 50s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 2, printed p.101 |
 | Mental subtraction by approximating to 100s | Libya, Grade 3 pupil's book Part 1, Unit 9, Lesson 4, printed p.107 |
+| Subtraction using the number line | Jordan, Grade 1 Student Book Term 1, Unit 4, Lesson 1, printed p. 86 |
+| Subtraction using doubles | Jordan, Grade 1 Student Book Term 1, Unit 4, Lesson 2, printed p. 88 |
+| Subtraction by finding a ten | Jordan, Grade 1 Student Book Term 1, Unit 4, Lesson 3, printed p. 90 |
+| Related facts | Jordan, Grade 1 Student Book Term 1, Unit 4, Lesson 4, printed p. 92 |
+| The missing number | Jordan, Grade 1 Student Book Term 1, Unit 4, Lesson 5, printed p. 94 |
+| Subtracting tens | Jordan, Grade 1 Student Book Term 2, Unit 7, Lesson 1, printed p. 22 |
+| Mental subtraction | Jordan, Grade 1 Student Book Term 2, Unit 7, Lesson 2, printed p. 24 |
+| Subtracting two numbers within two places | Jordan, Grade 1 Student Book Term 2, Unit 7, Lesson 3, printed p. 26 |
+| Subtracting multiples of ten and of a hundred mentally | Jordan, Grade 2 Student Book Term 1, Unit 4, Lesson 1, printed p. 62 |
+| Estimating the difference | Jordan, Grade 2 Student Book Term 1, Unit 4, Lesson 2, printed p. 64 |
+| Subtraction without regrouping | Jordan, Grade 2 Student Book Term 1, Unit 4, Lesson 3, printed p. 66 |
+| Subtraction with regrouping (1) | Jordan, Grade 2 Student Book Term 1, Unit 4, Lesson 4, printed p. 68 |
+| Subtraction with regrouping (2) | Jordan, Grade 2 Student Book Term 1, Unit 4, Lesson 5, printed p. 70 |
+| Subtraction with zeros | Jordan, Grade 2 Student Book Term 1, Unit 4, Lesson 6, printed p. 72 |
+| Subtracting multiples of 10, 100 and 1000 | Jordan, Grade 3 Student Book Term 1, Unit 3, Lesson 1, printed p. 42 |
+| Estimating the difference | Jordan, Grade 3 Student Book Term 1, Unit 3, Lesson 2, printed p. 44 |
+| Subtraction with regrouping | Jordan, Grade 3 Student Book Term 1, Unit 3, Lesson 3, printed p. 46 |
+| Subtraction with zeros | Jordan, Grade 3 Student Book Term 1, Unit 3, Lesson 4, printed p. 48 |
+| Subtracting numbers | Jordan, Grade 4 Student Book Term 1, Unit 1, Lesson 6, printed p. 26 |
+| Adding and subtracting whole numbers | Jordan, Grade 5 Student Book Term 1, Unit 1, Lesson 3, printed p. 16 |
+| Workbook practice: subtraction (Unit 4) | Jordan, Grade 1 Workbook Term 1, Unit 4, printed pp. 38–43 (workbook evidence) |
+| Workbook practice: subtraction within two places (Unit 7) | Jordan, Grade 1 Workbook Term 2, Unit 7, printed pp. 11–15 (workbook evidence) |
+| TEACHER EVIDENCE: lesson plans and keys for the subtraction unit (numbered 'Unit 2' in the first-edition arrangement) | Jordan, Grade 1 Teacher Guide booklet 'Unit 2' (teacher evidence) |
+| Workbook practice: subtraction (Unit 4) | Jordan, Grade 2 Workbook Term 1, Unit 4 (workbook evidence) |
+| Workbook practice: subtraction (T1 U3) | Jordan, Grade 3 Workbook Term 1, Unit 3 (workbook evidence) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Indonesia Grade 5

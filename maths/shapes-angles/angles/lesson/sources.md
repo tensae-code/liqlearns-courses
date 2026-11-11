@@ -356,6 +356,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 202:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 203:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 204:** *Mathematics, Grade 8, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-380-7, National Library deposit no. 2022/4/2065 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 205:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 206:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 207:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 208:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -776,6 +781,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Interior angle sum of a polygon (§2-6) | Libya, Grade 9 pupil's book, §2-6, printed p.129 |
 | Exterior angles of a polygon (§3-6) | Libya, Grade 9 pupil's book, §3-6, printed p.132 |
 | Review of angle properties — taught revision section inside the chapter | Libya, Grade 10 pupil's book Part 2, §4-8, printed p.81 |
+| Proving lines parallel and perpendicular | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 1, printed p. 70 |
+| Workbook practice: geometry and patterns (T1 U6) | Jordan, Grade 3 Workbook Term 1, Unit 6 (workbook evidence) |
+| Workbook practice: geometry (T1 U5) | Jordan, Grade 4 Workbook Term 1, Unit 5 (workbook evidence) |
+| Workbook practice: geometry (T2 U8) | Jordan, Grade 5 Workbook Term 2, Unit 8 (workbook evidence) |
+| Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
 **Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and

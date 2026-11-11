@@ -201,6 +201,10 @@ textbook.
 **Book 108:** *Mathematics, Grade 2* (Zhakupova set, Parts 1–4) — Kazakhstan, Zhakupova, Lebedeva, Orekhova, Ushakova, NIS, Nur-Sultan 2022. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 109:** *Mathematics, Grade 10 pupil's book, Part 2* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 110:** *Mathematics, Grade 9, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-408-8, National Library deposit no. 2023/1/206 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 111:** *Mathematics, Grade 11, Student Book, Term 1 — Academic Track* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, reprinted 2025, ISBN 978-9923-41-791-1, National Library deposit no. 2025/6/3251 (Arabic). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 112:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 113:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -412,6 +416,13 @@ textbook.
 | Rotation (§3-9) | Libya, Grade 10 pupil's book Part 2, §3-9, printed p.118 |
 | Enlargement (§4-9) | Libya, Grade 10 pupil's book Part 2, §4-9, printed p.123 |
 | Combined transformations (§5-9) | Libya, Grade 10 pupil's book Part 2, §5-9, printed p.130 |
+| Translation in the coordinate plane | Jordan, Grade 6 Student Book Term 1, Unit 4, Lesson 2, printed p. 97 |
+| Reflection in the coordinate plane | Jordan, Grade 6 Student Book Term 1, Unit 4, Lesson 3, printed p. 103 |
+| Rotation | Jordan, Grade 7 Student Book Term 1, Unit 4, Lesson 5, printed p. 119 |
+| Geometric transformations of quadratic functions | Jordan, Grade 9 Student Book Term 1, Unit 2, Lesson 4, printed p. 87 |
+| Geometric transformations of functions | Jordan, Grade 11 Student Book Term 1 (Academic Track), Unit 1, Lesson 2, printed p. 19 |
+| Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
+| Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
 **Acceptance count: taught in 34 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with

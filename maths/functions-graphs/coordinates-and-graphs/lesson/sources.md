@@ -268,6 +268,9 @@ textbook.
 **Book 166:** *Mathematics, Grade 10 pupil's book, Part 2* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 167:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 168:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 169:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 170:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-353-5 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -551,6 +554,9 @@ textbook.
 | Quadratic graphs (§2-6) | Libya, Grade 10 pupil's book Part 2, §2-6, printed p.26 |
 | Cubic graphs (§3-6) | Libya, Grade 10 pupil's book Part 2, §3-6, printed p.32 |
 | Reciprocal and reciprocal-square graphs (§4-6) | Libya, Grade 10 pupil's book Part 2, §4-6, printed p.34 |
+| The coordinate plane | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 2, printed p. 111 |
+| Representing the linear function graphically | Jordan, Grade 7 Student Book Term 1, Unit 3, Lesson 5, printed p. 88 |
+| Workbook practice: representing data (T1 U5) | Jordan, Grade 5 Workbook Term 1, Unit 5 (workbook evidence) |
 
 **Acceptance count: taught in 39 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Sierra Leone, Libya).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
