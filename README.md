@@ -893,3 +893,15 @@ ICT, science), it is one world course, with the country's way
 showing inside as examples. Under that principle Computer
 Science and ICT is one world leveled course, not 200 country
 courses.
+
+Two more of his words the same day. First, payment: he is
+thinking of making the website a single payment — pay once,
+then use it — and he doubts the per-lesson charge from the
+money-rules draft ("to open a new course or a new lesson it
+charges them some money — I don't know if we need those"). The
+draft's lesson-gate question leans no-gate; not yet a clean
+yes. Second, why one course per country works: "we don't know
+what they are learning at that age — that's why I said a level
+thing." A country course is organised inside by levels — the
+learner's place is found by what they prove, not by their age
+or school grade. Levels, not grades.
