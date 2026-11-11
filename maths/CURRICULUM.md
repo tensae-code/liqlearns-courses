@@ -263,6 +263,7 @@ structures.*
 - matrix-cryptography ✅ — encoding and decoding messages with a 2×2 matrix cryptogram (Level 149, Rwanda merge 2026-11-07)
 - eulers-totient-and-multiplicative-functions ✅ — multiplicative functions, and Euler's totient φ: what it counts, its table, φ(p) = p − 1, and multiplicativity for coprime arguments, taught corrected (Level 157, North Macedonia merge 2026-11-07)
 - chess-and-sudoku-reasoning ✅ — pure reasoning with no calculation: the candidate check and the king's three exits for mate in one, one-reply-deep proof for mate in two, and sudoku solved by elimination (single candidates and hidden singles), from Bolivia's mathematics-laboratory strand (Chess I–VI and Sudoku) in the ministry's teacher compendium (Level 158, Bolivia merge 2026-11-07)
+- algorithmic-thinking ✅ — algorithms written as flowcharts: inputs and outputs defined, the four shapes, divisibility tests drawn and debugged by tracing; and working with lists of data — sorting, searching, and generating lists by simulation (Level 167, Australia expansion merge 2026-11-11)
 
 ## Unit 15 — Money, Time and Everyday Mathematics
 *End of unit: the learner can use money, run the money
@@ -314,7 +315,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 165 lessons across 18 units** — the first
+**LADDER TOTAL: 167 lessons across 18 units** — the first
 52 built 2026-11-05 across 12 units (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -331,7 +332,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Units 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13; the Australia expansion merge of 2026-11-11 added 1 lesson (Level 167) inside Unit 14.
 
 ## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:

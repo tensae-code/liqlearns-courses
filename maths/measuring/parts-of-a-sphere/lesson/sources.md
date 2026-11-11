@@ -1,6 +1,6 @@
 # Sources — Parts of a Sphere
 
-countries: Tajikistan, Armenia, Libya, Vietnam, Syria
+countries: Tajikistan, Armenia, Libya, Vietnam, Syria, Australia
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | Spheres | Vietnam, Grade 9 Volume 2, Bài 32 "Hình cầu" (spheres), printed p. 105 |
 | The sphere (الكرة) as a whole solid with S = 4πR² and V = (4/3)πR³ (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in volume-and-surface-area) | Syria, Grade 9 Geometry student's book, printed p. 66 |
 
-**Acceptance count: taught in 5 countries (Tajikistan, Armenia, Libya, Vietnam, Syria).**
+**Acceptance count: taught in 6 countries (Tajikistan, Armenia, Libya, Vietnam, Syria, Australia).**
 
 Vietnam joins with the sphere in Grade 9 Volume 2 (Bài 32). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -39,3 +39,17 @@ This lesson exists because Tajikistan's Grade 11 Геометрия is the one r
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Spherical segment defined (part of a ball cut off by a plane; its height); Spherical layer (zone solid) defined (part of a ball between two parallel cutting planes; its bases and height); Spherical sector defined (segment plus or minus the cone from the centre); Surface areas of parts of a sphere, all stated without derivation: spherical cap (segment surface) S = 2πRH; zone surface S = 2πRH (excluding the two base discs); spherical sector surface S = πR(2H + r); worked problem: total area of the smaller segment cut off at distance 3 from the centre of a sphere of radius 5 → cap 20π + base disc 16π = 36π cm².
 
 Armenia enters through its Geometry 11. From its books: the spherical surface and the sphere (գնդային մակերևույթ և գունդ); tangent plane to a spherical surface; surface area of the spherical surface.
+
+## Australia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the PDFs — **9 books, all of them student textbooks** (Years 8–10: eight Cambridge volumes — the Essential Mathematics Australian Curriculum, Victorian Curriculum and CambridgeMATHS NSW lines, plus the GOLD support edition and the CORE pathway volume — and one Jacaranda volume, Maths Quest 10+10A) — and placed 844 teaching items. Australia has no government textbook series (ACARA writes the Australian Curriculum but publishes and prescribes no textbooks); the set is the school-used commercial series the country records name, and every book is cited as such. All 9 files are distinct works (distinct ISBNs, extents and contents, verified per book on the read); the publisher-line relations are stated in the placements: Book A1 (GOLD) is the support edition of Book A2's Year 8 material, Book A3 is the same line in its Victorian ©2024 edition, Books A4 and A6 are the NSW syllabus editions, and Book A9 is Book A8's CORE pathway companion. In the sections below the books are cited as Books A1–A9. Australia COUNTS in this lesson's taught-in figure: every item is pupil-textbook teaching. The read's four flagged claims are carried exactly: (F1) Book A3's contents lists its Chapter 11, Algorithmic thinking, as “(online only)”, but the file in hand contains the full chapter, bound after the Answers (printed pp. 926–941) — it is read and placed, and it founds this course's algorithmic-thinking lesson; (F2) Book A7's contents lists a Chapter 18, Algorithmic thinking, with no page numbers, and the chapter is NOT in the file (searched end to end; the book closes with its Glossary, printed p. 1106, and Index, printed p. 1117) — recorded as absent, not read, and no item rests on it; (F3) Book A9's running head at printed p. 644 prints section 10E's code as “0E” — the book's own production error; the placement cites 10E, as the section's heading and contents give it; (F4) only the 9 Maths books are this read's set — the country records' wider Australia picture (12 staged books across subjects, plus filled-by-exact-link titles) is not merged into this count, and in particular the two senior Maths titles that exist only as exact-link records (Cambridge Senior Specialist Mathematics, QCE Units 3&4, 2e, and Cambridge Senior Mathematical Methods, QCE Units 3&4, 2e) are NOT in hand and were NOT read. The placements' named exclusions — front matter and “how to use this book” guides; every chapter's pre-tests, progress quizzes, unlettered applications / problem-solving / modelling / investigation spreads, puzzles and games, chapter summaries, checklists and reviews, semester reviews, glossaries, indexes and answer sections — are apparatus/assessment, teach no new content, and are stocked nowhere. The set is Years 8–10 secondary only, so the primary lessons (counting, place value, first steps) receive no Australia item — that is the set's shape, not a reading gap. Australia's class for Maths is **COURSES-CLOSED** — every in-hand book (9/9) has been read and placed; the two senior QCE exact-link titles do not block the in-hand class (if exact-link titles are ever ruled in-scope for the courses reckoning, Australia drops to PARTIAL until they are grabbed and read). Into this lesson the placements stock 1 item from Book A8.
+
+**Book A8:** *Essential Mathematics for the Australian Curriculum Year 10 & 10A, Third Edition* — Australia, Greenwood, Woolley et al., Cambridge University Press, ©2020, ISBN 978-1-108-77346-1; 78,711,668 bytes, 956 PDF pp. Year 10 (& 10A extension) volume of the Essential Mathematics AC line. Pages cited are printed pages (printed = PDF − 18).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Surface area and volume of spheres (10A) (section 6H) | Australia — *Essential Mathematics for the Australian Curriculum Year 10 & 10A, Third Edition* (student textbook, Year 10), printed p. 481 |
+
+Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Three-dimensional trigonometry
 
-countries: Jordan, Malaysia, Albania, Tajikistan, Bahamas
+countries: Jordan, Malaysia, Albania, Tajikistan, Bahamas, Australia
 
 Every part traces to its book and page.
 
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Solving problems in 3D space with trigonometry | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 58–60 |
 | Worked problem: dihedral angle of a regular octahedron = 2 arccos(1/√3) ≈ 109.5°, by halving the octahedron into two square pyramids and taking a section | Tajikistan, Геометрия (Grade 11), printed p. 54 |
 
-**Acceptance count: taught in 4 countries (Jordan, Malaysia, Albania, Tajikistan).**
+**Acceptance count: taught in 5 countries (Jordan, Malaysia, Albania, Tajikistan, Australia).**
 Jordan is the sole full source in the read stock: its Grade 10 Term 1 book closes its trigonometry-applications unit with a dedicated lesson on solving 3-D problems (printed p. 124), standing on the same unit's bearings, sine rule, cosine rule and triangle-area lessons. No other read country's filing carries a dedicated 3-D trigonometry treatment, and none is claimed here — this lesson is built at exactly the size that one source supports.
 
 Malaysia joins Jordan in this lesson from the applications end of its solution-of-triangles chapter: one worked prism problem that asks for an angle between lines in space and an angle between planes.
@@ -42,3 +42,17 @@ The 2026-11-10 expansion read read the Bahamas' whole in-hand Maths set from the
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every document in the Bahamas' in-hand set is a ministry requirement document (the 2010 primary guidelines, the 2003 BJC examination syllabus, the 2019 senior-high guidelines), not a pupil textbook or a teacher guide, cited as the evidence kind it is, never counted as teaching (the standing Ghana/Barbados evidence-only precedent). The Bahamas' class for Maths is PARTIAL (evidence-only): all 4 in-hand documents are read and stocked, but no pupil textbook is in hand; it advances only when a pupil book file — a Hodder *Bahamas Primary Mathematics* volume, or the Akhepran Grade 7 BJC textbook whose exact link already sits in the download list — lands in hand and is read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bahamas-placements.md.
+
+## Australia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the PDFs — **9 books, all of them student textbooks** (Years 8–10: eight Cambridge volumes — the Essential Mathematics Australian Curriculum, Victorian Curriculum and CambridgeMATHS NSW lines, plus the GOLD support edition and the CORE pathway volume — and one Jacaranda volume, Maths Quest 10+10A) — and placed 844 teaching items. Australia has no government textbook series (ACARA writes the Australian Curriculum but publishes and prescribes no textbooks); the set is the school-used commercial series the country records name, and every book is cited as such. All 9 files are distinct works (distinct ISBNs, extents and contents, verified per book on the read); the publisher-line relations are stated in the placements: Book A1 (GOLD) is the support edition of Book A2's Year 8 material, Book A3 is the same line in its Victorian ©2024 edition, Books A4 and A6 are the NSW syllabus editions, and Book A9 is Book A8's CORE pathway companion. In the sections below the books are cited as Books A1–A9. Australia COUNTS in this lesson's taught-in figure: every item is pupil-textbook teaching. The read's four flagged claims are carried exactly: (F1) Book A3's contents lists its Chapter 11, Algorithmic thinking, as “(online only)”, but the file in hand contains the full chapter, bound after the Answers (printed pp. 926–941) — it is read and placed, and it founds this course's algorithmic-thinking lesson; (F2) Book A7's contents lists a Chapter 18, Algorithmic thinking, with no page numbers, and the chapter is NOT in the file (searched end to end; the book closes with its Glossary, printed p. 1106, and Index, printed p. 1117) — recorded as absent, not read, and no item rests on it; (F3) Book A9's running head at printed p. 644 prints section 10E's code as “0E” — the book's own production error; the placement cites 10E, as the section's heading and contents give it; (F4) only the 9 Maths books are this read's set — the country records' wider Australia picture (12 staged books across subjects, plus filled-by-exact-link titles) is not merged into this count, and in particular the two senior Maths titles that exist only as exact-link records (Cambridge Senior Specialist Mathematics, QCE Units 3&4, 2e, and Cambridge Senior Mathematical Methods, QCE Units 3&4, 2e) are NOT in hand and were NOT read. The placements' named exclusions — front matter and “how to use this book” guides; every chapter's pre-tests, progress quizzes, unlettered applications / problem-solving / modelling / investigation spreads, puzzles and games, chapter summaries, checklists and reviews, semester reviews, glossaries, indexes and answer sections — are apparatus/assessment, teach no new content, and are stocked nowhere. The set is Years 8–10 secondary only, so the primary lessons (counting, place value, first steps) receive no Australia item — that is the set's shape, not a reading gap. Australia's class for Maths is **COURSES-CLOSED** — every in-hand book (9/9) has been read and placed; the two senior QCE exact-link titles do not block the in-hand class (if exact-link titles are ever ruled in-scope for the courses reckoning, Australia drops to PARTIAL until they are grabbed and read). Into this lesson the placements stock 1 item from Book A8.
+
+**Book A8:** *Essential Mathematics for the Australian Curriculum Year 10 & 10A, Third Edition* — Australia, Greenwood, Woolley et al., Cambridge University Press, ©2020, ISBN 978-1-108-77346-1; 78,711,668 bytes, 956 PDF pp. Year 10 (& 10A extension) volume of the Essential Mathematics AC line. Pages cited are printed pages (printed = PDF − 18).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Applications in three dimensions (10A) (section 4E) | Australia — *Essential Mathematics for the Australian Curriculum Year 10 & 10A, Third Edition* (student textbook, Year 10), printed p. 300 |
+
+Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.

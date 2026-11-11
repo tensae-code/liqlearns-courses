@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra
+countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
 | The statistical question | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 1, printed p. 108 |
 
-**Acceptance count: taught in 5 countries (Turkey, Bangladesh, South Africa, Libya, Jordan).**
+**Acceptance count: taught in 6 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia).**
 
 Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 
@@ -59,3 +59,17 @@ The 2026-11-10 expansion read read Andorra's whole in-hand Maths set from the PD
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Andorra's in-hand set is an official curriculum programme, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Andorra's class for Maths is PARTIAL (evidence-only): all 4 programmes are read and stocked, but no pupil textbook is in hand — none exists to hold for the Escola Andorrana — and the Spanish and French systems' maths manuals are list-only names with no files held.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/andorra-placements.md.
+
+## Australia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the PDFs — **9 books, all of them student textbooks** (Years 8–10: eight Cambridge volumes — the Essential Mathematics Australian Curriculum, Victorian Curriculum and CambridgeMATHS NSW lines, plus the GOLD support edition and the CORE pathway volume — and one Jacaranda volume, Maths Quest 10+10A) — and placed 844 teaching items. Australia has no government textbook series (ACARA writes the Australian Curriculum but publishes and prescribes no textbooks); the set is the school-used commercial series the country records name, and every book is cited as such. All 9 files are distinct works (distinct ISBNs, extents and contents, verified per book on the read); the publisher-line relations are stated in the placements: Book A1 (GOLD) is the support edition of Book A2's Year 8 material, Book A3 is the same line in its Victorian ©2024 edition, Books A4 and A6 are the NSW syllabus editions, and Book A9 is Book A8's CORE pathway companion. In the sections below the books are cited as Books A1–A9. Australia COUNTS in this lesson's taught-in figure: every item is pupil-textbook teaching. The read's four flagged claims are carried exactly: (F1) Book A3's contents lists its Chapter 11, Algorithmic thinking, as “(online only)”, but the file in hand contains the full chapter, bound after the Answers (printed pp. 926–941) — it is read and placed, and it founds this course's algorithmic-thinking lesson; (F2) Book A7's contents lists a Chapter 18, Algorithmic thinking, with no page numbers, and the chapter is NOT in the file (searched end to end; the book closes with its Glossary, printed p. 1106, and Index, printed p. 1117) — recorded as absent, not read, and no item rests on it; (F3) Book A9's running head at printed p. 644 prints section 10E's code as “0E” — the book's own production error; the placement cites 10E, as the section's heading and contents give it; (F4) only the 9 Maths books are this read's set — the country records' wider Australia picture (12 staged books across subjects, plus filled-by-exact-link titles) is not merged into this count, and in particular the two senior Maths titles that exist only as exact-link records (Cambridge Senior Specialist Mathematics, QCE Units 3&4, 2e, and Cambridge Senior Mathematical Methods, QCE Units 3&4, 2e) are NOT in hand and were NOT read. The placements' named exclusions — front matter and “how to use this book” guides; every chapter's pre-tests, progress quizzes, unlettered applications / problem-solving / modelling / investigation spreads, puzzles and games, chapter summaries, checklists and reviews, semester reviews, glossaries, indexes and answer sections — are apparatus/assessment, teach no new content, and are stocked nowhere. The set is Years 8–10 secondary only, so the primary lessons (counting, place value, first steps) receive no Australia item — that is the set's shape, not a reading gap. Australia's class for Maths is **COURSES-CLOSED** — every in-hand book (9/9) has been read and placed; the two senior QCE exact-link titles do not block the in-hand class (if exact-link titles are ever ruled in-scope for the courses reckoning, Australia drops to PARTIAL until they are grabbed and read). Into this lesson the placements stock 1 item from Book A7.
+
+**Book A7:** *Maths Quest 10+10A, Victorian Curriculum, Second Edition* — Australia, Smith, Smart, James, Mahony, Langsford Willing et al., Jacaranda (John Wiley & Sons Australia), ©2022, ISBN 978-0-7303-9320-7; 24,637,870 bytes, 1,120 PDF pp. The set's only Jacaranda volume and its only Year 10 book outside the Cambridge lines; 10A extension sections are marked “(10A)” in its contents and in the rows below. Pages cited are the book's own contents folios (the PDF offset drifts through the file, so contents folios, not PDF arithmetic, are cited). Its contents lists a Chapter 18, Algorithmic thinking, with no page numbers, and that chapter is NOT in this file — searched end to end; the book closes with its Glossary (printed p. 1106) and Index (printed p. 1117) — recorded as absent (online-only), not read, and no row in this course rests on it (flag F2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Evaluating inquiry methods and statistical reports (section 12.8) | Australia — *Maths Quest 10+10A, Victorian Curriculum, Second Edition* (student textbook, Year 10), printed p. 792 |
+
+Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
