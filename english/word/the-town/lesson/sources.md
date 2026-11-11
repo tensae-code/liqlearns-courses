@@ -766,3 +766,34 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Country and land words inside the "Our country" reading on Afghanistan (country, capital, province, jungle, mountain, river) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 13, printed pp.133–134 |
 | Describing a city: "What's it like? — It's a big and clean city", with a reading text on Kabul | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 6, printed pp.45–47 |
 | "Where were you born?" and describing a home village (jobs, weather, what it is famous for) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 7, printed p.54 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *New Fun with English Activity Book 2B* (Grade 2, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 4B* (Grade 4, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 6A* (Grade 6, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Workbook 12B* (Grade 12, Term 2; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Place vocabulary: children, dhow, flag, garden, country, behind | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5, printed p.8 |
+| Listening vocabulary: farm, map, big, watermelon, barn | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5, printed p.13 |
+| Listening vocabulary: market, today, modern | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 5, printed p.11 |
+| Neighbourhood and daily words: brush, bread | Kuwait, New Fun with English Activity Book 2B (Grade 2), printed p.19 |
+| Listening vocabulary for the Grand Mosque: hall, huge, dome, pattern, statue | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 7, printed p.46 |
+| Reading “A World of Attractions”: landmarks, with a Burj Khalifa table; vocabulary chance, gallery, pleasant, unique, attract, attend, exhibition, contrast, design, event | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 2, printed pp.34–35 |
+| Reading “Staying Safe”: safety signs and instructions; vocabulary confidently, avoid, safely, prevent, pedestrian, announcement, destination, alert | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 3, printed pp.48–49 |
+| Reading “Silk City” — Madinat Al-Hareer and Burj Mubarak Al-Kabir; key words contentment, crown jewel, demarcation, skyline, vertical village | Kuwait, Over to You Workbook 12B (Grade 12), Unit 8, printed p.10 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

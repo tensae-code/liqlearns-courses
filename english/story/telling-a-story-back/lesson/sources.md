@@ -537,3 +537,18 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Vacation recount readings in the past (a 15-day stay with grandparents in Khost; a summer-vacation paragraph to imitate) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 7, printed pp.70–72 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Skyline English Student's Book 3B* (Grade 3, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story: a grandmother recounts the old pearl-diving days (began, pearl, diver, memories, quietly, imagine, wave) | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 8, printed p.60 |
+| Listening: a radio news report; ordering pictures into a story with a happy ending | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 10, printed p.82 (full-year folio; term folio p.35) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

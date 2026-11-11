@@ -1,6 +1,6 @@
 # Sources — Have To for Obligation
 
-countries: Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia
+countries: Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 9 (Secundaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | have to / don't have to for jobs, rules with must / mustn't, and had to / didn't have to — the older course's obligation teaching (Module 5 "World of work", Units 9–10), held only in its Teacher's Book | Syria, *English for Syria*, Intermediate, Teacher's Book (York Press), Module 5, printed pp.63–76 — teacher's-book evidence; the matching student's book is not in hand |
 | must / mustn't for rules, at a nature reserve (Unit 13) | Syria, *English for Starters 5*, Pupil's Book (York Press), Unit 13, printed p.39 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with need for materials — “You need a ruler. What do I need for maths?” (Grade 5; stocked here as its closest obligation home) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 6 must, have to and need to (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Bolivia, Syria, Vietnam, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with need for materials — “You need a ruler. What do I need for maths?” (Grade 5; stocked here as its closest obligation home) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 6 must, have to and need to (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 9 student book's full have-to treatment with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium spread is stocked with its true content stated, exactly as the sweep's placements carry it — the filing's own recorded slip (a possession table under an obligation heading) is not smoothed over. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -129,3 +129,15 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Modal auxiliaries must, have/has to, need to: compulsion and no choice | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 5, printed p.125 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar: have to / has to and don't have to / doesn't have to for obligations | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 2, printed p.36 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

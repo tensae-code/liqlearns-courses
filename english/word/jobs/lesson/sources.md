@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 4 (student's book) — Cambodia,
@@ -178,7 +178,7 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 32 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan).** Libya joins with jobs and professions as a system — job descriptions, a firefighter's day, career plans with going to (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 33 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Kuwait).** Libya joins with jobs and professions as a system — job descriptions, a firefighter's day, career plans with going to (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -639,3 +639,28 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Job words and "What does he/she do?" (shopkeeper, gardener, painter, mechanic, nurse, farmer, hairdresser, cook, engineer, principal, factory worker) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 11, printed pp.112–119 |
 | School staff and job words (inside the school subjects unit) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 3, printed p.22 |
 | Describing a job in a paragraph; a reading about a tourist guide's day | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 7, printed p.67 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Handwriting Book 3A* (Grade 3, Term 1; handwriting book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-171-4. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep (all 80 model sentences extracted).
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+**Book:** *Skyline English Student's Book 4B* (Grade 4, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading: mill, company, bread, biscuits, bake, baker — the baker's work | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 7, printed p.45 |
+| Copy-block sentences about helping jobs: pilot, policeman, doctor, fireman, nurse, reporter; “When I grow up, I want to be a pilot” | Kuwait, Skyline Handwriting Book 3A (Grade 3), Block 4, printed pp.41–50 |
+| Jobs and workplaces: a pilot flies a plane, policemen at the police station, a doctor at the hospital, a bakery | Kuwait, Skyline Workbook 3A (Grade 3), Unit Four, printed p.26 |
+| Job descriptions in sentences, and choosing the right words for helpers (“Call the police for help”, a brave policeman) | Kuwait, Skyline Workbook 3A (Grade 3), Unit Four, printed pp.28–29 |
+| Listening vocabulary: scientist, believe, explore, dream, explain | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 5, printed p.10 |
+| Reading: air traffic controller, instruction, take off, continent, arrival lounge, confidently, baggage hall, destination | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 5, printed p.8 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

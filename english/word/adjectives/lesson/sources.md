@@ -813,3 +813,18 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | Animal character adjectives (tall, smart, careful, brave, pretty, friendly, safe, slow) | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed p.88 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Choosing the right words for helpers: “Call the police for help”, a brave policeman (describing words for people who help) | Kuwait, Skyline Workbook 3A (Grade 3), Unit Four, printed p.29 |
+| Negative adjectives with prefixes: lucky → unlucky and the other un- adjectives | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 8, printed p.65 (full-year folio; term folio p.18) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

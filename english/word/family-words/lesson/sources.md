@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 1
@@ -116,7 +116,7 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 35 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 36 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Kuwait).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 family words with “He's my dad / She's my mum” and the Grade 2 cousins and family tree (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -578,3 +578,23 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 |---|---|
 | Family words and the family tree (wife/mother, husband/father, brother/son, sister/daughter) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit 13, printed p.119 |
 | Extended family words: grandmother, grandfather, aunt (father's sister), uncle (father's brother) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 1, printed p.11 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *New Fun with English Activity Book 1B* (Grade 1, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 3B* (Grade 3, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A family word inside an odd-one-out set: mother | Kuwait, New Fun with English Activity Book 1B (Grade 1), printed p.11 |
+| Reading the Eid text: celebrate, prayer, poor, grandparents | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 5, printed p.8 |
+| Weekend-plan vocabulary: parent, drive, perfect, idea | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 8, printed p.54 |
+| Reading “Generations Together”: traditional Kuwaiti family life; vocabulary bond, strongly, courtyard, gather, spacious, happily, elder, hospitality, role, manage, wisdom, united | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 1, printed pp.20–21 |
+| The family and home vocabulary set of the “Generations Together” unit (bond, courtyard, elder, hospitality, wisdom, united …) | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 1, printed pp.20–21 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait
 
 Every part traces to its book and page.
 
@@ -119,7 +119,7 @@ differ only in cover wording and colophon; cited once.
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
 | One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 20 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan).** Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 21 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait).** Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -322,3 +322,15 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Used to / would for past habits (the photo-album conversation) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 10, printed p.102 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| use to / used to for past habits | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 10, printed p.80 (full-year folio; term folio p.33) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus, Class 1 —
@@ -147,7 +147,7 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 28 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with noun → adjective building (cloud → cloudy) (Grade 7), the affixes im-/de-/re- and -less/-ful (Grade 10) and the prefix re- (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 29 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with noun → adjective building (cloud → cloudy) (Grade 7), the affixes im-/de-/re- and -less/-ful (Grade 10) and the prefix re- (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -615,3 +615,30 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+**Book:** *Skyline English Student's Book 4B* (Grade 4, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Workbook 7A* (Grade 7, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First edition 2025–2026; a verified true companion to Student's Book 7A. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Anagram word-building (naeco → ocean; “We saw a whale in the ocean”) and sentence writing with proper punctuation | Kuwait, Skyline Workbook 3A (Grade 3), Unit One, printed p.4 |
+| Writing: building superlatives (cold+est, large+est, hot+est) | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 5, printed p.9 |
+| Word-building: -er nouns (fold+er, plan+er) | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 8, printed p.67 |
+| Word-building: adding -ly (quick → quickly, day → daily) | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 6, printed p.31 |
+| Word-building: -tion nouns (educate+tion, invent+tion) | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 5, printed p.10 |
+| Word-building: -ing spelling (stop+ing, bake+ing) | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 6, printed p.28 |
+| Word-building: the prefixes dis-, mis-, pre- and how they change meaning (workbook-only teaching) | Kuwait, English Pearls Workbook 7A (Grade 7), Micro-Skill Practice, printed p.35 |
+| Negative adjectives with prefixes: lucky → unlucky and the other un- adjectives | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 8, printed p.65 (full-year folio; term folio p.18) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

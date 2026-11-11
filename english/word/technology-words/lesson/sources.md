@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -150,7 +150,7 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 28 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 29 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -576,3 +576,35 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 |---|---|
 | A reading text on computers in education, with true/false questions | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 3, printed p.30 |
 | Media words (report, news, Facebook, television, Twitter, internet, email, text a message, study online) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 13, printed pp.119–123 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 6A* (Grade 6, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 9B* (Grade 9, Term 2; student's book) — Kuwait, Ministry of Education in-house series (the imprint names it the “2026 edition” against its 2025 copyright, recorded as printed). Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Workbook 12A* (Grade 12, Term 1; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+**Book:** *Over to You Workbook 12B* (Grade 12, Term 2; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sports-technology vocabulary: technology, smartwatch, track, step, heart rate, calorie, burn, relay race | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 6, printed p.24 |
+| Reading: tablet, wire, easily, programme, channel, typewriter, type, nowadays — technology then and now | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 6, printed p.27 |
+| Reading: caught, invention, pick, reply, librarian — an inventions text | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 7, printed p.48 |
+| Listening vocabulary: agency, screen, monsoon, few / fewer | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 5, printed p.11 |
+| Reading “Kuwait TV, Then and Now”: comparing past and present broadcasting; vocabulary official, broadcasting, channel, programme, daily | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 1, printed pp.25–26 |
+| Reading “The Daily News: The Rise of E-Sports”: vocabulary emerge, rapidly, platform, massive, evolve, intensively | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 5, printed pp.24–25 |
+| Reading “Should Cities Become Smart?”: vocabulary flow, smoothly, alert, increasing, traffic jam, costly, risky, firmly; comparing for/against arguments | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 6, printed pp.31–32 |
+| Reading “Future Shock”: an article about inventions and modern technology (appliances, satnav) | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 8, printed p.63 (full-year folio; term folio p.16) |
+| Reading: a “smart clothes” article (future inventions) | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 8, printed p.66 (full-year folio; term folio p.19) |
+| Reading “New crimes”: computer crime and identity theft; key words break into, fake, invisible, techno-criminal, worthless | Kuwait, Over to You Workbook 12A (Grade 12), Unit 1, printed p.4 |
+| Reading a news report: “Kuwaiti inventors return from award ceremony in Geneva” — airbag attire, a Light Indicator System, an electrochemical reactor; key words acquire, attire, deputy, electrochemical, forum, medallist, reactor, sewage, sponsor, unprecedented | Kuwait, Over to You Workbook 12B (Grade 12), Unit 12, printed p.38 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

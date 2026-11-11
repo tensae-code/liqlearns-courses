@@ -303,3 +303,15 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Reported questions (if/whether for Yes/No; wh- reporting) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 14, printed p.150 |
 | Reporting questions (asked whether/if…; wanted to know where…) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 9, printed p.106 |
 | Reported questions: pronoun, tense, word-order and here/now word changes | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 10, printed p.146 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *English Pearls of Kuwait Student's Book 9B* (Grade 9, Term 2; student's book) — Kuwait, Ministry of Education in-house series (the imprint names it the “2026 edition” against its 2025 copyright, recorded as printed). Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar: reported speech — Yes/No and Wh- questions (present and past simple) | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 7, printed p.45 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

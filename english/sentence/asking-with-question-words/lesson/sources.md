@@ -770,3 +770,18 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 |---|---|
 | Where-questions with be and do (Where are you from? Where does he live/work?) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 15, printed p.145 |
 | Questions with how + adjective: How high/big/long/wide/far…? | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 14, printed p.144 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Wh- questions with do / does: What / When / Where do/does …? (police station, post office, opposite, nearby) | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 6, printed p.25 |
+| Present simple questions and answers: “When does he play football? He plays football every Monday. Where do they go every Friday?” | Kuwait, Skyline Workbook 3A (Grade 3), Unit One, printed pp.3–4 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

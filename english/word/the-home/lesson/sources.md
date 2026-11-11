@@ -650,3 +650,18 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | House and body words (upstairs, downstairs, stomach, ill, all right, band aid), and the phrasal verbs put on / take off | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 6 House Accidents, printed p.76 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *New Fun with English Activity Book 2B* (Grade 2, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Neighbourhood and daily words: brush, bread | Kuwait, New Fun with English Activity Book 2B (Grade 2), printed p.19 |
+| Reading “Generations Together”: the traditional Kuwaiti home — courtyard, spacious rooms, gathering (the home-features half of the unit's vocabulary) | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 1, printed pp.20–21 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

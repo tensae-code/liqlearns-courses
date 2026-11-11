@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ cited once.
 | Reading: a magazine article on the importance of breakfast — skimming and scanning | Mongolia, English XII, Unit 8, printed p.137 |
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
-**Acceptance count: taught in 21 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Afghanistan).** Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its reading strategies in Grades 7, 9 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 22 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Afghanistan, Kuwait).** Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its reading strategies in Grades 7, 9 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -367,3 +367,43 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 |---|---|
 | A reading text: steps and tips for becoming a better reader | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 4, printed p.25 |
 | Reading strategies: look at pictures and titles first, read quickly for answers, underline key words and main ideas | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 1, printed p.2 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+**Book:** *Skyline English Student's Book 3B* (Grade 3, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 4A* (Grade 4, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 4B* (Grade 4, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 6A* (Grade 6, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading a short beach text (sight words at / is / my) | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5, printed p.11 |
+| Reading a short text about the Kuwaiti flag (put, gate, show) | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5, printed p.16 |
+| Reading practice with the sight words take / photo (can / we / in) | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 7, printed p.47 |
+| Reading a sunny-farm-day text (happily, picture, gift; sight words has / see / me) | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 8, printed p.65 |
+| Reading: boat, life, easy, simple — life in old Kuwait | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 5, printed p.9 |
+| Reading: made, mud, wood, tasty, yard, rice — mud-house life | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 5, printed p.14 |
+| Reading: “A Picnic with My Family”, a short text | Kuwait, Skyline Workbook 3A (Grade 3), Unit Three, printed p.22 |
+| Reading the Eid text: celebrate, prayer, poor, grandparents | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 5, printed p.8 |
+| Reading the Hajj text: journey, pillar, patient, thankful, around, with present-simple work | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 2, printed p.23 |
+| Reading: safely, breathe, suitable, forest, mountain, gently, need — living on a planet | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 5, printed p.8 |
+| Reading: gallery, ruler, include, true, information, part, useful — a museum text | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 7, printed p.44 |
+| Reading: list, freely, greet, realise, tropical, skill — exploring a continent | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 5, printed p.13 |
+| Reading: popular, virtual, lantern, real, local, respectfully, experience — a lantern festival text | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 7, printed p.44 |
+| Reading: decide, footstep, echo, shock, deep, exit — exploring a place | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 8, printed p.67 |
+| Reading “Pearl of the Gulf” as the Art and Expression unit's reading text: an old-Kuwait passage; vocabulary support, cheerful, moment, trader, wooden, goods, craft | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 1, printed pp.20–21 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

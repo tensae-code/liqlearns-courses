@@ -531,3 +531,22 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use capital letters appropriately (first words of sentences, lines of poetry, titles, important words in headings) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 71–72 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *New Fun with English Activity Book 2B* (Grade 2, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing lessons: choosing the correct punctuation mark for a sentence, and supplying missing punctuation marks | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 7, printed pp.46, 51 |
+| Writing: question mark, capital letter and full stop taught together | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 8, printed p.64 |
+| Copying sentences with their punctuation (capital letter and full stop in matched sentences) | Kuwait, New Fun with English Activity Book 2B (Grade 2), printed p.10 |
+| Anagram word-building (naeco → ocean) with sentence writing in proper punctuation | Kuwait, Skyline Workbook 3A (Grade 3), Unit One, printed p.4 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

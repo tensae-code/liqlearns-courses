@@ -49,7 +49,7 @@ verification sweep.
 | Four consumer-product types (convenience, shopping, speciality, unsought); advertising methods (social media, posters, radio, public display) and audiences; creating and performing an advertising speech | Cambodia, ENGLISH Grade 12, Unit 17 'Advertising', printed pp.93–98 |
 | Gadgets taught (sat-nav, headphones, camera, webcam, mobile); writing a gadget advert | Sudan, Grade 7 Pupil's Book, Unit 4, Lesson 3 'Technology Everywhere' (unit printed pp.25–32) |
 | The advertisement among the 150–170-word composition kinds (article, advertisement, opinion essay, informal letter, notes/messages, news story) | Kuwait, Over to You Student's Book 10B (as filed in english/books/kuwait.md) |
-| A Red Crescent recruitment advert analysed for its attention and compassion devices; plan and write your own advert for volunteers, about 200–220 words | Kuwait, Over to You Student's Book 10B, Unit 3 'Human Values', printed pp.16–21 |
+| A Red Crescent recruitment advert analysed for its attention and compassion devices; plan and write your own advert for volunteers, about 200–220 words | Kuwait, Over to You Workbook 12A, Unit 3 'Human Values', printed pp.16–21 |
 | ADVERTISEMENTS (title, body, target market, selling points; simple present for timeless facts, modals/imperatives and mental verbs for persuasion, rhetorical questions and repetition) (CURRICULUM evidence) | Ghana, NaCCA JHS curriculum, B7 Text Types and Purposes (as filed in english/books/ghana.md) |
 | Brochures and flyers (A5 size, eye-catching headline, slogan or logo, brief description, list of benefits or offers, contact information); shorter transactional texts to convince (CURRICULUM evidence) | Ghana, NaCCA JHS curriculum, B8 Text Types and Purposes (as filed in english/books/ghana.md) |
 | Infographic writing tasks — an enrichment infographic of tips; a recycling infographic; a learning-tips infographic | Indonesia, Grades 7–9 books (as filed in english/books/indonesia.md) |
@@ -454,3 +454,19 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Distinguish between facts and opinions in advertisements; study the language used in broadcast advertisements | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 30 (25) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+Correction (Flag 1 of the sweep's diff): the Red Crescent recruitment advert row in the main table above previously named “Over to You Student's Book 10B, Unit 3 'Human Values'” — but Student's Book 10B holds Modules 3–4, Units 7–12 only and has no Unit 3. The advert task and its Red Crescent Society material stand in Workbook 12A, Unit 3 ‘Human Values’ (the Society's text at printed p.16), and the row's citation has been corrected in place above. The matching Student's Book 12A is not held.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Workbook 12A* (Grade 12, Term 1; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing items for an online auction listing (the e-Sell Kuwait website) | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 9, printed p.71 (full-year folio; term folio p.24) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

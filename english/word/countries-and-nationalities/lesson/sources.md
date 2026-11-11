@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
@@ -33,7 +33,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 15 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Afghanistan, Kuwait).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
@@ -201,3 +201,53 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | "Where are you from? — I'm from…" for self and others | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 2, printed p.10 |
 | The country–nationality table (Afghanistan–Afghan, England–English, France–French…) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 2, printed p.13 |
 | Proper (nationality) adjectives: "He is from Afghanistan — He is Afghan", for the region's countries | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 1, printed p.3 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *New Fun with English Activity Book 2B* (Grade 2, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Handwriting Book 3A* (Grade 3, Term 1; handwriting book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-171-4. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep (all 80 model sentences extracted).
+
+**Book:** *Skyline English Student's Book 3B* (Grade 3, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 4A* (Grade 4, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 4B* (Grade 4, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Workbook 12A* (Grade 12, Term 1; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+**Book:** *Over to You Workbook 12B* (Grade 12, Term 2; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Place and country vocabulary: children, dhow, flag, garden, country, behind | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5, printed p.8 |
+| Old-Kuwait listening vocabulary: small, live, fish, get, well, people, old | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 5, printed p.6 |
+| Kuwait in the past: “What's this? / What are these?” over old-Kuwait pictures (dhow, well) | Kuwait, New Fun with English Activity Book 2B (Grade 2), printed pp.21–25 |
+| Copy-block sentences discovering places: museums, Kuwait Towers, cultural places, trips and photos, in present and will-future forms | Kuwait, Skyline Handwriting Book 3A (Grade 3), Block 1, printed pp.11–20 |
+| National Day vocabulary: celebration, national, year, march, fireworks, lucky | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 5, printed p.10 |
+| Listening vocabulary for National Day: liberation, parade, anthem, rooftop, organise, speech, unity | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 2, printed p.25 |
+| Reading: the GCC countries — lie on, Asia, meaning, capital, currency, peacefully, island | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 4, printed p.63 |
+| Listening vocabulary: gulf, right, Lebanon, trip, with past-simple work | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 4, printed p.65 |
+| Reading: Japan — Japanese, actually, castle, sushi, chopsticks, kimono | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 4, printed p.67 |
+| Listening vocabulary: Spain, Africa, wildlife, properly, sketchbook, record, sunglasses, adventure | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 8, printed p.64 |
+| Reading: flags of the world — appear, strength, battle, rectangular, represent, remind | Kuwait, Skyline English Student's Book 4B (Grade 4), Unit 7, printed p.48 |
+| Culture vocabulary: compass, exhibition, jewellery, model, fact, respect, rich | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 7, printed p.42 |
+| Listening vocabulary: artwork, move, poster, Malaysia, display, Singapore | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 7, printed p.46 |
+| Reading “Celebrations Around the World”: celebrations by country, with a Japan table; vocabulary celebration, togetherness, preparation, exchange, harmony, festive | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 4, printed pp.62–63 |
+| Focus reading: the National Assembly Building (Kuwait's parliament architecture) | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 10, printed p.74 (full-year folio; term folio p.27) |
+| Reading “The Kuwait Red Crescent Society”: voluntary humanitarian aid; key words aftermath, deploy, ethnicity, hardship, voluntary, vulnerable | Kuwait, Over to You Workbook 12A (Grade 12), Unit 3, printed p.16 |
+| Reading “Bayt Lothan: an old house serving new purposes” — a traditional coffee house turned arts centre; key words contemporary, craftsman, pottery, promote, socialise | Kuwait, Over to You Workbook 12B (Grade 12), Unit 9, printed p.16 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

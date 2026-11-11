@@ -1,6 +1,6 @@
 # Sources — Obligation Compared — Must, Have To, Need To, Ought To, Shall
 
-countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia
+countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ verification sweep.
 | Should with have to/has to — the full forms, including negatives and questions | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 | The obligation scale — must (100%) / have to / should (60%) / don't have to (0%) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C (printed p.38 in the filing's anchor) |
 
-**Acceptance count: taught in 6 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge).
 
 Nicaragua joins with the Grade 9 Student's Book's rules lesson (must/mustn't against should and may, PDF p.86) and the Grade 10 module's full should/have to treatment with its obligation scale — must (100%) / have to / should (60%) / don't have to (0%) (Unit 1C, the filing's anchor is printed p.38) (stocked 2026-11-11 by the re-verification sweep merge).
 
@@ -71,3 +71,15 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| have to / should / must for necessity and advice: “Most people have to work to earn money. You shouldn't waste your money. You must be more careful” | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 9, printed p.70 (full-year folio; term folio p.23) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

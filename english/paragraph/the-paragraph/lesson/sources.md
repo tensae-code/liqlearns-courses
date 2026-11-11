@@ -744,3 +744,16 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 |---|---|
 | Writing a paragraph about your own classroom, from a model paragraph | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 3, printed p.29 |
 | Descriptive writing about houses (the unit's writing work) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 4, printed p.41 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *Skyline English Student's Book 4A* (Grade 4, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing: a passport information page, then a paragraph about yourself | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 4, printed p.68 |
+| Writing: a graphic organiser into a paragraph about Kuwait's National Day | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 2, printed p.28 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

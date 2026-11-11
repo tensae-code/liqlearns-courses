@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 7 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -96,3 +96,28 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Hobbies talk: "Do you have any hobbies?" with like + -ing lists (reading, painting, cooking, swimming, fishing, gardening, playing tennis/football, horse riding, shopping) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 8, printed pp.65–71 |
 | The reading text "My favourite hobby is reading" (why reading is good) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 8, printed p.73 |
 | Like + verb-ing (likes and dislikes of activities) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 1, printed p.4 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *New Fun with English Activity Book 1B* (Grade 1, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 3B* (Grade 3, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 6A* (Grade 6, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes: “What do you like to …? I like …” and “What does he/she like to eat? He/She likes …” | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 6, printed p.32 |
+| Likes with gerunds: “I like running / I don't like cooking” (read and match) | Kuwait, New Fun with English Activity Book 1B (Grade 1), printed p.17 |
+| Hobby vocabulary: hobby, use, collect, coin, weekend, time, agree | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 7, printed p.38 |
+| like / enjoy + -ing: “I/They/We like/enjoy cooking/fishing” | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 7, printed p.39 |
+| Speaking: indoor and outdoor activities — stating preferences with reasons (“I like it because I can …”) | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 2, printed p.38 |
+| Listening “My Favourite Things”: favourite activities and the reasons for them | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 1, printed p.23 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

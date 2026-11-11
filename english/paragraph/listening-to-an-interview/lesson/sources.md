@@ -1,6 +1,6 @@
 # Sources — Listening to an Interview
 
-countries: Mexico, Barbados, Saudi Arabia
+countries: Mexico, Barbados, Saudi Arabia, Kuwait
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ cited once.
 |---|---|
 | The whole lesson: listening to an interview — the Susana Harp interview listening, "Afro-México y patrimonio cultural": hear the interview's shape, and identify the interviewee's likes and dislikes and the compliments the interviewer pays her; the practice interview in the lesson text is this course's own short interview in the same shape, and the book's recording is not transcribed | Mexico, Grade 7, Project 15 "Preserving Cultural Heritage in the Music of Afro-Mexican Communities", printed p. 141 |
 
-**Acceptance count: taught in 2 countries (Mexico, Saudi Arabia).** This
+**Acceptance count: taught in 3 countries (Mexico, Saudi Arabia, Kuwait).** This
 lesson exists because of Mexico's Grade 7 book: no book
 read before the 2026-11-08 re-verification sweep taught
 listening to an interview — its shape, and listening inside
@@ -68,3 +68,22 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together. Over to You Student's Book 10B carries two folio systems: its rows below cite the full-year folios printed on the pages, with the term folios — the numbering this file's earlier Kuwait rows use — in brackets; both name the same pages.
+
+**Book:** *English Pearls of Kuwait Student's Book 6A* (Grade 6, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 9B* (Grade 9, Term 2; student's book) — Kuwait, Ministry of Education in-house series (the imprint names it the “2026 edition” against its 2025 copyright, recorded as printed). Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Over to You Student's Book 10B* (Grade 10, Term 2; Modules 3–4) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, First Edition 2009, reprinted through 2025/2026, ISBN 977-07-1355-4. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Listening “People Who Made a Difference”: Kuwaiti heritage figures (a biography listening) | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 1, printed p.23 |
+| Listening: a radio interview comparing the Olympic and Paralympic Games; speaker purpose and tone | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 5, printed p.22 |
+| Listening “Kuwait's Space Ambassador”: Kuwaiti scientific achievements in space | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 8, printed p.58 |
+| Listening: an eyewitness account of a night-time incident; ordering the events | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 12, printed p.94 (full-year folio; term folio p.47) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

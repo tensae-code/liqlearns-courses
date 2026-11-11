@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait
 
 Every part traces to its book and page.
 
@@ -91,7 +91,7 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 13 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia).** Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 14 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait).** Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -470,3 +470,18 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Write to create mood and atmosphere | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 50 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Over to You Workbook 12A* (Grade 12, Term 1; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+**Book:** *Over to You Workbook 12B* (Grade 12, Term 2; workbook) — Kuwait, Pearson Longman / Egyptian International Publishing Co., by Simon Haines, ISBN 977-16-1201-8. Workbook only — the matching Student's Book is not held; cited only for its own content. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (contents, unit openers and the partial text layer), so its rows are worded at unit level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Literature Time question set on Shakespeare's *Henry V*, in six episodes (the reasons for the war on France, the Dauphin and the King of France, Agincourt casualties, Henry among his soldiers, king against common man; themes and an imagined different ending) — workbook questions only: the play text itself is in the Student's Book 12A, which is not held, so no text is stocked here | Kuwait, Over to You Workbook 12A (Grade 12), Literature Time, printed pp.48–49 |
+| Literature Time question set on Dickens' *Great Expectations*, in six episodes (Pip and the convict on the marshes, Miss Havisham and the apprenticeship, Pip's new-found wealth and his treatment of Joe, remorse, Magwitch's capture and past, what Pip has learnt; story analysis and a paragraph imagining Magwitch's years in the New World) — workbook questions only: the novel text itself is in the Student's Book 12B, which is not held, so no text is stocked here | Kuwait, Over to You Workbook 12B (Grade 12), Literature Time, printed pp.48–49 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

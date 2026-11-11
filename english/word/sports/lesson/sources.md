@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia, Afghanistan
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia, Afghanistan, Kuwait
 Every part traces to its book and page.
 
 **Book 1:** *Uérakua anapu uantakua. Projects and
@@ -137,7 +137,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 33 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia, Afghanistan).** Libya joins with the Grade 2 activity verbs and fun-park words and the Grade 12 world-of-sport reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 34 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ecuador, Ethiopia, Afghanistan, Kuwait).** Libya joins with the Grade 2 activity verbs and fun-park words and the Grade 12 world-of-sport reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -584,3 +584,34 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Vacation activity words (skiing, flying a kite, playing cricket, visiting relatives, going to the zoo/mosque) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 7, printed p.69 |
 | A dialogue on the importance of sports, with an invitation to play | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 14, printed p.129 |
 | The sports word set and the Olympic rings reading (the sports list from archery to wrestling) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 14, printed pp.133–137 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced. Kuwait is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 3B* (Grade 3, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 4A* (Grade 4, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 9B* (Grade 9, Term 2; student's book) — Kuwait, Ministry of Education in-house series (the imprint names it the “2026 edition” against its 2025 copyright, recorded as printed). Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sports vocabulary: gym, play, football, sports, pool | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 7, printed p.44 |
+| Listening vocabulary: park, swing, down, fast | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 7, printed p.49 |
+| Reading: slide, throw — playground actions | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 7, printed p.52 |
+| Reading: exercise, try — keeping fit | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 7, printed p.50 |
+| Reading: dive, track, little, sandcastle, kayak, spend — beach sports | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 7, printed p.44 |
+| Listening vocabulary: walkathon, excited, get ready, hydrated, warm up, stadium | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 1, printed p.9 |
+| Sports-technology vocabulary: technology, smartwatch, track, step, heart rate, calorie, burn, relay race | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 6, printed p.24 |
+| Story: a sports story with a referee — announce, referee, sensor, nervous, suddenly, tie | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 6, printed p.31 |
+| Reading “The Power of Sports”: vocabulary enthusiastically, require, injury, compete, individually, boost | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 5, printed pp.19–20 |
+| Reading “The Daily News: The Rise of E-Sports”: vocabulary emerge, rapidly, platform, massive, evolve, intensively | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 5, printed pp.24–25 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

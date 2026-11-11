@@ -1091,3 +1091,37 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | "What do you do in the mornings / on Friday mornings?" — weekday, weekend and time-of-day expressions | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 3, printed pp.16–18 |
 | Simple present questions with do/does (Wh- and Yes/No) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 7, printed p.72 |
 | Simple present for regular actions (revision in a school context) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 3, printed p.29 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Handwriting Book 3A* (Grade 3, Term 1; handwriting book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-171-4. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep (all 80 model sentences extracted).
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+**Book:** *Skyline English Student's Book 4A* (Grade 4, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 6A* (Grade 6, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Pearls of Kuwait Student's Book 7A* (Grade 7, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing: completing action sentences (present continuous statements) | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 7, printed p.53 |
+| Present simple routines with third-person -s: “I/we/they play … every …; he/she plays …” | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 6, printed p.30 |
+| Copy-block sentences of a day at set times: usually, must be on time, and past forms inside sentences (didn't sleep, wrote, told) | Kuwait, Skyline Handwriting Book 3A (Grade 3), Block 2, printed pp.21–30 |
+| Present simple questions and answers: “When does he play football? He plays football every Monday. Where do they go every Friday?” | Kuwait, Skyline Workbook 3A (Grade 3), Unit One, printed pp.3–4 |
+| Present simple third person: “Salma usually eats eggs for breakfast. Our teachers always teach us …” | Kuwait, Skyline Workbook 3A (Grade 3), Unit Two, printed p.11 |
+| Health vocabulary with the present simple in routines: fitness, app, coach, stretch, habit | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 1, printed p.5 |
+| Present simple with frequency adverbs: “I/We/You/They always/usually eat lunch at …” | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 8, printed p.61 |
+| Grammar: present simple with the preference verbs like / prefer + places | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 2, printed p.36 |
+| Speaking “My Daily Routines”: a structured oral description of routines with linkers (because / also / first / finally / therefore / in addition) | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 1, printed p.24 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

@@ -667,3 +667,36 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 | In-flight ordering: “What would you like to drink / eat? I'd like some juice, please. Apple or orange juice?” (water, cola; beef or fish, noodles or rice; tea, coffee, green tea after dinner) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Unit 12 My Dream Vacation, printed p.91 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *Skyline English Student's Book 1B* (Grade 1, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 2B* (Grade 2, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *New Fun with English Activity Book 2B* (Grade 2, Term 2; activity book) — Kuwait, Longman (the older course, 2003, re-issued to 2021–2022); not a companion to the Skyline Student's Book. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline Handwriting Book 3A* (Grade 3, Term 1; handwriting book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-171-4. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep (all 80 model sentences extracted).
+
+**Book:** *Skyline Workbook 3A* (Grade 3, Term 1; workbook) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026, ISBN 978-9921-33-106-6. Filed in english/books/kuwait.md; re-read in the 2026-11-08 re-verification sweep at the lesser depth the sweep declares (text layer + contents-led), so its rows are worded at unit level.
+
+**Book:** *Skyline English Student's Book 4A* (Grade 4, Term 1; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Skyline English Student's Book 5B* (Grade 5, Term 2; student's book) — Kuwait, Ministry of Education in-house series, First Edition 2025–2026. Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Listening vocabulary: farm, map, big, watermelon, barn | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5, printed p.13 |
+| Vocabulary: great, fruit, vegetable, think — eating well | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 7, printed p.42 |
+| Market vocabulary: ask, grocer, grapes, strawberry, everything | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 8, printed p.60 |
+| Listening vocabulary: smell, snack, both, butter | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 8, printed p.65 |
+| Reading: festival, popcorn, stand, mango, amazing — a food festival | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 8, printed p.68 |
+| Animal and food reading sets: horse, cornflakes | Kuwait, New Fun with English Activity Book 2B (Grade 2), printed p.14 |
+| Copy-block health sentences with polite food requests: “Can I have some water, please? I want some grilled chicken, please.” | Kuwait, Skyline Handwriting Book 3A (Grade 3), Block 3, printed pp.31–40 |
+| Restaurant vocabulary: waiter, menu, mushroom (a family wants to go to the restaurant) | Kuwait, Skyline Workbook 3A (Grade 3), Unit Three, printed p.21 |
+| Reading the food pyramid: grain, energy, vitamin, protein, dairy, fats | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 1, printed p.11 |
+| Reading: dietitian, balanced, diet, choice, avoid, difficult, adult, especially — healthy eating | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 8, printed p.63 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.

@@ -358,3 +358,15 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Tag questions (the unit's stated work: "learn the usage of had better, tag questions and possessive nouns") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 5, printed p.54 |
 | Question tags that expect "yes", including present-simple tags with do/does | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 11, printed p.167 |
 | Question tags across tenses as one system: present (don't you?), past (didn't you?), and negative-statement tags (…do you?) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Units 2–4, printed pp.18–37 |
+
+## Kuwait — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the files: 19 files verified in hand, holding 17 distinct books (two files are byte-identical duplicates of other books in the set, counted once) — 11 Student's Books and 6 Workbooks/Activity Books, and no teacher guides; nothing is held for Grades 8 or 11. The sweep placed 391 teaching items fresh from the books: 137 were already in the course and 254 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md). Method, as the sweep declares it: thirteen books read page by page from their full text layers; the Grade 3 Workbook 3A and the two Grade 12 workbooks read at lesser depth (text layer plus contents and unit openers), so their rows are worded at unit level. Stories and readings are stocked as plot summaries only; no book text is reproduced.
+
+**Book:** *English Pearls of Kuwait Student's Book 9B* (Grade 9, Term 2; student's book) — Kuwait, Ministry of Education in-house series (the imprint names it the “2026 edition” against its 2025 copyright, recorded as printed). Filed in english/books/kuwait.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar: tag questions with the past simple and past continuous | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 8, printed p.57 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
