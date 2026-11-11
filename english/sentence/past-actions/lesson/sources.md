@@ -207,6 +207,10 @@ verification sweep.
 
 **Book 75:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 76:** Greece Γενικά Αγγλικά Α΄ ΕΠΑΛ, General English 1, Grade 10 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0002. Filed in english/books/greece.md (Grade 10 EPAL — General English 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Units 5 and 10 are the book's own 'STOP AND DO REVISION' units — named exclusions, not stocked.
+
+**Book 77:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -391,6 +395,10 @@ verification sweep.
 | “A show” — past simple questions with where/what; film and theatre words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 2, Lesson 3, printed pp.21–24 |
 | Workbook Unit 2 (Making a difference), lessons 1–3 — practice of the past forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 2, WB printed pp.21–32 |
 | The Beginners teacher's guide for Unit 2 “Making a difference” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.29 |
+| “The Right Holiday” — general revision of present and past tenses; holiday words | Greece, Think Teen! Grade 9 Student's Book, Unit 1, Lesson 1, printed p.1 |
+| Workbook “The Right Holiday” — tense-revision practice with the unit's texts, including a Greek-holiday report and a 'Culture Shock' true/false set | Greece, Think Teen! Grade 9 Workbook, Unit 1, Lesson 1, WB printed pp.5–20 |
+| “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
+| “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 **Acceptance count: taught in 33 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India).** India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the

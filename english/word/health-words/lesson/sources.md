@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -90,6 +90,12 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 19:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 20:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
+**Book 21:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -120,9 +126,12 @@ verification sweep.
 | The blood-types project: researching blood types in the community, probability and transfusions, with a blood-donation campaign | Mexico, Grade 9, Project 11 "I Guess, Then I Make Decisions", printed p. 98 |
 | The healthy-habits project: experiencing and presenting active, healthy habits | Mexico, Grade 9, Project 16 "Experience Active and Healthy Habits", printed p. 146 |
 | A daily-routine song as health teaching: "Brush, brush, brush your teeth" — the whole family brushes every day | India — Marigold Book Two (Class 2), Unit 1, printed pp.1–19 |
+| “Food Pyramid” — review of tenses; the Mediterranean diet | Greece, Think Teen! Grade 9 Student's Book, Unit 8, Lesson 3, printed p.93 |
+| Workbook “Food Pyramid” — practice on diet and health words with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 8, Lesson 3, WB printed pp.87–96 |
+| “Adolescence” — texts and a quiz on teen habits, drugs and parents | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.10 |
 
-**Acceptance count: taught in 11 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India).** India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 12 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the

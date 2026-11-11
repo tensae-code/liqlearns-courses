@@ -69,6 +69,10 @@ verification sweep.
 
 **Book 14:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 15:** Greece Αγγλικά Γενικού Λυκείου 1 (Anglika Genikou Lykeiou 1), Grade 10: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Eight thematic units of video/reading/discussion/project tasks; no explicit grammar syllabus — grammar is exercised inside tasks.
+
+**Book 16:** Greece Αγγλικά Γενικού Λυκείου 2 (Anglika Genikou Lykeiou 2), Grades 11–12: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11–12 — Αγγλικά 2 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Same construction as the Grade 10 volume: thematic units of video/reading/discussion/project tasks.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Appendix IV — "How to Prepare a Presentation": eight practical tips (organise, open strongly, define terms, finish with a bang, slides, timing, notes, practice) | Syria, Emar Workbook 12, Scientific Section, Appendixes, printed pp.100–104 (Appendix IV at p.104) |
@@ -99,6 +103,8 @@ verification sweep.
 | Presentation — Speak at a good pace and with expression | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.2, PDF p.189 (curriculum evidence) |
 | Presentation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.3, PDF p.191 (curriculum evidence) |
 | “This is my school” (project) — finding information about your school and presenting it on a poster | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 1, Lesson 3, printed pp.18–20 |
+| Unit 1 “Group Work” — getting to know each other, pair interviews reported to the class, a group survival-choice task | Greece, Αγγλικά Γενικού Λυκείου 1 (Grade 10), Unit 1, printed p.9 |
+| Unit 1 “Group Work” — class group tasks and presentations | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 1, printed p.9 |
 
 **Acceptance count: taught in 8 countries (Syria,
 Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece).** Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the

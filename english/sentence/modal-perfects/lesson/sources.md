@@ -41,6 +41,10 @@ reproduced.
 
 **Book 8:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 9:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 10:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The deduction box's past half: must have / may have / might have / can't have + past participle, at the same printed certainty values as the present ladder | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -53,6 +57,9 @@ reproduced.
 | “Communication” — will/won't, have to/don't have to, should/shouldn't; -ed/-ing adjectives | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 4, Lesson 1, printed pp.37–40 |
 | Workbook Unit 4 (Communication), lessons 1–3 — practice of the modal set with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, WB printed pp.45–54 |
 | The Beginners teacher's guide for Unit 4 “Communication” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.67 |
+| “Such things happen all the time!” — modal verbs in the past; disaster words | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 1, printed p.109 |
+| “Tragedies!” — might have, could have, should have (past modals) | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 2, printed p.113 |
+| Workbook Unit 10 (Natural phenomena), lessons 1–3 — practice of past modals with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, WB printed pp.108–117 |
 
 **Acceptance count: taught in 6 countries (Bolivia,
 Egypt, Malaysia, Nepal, Venezuela, Greece).** Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the

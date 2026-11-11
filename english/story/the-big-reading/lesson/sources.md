@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -24,6 +24,10 @@ Literary Course Book — Libya, Ministry of Education
 **Book:** *English for Nusantara Kids*, Grade 5 (Kelas V) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-244-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 **Book:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 1:** Greece Αγγλικά Γενικού Λυκείου 1 (Anglika Genikou Lykeiou 1), Grade 10: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Eight thematic units of video/reading/discussion/project tasks; no explicit grammar syllabus — grammar is exercised inside tasks.
+
+**Book 2:** Greece Αγγλικά Γενικού Λυκείου 2 (Anglika Genikou Lykeiou 2), Grades 11–12: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11–12 — Αγγλικά 2 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Same construction as the Grade 10 volume: thematic units of video/reading/discussion/project tasks.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -219,6 +223,8 @@ Literary Course Book — Libya, Ministry of Education
 | Fluency | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.8.1, PDF p.202 (curriculum evidence) |
 | Building The Love And Culture Of Reading — Check pieces of literary work for spelling | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.10.1, PDF p.244 (curriculum evidence) |
 | Building The Love And Culture Of Reading — Read and critique a variety of age- and level appropriate | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 6 (Extensive Reading), standard B6.6.1.1, PDF p.244 (curriculum evidence) |
+| Unit 7 “Pride and Prejudice” — Jane Austen's novel studied as literature: marrying for love or money in Regency England (a literature-study unit; stocked as the study of the novel, with no complete-text claim) | Greece, Αγγλικά Γενικού Λυκείου 1 (Grade 10), Unit 7, printed p.79 |
+| Unit 8 “Book burning, now and then” — discussion and a film extract (The Book Thief) on book burning (a literature-study unit; stocked as the study, with no complete-text claim) | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 8, printed p.115 |
 
 **Acceptance count: taught in 11 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India)** — the
 first five are the countries whose schoolbooks carry a complete book-length

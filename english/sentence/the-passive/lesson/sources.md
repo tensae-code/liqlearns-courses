@@ -171,6 +171,10 @@ verification sweep.
 
 **Book 72:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 73:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
+
+**Book 74:** Greece Γενικά Αγγλικά Α΄ ΕΠΑΛ, General English 1, Grade 10 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0002. Filed in english/books/greece.md (Grade 10 EPAL — General English 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Units 5 and 10 are the book's own 'STOP AND DO REVISION' units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -309,6 +313,10 @@ verification sweep.
 | “Ancient constructions” — passive with agent (by…); kinds of buildings and musical instruments | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 10, Lesson 3, printed pp.117–120 |
 | Workbook Unit 10 (A material world), lessons 1–3 — practice of the passive with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 10, WB printed pp.109–120 |
 | The Beginners teacher's guide for Unit 10 “A material world” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.187 |
+| “Food, places, cultures!” — passive voice; food and eating-habit words | Greece, Think Teen! Grade 9 Student's Book, Unit 8, Lesson 1, printed p.85 |
+| Workbook Unit 8 (Food for thought!), lessons 1–3 — practice of the passive with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 8, WB printed pp.87–96 |
+| The Grade 9 teacher's guide for Unit 8 “Food for thought!” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.125 |
+| “Sports, Games and Activities” — the passive voice (introduction) | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 8, printed p.119 |
 
 
 **Acceptance count: taught in 31 countries (Egypt,

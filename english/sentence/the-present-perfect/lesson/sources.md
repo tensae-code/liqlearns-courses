@@ -168,6 +168,12 @@ verification sweep.
 
 **Book 52:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 53:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
+**Book 54:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
+
+**Book 55:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -288,6 +294,12 @@ verification sweep.
 | “A Change” — present perfect vs past simple, with 'ago'; places and sights in London | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 5, Lesson 2, printed pp.53–56 |
 | Workbook Unit 5 (Change and experience), lessons 1–3 — practice of the present perfect with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 5, WB printed pp.56–65 |
 | The Beginners teacher's guide for Unit 5 “Change and experience” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.87 |
+| “So you want to be famous?” — present perfect vs past simple | Greece, Think Teen! Grade 9 Student's Book, Unit 2, Lesson 1, printed p.13 |
+| “Fame and feelings” — present perfect tense; feeling adjectives | Greece, Think Teen! Grade 9 Student's Book, Unit 2, Lesson 2, printed p.17 |
+| “Produce your show” — present perfect vs past simple; words for stages and shows | Greece, Think Teen! Grade 9 Student's Book, Unit 2, Lesson 3, printed p.21 |
+| Workbook Unit 2 (Teen idols), lessons 1–3 — practice of the present perfect with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 2, WB printed pp.22–33 |
+| The Grade 9 teacher's guide for Unit 2 “Teen idols” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.23 |
+| “A Sport for Everyone” — present perfect; since/for; comparisons as…as, the same as; ordinal numbers; either…or, neither…nor, both…and; word building in -ful/-less; phrasal verbs; the Paralympic Games | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.10–11 |
 
 
 **Acceptance count: taught in 28 countries (Egypt,

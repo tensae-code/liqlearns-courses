@@ -102,6 +102,10 @@ re-verification sweep.
 
 **Book 24:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 25:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 26:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -134,6 +138,8 @@ re-verification sweep.
 | “Technology in our lives” — comparative and superlative adjectives; gadget words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 3, Lesson 1, printed pp.25–28 |
 | Workbook Unit 3 (Technology in our lives), lessons 1–3 — practice of comparatives with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 3, WB printed pp.33–44 |
 | The Beginners teacher's guide for Unit 3 “Technology in our lives” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.47 |
+| “Media habits” — comparatives of adjectives and adverbs; free-time activity words | Greece, Think Teen! Grade 9 Student's Book, Unit 4, Lesson 3, printed p.45 |
+| Workbook “Media habits” — practice of comparatives with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 4, Lesson 3, WB printed pp.43–52 |
 
 **Acceptance count: taught in 9 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,

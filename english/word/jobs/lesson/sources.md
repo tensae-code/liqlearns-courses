@@ -100,6 +100,8 @@ verification sweep.
 
 **Book 30:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
 
+**Book 31:** Greece Αγγλικά Γενικού Λυκείου 1 (Anglika Genikou Lykeiou 1), Grade 10: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Eight thematic units of video/reading/discussion/project tasks; no explicit grammar syllabus — grammar is exercised inside tasks.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -143,6 +145,7 @@ verification sweep.
 | Workbook “This is my job!” — new texts: job descriptions | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 3, Lesson 3, printed p.31 |
 | “Life on the Water” — jobs at sea; modals of obligation | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 2, Lesson 6, printed p.39 |
 | Workbook “Life on the Water” — practice on sea jobs and obligation modals with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 2, Lesson 6, WB printed pp.17–28 |
+| Unit 3 “On Duty” — careers discussion: choosing an occupation, dangerous jobs, the traits of people who risk their lives for others | Greece, Αγγλικά Γενικού Λυκείου 1 (Grade 10), Unit 3, printed p.23 |
 
 **Acceptance count: taught in 10 countries (Cambodia, Rwanda,
 Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening

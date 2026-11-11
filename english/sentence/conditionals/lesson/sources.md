@@ -172,6 +172,10 @@ verification sweep.
 
 **Book 73:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 74:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
+**Book 75:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 2 (p.79, as filed in libya.md) |
@@ -331,6 +335,8 @@ verification sweep.
 | “Recycling as art” — first conditional forms; eco-art words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 6, Lesson 3, printed pp.69–72 |
 | Workbook Unit 6 (What a waste!), lessons 1–3 — practice of the first conditional and 'unless' with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 6, WB printed pp.66–74 |
 | The Beginners teacher's guide for Unit 6 “What a waste!” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.107 |
+| Workbook Unit 5 (The myths we live by), lessons 1–3 — practice of the conditional forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 5, WB printed pp.53–63 |
+| “The Changing Face of Nature” — imperative; must/mustn't; have to/don't have to; can/can't; first conditional; environment and animal words | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.9 |
 
 **Acceptance count: taught in 31 countries (Egypt,
 Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at

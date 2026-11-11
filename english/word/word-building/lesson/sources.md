@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -91,6 +91,8 @@ verification sweep.
 **Book 21:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 22:** Greece Γενικά Αγγλικά Α΄ ΕΠΑΛ, General English 1, Grade 10 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0002. Filed in english/books/greece.md (Grade 10 EPAL — General English 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Units 5 and 10 are the book's own 'STOP AND DO REVISION' units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Class 1 word-work run: suffixes s, es, ies, ed, ied, ing; prefixes (un-fair → unfair, dis-honest); roots; compound words; syllabication | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -126,9 +128,10 @@ verification sweep.
 | Workbook practice paired with the Level 3 guide's Term 3 Lesson 8 (Introducing suffixes) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 8, PDF p.72 (workbook evidence) |
 | Phonics — recognise and read words using a variety of cues (word beginnings, word structure, prefixes) | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.2.2, PDF p.42 (curriculum evidence) |
 | Comprehension — Demonstrate texts (e.g. introduction, body, conclusion) | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.7.3, PDF p.125 (curriculum evidence) |
+| “Art and Graffiti” — noun formation; descriptive writing | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 7, printed p.101 |
 
-**Acceptance count: taught in 8 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India).** India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 9 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation

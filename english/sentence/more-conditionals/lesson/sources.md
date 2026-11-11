@@ -58,6 +58,10 @@ the 2026-11-08 re-verification sweep.
 
 **Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 14:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 15:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -75,6 +79,9 @@ the 2026-11-08 re-verification sweep.
 | Language work in the Notes: idiomatic expressions; respectively vs respectfully (frequently misused forms); conditional sentences for unreal and hypothetical conditions — cited from the book's Notes | India — Hornbill (Class 11), Language work in The Adventure, printed p.73 (Notes) |
 | “I wish I were…” — second conditional; adjectives describing character | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 9, Lesson 1, printed pp.97–100 |
 | The Beginners teacher's guide for Unit 9 “Keeping up appearances” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.167 |
+| “If I were…” — second conditional; word formation; prepositional phrases | Greece, Think Teen! Grade 9 Student's Book, Unit 5, Lesson 2, printed p.53 |
+| “An attractive tourist destination” — extension of first and second conditional | Greece, Think Teen! Grade 9 Student's Book, Unit 5, Lesson 3, printed p.57 |
+| Workbook Unit 5 lessons 2–3 — practice of the second conditional with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 5, WB printed pp.53–63 |
 
 **Acceptance count: taught in 11 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,

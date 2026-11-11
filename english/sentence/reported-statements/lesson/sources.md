@@ -126,6 +126,12 @@ verification sweep.
 
 **Book 23:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
 
+**Book 24:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 25:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
+**Book 26:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -156,6 +162,10 @@ verification sweep.
 | Direct And Reported Speech — Form and use reported speech appropriately | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.13.1, PDF p.219 (curriculum evidence) |
 | “…Let the Games Begin!” — Olympic Games text; reported speech | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 3, Lesson 9, printed p.59 |
 | Workbook “…Let the Games Begin!” — practice of reported speech with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 9, WB printed pp.29–40 |
+| “Energy around us!” — reported speech; energy-source words. Unit 9's lessons are the energy lessons; the book's contents page titles the unit 'What's the weather like?' — recorded as printed | Greece, Think Teen! Grade 9 Student's Book, Unit 9, Lesson 1, printed p.97 |
+| “Alternative sources of energy!” — conditional forms inside reported speech; electricity words | Greece, Think Teen! Grade 9 Student's Book, Unit 9, Lesson 2, printed p.101 |
+| Workbook Unit 9 (contents title: “What's the weather like?” — the energy unit), lessons 1–3 — practice of reported speech with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 9, WB printed pp.97–106 |
+| The Grade 9 teacher's guide for Unit 9 (the energy unit) | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.143 |
 
 **Acceptance count: taught in 13 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,

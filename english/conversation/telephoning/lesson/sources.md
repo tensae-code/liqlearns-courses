@@ -42,6 +42,8 @@ PASSED 2026-11-04).
 
 **Book 8:** English for Schools — Prospect 1, Grade 7 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 9:** Greece Γενικά Αγγλικά Α΄ ΕΠΑΛ, General English 1, Grade 10 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0002. Filed in english/books/greece.md (Grade 10 EPAL — General English 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Units 5 and 10 are the book's own 'STOP AND DO REVISION' units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The agent phones the Athenian Hotel to book two connecting rooms for a family of four, ten nights from 7 June — the call that carries the unit | Greece, Hotel and Tourist Trade, Unit 2 "Making Reservations", printed pp.37–50 |
@@ -59,6 +61,7 @@ PASSED 2026-11-04).
 | A phone call home — "Mike's home call" dialogue, arranging to meet and to buy presents | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.32 |
 | A phone call inside the weekend dialogue — "It's Saturday morning. Mike is on the phone with his mum" | China — English (PEP) Grade 6 Volume 2, Unit 2, printed p.14 |
 | Address and telephone formulae: giving your address and phone number, in the introductions lesson | Iran, Prospect 1 (Grade 7), Lesson 7, printed pp.38–41 |
+| “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 
 **Acceptance count: taught in 7 countries (Greece,
 Uzbekistan, Albania, Barbados, Malaysia, China, Iran).** Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches

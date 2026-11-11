@@ -104,6 +104,12 @@ verification sweep.
 
 **Book 21:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
 
+**Book 22:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 23:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
+**Book 24:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -133,6 +139,9 @@ verification sweep.
 | “Greetings from Australia!” — likes and dislikes: like/love/enjoy/hate + -ing | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 3, Lesson 2, printed p.31 |
 | “Way of Life” — infinitive of purpose ('to' for purpose); items used by tribes | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 2, printed pp.5–8 |
 | Workbook “Way of Life” — practice of the infinitive of purpose with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 2, WB printed pp.5–19 |
+| “Newton's Laws” — loves/hates/likes + gerund; vocabulary of laws of motion | Greece, Think Teen! Grade 9 Student's Book, Unit 3, Lesson 1, printed p.25 |
+| Workbook Unit 3 (Thrills and spills!), lessons 1–3 — practice of gerund patterns with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, WB printed pp.34–41 |
+| The Grade 9 teacher's guide for Unit 3 “Thrills and spills!” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.39 |
 
 **Acceptance count: taught in 13 countries (Cambodia,
 Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia

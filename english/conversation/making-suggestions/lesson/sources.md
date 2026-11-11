@@ -52,6 +52,12 @@ covers the 6th Year book only).
 
 **Book 8:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
 
+**Book 9:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 10:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
+**Book 11:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Suggestions with "Why don't we…?", "Let's…" and "We/You could…" (Study Box), in a walk-planning dialogue that uses a weather forecast and a compass | Syria, English for Starters 5, Unit 3 "Giving suggestions / making plans", printed pp.11–13 |
@@ -63,6 +69,9 @@ covers the 6th Year book only).
 | Suggestion formulae in the food lesson: "Let's have… / How about some…?" | Iran, Prospect 1 (Grade 7), Lesson 8, printed pp.42–45 |
 | Making suggestions: let's, why don't we, shall we, how about/what about + -ing, we could | Mauritania, Study English, Grade 8, printed pp.24–26 |
 | “Customs around the world” — expressing opinions (I think…, in my opinion) and suggestions (Why don't you…?, Let's…, How about…?) inside a customs text | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 2, Lesson 3, printed pp.34–36 |
+| “Amusement Park” — revision of present tenses; making suggestions: How about…?, Why don't we…? | Greece, Think Teen! Grade 9 Student's Book, Unit 3, Lesson 3, printed p.33 |
+| Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
+| “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
 **Acceptance count: taught in 7 countries (Albania, Cambodia,
 Mongolia, Syria, Iran, Mauritania, Greece).** Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —

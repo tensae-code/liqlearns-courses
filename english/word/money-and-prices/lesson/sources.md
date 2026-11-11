@@ -45,6 +45,8 @@ covers the 6th Year book only).
 
 **Book 12:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
 
+**Book 13:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 4, Unit 6 "Hundreds": money enters — cost and Riel prices ("An orange costs 900 Riels"), "How much does an orange cost?", dozen, a restaurant-buying reading | Cambodia, ENGLISH Grade 5, Chapter 4, Unit 6, printed pp.86–89 |
@@ -61,6 +63,8 @@ covers the 6th Year book only).
 | At the market: ordering goods, how much/how many, countable and uncountable nouns, some/any, asking and giving prices | Mauritania, Study English, Grade 8, printed pp.34–36 |
 | “It's a Small World After All” — world customs; currency words | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 8, Lesson 23, printed p.143 |
 | Workbook “It's a Small World After All” — practice on customs and currency words with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 8, Lesson 23, WB printed pp.83–92 |
+| “Electricity bills” — comparison, modals, passive revision; lighting words | Greece, Think Teen! Grade 9 Student's Book, Unit 9, Lesson 3, printed p.105 |
+| Workbook “Electricity bills” — practice on bills and lighting words with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 9, Lesson 3, WB printed pp.97–106 |
 
 **Acceptance count: taught in 7 countries (Cambodia,
 Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece).** Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the

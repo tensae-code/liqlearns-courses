@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece
 
 Every part traces to its book and page.
 
@@ -22,6 +22,10 @@ Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 8:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 9:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition — a serious document giving information, usually with advice — and the task size (150–180 words) | Egypt, Secondary 11 Term 1, Unit 4, Lesson 5, Tip Box p.57; task as printed with the unit |
@@ -32,5 +36,7 @@ re-verification sweep.
 | The problem-solving report (180 words) on green solutions | Vietnam, Tiếng Anh 12 (Global Success), Unit 3 'Green living', printed pp.32–43 |
 | The two-paragraph reports, planned on a topic–detail–conclusion outline: rules to follow in public places; negative behaviours during celebrations and ways to avoid them | Kuwait, Pearls Workbook 7A, Writing 1, printed pp.22–23; Writing 2, printed pp.36–37 |
 | REPORT WRITING taught as an explicit lesson: a model report (Uncle Lal's dairy farm) and printed rules — give a good title, keep to the subject, keep the right order, write neatly | India — Marigold Book Five (Class 5), Unit 1 writing |
+| “Catastrophes” — idiomatic forms; similes; report writing | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 3, printed p.117 |
+| Workbook “Catastrophes” — practice of report writing with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, Lesson 3, WB printed pp.108–117 |
 
-**Acceptance count: taught in 6 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India).** India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced.
+**Acceptance count: taught in 7 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece).** Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced.

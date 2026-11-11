@@ -111,6 +111,10 @@ verification sweep.
 
 **Book 20:** Greece Think Teen! Grade 8 Beginners Glossary (Γλωσσάριο, printable form): glossary — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Glossary section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Per-unit word lists with definition, example, synonym, antonym, derived forms and Greek translation.
 
+**Book 21:** Greece Think Teen! 3rd Grade of Junior High School, Student's Book, Grade 9: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Author: Patrick Mc Gavigan. Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book note, recorded as printed: the contents page titles Unit 9 'What's the weather like?' while its three lessons are about energy.
+
+**Book 22:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -145,6 +149,8 @@ verification sweep.
 | Homophones II | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.42 (teacher evidence) |
 | The whole Advanced glossary: unit-by-unit vocabulary with definitions, examples, synonyms, antonyms, derived forms and Greek translations (apparatus) | Greece, Think Teen! Grade 8 Advanced Glossary, PDF pp.3–135 |
 | The whole Beginners glossary: unit-by-unit vocabulary with definitions, examples, synonyms, antonyms, derived forms and Greek translations (apparatus) | Greece, Think Teen! Grade 8 Beginners Glossary, PDF pp.3–79 |
+| “The Seven Wonders” — phrases with 'and'; adjectives from a survey | Greece, Think Teen! Grade 9 Student's Book, Unit 1, Lesson 2, printed p.5 |
+| Workbook “The Seven Wonders” — practice of 'and' phrases with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 1, Lesson 2, WB printed pp.5–20 |
 
 **Acceptance count: taught in 10 countries (Barbados,
 Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four

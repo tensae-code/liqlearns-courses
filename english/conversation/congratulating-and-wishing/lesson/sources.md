@@ -104,6 +104,8 @@ lesson is reproduced.
 | “British customs” — Christmas and Halloween customs; present simple | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 5, Lesson 2, printed pp.62–65 |
 | “Finding out about habits and customs” (project) — customs in Greece and other countries | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 5, Lesson 3, printed pp.66–68 |
 | “A Christmas song” — Christmas traditions around the world (project: a menu) | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 4, Lesson 3, printed pp.58–60 |
+| “World celebrations” — revision of question forms; a poster about Christmas and Easter | Greece, Think Teen! Grade 9 Student's Book, Unit 6, Lesson 3, printed p.69 |
+| Workbook “World celebrations” — practice on celebration language with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 6, Lesson 3, WB printed pp.65–75 |
 
 **Acceptance count: taught in 10 countries (Mauritania,
 Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece).** Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —

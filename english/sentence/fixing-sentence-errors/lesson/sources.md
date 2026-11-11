@@ -33,6 +33,8 @@ Education. Filed in english/books/sierra-leone.md
 
 **Book 7:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 8:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sentence-structure errors named together in the writing section: fragments, run-ons, comma splices (with sentence types and punctuation/mechanics) | Ethiopia, English Grade 11, Unit 1, Writing (1F); the unit runs printed pp.1–32 |
@@ -47,6 +49,7 @@ Education. Filed in english/books/sierra-leone.md
 | The book's own grammar summary (Appendix III Grammar) — the reference the class checks its sentences against | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Appendix III, contents p.xii |
 | The Advanced book's Grammar Appendix — grammar tables and rules for all units | Greece, Think Teen! Grade 7 Advanced Student's Book, Grammar Appendix, printed p.159 |
 | The Beginners book's Grammar Appendix — grammar tables for all units | Greece, Think Teen! Grade 7 Beginners Student's Book, Grammar Appendix, printed p.145 |
+| “Welcome Back” (opening unit) — review of the whole tense system (active and passive); word building: nouns in -er/-or/-ar; questionnaires and spidergraphs | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 
 **Acceptance count: taught in 4 countries (Ethiopia,
 Ghana, Sierra Leone, Greece).** Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
