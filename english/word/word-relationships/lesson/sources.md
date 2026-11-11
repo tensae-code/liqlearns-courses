@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 15 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 16 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -269,3 +269,25 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities.
+
+**Book 1:** *Primary English 4 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary English 5 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Opposites (long/short, light/dark, sink/float, bend/straighten) | South Sudan — Primary English 4 Pupil's Book, printed p. 101 |
+| Culture vocabulary (tribe, tradition, ceremonies, dialect, ethics, attire) | South Sudan — Primary English 5 Pupil's Book, printed p. 74 |
+| Culture defined; key vocabulary | South Sudan — Secondary English 4 Student's Book, printed p. 93 |
+| Five political systems (democracy, monarchy, anarchism, communism, theocracy) | South Sudan — Secondary English 4 Student's Book, printed p. 126 |
+| Democracy vocabulary | South Sudan — Secondary English 4 Student's Book, printed p. 127 |
+| The justice system defined; key vocabulary | South Sudan — Secondary English 4 Student's Book, printed p. 136 |
+
+South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

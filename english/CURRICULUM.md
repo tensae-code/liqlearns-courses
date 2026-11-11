@@ -462,6 +462,13 @@ should have.*
   merge):** obligation-must-have-to-need-to-ought-to-shall ✅
   (1 lesson — Mauritania's Grade 13 five-word obligation
   comparison, set beside have-to-obligation)
+- **Sweep additions (2026-11-11, South Sudan re-verification sweep
+  merge):** auxiliary-verbs ✅ (1 lesson — South Sudan's
+  Secondary 4 auxiliary-verbs language practice: be, do and
+  have as the most common auxiliaries, the modal auxiliaries
+  listed with them; the practice previously stood mis-filed in
+  going-to-later as a will/shall futures practice — corrected
+  there, flag 2)
 
 ## Unit 27 — The Small Words That Point
 *End of unit: the learner commands articles, quantities, the
@@ -533,6 +540,11 @@ write poems to named shapes.*
 presentation, and turn a scene into a play script.*
 - speech-writing ✅ · presentation-skills ✅ · play-scripts ✅
   (catch-up build 2026-11-07 — 3 lessons, 60 question items)
+- **Sweep additions (2026-11-11, South Sudan re-verification sweep
+  merge):** radio-and-tv-programme-scripts ✅ (1 lesson —
+  South Sudan's Secondary 2 broadcast-writing unit: the radio
+  programme and its script, the sample script, production
+  techniques, and the TV script format)
 
 ## Unit 39 — Essays and Shortening
 *End of unit: the learner knows the essay kinds and can cut
@@ -1072,6 +1084,54 @@ narrowed to its true blending lessons (71, 72, 74); Lesson 73
 moved to the-story and Lesson 75 to
 print-concepts-and-book-handling. **Sierra Leone: 36 of 36
 re-read.** The English course now stands at **229 lessons
+across 44 units**.
+
+**South Sudan re-verification sweep merge (2026-11-11):**
+all 22 of South Sudan's held English books were re-read page
+by page by the 2026-11-08 sweep (493 fresh items placed; 119
+already in the course, 374 missing). The verified set is 22
+distinct books, not the 19–20 the library record said: the
+Primary 6 and Primary 7 pupil's books and the Primary 8
+teacher's guide stand at legacy paths, the book at the
+grade-04 path is the Primary 5 Pupil's Book and the book at
+the grade-05 path is the Primary 4 Pupil's Book (both cited
+by their true identities), and the file held as a Primary 2
+teacher's guide is a byte-duplicate of the Secondary 2
+Teacher's Guide — the true Primary 2 guide is not held.
+Teacher guides mirror their pupil books and are not
+double-counted; the Secondary 3 Student's Book is not held,
+so its 10 items are stocked from the Secondary 3 Teacher's
+Guide as teacher evidence. All 374 missing items are now
+stocked: 369 items into 73 existing lessons, and 5 items
+into **2 NEW LESSONS**: **auxiliary-verbs** (Unit 26 — 1
+item: the Secondary 4 auxiliary-verbs language practice) and
+**radio-and-tv-programme-scripts** (Unit 38 — 4 items:
+Secondary 2's radio programme, sample script, production
+techniques and TV script format). The diff's two other
+"NEW LESSON NEEDED" topics already had lessons and were
+stocked there instead: listening comprehension (4 items,
+into listening-comprehension, where South Sudan joins Sierra
+Leone as a pupil-book country beside Ghana's evidence) and
+modal verbs (2 items, into modal-verbs). Two flags were
+fixed: FLAG 1 — pronouns' Secondary 3 row claimed "relative
+pronouns above all" from the teacher's guide; the fresh read
+found the practice teaches subject and object pronouns only
+("relative" occurs only in "relatively long" / "relative
+ease"), and the row, the acceptance prose and the dated
+South Sudan section are corrected, the false quoted answers
+removed. FLAG 2 — going-to-later's Secondary 4 row stocked
+printed pp.70–72 as a will/shall futures practice; the pages
+teach auxiliary verbs, with futures only as one gap-fill
+exercise — the row and both prose spots are corrected and
+the auxiliary content is stocked in auxiliary-verbs. FLAG 3
+is record-side (the library record's set list against the
+verified 22) — reported, not edited here. Book errors are
+stocked taught corrected with the error noted (Primary 3's
+"Commands and instructions" word bank at p. 76, Primary 4's
+"Enviroment" and "metrology", Primary 5's "shokeeper" and
+"1 lire", Primary 7's "heroine" for heroin and its scrambled
+literature matching table). **South Sudan: 22 of 22
+re-read.** The English course now stands at **231 lessons
 across 44 units**.
 
 ---

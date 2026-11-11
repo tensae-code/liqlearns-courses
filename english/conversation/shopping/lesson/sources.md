@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan
 
 Every part traces to its book and page.
 
@@ -98,8 +98,8 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 11 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 12 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -135,3 +135,20 @@ re-verification sweep merge). Mexico's Grade 8 book shops in dialogue: three tee
 **Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities.
+
+**Book 1:** *Primary English 2 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary English 5 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| At the shop: asking for and buying things | South Sudan — Primary English 2 Pupil's Book, printed p. 29 |
+| Making a shopping list with a total | South Sudan — Primary English 5 Pupil's Book, printed p. 47 |
+| Shopping dialogue: How much does it cost? | South Sudan — Primary English 5 Pupil's Book, printed p. 50 |
+
+South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

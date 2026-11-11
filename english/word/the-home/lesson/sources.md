@@ -372,3 +372,14 @@ Palestine was already counted in this lesson from its Grade 1 books. The 2026-11
 | Living-room things — telephone, sofa, computer, rug, TV | Palestine, Grade 2 Part 1, Unit 7, printed pp.40–45 |
 
 This merge also completes the lesson's Grade 1 bedroom row in the main table above (sweep diff, flag F3): Unit 15 teaches six words — bed, table, chair, box, window, door — not the four the row named. The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Roles and chores at home (sweep, wash, graze, cook) | South Sudan — Primary English 1 Pupil's Book, printed p. 20 |
+
+South Sudan already stood in this lesson; these rows complete its stock from the sweep.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

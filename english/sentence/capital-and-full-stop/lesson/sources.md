@@ -338,3 +338,14 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Punctuating sentences (exercise) | South Sudan — Primary English 4 Pupil's Book, printed p. 42 |
+
+South Sudan already stood in this lesson; these rows complete its stock from the sweep.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

@@ -214,7 +214,10 @@ its own subtitle folder with its own lesson + questions):
   Than the Past**) ·
   future-perfect-continuous-tense (added 2026-11-11 by the
   Sierra Leone re-verification sweep merge — **Unit 20, The
-  Future in Detail**)
+  Future in Detail**) ·
+  auxiliary-verbs (added 2026-11-11 by the South Sudan
+  re-verification sweep merge — **Unit 26, How Sure Are
+  You?**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)
@@ -264,7 +267,9 @@ forms-minutes-and-questionnaires · recount-text (added
 **Unit 36, Writing the Facts**) · review-writing ·
 blog-and-online-posts · article-writing ·
 advertisements-and-posters · speech-writing · presentation-skills ·
-play-scripts · essay-kinds · note-making · summarising ·
+play-scripts · radio-and-tv-programme-scripts (added
+2026-11-11 by the South Sudan re-verification sweep merge —
+**Unit 38, Speeches and Shows**) · essay-kinds · note-making · summarising ·
 diary-and-journal · biography-writing ·
 postcards-and-personal-letters · Story → story-techniques ·
 poetry-writing · Paragraph → reading-between-the-lines ·

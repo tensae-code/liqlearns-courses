@@ -575,3 +575,21 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities.
+
+**Book 1:** *Primary English 3 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary English 5 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Picking out past-tense sentences | South Sudan — Primary English 3 Pupil's Book, printed p. 62 |
+| Past, present and future sentences about jobs | South Sudan — Primary English 3 Pupil's Book, printed p. 73 |
+| Was / were for past actions | South Sudan — Primary English 4 Pupil's Book, printed p. 78 |
+| Past tense with is / was / were | South Sudan — Primary English 5 Pupil's Book, printed pp. 32–33 |
+
+South Sudan already stood in this lesson; these rows complete its stock from the sweep.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

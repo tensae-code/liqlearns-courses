@@ -187,3 +187,40 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities.
+
+**Book 1:** *Primary English 4 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary English 8 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English 2 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Poem: The race (flags, hooter, cheers) | South Sudan — Primary English 4 Pupil's Book, printed p. 6 |
+| Creating a poem on sports | South Sudan — Primary English 4 Pupil's Book, printed p. 8 |
+| Rhyme defined (last-letter and line patterns) | South Sudan — Primary English 4 Pupil's Book, printed pp. 18–19 |
+| How to write a poem | South Sudan — Primary English 4 Pupil's Book, printed p. 26 |
+| Poem: The big day | South Sudan — Primary English 4 Pupil's Book, printed pp. 151–152 |
+| Rhyme vs free verse; prose vs poetry | South Sudan — Primary English 7 Pupil's Book, printed p. 97 |
+| Poem: We dream of peace | South Sudan — Primary English 8 Pupil's Book, printed p. 10 |
+| Poem: AIDS you are ruthless | South Sudan — Primary English 8 Pupil's Book, printed p. 81 |
+| Identifying rhymes (end words) | South Sudan — Primary English 8 Pupil's Book, printed p. 82 |
+| Writing and comparing poems on HIV | South Sudan — Primary English 8 Pupil's Book, printed p. 83 |
+| Poetic structure and language (the unit's language map) | South Sudan — Primary English 8 Pupil's Book, printed p. 88 |
+| Poem: Technology | South Sudan — Primary English 8 Pupil's Book, printed p. 93 |
+| Writing a good poem | South Sudan — Primary English 8 Pupil's Book, printed p. 128 |
+| Poem: a healthy lifestyle (Krinsky) | South Sudan — Secondary English 2 Student's Book, printed p. 20 |
+| Poem: Equality; paraphrasing a poem | South Sudan — Secondary English 4 Student's Book, printed pp. 22–23 |
+| Poem: Public transport nation; paraphrasing | South Sudan — Secondary English 4 Student's Book, printed pp. 48–49 |
+| Poem: The Fight Against Corruption; reviewing and writing poems | South Sudan — Secondary English 4 Student's Book, printed pp. 67–69 |
+| Poem: Licensed to Kill Time | South Sudan — Secondary English 4 Student's Book, printed p. 73 |
+| Poem: Democracy (Langston Hughes); paraphrase; reviewing Poetry for Pleasure | South Sudan — Secondary English 4 Student's Book, printed pp. 131–133 |
+
+South Sudan already stood in this lesson; these rows complete its stock from the sweep.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

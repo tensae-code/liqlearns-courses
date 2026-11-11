@@ -1,6 +1,6 @@
 # Sources — Reading between the lines
 
-countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone
+countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone, South Sudan
 
 Every part traces to its book and page.
 
@@ -87,7 +87,7 @@ verification sweep.
 | Telling fact from opinion (statements about J.K. Rowling) | Mongolia, English XII, Unit 6, printed p.113 |
 | Anaphoric and cataphoric reference — pronouns pointing back and forward in a text — taught as named reading work, with dictionary use | Pakistan, *English IX* (older curriculum), Unit 3 (contents) |
 
-**Acceptance count: taught in 12 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone).** Greece joins with the Grades 11–12 refugee and human-rights discussion units (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two ways of seeing art in Class 11, and the interview read as a genre in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone, South Sudan).** Greece joins with the Grades 11–12 refugee and human-rights discussion units (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two ways of seeing art in Class 11, and the interview read as a genre in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its Hazrat Asma unit teaches anaphoric and cataphoric reference by name, with dictionary use.
 
@@ -127,3 +127,23 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md).
+
+**Book 1:** *Primary English 8 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English 2 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fact or opinion (definitions, practice, games) | South Sudan — Primary English 8 Pupil's Book, printed pp. 30–31 |
+| Interpreting and appreciating poetry; comparing poems | South Sudan — Primary English 8 Pupil's Book, printed p. 94 |
+| Article: leadership traits in King's I Have a Dream speech | South Sudan — Secondary English 2 Student's Book, printed pp. 5–8 |
+| Story analysis: voice and themes | South Sudan — Secondary English 4 Student's Book, printed p. 15 |
+
+South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

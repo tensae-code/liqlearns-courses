@@ -1,6 +1,6 @@
 # Sources — Listening Comprehension
 
-countries: Ghana, Sierra Leone
+countries: Ghana, Sierra Leone, South Sudan
 
 Every part traces to its book and page.
 
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Listen to a level-appropriate dialogue/discussion | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 1 (Oral Language), standard B8.1.2.1, PDF p.77 (curriculum evidence) |
 | Listen to audio-visual texts attentively and support | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 1 (Oral Language), standard B9.1.2.1, PDF p.108 (curriculum evidence) |
 
-**Acceptance count: taught in 1 country (Sierra Leone) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Sierra Leone joined 2026-11-11 (re-verification sweep merge): its JSS and SSS pupils' handbooks teach comprehending a listening passage as a named lesson across all six years, and its Primary lesson plans carry the listening work as teacher evidence — see the Sierra Leone section at the end of this file. This lesson exists because of Ghana's books: Ghana's NaCCA curricula name listening comprehension as its own strand work from Basic 1 to Basic 9 — dramatising stories heard at Basic 1, active listening to information at Basic 3, attentive listening to texts, dialogues, discussions and audio-visual texts at JHS; no earlier-read book taught listening itself as a lesson (listening-to-an-interview teaches one kind of listening). The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+**Acceptance count: taught in 2 countries (Sierra Leone, South Sudan) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Sierra Leone joined 2026-11-11 (re-verification sweep merge): its JSS and SSS pupils' handbooks teach comprehending a listening passage as a named lesson across all six years, and its Primary lesson plans carry the listening work as teacher evidence — see the Sierra Leone section at the end of this file. This lesson exists because of Ghana's books: Ghana's NaCCA curricula name listening comprehension as its own strand work from Basic 1 to Basic 9 — dramatising stories heard at Basic 1, active listening to information at Basic 3, attentive listening to texts, dialogues, discussions and audio-visual texts at JHS; no earlier-read book taught listening itself as a lesson (listening-to-an-interview teaches one kind of listening). The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -73,3 +73,21 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md).
+
+**Book 1:** *Secondary English 2 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Listening to speeches by Dr John Garang and President Barack Obama | South Sudan — Secondary English 2 Student's Book, printed p. 3 |
+| Listening: a ministry official's talk on rescuing girls from early marriage | South Sudan — Secondary English 2 Student's Book, printed p. 46 |
+| Listening: the true story of Kibet, a recovering drug addict | South Sudan — Secondary English 2 Student's Book, printed pp. 86–88 |
+| Listening: anti-corruption laws (the Anti-Corruption Commission Act 2009) | South Sudan — Secondary English 4 Student's Book, printed p. 67 |
+
+South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

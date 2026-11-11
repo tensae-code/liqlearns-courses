@@ -913,3 +913,78 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The Secondary 3 Student's Book is not held, so its rows are cited from the Secondary 3 Teacher's Guide as teacher evidence — the pupil book's own units as the guide documents them, never counted as a pupil book. The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities. Book error carried with these rows: the Primary 5 book prints “shokeeper” for shopkeeper at printed p. 46, inside the Diing story — taught corrected.
+
+**Book 1:** *Primary English 1 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary English 2 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary English 3 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary English 4 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Secondary English 1 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Secondary English 2 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Secondary English 3 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. TEACHER EVIDENCE: the Secondary 3 Student's Book is not held; the rows below are the pupil book's own units as the guide documents them, cited as teacher evidence, never as a pupil book. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story: Kenyi's home (a boy's family and home life) | South Sudan — Primary English 1 Pupil's Book, printed p. 22 |
+| Story: Bees in class (bees invade a classroom) | South Sudan — Primary English 1 Pupil's Book, printed p. 42 |
+| Story: John and the rain (rain disrupts a family's plans) | South Sudan — Primary English 1 Pupil's Book, printed p. 64 |
+| Story: My day (a child's daily routine and times) | South Sudan — Primary English 1 Pupil's Book, printed p. 75 |
+| Story: The mobile phone (a phone changes a village errand) | South Sudan — Primary English 1 Pupil's Book, printed p. 79 |
+| Story: Achol in hospital (a sick girl is visited and cared for) | South Sudan — Primary English 2 Pupil's Book, printed p. 6 |
+| Story: Awori's likes (what a girl likes and dislikes) | South Sudan — Primary English 2 Pupil's Book, printed p. 15 |
+| Story: Akello and the dog (a girl and a stray dog) | South Sudan — Primary English 2 Pupil's Book, printed p. 43 |
+| Story: Adut the footballer (a girl who plays football) | South Sudan — Primary English 2 Pupil's Book, printed p. 48 |
+| Story: Buwa's big day (a family celebration) | South Sudan — Primary English 2 Pupil's Book, printed p. 63 |
+| Story: Fina the forgetful girl (a girl who forgets instructions) | South Sudan — Primary English 3 Pupil's Book, printed p. 5 |
+| Story: Fangak Payam (life in a home town) | South Sudan — Primary English 3 Pupil's Book, printed p. 18 |
+| Story: The accident (a road accident) | South Sudan — Primary English 3 Pupil's Book, printed p. 61 |
+| Story: Nelly (a girl and healthy food choices) | South Sudan — Primary English 3 Pupil's Book, printed p. 68 |
+| Story: Maria uses a mobile phone (keypad, display, SIM card) | South Sudan — Primary English 3 Pupil's Book, printed p. 85 |
+| Writing a dialogue with a sports champion; writing about a sport | South Sudan — Primary English 4 Pupil's Book, printed pp. 14–15 |
+| Story: Bad times (a drought year) | South Sudan — Primary English 4 Pupil's Book, printed pp. 20–21 |
+| Story-writing tips (imagination, completeness) | South Sudan — Primary English 4 Pupil's Book, printed p. 32 |
+| Story: A terrible accident (a speeding bus driver crashes) | South Sudan — Primary English 4 Pupil's Book, printed pp. 82–83 |
+| Story: Kenyi the mischievous boy (a boy who hates herding tricks his way to school) | South Sudan — Primary English 4 Pupil's Book, printed p. 93 |
+| Story: Family rules (a strict kind family vs a rule-free family) | South Sudan — Primary English 4 Pupil's Book, printed p. 97 |
+| Story: How rules came to Odo's village (a lawless village learns about courts) | South Sudan — Primary English 4 Pupil's Book, printed pp. 111–112 |
+| Story: Good deeds become a tree (mourners praise a grandmother at her funeral) | South Sudan — Primary English 4 Pupil's Book, printed pp. 145–146 |
+| Story: The food poisoning (guests poisoned at a graduation party) | South Sudan — Primary English 4 Pupil's Book, printed pp. 154–155 |
+| Planning a story | South Sudan — Primary English 5 Pupil's Book, printed p. 22 |
+| Story: Ajok's surprise birthday | South Sudan — Primary English 5 Pupil's Book, printed p. 36 |
+| Story: Diing goes shopping | South Sudan — Primary English 5 Pupil's Book, printed p. 45 |
+| Folktale: Turtle and the Birds (a turtle borrows feathers, eats the sky feast alone, falls and breaks his shell) | South Sudan — Primary English 6 Pupil's Book, printed p. 6 |
+| Story: Peter's school fees (a boy pays fees after text-message help) | South Sudan — Primary English 6 Pupil's Book, printed p. 56 |
+| Story: Laban's visit to the bank | South Sudan — Primary English 6 Pupil's Book, printed p. 69 |
+| Story: Rita (a girl whose mother is arrested for selling drugs) | South Sudan — Primary English 7 Pupil's Book, printed p. 9 |
+| Story: Nancy's Wedding Ceremony | South Sudan — Primary English 7 Pupil's Book, printed p. 34 |
+| Story: The Jackal and the Forest God | South Sudan — Primary English 7 Pupil's Book, printed p. 51 |
+| Creative writing: the story The village goes to town; writing a migration story | South Sudan — Secondary English 1 Student's Book, printed p. 56 |
+| Story: When the sun goes down (Goro wa Kamau — Steve loves Maureen, who has HIV; stigma) | South Sudan — Secondary English 2 Student's Book, printed pp. 29–39 |
+| Story: Ayen's forced marriage (a 14-year-old who dreams of being a pilot is married to an old man) | South Sudan — Secondary English 2 Student's Book, printed pp. 48–50 |
+| Story extract: The law of the grazing fields (from Ekwensi, When the Sun Goes Down — a bride-price dispute) | South Sudan — Secondary English 2 Student's Book, printed pp. 52–58 |
+| Story: The Nine Billion Names of God (Clarke — monks hire a computer to print God's names; the stars go out) | South Sudan — Secondary English 2 Student's Book, printed p. 74 |
+| Story: My long road to overcoming drug addiction (Deborah Ebole's recovery) | South Sudan — Secondary English 2 Student's Book, printed pp. 91–94 |
+| Story: How Prometheus Gave Fire to Men; writing a critical review | South Sudan — Secondary English 3 Teacher's Guide (teacher evidence), Learner's Book unit 2, as documented by the guide |
+| Story: Letter to my Sisters by Fatima Conteh (a dead woman's letter about her life under inequality) | South Sudan — Secondary English 4 Student's Book, printed pp. 26–34 |
+| Story extract: Sinai the dilemma (an official is offered a bribe) | South Sudan — Secondary English 4 Student's Book, printed pp. 59–61 |
+| Story: The Machine That Won the War (Asimov — a computer's coin-flip wins a war) | South Sudan — Secondary English 4 Student's Book, printed pp. 75–79 |
+| Writing a short story of about 100 words | South Sudan — Secondary English 4 Student's Book, printed p. 86 |
+| Story: The Man by Victor Keri Wani (an ageless protector whose secret name is spoken) | South Sudan — Secondary English 4 Student's Book, printed pp. 103–107 |
+| Continuing a story in your own two paragraphs | South Sudan — Secondary English 4 Student's Book, printed p. 107 |
+| Story: Light at the end of the tunnel | South Sudan — Primary English 8 Pupil's Book, printed pp. 13–14 |
+| Story: It makes a difference! (the starfish story) | South Sudan — Primary English 8 Pupil's Book, printed pp. 31–32 |
+| Story: Never say die | South Sudan — Primary English 8 Pupil's Book, printed p. 59 |
+
+South Sudan already stood in this lesson; these rows complete its stock from the sweep.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

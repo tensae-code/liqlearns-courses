@@ -774,3 +774,55 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone was already counted in this lesson; the acceptance count does not change.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities. Book error carried with these rows: the Primary 4 Earth movement text prints “metrology” for meteorology at printed p. 30 — taught corrected.
+
+**Book 1:** *Primary English 6 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English 1 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English 2 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading text: Games and sports (St Peter's vs Riverside FC) | South Sudan — Primary English 4 Pupil's Book, printed p. 11 |
+| Text: Earth movement (axis, rotation, hemispheres) | South Sudan — Primary English 4 Pupil's Book, printed pp. 29–30 |
+| Text: The changing world of work (technology and women's roles) | South Sudan — Primary English 4 Pupil's Book, printed pp. 48–49 |
+| Text: Cattle rustling | South Sudan — Primary English 4 Pupil's Book, printed p. 118 |
+| Reading and comprehension: A visit to a new country (the USA) | South Sudan — Primary English 5 Pupil's Book, printed p. 78 |
+| Reading text: The Maasai tribe | South Sudan — Primary English 5 Pupil's Book, printed p. 82 |
+| Reading text: volleyball rules | South Sudan — Primary English 5 Pupil's Book, printed p. 90 |
+| Text extract: The Dinka | South Sudan — Primary English 6 Pupil's Book, printed p. 9 |
+| Text: The importance of school holidays | South Sudan — Primary English 6 Pupil's Book, printed p. 18 |
+| Reading passage: The Chinese New Year Festival | South Sudan — Primary English 7 Pupil's Book, printed p. 30 |
+| Reading passage: Festivals in India | South Sudan — Primary English 7 Pupil's Book, printed p. 37 |
+| Reading: A new dawn (democracy dialogue) | South Sudan — Primary English 8 Pupil's Book, printed pp. 5–6 |
+| Reading: Causes and effects of climate change | South Sudan — Primary English 8 Pupil's Book, printed pp. 24–25 |
+| Reading: In the process of healing (conflict resolution) | South Sudan — Primary English 8 Pupil's Book, printed p. 51 |
+| Reading: Desmond Tutu's forgiveness article | South Sudan — Secondary English 1 Student's Book, printed p. 13 |
+| Reading: Linking peace with development | South Sudan — Secondary English 1 Student's Book, printed p. 49 |
+| Reading: Education in South Sudan | South Sudan — Secondary English 1 Student's Book, printed pp. 118–125 |
+| Comprehension extracts on public health | South Sudan — Secondary English 2 Student's Book, printed pp. 23–26 |
+| Reading: Impacts of technology | South Sudan — Secondary English 2 Student's Book, printed pp. 66–68 |
+| Reading: an article by Isaac Asimov | South Sudan — Secondary English 2 Student's Book, printed p. 70 |
+| Reading: impacts of drug abuse | South Sudan — Secondary English 2 Student's Book, printed pp. 83–85 |
+| Reading: How electricity gets to your house | South Sudan — Secondary English 2 Student's Book, printed pp. 100–102 |
+| Reading extracts on gender equality | South Sudan — Secondary English 4 Student's Book, printed pp. 1–14 |
+| Reading: The global problem of gender inequality | South Sudan — Secondary English 4 Student's Book, printed pp. 17–18 |
+| Reading: Transport and Africa's development | South Sudan — Secondary English 4 Student's Book, printed pp. 39–41 |
+| Reading: Transport challenges in South Sudan | South Sudan — Secondary English 4 Student's Book, printed pp. 45–47 |
+| Reading: Curbing the menace of corruption | South Sudan — Secondary English 4 Student's Book, printed pp. 55–57 |
+| Reading: Sectors most affected by corruption (police, judiciary, education) | South Sudan — Secondary English 4 Student's Book, printed p. 62 |
+| Reading: Digital communication and fiction | South Sudan — Secondary English 4 Student's Book, printed pp. 83–85 |
+| Reading: Traditional Culture and Modern Culture (Knick's Middle Eastern Village Study) | South Sudan — Secondary English 4 Student's Book, printed pp. 96–102 |
+| Reading extract: Why is Democracy Performing so Poorly? (Fukuyama) | South Sudan — Secondary English 4 Student's Book, printed pp. 117–122 |
+| Reading: Pillars of a democracy | South Sudan — Secondary English 4 Student's Book, printed p. 122 |
+| Reading: South Sudan's justice system (communal, ecclesiastical, formal courts) | South Sudan — Secondary English 4 Student's Book, printed pp. 136–137 |
+| Text: Farming in South Sudan | South Sudan — Primary English 5 Pupil's Book, printed p. 125 |
+
+South Sudan already stood in this lesson; these rows complete its stock from the sweep.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.

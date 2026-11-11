@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -137,8 +137,8 @@ the 2026-11-08 re-verification sweep.
 | A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
 | Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 8 countries (Malaysia,
-Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 9 countries (Malaysia,
+Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -151,3 +151,35 @@ reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 9* prints a complete one-act play, Houghton's "The Dear Departed" (Unit 11, printed p.132). *English Book III* prints three complete plays — "Heat Lightning", "A Visit to a Small Planet" and Saroyan's "The Oyster and the Pearl" (a different work from Steinbeck's novella in English 12). *English 12* sets script analysis and writing in its Shakespeare unit (Unit 10, printed p.80 area). All three are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep, Book III page by page.
+
+## South Sudan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held English books page by page (493 teaching items placed; 119 already in the course, 374 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md). The book held at the grade-05 path is the Primary 4 Pupil's Book and the book held at the grade-04 path is the Primary 5 Pupil's Book (covers and contents prove it); both are cited by their true identities.
+
+**Book 1:** *Primary English 4 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary English 7 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary English 8 — Pupil's Book* (pupil's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English 1 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Secondary English 2 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Secondary English 4 Student's Book* (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A conversation at a chief's meeting with stage directions | South Sudan — Primary English 4 Pupil's Book, printed pp. 115–116 |
+| Drama extracts (from Ruganda's Shreds of Tenderness and Imbuga's Aminata) | South Sudan — Primary English 7 Pupil's Book, printed pp. 102–105 |
+| Stage directions: brackets, italics, movement/position/tone | South Sudan — Primary English 7 Pupil's Book, printed p. 109 |
+| The play-script checklist (fifteen points) | South Sudan — Primary English 7 Pupil's Book, printed pp. 113–114 |
+| Play: Lost and found | South Sudan — Primary English 8 Pupil's Book, printed pp. 102–104 |
+| Elements of drama; tips for dramatising a story | South Sudan — Primary English 8 Pupil's Book, printed p. 105 |
+| An adapted Romeo and Juliet extract as a play model; writing a play (method, format, stage directions) | South Sudan — Secondary English 1 Student's Book, printed pp. 130–133 |
+| Writing a TV drama script | South Sudan — Secondary English 2 Student's Book, printed p. 126 |
+| A short play (a student meets an alien, with stage directions) | South Sudan — Secondary English 4 Student's Book, printed pp. 93–96 |
+| Writing a play about cultural differences | South Sudan — Secondary English 4 Student's Book, printed p. 96 |
+
+South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
