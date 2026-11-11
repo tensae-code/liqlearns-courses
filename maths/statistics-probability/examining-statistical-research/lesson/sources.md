@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia
+countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
 | The statistical question | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 1, printed p. 108 |
 
-**Acceptance count: taught in 6 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia).**
+**Acceptance count: taught in 7 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil).**
 
 Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 
@@ -73,3 +73,18 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Brazil added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF — **1 book, a pupil textbook: *Matemática — Livro Didático Público — Ensino Médio* (SEED-PR), the Paraná state public textbook for Ensino Médio (Grades 10–12), in Portuguese. There is no teacher guide in the Brazil Maths set in hand, so every Brazil row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Brazil counts in every lesson it stocks** — and placed 128 teaching items. The expansion map's “1 student + 0 teacher = 1” is correct: books.json (grade-10/gov/brazil) and textbooks.tsv each carry exactly one Brazil Mathematics entry, and phase3-push-state.json lists the file as pushed. The staging folder for the book is empty, so there was no local copy to read, and the authenticated GitHub asset route failed in this pass (the mid-size-books release's asset listing repeatedly disconnected through the proxy, and the asset's download URL answered 404) — the GitHub copy's existence and size were therefore NOT verified here, and a library-side check of that asset is owed (a route failure, not a negative finding). The book was instead read from its own recorded source_url — the Wayback capture banked by the 2026-10-22 CDX prep (capture 20240421222141) — which landed at exactly the prep's expected 6,379,928 B, with 240 pages and the correct cover and catalogue block; the book read is certainly this book. Printed page = PDF page throughout. Four book errors found in the read (placements E1–E4) are carried corrected on the rows they touch — in the sequences-and-series (E1), ratio-and-proportion (E2), coordinate-geometry (E3), barycentres (E4) and loci (E4) lessons; two further misprints are recorded, not taught (R5: the risk exponent typeset once as 0.2525 for 0.2528, printed p. 58 — noted on the item 28 row in the logarithms-and-exponentials lesson; R6: glucose printed “C6A12O6”, printed p. 35, a chemistry misprint), and the Aristarchus bound passage (printed p. 169, record item R7) could not be confirmed either way as extracted and is cited nowhere. The placements' named exclusions — the four section introductions and the general presentation (framing and history), the context essays and debates that carry no new maths, the biographical and historical passages except where the passage itself teaches a method, the “Obras Consultadas” reference lists after every chapter, and the blank “Anotações” pages — are stocked nowhere. Into this lesson the placements stock 2 items (all from the pupil textbook) from Book 1.
+
+**Book 1:** *Matemática — Livro Didático Público — Ensino Médio* (pupil textbook, Ensino Médio — Grades 10–12) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba, 2nd edition 2006, ISBN 85-85380-39-X; 6,379,928 bytes, 240 PDF pp., MD5 e3dac71a6d075dd142282376da6fa785. Pages cited are the book's printed pages (printed page = PDF page). Read from the banked Wayback capture of the book's recorded source_url at the exact recorded size; the GitHub release-asset copy could not be verified in this pass (route failure — a library-side asset check is owed). The catalogue block's “p. 216” is the 1st-edition pagination and does not match this file's 240 pages (record item R1); all citations use the actual printed folios. Folha 6's chapter heading (printed p. 77) adds “Corrupção & Política –” to the contents-list title (record item R2) — the same chapter. Folhas 9 and 10 are filed by the book inside its Funções section although their content is trigonometry (record item R3); the placements follow the content.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A graph's scale manipulates its reading: the same unemployment rates drawn on a 10–12 scale and on an 8–20 scale — in the first the sharp variations show, in the second the rate looks almost constant | Brazil — *Matemática — Livro Didático Público — Ensino Médio (SEED-PR)* (pupil textbook), printed p. 202 |
+| The pictorial graph's trap: if a money-bag picture has twice the base and twice the height of another, its area is four times — and in three dimensions its volume eight times — so a pictogram can misstate “double” | Brazil — *Matemática — Livro Didático Público — Ensino Médio (SEED-PR)* (pupil textbook), printed p. 203 |
+
+Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
