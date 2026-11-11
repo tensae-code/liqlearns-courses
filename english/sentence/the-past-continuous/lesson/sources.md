@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -65,6 +65,8 @@ Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 16:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The past continuous tabled whole at Year 3, Topic 6 | Bolivia, teacher compendium, Year 3 Topic 6 (as filed in english/books/bolivia.md) |
@@ -87,8 +89,9 @@ re-verification sweep.
 | Past simple against past continuous, reviewed side by side | Mexico, Grade 8, Project 7 "A Poet With the Wings of a Painter", printed p. 62 |
 | Simple past against past progressive: “They were singing songs” | Mexico, Grade 9, Project 1 "Afro-Mexican Communities: Stories for Inclusion", printed p. 12 |
 | Past continuous interrupted by past simple ("I was trying to climb over the fence when the giant saw me") | India — Marigold Book Five (Class 5), Unit 7 language work |
+| “We survived the tsunami!” — past simple vs past continuous; natural disasters and accidents words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 4, Lesson 3, printed p.54 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India).** India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the

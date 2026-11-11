@@ -184,6 +184,10 @@ verification sweep.
 
 **Book 59:** Greece Alpha English WORKPACK, Grade 1: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0186, ISBN 978-960-06-4460-9. A print artwork pack (flashcards, cut-outs, story picture sets, posters), not a lesson book; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 1 — ALPHA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
 
+**Book 60:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
+**Book 61:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -303,6 +307,9 @@ verification sweep.
 | "The Ship of the Desert" (S. K. Ram): the Lion questions the Camel — food stored in its hump, 200 bottles of water drunk at a time, thorny bushes eaten with its thick tongue, thick padded feet for hot sand (plot summary only) | India — Marigold Book Three (Class 3), Unit 10, printed pp.97–108 |
 | Pet and wild animal flashcards, a zoo poster, animal dice and masks (dog, cat, parrot, fish, turtle, rabbit, lion, hippo, bird, zebra, elephant, monkey) | Greece, Alpha English Grade 1 Workpack, animal sets (A_B01–B02), PDF pp.9–14 |
 | Dinosaurs picture set and masks; circus clowns flashcards and cut-outs | Greece, Alpha English Grade 1 Workpack, dinosaur and circus sets (A_B22–B23), PDF pp.77–82 |
+| “Let's go to the zoo!” — describing animals and their habits; the imperative form | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 4, Lesson 1, printed p.42 |
+| Workbook Unit 4 (Ecofriendly), lessons 1–3 — practice of the imperative, can/can't and must/mustn't with the unit's texts | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 4 (contents PDF p.6) |
+| The Beginners teacher's guide for Unit 4 “Ecofriendly!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.41 |
 **Acceptance count: taught in 35 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first

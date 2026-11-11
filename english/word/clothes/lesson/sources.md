@@ -40,6 +40,8 @@ verification sweep.
 
 **Book 9:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
 
+**Book 10:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Typical clothes of the regions (Altiplano colourful for cold; valleys/oriental white for hot), clothes and colours taught together; production: a wallpaper of typical clothes of your region; closing model text "Typical clothes from my region" (the tipoy dress) | Bolivia, Year 1 (Grade 7), Topic 6 "Typical clothes," student p.173 |
@@ -57,6 +59,7 @@ verification sweep.
 | Shop goods named inside the clothes book: gloves, scarf, umbrella, sunglasses | China — English (PEP) Grade 4 Volume 2, Unit 6, printed p.59 |
 | Clothes words matched to pictures (shirt, socks, cap, trousers, belt, shoes), in the bath poem's unit | India — Marigold (Class 1), Unit 2 word work, printed pp.16–28 |
 | Clothes: a two-panel spot-and-match sheet of clothing items (trousers, socks, trainers, T-shirt, shirt and tie, hat, dress, hooded jacket) | Greece, Beta English Grade 2 Workpack, clothes set (Γ06), PDF p.100 |
+| Workbook “TEEN Voice!” — new text: a webpage about fashion; writing descriptions of people's appearance | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 6, Lesson 2, printed p.70 |
 
 **Acceptance count: taught in 6 countries (Bolivia, Cambodia,
 Mongolia, China, India, Greece).** Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional

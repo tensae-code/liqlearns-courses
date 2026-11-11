@@ -200,6 +200,9 @@ rendered page the same day).
 | Self-introduction work at Class 1: fill in about yourself — I can read my name; My name is…; I am … years old; I can write my address; I can count till…; my teacher's name; my school | India — Marigold (Class 1), Unit 9, printed pp.98–109 |
 | Six children introduce themselves and what they want to be: "Who I Am" — Radha, Nasir, Rohit, Serbjit, Dolma, Peter, with personality and careers material | India — Honeysuckle (Class 6), printed p.69 |
 | Saying your name with a picture card: name cards for the class characters (Anna, Nikos, Maria, Kostas, Elina, Fotis, Christina, Petros, Voula, Alex) — the pupil says their own name with a card the same way | Greece, Alpha English Grade 1 Workpack, name cards (A_A00–A02), PDF pp.6–7 |
+| “Welcome!” — asking for and giving personal information; verbs to be and have got; present simple; classroom language | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 1, printed p.1 |
+| Workbook “Welcome!” — new texts: students' profiles; practice: to be, have got, questions; writing an e-mail about yourself to a keypal | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 1, printed p.1 |
+| The Advanced teacher's guide for Unit 1 “Welcome!” — teaching notes, tapescripts and keys for the unit | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.ii |
 **Acceptance count: taught in 35 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
@@ -507,6 +510,18 @@ ISBN 978-960-06-4460-9) joins this lesson from the
 the Greece sweep merge): its opening sheets are name
 cards for the class characters (A_A00–A02, PDF pp.6–7) —
 saying your name with a picture card.
+Greece's Grade 7 Advanced set also joins from the
+re-verification sweep (stocked 2026-11-10 by the Greece
+sweep merge): the Think Teen! Grade 7 Advanced Student's
+Book opens with Unit 1 "Welcome!" — personal information,
+to be and have got, present simple, classroom language
+(printed p.1); its Workbook's Unit 1 carries students'
+profiles and e-mail-to-a-keypal writing (printed p.1);
+and the Advanced Teacher's Book's guide for the unit
+(printed p.ii) is teacher evidence for the same teaching.
+The three books are filed at `english/books/greece.md`
+(Grade 7 (Advanced) sections, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
 
 **Kazakhstan added 2026-11-03** — six books stock this lesson:
 **Book:** *Smiles 1 — Pupil's Book for Kazakhstan Grade 1*

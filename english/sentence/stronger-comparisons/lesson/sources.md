@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -90,6 +90,12 @@ Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 19:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 20:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 21:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -116,8 +122,11 @@ re-verification sweep.
 | Comparative sentences made on the story's own model — "If I were only larger, how much happier I could be" — with taller, thinner, smaller, cleverer, younger, older | India — Marigold Book Three (Class 3), Unit 4 Let's write, printed p.40 |
 | Comparison word sets said aloud: biggest, smaller/smallest, richer/richest, big/bigger (with quiet/quite, fellow/shallow) | India — Marigold Book Three (Class 3), Unit 7 Say aloud, printed p.74 |
 | Degrees of comparison stated formally (two things: -er/more; three or more: -est/most) and wrong comparisons corrected | India — Marigold Book Five (Class 5), Unit 7 language work |
+| “We're on a shopping spree!” — comparing and contrasting; comparative and superlative adjectives; shopping and computer-games words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 3, Lesson 3, printed p.37 |
+| “TEEN Voice!” — plural nouns; comparative and superlative adjectives; clothes and accessories | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 6, Lesson 2, printed p.79 |
+| Workbook “A collection of thimbles!” — new text: extracts from the Guinness Book of Records; writing notes about famous collections | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 2, Lesson 2, printed p.13 |
 
-**Acceptance count: taught in 8 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India).** India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 9 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked

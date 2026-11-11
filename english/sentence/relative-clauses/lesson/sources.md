@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -126,6 +126,12 @@ Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 24:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 25:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson. Its contents page renames the student book's Unit 6 'Teens in action!' as 'Volunteers wanted!' — the same lessons; the student book's title is used.
+
+**Book 26:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -155,10 +161,14 @@ re-verification sweep.
 | Relative pronouns who / whose / whom / which / that: “whose house we bought” | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 70 |
 | Adjective clauses: noun + that/who/which + verb… | Mexico, Grade 9, Project 9 "Building Creative, Tactical and Strategic Thinking", printed p. 84 |
 | Relative pronouns as fill-in choices — who/whose/which/that/whom across seven sentences | India — Marigold Book Five (Class 5), Unit 3 language work |
+| “Fancy ancient history?” — giving information; relative clauses who/which/where | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 5, Lesson 1, printed p.64 |
+| Workbook “Fancy ancient history?” — new text: an article about the Indus civilisation | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 5, Lesson 1, printed p.62 |
+| Workbook “A nation in brief!” — new text: a webpage about superstitions around the world | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 5, Lesson 2, printed p.67 |
+| The Advanced teacher's guide for Unit 5 “Times change!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.61 |
 
-**Acceptance count: taught in 15 countries (Cambodia,
+**Acceptance count: taught in 16 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India).** India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds

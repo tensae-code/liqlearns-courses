@@ -157,6 +157,12 @@ verification sweep.
 **Book 65:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 66:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 67:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson. Its contents page renames the student book's Unit 6 'Teens in action!' as 'Volunteers wanted!' — the same lessons; the student book's title is used.
+
+**Book 68:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -285,6 +291,10 @@ verification sweep.
 | The expression “it is said that… / it is believed that…” in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 120 |
 | The passive voice in process instructions for protecting the environment — be + past participle with sequencers and imperatives (waste is reduced, plastic is recycled, leaks must be fixed) (the text glosses deforestation as "the leaning of trees" — for clearing; taught corrected) | Mauritania, Study English, Grade 13, printed pp.17–19 |
 | A named language point in the teacher notes: completing a passage with passive forms of verbs — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 1–3 (Notes for the Teacher), printed pp.1–8 (unit notes) |
+| “And the winner is..!” — exchanging information about awards; simple present passive | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 8, Lesson 1, printed p.118 |
+| “Crack the code!” — simple past passive; Braille code and disabilities words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 8, Lesson 2, printed p.123 |
+| Workbook Unit 8 (In the papers!), lessons 1–3 — practice of the passive with the unit's texts | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 8 (contents PDF p.7) |
+| The Advanced teacher's guide for Unit 8 “In the papers!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), contents PDF p.6 |
 
 
 **Acceptance count: taught in 31 countries (Egypt,

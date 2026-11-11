@@ -326,6 +326,10 @@ verification sweep.
 
 **Book 95:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 96:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 97:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -621,6 +625,8 @@ verification sweep.
 | Story and song titles named in the workpack's printed audio contents with no separate artwork strand stocked here: “The Sailor and the Mermaid”, “Grumpy Dog Goes to a Party”, “The Lucky Envelope”, “Five Little Cookies”, “Mary's Day” (the “Easter Bunny” title and the “Happy Birthday” song are stocked in congratulating-and-wishing) | Greece, Beta English Grade 2 Workpack, audio contents table, PDF pp.195–196 |
 | “Dairy the fairy” — a listening story whose ending the class guesses and develops — plot only | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 10, Lesson 2, printed pp.122–124 |
 | “Myths and legends” — myths and legends from other civilisations — plots only | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 10, Lesson 3, printed pp.130–132 |
+| “TEEN best-sellers!” — past simple; 'book' words and collocations; interviews with authors (Beginners student's book) | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 7, Lesson 3, printed p.103 |
+| Workbook “TEEN best-sellers!” — new text: a blurb of a book | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 7, Lesson 3, printed p.89 |
 **Acceptance count: taught in 34 countries (Bangladesh,
 Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India).** India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;

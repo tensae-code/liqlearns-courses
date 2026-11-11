@@ -160,6 +160,8 @@ verification sweep.
 **Book 67:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 68:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 2 (p.79, as filed in libya.md) |
@@ -309,6 +311,7 @@ verification sweep.
 | Real conditionals: the zero conditional (if + present, present) and the first conditional (if + present, will + verb) | Mauritania, Study English, Grade 9, printed pp.25–28 |
 | If-clauses as named work: notice sentences beginning with "if" (present tense + will), and rewrite pairs of sentences as one sentence beginning with If | India — Honeycomb (Class 7), Working with Language in A Gift of Chappals, printed p.30 |
 | UNLESS = if not as a named point: negative conditionals for the present and the future ("Unless you work harder you will fail"), learners predict endings | India — Beehive (Class 9), Thinking about Language in The Fun They Had, Unit 1 |
+| “Let's go green!” — must/mustn't for obligation and prohibition; if-sentences (if + present → can/imperative); recycling and green issues | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 4, Lesson 3, printed p.50 |
 
 **Acceptance count: taught in 31 countries (Egypt,
 Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at

@@ -29,6 +29,10 @@ Education. Filed in english/books/sierra-leone.md
 
 **Book 5:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
 
+**Book 6:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sentence-structure errors named together in the writing section: fragments, run-ons, comma splices (with sentence types and punctuation/mechanics) | Ethiopia, English Grade 11, Unit 1, Writing (1F); the unit runs printed pp.1–32 |
@@ -41,6 +45,8 @@ Education. Filed in english/books/sierra-leone.md
 | Punctuation and capitalisation: identify, use, and correct errors in paragraphs | Ghana, NaCCA English Language Curriculum for JHS 1–3, Punctuation and Capitalisation strand (curriculum document, as filed in ghana.md) |
 | Writing Complete Sentences: what makes a sentence complete; correcting fragments and run-on sentences | Sierra Leone, SSS2 Pupil Handbook Term 1, Lesson 40, printed p.100 |
 | The book's own grammar summary (Appendix III Grammar) — the reference the class checks its sentences against | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Appendix III, contents p.xii |
+| The Advanced book's Grammar Appendix — grammar tables and rules for all units | Greece, Think Teen! Grade 7 Advanced Student's Book, Grammar Appendix, printed p.159 |
+| The Beginners book's Grammar Appendix — grammar tables for all units | Greece, Think Teen! Grade 7 Beginners Student's Book, Grammar Appendix, printed p.145 |
 
 **Acceptance count: taught in 4 countries (Ethiopia,
 Ghana, Sierra Leone, Greece).** Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole

@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece
 
 Every part traces to its book and page.
 
@@ -62,6 +62,14 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 13:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson. Its contents page renames the student book's Unit 6 'Teens in action!' as 'Volunteers wanted!' — the same lessons; the student book's title is used.
+
+**Book 14:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
+
+**Book 15:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
+**Book 16:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
@@ -81,15 +89,19 @@ differ only in cover wording and colophon; cited once.
 | Quantity words: many/much (countable against uncountable), few/a few, little/a little | Mauritania, Study English, Grade 8, printed pp.17–18 |
 | Containers and partitives — a packet/kilo/slice/piece/loaf/sack/tin/can/bottle/glass/cup of — with the meal words starter/main course/dessert (the book glosses dessert as food taken "before or after" the main course — dessert comes after; taught corrected) | Mauritania, Study English, Grade 8, printed pp.18–19 |
 | Quantifiers before nouns: some/any, much/many, a few/a little, a lot — with countable and uncountable nouns | Mexico, Grade 8, Project 8 "I Design Measuring Instruments to Quantify Physical Magnitudes", printed p. 68 |
+| Workbook Unit 3 (Teen Matters), lessons 1–3 — practice of quantifiers, modals and comparatives with the unit's reading texts | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 3 (contents PDF p.6) |
+| The Advanced teacher's guide for Unit 3 “TEEN Matters!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.26 |
+| Workbook “FOODstuff!” — new text: an article about food and teens' diet | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 6, Lesson 1, printed p.66 |
+| The Beginners teacher's guide for Unit 6 “Bits and pieces!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.71 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 10 countries (Bolivia,
+**Acceptance count: taught in 11 countries (Bolivia,
 Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
-Nepal, China, Mauritania).** Cambodia runs the whole family across three
+Nepal, China, Mauritania, Greece).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year

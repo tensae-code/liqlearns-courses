@@ -187,6 +187,16 @@ verification sweep.
 **Book 65:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
 
 
+**Book 66:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson. Its contents page renames the student book's Unit 6 'Teens in action!' as 'Volunteers wanted!' — the same lessons; the student book's title is used.
+
+**Book 67:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
+
+**Book 68:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 69:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
+**Book 70:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -356,6 +366,13 @@ verification sweep.
 | The simple past with its time expressions: yesterday, last night, ten minutes ago | Mexico, Grade 8, Project 4 "Something From Another World", printed p. 44 |
 | Was/were — the verb to be in the simple past — for feelings and situations | Mexico, Grade 8, Project 19 "The Mexican Revolution and Its People", printed p. 156 |
 | The pattern look/looked: fill in past forms (pick, bark, want, talk, wish, pull, help), beside phrases of quantity (a glass of, a box of, a sheet of, a bunch of, a herd of, a pack of) | India — Marigold Book Three (Class 3), Unit 4 word building, printed pp.38–40 |
+| Workbook Unit 4 (Looking back on the past), lessons 1–3 — practice of past simple and past continuous with the unit's reading texts | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 4 (contents PDF p.6) |
+| The Advanced teacher's guide for Unit 4 “Looking back on the past!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.43 |
+| “Let's communic8!” — narrating past events; past simple of verb to be, regular and irregular verbs; punctuation marks | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 7, Lesson 1, printed p.92 |
+| “Houston, we're back!” — past simple; space and planets words; an article about a space mission | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 7, Lesson 2, printed p.97 |
+| Workbook “Let's communic8!” — new text: a magazine article about emoticons | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 7, Lesson 1, printed p.80 |
+| Workbook “Houston, we're back!” — new text: a quiz about our solar system | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 7, Lesson 2, printed p.85 |
+| The Beginners teacher's guide for Unit 7 “In our mind's eye!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.85 |
 **Acceptance count: taught in 33 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India).** India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the

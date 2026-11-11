@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -96,6 +96,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 18:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 19:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -121,9 +125,11 @@ verification sweep.
 | Gerunds and infinitives: verb + -ing against to + verb, gerund and infinitive phrases, and the verb patterns (can't imagine working, hope to pass, feel like doing, decide not to buy) | Mauritania, Study English, Grade 13, printed pp.15–16 |
 | Sentences with two verbs: verb + to-infinitive or verb + gerund — the first verb decides the shape | Mexico, Grade 9, Project 6 "Everything We Create Is Art", printed p. 43 |
 | To-infinitives after verbs (determined to live, managed to conceal) — sentences completed with to-verbs | India — Beehive (Class 9), Thinking about Language in The Sound of Music, printed p.24 |
+| “A nation in brief!” — comparing and contrasting; the gerund; education and numbers words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 5, Lesson 2, printed p.70 |
+| “Greetings from Australia!” — likes and dislikes: like/love/enjoy/hate + -ing | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 3, Lesson 2, printed p.31 |
 
-**Acceptance count: taught in 12 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India).** India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 13 countries (Cambodia,
+Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives

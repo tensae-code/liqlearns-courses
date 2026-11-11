@@ -208,6 +208,18 @@ verification sweep.
 **Book 72:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 73:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 74:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson. Its contents page renames the student book's Unit 6 'Teens in action!' as 'Volunteers wanted!' — the same lessons; the student book's title is used.
+
+**Book 75:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
+
+**Book 76:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 77:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
+**Book 78:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -395,6 +407,18 @@ verification sweep.
 | The simple present against the present progressive, reviewed side by side | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 17 |
 | The simple present tense as named work: it says what happens all the time or is true in general; find ten examples in the text | India — Honeycomb (Class 7), Working with Language in Fire: Friend and Foe, printed p.120 |
 | A named language point in the teacher notes: simple present contrasted with present continuous (I walk to school every morning / Today I am taking a bus) — the note itself names the taught point | India — Honeycomb (Class 7), Language point in Fire unit (Notes for the Teacher, Units 8–10), printed pp.111–113 (unit notes) |
+| “Fancy school?” — describing school routines and habits; present simple | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 2, Lesson 1, printed p.8 |
+| “Join our club!” — expressing preferences; present continuous | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 2, Lesson 2, printed p.15 |
+| Workbook “Fancy school?” — new text: an article about unusual schools | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 2, Lesson 1, printed p.10 |
+| Workbook “Join our club!” — new texts: children's presentations of their school clubs | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 2, Lesson 2, printed p.16 |
+| The Advanced teacher's guide for Unit 2 “Junior High School Life!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.8 |
+| “It's on the notice board!” — describing current activities; present continuous; musical instruments | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 5, Lesson 1, printed p.58 |
+| “A weekend away!” — present continuous vs present simple; unusual sports | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 5, Lesson 2, printed p.62 |
+| Workbook “My day!” — new texts: Tina's daily routine; a magazine article about different people's daily routines | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 3, Lesson 1, printed p.22 |
+| Workbook “Greetings from Australia!” — practice: telling the time, daily routines, school subjects, collocations | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 3, Lesson 2, printed p.26 |
+| Workbook Unit 5 (Teens in action!), lessons 1–3 — practice of the present continuous with the unit's texts | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 5 (contents PDF pp.6–7) |
+| The Beginners teacher's guide for Unit 3 “Day in Day out!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.25 |
+| The Beginners teacher's guide for Unit 5 “Teens in action!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.55 |
 **Acceptance count: taught in 37 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India).** India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside

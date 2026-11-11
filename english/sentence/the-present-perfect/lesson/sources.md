@@ -154,6 +154,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 46:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson. Its contents page renames the student book's Unit 6 'Teens in action!' as 'Volunteers wanted!' — the same lessons; the student book's title is used.
+
+**Book 47:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -266,6 +270,8 @@ verification sweep.
 | Present-perfect writing frames: "Write three new things you have done in the last three years" ("I have started…") and three things NOT done | India — Marigold Book Five (Class 5), Unit 5 language work |
 | A named language point in the teacher notes: two tense forms used together — simple past and present perfect (I have seen the Taj; He has arrived; I have finished my work) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 | “Going for the Gold” — expressing experience and achievement; a personal-record poster | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 7, Lesson 3, contents p.ix |
+| Workbook Unit 6 (contents title: “Volunteers wanted!” — the student book's “Teens in action!”), lessons 1–3 — practice of the present perfect with the unit's texts | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 6 (contents PDF p.7) |
+| The Advanced teacher's guide for Unit 6 “Teens in action!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.82 |
 
 
 **Acceptance count: taught in 28 countries (Egypt,

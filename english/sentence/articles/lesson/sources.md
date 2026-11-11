@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -67,6 +67,10 @@ verification sweep.
 **Book 14:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 15:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Articles met inside the Year 1 school theme (class supplies; the computer's parts) | Bolivia, Year 1, Theme 3 "My school", p.167 (as filed) |
@@ -85,10 +89,12 @@ verification sweep.
 | Determiners — identify and use the definite and indefinite articles 'a' and 'an' | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.2.1, PDF p.60 (curriculum evidence) |
 | Determiners | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.2.1, PDF p.134 (curriculum evidence) |
 | Expository /Informative Writing — Write articles on varied topics event of the day | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.14.2, PDF p.232 (curriculum evidence) |
+| “The four corners of the Earth!” — the definite article and zero article; geographical words and large numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 6, Lesson 3, printed p.84 |
+| Workbook “The four corners of the Earth!” — new text: an article from a travel guide about Dubai; writing a tourist-office brochure | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 6, Lesson 3, printed p.75 |
 
-**Acceptance count: taught in 10 countries (Armenia,
+**Acceptance count: taught in 11 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam, Indonesia, India).** India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+Sudan, Vietnam, Indonesia, India, Greece).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
