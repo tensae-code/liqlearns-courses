@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka, Haiti, Nigeria, Zimbabwe, Moldova, Bahamas
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka, Haiti, Nigeria, Zimbabwe, Moldova, Bahamas, Jamaica
 
 Every part traces to its book and page.
 
@@ -226,3 +226,20 @@ The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDF
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.
+
+## Jamaica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs — **17 books: 10 student readers and 7 National Standards Curriculum (NSC) guides** — 636 teaching items placed, 0 already in the course; all 636 are stocked in this merge (650 provenance rows in all, counting the second homes the placements name). The 10 readers are the Ministry of Education's PESP Literacy 1-2-3 graded early readers (six at Grade 1, four at Grade 2) — genuine pupil's books, read in full, every page, their stories stocked as plot summaries only; the readers sit in textbooks.tsv under the heading “Literacy (Language Development and Literacy)” and were ruled into the English set on each book's own imprint, which states it is a student reading book of the Ministry's PESP Literacy 1-2-3 programme (diff flag F5). The 7 guides are the Ministry's official NSC curriculum guides (kind “curriculum” — the Ministry's official teaching documents): the Grades 1, 2 and 3 Integrated Studies / Language Arts / Mathematics guides (their discrete Language Arts programmes only), the Grades 4, 5 and 6 Exploratory Core guides (their Language Arts sections only — the multi-subject scope of diff flag F6) and the Grades 7–9 English Language/Literature guide. The guides are CURRICULUM EVIDENCE of what Jamaican English teaching contains, cited as the evidence kind they are: a row resting on a guide never counts Jamaica in a lesson's acceptance count; a row resting on a reader counts normally. Read depth, as the placements declare it: Books 1–4 and 6 read in full from their text layers, unit by unit; Book 5 read at Scope & Sequence + unit introduction + closing objectives depth, cross-checked across those three apparatuses for every unit; Book 7 at REDUCED depth, declared in its book entry below; Books 8–17 read in full, every page. The rows below are stocked from the expansion placements (jamaica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 5:** *National Standards Curriculum Guide, Grade 4: The Exploratory Core — Language Arts, Mathematics, Science & Social Studies* — Jamaica, Ministry of Education, Youth and Information (2018). CURRICULUM EVIDENCE ONLY — the Ministry's official Grade 4 curriculum guide, not a pupil's book. 370 pp; scope is the Language Arts section only (printed pp.11–103) — the Mathematics, Science and Social Studies sections of the same guide (printed pp.104–358) are other subjects and are cited nowhere. Placements are taken from the per-unit Scope and Sequence, cross-checked against each unit's introduction and closing objectives list. Printed page = PDF page − 12 in the Language Arts section; pages cited are printed pages (Scope and Sequence pages are named as such). Book error carried: E11 the table of contents (printed p.iv) lists the Language Arts Term 3 as a single unit while the Mathematics contents in the same table restart page numbering mid-list, and the Language Arts Term 3 unit itself is headed with no unit number — a labelling inconsistency, content unaffected.
+
+**Book 6:** *National Standards Curriculum Guide, Grade 6: The Exploratory Core — Language Arts, Mathematics, Science & Social Studies* — Jamaica, Ministry of Education, Youth and Information (2018). CURRICULUM EVIDENCE ONLY — the Ministry's official Grade 6 curriculum guide, not a pupil's book. 373 pp; scope is the Language Arts section only, on the same basis as Book 5 — placements from the per-unit Scope and Sequence, cross-checked against each unit's introduction and closing learning-outcomes list. Printed page = PDF page − 12 in the Language Arts section; pages cited are printed pages (Scope and Sequence pages are named as such). Book error carried: E12 the Scope and Sequence, Communication strand (printed p.10), Term 1 Unit 1 column prints “dentify” for “Identify”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use reflexive pronouns correctly (item 403) | Jamaica — *NSC Guide, Grade 4 Exploratory Core* (MoEYI 2018) — curriculum evidence, Scope and Sequence, printed p.9 |
+| Use singular and plural reflexive pronouns in sentences (item 458) | Jamaica — *NSC Guide, Grade 6 Exploratory Core* (MoEYI 2018) — curriculum evidence, Scope and Sequence, printed p.9 |
+
+Jamaica enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Jamaica row in this lesson rests on an NSC curriculum guide, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.

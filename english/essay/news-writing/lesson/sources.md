@@ -1,6 +1,6 @@
 # Sources — News writing
 
-countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Vietnam, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Andorra, Dominican Republic, Colombia, Philippines, Honduras, Cuba, Bahamas
+countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Vietnam, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Andorra, Dominican Republic, Colombia, Philippines, Honduras, Cuba, Bahamas, Jamaica
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 12 (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) with The Nippon Foundation / Education Support Center 'KIZUNA', first printing 2023, no ISBN printed. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
@@ -681,3 +681,17 @@ The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDF
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.
+
+## Jamaica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs — **17 books: 10 student readers and 7 National Standards Curriculum (NSC) guides** — 636 teaching items placed, 0 already in the course; all 636 are stocked in this merge (650 provenance rows in all, counting the second homes the placements name). The 10 readers are the Ministry of Education's PESP Literacy 1-2-3 graded early readers (six at Grade 1, four at Grade 2) — genuine pupil's books, read in full, every page, their stories stocked as plot summaries only; the readers sit in textbooks.tsv under the heading “Literacy (Language Development and Literacy)” and were ruled into the English set on each book's own imprint, which states it is a student reading book of the Ministry's PESP Literacy 1-2-3 programme (diff flag F5). The 7 guides are the Ministry's official NSC curriculum guides (kind “curriculum” — the Ministry's official teaching documents): the Grades 1, 2 and 3 Integrated Studies / Language Arts / Mathematics guides (their discrete Language Arts programmes only), the Grades 4, 5 and 6 Exploratory Core guides (their Language Arts sections only — the multi-subject scope of diff flag F6) and the Grades 7–9 English Language/Literature guide. The guides are CURRICULUM EVIDENCE of what Jamaican English teaching contains, cited as the evidence kind they are: a row resting on a guide never counts Jamaica in a lesson's acceptance count; a row resting on a reader counts normally. Read depth, as the placements declare it: Books 1–4 and 6 read in full from their text layers, unit by unit; Book 5 read at Scope & Sequence + unit introduction + closing objectives depth, cross-checked across those three apparatuses for every unit; Book 7 at REDUCED depth, declared in its book entry below; Books 8–17 read in full, every page. The rows below are stocked from the expansion placements (jamaica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** *National Standards Curriculum Guide, Grade 2: Integrated Studies / Language Arts / Mathematics* — Jamaica, Ministry of Education, Youth and Information (2018). CURRICULUM EVIDENCE ONLY — the Ministry's official Grade 2 curriculum guide, not a pupil's book. 403 pp; scope is the discrete Language Arts programme only, on the same basis as Book 2. Printed page = PDF page − 33 within the programme; pages cited are printed pages. Read in full in the 2026-11-10 expansion read. Book error carried, taught corrected: E9 the Term 3 grammar objectives (printed p.222) head one item “Substitute nouns in subject position with possessive subject pronouns (plural): ours, yours, theirs” — ours, yours and theirs are possessive pronouns, not subject pronouns.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Report orally on an incident you observed or discussed (item 279) | Jamaica — *NSC Guide, Grade 2* (MoEYI 2018) — curriculum evidence, printed p.214 |
+
+Jamaica enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Jamaica row in this lesson rests on an NSC curriculum guide, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.

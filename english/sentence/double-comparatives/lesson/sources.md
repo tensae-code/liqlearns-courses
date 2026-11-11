@@ -1,6 +1,6 @@
 # Sources — Double comparatives
 
-countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia, Uganda, Andorra, Cuba
+countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia, Uganda, Andorra, Cuba, Jamaica
 
 Every part traces to its book and page.
 
@@ -109,3 +109,17 @@ The 2026-11-10 expansion read read Cuba's in-hand English set from the PDFs — 
 Cuba is new to this lesson as evidence only: the countries line above was updated; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cuba-placements.md.
+
+## Jamaica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs — **17 books: 10 student readers and 7 National Standards Curriculum (NSC) guides** — 636 teaching items placed, 0 already in the course; all 636 are stocked in this merge (650 provenance rows in all, counting the second homes the placements name). The 10 readers are the Ministry of Education's PESP Literacy 1-2-3 graded early readers (six at Grade 1, four at Grade 2) — genuine pupil's books, read in full, every page, their stories stocked as plot summaries only; the readers sit in textbooks.tsv under the heading “Literacy (Language Development and Literacy)” and were ruled into the English set on each book's own imprint, which states it is a student reading book of the Ministry's PESP Literacy 1-2-3 programme (diff flag F5). The 7 guides are the Ministry's official NSC curriculum guides (kind “curriculum” — the Ministry's official teaching documents): the Grades 1, 2 and 3 Integrated Studies / Language Arts / Mathematics guides (their discrete Language Arts programmes only), the Grades 4, 5 and 6 Exploratory Core guides (their Language Arts sections only — the multi-subject scope of diff flag F6) and the Grades 7–9 English Language/Literature guide. The guides are CURRICULUM EVIDENCE of what Jamaican English teaching contains, cited as the evidence kind they are: a row resting on a guide never counts Jamaica in a lesson's acceptance count; a row resting on a reader counts normally. Read depth, as the placements declare it: Books 1–4 and 6 read in full from their text layers, unit by unit; Book 5 read at Scope & Sequence + unit introduction + closing objectives depth, cross-checked across those three apparatuses for every unit; Book 7 at REDUCED depth, declared in its book entry below; Books 8–17 read in full, every page. The rows below are stocked from the expansion placements (jamaica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 4:** *National Standards Curriculum Guide, Grade 3: Integrated Studies / Language Arts / Mathematics* — Jamaica, Ministry of Education, Youth and Information (2018). CURRICULUM EVIDENCE ONLY — the Ministry's official Grade 3 curriculum guide, not a pupil's book. 474 pp; scope is the discrete Language Arts programme only, on the same basis as Book 2. Printed pages are taken from each page's own footer (unnumbered divider pages make the PDF-to-printed offset drift between units: −37 in Term 1, −40/−43/−46 later in the book). Read in full in the 2026-11-10 expansion read. Book error carried: E10 the copy's text layer carries accumulating stray numbers from stacked page furniture; the placements cite the number printed at the foot of each strand's first page, cross-checked against the unit sequence.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Compare with adjectives: -er for two things, -est for more than two, and the irregular comparison adjectives that break the rule (item 298) | Jamaica — *NSC Guide, Grade 3* (MoEYI 2018) — curriculum evidence, printed p.164 |
+
+Jamaica enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Jamaica row in this lesson rests on an NSC curriculum guide, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.

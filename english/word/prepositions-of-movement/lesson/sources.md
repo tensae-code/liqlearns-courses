@@ -1,6 +1,6 @@
 # Sources — Prepositions of Movement
 
-countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Haiti, Singapore, Moldova, Costa Rica, Cuba
+countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Haiti, Singapore, Moldova, Costa Rica, Cuba, Jamaica
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions of movement and place — around, into, out of, through | Albania, Akelius A2 Guide, Chapter 38 "Nature," grammar focus, printed p.48 (PDF 51) |
 | The movement words at work in the chapter's own example: "walking through the forest" | Albania, Chapter 38, printed p.48 (PDF 51) |
 
-**Acceptance count: taught in 11 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Moldova, Costa Rica, Cuba).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cuba joins with the Cuba rows stocked below (stocked 2026-11-11 by the Cuba expansion merge).
+**Acceptance count: taught in 12 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Moldova, Costa Rica, Cuba, Jamaica).** Jamaica joins with the Jamaica rows stocked below (stocked 2026-11-11 by the Jamaica expansion merge). Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cuba joins with the Cuba rows stocked below (stocked 2026-11-11 by the Cuba expansion merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -227,3 +227,17 @@ The 2026-11-10 expansion read read Cuba's in-hand English set from the PDFs — 
 Cuba is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cuba-placements.md.
+
+## Jamaica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs — **17 books: 10 student readers and 7 National Standards Curriculum (NSC) guides** — 636 teaching items placed, 0 already in the course; all 636 are stocked in this merge (650 provenance rows in all, counting the second homes the placements name). The 10 readers are the Ministry of Education's PESP Literacy 1-2-3 graded early readers (six at Grade 1, four at Grade 2) — genuine pupil's books, read in full, every page, their stories stocked as plot summaries only; the readers sit in textbooks.tsv under the heading “Literacy (Language Development and Literacy)” and were ruled into the English set on each book's own imprint, which states it is a student reading book of the Ministry's PESP Literacy 1-2-3 programme (diff flag F5). The 7 guides are the Ministry's official NSC curriculum guides (kind “curriculum” — the Ministry's official teaching documents): the Grades 1, 2 and 3 Integrated Studies / Language Arts / Mathematics guides (their discrete Language Arts programmes only), the Grades 4, 5 and 6 Exploratory Core guides (their Language Arts sections only — the multi-subject scope of diff flag F6) and the Grades 7–9 English Language/Literature guide. The guides are CURRICULUM EVIDENCE of what Jamaican English teaching contains, cited as the evidence kind they are: a row resting on a guide never counts Jamaica in a lesson's acceptance count; a row resting on a reader counts normally. Read depth, as the placements declare it: Books 1–4 and 6 read in full from their text layers, unit by unit; Book 5 read at Scope & Sequence + unit introduction + closing objectives depth, cross-checked across those three apparatuses for every unit; Book 7 at REDUCED depth, declared in its book entry below; Books 8–17 read in full, every page. The rows below are stocked from the expansion placements (jamaica-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 8:** *Harriet Hen and the Hawk* (Literacy 1-2-3 early reader, Grade 1; Patricia E. Cuff; ISBN 978-976-639-054-9; 1,210,233 bytes) — Jamaica, Ministry of Education, PESP Literacy 1-2-3 (first published 2007 under the Primary Education Support Project, to support the national literacy strategy for Grades 1–3; revised 2012/2013). Pupil's book — a graded early reader used to teach reading. 24 pp; printed page = PDF page. Read in full, every page, in the 2026-11-10 expansion read; the story is stocked as plot summary only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of movement and place on the farm walk: under, past, through, beside (item 463) | Jamaica — *Harriet Hen and the Hawk* (Literacy 1-2-3 reader, Grade 1), printed pp.7–9 |
+
+**Counting for this lesson: Jamaica is counted** — 1 of its rows here rests on pupil's books (the Literacy 1-2-3 readers named above); its remaining rows rest on NSC curriculum guides and are curriculum evidence, labelled as such in the table. The countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.

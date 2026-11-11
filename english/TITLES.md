@@ -314,6 +314,12 @@ its own subtitle folder with its own lesson + questions):
   commas-colons-and-semicolons (added 2026-11-11 by
   the Bahamas expansion merge — **Unit 10, Building a
   Sentence**) ·
+  the-ellipsis (added 2026-11-11 by the Jamaica
+  expansion merge — **Unit 10, Building a
+  Sentence**) ·
+  inserted-phrases (added 2026-11-11 by the Jamaica
+  expansion merge — **Unit 10, Building a
+  Sentence**) ·
   inversion (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 18, Deeper Sentences**) ·
   the-subjunctive (added 2026-11-11 by the Tunisia
