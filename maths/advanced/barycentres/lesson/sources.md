@@ -1,6 +1,6 @@
 # Sources — Barycentres
 
-countries: Mauritania, Laos, Syria, Rwanda, Bolivia, Belarus, Brazil
+countries: Mauritania, Laos, Syria, Rwanda, Bolivia, Belarus, Brazil, Gabon
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | The centroid (barycentre) of a set of points in 3D | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 8, printed pp. 268–270 |
 | Baricentro: construction procedure (midpoints, join to opposite vertices) and its reading as centre of gravity of the triangle | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 125 |
 
-**Acceptance count: taught in 7 countries (Mauritania, Laos, Syria, Rwanda, Bolivia, Belarus, Brazil).** Mauritania carries the barycentre as a chapter of its own in four senior streams — 5AS-M (Ch.6, p.57), 5AS-D (Ch.6, p.47), 6AS-M (Ch.4, p.51, titled for the general system of weighted points) and 6AS-C (Ch.4, p.51) — cited at chapter level as filed. Laos carries the full working treatment in Grade 11 Chapter 9 (pp.249–260): the barycentre of two points (L33, p.249), then of a system of points (L34, p.254), with the vector condition α·GA + β·GB + γ·GC = 0 and the weighted coordinate formula the book itself prints on its cover.
+**Acceptance count: taught in 8 countries (Mauritania, Laos, Syria, Rwanda, Bolivia, Belarus, Brazil, Gabon).** Mauritania carries the barycentre as a chapter of its own in four senior streams — 5AS-M (Ch.6, p.57), 5AS-D (Ch.6, p.47), 6AS-M (Ch.4, p.51, titled for the general system of weighted points) and 6AS-C (Ch.4, p.51) — cited at chapter level as filed. Laos carries the full working treatment in Grade 11 Chapter 9 (pp.249–260): the barycentre of two points (L33, p.249), then of a system of points (L34, p.254), with the vector condition α·GA + β·GB + γ·GC = 0 and the weighted coordinate formula the book itself prints on its cover.
 
 Rwanda teaches the barycentre in Advanced Mathematics Senior Five Unit 8, as the centroid of a set of points in 3D.
 
@@ -66,3 +66,17 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Gabon added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Gabon's whole in-hand Maths set from the PDFs — **17 documents: 6 pupil textbooks (the CIAM *Mathématiques* volumes for 6e, 5e, 4e, 2e Scientifique, 1re SM and 1re Littéraire, EDICEF), 6 teacher guides (the *Super Efficace* guides pédagogiques for 1re–5e année, EDIG/EDICEF, and the CIAM *Mathématiques 2e S* guide pédagogique) and 5 curriculum documents (the IPN *Curriculum Mathématiques* for 1re–5e année)** — every file grabbed fresh for the read, its byte size and page count matching the records exactly and its identity proved from cover/title/sommaire pages — and placed 522 items: 83 pupil-textbook teaching items, 389 teacher-evidence items and 50 curriculum-requirement items. The expansion map's total of 17 files is right but its split is wrong in kind (the read's flagged claim F1): the map lists “11 student + 6 teacher”, counting the 5 IPN curriculum PDFs among the student books; the true split is 6 pupil textbooks + 6 teacher guides + 5 curriculum documents. **No *Super Efficace* pupil book is in hand at any primary grade** — the primary pupil books are print-only commercial (EDIG) and were never secured, so Gabon's primary coverage is the IPN curriculum plus the teacher guide for each year; each guide teaches every lesson of the absent pupil book and cites its pages, and the guide rows below cite both the guide page and the pupil-book page the guide gives. There are no partial volumes and no duplicates in the set: every CIAM scan runs from its first chapter to its own index at the sommaire's stated page (the 6e scan opens at printed p. 3 — the cover and title leaves are not in the scan, but all teaching content is present, printed pp. 3–222 = the PDF's 220 pages exactly). The two misleading historic Drive filenames are settled by the books' own title pages: the file named “2nde SM” is the CIAM 2e Scientifique pupil book, and the file named “2nde C” is its 2e S Guide pédagogique. Link-only CIAM volumes (3e, Terminale SM/SE and their guides) are not in hand and are cited nowhere. Counting grain: one curriculum item per palier × compétence statement; one guide item per lesson the guide teaches; one pupil item per sommaire chapter. Book errors are carried corrected where they land: the Curriculum 2e année, Compétence 2, Palier 1 prints “le passionnément des objets l'espace”, a typo for “positionnement” (positioning of objects in space), and is stocked corrected; the Curriculum 3e année, Compétence 1, Palier 2 states “nombres de 1001 à 1999 (0 à 1999)” — the parenthetical contradicts the main range, and the statement is stocked by its main range; the CIAM 4e index spells PPMC as “PPCM” (trivial, noted for the record). The placements' named exclusions — the guides' remediation/application apparatus between paliers; the curricula's front matter and framework apparatus (rationale, timetables, competency-framework and assessment sections); the CIAM pupil books' end-of-chapter exercise sets, préfaces, authors' letters and closing indexes; the 2e S pupil book's Greek-alphabet page; the 2e S guide's synoptic programme tables — are stocked nowhere. Gabon COUNTS in this lesson's taught-in figure on the strength of its pupil-textbook rows. Into this lesson the placements stock 1 item (1 pupil-textbook) from Book 1.
+
+**Book 1:** *Mathématiques 1re SM* — Collection Inter-Africaine de Mathématiques (CIAM), livre de l'élève (pupil textbook) — EDICEF; 49,969,733 bytes, 322 PDF pp. Chapter pages are the sommaire's printed pages (sommaire on PDF p. 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 1 “Barycentre” — the barycentre: barycentre of two and three points, associativity | Gabon — *CIAM Mathématiques 1re SM* (pupil textbook), ch. 1, printed p. 5 |
+
+Gabon is added to the countries line and to the acceptance count above on its pupil-textbook rows. Gabon's class for Maths is **COURSES-CLOSED for the in-hand set**, with the pupil-coverage caveat recorded above: no primary pupil book is in hand — primary coverage rests on the IPN curricula and the *Super Efficace* teacher guides.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/gabon-placements.md.
