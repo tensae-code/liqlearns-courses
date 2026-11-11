@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -128,8 +128,8 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs — set the table, wash the dishes, pour, serve | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.53–55 |
 | Phrasal verbs and idioms, in the Major Shabbir Sharif Shaheed unit (with adjective types, pronoun-antecedent agreement, gerund and participle) | Pakistan, *English 6*, Unit 4 (contents) |
 
-**Acceptance count: taught in 13 countries (Bolivia,
-Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq).** Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 14 countries (Bolivia,
+Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia).** Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and
@@ -226,3 +226,29 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Phrasal verbs connected to communication and technology | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
 | The phrasal verbs set (the unit's lexical area) | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relationships: how to keep good relationships; phrasal verbs with “get” | Armenia — *English, Grade 6 Student's Book*, Unit 1 — People Around Us, printed pp.21–23 |
+| Health collocations; phrasal verbs with “look” — the phrasal-verb side of the same lessons | Armenia — *English, Grade 6 Student's Book*, Unit 3 — Lifestyle Choices, printed pp.84–87 |
+| Phrasal verbs, and describing people's behaviour in an emergency | Armenia — *English, Grade 9 Student's Book*, Unit 3 — Disasters, printed pp.67–68 |
+| Phrasal verbs for talking about diplomacy | Armenia — *English, Grade 11 Student's Book*, Unit 5 — History, printed pp.145–148 |
+| Separable and inseparable phrasal verbs | Armenia — *English, Grade 10 Student's Book*, Unit 1 — My Identity, printed p.4 |
+| Phrasal verbs on the volunteering topic | Armenia — *English, Grade 12 Student's Book*, Topic 4 — Volunteering, printed p.101 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

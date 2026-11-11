@@ -1,6 +1,6 @@
 # Sources — Translating well
 
-countries: Bolivia, India, Pakistan, Sierra Leone, Venezuela
+countries: Bolivia, India, Pakistan, Sierra Leone, Venezuela, Armenia
 
 Every part traces to its book and page.
 
@@ -25,7 +25,7 @@ verification sweep.
 | A translation chapter that builds the bridge piece by piece: question words, the conjugation of verbs, introductory it and there, is/am/are/was/were, has/have, had | Pakistan, *English Grammar & Composition 9–10*, printed pp.57–73 |
 | Paragraphs set as translation practice | Pakistan, *English Grammar & Composition 9–10*, printed p.137 |
 
-**Acceptance count: taught in 5 countries (Bolivia, India, Pakistan, Sierra Leone, Venezuela).** India joins with two translations of a poem's beginning compared, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). A single source, stated plainly: Bolivia's Year 6 compendium is the only book in the whole read set that teaches translation. Its principle — word-for-word rarely applicable; structure, grammatical categories and word order decide — and its production task (two real newspaper articles, translated by the guidelines and read in class) are the whole of this lesson's stock, and nothing has been padded from anywhere else.
+**Acceptance count: taught in 6 countries (Bolivia, India, Pakistan, Sierra Leone, Venezuela, Armenia).** India joins with two translations of a poem's beginning compared, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). A single source, stated plainly: Bolivia's Year 6 compendium is the only book in the whole read set that teaches translation. Its principle — word-for-word rarely applicable; structure, grammatical categories and word order decide — and its production task (two real newspaper articles, translated by the guidelines and read in class) are the whole of this lesson's stock, and nothing has been padded from anywhere else.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its translation chapter builds the bridge piece by piece — question words, verb conjugation, introductory it and there, is/am/are/was/were, has/have, had (printed pp.57–73) — and its later paragraphs are set as translation practice (printed p.137).
 
@@ -53,3 +53,16 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | False friends and cognates — the look-alike words between Spanish and English, English carried by its false friends | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 9, student printed pp.72–79 (guide plan printed p.60) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Translation: what translators do, types of translation, St Translators' Day (readings) | Armenia — *English, Grade 12 Student's Book*, Topic 2 — The Art of Translation, printed p.33 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -151,8 +151,8 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 17 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 18 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -311,3 +311,27 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Car vocabulary — airbags, Bluetooth connection, electric windows, GPS, sunroof, tinted windows | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, Lesson 3 "Car of the Year!", printed p.7 |
 | Science and technology vocabulary; collocations | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 7 "Science and technology" (book map, printed pp.2–3) |
 | Words for describing machines and technology; words used in written instructions; text-message abbreviations | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Inventions vocabulary (invention, innovation, discovery, patent, pioneer; innovative, cutting-edge; AI, VR, R&D, IP, ATM) | Armenia — *English, Grade 7 Student's Book*, Unit 6 — I Value the Importance of Inventions, printed p.124 |
+| Virtual travel and virtual reality | Armenia — *English, Grade 8 Student's Book*, Topic 3 — Around the World, printed p.64 |
+| Types of media; the evolution of media; media literacy | Armenia — *English, Grade 8 Student's Book*, Topic 5 — Media and Information, printed p.105 |
+| Media in education; rules for using media | Armenia — *English, Grade 8 Student's Book*, Topic 5 — Media and Information, printed p.122 |
+| Inventions in the world of medicine and their impact (listening) | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.41–42 |
+| Science words; archaeology | Armenia — *English, Grade 10 Student's Book*, Unit 5 — I Am a Man of Science, printed p.110 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

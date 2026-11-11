@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -119,8 +119,8 @@ differ only in cover wording and colophon; cited once.
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
 | One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 18 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq).** Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 19 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -237,3 +237,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | used to + infinitive for past habits | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 |
 | Past habitual tense (used to) | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Past simple against "used to" (the unit's comparison) | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “to be used to / to get used to” | Armenia — *English, Grade 9 Student's Book*, Unit 3 — Disasters, printed pp.61–63 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

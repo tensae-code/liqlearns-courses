@@ -1,6 +1,6 @@
 # Sources — Advertisements and posters
 
-countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq
+countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -77,7 +77,7 @@ verification sweep.
 | Help wanted — job advertisements, reading and writing them | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 1 |
 | Help wanted — job ads, with finding the main idea of a text | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3B, PDF p.90 |
 
-**Acceptance count: taught in 14 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -204,3 +204,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Making a poster | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
 | Reading and writing advertisements | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
 | Producing a poster to persuade readers; writing a description of a place | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverts in our life | Armenia — *English, Grade 8 Student's Book*, Topic 5 — Media and Information, printed p.113 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

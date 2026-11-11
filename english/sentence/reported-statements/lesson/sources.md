@@ -311,3 +311,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Reported speech (the health unit's grammar) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 6 (book map, printed pp.2–3) |
 | Reported speech (the media unit's grammar) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 6 (book map, printed pp.4–5) |
 | Writing in reported speech | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 3 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Direct and reported (indirect) speech (the unit's Grammar Spot) | Armenia — *English, Grade 7 Student's Book*, Unit 1 — Me in the World, printed p.7 |
+| Reported speech: statements (the writing point) | Armenia — *English, Grade 8 Student's Book*, Topic 5 — Media and Information, printed p.120 |
+| Reported speech and reporting verbs (with the film “Dead Poets Society”) | Armenia — *English, Grade 9 Student's Book*, Unit 4 — Books and Movies, printed pp.85–90 |
+| Reported speech and reporting verbs (with the history of medicine) | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.43–47 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Personal statements and proposals
 
-countries: Jordan, Greece, Egypt, Palestine, Yemen, Iraq
+countries: Jordan, Greece, Egypt, Palestine, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -33,8 +33,8 @@ still owed).
 | A formal proposal as a taught genre: 130–180 words, with register teaching, in the senior book's writing spine | Greece, Αγγλικά 2, Grades 11–12, Unit 6, Writing (unit printed pp.81–100; the proposal in the unit's writing work, as filed) |
 | The personal statement/objective as a named CV section of 2–3 sentences — the statement's seed inside the CV | Egypt, Secondary 10 Term 1, Unit 6, Lesson 5 (as filed in EGYPT-BOOK-MAP.md) |
 
-**Acceptance count: taught in 6 countries (Jordan,
-Greece, Egypt, Palestine, Yemen, Iraq).** Yemen joins with writing about your own future in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Jordan teaches both pieces with full
+**Acceptance count: taught in 7 countries (Jordan,
+Greece, Egypt, Palestine, Yemen, Iraq, Armenia).** Yemen joins with writing about your own future in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Jordan teaches both pieces with full
 models — the statement at Grade 10 with its tips box, the
 proposal at Grade 12 in its three named sections; Greece
 teaches the formal proposal at a counted length with
@@ -78,3 +78,21 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Project 1: My first day at school (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 (book map, printed pp.2–3) |
 | Planning and writing a career plan (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 6 (book map, printed pp.2–3) |
 | Writing paragraphs about eating habits, lifestyle and possible future events; writing about a future school event | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 6 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The power of autonomous learning; talking and writing about a dream school and a good learning environment | Armenia — *English, Grade 9 Student's Book*, Unit 1 — Education, printed pp.21–24 |
+| Unusual jobs around the world; seven steps to finding your ideal career path — the career-path side of the same readings | Armenia — *English, Grade 9 Student's Book*, Unit 6 — Choices and Decisions, printed pp.146–155 |
+| Success: what it is, “Never Give Up” and “Can We Make Our Own Luck?” (readings), talking about your own path | Armenia — *English, Grade 12 Student's Book*, Topic 5 — A Path to Success, printed p.102 |
+| Setting future goals: SMART goals (specific, measurable, attainable, relevant, timely) | Armenia — *English, Grade 12 Student's Book*, Topic 6 — Steps to Pursue the Future, printed p.121 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

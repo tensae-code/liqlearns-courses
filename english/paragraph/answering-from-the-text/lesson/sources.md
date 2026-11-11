@@ -869,3 +869,51 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Reading information presented graphically — charts and tables | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 1 |
 | Comparing the school year and weather in Iraq and England; life in a cold country; a cold-weather sport | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 2 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 3:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| National festivals (Thanksgiving, Pancake Day and Armenian festivals) — speaking/reading | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 1 — Countries and Nationalities, printed p.35 |
+| Teo's typical day — a present-simple reading text about a day | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 2 — My Routine, printed p.58 |
+| Hobby readings: what a hobby is; types of hobbies; “Mary's Hobby” | Armenia — *English, Grade 5 Student's Book*, Topic 1 — Hobbies, printed p.6 |
+| Job readings: a girl who feeds birds, Brian's job, Susan's job — short people-and-their-work texts | Armenia — *English, Grade 5 Student's Book*, Topic 2 — Jobs and Occupations, printed p.29 |
+| Travel vs trip; a trip around Armenia — the reading side of the same lesson | Armenia — *English, Grade 5 Student's Book*, Topic 4 — Travelling, printed p.88 |
+| Cultural, historical and natural sites in the USA, the UK, Canada, Australia and New Zealand (readings) | Armenia — *English, Grade 6 Student's Book*, Unit 6 — Exploring English Across English-Speaking Lands, printed pp.156–163 |
+| Readings on the history of paper and on the Stradivari violins | Armenia — *English, Grade 7 Student's Book*, Unit 2 — My Interests, printed p.47 |
+| Reading: “The Beauty of True Friendship” | Armenia — *English, Grade 8 Student's Book*, Topic 1 — Friendship, printed p.6 |
+| Place readings: exciting places in England; New York City and the Statue of Liberty | Armenia — *English, Grade 8 Student's Book*, Topic 3 — Around the World, printed pp.58–74 |
+| Rights heroes: Martin Luther King Jr. and Nelson Mandela — the reading side of the same spread; standing up against discrimination | Armenia — *English, Grade 8 Student's Book*, Topic 6 — Human Rights, printed p.140 |
+| Reading: different models of schooling | Armenia — *English, Grade 9 Student's Book*, Unit 1 — Education, printed pp.16–17 |
+| UNESCO and preserving cultural heritage (listening/reading); the traditional dance Kochari | Armenia — *English, Grade 9 Student's Book*, Unit 2 — Culture, printed pp.34–40 |
+| Reading: the ecological impact of the 1988 Spitak earthquake | Armenia — *English, Grade 9 Student's Book*, Unit 3 — Disasters, printed pp.70–72 |
+| Reading: the historical origins of constitutional principles; the Armenian and US constitutions | Armenia — *English, Grade 9 Student's Book*, Unit 5 — Law, printed pp.125–129 |
+| Reading: teen entrepreneurs — why become a teen entrepreneur? | Armenia — *English, Grade 11 Student's Book*, Unit 1 — Professions, printed pp.19–21 |
+| Reading: Armenian physicians who shaped the history of medicine (gapped text) — the reading side of the same text | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.48–52 |
+| The US system of government (listening) | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.104–105 |
+| Armenia during the Hellenistic period (listening) | Armenia — *English, Grade 11 Student's Book*, Unit 5 — History, printed pp.136–137 |
+| Reading: challenges of living and working in space (matching titles) | Armenia — *English, Grade 11 Student's Book*, Unit 6 — Space, printed pp.176–179 |
+| Reading: major American culture and values | Armenia — *English, Grade 10 Student's Book*, Unit 1 — My Identity, printed p.12 |
+| Reading: the Mayan civilisation | Armenia — *English, Grade 10 Student's Book*, Unit 4 — Mysteries Captivate Me, printed p.102 |
+| Science readings, including the preserved-body text “Lindow Man”, with pronoun-reference work | Armenia — *English, Grade 10 Student's Book*, Unit 5 — I Am a Man of Science, printed p.119 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia
 
 Every part traces to its book and page.
 
@@ -59,8 +59,8 @@ verification sweep.
 | The formal letter in the Young Boy's Adventure unit | Pakistan, *English 7*, Unit 10 (contents) |
 | Formal letters set against informal letters, worked on the survey report's letter — addressed to the Managing Director, PCTB, though its rubric names the Director of Education (the book's own mismatch, noted) | Pakistan, *English 8*, printed p.122 |
 
-**Acceptance count: taught in 10 countries (Greece,
-Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan).** India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
+**Acceptance count: taught in 11 countries (Greece,
+Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia).** India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
 reference before its course begins; Sudan opens its final
 book with official/business letters and later sets formal
 against informal in one writing lesson; Laos diagrams the
@@ -218,3 +218,16 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Formal email writing | Armenia — *English, Grade 9 Student's Book*, Unit 5 — Law, printed pp.131–133 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

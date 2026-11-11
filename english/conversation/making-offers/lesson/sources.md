@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -68,8 +68,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 11 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
-Mauritania, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
+**Acceptance count: taught in 12 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -172,3 +172,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | "What would you like to (do)? I'd like to…" | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 |
 | Making offers and promises (inside the celebrations unit's functions) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
 | Making offers with shall; "would you like me (+ infinitive)" | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “I would like…” (would like = 'd like) for wanting and buying | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.88 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

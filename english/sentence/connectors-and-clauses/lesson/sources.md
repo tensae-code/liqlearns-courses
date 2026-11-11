@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -162,10 +162,10 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya,
+**Acceptance count: taught in 20 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya,
 Indonesia, India, Greece, Mongolia, North Macedonia,
 Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan,
-Sudan, Yemen, Iraq).** Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+Sudan, Yemen, Iraq, Armenia).** Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -380,3 +380,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Adverbs/adverbial phrases expressing result and reason | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 6 (book map, printed pp.4–5) |
 | Linking words and phrases (the Student's Book's own treatment) | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
 | Connector teaching inside the Activity Book's own writing lessons — the year's only explicit connector teaching | Iraq — *English for Iraq*, Grade 12 Activity Book, Activity Book writing lessons |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Connecting words | Armenia — *English, Grade 6 Student's Book*, Unit 6 — Exploring English Across English-Speaking Lands, printed pp.159–161 |
+| Cause-and-effect statements (writing: cause → effect, reason → result) | Armenia — *English, Grade 8 Student's Book*, Topic 1 — Friendship, printed p.21 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

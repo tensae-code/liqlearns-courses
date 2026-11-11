@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -192,9 +192,9 @@ re-verification sweep.
 | Relative clauses with where and when | Mongolia, English XII, Unit 4, printed pp.71–72 |
 | Relative clauses with that after superlatives and indefinite words | Mongolia, English XII, Unit 4, printed p.74 |
 
-**Acceptance count: taught in 20 countries (Cambodia,
+**Acceptance count: taught in 21 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq).** Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -310,3 +310,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Defining relative clause with who | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 |
 | Defining relative clauses with who, which, that | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 6 (book map, printed pp.2–3) |
 | Defining relative clauses (the leisure unit's grammar) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 "Leisure" (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Defining and non-defining relative clauses | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.37–40 |
+| Defining and non-defining relative clauses | Armenia — *English, Grade 10 Student's Book*, Unit 1 — My Identity, printed p.25 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

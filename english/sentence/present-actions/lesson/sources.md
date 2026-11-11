@@ -711,3 +711,27 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | have for possession, set against the earlier have-questions — 'She doesn't have a car. She has a house.' — with the home-possessions word set | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 15, student printed pp.122–129 (guide plan printed p.87) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 3:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Things I do for fun — free-time activities (writing) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 1 — Countries and Nationalities, printed p.32 |
+| Nare's weekend — weekend activities | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 2 — My Routine, printed p.60 |
+| My hobbies (go cycling / swimming / singing / drawing, jogging, chess, football, climbing, taking photos) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 2 — My Routine, printed p.68 |
+| Present simple vs present continuous (the Topic 1, Unit 2 writing point) | Armenia — *English, Grade 5 Student's Book*, Topic 1 — Hobbies, printed p.17 |
+| Present continuous for future plans | Armenia — *English, Grade 6 Student's Book*, Unit 4 — Holidays, printed pp.105–108 |
+| Present simple for timetables and schedules (a future meaning) | Armenia — *English, Grade 7 Student's Book*, Unit 4 — Present, Past, Future, printed p.84 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

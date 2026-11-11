@@ -253,3 +253,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Articles a, an, the, zero article | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 6 (book map, printed pp.2–3) |
 | Articles with names of places (the Alps, but Saudi Arabia) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Determiners (taught with the quantifiers) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| some / any / a / an (the Topic 3, Unit 1 writing point) — the a / an side of the same point | Armenia — *English, Grade 5 Student's Book*, Topic 3 — Community, printed p.53 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

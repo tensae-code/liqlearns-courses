@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -102,9 +102,9 @@ verification sweep.
 | Personification named and defined as a poetic literary device — "Personification is a poetic literary device" | Pakistan, *English 7*, Unit 9, printed p.79 |
 | Literary devices as the unit's grammar work (the key to its spot-the-error exercise is printed on the same page) | Pakistan, *English 12*, Unit 9, printed p.71 |
 
-**Acceptance count: taught in 17 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
+**Acceptance count: taught in 18 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
 Mauritania, Mexico, India, Greece, Nicaragua, Pakistan,
-Rwanda, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Literature Focus drama terms (Grade 11) and "The Swing" discussion (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge).
@@ -256,3 +256,28 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Literature Focus Section A: Drama — what drama is (director, actors, theatre, audience; tragedy and comedy) and drama in Iraq | Iraq — *English for Iraq*, Grade 11 Student's Book, Literature Focus, printed p.114 |
 | Literature Focus Section A: "The Swing" by Mohammed Khudhair — author biography and story discussion | Iraq — *English for Iraq*, Grade 12 Student's Book, Literature Focus, printed p.84 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Folklore genres; folklore proverbs and sayings | Armenia — *English, Grade 9 Student's Book*, Unit 2 — Culture, printed pp.45–48 |
+| Genres of books; fiction vs nonfiction | Armenia — *English, Grade 9 Student's Book*, Unit 4 — Books and Movies, printed pp.83–84 |
+| History-related vocabulary; the importance of studying history | Armenia — *English, Grade 11 Student's Book*, Unit 5 — History, printed pp.129–131 |
+| Art words; the benefits of art | Armenia — *English, Grade 10 Student's Book*, Unit 2 — I Am a Man of Art, printed p.34 |
+| “The Seven Ages of Man” (listening/poem) — the literary side of the same spread | Armenia — *English, Grade 10 Student's Book*, Unit 2 — I Am a Man of Art, printed p.60 |
+| American literary movements (listening) | Armenia — *English, Grade 10 Student's Book*, Unit 3 — Literary Heritage, printed p.84 |
+| Civilization words; ancient civilizations (Mesopotamia, Egypt, India, Greece, Rome, Urartu, China, the Aztecs and Incas) and how early societies developed | Armenia — *English, Grade 12 Student's Book*, Topic 1 — Civilization, printed p.4 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

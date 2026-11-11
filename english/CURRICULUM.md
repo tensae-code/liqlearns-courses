@@ -249,6 +249,19 @@ about the other person, and close the talk.*
   vocabulary of Yemen's Grade 11 Arts readers: the court set
   with the book's definitions, the Doctor Crippen story, and
   young people and the law, which no lesson housed)
+- **Sweep additions (2026-11-11, Armenia re-verification
+  sweep merge):** culture-and-heritage-words ✅ (1 lesson —
+  the culture words, cultural values and traditions of
+  Armenia's Grade 9, Unit 2, which no lesson housed) ·
+  government-and-politics-words ✅ (1 lesson — the words
+  and phrases for different political systems of Armenia's
+  Grade 11, Unit 4, which no lesson housed) ·
+  space-and-astronomy-words ✅ (1 lesson — the space-themed
+  words for astronomical occurrences of Armenia's Grade 11,
+  Unit 6, which no lesson housed) ·
+  religions-and-festivals-words ✅ (1 lesson — the world
+  religions and religious celebrations of Armenia's
+  Grade 12, Topic 3, which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -1350,6 +1363,61 @@ where their named lessons held no Iraq row (Grade 8's
 present/past continuous passive; its train-timetable
 reading). **Iraq: 34 of 34 read.** The English course
 now stands at **245 lessons across 44 units**.
+
+**Stocked by Armenia (all 17 distinct books; 18 files):**
+Armenia's held set is 10 distinct student's books —
+Grade 3 Part 1 only, Grade 4 Part 1 only, Grade 5 (one
+book held in two text states; the corrected revision B
+is the copy cited), Grades 6–12 — plus 7 teacher's
+books, which are teacher evidence only and contribute
+no learner items; the Grade 5 teacher's guide is
+link-only and out of scope, and the Grade 3 and Grade 4
+Part 2 student volumes are NOT in hand (owed gap rows)
+— nothing is cited from them. The 2026-11-03 merge had
+stocked Armenia's grammar spine and a few vocabulary
+lessons (79 of the sweep's 293 items); this merge
+stocked the remaining 214 missing items (243 provenance
+rows — dual-target items are stocked in each lesson the
+sweep names) into 88 existing lessons, and built 4 new
+lessons in Unit 7: culture-and-heritage-words,
+government-and-politics-words, space-and-astronomy-words
+and religions-and-festivals-words. Four of the sweep's
+eight new-lesson items were routed into lessons built
+since the sweep instead of duplicated (music words →
+music-words; the two human-rights items →
+diversity-and-human-rights; law words →
+law-and-crime-words), and the other four became the new
+lessons above. Separately, the Grade 10 dummy-subject
+"It" point was routed to dummy-subject-it: both sweep
+documents target building-a-sentence, written before
+that lesson existed, and the routing is noted in the
+lesson's Armenia section. The eight books' own word lists (Grade 3, 4,
+5, 6, 8, 9, 11, 12) are stocked in using-the-dictionary
+as vocabulary inventories only, on the Yemen precedent —
+not as dictionary-skills teaching, and Armenia is not
+counted in that lesson (sweep flag F6; the precedent
+this file's Rwanda block states stands for the count).
+Flags F1–F5 are verified TRUE, not errors: the Grade 10
+sequence-of-tenses Grammar Spot stands at printed p.106
+(reported-statements); the Grade 5 and Grade 8
+irregular-verb lists stand where verbs stocks them; the
+Grade 6 wheelchair-champion reading (answering-from-
+the-text), the Grade 4 Unit 1.7 capitals and joining
+points, and the Grade 7 adjective-order and -ed/-ing
+points are all in the books as the course carries them.
+Book errors are carried taught-corrected where they
+touch stocked rows (Grade 3's feelings page prints
+"anrgy" for *angry*, printed p.11 — the word is taught
+spelled correctly). Armenia's eight big-reading rows
+are short stories, episodes and extracts stocked as
+plot summaries only; none is a complete book-length
+text and Armenia does not join the complete-text
+countries. A duplicated "Indonesia, Indonesia" in
+blog-and-online-posts' countries line was removed while
+merging (the same fix the Yemen merge made in
+poetry-writing). **Armenia: 17 of 17 distinct books
+read.** The English course now stands at **249 lessons
+across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

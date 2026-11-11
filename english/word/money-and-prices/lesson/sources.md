@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 12 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq).** Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 13 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia).** Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -198,3 +198,17 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Prices in Iraqi dinars — "How much are the cakes? They're 250 IQD each" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3, printed p.38 |
 | Banking and finance vocabulary | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 6 (book map, SB pp.2–3) |
 | Words used in banking (revision set) | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jack's favourite store (reading): cheap/expensive, sale — the price words of the same reading | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.91 |
+| Nare is going shopping (speaking): prices in drams — the price words of the same lesson | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.99 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

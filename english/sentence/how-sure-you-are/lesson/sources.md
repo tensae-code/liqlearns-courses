@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -140,9 +140,9 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 18 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China,
+**Acceptance count: taught in 19 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China,
 Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua,
-Palestine, Rwanda, Sierra Leone, Sudan, Iraq).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -281,3 +281,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Adverbs and verbs to express degrees of certainty (certainly, definitely, expect) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
 | can't/mustn't/shouldn't to express prohibition | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 (book map, printed pp.4–5) |
 | must/have to to express obligation and necessity | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modal verbs: have to and be able to | Armenia — *English, Grade 6 Student's Book*, Unit 3 — Lifestyle Choices, printed pp.75–80 |
+| Modal auxiliaries: can, may, must, should, ought to — ability, permission, obligation, advice and degrees of probability | Armenia — *English, Grade 7 Student's Book*, Unit 5 — I Am a Fan of the Olympics, printed p.121 |
+| Modals of deduction | Armenia — *English, Grade 9 Student's Book*, Unit 1 — Education, printed pp.13–15 |
+| Modals of deduction and speculation about the past — the deduction side of the same lessons | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.100–103 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

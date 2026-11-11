@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -152,9 +152,9 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 21 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
+**Acceptance count: taught in 22 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
 China, Iran, Indonesia, Mauritania, Mexico, Greece,
-Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -332,3 +332,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | should / had better / "If I were you, I'd …" and the imperative to express advice | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 (book map, printed pp.4–5) |
 | Offering advice (inside the unit's functional expressions) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |
 | Health tips text and advice language | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Health problems: should/shouldn't advice on symptoms (with “have got / has got” for the symptoms themselves) | Armenia — *English, Grade 5 Student's Book*, Topic 6 — Health, printed p.116 |
+| should / shouldn't + base form, for giving advice | Armenia — *English, Grade 6 Student's Book*, Unit 1 — People Around Us, printed p.6 |
+| Giving and receiving advice about future goals (speaking) | Armenia — *English, Grade 9 Student's Book*, Unit 6 — Choices and Decisions, printed pp.162–163 |
+| Expressions to describe health symptoms and food choices — the advice side of the same lessons | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.60–63 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

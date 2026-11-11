@@ -1,6 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Indonesia, Mauritania, Mongolia, Iraq
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -45,7 +45,7 @@ covers the 6th Year book only).
 | Commenting on ideas and posts: positive and negative comment phrases — what a great post, this post really resonates with me, it was boring / it was brilliant | Mauritania, Study English, Grade 13, printed pp.11–13 |
 | Blog reading: football obsession in England | Mongolia, English XI, Unit 7, printed p.109 |
 
-**Acceptance count: taught in 8 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+**Acceptance count: taught in 9 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
 Mauritania comments on posts with a positive/negative phrase
 set in its Grade 13 book (stocked 2026-11-09 by the Mauritania
 re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 chat-forum project and Grade 9 advice blog (stocked 2026-11-11 by the re-verification sweep merge).
@@ -62,3 +62,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Project 3: a chat forum (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 5 (book map, printed pp.2–3) |
 | Writing a blog asking for advice | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 6 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Blog writing, with useful expressions | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.117–121 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

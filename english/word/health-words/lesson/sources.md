@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -150,10 +150,10 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 22 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 23 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
 China, Iran, Indonesia, Mauritania, Mexico, India,
 Greece, Mongolia, Nicaragua, North Macedonia, Pakistan,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -374,3 +374,28 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Minor health problems and injuries vocabulary — bleeding toe, cut, fall | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
 | The health tips text — advice language for minor problems and injuries | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
 | Words to describe illness and health; adjective endings | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Health problems: “have got / has got” for symptoms, with should/shouldn't advice | Armenia — *English, Grade 5 Student's Book*, Topic 6 — Health, printed p.116 |
+| At the doctor's (reading); first-aid words (faint, nose bleed, cuts, insect stings) | Armenia — *English, Grade 5 Student's Book*, Topic 6 — Health, printed p.120 |
+| Lifestyle choices and a healthy lifestyle; suffixes and prefixes | Armenia — *English, Grade 6 Student's Book*, Unit 3 — Lifestyle Choices, printed pp.61–64 |
+| First aid in emergencies and disasters, and first-aid vocabulary | Armenia — *English, Grade 9 Student's Book*, Unit 3 — Disasters, printed pp.65–75 |
+| Words and collocations associated with health | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.35–36 |
+| Inventions in the world of medicine and their impact (listening) — the medicine side of the same lesson | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.41–42 |
+| Expressions to describe health symptoms and food choices | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.60–63 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

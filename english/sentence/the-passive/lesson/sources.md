@@ -495,3 +495,16 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Passive with an infinitive — 'is expected to…' shapes, the ministry's future-hub plan told in the passive; the lesson's plan and steps key different student pages, so both keys are recorded: plan student pp.174–179, steps student pp.184–185 | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 23, student printed pp.174–179 (plan key) and pp.184–185 (steps key) (guide plan printed p.143) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The passive voice with present simple, present perfect and modal verbs; maintaining a strong work ethic | Armenia — *English, Grade 11 Student's Book*, Unit 1 — Professions, printed pp.15–18 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

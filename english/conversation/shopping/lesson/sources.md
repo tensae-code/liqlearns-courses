@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -98,8 +98,8 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 15 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 16 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -199,3 +199,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Shop names; deciding where to buy what; asking for something in a shop | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 2 |
 | Shopping for a party conversation; shops in a mall | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 7 |
 | Role-play buying second-hand objects; doing a survey | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Types of stores (bakery, bookstore, butcher shop, clothing store, pharmacy, shoe store, stationery store, street market, supermarket, toy store) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.77 |
+| Jack's favourite store (reading): cheap/expensive, sale, choose, store assistant | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.91 |
+| In the supermarket (basket, trolley, cashier, product, item, dairy, household items, sweets, tinned) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.93 |
+| Nare is going shopping (speaking): choice, set, prices in drams | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.99 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

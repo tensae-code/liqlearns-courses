@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -117,10 +117,10 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 19 countries (Mongolia, North Macedonia, Palestine, Rwanda,
+**Acceptance count: taught in 20 countries (Mongolia, North Macedonia, Palestine, Rwanda,
 Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania,
 Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan,
-Sudan, Venezuela, Yemen, Iraq).** Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -304,3 +304,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Extended family — aunt, uncle, cousin, added to mum, dad, brother, sister, grandma, grandpa | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 6, printed p.48 |
 | The family set — dad, mum, sister, baby sister, brother, grandma, grandpa, uncle, aunt — with "How many brothers/sisters have you got?" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 3, printed p.38 |
 | Celebrations and family occasions; family-related words | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words and the family tree (mother, father, sister, brother, grandma, grandpa, aunt, uncle) | Armenia — *English, Grade 3 Student's Book, Part 1*, Unit 3 — Family Tree, printed p.65 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

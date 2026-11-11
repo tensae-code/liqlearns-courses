@@ -542,3 +542,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Writing sentences and a paragraph; editing own writing | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 1 |
 | Writing an account of a festival; punctuation practice | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 2 |
 | Planning a class magazine's contents — paragraph-level writing work | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nare's collection — writing about a collection (collection, card, trade) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.96 |
+| Writing a description of a sports event (and commenting on a match) | Armenia — *English, Grade 6 Student's Book*, Unit 2 — Sports, printed pp.54–55 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

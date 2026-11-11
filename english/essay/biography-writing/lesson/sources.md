@@ -354,3 +354,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Interviewing someone and writing a career history | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 6 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rights heroes: Martin Luther King Jr. and Nelson Mandela (biographical reading); standing up against discrimination | Armenia — *English, Grade 8 Student's Book*, Topic 6 — Human Rights, printed p.140 |
+| Reading: Steve Wozniak, inventor and Apple co-founder (biography) | Armenia — *English, Grade 11 Student's Book*, Unit 1 — Professions, printed pp.32–33 |
+| Reading: Armenian physicians who shaped the history of medicine (gapped text) | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.48–52 |
+| Reading: Armenian women who changed history for equality (matching titles) | Armenia — *English, Grade 11 Student's Book*, Unit 5 — History, printed pp.142–144 |
+| Reading: the painter Hovhannes (Ivan) Aivazovsky | Armenia — *English, Grade 10 Student's Book*, Unit 2 — I Am a Man of Art, printed p.52 |
+| Oscar Wilde: biography, and “The Picture of Dorian Gray” | Armenia — *English, Grade 10 Student's Book*, Unit 3 — Literary Heritage, printed p.77 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

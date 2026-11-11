@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -169,7 +169,7 @@ verification sweep.
 | Gerunds, infinitives and participles in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 | Gerunds and participles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 22 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 23 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -337,3 +337,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Verbs + gerund / verbs + infinitive | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 2 (book map, printed pp.2–3) |
 | Adjective + infinitive (fun to ride; easy to do) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 (book map, printed pp.2–3) |
 | Verbs followed by to + infinitive | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes and dislikes with like/love/hate + verb-ing, talking about hobbies and preferences (the Isabel text) | Armenia — *English, Grade 5 Student's Book*, Topic 1 — Hobbies, printed p.4 |
+| like + doing / would like + to do | Armenia — *English, Grade 6 Student's Book*, Unit 2 — Sports, printed pp.35–39 |
+| Gerund and infinitive | Armenia — *English, Grade 11 Student's Book*, Unit 5 — History, printed pp.138–141 |
+| Appendix: lists of verbs followed by gerunds and by infinitives | Armenia — *English, Grade 10 Student's Book*, Appendix, printed p.147 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

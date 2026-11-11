@@ -1,6 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -37,8 +37,8 @@ cited once.
 | Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
 | Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 10 countries (Afghanistan, Ecuador, India, Mexico, Mongolia,
-Sierra Leone, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 language-learning vocabulary and Grade 11 TV, film and newspaper words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Afghanistan, Ecuador, India, Mexico, Mongolia,
+Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia).** Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 language-learning vocabulary and Grade 11 TV, film and newspaper words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -137,3 +137,20 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Language-learning methods, equipment and activities vocabulary; words to describe languages and trends | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 "Language learning" (book map, printed pp.2–3) |
 | Types of TV programme and film; words connected with newspapers, film, TV, art | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 6 "The media" (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Types of communication, verbal and non-verbal | Armenia — *English, Grade 8 Student's Book*, Topic 4 — Verbal and Non-Verbal Communication, printed p.79 |
+| Morse and Braille alphabets (listening) | Armenia — *English, Grade 8 Student's Book*, Topic 4 — Verbal and Non-Verbal Communication, printed p.101 |
+| Gestures around the world: what a thumbs-up, a V-sign, nodding and wagging a finger mean in different countries (speaking) | Armenia — *English, Grade 12 Student's Book*, Topic 2 — The Art of Translation, printed p.51 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

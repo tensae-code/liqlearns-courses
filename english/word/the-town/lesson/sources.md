@@ -495,3 +495,26 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Place names and landmarks; adjectives to describe places; proximity words (nearby, around the corner) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 "Travel" (book map, printed pp.2–3) |
 | Secular and religious festivals and celebrations vocabulary; describing a familiar festival or tradition | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 "Culture and customs" (book map, printed pp.4–5) |
 | Holidays vocabulary and talk | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 5 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 3:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Places in a school (classroom, cafeteria, library, gym, playground, bathroom) and what happens in each | Armenia — *English, Grade 3 Student's Book, Part 1*, Unit 2 — At School, printed p.33 |
+| Countries, flags, languages and nationalities (Armenia/Armenian, France/French, Greece/Greek, Russia/Russian, Spain/Spanish, Germany/German, the UK, the USA) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 1 — Countries and Nationalities, printed p.14 |
+| Capital cities (reading) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 1 — Countries and Nationalities, printed p.26 |
+| Neighbours and neighbourhoods (listening and writing about where you live) | Armenia — *English, Grade 6 Student's Book*, Unit 1 — People Around Us, printed pp.13–14 |
+| Holidays around the world and how people celebrate them; holiday food items | Armenia — *English, Grade 6 Student's Book*, Unit 4 — Holidays, printed pp.96–104 |
+| Symbols of Armenia, Armenian sites, memorial days and cultural heritage sites | Armenia — *English, Grade 6 Student's Book*, Unit 5 — My Homeland, printed pp.122–134 |
+| Symbols, geography and population of the largest English-speaking countries | Armenia — *English, Grade 6 Student's Book*, Unit 6 — Exploring English Across English-Speaking Lands, printed pp.149–155 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

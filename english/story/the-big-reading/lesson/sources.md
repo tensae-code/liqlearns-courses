@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -280,7 +280,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 19 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq)** — the
+**Acceptance count: taught in 20 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -513,3 +513,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Literature Focus Section A: "The Swing" by Mohammed Khudhair — author biography, story discussion and excerpt (a soldier brings news of his friend's death to the friend's family; plot summary) | Iraq — *English for Iraq*, Grade 12 Student's Book, Literature Focus, printed p.84 |
 | Literature Focus Section B: "The Canary" by Katherine Mansfield — the complete short story printed in this book (a woman's attachment to her canary and its death; plot summary). The sweep's Flag 5: the story text stands in this held Student's Book — it is not carried by a separate unheld Reader | Iraq — *English for Iraq*, Grade 12 Student's Book, Literature Focus Section B, after Unit 7 |
 | Literature questions invoking "The Canary" — the story text itself is printed in the Student's Book's Literature Focus (see the Grade 12 Student's Book entry in this section), not only in a separate reader | Iraq — *English for Iraq*, Grade 12 Activity Book, Activity Book literature exercises |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (293 teaching items placed; 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every Armenia row here is a short story, a story episode or a reading stocked as a plot summary only, under this lesson's distinction: NONE of them is a complete book-length text, and Armenia does not join the complete-text countries on their terms.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A house-painter story episode (“Mr Wiggins paints the sitting-room”) — a short story episode stocked as a plot summary only, not a complete book-length text | Armenia — *English, Grade 7 Student's Book*, Unit 1 — Me in the World, printed p.10 |
+| A school story (“My New School of Thought”) — a short story stocked as a plot summary only, not a complete book-length text | Armenia — *English, Grade 7 Student's Book*, Unit 4 — Present, Past, Future, printed p.82 |
+| Human nature in William Saroyan's short stories — short-story readings stocked as plot summaries only, not a complete book-length text | Armenia — *English, Grade 10 Student's Book*, Unit 3 — Literary Heritage, printed p.71 |
+| Oscar Wilde's “The Picture of Dorian Gray” — stocked as a plot summary only, not a complete book-length text | Armenia — *English, Grade 10 Student's Book*, Unit 3 — Literary Heritage, printed p.77 |
+| “Gulliver's Travels” — stocked as a plot summary only, not a complete book-length text | Armenia — *English, Grade 10 Student's Book*, Unit 3 — Literary Heritage, printed p.81 |
+| Mystery and legend readings (the legend of the Jermuk deer, “Pattan's Pumpkin”, Thor, Aramazd and Anahit, flying saucers) — short readings stocked as plot summaries only, not complete book-length texts | Armenia — *English, Grade 10 Student's Book*, Unit 4 — Mysteries Captivate Me, printed p.92 |
+| “The Canterville Ghost” — stocked as a plot summary only, not a complete book-length text (the spread's grammar point, the sequence of tenses, is stocked in reported-statements — sweep flag F1, verified true) | Armenia — *English, Grade 10 Student's Book*, Unit 4 — Mysteries Captivate Me, printed p.107 |
+| “Gone with the Wind” — stocked as a plot summary only, not a complete book-length text | Armenia — *English, Grade 10 Student's Book*, Unit 6 — We Should Learn to Live in Peace, printed p.134 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

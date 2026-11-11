@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -89,9 +89,9 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 18 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
+**Acceptance count: taught in 19 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
 Mauritania, Mongolia, Nicaragua, Pakistan, Palestine,
-Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -252,3 +252,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Requests — "Can I have some rice, please? Yes, here you are" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 7, printed p.90 |
 | Making and responding to requests for information; exchanging personal information | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
 | Making polite requests — "Could I have …? Would you send …?" | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Table manners; ordering in a restaurant | Armenia — *English, Grade 8 Student's Book*, Topic 2 — World Cuisine, printed pp.46–52 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

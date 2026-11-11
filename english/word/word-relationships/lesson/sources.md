@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -176,9 +176,9 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 20 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran,
+**Acceptance count: taught in 21 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran,
 Mauritania, Mexico, India, Greece, Mongolia, Nicaragua,
-Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -356,3 +356,23 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Synonyms | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
 | lend against borrow — the pair distinguished | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 (book map, printed pp.2–3) |
 | Word families and word webs — the vocabulary-learning system of the revision spreads | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Confusing words (Word Knowledge) | Armenia — *English, Grade 7 Student's Book*, Unit 2 — My Interests, printed p.32 |
+| Confusing words: beside / besides / except | Armenia — *English, Grade 10 Student's Book*, Unit 2 — I Am a Man of Art, printed p.53 |
+| Confusing words: late / later / latter / last / latest / lately | Armenia — *English, Grade 10 Student's Book*, Unit 3 — Literary Heritage, printed p.82 |
+| Synonyms and antonyms in the readings' glossaries | Armenia — *English, Grade 12 Student's Book*, Topic 2 — The Art of Translation, printed p.44 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

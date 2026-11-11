@@ -1,6 +1,6 @@
 # Sources — Non-defining relative clauses
 
-countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India
+countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia
 
 Every part traces to its book and page.
 
@@ -76,8 +76,8 @@ verification sweep.
 | Prepositions in relative clauses (defining vs non-defining, preposition final or fronted), reviewed | Yemen, Pupil's Book 6 (Grade 12), Language review 4 (p.15) |
 | Grammar as named work: non-defining relative clauses; negatives used for emphasis; metaphors identified in the text | India — First Flight (Class 10), Grammar in A Letter to God (What We Have Done), printed p.13 |
 
-**Acceptance count: taught in 6 countries (Egypt,
-Malaysia, Mongolia, Vietnam, Yemen, India).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
+**Acceptance count: taught in 7 countries (Egypt,
+Malaysia, Mongolia, Vietnam, Yemen, India, Armenia).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
 both kinds and all three hard rules in a single
 Secondary 11 box. Malaysia teaches defining and
 non-defining together twice — Form 3 Unit 4 and Form 4
@@ -92,3 +92,19 @@ Unit 3. Yemen presents non-defining clauses in
 Pupil's Book 5's Language review 2 and reviews the
 defining/non-defining contrast with prepositions in
 Pupil's Book 6.
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Defining and non-defining relative clauses — the non-defining side of the same lessons | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.37–40 |
+| Defining and non-defining relative clauses — the non-defining side of the same lessons | Armenia — *English, Grade 10 Student's Book*, Unit 1 — My Identity, printed p.25 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

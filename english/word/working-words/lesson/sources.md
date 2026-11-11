@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -111,8 +111,8 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 10 countries (Greece, Bolivia, China, India, Nicaragua, Palestine,
-Rwanda, Sierra Leone, Sudan, Iraq).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 11 countries (Greece, Bolivia, China, India, Nicaragua, Palestine,
+Rwanda, Sierra Leone, Sudan, Iraq, Armenia).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -304,3 +304,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Police and armed forces vocabulary and texts | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 2 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A tourist and a receptionist: hotel reservation and check-in conversations | Armenia — *English, Grade 5 Student's Book*, Topic 4 — Travelling, printed p.80 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

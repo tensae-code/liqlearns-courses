@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -103,7 +103,7 @@ re-verification sweep.
 | Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
 | Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 16 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 17 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -234,3 +234,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | "I'm hungry / thirsty" — body-state words inside the house unit | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 3, printed p.24 |
 | Feelings — happy, sad; "How do you feel? I'm (happy/sad)"; hungry/thirsty revisited | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 7, printed p.58 |
 | Adjectives describing feelings; words connected to holidays | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The stages of culture shock and its challenges (speaking) | Armenia — *English, Grade 9 Student's Book*, Unit 2 — Culture, printed pp.52–54 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

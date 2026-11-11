@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
+**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
 Mongolia, Nepal, China, Mauritania, Greece, Nicaragua,
-Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -242,3 +242,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Quantifiers most, least, some, a few | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 5 (book map, printed pp.2–3) |
 | Determiners (taught with the articles) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
 | Expressions of quantity | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| some / any / a / an (the Topic 3, Unit 1 writing point) | Armenia — *English, Grade 5 Student's Book*, Topic 3 — Community, printed p.53 |
+| A healthy, well-balanced diet; food containers and quantities — the quantities side of the same lessons | Armenia — *English, Grade 6 Student's Book*, Unit 3 — Lifestyle Choices, printed pp.71–74 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

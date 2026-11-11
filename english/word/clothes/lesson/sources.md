@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -80,7 +80,7 @@ verification sweep.
 | Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
 | Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 12 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq).** Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 13 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia).** Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -168,3 +168,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | The clothes set — hat, T-shirt, trousers, skirt, shirt, dress, trainers, socks, shoes, skates, with big, small, long, short | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 5, printed p.38 |
 | Clothes — cap, scarf, trousers, shirt, skirt, trainers, shoes, with the colours revisited | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 2, printed p.22 |
 | The clothes set revisited inside the open-day unit | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3, printed p.38 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| In the clothing store: clothes words (dress, jacket, T-shirt, shoes, skirt, shirt, socks, pants) | Armenia — *English, Grade 4 Student's Book, Part 1*, Unit 3 — Shopping, printed p.84 |
+| Clothes words for travel (socks, jeans, blouse, trousers, dress, shirt, belt, skirt, scarf, raincoat, T-shirt, jacket, trainers, shorts, tie, pyjamas, shoes, cap, pullover, boots) | Armenia — *English, Grade 5 Student's Book*, Topic 4 — Travelling, printed p.73 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

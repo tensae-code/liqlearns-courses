@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -106,9 +106,9 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 15 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
+**Acceptance count: taught in 16 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
 Venezuela, Bolivia, Iran, Greece, Palestine,
-Sierra Leone, Sudan, Yemen, Iraq).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+Sierra Leone, Sudan, Yemen, Iraq, Armenia).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -241,3 +241,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Question tags (the culture unit's grammar) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Question tags (the writing point) | Armenia — *English, Grade 8 Student's Book*, Topic 5 — Media and Information, printed p.111 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

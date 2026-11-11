@@ -1,6 +1,6 @@
 # Sources — Fixing sentence errors
 
-countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq
+countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -62,8 +62,8 @@ Education. Filed in english/books/sierra-leone.md
 | Editing and proofreading, and final-draft writing and critiquing, as the unit's writing work | Pakistan, *English 12*, Unit 2, printed pp.14–16 |
 | Spot the error as the unit's grammar work | Pakistan, *English 12*, Unit 8, printed p.60 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia,
-Pakistan, Palestine, Rwanda, Sudan, Iraq).** Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
+**Acceptance count: taught in 11 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia,
+Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia).** Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
 five-error clinic: Grade 11 names fragments, run-ons
 and comma splices together, and Grade 12 builds its
 writing strand on them, adding dangling modifiers and
@@ -172,3 +172,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Practising proofreading | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
 | Rewriting sentences with different verb formats | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 2 (book map, SB pp.2–3) |
 | Editing written work | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar revision and word building (the units' revision sections) — the revision side of the same sections | Armenia — *English, Grade 10 Student's Book*, Unit 6 — We Should Learn to Live in Peace, printed p.133 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

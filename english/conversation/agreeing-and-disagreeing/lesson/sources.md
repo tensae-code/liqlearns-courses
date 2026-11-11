@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -95,9 +95,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 15 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 16 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -273,3 +273,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Expressing likes and dislikes; expressing preferences | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 2 (book map, printed pp.2–3) |
 | Expressing feelings, opinions, agreement and disagreement | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Agreeing and disagreeing (the unit's named functions) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Books vs movies: advantages and disadvantages, a debate | Armenia — *English, Grade 9 Student's Book*, Unit 4 — Books and Movies, printed pp.97–99 |
+| Expressions used in debates: expressing ideas for and against | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.122–124 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

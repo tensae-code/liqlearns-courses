@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -199,10 +199,10 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 22 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 23 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
 Bolivia, China, Iran, Indonesia, India, Greece,
 Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -448,3 +448,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | The EcoMall half of Project 1 "More than just shopping!" | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, printed pp.16–17 |
 | Project 2 "Helping wildlife!"; animals, birds, insects; habitats; landscapes | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Environmental problems vocabulary — threats to endangered species, recycling, types of pollution and ways to reduce it | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 "The environment" (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth Day and protecting the Earth (saving water/energy, recycling, pollution) | Armenia — *English, Grade 5 Student's Book*, Topic 3 — Community, printed p.47 |
+| The environment: water problems, saving the Earth, tropical rainforests, wonders of world nature | Armenia — *English, Grade 7 Student's Book*, Unit 3 — Let's Think Green and Be Nature-Wise, printed pp.54–69 |
+| Types of disasters and disaster words | Armenia — *English, Grade 9 Student's Book*, Unit 3 — Disasters, printed pp.59–60 |
+| Ecology terminology; the influence of human activities on the environment; reducing your carbon footprint; renewable energy | Armenia — *English, Grade 11 Student's Book*, Unit 3 — Environment, printed pp.69–76 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

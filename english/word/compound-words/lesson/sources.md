@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -79,8 +79,8 @@ the 2026-11-08 re-verification sweep.
 | Compound words — with homophones (whether/weather, scene/seen, herd/heard, hare/hair, they're/there/their) — in the opening unit | Pakistan, *English 6*, Unit 1, printed pp.1–13 |
 | Compound words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 13 countries (Albania,
-Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq).** Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
+**Acceptance count: taught in 14 countries (Albania,
+Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia).** Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -159,3 +159,20 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Compound words — windproof, disc brakes, litter bin, information desk, sunroof | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, Lesson 4 "Buying and selling", printed p.8; Round up, printed p.13 |
 | Noun phrases — two-bag limit, five-hour journey | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Compound nouns connected to communication and technology | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 "Communication" (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Traffic compound nouns; traffic problems in the community | Armenia — *English, Grade 9 Student's Book*, Unit 5 — Law, printed pp.129–131 |
+| Compound nouns (with unusual jobs: skills and obligations) | Armenia — *English, Grade 11 Student's Book*, Unit 1 — Professions, printed pp.22–24 |
+| Prefixes and compound nouns for talking about elections and politics — the compound-noun side of the same lessons | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.106–109 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

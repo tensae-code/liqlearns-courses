@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -105,7 +105,7 @@ verification sweep.
 | The past perfect and the past perfect continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | The past perfect (with the past perfect continuous) as a named strand of the population unit | Pakistan, *English X*, Unit 11 (contents) |
 
-**Acceptance count: taught in 20 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 21 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 past perfect simple (stocked 2026-11-11 by the re-verification sweep merge).
@@ -169,3 +169,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Past perfect simple (taught with the past perfect continuous) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past simple / present perfect / past perfect contrasted (the writing point) | Armenia — *English, Grade 8 Student's Book*, Topic 3 — Around the World, printed p.68 |
+| Past simple / past continuous / past perfect simple in one exercise set (the unit's grammar practice) | Armenia — *English, Grade 10 Student's Book*, Unit 5 — I Am a Man of Science, printed p.122 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

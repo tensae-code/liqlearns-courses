@@ -374,3 +374,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Possessive 's — "Whose ruler is this? It's Lina's" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 1, printed p.6 |
 | "Whose is this? This is Lina's T-shirt. It's Lina's" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3, printed p.38 |
 | Apostrophe before and after s — possessive 's against the plural | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessive 's shown as relationship (“Grandma's” = her grandmother), in the birthday-party lesson | Armenia — *English, Grade 3 Student's Book, Part 1*, Unit 3 — Family Tree, printed p.79 |
+| The possessive case as a system: possessive nouns, subject pronouns, possessive adjectives and possessive pronouns (the Topic 3, Unit 2 writing point) | Armenia — *English, Grade 5 Student's Book*, Topic 3 — Community, printed p.61 |
+Armenia was already counted in this lesson; the acceptance count does not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

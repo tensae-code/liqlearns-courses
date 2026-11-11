@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -148,9 +148,9 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 19 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
+**Acceptance count: taught in 20 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
 China, Iran, India, Greece, Mongolia, Nicaragua,
-Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -363,3 +363,26 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Prefixes and suffixes: re-, im-, in-, un-, -less, -ful | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |
 | Adjective endings; prefixes meaning "not" (inside the health unit's word work) | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
 | Word families; grouping words; learning vocabulary by word webs | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lifestyle choices; suffixes and prefixes — the word-building side of the same lessons | Armenia — *English, Grade 6 Student's Book*, Unit 3 — Lifestyle Choices, printed pp.61–64 |
+| Word building: verb ↔ noun pairs (behave, educate, describe, development, advice) | Armenia — *English, Grade 7 Student's Book*, Unit 1 — Me in the World, printed p.5 |
+| Prefixes and compound nouns for talking about elections and politics | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.106–109 |
+| Identity words and noun/adjective/verb word building — the word-building side of the same spread | Armenia — *English, Grade 10 Student's Book*, Unit 1 — My Identity, printed p.3 |
+| Grammar revision and word building (the units' revision sections) | Armenia — *English, Grade 10 Student's Book*, Unit 6 — We Should Learn to Live in Peace, printed p.133 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

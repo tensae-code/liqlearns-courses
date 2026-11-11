@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -110,7 +110,7 @@ re-verification sweep.
 | Simple past and past continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Past indefinite and past continuous as the justice unit's grammar (with précis writing) | Pakistan, *English X*, Unit 1 (contents) |
 
-**Acceptance count: taught in 20 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 21 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
@@ -249,3 +249,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Contrasting past simple and past continuous | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past simple and past continuous (the Topic 3, Unit 3 writing point) — the past continuous side | Armenia — *English, Grade 5 Student's Book*, Topic 3 — Community, printed p.70 |
+| My last holiday: past simple and past continuous — the past continuous side | Armenia — *English, Grade 6 Student's Book*, Unit 4 — Holidays, printed pp.99–102 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

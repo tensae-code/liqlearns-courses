@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -40,7 +40,7 @@ colophon; cited once.
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
 | Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 9 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -76,3 +76,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | The future continuous tense | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 6 |
 | Future continuous for events that will be happening at a specified time | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The future continuous | Armenia — *English, Grade 7 Student's Book*, Unit 6 — I Value the Importance of Inventions, printed p.134 |
+| Simple future and future continuous (the “Food of the Future” writing point) | Armenia — *English, Grade 8 Student's Book*, Topic 2 — World Cuisine, printed p.35 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

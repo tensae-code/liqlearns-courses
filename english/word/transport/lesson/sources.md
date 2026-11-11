@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -95,8 +95,8 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 15 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 16 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -230,3 +230,22 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Travelling — flight, airport, mountains, marshes, beach, market; by car, by train, by plane, by ferryboat | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 7, printed p.90 |
 | Ways of travelling | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 7 (book map, printed pp.2–3) |
 | Travel and hotels vocabulary | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 2:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Means of travelling: transport words | Armenia — *English, Grade 5 Student's Book*, Topic 4 — Travelling, printed p.75 |
+| Transport prepositions on / in / by (the Topic 4, Unit 2 writing point) | Armenia — *English, Grade 5 Student's Book*, Topic 4 — Travelling, printed p.86 |
+| Travel vs trip; a trip around Armenia (reading) | Armenia — *English, Grade 5 Student's Book*, Topic 4 — Travelling, printed p.88 |
+| Travelling talk and travel words | Armenia — *English, Grade 8 Student's Book*, Topic 3 — Around the World, printed p.56 |
+| Travel tips and talking about landmarks — the travel-words side of the same lesson | Armenia — *English, Grade 8 Student's Book*, Topic 3 — Around the World, printed p.70 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

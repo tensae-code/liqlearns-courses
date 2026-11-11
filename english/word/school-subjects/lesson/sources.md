@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -100,8 +100,8 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 12 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
-Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq).** Mexico carries the
+**Acceptance count: taught in 13 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
+Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -205,3 +205,22 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Education, schools and academic subjects vocabulary | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 "Education" (book map, printed pp.2–3) |
 | Further education: university study talk and texts | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 7 (book map, SB pp.2–3) |
 | Words used in education (revision set) | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects | Armenia — *English, Grade 3 Student's Book, Part 1*, Unit 2 — At School, printed p.37 |
+| School life: my timetable, what you learn in school, school uniform, being a teenager | Armenia — *English, Grade 7 Student's Book*, Unit 4 — Present, Past, Future, printed pp.72–77 |
+| Education words; levels of school programmes and grades; school systems in Armenia and other countries | Armenia — *English, Grade 9 Student's Book*, Unit 1 — Education, printed pp.5–12 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

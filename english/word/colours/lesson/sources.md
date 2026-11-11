@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -74,7 +74,7 @@ verification sweep.
 | Colours and shapes as a named strand of the book's Language Focus | Pakistan, *English 1*, contents Language Focus column |
 | Colours and shapes as a named strand of the book's contents | Pakistan, *English 2*, contents |
 
-**Acceptance count: taught in 15 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq).** Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 16 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -168,3 +168,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | The first colour set — blue, green, orange, pink, red, yellow (Unit 1), extended by black, brown, grey and white at the zoo (Unit 5) | Iraq — *English for Iraq*, Grade 1 Pupil and Activity Book, Unit 1, printed p.6; Unit 5, printed p.40 |
 | The colour set revisited inside the clothes unit | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 2, printed p.22 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colours and colour mixing (pink, yellow, blue, black, green, white, orange, red, purple) | Armenia — *English, Grade 3 Student's Book, Part 1*, Starter Unit, printed p.7 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

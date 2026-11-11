@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 10 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania,
-Palestine, Sudan, Yemen, Iraq).** Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
+**Acceptance count: taught in 11 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania,
+Palestine, Sudan, Yemen, Iraq, Armenia).** Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -128,3 +128,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Causative have, get | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “Make somebody do something / have somebody do something / have something done” | Armenia — *English, Grade 9 Student's Book*, Unit 5 — Law, printed pp.121–124 |
+| Causative “have” (with an astronaut's daily routine) | Armenia — *English, Grade 11 Student's Book*, Unit 6 — Space, printed pp.172–175 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

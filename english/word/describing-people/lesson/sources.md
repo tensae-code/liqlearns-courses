@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -166,9 +166,9 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
+**Acceptance count: taught in 20 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
 Indonesia, Mauritania, Mexico, India, Greece, Nicaragua,
-North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -339,3 +339,22 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Describing people, abilities and interests inside the jobs unit | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 6 |
 | Describing people: appearance (straight/curly hair; blue/brown eyes; quite tall/short, a bit thin/fat; is wearing…) and character (artistic, friendly, hard-working, musical, sporty) | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, Lesson 6 "What do they look like?", printed p.10 |
 | Adjectives to describe appearance and character; extreme adjectives; intensifying adverbs | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 "Family and friends" (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Personality and appearance: “What am I like?” — adjectives describing appearance and personality, sorted positive/negative | Armenia — *English, Grade 7 Student's Book*, Unit 1 — Me in the World, printed p.3 |
+| Friendship: qualities of a good friend; describing the importance of friendship | Armenia — *English, Grade 8 Student's Book*, Topic 1 — Friendship, printed p.4 |
+| Identity words (personality, individuality, conformity, values, selfhood, character, temperament, integrity, courage) and noun/adjective/verb word building | Armenia — *English, Grade 10 Student's Book*, Unit 1 — My Identity, printed p.3 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

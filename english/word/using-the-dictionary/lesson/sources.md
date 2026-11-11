@@ -382,3 +382,37 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Starting learner diaries and vocabulary notebooks — the year's vocabulary-keeping system | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (293 teaching items placed; 79 already in the course, 214 missing, 6 claims flagged). Eight of the missing items are the books' own word lists, stocked below as vocabulary inventories — the course's taught-word stock for Armenia — on the same terms as Yemen's word lists in this file: they are NOT dictionary-skills teaching. No held Armenia book teaches dictionary skills, guide words or entry anatomy, so Armenia is NOT added to this lesson's countries line or acceptance count (sweep flag F6: this file's own Rwanda block cites Armenia among the precedents that a book's own glossary or word list does not stock this lesson as dictionary teaching; the lists are stocked here as inventories only, and the precedent stands for the count).
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 4 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 3:** *English, Grade 5 Student's Book* (student's book) — Armenia, Mari, 2023, ISBN 978-9939-888-23-1. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. The book is held in two text states of one book; copy B, the corrected revision, is the copy cited — copy A is the same book in an earlier text state and is counted nowhere separately.
+
+**Book 4:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *English, Grade 8 Student's Book* (student's book) — Armenia, Mari, 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *English, Grade 12 Student's Book* (student's book) — Armenia, Mari, 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| End-of-unit “My Vocabulary” word lists for Units 1–3 — the book's taught vocabulary inventory, with pronunciations (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 3 Student's Book, Part 1*, Units 1–3, printed pp.31, 64, 93 |
+| End-of-unit “My Vocabulary” word lists for Units 1–3 — the book's taught vocabulary inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 4 Student's Book, Part 1*, Units 1–3, printed pp.41, 76, 105 |
+| End-of-book English–Armenian vocabulary list — the book's whole taught inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 5 Student's Book*, whole book, printed pp.146–158 |
+| End-of-unit Word Lists for Units 1–6 — the book's taught vocabulary inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 6 Student's Book*, Units 1–6, printed pp.31, 60, 95, 121, 148, 174 |
+| End-of-book vocabulary list — the book's taught inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 8 Student's Book*, whole book, printed p.155 |
+| End-of-unit Word Lists for Units 1–6 — the book's taught vocabulary inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 9 Student's Book*, Units 1–6, printed pp.27, 58, 82, 111, 138, 167 |
+| End-of-unit Word Lists for Units 1–6 — the book's taught vocabulary inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 11 Student's Book*, Units 1–6, printed pp.34, 68, 96, 128, 160, 191 |
+| Whole-book vocabulary list, by topic — the book's taught inventory (vocabulary inventory, not dictionary-skills teaching) | Armenia — *English, Grade 12 Student's Book*, whole book, printed p.140 |
+Armenia is not counted in this lesson: the word lists above are stocked as vocabulary inventories only, not as dictionary-skills teaching, so the countries line and the acceptance count above do not change.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

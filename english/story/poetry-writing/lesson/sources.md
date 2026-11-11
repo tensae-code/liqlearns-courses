@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -105,9 +105,9 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 15 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh,
+**Acceptance count: taught in 16 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh,
 Indonesia, Mexico, Greece, Palestine, Rwanda,
-Sierra Leone, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -290,3 +290,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Writing a limerick; rhyme and rhythm in limericks (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 2 (book map, printed pp.2–3) |
 | A poem about Eid; writing verses of a poem | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 10 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2024 (the book's own colophon dates the text 2023; the held copy's cover says 2024). Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “The Seven Ages of Man” (listening/poem) | Armenia — *English, Grade 10 Student's Book*, Unit 2 — I Am a Man of Art, printed p.60 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

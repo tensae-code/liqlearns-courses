@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -144,8 +144,8 @@ verification sweep.
 | Weather words: cloudy, windy, rainy, sunny | Pakistan, *English Nursery*, printed p.8 |
 | The seasons: spring, summer, autumn, winter | Pakistan, *English Nursery*, printed p.9 |
 
-**Acceptance count: taught in 19 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 20 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -268,3 +268,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Weather — hot, mild, dry, wet, summer, winter, 40°C | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 2, printed p.22 |
 | Seasons (winter, spring, summer, autumn) and the weather set — sunny, hot, dry, cold, rainy, cloudy, cool, mild, warm, windy, humid | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 7, printed p.90 |
 | Holiday weather talk — "What's the weather like in spring? It's cool, rainy and mild; What was the weather like on your holiday? It was sunny and very hot" | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 7, printed p.90 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Weather talk for celebrating holidays | Armenia — *English, Grade 6 Student's Book*, Unit 4 — Holidays, printed pp.117–118 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -115,7 +115,7 @@ verification sweep.
 | Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
 | The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 12 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq).** Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia).** Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -267,3 +267,20 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Writing a for-and-against essay (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 5 (book map, printed pp.2–3) |
 | Phrases for structuring a discursive essay and contrasting ideas; planning a discursive essay | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| An opinion essay; useful language for advantages and disadvantages | Armenia — *English, Grade 9 Student's Book*, Unit 6 — Choices and Decisions, printed pp.159–161 |
+| An informative essay: different types of pollution | Armenia — *English, Grade 11 Student's Book*, Unit 3 — Environment, printed pp.86–88 |
+| A descriptive essay; referencing expressions — the essay-kind side of the same writing point | Armenia — *English, Grade 11 Student's Book*, Unit 6 — Space, printed pp.185–187 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

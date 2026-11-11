@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela
+countries: Bolivia, Venezuela, Armenia
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 2 countries (Bolivia, Venezuela).**
+**Acceptance count: taught in 3 countries (Bolivia, Venezuela, Armenia).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 8 book's music unit — genres and instruments as one word set — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 8 (Secundaria 2) student book named above.
 
@@ -28,3 +28,16 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | The orchestra — instruments, players and the orchestra's people, taught as a word set; the guide prints 'rehearsh' for rehearse in this lesson's plan — corrected here, the error is the book's and the book's alone | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 14, student printed pp.114–121 (guide plan printed p.86) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 7 Student's Book* (student's book) — Armenia, Grigoryan, Zangak, 2023. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Music: genres of music, musical instruments and habits, musical education | Armenia — *English, Grade 7 Student's Book*, Unit 2 — My Interests, printed p.28 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

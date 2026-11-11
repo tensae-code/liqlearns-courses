@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ lesson is reproduced.
 | Christmas greetings exchanged — "Merry Christmas to you! — And a Happy New Year, too!" — plus making an angel for the tree | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.69 |
 | The Easter song "Here's my Easter bunny rabbit. What a funny bunny!" with Easter vocabulary (bunny, egg, jump, tail, long ears) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.70 |
 
-**Acceptance count: taught in 15 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania,
+**Acceptance count: taught in 16 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania,
 China, Iran, Indonesia, Greece, Nicaragua,
-North Macedonia, Sudan, Venezuela, Yemen).** Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+North Macedonia, Sudan, Venezuela, Yemen, Armenia).** Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -203,3 +203,19 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Thanking for an invitation and a present; congratulations and best wishes (wedding reception conversation) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed pp.36–37 |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 3 Student's Book, Part 1* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep. Only Part 1 is in hand — the Part 2 student volume is not in hand, and nothing is cited from it.
+
+**Book 2:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Birthday parties (party, cake, candle, card, gift, guest) | Armenia — *English, Grade 3 Student's Book, Part 1*, Unit 3 — Family Tree, printed p.79 |
+| Holiday greetings and wishes; writing holiday cards | Armenia — *English, Grade 6 Student's Book*, Unit 4 — Holidays, printed pp.114–116 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.

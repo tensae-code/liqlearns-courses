@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq, Armenia
 
 Every part traces to its book and page.
 
@@ -126,9 +126,9 @@ verification sweep.
 | Idioms and proverbs in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Idioms and proverbs in texts, as the opening unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 1, printed p.7 |
 
-**Acceptance count: taught in 18 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China,
+**Acceptance count: taught in 19 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China,
 Iran, Mexico, India, Greece, Mongolia, Nicaragua,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with English idioms and proverbs in its Grade 11 and Grade 12 readers (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Colour's my world!' colour-idioms lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its do/go/play sports collocations (Grade 8) and Grade 10 collocations (take an exam, watch a film) (stocked 2026-11-11 by the re-verification sweep merge).
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq, Armenia).** Yemen joins with English idioms and proverbs in its Grade 11 and Grade 12 readers (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Colour's my world!' colour-idioms lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its do/go/play sports collocations (Grade 8) and Grade 10 collocations (take an exam, watch a film) (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -263,3 +263,25 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | do, go, play with sports — collocations (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Collocations — take an exam, watch a film | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 (book map, printed pp.2–3) |
+
+## Armenia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English books page by page (18 files — the Grade 5 student's book is held in two text states of one book; 293 teaching items placed, 79 already in the course, 214 missing, 6 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md). Every item comes from a student's book: Armenia's 7 held teacher's books are teacher evidence only and contribute no learner items, and the Grade 3 and Grade 4 student's books are held as Part 1 only — their Part 2 volumes are not in hand and nothing is cited from them.
+
+**Book 1:** *English, Grade 6 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2024. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English, Grade 9 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English, Grade 11 Student's Book* (student's book) — Armenia, COAF (Children of Armenia Fund), 2025. Filed in english/books/armenia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Health collocations; phrasal verbs with “look” | Armenia — *English, Grade 6 Student's Book*, Unit 3 — Lifestyle Choices, printed pp.84–87 |
+| Idioms and collocations for talking about types of bullying | Armenia — *English, Grade 9 Student's Book*, Unit 1 — Education, printed pp.18–20 |
+| Folklore genres; folklore proverbs and sayings — the proverbs-and-sayings side of the same lessons | Armenia — *English, Grade 9 Student's Book*, Unit 2 — Culture, printed pp.45–48 |
+| Movie idioms for evaluating cultural impact | Armenia — *English, Grade 9 Student's Book*, Unit 4 — Books and Movies, printed pp.100–102 |
+| Health-related idioms | Armenia — *English, Grade 11 Student's Book*, Unit 2 — Medicine, printed pp.53–55 |
+| Idioms for talking about space junk and its consequences | Armenia — *English, Grade 11 Student's Book*, Unit 6 — Space, printed pp.180–182 |
+Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
