@@ -1,6 +1,6 @@
 # Sources — Participle clauses
 
-countries: Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan, Afghanistan
+countries: Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan, Afghanistan, Eritrea
 
 Every part traces to its book and page.
 
@@ -50,7 +50,7 @@ verification sweep.
 | The reduced relative forms in full: past participle for a passive clause ("the car stolen last night"), present participle for an active clause ("the man talking to my father") — closing the relative-clause line opened in Secondary 11 | Egypt, Secondary 12 Term 2, Unit 10, Lesson 3 (as filed in EGYPT-BOOK-MAP.md) |
 | Form noticed: present participles indicating simultaneous action ("…wishing Danny would…") — analyse examples, find five more | India — Flamingo (Class 12), Noticing form in Going Places, printed pp.86–87 |
 
-**Acceptance count: taught in 10 countries (Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan, Afghanistan).** Yemen joins with present-participle joining in its Grade 11 review and -ing joining in its Grade 12 review (stocked 2026-11-11 by the re-verification sweep merge). India joins with present participles indicating simultaneous action, noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches
+**Acceptance count: taught in 11 countries (Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen, Jordan, Afghanistan, Eritrea).** Yemen joins with present-participle joining in its Grade 11 review and -ing joining in its Grade 12 review (stocked 2026-11-11 by the re-verification sweep merge). India joins with present participles indicating simultaneous action, noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches
 participle clauses for reason with the perfect
 participle inside the same presentation. Egypt states
 the reduced relatives as a clean pair — present
@@ -63,7 +63,7 @@ present and past participle clauses at Grade 11 Unit 5
 and perfect participle clauses at Unit 7. Pakistan's
 witness is narrower and is worded as filed: participle
 phrases inside one unit's grammatical-aspects work,
-not a taught clause system.
+not a taught clause system. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -112,3 +112,16 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Shortening relative clauses: subject who/which/that → participle -ing clauses; object who/which/that dropped | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 4, printed p.55 |
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finite vs non-finite clauses (Unit 1) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.1–25 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

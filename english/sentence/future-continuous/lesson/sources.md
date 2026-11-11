@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -39,7 +39,7 @@ colophon; cited once.
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
 | Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 14 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya).** Libya joins with the future continuous — first presented in Grade 8 and taught in Grade 10 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya, Eritrea).** Libya joins with the future continuous — first presented in Grade 8 and taught in Grade 10 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -149,3 +149,16 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Future continuous | Libya, Grade 10 Course Book, Unit 5, printed p.57 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Gerunds, participles and infinitives; future continuous (Unit 2) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.26–47 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

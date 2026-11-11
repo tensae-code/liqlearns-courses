@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -43,8 +43,8 @@ verification sweep.
 | A mind map as note-making — the farmers'-market shopping mind map (when, where, with who, how can we get there, how much, shopping list) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.43 |
 | Note-making and reporting worked on a factual report text (About the Unit writing) | India — Flamingo (Class 12), Writing in Lost Spring (About the Unit), printed pp.21–22 |
 
-**Acceptance count: taught in 11 countries (India, Uzbekistan, Kuwait, South Africa, China,
-South Sudan, Sudan, Yemen, Nepal, Ethiopia, Fiji).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
+**Acceptance count: taught in 12 countries (India, Uzbekistan, Kuwait, South Africa, China,
+South Sudan, Sudan, Yemen, Nepal, Ethiopia, Fiji, Eritrea).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
 note-making as a five-step worked craft and sub-titling
 as its reader-facing twin; Uzbekistan cuts sentences to
 note form with the standard abbreviations; Kuwait writes
@@ -52,7 +52,7 @@ notes and messages in elliptical styles; South Africa
 teaches main idea and note-taking together. China makes
 notes as a mind map — the shopping trip sorted around its
 questions (stocked 2026-11-08 by the re-verification
-sweep). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its table, graph and chart work in Grades 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+sweep). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its table, graph and chart work in Grades 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -184,3 +184,16 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing creatively — short stories and poems, note-taking, judging and cause/effect identification (Unit 3) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.48–74 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

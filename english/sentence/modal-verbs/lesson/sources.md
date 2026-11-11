@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 13 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus).** Cyprus joins with Year 6's must/mustn't for class rules (the Pupil's Book's printed class-rules list) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with Year 6's must/mustn't for class rules (the Pupil's Book's printed class-rules list) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -251,3 +251,17 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modals for inference and obligation — should, must, must be, must have (Unit 1) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.1–25 |
+| Modals for inference — will (be), might (be), should (be); adverbial phrases and clauses (Unit 5) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.91–108 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

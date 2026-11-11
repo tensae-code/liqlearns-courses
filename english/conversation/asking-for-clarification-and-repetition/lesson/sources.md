@@ -1,6 +1,6 @@
 # Sources — Asking for Clarification and Repetition
 
-countries: Mauritania, Vietnam, Barbados, Afghanistan, Cyprus
+countries: Mauritania, Vietnam, Barbados, Afghanistan, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — repetition and spelling repair: say it again; how do you spell…? | Mauritania, Study English, Grade 7, printed pp.30–32 |
 | Sub lesson 3 — meaning repair: what does it mean; I beg your pardon | Mauritania, Study English, Grade 7, printed pp.30–32 |
 
-**Acceptance count: taught in 4 countries (Mauritania, Vietnam, Afghanistan, Cyprus).** Cyprus joins with its help phrases — 'How do you spell…?', 'I don't understand', 'Can you help me, please?' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Mauritania, Vietnam, Afghanistan, Cyprus, Eritrea).** Cyprus joins with its help phrases — 'How do you spell…?', 'I don't understand', 'Can you help me, please?' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -73,3 +73,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introducing yourself and others — name, spelling a name, age, address; "Glad/Nice to meet you"; polite repetition request "Can you repeat that, please?" (Unit 1, Meeting people) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed pp.2–4 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

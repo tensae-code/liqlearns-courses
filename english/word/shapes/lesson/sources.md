@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Colour-and-shape phrases — a white star, a red heart, a blue triangle, a green square, a pink circle — with "What colour is your triangle? — Pink!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 1, pupil printed p.12 |
 | Shapes in the real world, adding the rectangle to the shape set — "Shapes in our world! What colour is your triangle?" (Activity Book "Going for CLIL" 2, Maths; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 2 key and instructions, Teacher's Book pp.125(T)–126(T) |
 
-**Acceptance count: taught in 8 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the shapes taught in the Grade 2 student book with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 2 (Primaria 2) student book named above.
 
@@ -107,3 +107,18 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Shapes: triangle, circle, oval, heart, star, square, rectangle — matching and tracing | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 5 orientation, printed p.2 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 2:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shapes — circle, square, round, quarter — and listen-and-draw instructions (Unit 18, "Safety") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.154 |
+| Animals — describing animals with colours and shapes, animal texts, places in Eritrea listening (Unit 6) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.116–139 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

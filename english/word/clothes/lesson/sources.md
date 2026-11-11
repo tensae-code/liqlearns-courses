@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -79,7 +79,7 @@ verification sweep.
 | Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
 | Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 26 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji).** Cyprus joins with its clothes sets — Year 4's full set and the season clothes of Unit 20 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 clothes word set (T-shirt, trousers, skirt, shirt, dress, trainers, hat, skates, socks, shoes, jacket) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its clothes sets — Year 4's full set and the season clothes of Unit 20 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 clothes word set (T-shirt, trousers, skirt, shirt, dress, trainers, hat, skates, socks, shoes, jacket) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -93,7 +93,7 @@ hang up, wash, put away) and choosing what to wear
 (stocked 2026-11-08 by the re-verification sweep, which
 found this lesson carried no China citation). Other
 closed countries join as their books are read (see
-READING-QUEUE.md). Iraq joins with its clothes sets in Grades 2, 3 and 4 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 2 and Grade 5 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Iraq joins with its clothes sets in Grades 2, 3 and 4 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 2 and Grade 5 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -403,3 +403,22 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 4:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Clothes — clothes, wear, jacket, shirt, button, skirt, dress, coat, sweater, shorts, trousers, belt, shoe, sock, hat (Unit 17) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.148–153 |
+| Clothes vocabulary and "What does … wear?" present-simple descriptions (Unit 13, "Clothes") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.114–122 |
+| Making a good impression — traditional and modern clothes, what clothes are made of ("What is/are … made of?"), advertisements read and written (Unit 5) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.77–101 |
+| Fashion — advantages/disadvantages discussion, disagreeing politely with reasons, fashion texts, guided essay (Unit 8) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.151–171 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

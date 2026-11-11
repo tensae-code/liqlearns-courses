@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -205,7 +205,7 @@ re-verification sweep.
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
 | Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The possessive case ('s / s') named in the guide's Unit Ten content list for identifying people (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.30 |
-**Acceptance count: taught in 36 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 37 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -234,7 +234,7 @@ books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 teacher guide names the possessive case
 ('s / s') in its Unit Ten content list (teacher evidence;
 stocked 2026-11-09 by the Mauritania re-verification sweep
-merge).
+merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -644,3 +644,21 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 2:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 3:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+
+| Lesson part | Where it comes from |
+|---|---|
+| have/has for possession + possessive his/her/my/your (Unit 2) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.18 |
+| Possessive pronouns — mine, yours, hers, his, its, ours, theirs (Unit 1) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.1–17 |
+| Going to junior school — junior-school activities; possession with possessive adjectives and apostrophe 's/s' (Unit 11) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.215–234 |
+| Object and possessive pronouns in family descriptions (Unit 3) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed p.61 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

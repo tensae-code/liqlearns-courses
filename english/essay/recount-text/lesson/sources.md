@@ -1,6 +1,6 @@
 # Sources — Recount Text
 
-countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji
+countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — writing a recount text | Indonesia, English for Nusantara Grade 9, printed p.119 |
 | Sub lesson 3 — a recount of a sports event, as the kind's public model | Indonesia, Work in Progress Grade 10, Chapter 2, printed p.29 |
 
-**Acceptance count: taught in 6 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -107,3 +107,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| My holiday — recounting recent personal events in the past tense, holiday/travel vocabulary (beach, island, journey, picnic, tourist, postcard…), writing a description of recent events (Unit 1) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.1–22 |
+| Love — experiences of love of country, people, friends and animals; narrative paragraph (Unit 4) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.61–85 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

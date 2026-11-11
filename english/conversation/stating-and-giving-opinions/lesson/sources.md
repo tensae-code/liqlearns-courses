@@ -1,6 +1,6 @@
 # Sources — Stating and Giving Opinions
 
-countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji
+countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -36,10 +36,10 @@ covers the 6th Year book only).
 | Asking for and giving opinions: in my opinion, according to…, how do you feel about…? | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Asking for and giving opinions: what do you think about…, what's your opinion, how do you feel about…; in my opinion/view, as far as I'm concerned, it seems to me… | Mauritania, Study English, Grade 13, printed pp.14–16 |
 
-**Acceptance count: taught in 8 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji).** Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
+**Acceptance count: taught in 9 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
 Mauritania asks for and gives opinions in Grade 11 and again,
 with the full frame set, in Grade 13 (stocked 2026-11-09 by
-the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its opinion work in Grades 5, 7 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its opinion work in Grades 5, 7 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -162,3 +162,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Media and communication — comparing means of communication, opinions ("I think / I don't think…"), interviews, technology's effect on media in Eritrea, writing a formal letter (Unit 6) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.110–132 |
+| Discussion language ("I think…, to my mind…") and expressing sufficiency (much, many, enough, too) (Units 5–7) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.96–141 |
+| Gender — expressing and responding to opinions, argumentative paragraph on gender views (Unit 1) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.1–16 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 14 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus).** Cyprus joins with its enough work — adjective + enough (big enough, strong enough) and too + adjective in story comprehension (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea).** Cyprus joins with its enough work — adjective + enough (big enough, strong enough) and too + adjective in story comprehension (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
 
@@ -169,3 +169,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Discussion language ("I think…, to my mind…") and expressing sufficiency (much, many, enough, too) (Units 5–7) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.96–141 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

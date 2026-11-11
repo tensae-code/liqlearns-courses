@@ -1,6 +1,6 @@
 # Sources — Non-defining relative clauses
 
-countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan
+countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan, Eritrea
 
 Every part traces to its book and page.
 
@@ -76,7 +76,7 @@ verification sweep.
 | Prepositions in relative clauses (defining vs non-defining, preposition final or fronted), reviewed | Yemen, Pupil's Book 6 (Grade 12), Language review 4 (p.15) |
 | Grammar as named work: non-defining relative clauses; negatives used for emphasis; metaphors identified in the text | India — First Flight (Class 10), Grammar in A Letter to God (What We Have Done), printed p.13 |
 
-**Acceptance count: taught in 10 countries (Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
+**Acceptance count: taught in 11 countries (Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan, Eritrea).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
 both kinds and all three hard rules in a single
 Secondary 11 box. Malaysia teaches defining and
 non-defining together twice — Form 3 Unit 4 and Form 4
@@ -90,7 +90,7 @@ whole-sentence which its own heading at Grade 12
 Unit 3. Yemen presents non-defining clauses in
 Pupil's Book 5's Language review 2 and reviews the
 defining/non-defining contrast with prepositions in
-Pupil's Book 6. Ethiopia joins with its Grade 12 non-defining clauses (stocked 2026-11-11 by the re-verification sweep merge).
+Pupil's Book 6. Ethiopia joins with its Grade 12 non-defining clauses (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -151,3 +151,16 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Defining vs non-defining relative clauses (the clause that can/cannot be removed) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 8, printed p.97 |
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Defining and non-defining relative clauses (Units 5, 9) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.96–119, 183–198 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

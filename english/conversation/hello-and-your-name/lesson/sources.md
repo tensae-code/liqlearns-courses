@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -210,7 +210,7 @@ rendered page the same day).
 | The Welcome! greeting song that opens the course — "Hello and welcome! Welcome to you! Bye-bye!" — with the course characters (Extra, Tom, Wendy) presented (the pupil page prints only "Sing"; the song's words are the Teacher's Book audioscript's) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Welcome!, printed p.3 |
 | A British pupil introduces herself: "I'm Emma. I'm 7 years old. This is my school, St Lawrence's." (Welcome to Britain culture spot) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 5, pupil printed p.25 |
 | The farewell song "Bye-bye friends, Happy Holidays! … See you all next year!" (the Bye-bye! lesson) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Bye-bye!, pupil printed p.74 |
-**Acceptance count: taught in 38 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine, Cyprus, Fiji).** Cyprus joins with its greeting and introduction frames, from 'What's your name?' to 'Where do you live?' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 39 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine, Cyprus, Fiji, Eritrea).** Cyprus joins with its greeting and introduction frames, from 'What's your name?' to 'Where do you live?' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -277,7 +277,7 @@ Nepal joined 2026-11-03: its Grade 1 book opens on the exchange itself — "Hell
 Armenia joined 2026-11-03: its Grade 3 book opens on meeting and naming — Starter Lesson 1, "Let's meet Nare!" (printed p.3) — and introduces others by name, "This is Jack", in Unit 1, "My Friends and I" (printed pp.9–32).
 Mauritania's Grade 7 book opens with the greeting exchange and
 the talking-about-yourself frame (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -903,3 +903,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings and first classroom words: window, door (Unit 1) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.1 |
+| Greetings by time of day — morning, afternoon, evening, night; "Good morning/evening", thank you; "What is your name?" (Unit 1, Hello) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.1–5 |
+| Greetings and self-introduction ("Hello, my name is… / What is your name?") + classroom/school vocabulary (Unit 1) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.1–2 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

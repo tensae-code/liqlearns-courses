@@ -1,6 +1,6 @@
 # Sources — Toys and Games
 
-countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus
+countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Toy words, with plurals of the sweet words (lollipops, jelly beans — the book prints "jelly vean" at printed p.33, an error in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 5, printed pp.28–35 |
 | Presents/toys word set with the indefinite article — a ball, a CD, a doll, a teddy, a car, a radio | North Macedonia — EXTRA and Friends 2, Pupil's Book, Grade 2, Module 1, Lesson 3, printed p.6 |
 
-**Acceptance count: taught in 10 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus).** Cyprus joins with its toy words, from doll and teddy bear to board game and puzzle (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 toy words — balloon, skates, bear, kite, doll, car, bike (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
+**Acceptance count: taught in 11 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus, Eritrea).** Cyprus joins with its toy words, from doll and teddy bear to board game and puzzle (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 toy words — balloon, skates, bear, kite, doll, car, bike (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -119,3 +119,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Objects flag, stick, toy, ball (Unit 13) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.38 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

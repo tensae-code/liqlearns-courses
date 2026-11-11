@@ -1,6 +1,6 @@
 # Sources — Someone, anyone, no one
 
-countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan
+countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -48,8 +48,8 @@ lesson is reproduced.
 | Indefinite pronouns in full — the some-/any-/no-/every- × -body/-one/-thing/-where grid; they take a singular verb | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 47 |
 | Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 118 |
 
-**Acceptance count: taught in 9 countries (Albania, Bolivia,
-Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 10 countries (Albania, Bolivia,
+Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan, Eritrea).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the grid's place row, the -where words,
 inside its travel chapter. Bolivia boxes the
 some/any choice for people outright, with its
@@ -60,7 +60,7 @@ South Africa lists the family whole, with the
 definition printed. The full sixteen-cell grid is the
 four books' sets laid over one another — each book
 stocks its cells, and the grid above invents no cell
-any book lacks.
+any book lacks. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -111,3 +111,17 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Some/any/every/no compounds (somebody, anyone, everything, nowhere), and some in questions expecting yes | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 10, printed pp.126–128 |
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shopping — countable and uncountable nouns, some/any, How much/many, Is/Are there any…?, "Would you like…?", shopping manners story, shopping lists, plurals with s/es (Unit 6) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.102–125 |
+| Indefinite pronouns — someone, anyone, no one; something, anything, nothing (Units 7, 9) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.126–192 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

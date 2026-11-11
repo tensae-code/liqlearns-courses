@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -270,9 +270,9 @@ verification sweep.
 | Parts of a building and building materials (roof, basement, balcony, column, window pane; bricks, concrete, granite) | Mongolia, English XI, Unit 4, printed p.57 |
 | Rooms and furniture: rooms — bedroom, kitchen, bathroom, living room, garden; things — a bed, a table, a chair, a bath, a bookcase, a sofa, an armchair, a tree, a swing — then listen-and-colour a bedroom scene (Module 2 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Checkpoint 2, pupil printed p.19 |
 | One Picture Dictionary word no lesson teaches: desk, in the "My Room" list (with bed, chair, table) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Picture Dictionary, pupil printed pp.75–78 |
-**Acceptance count: taught in 37 countries (Egypt, Libya,
+**Acceptance count: taught in 38 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus).** Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea).** Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -293,7 +293,7 @@ house types and furniture. Jordan carries the ten home words with the where-ques
 their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 book teaches the house with there is and
 do/does have questions (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge).
+re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
 (MoES/RIES, 2012; full read in english/books/laos.md). Laos
@@ -689,3 +689,19 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom and home objects: bed, table, box, cup, pen, bottle (Unit 6) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.6 |
+| Buildings and home objects house, hut, bench, stool; animals and food hen, fish, egg; picture texts "Feven's house" / "Gidey's hut" (Unit 15) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.51–52 |
+| The home — room, cupboard, bedroom, kitchen, garden; household things knife, jerrycan, spoon, pot, basket, bucket, plate, tin; this/that/these/those questions (Unit 4) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.30–34 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

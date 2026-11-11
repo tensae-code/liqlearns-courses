@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -168,7 +168,7 @@ verification sweep.
 | Gerunds, infinitives and participles in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 | Gerunds and participles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 34 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with like + -ing and want to + verb (Grade 7), adjective + infinitive and the verb + to-infinitive list (Grade 10), and words followed by the infinitive and the -ing/infinitive contrasts (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 35 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with like + -ing and want to + verb (Grade 7), adjective + infinitive and the verb + to-infinitive list (Grade 10), and words followed by the infinitive and the -ing/infinitive contrasts (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -188,7 +188,7 @@ listening to tapes — inside its how-to-learn unit
 (stocked 2026-11-08 by the re-verification sweep).
 Mauritania teaches gerunds and infinitives with their verb
 patterns in its Grade 13 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico's Grade 9 book teaches sentences with two verbs — the first verb decides between the to-infinitive and the gerund (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its gerund and infinitive work in Grades 7, 8, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 gerunds and infinitives (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico's Grade 9 book teaches sentences with two verbs — the first verb decides between the to-infinitive and the gerund (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its gerund and infinitive work in Grades 7, 8, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 gerunds and infinitives (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -575,3 +575,18 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | good at / not good at + -ing: “I am good at writing stories” | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 6, printed p.25 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Gerunds and infinitives (Unit 2) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.22–45 |
+| Gerunds, participles and infinitives; future continuous (Unit 2) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.26–47 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

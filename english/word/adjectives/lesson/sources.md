@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -413,8 +413,8 @@ the 2026-11-08 re-verification sweep.
 | Adverb Phrases — Form and use adjective phrases correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.11.1, PDF p.218 (curriculum evidence) |
 | Adjectives — Use comparatives forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.4.1, PDF p.209 (curriculum evidence) |
 | Using Qualifying Words-Adjectives — Use superlative forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.5.1, PDF p.239 (curriculum evidence) |
-**Acceptance count: taught in 39 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 40 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -431,7 +431,7 @@ colour words as a describing set. Jordan carries opinion adjectives in its Grade
 closed countries join as their books are read (see
 READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries adjectives with their opposites as a whole Grade 2 unit (Unit 8), classroom adjective lists in Grade 3 (Unit 8), and adjectives named as a unit's grammar with comparison in Grade 9 (Unit 18).
-Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart — in Grade 3 (Unit 1.2, printed p.11; Unit 1.3, printed p.14), comparison taught as forms and then used on real places in Grade 4 (Unit 1.4, printed pp.23–25), and -ed against -ing adjectives as a named contrast in Grade 7 (Unit 1, printed p.13).
+Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart — in Grade 3 (Unit 1.2, printed p.11; Unit 1.3, printed p.14), comparison taught as forms and then used on real places in Grade 4 (Unit 1.4, printed pp.23–25), and -ed against -ing adjectives as a named contrast in Grade 7 (Unit 1, printed p.13). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -843,3 +843,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives tall, short + animals bird, cat, dog (Unit 5) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.5 |
+| Adjectives big, small in picture contrasts (Unit 9) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.20–22 |
+| Opposites fat/thin, big/small, tall/short (Unit 10) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.23 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

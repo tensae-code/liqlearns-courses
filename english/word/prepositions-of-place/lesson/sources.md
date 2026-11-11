@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji
+countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 15 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji).** Cyprus joins with its place words, from Year 1's in/on to Year 5's behind, in front of, near, far from (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its place words, from Year 1's in/on to Year 5's behind, in front of, near, far from (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -257,3 +257,29 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 4:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 5:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions under, in, on shown with objects (Unit 6 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.7 |
+| Consolidation picture sequence "Where is the bird?" — locating objects with in/on/under (Units 5–6) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.8–9 |
+| Prepositions in, on, under, next to in picture sets (Unit 8 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.16–17 |
+| Consolidation "Where is the dog?" — prepositions in/on/under (Units 7–8) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.18–19 |
+| Consolidation "Where is your pencil?" — object-location picture sequence (Units 13–14) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.49–50 |
+| Position words — in front of, top, inside, outside, bottom, behind; "Where is…? / Where are they?" (Unit 7) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.48–55 |
+| Position review — road, here, above; under, in, above, on; "Where is…? He is…" (Unit 20) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.194–205 |
+| Position questions "Where is/are…?" with in, on, under, near, behind, in front of, between (Unit 2) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.17 |
+| On my way to school — good and bad behaviour story, past continuous tense, place prepositions in sentences (Unit 10) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.209–226 |
+| Prepositions of place set (between, in front of, next to, behind, opposite, beside, in, on) in sports/game descriptions (Unit 2) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.22–45 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

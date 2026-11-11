@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados, Kuwait, Cyprus
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** Honeydew (Textbook in English for Class
@@ -110,7 +110,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 25 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Cyprus).** Cyprus joins with the sound-word play of 'Mr Brown Can Moo', compared across languages (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 26 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Cyprus, Eritrea).** Cyprus joins with the sound-word play of 'Mr Brown Can Moo', compared across languages (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -138,7 +138,7 @@ falling, rising, emphatic stress, rising (stocked
 teaches word stress and sentence stress in its Grade 11
 English for Change (stocked 2026-11-09 by the
 re-verification sweep merge). Counts
-grow as other closed countries' books are read. Iraq joins with its pronunciation, stress and phonemic work across Grades 4, 6, 7, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 vowel contrasts and schwa (stocked 2026-11-11 by the re-verification sweep merge).
+grow as other closed countries' books are read. Iraq joins with its pronunciation, stress and phonemic work across Grades 4, 6, 7, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 vowel contrasts and schwa (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -509,3 +509,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonetic symbols (introduction) and consonant minimal pairs; intonation (Units 1–4) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.1–85 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

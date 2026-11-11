@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -214,7 +214,7 @@ the 2026-11-08 re-verification sweep.
 | Demonstrate command and use of compound sentences in speech and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.3, PDF p.52 (curriculum evidence) |
 
 
-**Acceptance count: taught in 32 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji).** Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 33 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea).** Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -229,7 +229,7 @@ level; Jordan joins likes with and/too, but and or in
 Grade 2, joins habits with and/but in Grade 3, and
 links a profile with and/but/so/because in Grade 8.
 Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Iraq states the pair as a box in its Grade 6 Activity Book — *and* to add information, *but* to show a contrast — gives linking words their own Grade 7 lesson (*and, but, or, because, as well as*), and names joining sentences with *and, but, or* in its Grade 7 Activity Book Round up. Ethiopia teaches simple and compound sentences in Grade 6, joins sentences with because/but/or in Grade 7's Writing strand, and joins ideas in a paragraph with cohesive devices — also / Besides / Moreover / Generally — in Grade 9. South Africa stocks this lesson in full: Grade 3 HL joins sentences with and, so, because and but, Grade 4 HL joins with because, but, and, before, then, Grade 3 FAL joins with because and so, and Grade 6 FAL works the wider connective set — however, nevertheless, furthermore, therefore, consequently, although, whereas. Syria previews and/but in its Grade 6 natural-resources unit, teaches and/but/so/or in the rights unit beside it, and practises and/but sentence joining in the Grade 6 Workbook. South Sudan joined 2026-11-03: its Primary 5 Pupil's Book teaches and/but/or/because/so joining clauses, defined as clause joiners in its Teacher's Guide, its Primary 6 Pupil's Book joins with because and links with however and therefore, and its Secondary 4 Student's Book lists the conjunctions, paired and single, with because-clauses set against in-order-to phrases. Nepal carries the joiners as named grammar in Grade 7 (and/but with although/however) and Grade 11 (but/however/although/despite), with and/but also named and gap-filled, as its own teaching, in the Grade 2 guide's Assessment 2Armenia joins sentences with and / but / because in Grade 4's writing lesson, teaches the joining words as a contrasted set in Grade 9, and tabulates the coordinating conjunctions in its Grade 7 guide. Kuwait stocks this lesson with its linker system only — contrast linkers and so … that / such … that in Grade 9, adverb clauses in Grade 10, and both / neither … nor / either … or joining in the Grade 12 workbook. No held Kuwait book teaches and/but joining as a named point. Rwanda stocks this lesson in part only: and and but are taught together as connectors only in the Primary 3 Teacher's Guide, and but appears as a contrast linker in the Primary 5 Learner's Book; no Rwanda pupil's book teaches and/but joining as a named point. Other closed countries join as their books are
-read (see READING-QUEUE.md).
+read (see READING-QUEUE.md). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -419,3 +419,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Joining ideas with and, but, or (Unit 1) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.1–17 |
+| Linking words — and, but, or; however, moreover, therefore/hence (Unit 4) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.61–85 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

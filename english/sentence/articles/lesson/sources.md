@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia, Afghanistan, Fiji
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia, Afghanistan, Fiji, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** Year 1 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -105,7 +105,7 @@ verification sweep.
 | Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
 | Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 28 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia, Afghanistan, Fiji).** Libya joins with a/an with singular food nouns (Grade 2) and the articles system — a/an, the and zero article (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+**Acceptance count: taught in 29 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya, Ecuador, Ethiopia, Afghanistan, Fiji, Eritrea).** Libya joins with a/an with singular food nouns (Grade 2) and the articles system — a/an, the and zero article (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -116,7 +116,7 @@ article inside its SPINE 6 text work. Rwanda teaches
 NO articles system and is cited nowhere in this
 lesson, as required. Indonesia names a/an as its Grade 7
 grocery chapter's grammar (stocked 2026-11-09 by the
-re-verification sweep merge). Iraq joins with its article teaching — a/an inside Grade 2 offers, the article before job names in Grade 8, articles with place names in Grade 10 and the full a/an/the/zero set in Grade 9 (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with articles work in Grades 3, 4 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+re-verification sweep merge). Iraq joins with its article teaching — a/an inside Grade 2 offers, the article before job names in Grade 8, articles with place names in Grade 10 and the full a/an/the/zero set in Grade 9 (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with articles work in Grades 3, 4 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -466,3 +466,18 @@ Book error, carried: in the Year 3 book, the example sets for a and the on print
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Articles a, an, the in relationship texts (Unit 4) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.67–87 |
+| Noun phrases with articles; singular and plural (Unit 7) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.128–148 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

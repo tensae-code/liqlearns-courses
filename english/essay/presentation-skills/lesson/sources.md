@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 20 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji).** Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 21 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -123,7 +123,7 @@ presentation as real class work. China presents twice: a
 child's school-life PPT picked over for mistakes in
 Grade 6, and the learner's own graduation speech at
 Grade 9 (stocked 2026-11-08 by the re-verification
-sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 presentation work (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its presenting, evidence-speaking and panel work in Grades 6, 8 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 presentation work (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its presenting, evidence-speaking and panel work in Grades 6, 8 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -341,3 +341,16 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Debates — planning, note-making for and against, participating in debates; argumentative paragraphs/essays (Units 3, 6) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.58–84, 141–161 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

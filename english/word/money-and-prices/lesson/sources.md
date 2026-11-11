@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 24 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji).** Cyprus joins with Year 5's restaurant prices — 'How much is it? It's…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 25 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 5's restaurant prices — 'How much is it? It's…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -99,7 +99,7 @@ closed countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania works the market — quantities, some/any and prices
 in ouguiya — in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Iraq joins with its Grade 4 dinar prices and Grade 12 banking words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 4 and Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Iraq joins with its Grade 4 dinar prices and Grade 12 banking words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 4 and Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -393,3 +393,22 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 4:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Market and shopping — market, money, pocket; a kilo, a litre, half; food buying (carrot, meat, salt, rice, oil, tea, soap, biscuit); "Can I have…?"; "Have you got…?" (Unit 8) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.64–69 |
+| Shopping language — "How much is/are…?", "Can I have…please?", prices in Nakfa, cheap/expensive, a pair of, packet, shelf (Unit 11, "Shopping") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.94–102 |
+| Money matters — money texts, formal vs informal letters, writing formal letters (Unit 7) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.142–163 |
+| Expenses — managing money, family budget discussion, monthly purchase lists (Unit 5) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.91–108 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

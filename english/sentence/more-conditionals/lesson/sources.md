@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** *English 11* — Armenia, COAF. Filed in
@@ -93,9 +93,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 18 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 19 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -111,7 +111,7 @@ conditional base, and South Africa the subjunctive
 mood at Grade 5 HL Workbook 2.
 Mauritania teaches the unreal conditional in its Grade 11 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 probable and less probable consequences talk (stocked 2026-11-11 by the re-verification sweep merge).
+merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 probable and less probable consequences talk (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep teaches Conditionals Type II in its grammar system. *English X* works the second conditional in its Great Expectations unit and the third in its closing grammar stretch. English X is filed in english/books/pakistan.md and was re-read in the same sweep.
 
@@ -180,3 +180,18 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Structures for hypothetical situations — “Gestures” | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 8, printed p.94 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Second conditional with would; modals ought to, should, have to, must (Unit 3) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.46–71 |
+| Third conditional (Unit 9); conditionals Types 1–2 review in phobia unit (Unit 10) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.168–205 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

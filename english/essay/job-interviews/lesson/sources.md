@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -65,7 +65,7 @@ verification sweep.
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 | Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 14 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 15 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -79,7 +79,7 @@ job-interview role-play (Unit 7), stocked 2026-11-11
 by the re-verification sweep merge.
 Mauritania interviews with present-perfect experience
 questions in its Grade 12 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -168,3 +168,16 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Reading: a job-interview announcement (a bundled strand of the opening unit, named in the sweep diff's convention note) | Nepal, *English Grade 7* (Grade 7), printed p.1 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telephone skills — answering calls, taking phone memos, minutes of a debate, letter of complaint, interviews (end units) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.186–240 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

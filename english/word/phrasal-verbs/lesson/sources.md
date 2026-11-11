@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** Teacher Compendium, Years 1–6 (reproducing
@@ -127,7 +127,7 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs — set the table, wash the dishes, pour, serve | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.53–55 |
 | Phrasal verbs and idioms, in the Major Shabbir Sharif Shaheed unit (with adjective types, pronoun-antecedent agreement, gerund and participle) | Pakistan, *English 6*, Unit 4 (contents) |
 
-**Acceptance count: taught in 23 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 24 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Eritrea).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and
@@ -143,7 +143,7 @@ referring to" — the lesson teaches the standard
 object-placement law (object between verb and particle;
 a pronoun must go between), which is what Bolivia's own
 worked examples ("I'll put my jacket on", "Hang up your
-jacket") show. Iraq joins with its Grade 11 communication phrasal verbs and Grade 12 phrasal verb set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its phrasal-verb sets and glossary in Grades 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+jacket") show. Iraq joins with its Grade 11 communication phrasal verbs and Grade 12 phrasal verb set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its phrasal-verb sets and glossary in Grades 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -395,3 +395,20 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Phrasal verbs with come (came round, come over, came out, come across, come down) — workbook language practice, known from the answer key | Kuwait, Over to You Workbook 12B (Grade 12), Module 4, key at printed p.52 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+**Book 3:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phrasal verbs (most frequent set) (Unit 7) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.128–148 |
+| Phrasal verbs set (go on, make…) and either…or / neither…nor (Unit 4) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.85–111 |
+| Phrasal verbs sets — look through, go off, take after, let off (U1); put by, turn down, turn out, carry away (U2); get on, get round, give out, give away (U3); run across, break through, hang up, knock out (U4); look into, go off, come down, keep out (U5) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.1–139 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

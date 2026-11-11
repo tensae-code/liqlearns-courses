@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus (Classes
@@ -103,7 +103,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 23 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 24 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -120,7 +120,7 @@ Pleasure reader's Ghazali, Dickinson and Neruda (added
 2026-11-08 by the re-verification sweep). Indonesia makes
 poems in both secondary books — a simple poem in Grade 8
 and poem creation as the writing step in Grade 9
-(stocked 2026-11-09 by the re-verification sweep merge). Mexico plays with words in Grade 7 — a poetry reading prepared and performed, a prose piece and a shape poem studied whole — and matches poetry and art vocabulary in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 8 limericks and Grade 11 Eid poem and verse-writing (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 8 tree poem (stocked 2026-11-11 by the re-verification sweep merge).
+(stocked 2026-11-09 by the re-verification sweep merge). Mexico plays with words in Grade 7 — a poetry reading prepared and performed, a prose piece and a shape poem studied whole — and matches poetry and art vocabulary in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 8 limericks and Grade 11 Eid poem and verse-writing (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 8 tree poem (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -520,3 +520,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Creative words — genres of creative writing, traditional and modern stories, writing a story or poem (Unit 10) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.199–220 |
+| Writing creatively — short stories and poems, note-taking, judging and cause/effect identification (Unit 3) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.48–74 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

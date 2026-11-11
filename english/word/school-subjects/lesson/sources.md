@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -100,7 +100,7 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 24 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus).** Cyprus joins with Year 5 Unit 9's school subjects and timetable words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 25 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with Year 5 Unit 9's school subjects and timetable words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -118,7 +118,7 @@ at primary level (Grades 3–4), the subjects recap in its
 Chapter 0, and the class schedule described whole at
 Grade 7 (stocked 2026-11-09 by the re-verification sweep
 merge). Other closed countries join as their
-books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set. Iraq joins with its school subjects in Grades 3, 8 and 10 and its Grade 12 further-education words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set. Iraq joins with its school subjects in Grades 3, 8 and 10 and its Grade 12 further-education words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -427,3 +427,16 @@ Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 path
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects — favourite subjects, a school day, reading/writing about subjects (Unit 2) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.18–36 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

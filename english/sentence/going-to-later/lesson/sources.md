@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -373,8 +373,8 @@ verification sweep.
 | “Change through Time” — a child's life across eras; going to and future simple | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 4, Lesson 11, printed p.71 |
 | Workbook “Change through Time” — practice of going to and future simple with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 4, Lesson 11, WB printed pp.41–52 |
 | Future simple, active and passive | Mongolia, English XII, Unit 3, printed pp.47–48 |
-**Acceptance count: taught in 37 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus).** Cyprus joins with Year 6's going to — future plans and Tom's cruise plans (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “going to” for planned purchases and intentions at the school shop and on trips (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
+**Acceptance count: taught in 38 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea).** Cyprus joins with Year 6's going to — future plans and Tom's cruise plans (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “going to” for planned purchases and intentions at the school shop and on trips (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -397,7 +397,7 @@ READING-QUEUE.md).
 Mauritania plans in Grade 8, futures with will/shall in Grade
 9, plans again in Grade 10, and sets will against going to in
 Grade 12 (stocked 2026-11-09 by the Mauritania re-verification
-sweep merge). Mexico contrasts will and going to in every grade: predictions and decisions (Grade 7), the full uses of will and two difference reviews (Grade 8), and decisions made at the moment of speaking against plans made before (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+sweep merge). Mexico contrasts will and going to in every grade: predictions and decisions (Grade 7), the full uses of will and two difference reviews (Grade 8), and decisions made at the moment of speaking against plans made before (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -787,3 +787,24 @@ Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; t
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 3:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+**Book 4:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 5:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Safety — danger and accidents, warnings and advice, predicting outcomes ("What is going to happen? …going to…"), exclamation marks (Unit 11) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.227–245 |
+| going to for plans — "What/When are you going to do…? …because…" (Unit 3) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.37–55 |
+| Expressing future action — present continuous for arrangements and going to (later unit lessons) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed p.216 |
+| Future with going to for plans (Unit 2) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.23–42 |
+| Promises — talking about promises with future forms and present simple; proverbs/sayings about promises (Unit 1) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.1–26 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus
+countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | WILL — predictions and moment-of-speaking decisions, won't, questions with short answers, future time expressions, and a Pachamama-predictions reading | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 10–12 |
 | WILL in full — the paradigm and future time expressions (the very paradigm the old filing left unread in its garbled extraction; the sweep's fresh visual read confirms it here, student folio 190) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 70 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus).** Cyprus joins with Year 6's will — promises and spontaneous decisions, and 'I think Mr Hatch will…' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea).** Cyprus joins with Year 6's will — promises and spontaneous decisions, and 'I think Mr Hatch will…' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -159,3 +159,18 @@ Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; t
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our future — future plans and hopes, "What do you want to be…? I want to be…", future simple (Unit 12) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.246–255 |
+| The future — future simple will + verb for future events; writing about what you want to be (Unit 12) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.235–244 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Similarity and Difference
 
-countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji
+countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — difference: different from, unlike, not the same as, not similar to | Mauritania, Study English, Grade 9, printed pp.21–24; repeated at Grade 10, printed pp.9–10 |
 | Sub lesson 4 — whereas joining the two sides | Mauritania, Study English, Grade 9, printed pp.21–24 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -72,3 +72,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Equal lives — agreeing/disagreeing with opinions, similarities and differences, as…as / not as…as (Unit 7) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.133–153 |
+| Comparisons — regular comparatives/superlatives, as…as, like as verb and preposition (Unit 5) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.96–119 |
+| Similarity language — as…as, the same as, different from (Unit 9) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.172–189 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

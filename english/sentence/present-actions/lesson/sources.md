@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -446,9 +446,9 @@ verification sweep.
 | The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
 | Present continuous for gradual change | Mongolia, English XI, Unit 1, printed p.14 |
 | Present continuous, active and passive, for changing situations | Mongolia, English XII, Unit 1, printed pp.17–18 |
-**Acceptance count: taught in 41 countries (Egypt, Ghana,
+**Acceptance count: taught in 42 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -467,7 +467,7 @@ in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across prim
 Mauritania builds the whole present-tense base in its Grade 7
 book — be, the full simple-present paradigm, live/have, and
 the daily-routine present (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico's Grade 7 book carries the present system as its spine — the simple present, frequency adverbs, the progressive, and the habit-against-now contrast — and its Grade 8 book adds percentage frequency adverbs and a present-against-progressive review (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico's Grade 7 book carries the present system as its spine — the simple present, frequency adverbs, the progressive, and the habit-against-now contrast — and its Grade 8 book adds percentage frequency adverbs and a present-against-progressive review (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -1160,3 +1160,23 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 4:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily routines — get up, eat, listen; "Do you get up early?"; regular activities (Unit 10) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.81–85 |
+| Routines in third person — "He gets up… / What does Sara do?"; action verbs; days of the week writing (Unit 16) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.134–151 |
+| "What do you do…?" — present-simple questions about routines and holidays (Unit 3) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.26–27 |
+| Living together — present simple in all forms (affirmative, negative, interrogative) vs past simple; diary writing (Unit 1) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.1–17 |
+| Present continuous vs present simple — actions now vs routines, in dialogues and gap-fill paragraphs (Units 1–2) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed pp.9–10, 29, 43–44 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

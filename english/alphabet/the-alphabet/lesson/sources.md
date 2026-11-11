@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -393,7 +393,7 @@ sound is learned.
 | Writing Letters – Small And Capital — Match lower and upper case letters Reading and Writing Skills general skills | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.3.1, PDF p.51 (curriculum evidence) |
 | Writing Letters – Small And Capital | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 4 (Writing), standard B2.4.3.1, PDF p.78 (curriculum evidence) |
 | Letter Writing — write letters to friends about events, using the letter format | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.15.1, PDF p.161 (curriculum evidence) |
-**Acceptance count: taught in 35 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus, Fiji).** Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
+**Acceptance count: taught in 36 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -425,7 +425,7 @@ as their first English books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03 in two layers: its held Grade 1 student's book gives the letter shapes in four-line copy work (Unit 2, printed pp.7–14) and the full capital alphabet once, at printed p.50, with no lowercase chart and no letter names — and its Grade 1 teacher's guide teaches the whole alphabet letter by letter, Aa–Zz, in its own 58-lesson Alphabet sequence, cited for its own teaching as a guide to a different, unheld workbook (Lessons 15–72, printed pp.97–278).
 Mauritania prints the full alphabet, capitals and small
 letters, in its Grade 7 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -848,3 +848,27 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonics: single letter sounds d, o, a (Unit 11 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.29–31 |
+| Phonics: letter sounds b, h, r (Unit 13 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.39, 42–43 |
+| Phonics: letter sounds g, u (+ sun) (Unit 14 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.46–48 |
+| Phonics: letter sounds s, c, e (Unit 15 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.53–55 |
+| Phonics: letter sounds n, m + letter matching (Unit 16 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.59–61 |
+| Phonics: letter sounds p, t, l + letter matching (Unit 17 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.66, 68–71 |
+| Phonics: letter sounds f, i, k (Unit 18 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.76–78 |
+| Phonics: letter sounds j, w (Unit 19) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.80–81 |
+| Phonics: beginning sounds for the full alphabet in sets (d/o/a, h/b/r, g/u/y, s/c/e, p/m/n/q, t/l/i, k/f, j/w/x, v/z) with exemplar words (Units 1–2, continuing) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.1–17 |
+| Phonics: CVC words and short-vowel sets (a/e/i/o/u), "sh" and "ch" words, initial/final consonant blends; letter sounds vs letter names; small vs capital letters a–e (Unit 1, continued through the book) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.3–5 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

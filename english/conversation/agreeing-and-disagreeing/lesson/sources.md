@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Barbados, Kuwait
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Barbados, Kuwait, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10, Student's Book — Cambodia,
@@ -94,9 +94,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 22 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 23 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Kuwait).** Libya joins with agreeing and disagreeing with suggestions (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Kuwait, Eritrea).** Libya joins with agreeing and disagreeing with suggestions (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -113,7 +113,7 @@ negative — "Me, neither" — inside its Grade 3 likes unit
 The sweep also stocked Mauritania's other agreement teaching:
 the Grade 9 forms, the Grade 10 polite/informal set, and Grade
 13's full and partial agreement with clarification (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico's Grade 8 book practises agreement as a civic skill: tombola games designed for democratic decision-making and assertive attitudes (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its opinion and agreement work in Grades 7, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 8, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its agreeing forms and its debate and persuasion work in Grades 4, 7 and 8 (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico's Grade 8 book practises agreement as a civic skill: tombola games designed for democratic decision-making and assertive attitudes (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its opinion and agreement work in Grades 7, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 8, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its agreeing forms and its debate and persuasion work in Grades 4, 7 and 8 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -428,3 +428,20 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Reaching agreement: a group negotiation over how to invest prize money | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 9, printed p.72 (full-year folio; term folio p.25) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Equal lives — agreeing/disagreeing with opinions, similarities and differences, as…as / not as…as (Unit 7) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.133–153 |
+| Unity in diversity — tolerating differences, living peacefully, short paragraphs (Unit 8) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.149–167 |
+| Fashion — advantages/disadvantages discussion, disagreeing politely with reasons, fashion texts, guided essay (Unit 8) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.151–171 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

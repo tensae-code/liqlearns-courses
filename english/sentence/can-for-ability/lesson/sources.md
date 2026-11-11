@@ -1,6 +1,6 @@
 # Sources — Can for Ability
 
-countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji
+countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 4 (Primaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -60,11 +60,11 @@ verification sweep.
 | Can for ability, possibility and permission | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
 | Ability frame with can: "Oscar can jump!" worked over five pictured children doing actions | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.67 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji).** Cyprus joins with its ability line — 'I can… / Can you…?' across Years 2–3 (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with can/can't for ability — “Can you sing? Yes, I can. / No, I can't.” (Grade 2) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 20 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia, Palestine, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea).** Cyprus joins with its ability line — 'I can… / Can you…?' across Years 2–3 (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with can/can't for ability — “Can you sing? Yes, I can. / No, I can't.” (Grade 2) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania teaches can/can't for ability in Grade 7 and the
 full can/could range — ability, probability, suggestion,
 surprise — in Grade 12 (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 can and could (stocked 2026-11-11 by the re-verification sweep merge).
+re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 can and could (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found can/could taught in five places with no lesson of their own in the course — the course's modal lessons began higher up (certainty, perfects), and the base was missing. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One honesty note, from the sweep's flag 7: the Grade 8 student book's unit titled “Feelings and emotions” (printed pp. 49–54) teaches NO feelings vocabulary — its body is a Cochabamba reading, connectors and/but, a hobbies list and CAN. The CAN rows above come from that unit's body. (Feelings vocabulary itself lives in the compendium's Year 2 list of 17, stocked in Feelings.) The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -274,3 +274,22 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ability — "I can / I can't" (Unit 11) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.88, 102 |
+| Ability questions — "I can… / Can you…? / Who can…?" with climb, speak, ride, drive, pull, push (Unit 15) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.126–144 |
+| What can you do? — abilities with can/can't, polite requests "Can I…?", telling the time, "How many…?" (Unit 3) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.47–69 |
+| Jobs and money — job preferences ("I want/would like to be…"), "A … makes/sells…", "A … is a person who…", tools and their uses, can/can't for abilities, letter of request, describing a process (Unit 2) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.23–42 |
+| Working together — supporting one another, probable conditions with if and unless, can for ability and permission (Unit 11) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.224–246 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

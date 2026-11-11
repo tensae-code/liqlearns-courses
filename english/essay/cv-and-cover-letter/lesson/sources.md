@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 14 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 15 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -73,7 +73,7 @@ false negative (sweep flag 1): the 2026-11-08 sweep
 re-read Tiếng Anh 12 and found Unit 9's Writing section
 is "Writing your CV" — a model CV with a headings-matching
 task and "Write your own CV" (printed pp.116–127) — which
-the filing misses. Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia was recorded the same way as Vietnam, and that was also a false negative (sweep flag F2): the 2026-11-08 sweep re-read the Grade 12 Student's Textbook and found Unit 10's §10F.2 "Curriculum Vitae" (printed p.261) teaching CV writing, which the filing misses. Ethiopia joins with its Grade 12 CV point, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+the filing misses. Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia was recorded the same way as Vietnam, and that was also a false negative (sweep flag F2): the 2026-11-08 sweep re-read the Grade 12 Student's Textbook and found Unit 10's §10F.2 "Curriculum Vitae" (printed p.261) teaching CV writing, which the filing misses. Ethiopia joins with its Grade 12 CV point, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English X* analyses and writes the job application in its World Without Books unit. It is filed in english/books/pakistan.md and was re-read in the 2026-11-08 re-verification sweep.
 
@@ -169,3 +169,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 **Sweep flag F2, corrected in this merge:** the acceptance paragraph above records that no CV teaching for Ethiopia (Grade 12) could be confirmed in its filing. That was a false negative: the 2026-11-08 re-verification sweep re-read the Grade 12 Student's Textbook and found the CV teaching at Unit 10, §10F.2 "Curriculum Vitae", printed p.261, and the row above stocks it. (South Sudan's position in that paragraph is unchanged.)
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expectations — job/training application letters and CVs (Unit 5) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.108–139 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

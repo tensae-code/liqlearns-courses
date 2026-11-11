@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea
 
 Every part traces to its book and page.
 
@@ -316,7 +316,7 @@ verification sweep.
 | Past simple vs present perfect | Mongolia, English XII, Unit 6, printed pp.110–111 |
 
 
-**Acceptance count: taught in 32 countries (Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda).** Rwanda joins with the Primary 4 present perfect, in transport sentences and named for experiences (stocked 2026-11-11 by the re-verification sweep merge). India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 33 countries (Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea).** Rwanda joins with the Primary 4 present perfect, in transport sentences and named for experiences (stocked 2026-11-11 by the re-verification sweep merge). India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -343,7 +343,7 @@ books are read (see READING-QUEUE.md).
 Mauritania teaches the present perfect in Grade 11 —
 experience, then duration with for/since — and again for
 duration in Grade 12 (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's perfect spine runs through Grades 8 and 9: the form itself, ever/never and for/since, a medical for/since set, past-against-perfect contrasts in both books, just/yet/already, and closing reviews (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+verification sweep merge). Mexico's perfect spine runs through Grades 8 and 9: the form itself, ever/never and for/since, a medical for/since set, past-against-perfect contrasts in both books, just/yet/already, and closing reviews (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary
 Schools, Book Three* (MoES/RIES, 2012; full read in
@@ -579,3 +579,22 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Present perfect vs past simple (no exact time vs a stated past time), through Shakespeare and Dickens | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 7, printed p.82 |
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 3:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 4:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Have you ever? — experiences with "Have you ever…?", how often (daily, weekly, monthly) (Unit 8) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.157–181 |
+| Present perfect — actions completed and actions continuing to now (Unit 8) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.148–170 |
+| Our environment — describing a healthy environment, protecting it, warnings about consequences, present perfect (Unit 8) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.154–178 |
+| Tense overview — present perfect introduced alongside present/past simple and continuous review; S+V+O sentence structure (Unit 1) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.1–21 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

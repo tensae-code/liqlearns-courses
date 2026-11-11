@@ -1,6 +1,6 @@
 # Sources — Modal perfects
 
-countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya
+countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 Term 1 (Student's
@@ -60,7 +60,7 @@ reproduced.
 | “Tragedies!” — might have, could have, should have (past modals) | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 2, printed p.113 |
 | Workbook Unit 10 (Natural phenomena), lessons 1–3 — practice of past modals with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, WB printed pp.108–117 |
 
-**Acceptance count: taught in 12 countries (Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya).** Libya joins with deductions about the past — must have / can't have / might have + participle (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
+**Acceptance count: taught in 13 countries (Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea).** Libya joins with deductions about the past — must have / can't have / might have + participle (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
 past ladder inside the same numbered box as the
 present one, and adds blame and regret to it. Nepal's
 criticism forms rest on teacher's-guide evidence and
@@ -73,7 +73,7 @@ member — the books stock the set it completes
 (Egypt's box carries the necessity modals beside the
 past forms); no filing was found presenting needn't
 have under its own heading, and that limit is stated
-rather than papered over. Iraq joins with its Grade 11 past deductions with modal verbs (might, must and can't have…) (stocked 2026-11-11 by the re-verification sweep merge).
+rather than papered over. Iraq joins with its Grade 11 past deductions with modal verbs (might, must and can't have…) (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -156,3 +156,16 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Deductions about the past: must have / can't have / might have + participle | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed pp.101–102 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modals for inference and obligation — should, must, must be, must have (Unit 1) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.1–25 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

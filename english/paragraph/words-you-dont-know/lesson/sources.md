@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -186,8 +186,8 @@ verification sweep.
 | Apply vocabulary appropriately in specific contexts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.3.1, PDF p.58 (curriculum evidence) |
 | Use vocabulary appropriately in speaking and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.3.1, PDF p.91 (curriculum evidence) |
 
-**Acceptance count: taught in 24 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Kuwait, Fiji).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
+**Acceptance count: taught in 25 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Kuwait, Fiji, Eritrea).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -217,7 +217,7 @@ Grade 11 returns to contextual guessing in Unit 3
 and to guessing from context in Units 6 and 10, and
 its Grade 4 teacher's guide carries a guessing-meanings
 lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8); South Sudan joined 2026-11-03: it stocks the guessing in part — its Primary 3 Teacher's Guide's Introduction names the strategies for getting unstuck on a word (re-read, context clues, infer meaning, locate key words, predictions, word attack, printed pp.iv–x) — but that teaching sits in the guide's Introduction only, and no read South Sudan pupil's book practises guessing a word's meaning from its context as a lesson (the definition-and-matching vocabulary work elsewhere in the series is not this lesson). Tanzania joined 2026-11-04 in part: it teaches the word-relationship stock outright — synonyms named as synonyms (until/till; opponent, rival, enemy; buy/purchase; hate/dislike; speak/talk), opposites worked in dialogue, and one word's two meanings (mouse) talked apart — the very stock other countries' methods spend on unknown words, but it teaches no guessing from context anywhere, so the context ladder rests on the other countries. Other closed countries join as their
-books are read (see READING-QUEUE.md). Mexico's Grade 9 book listens for two coined words — “infodemic” and “infocracy” — and works them out from their context (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+books are read (see READING-QUEUE.md). Mexico's Grade 9 book listens for two coined words — “infodemic” and “infocracy” — and works them out from their context (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -365,3 +365,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dictionary skills — choosing the correct meaning; identifying parts of speech (Units 2–3) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.17–60 |
+| Confusing verbs — accept/except, adapt/adopt (Unit 7); confusing verbs review (Unit 9) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.127–150, 172–189 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

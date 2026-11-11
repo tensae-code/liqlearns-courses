@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -137,7 +137,7 @@ the 2026-11-08 re-verification sweep.
 | A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
 | Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 17 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji).** Cyprus joins with Year 3's 'Putting on a Play' project — roles, prompts, costumes, performing (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 18 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 3's 'Putting on a Play' project — roles, prompts, costumes, performing (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -145,7 +145,7 @@ Barbados sets skits and plays in Standard English from
 Class 1; India prints a full one-act play and sets the
 prose-to-script conversion. Bangladesh prints the same
 Chekhov play in its senior book's Reading for Pleasure
-reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 "Perform a story" project and Grade 11 Literature Focus drama — "Baghdadi Bath" and "The Tempest" (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 and Grade 8 role-play (stocked 2026-11-11 by the re-verification sweep merge).
+reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 "Perform a story" project and Grade 11 Literature Focus drama — "Baghdadi Bath" and "The Tempest" (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 and Grade 8 role-play (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -343,3 +343,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+**Book 3:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Artistic expression — feelings in art and music, Eritrean vs world music, a short play with stage directions, writing a review of a song/poem (Unit 9) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.183–198 |
+| Thinking positively — identifying speakers' attitudes, turning a description/story into drama or role play, letters of acceptance/decline (Units 2–3) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.27–84 |
+| Holidays — meetings (participating, chairing), short drama performance, newspaper article writing, paragraphing I (Unit 3) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.55–75 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

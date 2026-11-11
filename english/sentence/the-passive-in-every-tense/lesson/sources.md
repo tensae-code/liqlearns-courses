@@ -1,6 +1,6 @@
 # Sources — The passive in every tense
 
-countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya
+countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya, Eritrea
 
 Every part traces to its book and page.
 
@@ -47,7 +47,7 @@ Every part traces to its book and page.
 | Present and past perfect passive, reviewed in museum contexts | Mongolia, English XI, Unit 10, printed pp.156–157 |
 | The passive voice taught systematically for the present tenses — indefinite, continuous and perfect, each in its own section (the same book carries the passive through the past and future tenses too; those coats are stocked at the past perfect and future perfect lessons) | Pakistan, *English Grammar & Composition 9–10*, printed pp.88–95 (sections at printed pp.88, 91, 93) |
 
-**Acceptance count: taught in 11 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya).** Libya joins with the passive extended — continuous and perfect forms (Grade 11-1) and the passive in continuous tenses with the causative perfect form (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 present and past continuous passive, from the Student's Book's own book map (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya, Eritrea).** Libya joins with the passive extended — continuous and perfect forms (Grade 11-1) and the passive in continuous tenses with the causative perfect form (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 present and past continuous passive, from the Student's Book's own book map (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 The basic present/past passive itself is stocked by the earlier lesson, The passive, and is not re-counted here; this lesson's count covers only the countries whose books carry the deeper coats named above. Nepal's entry is teacher's-guide evidence and is worded as such everywhere it is used.
 
@@ -93,3 +93,18 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | The passive in continuous tenses, + have + object + past participle (the causative perfect form) | Libya, Grade 12-1 (Literary) Course Book, Grammar 2 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Active and passive 2 — present/past continuous and present/past perfect passives (Unit 8) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.149–167 |
+| Present perfect and past perfect passive (Unit 7) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.127–150 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

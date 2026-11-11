@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -94,7 +94,7 @@ verification sweep.
 | Word Families, Rhyming Endings And Common Digraphs — Use common rhyming/ending words to decode words. | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.3.1, PDF p.43 (curriculum evidence) |
 | Word Families: Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words. e.g. – | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.3.1, PDF p.117 (curriculum evidence) |
 | Word Families, Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.3.1, PDF p.193 (curriculum evidence) |
-**Acceptance count: taught in 17 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 18 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji, Eritrea).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -112,7 +112,7 @@ Grade 1 Phonics Corner on rhyming, with rhyming matching
 programme is recorded for Syria.
 Kuwait joined 2026-11-04 with eight rime families in its Grade 1 book — two per unit across Units 5–8, each with a cumulative build-up reading text. Its -ed family is met as a word family, not taught as a past tense.
 Counts grow as other closed countries' books are read.
-Nepal joined 2026-11-03 in part only, on rhyming sets: its Grade 3 book carries the rhyme families white/kite/night and hair/care/pair as sound sets (Unit 2, printed pp.10–17), its Grade 1 teacher's guide plays rhyming bingo inside its own programme for a different, unheld workbook (printed p.19), and its Grade 6 teacher's guide keys a poem's rhymes as families (hear/tear/fear/bear/near and four more sets) inside its own unit for a different, unheld textbook (Unit 13, printed pp.95–100); no named word-family programme is recorded for Nepal, and none is claimed here.
+Nepal joined 2026-11-03 in part only, on rhyming sets: its Grade 3 book carries the rhyme families white/kite/night and hair/care/pair as sound sets (Unit 2, printed pp.10–17), its Grade 1 teacher's guide plays rhyming bingo inside its own programme for a different, unheld workbook (printed p.19), and its Grade 6 teacher's guide keys a poem's rhymes as families (hear/tear/fear/bear/near and four more sets) inside its own unit for a different, unheld textbook (Unit 13, printed pp.95–100); no named word-family programme is recorded for Nepal, and none is claimed here. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -550,3 +550,16 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word formation — nouns (Units 1, 8); adjectives (Unit 3); adverbs (Unit 5) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.1–25, 91–150 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

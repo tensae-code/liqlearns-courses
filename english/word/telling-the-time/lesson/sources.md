@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -217,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 38 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji).** Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
+**Acceptance count: taught in 39 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea).** Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -240,7 +240,7 @@ books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03 with the fullest time teaching in this file beside the deepest other entries: Grade 3's first unit teaches the whole clock — o'clock, half and quarter past/to, minutes past/to — over a child's day (Unit 1, printed pp.1–9), keyed by its true companion guide; Grade 2 teaches o'clock and half past (Unit 10, printed pp.56–61); and its Grade 1 teacher's guide teaches the hours with a hand-moved clock in its own lesson for a different, unheld workbook (Lesson 78, printed pp.288–314).
 Mauritania tells the time whole in its Grade 7 book — o'clock,
 half past, quarter to, a.m./p.m. (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
 (MoES/RIES, 2012; full read in english/books/laos.md). Laos's
@@ -474,3 +474,21 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telling the time — "What time is it? It's one o'clock"; writing times (Unit 19) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.174, 177–186 |
+| Telling the time — o'clock and quarter times ("What is the time? It is nine o'clock / eight fifteen") (Unit 1) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.9, 11 |
+| Time periods and dates — minute/hour/day/week/month/year, "How many…are there?", saying the date (Unit 6) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.57–58 |
+| What can you do? — abilities with can/can't, polite requests "Can I…?", telling the time, "How many…?" (Unit 3) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.47–69 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

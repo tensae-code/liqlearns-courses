@@ -78,7 +78,9 @@ its own subtitle folder with its own lesson + questions):
   Africa re-verification sweep merge — **Unit 3, Sounds
   Together**) ·
   phonetics (added 2026-11-11 by the Fiji expansion
-  merge — **Unit 3, Sounds Together**)
+  merge — **Unit 3, Sounds Together**) ·
+  sight-words (added 2026-11-11 by the Eritrea expansion
+  merge — **Unit 4, First Words**)
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you ·
@@ -98,7 +100,9 @@ its own subtitle folder with its own lesson + questions):
   Conversation**) ·
   everyday-replies-and-social-responses (added 2026-11-11 by
   the Mongolia re-verification sweep merge — **Unit 5,
-  Conversation**)
+  Conversation**) ·
+  giving-warnings (added 2026-11-11 by the Eritrea expansion
+  merge — **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -193,7 +197,10 @@ its own subtitle folder with its own lesson + questions):
   re-verification sweep merge — **Unit 7, Words
   for the World**) ·
   staying-safe-online (added 2026-11-11 by the Cyprus
-  expansion merge — **Unit 7, Words for the World**)
+  expansion merge — **Unit 7, Words for the World**) ·
+  safety-rules · the-five-senses (added 2026-11-11 by
+  the Eritrea expansion merge — **Unit 7, Words for
+  the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -210,6 +217,8 @@ its own subtitle folder with its own lesson + questions):
   the-colon (added 2026-11-11 by the Barbados
   re-verification sweep merge — **Unit 10, Building a
   Sentence**) ·
+  inversion (added 2026-11-11 by the Eritrea expansion
+  merge — **Unit 18, Deeper Sentences**) ·
   contractions-and-possessive-forms (added 2026-11-11
   by the Palestine re-verification sweep merge —
   **Unit 10, Building a Sentence**) ·

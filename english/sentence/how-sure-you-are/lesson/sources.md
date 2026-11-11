@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea
 
 Every part traces to its book and page.
 
@@ -140,7 +140,7 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 25 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia).** Libya joins with may/might for possibility (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 26 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea).** Libya joins with may/might for possibility (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -163,7 +163,7 @@ re-verification sweep merge).
 Mauritania grades the modals in Grade 12 (may/might; the
 prediction shades) and charts the whole system — ability,
 deduction, requests, certainty — in Grade 13 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its must/mustn't rules, need, modals and certainty words across Grades 4, 6, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3, 4, 8 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its possibility and modal work in Grades 8 and 9 (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its must/mustn't rules, need, modals and certainty words across Grades 4, 6, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3, 4, 8 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its possibility and modal work in Grades 8 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -457,3 +457,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Modals of obligation and advice for road safety: must, should, have to | Ethiopia, English for Ethiopia, Grade 9 Student's Textbook, Unit 3, printed p.52 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possible/impossible judgements ("Can you fly to the moon? — impossible") + "ck" words (Unit 18) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.162–163 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

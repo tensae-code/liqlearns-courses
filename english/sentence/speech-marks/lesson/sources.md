@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Barbados, Fiji
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -75,8 +75,8 @@ verification sweep.
 | Punctuation and quotation marks in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Quotation marks in the book's closing grammar stretch (with simple, compound and complex sentences) | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 11 countries (Malaysia,
-Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Fiji).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
+**Acceptance count: taught in 12 countries (Malaysia,
+Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Fiji, Eritrea).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
 6 Scheme of Work — a teacher planning document, not a
 pupil's textbook — and is worded as mapped coverage
 throughout: Unit 1 of the map sets direct speech
@@ -96,7 +96,7 @@ marks in its Grade 8 feelings chapter (stocked 2026-11-09
 by the re-verification sweep merge).
 No other closed country's filing teaches direct-speech
 punctuation as a named system; the lesson does not claim
-them. Ethiopia joins with its Grade 7 semi-colon and apostrophe work and Grade 10 apostrophe (stocked 2026-11-11 by the re-verification sweep merge).
+them. Ethiopia joins with its Grade 7 semi-colon and apostrophe work and Grade 10 apostrophe (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -215,3 +215,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 2:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 3:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Punctuation — capital letters, full stops, question marks in sentences (Units 10, 13) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.92, 116 |
+| Speech (quotation) marks and commas in direct speech (Unit 4) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.56–76 |
+| Punctuation 2 — colon, semi-colon, brackets, hyphen, apostrophe, quotation marks (Unit 5) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.86–107 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

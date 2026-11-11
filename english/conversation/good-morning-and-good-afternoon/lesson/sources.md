@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen, Laos, Cyprus
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen, Laos, Cyprus, Eritrea
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -69,7 +69,7 @@ verification sweep.
 | Greetings by time of day — good morning / afternoon / evening, good night — with nice to meet you (too) | Mauritania, Study English, Grade 7, printed pp.11–12 |
 | The greeting taught from the year's first poem: "Good Morning" (Fannie R. Buchanan) — the child greets sky, sun, winds, birds, trees, grass and bees on waking; talk time: "In the morning I say Good morning, at night Good night", and saying Good morning in your own language | India — Marigold Book Three (Class 3), Unit 1, printed pp.1–10 |
 
-**Acceptance count: taught in 30 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen, Laos, Cyprus).** Cyprus joins with its greetings — 'Good morning' and 'How are you?' (Year 1) and the time-of-day greetings (Year 4) (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 31 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen, Laos, Cyprus, Eritrea).** Cyprus joins with its greetings — 'Good morning' and 'How are you?' (Year 1) and the time-of-day greetings (Year 4) (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -114,7 +114,7 @@ Nepal joined 2026-11-03 with the pair itself, in full — its Grade 2 book opens
 Armenia joined 2026-11-03 with guide-only partial stock, recorded plainly as such: its pupil books teach hello/hi/goodbye but print no "Good morning/Good afternoon" exchange; the stock is the Grade 7 Methodological Guide's "Classroom Language Exponents" list (printed p.48), which names "Good morning/ afternoon/ evening (everyone/ class)" as teacher greeting phrases.
 Mauritania teaches the time-of-day greetings as one set in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -420,3 +420,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings by time of day — morning, afternoon, evening, night; "Good morning/evening", thank you; "What is your name?" (Unit 1, Hello) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.1–5 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

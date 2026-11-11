@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus
+countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -38,7 +38,7 @@ Every part traces to its book and page.
 | The school things word set — a schoolbag, a sharpener, a pen, a ruler, a book, a rubber, a pencil case, a pencil — with "What's this? — It's a pen!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
 | Project frame "In my schoolbag there is …", listing a pen, a book, a pencil case | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 6, pupil printed p.25 |
 
-**Acceptance count: taught in 18 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus).** Cyprus joins with its classroom objects, from book and pencil to desk, computer and chair (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 and Grade 3 classroom word sets (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 19 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with its classroom objects, from book and pencil to desk, computer and chair (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 and Grade 3 classroom word sets (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -266,3 +266,24 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings and first classroom words: window, door (Unit 1) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.1 |
+| Classroom objects: desk, chair, blackboard (Unit 2) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.2 |
+| Classroom objects bag, pencil, book + the action "point to" (Unit 3) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.3 |
+| Classroom and home objects: bed, table, box, cup, pen, bottle (Unit 6) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.6 |
+| Objects flag, stick, toy, ball (Unit 13) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.38 |
+| Classroom objects and language — bell, rubber, ruler, homework, page, game; "What is this?"; polite request "Would you please give me…?"; absent, again, repeat (Unit 2) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.11–15 |
+| Greetings and self-introduction ("Hello, my name is… / What is your name?") + classroom/school vocabulary (Unit 1) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.1–2 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Review writing
 
-countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Barbados, Fiji
+countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -40,7 +40,7 @@ Every part traces to its book and page.
 | Writing a comment on a film you watched | Mongolia, English XII, Unit 10, printed p.180 |
 | Telling the story of a film (set phrases for beginning, middle, end) | Mongolia, English XII, Unit 10, printed p.183 |
 
-**Acceptance count: taught in 15 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Fiji).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Jordan, Fiji, Eritrea).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -220,3 +220,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Artistic expression — feelings in art and music, Eritrean vs world music, a short play with stage directions, writing a review of a song/poem (Unit 9) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.183–198 |
+| Inventions — planning and evaluating drama, revision strategies, critical reviews of books/articles/essays, paragraphing II (Unit 4) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.76–107 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

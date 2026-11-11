@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -146,7 +146,7 @@ verification sweep.
 | The short-a sound, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Alphabet sounds — the sounds the letters make | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 
-**Acceptance count: taught in 20 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji).** Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 21 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea).** Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -177,7 +177,7 @@ CVC word-building system is recorded for Syria, and none
 is claimed here.
 Kuwait joined 2026-11-04 in part only: its Grade 1 phonics lessons are named "Let's blend and read" and blend by rime family, each family read in a cumulative build-up text. No phoneme segmenting or blending system is taught anywhere in Kuwait's held set.
 Counts grow as other closed countries' books are read.
-Nepal joined 2026-11-03 on its Grade 1 teacher's guide alone, recorded exactly as filed: the guide teaches blending inside its own programme — blending/segmenting activities in its opening activity bank (printed pp.1–49) and blending checkpoints at Lessons 25, 36, 47 and 58 of its Alphabet sequence (printed pp.97–278) — but it is the guide to a different, unheld workbook, and the held Nepal student's books teach no blending and no systematic phonics at all.
+Nepal joined 2026-11-03 on its Grade 1 teacher's guide alone, recorded exactly as filed: the guide teaches blending inside its own programme — blending/segmenting activities in its opening activity bank (printed pp.1–49) and blending checkpoints at Lessons 25, 36, 47 and 58 of its Alphabet sequence (printed pp.97–278) — but it is the guide to a different, unheld workbook, and the held Nepal student's books teach no blending and no systematic phonics at all. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -586,3 +586,18 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Blending and segmenting sounds; digraph 'ch'; gr/ing blends (Units 13–15) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.111, 113, 127 |
+| Beginning/middle/final sounds in words — phonics discrimination (Unit 4) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.40 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

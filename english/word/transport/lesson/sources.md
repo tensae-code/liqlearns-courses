@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Afghanistan, Kuwait, Cyprus, Fiji
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 2
@@ -94,7 +94,7 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 31 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Afghanistan, Kuwait, Cyprus, Fiji).** Cyprus joins with Year 6's transport with by — by helicopter, aeroplane, bicycle, motorbike, ship, bus; on foot (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with transport words and “by + vehicle / on foot” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its travel-ticket exchange and Full Blast Plus 4's airport language (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 32 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 6's transport with by — by helicopter, aeroplane, bicycle, motorbike, ship, bus; on foot (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with transport words and “by + vehicle / on foot” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its travel-ticket exchange and Full Blast Plus 4's airport language (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -115,7 +115,7 @@ a conversation in Grade 9 and tourism — choosing a
 destination, the tourism word set and a workbook-only
 reading on being a good traveler — in Grade 10 (stocked
 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
-READING-QUEUE.md). Iraq joins with its transport sets in Grades 3, 5, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 5 and Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Iraq joins with its transport sets in Grades 3, 5, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 5 and Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -509,3 +509,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily activities walk, run, play; catch, throw + car (Unit 13 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.41, 44 |
+| How we travel — transport types compared, travel prepositions in/on/by, asking and giving directions ("Tell me how to get to…") (Unit 9) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.182–208 |
+| Holidays and travel — summer-holiday recounts, travel and transport, past simple, prepositions in/on/by for transport; reading text "Summer in Segeneiti" — plot summary only: students pick prickly pears (beles) with tins on sticks, wrap them in leaves, and sell them in town (Unit 1) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.1–22 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

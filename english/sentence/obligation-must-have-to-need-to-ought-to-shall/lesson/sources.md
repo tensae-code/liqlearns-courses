@@ -1,6 +1,6 @@
 # Sources — Obligation Compared — Must, Have To, Need To, Ought To, Shall
 
-countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait
+countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait, Eritrea
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ verification sweep.
 | Should with have to/has to — the full forms, including negatives and questions | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 | The obligation scale — must (100%) / have to / should (60%) / don't have to (0%) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C (printed p.38 in the filing's anchor) |
 
-**Acceptance count: taught in 7 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia, Kuwait, Eritrea).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 Nicaragua joins with the Grade 9 Student's Book's rules lesson (must/mustn't against should and may, PDF p.86) and the Grade 10 module's full should/have to treatment with its obligation scale — must (100%) / have to / should (60%) / don't have to (0%) (Unit 1C, the filing's anchor is printed p.38) (stocked 2026-11-11 by the re-verification sweep merge).
 
@@ -83,3 +83,20 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | have to / should / must for necessity and advice: “Most people have to work to earn money. You shouldn't waste your money. You must be more careful” | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 9, printed p.70 (full-year folio; term folio p.23) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 2:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our country — describing Eritrea in a paragraph; obligation must/must not; quantifiers many, much, some, a lot of; S+V+C sentence structure (Unit 10) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.192–214 |
+| Modals of obligation — must, should, have to in crime/tourism units (Units 9–10) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.179–223 |
+| Second conditional with would; modals ought to, should, have to, must (Unit 3) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.46–71 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

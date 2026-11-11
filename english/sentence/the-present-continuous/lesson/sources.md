@@ -1,6 +1,6 @@
 # Sources — The Present Continuous
 
-countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus
+countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -18,10 +18,10 @@ covers the 6th Year book only).
 | All four sub lessons — the present continuous taught across the book's doing chapters: "What are you doing?" with am/is/are + verb-ing over chores, play and classroom actions | Indonesia, English for Nusantara Kids Grade 3, printed pp.59–88 |
 | The present continuous for actions happening now (be + verb-ing; the spellings taking/cutting/beginning) | Mauritania, Study English, Grade 7, printed pp.61–63 |
 
-**Acceptance count: taught in 6 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus).** Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
+**Acceptance count: taught in 7 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea).** Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
 Mauritania joins with its Grade 7 book's present continuous
 for actions happening now (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 present continuous (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 present continuous (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -97,3 +97,22 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 4:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous questions — "What are they doing? / What are you doing? / Who is eating?" with -ing action words (Unit 14) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.112–115 |
+| Present continuous for actions happening now ("I am washing / My father is digging") (Unit 4, "My family") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.34 |
+| Present and past continuous tenses (Unit 8) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.148–170 |
+| Present continuous vs present simple — actions now vs routines, in dialogues and gap-fill paragraphs (Units 1–2) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed pp.9–10, 29, 43–44 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

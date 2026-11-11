@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -63,8 +63,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 12 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus).** Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 13 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea).** Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -76,7 +76,7 @@ speaking work in Grade 9, opens the unit with the
 cross-cultural "I'm Sorry" reading and a company apology
 letter, sets the apology letter as writing, and its
 (DRAFT) teacher's guide carries a seven-lesson apologising
-unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 and Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
+unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 and Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -245,3 +245,18 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| You and other people — good/bad relationships and manners, polite address, informal letters and letters of apology; adverbs of manner; adverbs of certainty and frequency; giving warnings (Unit 4) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.67–87 |
+| Politeness — being polite texts; writing a letter of apology and a letter of complaint (Unit 5) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.86–107 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — There Is and There Are
 
-countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus
+countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Describing where you live — there is/are with prepositions of place | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed p.9 |
 | There is / there are (review) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4A |
 
-**Acceptance count: taught in 11 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus).** Cyprus joins with its there is/are line, including past there was/were in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “There is a monkey on the tree” (Grade 1) and There was / There were (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with its there is/are line, including past there was/were in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “There is a monkey on the tree” (Grade 1) and There was / There were (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found there is/are taught in four places with no full lesson of their own (the course's Introductory There, from Bangladesh, covers only the introductory use). Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the full system. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -167,3 +167,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "How many…?" with There is / There are (Unit 1) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.4 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -95,7 +95,7 @@ how-old-are-you), not here.
 | Introducing others as a printed outcome — the plans file introducing people among the lesson outcomes, with the *How do you do? / This is …* frames inside the greetings lessons | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lessons 1–2, guide printed pp.4–15 |
 | Introducing other people: let me introduce you to…, I'd like you to meet…, pleased/glad to meet you | Mauritania, Study English, Grade 7, printed pp.20–22 |
 | The register of introductions — informal "this is…" against formal "I'd like to introduce…", answered "How do you do?" | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed pp.14–15 |
-**Acceptance count: taught in 33 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus).** Cyprus joins with its introducing frames — 'This is…' for a friend and for your mother (stocked 2026-11-11 by the Cyprus expansion merge).
+**Acceptance count: taught in 34 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea).** Cyprus joins with its introducing frames — 'This is…' for a friend and for your mother (stocked 2026-11-11 by the Cyprus expansion merge).
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -157,7 +157,7 @@ Armenia joined 2026-11-03: its Grade 3 book introduces another person by name wi
 Mauritania introduces other people in its Grade 7 book, and
 its teacher guide adds the formal/informal register of
 introductions as teacher evidence (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 next-year layer): *English — Primary 2 — Term 1* (MoE Egypt with the
@@ -639,3 +639,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introducing yourself and others — name, spelling a name, age, address; "Glad/Nice to meet you"; polite repetition request "Can you repeat that, please?" (Unit 1, Meeting people) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed pp.2–4 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -325,9 +325,9 @@ verification sweep.
 | Identify and use subject and predicate in text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.2, PDF p.52 (curriculum evidence) |
 | Identify and use subject and predicate in texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.3, PDF p.121 (curriculum evidence) |
 | Create effective descriptive sentences when | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 4 (Writing), standard B9.4.2.1, PDF p.128 (curriculum evidence) |
-**Acceptance count: taught in 36 countries (Bangladesh,
+**Acceptance count: taught in 37 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Fiji).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Fiji, Eritrea).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -341,7 +341,7 @@ sentences in its Grade 3 workbook and builds them, and
 sets present-continuous word order, in its Grade 8
 workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Iraq stocks this lesson only in part: its Grade 1 and Grade 2 teacher's books define a sentence for pupils — a group of words that makes sense, starting with a capital letter and ending with a full stop — and its Grade 2 teacher's book builds sentences from Word Cards to focus attention on word order, but no Iraq book states a subject-and-verb sentence-building rule or builds a sentence from its parts. Ethiopia carries the formula as a form box inside its Grade 3 simple-present grammar — Subject + Verb(s/es) + Object — and works sentences at the top of the school: constructing sentences in Grade 9, sentence types in Grade 10, and sentence types by function and structure with fragments, run-ons and comma splices in Grade 11. South Africa stocks this lesson in full — fuller than several earlier countries' partials: its Grade 4 Workbook 1 names subject, verb and object, with transitive and intransitive verbs, its Grade 4 Workbook 2 builds simple sentences as subject + predicate, and its Grade 6 Workbook 1 picks out subjects, verbs and objects in three colours and works subject and predicate in complex sentences. Syria stocks this lesson only in part, and in the same way as Greece and Kazakhstan: its Grade 3 Workbook reorders sentences and questions in most units as the band's first writing mechanics, and its Grade 9 books set word-order correction as writing work, but no Syria book states a subject-and-verb sentence-building rule as a named lesson. South Sudan joined 2026-11-03: its Primary 3 Teacher's Guide sets simple and compound sentences as the writing ladder's outcome, its Primary 6 Pupil's Book works simple vs compound sentences, subject-verb agreement is checked in Primary 3 and practised in five sets in Secondary 4, and Secondary 4 distinguishes clause from phrase. Nepal names the sentence itself: simple, compound and complex sentences in Grade 9's Extra bit, the S-V-O-C-A sentence functions in Grade 11, subject–verb agreement in Grade 8, and a named "Sub+V2+(obj)+time" pattern in the Grade 3 companion guide; Armenia joins with sentence combining about favourite subjects in English 9, Unit 1.2 (printed pp.8–10), and with sentence combination taught as a technique in its own right in the English 7 Methodological Guide (printed pp.53–54), carried again in the English 10 Methodological Guide (printed pp.51–52). Kuwait stocks this lesson in part only, with ordering and building practice in its Grade 1 and Grade 2 Skyline books and in the older New Fun with English activity book. No held Kuwait book states a subject-and-verb sentence-building rule. Rwanda stocks this lesson in part only, in the same ordering-and-table way: word-order puzzles in Primary 2, substitution-table sentences and sentence-building from a table in Primary 3, and sentence-building from a table in Primary 5; no Rwanda book states a subject-and-verb sentence-building rule. Other finished
 countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -693,3 +693,16 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tense overview — present perfect introduced alongside present/past simple and continuous review; S+V+O sentence structure (Unit 1) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.1–21 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

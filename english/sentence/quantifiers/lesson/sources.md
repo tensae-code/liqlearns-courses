@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -113,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 29 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus).** Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 30 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea).** Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -129,7 +129,7 @@ classroom's own things in Grade 4 (stocked 2026-11-08 by
 the re-verification sweep).
 Mauritania teaches the quantity words and the containers set
 in its Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project. Iraq joins with its quantifiers in Grades 5, 8, 9, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 6 and 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 quantity words, Grade 7 countable and uncountable nouns, and the Grade 10 quantifier set (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project. Iraq joins with its quantifiers in Grades 5, 8, 9, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 6 and 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 quantity words, Grade 7 countable and uncountable nouns, and the Grade 10 quantifier set (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -485,3 +485,19 @@ Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 path
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 2:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shopping — countable and uncountable nouns, some/any, How much/many, Is/Are there any…?, "Would you like…?", shopping manners story, shopping lists, plurals with s/es (Unit 6) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.102–125 |
+| Our country — describing Eritrea in a paragraph; obligation must/must not; quantifiers many, much, some, a lot of; S+V+C sentence structure (Unit 10) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.192–214 |
+| Tourism — courteous manners, advantages/disadvantages of tourism, describing people and places; many/much with countable/uncountable nouns (Unit 10) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.202–223 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

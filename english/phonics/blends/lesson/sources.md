@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -134,7 +134,7 @@ pictures).
 | Blends And Consonant Clusters — Orally produce two-syllable words by blending sounds | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.5.1, PDF p.119 (curriculum evidence) |
 | Blends And Consonant Clusters — Orally produce three-syllable words by blending | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.5.1, PDF p.195 (curriculum evidence) |
 
-**Acceptance count: taught in 20 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji).**
+**Acceptance count: taught in 21 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -163,7 +163,7 @@ pair of example words, and the first set sorted again
 in its Workbook's Revision 2.
 Kuwait joined 2026-11-04 in part only: a single workbook micro-skill page blends the initial clusters str- and spr- from a ten-word bank. The matching Student's Book has no pronunciation strand, and Kuwait's Skyline primary books teach no consonant blends.
 Counts grow as other closed countries' books are read.
-Nepal joined 2026-11-03 with consonant clusters as named work at the top of its course: Grade 11 works the clusters /sk/ /sp/ /st/ inside its travel unit (Unit 19, printed pp.172–180), Grade 12 works consonant clusters again in its final unit (Unit 20, printed pp.170–179), and Grade 3 carries a teacher note on consonant clusters at printed p.46 — clusters named as their own set, not an opening-blend phonics strand, and recorded on those terms.
+Nepal joined 2026-11-03 with consonant clusters as named work at the top of its course: Grade 11 works the clusters /sk/ /sp/ /st/ inside its travel unit (Unit 19, printed pp.172–180), Grade 12 works consonant clusters again in its final unit (Unit 20, printed pp.170–179), and Grade 3 carries a teacher note on consonant clusters at printed p.46 — clusters named as their own set, not an opening-blend phonics strand, and recorded on those terms. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -539,3 +539,21 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Blending and segmenting sounds; digraph 'ch'; gr/ing blends (Units 13–15) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.111, 113, 127 |
+| Initial blends bl/cl/dr and final clusters (Units 13–14) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.117, 129 |
+| The /ai/ sound (kind, shy, silent) and final blends sm/…lm/…nt/…nd (Unit 19) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.165, 170 |
+| Phonics strands across G4 — oo sounds, CVC words, st/sl/tr blends, ch/er/th, /au/, tch (Units 1–8) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), Units 1–8 unit spans |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

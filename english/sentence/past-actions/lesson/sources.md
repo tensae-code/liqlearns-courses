@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -413,9 +413,9 @@ verification sweep.
 | “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
 | “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 | Past tenses for storytelling (past simple, past continuous, past perfect) | Mongolia, English XII, Unit 6, printed pp.107–108 |
-**Acceptance count: taught in 39 countries (Bolivia, Ghana,
+**Acceptance count: taught in 40 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -435,7 +435,7 @@ Greece stages the past in Grade 5 — affirmative first, then negatives and ques
 are read (see READING-QUEUE.md).
 Mauritania teaches the simple past in Grade 9 and its spelling
 system in Grade 11 (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's past spine starts in Grade 7 (regular verbs, then regular and irregular together) and continues in Grade 8 with there was/were + could, past time expressions, and was/were for feelings and situations (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+verification sweep merge). Mexico's past spine starts in Grade 7 (regular verbs, then regular and irregular together) and continues in Grade 8 with there was/were + could, past time expressions, and was/were for feelings and situations (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -986,3 +986,29 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 4:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 5:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 6:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past weather — "Yesterday it was raining" (Unit 19) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.170–173 |
+| Past simple of regular -ed verbs — statements, in the stories "Roble helped her mother" and "Dawit's day" (Unit 6, "Yesterday") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.51–53 |
+| Past questions with did ("What did you do yesterday? / Did she study…?") (Units 6–7) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.54–55, 59 |
+| Past negatives with didn't (Unit 7, "Last week") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.59–63 |
+| Irregular (non-ed) past verbs — was/were, gave, had, went, saw, ate, slept, sang, got up (Unit 7) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.60, 64–65 |
+| My holiday — recounting recent personal events in the past tense, holiday/travel vocabulary (beach, island, journey, picnic, tourist, postcard…), writing a description of recent events (Unit 1) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.1–22 |
+| Living together — present simple in all forms (affirmative, negative, interrogative) vs past simple; diary writing (Unit 1) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.1–17 |
+| Holidays and travel — summer-holiday recounts, travel and transport, past simple, prepositions in/on/by for transport; reading text "Summer in Segeneiti" — plot summary only: students pick prickly pears (beles) with tins on sticks, wrap them in leaves, and sell them in town (Unit 1) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.1–22 |
+| Past tenses review — simple, continuous and perfect, including past tenses in adverbial clauses (Unit 1) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.1–16 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

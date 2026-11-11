@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -385,9 +385,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 39 countries (Egypt, India,
+**Acceptance count: taught in 40 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus).** Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea).** Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -404,7 +404,7 @@ countries join as their books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03 with the whole climb in its own order: counting 1–10 in Grade 1 (Unit 5), number words 11–50 and written numbers to 97 in Grade 2 (Unit 3), numbers in words to three figures (514–799) in Grade 3 (Unit 3, keyed in its companion guide), and the ordinals first–tenth in Grade 4 (Unit 10).
 Mauritania counts 0–50 in its Grade 7 book and says phone
 numbers digit by digit (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge). Mexico's Grade 8 book uses scientific notation for very large and very small quantities (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+re-verification sweep merge). Mexico's Grade 8 book uses scientific notation for very large and very small quantities (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
 Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
@@ -833,3 +833,26 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 4:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numbers 1–5, counting pictured objects (Unit 7) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.10–11 |
+| Farm animals cow, horse, goat, camel + counting (Unit 7 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.12–13 |
+| Numbers 6–10 and the full 1–10 set, counting (Unit 12) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.32–34 |
+| Numbers 0–21 (Unit 1) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.6–7 |
+| Numbers 30–100 (thirty…hundred) and counting (Unit 13) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.108–109 |
+| "How many…?" with There is / There are (Unit 1) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.4 |
+| Numbers 31–100 and saying addition answers (Unit 10) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.93 |
+| Maths English — perimeter, area, fractions, percent, "a million" (Unit 7, Math is fun) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed p.155 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — preferences: prefer + noun/-ing, like, enjoy + -ing, 'd rather + base verb; prefer X to Y | Mauritania, Study English, Grade 13, printed pp.32–34 |
 | Sub lesson 4 — 'd rather X than Y, and asking preferences: do you prefer…or…?, would you rather…or…? | Mauritania, Study English, Grade 13, printed pp.32–34 |
 
-**Acceptance count: taught in 7 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -111,3 +111,21 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food and likes — food, hungry, dish, lunch, dinner, taste, onion, cook, chicken, fruit, juice; "I like / I don't like", don't/doesn't like (Units 10–11) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.86–92 |
+| Likes and dislikes — like / don't like / doesn't like, with animals (Unit 3, "My holiday") | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.28 |
+| Music and dance — likes/dislikes ("I like/love… I don't like/love…"), persuading friends, cultures (Unit 5) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.88–109 |
+| Preference — would rather (Unit 11) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.224–246 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

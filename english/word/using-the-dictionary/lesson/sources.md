@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -219,11 +219,11 @@ verification sweep.
 | Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
 | College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
-**Acceptance count: taught in 27 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
+**Acceptance count: taught in 28 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq,
 Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda,
 Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela,
-Palestine, South Sudan, Sudan, Kuwait, Fiji).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
+Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -241,7 +241,7 @@ re-verification sweep merge); Sierra Leone
 carries the skill arriving in the last primary year and
 alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Greece carries a real dictionary-skills lesson in Grade 7 Beginners — alphabetical order, stress, looking up meanings — and per-unit glossaries for Grades 7 and 9, filed here as partial stock: the glossaries are unit-ordered finding tools, not a whole-book dictionary, with no guide words, no phonetic transcription and no A–Z index across the course, so a word can only be found if its unit and lesson are known; Kazakhstan is filed as partial stock on the same strict terms: it carries finding tools only — a trilingual picture dictionary at the back of its Grade 1 book and unit-ordered trilingual glossaries and a Dictionary with IPA at the back of its Grade 3 books — and no dictionary-skills lesson, no guide words and no alphabetical-order teaching anywhere in its set, so a word can only be found if its unit is known; Iraq is filed as full stock, not tools-only: it teaches the skills themselves — alphabet order as lessons in its Grade 4 and Grade 5 Activity Books, with partners ordering each other's words, and a dictionary entry taken apart as Word / Type of word / Meaning in Grade 6 — and carries the tools under them, a picture dictionary in every early book and an English–Arabic Your Dictionary by unit in each primary Pupil's Book from Grade 4; no guide words are taught anywhere in its set; Ethiopia is filed as partial stock on the same strict terms: it carries back-of-book and in-unit tools only — a dictionary-use box for synonyms of "respect" in Grade 3, dictionary meaning against contextual meaning in Grade 11, and an IPA chart headed "Phonetic symbols used in the dictionary" in its Grade 5 Teacher's Guide (printed p.227) — and no dictionary-skills system anywhere in its set: no guide words, no alphabetical-order lessons and no entry anatomy; South Africa is filed as full stock, on the Iraq precedent — dictionary skills taught as lessons: a full dictionary lesson in Grade 4 HL Workbook 2, the same lesson repeated in Grade 6 HL Workbook 1, and dictionary strategies alongside context clues in Grade 6 FAL Workbook 2; Syria is filed as partial stock on the same strict terms as Kazakhstan and Ethiopia: it carries finding tools only — alphabetical picture dictionaries at the back of its Grade 1, Grade 2 and Grade 3 pupil's books — and no dictionary-skills lesson, no guide words and no alphabetical-order teaching anywhere in its set, so a word can only be found inside those early picture spreads; the Grade 5 *English for Starters 5* (York Press, added 2026-11-06) adds a full alphabetical pupil Dictionary with child-written definitions (printed pp.75–76) and a Picture Dictionary (printed pp.77–78) — still tools, not a skills lesson, and two of its definitions are book errors taught corrected, never as fact; Nepal is filed as full stock: it teaches the skill itself — a full dictionary-skills lesson on alphabetical order by first, second and third letters in Grade 6, how to read a dictionary entry in Grade 7, dictionary abbreviations and dictionary word-work in Grade 8, and dictionary use with alphabetical order in Grade 11 — with dictionary use also taught, as its own teaching, in the Grade 10 guide's general chapters; Rwanda is filed as partial stock on the same strict terms as Kazakhstan, Ethiopia and Syria, but from the other side: it teaches dictionary use as tasks — dictionary/thesaurus look-ups in its Grade 5 book, an IPA dictionary pronunciation guide in that book's true companion guide, and alphabetical-order work in Grade 6 — yet it has no dictionary-skills system anywhere in its set: no guide words, no entry anatomy and no look-it-up lesson, and its books' own glossaries are not counted here; Other
 closed countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -551,3 +551,20 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 8 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2011, 240 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 9 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 222 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dictionary and library skills — finding information, word order, parts of speech, verb -ing/-ed forms (Units 6, 8, 10) | Eritrea, *English for Eritrea* Grade 8 (MoE 2011), printed pp.120–220 |
+| Dictionary skills — choosing the correct meaning; identifying parts of speech (Units 2–3) | Eritrea, *English for Eritrea* Grade 9 (MoE 2011), printed pp.17–60 |
+| Summarising and dictionary skills (Unit 5) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.108–139 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

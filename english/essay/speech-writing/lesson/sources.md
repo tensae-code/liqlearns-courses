@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji, Eritrea
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -88,9 +88,9 @@ colophon; cited once.
 | A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
 | Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 16 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
+**Acceptance count: taught in 17 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
 Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan,
-Sudan, Armenia, Ethiopia, Fiji).** Egypt sets the speech for or against an
+Sudan, Armenia, Ethiopia, Fiji, Eritrea).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -101,7 +101,7 @@ famous speeches and analyses them in its senior book's
 History unit (added 2026-11-08 by the re-verification
 sweep). China joins with a principal's graduation speech
 read with a strategy box on text type and purpose
-(stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 12 public speech (stocked 2026-11-11 by the re-verification sweep merge).
+(stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 12 public speech (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -221,3 +221,16 @@ Book error, carried: the Year 5 book's vaccination exposition dates Jenner's cow
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 12 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 156 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Literary works — speeches (welcoming, opening, closing), writing short speeches, taking minutes and writing a short report (Unit 2) | Eritrea, *English for Eritrea* Grade 12 (MoE 2011), printed pp.26–54 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

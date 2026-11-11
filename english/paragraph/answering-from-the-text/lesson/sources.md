@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -492,8 +492,8 @@ verification sweep.
 | An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
 | Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
 | Passage comprehension taught as its own chapter: solved examples first, then exercises | Pakistan, *English Grammar & Composition 9–10*, Chapter V, printed p.31 |
-**Acceptance count: taught in 37 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji).** Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+**Acceptance count: taught in 38 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea).** Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -540,7 +540,7 @@ true/false with correction, and reference and inference
 questions on every reading, and Pearls 9B sends pupils
 to find the evidence in the text in its cause-and-effect
 linker work. Rwanda answers from the text as its standing comprehension work from P1 up — passages, stories, graphs and sample papers all closed by questions on the text itself — with skimming and scanning named as reading skills in P5 and P6, but no not-given answering shape in any read book. Tanzania answers from the text as its one book's fixed cycle — every unit's story, passage or poem closed by fill-in-the-blanks, short-answer questions and a word-bank completion drawn from the text itself, two questions per unit stepping out to the pupil's own life — with no named scanning or not-given answering strategy in the book, so that naming rests on the other countries. Other closed countries join as their
-books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -1246,3 +1246,28 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 2:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+**Book 4:** *English for Eritrea* Grade 10 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 227 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+**Book 5:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading text "My school" — a pupil describes his school, class and school day; then talking about your own school (Unit 1) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.8 |
+| Reading text "Omer's farm" — a farmer's crops, trees and animals (Unit 2) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.20 |
+| Short reading stories "Father goes shopping" and "Tesfu doesn't comb his hair" — comprehension (Unit 11) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.95, 98 |
+| Reading text about rain and a leafless tree — getting wet on the way to school (Unit 14) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.128 |
+| Reading conversation set — zoo bite, cleaning accident, night latrine, being ill — short safety dialogues (Unit 18) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.160–161 |
+| Science is fun — science texts and stories, measurements and materials words (liquid, solid, gas, metal…), "Why does/do…? Because…" reasons (Unit 7) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), printed pp.140–156 |
+| Children's rights and duties — reading and discussion texts (Unit 4) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed pp.~82–115 |
+| Brain drain — tables/graphs discussion, two reading texts, problem-solving paragraphs (Unit 4) | Eritrea, *English for Eritrea* Grade 10 (MoE 2011), printed pp.75–90 |
+| Road accidents — accident texts and statistics (Unit 8) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.186–212 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

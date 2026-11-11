@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -276,7 +276,7 @@ ow/ou split) and the China Grade 4 row (the r-controlled
 ladder er · ir/ur/er · ar · or). The cover test moved from
 Sub lesson 3 to Sub lesson 5; no existing row changed.
 
-**Acceptance count: taught in 32 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda, Cyprus, Fiji).** Cyprus joins with Year 2 Part B's digraphs — oa, ay, ch, sh, ee, ey, ou — recognised and sounded out (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 33 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 2 Part B's digraphs — oa, ay, ch, sh, ee, ey, ou — recognised and sounded out (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -319,7 +319,7 @@ the later units — and the Workbook sorts the first four
 patterns again in Revision 1.
 Kuwait joined 2026-11-04 with a full digraph course in Grade 2 — "Macro Phonics", one digraph per lesson met inside a short story text — and the set's only pronunciation strand in Grade 5, silent-letter patterns taught with the rhyme-frame "A letter you see, but you don't say". Its two values of oo are taught in different units and never contrasted.
 Counts grow as other closed countries' books are read.
-Nepal joined 2026-11-03 in part only: its primary student's books carry no digraph or vowel-pair strand — their two-letter sounds live in short listen-and-repeat sets at unit ends (ee in Grade 2's Unit 1; oo, kn- and ea sets later in the same book) — and its Grade 3 companion guide names the diphthongs /ai/ and /eə/ inside the student's own sound sets; no one-pair-per-lesson strand is recorded for Nepal, and none is claimed here.
+Nepal joined 2026-11-03 in part only: its primary student's books carry no digraph or vowel-pair strand — their two-letter sounds live in short listen-and-repeat sets at unit ends (ee in Grade 2's Unit 1; oo, kn- and ea sets later in the same book) — and its Grade 3 companion guide names the diphthongs /ai/ and /eə/ inside the student's own sound sets; no one-pair-per-lesson strand is recorded for Nepal, and none is claimed here. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -1090,3 +1090,25 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+**Book 3:** *English for Eritrea* Grade 4 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 288 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Short vowel sounds — short a (fat, cat), u, e, i, o sets in words (Units 6–10) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.40, 45–46, 51–52, 64, 73–74 |
+| Phonics: CVC words and short-vowel sets (a/e/i/o/u), "sh" and "ch" words, initial/final consonant blends; letter sounds vs letter names; small vs capital letters a–e (Unit 1, continued through the book) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.3–5 |
+| Long-vowel sounds — a (take/came), o (go/no), i (time/ride) word sets (Unit 10) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.86, 88 |
+| "ght" words (night, light, right, eight, weight, height) (Unit 15) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.138 |
+| Safety language — careful, danger/dangerous, high/low, never + safety rules at home; "ph" words with the f sound (Unit 18) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed p.156 |
+| Possible/impossible judgements ("Can you fly to the moon? — impossible") + "ck" words (Unit 18) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.162–163 |
+| The /ai/ sound (kind, shy, silent) and final blends sm/…lm/…nt/…nd (Unit 19) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.165, 170 |
+| Phonics strands across G4 — oo sounds, CVC words, st/sl/tr blends, ch/er/th, /au/, tch (Units 1–8) | Eritrea, *English for Eritrea* Grade 4 (MoE 2009), Units 1–8 unit spans |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

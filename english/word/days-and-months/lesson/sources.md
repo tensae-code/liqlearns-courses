@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya, Cyprus
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -246,8 +246,8 @@ covers the 6th Year book only).
 | The days of the week with the ordinals first–seventh | Mauritania, Study English, Grade 7, printed pp.54–55 |
 | The seven days of the week — Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday — presented as a "Look and say" set | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 8, pupil printed p.66 |
 | The months of the year with ordinals to twelfth, and saying today's date | Mauritania, Study English, Grade 7, printed pp.56–57 |
-**Acceptance count: taught in 36 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya, Cyprus).** Cyprus joins with its days of the week and months, with dates and festival days (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the days of the week (Grade 2) and dates as a system — saying and writing dates, birthdays (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
+**Acceptance count: taught in 37 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea).** Cyprus joins with its days of the week and months, with dates and festival days (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the days of the week (Grade 2) and dates as a system — saying and writing dates, birthdays (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -268,7 +268,7 @@ READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries the days Sunday–Saturday in Grade 1 (Unit 9, Saturday the holiday), the months on a weather chart with the capital-letter rule for days and months in Grade 3 (Units 6 and 8), and Months of the Year as a named lesson in its Grade 2 teacher's guide, cited for its own teaching as a guide to a different, unheld workbook (Lesson 30, printed pp.112–126).
 Mauritania ties the days and the months to the ordinals in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
 Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read
@@ -592,3 +592,21 @@ Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; t
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+**Book 3:** *English for Eritrea* Grade 3 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 205 pp. (PDF). Printed page = PDF page − 18. Read in full, page by page, in the 2026-11-10 expansion read. Book note, carried: the book names its Unit 8 hero "Dawd" throughout — its own name form, kept as printed where a row rests on that story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Days of the week (Unit 13 cont.) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed p.40 |
+| Days, birthdays and plurals — days of the week as sight words, Happy Birthday, plural forms, capital letters (Unit 9) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.72–79 |
+| Days of the week in order + before/after for days (Unit 4) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.37–38 |
+| Time periods and dates — minute/hour/day/week/month/year, "How many…are there?", saying the date (Unit 6) | Eritrea, *English for Eritrea* Grade 3 (MoE 2009), printed pp.57–58 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

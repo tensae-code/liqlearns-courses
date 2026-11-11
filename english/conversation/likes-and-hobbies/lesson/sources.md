@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 9 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus).** Cyprus joins with its strong likes — 'I love / I hate + object' and 'love/like/hate + -ing' (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with its strong likes — 'I love / I hate + object' and 'love/like/hate + -ing' (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -142,3 +142,20 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 5 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2010, 272 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: its Unit 1 story (printed p.4) spells "Agriculutre" for Agriculture — taught corrected where a row rests on it.
+**Book 2:** *English for Eritrea* Grade 6 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 302 pp. (PDF). Printed page = PDF page − 2. Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read. Book error, carried: the running heads mislabel units for long stretches (Unit 1 pages are headed "UNIT-2 Home & School"); the rows below cite the lesson numbering, never the running head.
+**Book 3:** *English for Eritrea* Grade 7 Textbook (student's book) — State of Eritrea, Ministry of Education, no year on the record used, 285 pp. (PDF). Read unit by unit through the full text, cross-checked against the book's own Book Map, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Hobbies — talking, reading and writing about hobbies; regular and irregular plurals (man–men, child–children, tooth–teeth; sheep–sheep) (Unit 9) | Eritrea, *English for Eritrea* Grade 5 (MoE 2010), printed pp.171–191 |
+| like + -ing for likes (later unit lessons) | Eritrea, *English for Eritrea* Grade 6 (MoE 2015), printed p.271 |
+| like + verb-ing; comparatives and superlatives review (Unit 1) | Eritrea, *English for Eritrea* Grade 7 (MoE), printed pp.1–22 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

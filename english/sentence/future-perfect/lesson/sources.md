@@ -1,6 +1,6 @@
 # Sources — Future perfect
 
-countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia, Fiji
+countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia, Fiji, Eritrea
 
 Every part traces to its book and page.
 
@@ -35,7 +35,7 @@ Every part traces to its book and page.
 | The future system, active and passive: future indefinite, continuous, perfect and perfect continuous, with the passive of the indefinite and the perfect — each tense its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.117–136 (sections at printed pp.117, 120, 123, 127; passive at pp.131, 134) |
 | The future perfect tense in the culture unit's grammar work (with sentence patterns, direct and indirect object, and phrases, clauses and sentences) | Pakistan, *English 7*, Unit 11, printed p.103 |
 
-**Acceptance count: taught in 13 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia, Fiji).** Libya joins with the future perfect and the future continuous as a pair (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with a single test-only appearance of the form — a future perfect item in its Grade 12 Activity Book's test pages, untaught in the Student's Book and stocked as test-only exposure, exactly as the sweep carries it (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 11 future perfect identification (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia, Fiji, Eritrea).** Libya joins with the future perfect and the future continuous as a pair (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with a single test-only appearance of the form — a future perfect item in its Grade 12 Activity Book's test pages, untaught in the Student's Book and stocked as test-only exposure, exactly as the sweep carries it (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 11 future perfect identification (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It teaches the whole future system, active and passive, tense by tense — the future perfect stands at printed p.123 and its passive at p.134. *English 7* names the future perfect in its culture unit (Unit 11, printed p.103); it is filed in english/books/pakistan.md and was re-read in the same sweep.
 
@@ -125,3 +125,16 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 11 Textbook (student's book) — State of Eritrea, Ministry of Education, in collaboration with the University of Asmara, © 2011, 257 pp. (PDF). Read at REDUCED depth in the 2026-11-10 expansion read: this PDF's font layer is partly corrupt, so the read rests on the book's Book Map (pp.vi–viii), its Contents and the legible lesson-competence lines and vocabulary lists; the rows below are cited at that granularity, and a rendered-page OCR pass is owed to raise this book to the other books' depth. Its contents line for Units 8–9 is corrupt in the font layer; the unit titles were confirmed from the Book Map body.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Noun phrases — pre- and post-determiners/articles; future perfect (Unit 4) | Eritrea, *English for Eritrea* Grade 11 (MoE 2011), printed pp.85–111 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.

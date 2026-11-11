@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Cyprus
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Cyprus, Eritrea
 
 Every part traces to its book and page.
 
@@ -49,7 +49,7 @@ pinned for them here.
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 | Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 12 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Cyprus).** Cyprus joins with writing the letter A a in Year 2's alphabet introduction (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Cyprus, Eritrea).** Cyprus joins with writing the letter A a in Year 2's alphabet introduction (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -60,7 +60,7 @@ work in it; Kuwait's Handwriting Book 3A supplies the
 training routine (trace the grey model, copy the solid
 model, on four-line guides) and is recorded exactly as
 filed: it teaches no joins, and none is claimed from it.
-Counts grow as other closed countries' books are read. Iraq joins with its Grade 3 Activity Book's systematic handwriting strand — letter formation with dotted models and word tracing, activity-book-only teaching (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 1 letter-forming strand (stocked 2026-11-11 by the re-verification sweep merge).
+Counts grow as other closed countries' books are read. Iraq joins with its Grade 3 Activity Book's systematic handwriting strand — letter formation with dotted models and word tracing, activity-book-only teaching (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 1 letter-forming strand (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -195,3 +195,18 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — all 12 student textbooks of *English for Eritrea*, Grades 1–12 (State of Eritrea, Ministry of Education; Grades 9–12 in collaboration with the University of Asmara). The set holds no teacher books, so every row below rests on a student's book. 313 teaching items were placed fresh from the books; Eritrea had no presence in the course before, so all 313 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: Grades 1–3 read in full, page by page (Grade 1 is picture-led — its text/OCR layer read on all pages, with two rendered pages visually checked); Grades 4–10 and 12 read unit by unit through the full text, cross-checked against each book's own Book Map; Grade 11 read at reduced depth — its PDF font layer is partly corrupt, so its placements rest on its Book Map, Contents and the legible lesson-competence lines and vocabulary lists, and an OCR render pass is owed to raise it. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English for Eritrea* Grade 1 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2015, 106 pp. (PDF). Printed page = PDF page − 5. A picture-led book: read from its text/OCR layer on all 106 pages, with two rendered pages visually checked. The book carries two ISBNs — cover 99948-1-713-2, imprint page 99948-1-036-7 — its own inconsistency, carried here not resolved. Read in the 2026-11-10 expansion read.
+**Book 2:** *English for Eritrea* Grade 2 Textbook (student's book) — State of Eritrea, Ministry of Education, © 2009, 223 pp. (PDF). Printed page = PDF page − 6. Read page by page from the full text layer in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter-formation practice: tracing and writing every lower-case letter a–z with stroke arrows (end matter) | Eritrea, *English for Eritrea* Grade 1 (MoE 2015), printed pp.95–101 |
+| Letter formation — writing each letter and letter combinations (do, add, odd…) (Units 1–2) | Eritrea, *English for Eritrea* Grade 2 (MoE 2009), printed pp.5–15 |
+
+Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
