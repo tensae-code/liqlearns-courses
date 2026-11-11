@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic, Germany, Gabon, Ireland, Fiji, Honduras, Italy, Mozambique, Nigeria, Jamaica, Haiti, Papua New Guinea, Switzerland, Thailand, Uganda, Samoa
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic, Germany, Gabon, Ireland, Fiji, Honduras, Italy, Mozambique, Nigeria, Jamaica, Haiti, Papua New Guinea, Switzerland, Thailand, Uganda, Samoa, United States
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 62 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Germany, Gabon, Ireland, Fiji, Honduras, Italy, Mozambique, Papua New Guinea, Thailand, Samoa).**.** Egypt carries the
+**Acceptance count: taught in 63 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Germany, Gabon, Ireland, Fiji, Honduras, Italy, Mozambique, Papua New Guinea, Thailand, Samoa, United States).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1848,3 +1848,67 @@ The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the 
 Samoa is added to the countries line and to the acceptance count above on its pupil rows; its curriculum-statement rows in this lesson are named as curriculum evidence and stay outside the count. Samoa's class for Maths is **COURSES-CLOSED**.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.
+
+## United States added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the United States' whole in-hand Maths library from the PDFs — **5 pupil textbooks, 0 teacher guides, all OpenStax** (the CC BY-NC-SA 4.0 open-textbook line of Rice University, Houston, Texas) — and the expansion map's “5 student Maths books, 0 teacher” count is **right**. The United States has no national textbook series and no federal textbook: the set is one nonprofit publisher's open-textbook line, adopted course by course across US states and districts, and every book is a genuine pupil textbook — exposition, worked examples and practice addressed to the student — so the United States' rows **count** in a lesson's taught-in figure. Three record-level flags ride with the set; none of them is a course claim. **F1 — the “Grade 13” filing hides the level split:** four of the five books are college textbooks filed at “Grade 13” (*Introductory Statistics 2e*, *Calculus Volume 1*, *College Algebra 2e*, *Algebra and Trigonometry 2e*); only *Algebra 1* is a school book (the US high-school Algebra 1 course, filed Grade 12), and the set is never presented as five school-grade books. **F2 — the push-state is silent but GitHub holds the files:** `phase3-push-state.json` has no United States entry and nothing US sits in phase3-staging, yet all five files were verified live on GitHub at their exact recorded byte sizes and were read from there — the books ARE in hand and no re-push is owed. **F3 — two of the books duplicate each other:** *Algebra and Trigonometry 2e* repeats *College Algebra 2e* section for section in 59 of its 79 sections (its Chapters 1–6 keep the same pagination), so the country's distinct teaching is 299 items of the 358 placed; both books are nevertheless cited for their own in-hand copies. Honest limit, stated plainly: the in-hand coverage is top-end only — one high-school book and four college books; no US elementary or middle-school Maths book is in hand (the Texas Bluebonnet Learning sets and the New York EngageNY/Eureka Math modules in the library records are link-only, and the US set's OpenStax *Principles of Microeconomics for AP Courses 2e* was checked and excluded — an economics textbook, not mathematics). Counting grain: one item per numbered teaching section of a book (*Algebra 1*: one item per numbered lesson; a lesson's sub-activities are its steps, not separate items). Named exclusions, stocked nowhere: chapter introductions, chapter reviews, formula reviews, practice and homework sets, appendices, answer keys and calculator notes in every book; *Introductory Statistics 2e*'s 22 guided lab and experiment sections (record items R1–R22 — a chapter's teaching applied to one data set, not counted); *Algebra 1*'s unit overviews, readiness reviews and wrap-ups and its nine unit projects. Into this lesson the placements stock 45 items — 3 from *Calculus Volume 1*, 22 from *Algebra 1*, 10 from *College Algebra 2e* and 10 from *Algebra and Trigonometry 2e*.
+
+**Book 1:** *Calculus Volume 1* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing authors Gilbert Strang (MIT) and Edwin “Jed” Herman (University of Wisconsin–Stevens Point); © 2016 Rice University, CC BY-NC-SA 4.0; 52,104,540 bytes, 769 PDF pp. A college pupil textbook, filed at “Grade 13” in the library; Volume 1 of the 3-volume Calculus set — only Volume 1 is in hand. Printed pages are the book's own folios. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 2:** *Algebra 1* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing authors Lynn Marecek, MaryAnne Anthony-Smith, Andrea Honeycutt Mathis, Jay Abramson, Sharon North, Amy Baldwin and Alyssa Howell; © 2025 Rice University, CC BY-NC-SA 4.0; 82,715,252 bytes, 1,535 PDF pp. OpenStax's high-school Algebra 1 pupil course book, filed Grade 12 — the one true school book of the United States set. Printed page = PDF page − 34 in the body. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 3:** *College Algebra 2e* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing author Jay Abramson (Arizona State University); © 2026 Rice University, CC BY-NC-SA 4.0; 84,220,165 bytes, 1,073 PDF pp. A college pupil textbook, filed at “Grade 13” in the library. Printed pages are the book's own folios. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 4:** *Algebra and Trigonometry 2e* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing author Jay Abramson (Arizona State University); © 2026 Rice University, CC BY-NC-SA 4.0; 116,281,063 bytes, 1,467 PDF pp. A college pupil textbook, filed at “Grade 13” in the library. Its Chapters 1–6 and 11–13 repeat *College Algebra 2e*'s teaching section for section (59 of its 79 sections; Chapters 1–6 keep the same pagination) — it is cited here for its own in-hand copy, and its own new teaching is the 20 trigonometry sections of Chapters 7–10. Printed pages are the book's own folios. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Review of functions — domain, range, graphs, piecewise-defined functions, symmetry, and combining and composing functions | United States — *Calculus Volume 1* (pupil book), printed p. 8 |
+| Basic classes of functions — linear, polynomial, rational, algebraic and piecewise families and their graphs | United States — *Calculus Volume 1* (pupil book), printed p. 30 |
+| Inverse functions — one-to-one functions, finding and graphing an inverse | United States — *Calculus Volume 1* (pupil book), printed p. 65 |
+| Describing and graphing situations — relationships shown as graphs | United States — *Algebra 1* (pupil book), printed p. 505 |
+| Function notation — f(x) and what it means | United States — *Algebra 1* (pupil book), printed p. 519 |
+| Interpreting using function notation — comparing function values | United States — *Algebra 1* (pupil book), printed p. 531 |
+| Using function notation to describe rules, part 1 — notation with tables of values | United States — *Algebra 1* (pupil book), printed p. 541 |
+| Using function notation to describe rules, part 2 | United States — *Algebra 1* (pupil book), printed p. 551 |
+| Features of graphs — intercepts, maxima/minima and intervals from a graph | United States — *Algebra 1* (pupil book), printed p. 563 |
+| Interpreting and creating graphs | United States — *Algebra 1* (pupil book), printed p. 605 |
+| Comparing graphs | United States — *Algebra 1* (pupil book), printed p. 621 |
+| Graphing a function using transformations — shifting and transforming a graph | United States — *Algebra 1* (pupil book), printed p. 635 |
+| Domain and range, part 1 — reasonable inputs and outputs | United States — *Algebra 1* (pupil book), printed p. 657 |
+| Domain and range, part 2 | United States — *Algebra 1* (pupil book), printed p. 669 |
+| Patterns of growth — picturing repeated multiplication growth | United States — *Algebra 1* (pupil book), printed p. 767 |
+| Representing exponential growth — writing growth with exponents | United States — *Algebra 1* (pupil book), printed p. 783 |
+| Representing exponential decay — and telling linear from exponential quantities | United States — *Algebra 1* (pupil book), printed p. 797 |
+| Analysing graphs — exponential graphs | United States — *Algebra 1* (pupil book), printed p. 829 |
+| Exponential situations as functions | United States — *Algebra 1* (pupil book), printed p. 843 |
+| Interpreting exponential functions | United States — *Algebra 1* (pupil book), printed p. 851 |
+| Modelling exponential behaviour | United States — *Algebra 1* (pupil book), printed p. 871 |
+| Reasoning about exponential graphs, part 1 | United States — *Algebra 1* (pupil book), printed p. 883 |
+| Reasoning about exponential graphs, part 2 — comparing functions | United States — *Algebra 1* (pupil book), printed p. 895 |
+| Which one changes faster? — linear against exponential growth | United States — *Algebra 1* (pupil book), printed p. 905 |
+| Changes over equal intervals — the equal-intervals test for linear/exponential | United States — *Algebra 1* (pupil book), printed p. 917 |
+| Functions and function notation | United States — *College Algebra 2e* (pupil book), printed p. 175 |
+| Domain and range | United States — *College Algebra 2e* (pupil book), printed p. 198 |
+| Composition of functions | United States — *College Algebra 2e* (pupil book), printed p. 233 |
+| Transformation of functions — shifts, stretches and reflections | United States — *College Algebra 2e* (pupil book), printed p. 248 |
+| Inverse functions | United States — *College Algebra 2e* (pupil book), printed p. 287 |
+| Linear functions — slope, forms of a line, parallel and perpendicular | United States — *College Algebra 2e* (pupil book), printed p. 315 |
+| Modelling with linear functions — building and interpreting linear models | United States — *College Algebra 2e* (pupil book), printed p. 351 |
+| Power functions and polynomial functions — end behaviour, degree and turning points | United States — *College Algebra 2e* (pupil book), printed p. 408 |
+| Graphs of polynomial functions — zeros, multiplicities and sketching | United States — *College Algebra 2e* (pupil book), printed p. 429 |
+| Inverses and radical functions | United States — *College Algebra 2e* (pupil book), printed p. 498 |
+| Functions and function notation | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 175 |
+| Domain and range | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 198 |
+| Composition of functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 233 |
+| Transformation of functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 248 |
+| Inverse functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 287 |
+| Linear functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 315 |
+| Modelling with linear functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 351 |
+| Power functions and polynomial functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 408 |
+| Graphs of polynomial functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 429 |
+| Inverses and radical functions | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 498 |
+
+United States is added to the countries line and to the acceptance count above — all five books are pupil textbooks, so every United States row in this lesson counts. The United States' class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/united-states-placements.md.

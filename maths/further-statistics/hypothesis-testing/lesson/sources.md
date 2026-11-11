@@ -1,6 +1,6 @@
 # Sources — Hypothesis Testing
 
-countries: Pakistan, Jordan, Libya, Kuwait, Laos, Andorra, Germany, Ireland, Fiji
+countries: Pakistan, Jordan, Libya, Kuwait, Laos, Andorra, Germany, Ireland, Fiji, United States
 
 Every part traces to its book and page.
 
@@ -25,7 +25,7 @@ Every part traces to its book and page.
 | Statistical hypothesis testing as its own lesson | Laos, Grade 12, Ch. 5, L15, p.156 |
 | Recorded negatives — cited nowhere as sources for tests: no hypothesis testing is taught in the Egypt filing (its statistics stops at confidence intervals), the Cambodia filing, the Greece filing, or the Iran filing (Iran: a historical Fisher mention in a reading passage, Grade 11 Statistics and Probability, p.79, only) | maths/books/egypt.md; maths/books/cambodia.md; maths/books/greece.md; maths/books/iran.md — negative evidence, recorded per the catch-up plan |
 
-**Acceptance count: taught in 8 countries (Pakistan, Jordan, Libya, Kuwait, Laos, Germany, Ireland, Fiji).** Pakistan carries the whole machinery: the vocabulary, both errors, the nine steps, and the Z, t, proportion, difference and paired tests. Jordan carries testing as the closing lesson of its Business inference unit. Libya carries hypotheses, the errors of decision and t-tests for a mean in its Science book's final chapter. Kuwait carries two-sided tests only, decided by critical values and the acceptance region at 95% — with its recorded negatives standing as part of the count: no p-values and no χ² tests anywhere in its book. Laos carries statistical hypothesis testing as its own Grade 12 lesson. The four recorded negatives — Egypt, Cambodia, Greece and Iran — teach no hypothesis testing and are cited nowhere in this lesson; Iran's estimation in Lesson 120 is not evidence for tests and is never carried over as such.
+**Acceptance count: taught in 9 countries (Pakistan, Jordan, Libya, Kuwait, Laos, Germany, Ireland, Fiji, United States).** Pakistan carries the whole machinery: the vocabulary, both errors, the nine steps, and the Z, t, proportion, difference and paired tests. Jordan carries testing as the closing lesson of its Business inference unit. Libya carries hypotheses, the errors of decision and t-tests for a mean in its Science book's final chapter. Kuwait carries two-sided tests only, decided by critical values and the acceptance region at 95% — with its recorded negatives standing as part of the count: no p-values and no χ² tests anywhere in its book. Laos carries statistical hypothesis testing as its own Grade 12 lesson. The four recorded negatives — Egypt, Cambodia, Greece and Iran — teach no hypothesis testing and are cited nowhere in this lesson; Iran's estimation in Lesson 120 is not evidence for tests and is never carried over as such.
 
 ## Andorra added 2026-11-11 (expansion merge)
 
@@ -87,3 +87,34 @@ The 2026-11-10 expansion read read Fiji's whole in-hand Maths set from the PDFs 
 | Steps in hypothesis testing, with acceptance and rejection (critical) regions | Fiji — *Year 13 Mathematics Textbook* (pupil textbook), printed pp. 182–185 |
 
 Fiji is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Fiji row in this lesson is a pupil-textbook row, so Fiji counts in full. Fiji's class for Maths is **COURSES-CLOSED**. The records disagreement — `textbooks.tsv` carries only 9 of Fiji's 13 Maths rows, Years 5, 6, 8 and 9 being staged and pushed but missing from the TSV — is a library-record matter, reported here, not fixed by this merge. The Year 2 file defect rides with the set: its scan duplicates printed p. 57 and printed p. 58 is absent, so that one Money activity is not in hand to read and is cited nowhere.
+
+## United States added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the United States' whole in-hand Maths library from the PDFs — **5 pupil textbooks, 0 teacher guides, all OpenStax** (the CC BY-NC-SA 4.0 open-textbook line of Rice University, Houston, Texas) — and the expansion map's “5 student Maths books, 0 teacher” count is **right**. The United States has no national textbook series and no federal textbook: the set is one nonprofit publisher's open-textbook line, adopted course by course across US states and districts, and every book is a genuine pupil textbook — exposition, worked examples and practice addressed to the student — so the United States' rows **count** in a lesson's taught-in figure. Three record-level flags ride with the set; none of them is a course claim. **F1 — the “Grade 13” filing hides the level split:** four of the five books are college textbooks filed at “Grade 13” (*Introductory Statistics 2e*, *Calculus Volume 1*, *College Algebra 2e*, *Algebra and Trigonometry 2e*); only *Algebra 1* is a school book (the US high-school Algebra 1 course, filed Grade 12), and the set is never presented as five school-grade books. **F2 — the push-state is silent but GitHub holds the files:** `phase3-push-state.json` has no United States entry and nothing US sits in phase3-staging, yet all five files were verified live on GitHub at their exact recorded byte sizes and were read from there — the books ARE in hand and no re-push is owed. **F3 — two of the books duplicate each other:** *Algebra and Trigonometry 2e* repeats *College Algebra 2e* section for section in 59 of its 79 sections (its Chapters 1–6 keep the same pagination), so the country's distinct teaching is 299 items of the 358 placed; both books are nevertheless cited for their own in-hand copies. Honest limit, stated plainly: the in-hand coverage is top-end only — one high-school book and four college books; no US elementary or middle-school Maths book is in hand (the Texas Bluebonnet Learning sets and the New York EngageNY/Eureka Math modules in the library records are link-only, and the US set's OpenStax *Principles of Microeconomics for AP Courses 2e* was checked and excluded — an economics textbook, not mathematics). Counting grain: one item per numbered teaching section of a book (*Algebra 1*: one item per numbered lesson; a lesson's sub-activities are its steps, not separate items). Named exclusions, stocked nowhere: chapter introductions, chapter reviews, formula reviews, practice and homework sets, appendices, answer keys and calculator notes in every book; *Introductory Statistics 2e*'s 22 guided lab and experiment sections (record items R1–R22 — a chapter's teaching applied to one data set, not counted); *Algebra 1*'s unit overviews, readiness reviews and wrap-ups and its nine unit projects. Into this lesson the placements stock 18 items, all from *Introductory Statistics 2e*.
+
+**Book 1:** *Introductory Statistics 2e* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing authors Barbara Illowsky and Susan Dean (De Anza College); © 2026 Rice University, CC BY-NC-SA 4.0; 23,503,369 bytes, 847 PDF pp. A college / AP-level pupil textbook, filed at “Grade 13” in the library. Printed page = PDF page − 12 in the body. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Null and alternative hypotheses — stating the claim pair for a test | United States — *Introductory Statistics 2e* (pupil book), printed p. 462 |
+| Outcomes of a test — Type I and Type II errors and their probabilities | United States — *Introductory Statistics 2e* (pupil book), printed p. 464 |
+| Choosing the probability distribution a hypothesis test needs | United States — *Introductory Statistics 2e* (pupil book), printed p. 466 |
+| Rare events, the p-value idea, and reaching a decision and conclusion | United States — *Introductory Statistics 2e* (pupil book), printed p. 467 |
+| Full worked hypothesis tests — the complete test procedure carried through on means and proportions | United States — *Introductory Statistics 2e* (pupil book), printed p. 469 |
+| Comparing two population means with unknown standard deviations (two independent samples, t test) | United States — *Introductory Statistics 2e* (pupil book), printed p. 512 |
+| Comparing two population means with known standard deviations | United States — *Introductory Statistics 2e* (pupil book), printed p. 520 |
+| Comparing two independent population proportions | United States — *Introductory Statistics 2e* (pupil book), printed p. 523 |
+| Matched or paired samples — testing the mean of the differences | United States — *Introductory Statistics 2e* (pupil book), printed p. 527 |
+| Facts about the chi-square distribution — shape, degrees of freedom, mean | United States — *Introductory Statistics 2e* (pupil book), printed p. 564 |
+| The goodness-of-fit test — comparing observed counts with a claimed distribution | United States — *Introductory Statistics 2e* (pupil book), printed p. 565 |
+| The test for homogeneity — comparing distributions across populations | United States — *Introductory Statistics 2e* (pupil book), printed p. 578 |
+| Comparing the three chi-square tests side by side | United States — *Introductory Statistics 2e* (pupil book), printed p. 582 |
+| Test of a single variance using the chi-square distribution | United States — *Introductory Statistics 2e* (pupil book), printed p. 582 |
+| One-way ANOVA — testing whether several group means differ | United States — *Introductory Statistics 2e* (pupil book), printed p. 679 |
+| The F distribution and the F-ratio — variance between groups against variance within groups | United States — *Introductory Statistics 2e* (pupil book), printed p. 680 |
+| Facts about the F distribution | United States — *Introductory Statistics 2e* (pupil book), printed p. 684 |
+| Test of two variances with the F distribution | United States — *Introductory Statistics 2e* (pupil book), printed p. 690 |
+
+United States is added to the countries line and to the acceptance count above — all five books are pupil textbooks, so every United States row in this lesson counts. The United States' class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/united-states-placements.md.

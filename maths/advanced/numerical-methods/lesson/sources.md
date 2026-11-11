@@ -1,6 +1,6 @@
 # Sources — Numerical Methods
 
-countries: Rwanda, Belarus, Dominican Republic, Germany, Ireland, Italy, Haiti
+countries: Rwanda, Belarus, Dominican Republic, Germany, Ireland, Italy, Haiti, United States
 
 Every part traces to its book and page.
 
@@ -16,7 +16,7 @@ On Rwanda in this lesson: Rwanda's Senior Five Advanced Learner's Book devotes i
 | Newton–Raphson method for solving f(x) = 0 | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 118–122 |
 | Fixed-point iteration x = g(x); comparing different rearrangements of the same equation | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 122–126 |
 
-**Acceptance count: taught in 6 countries (Rwanda, Belarus, Dominican Republic, Germany, Ireland, Italy).** Rwanda's Senior Five Advanced book carries the complete arc — interpolation, sign-change location, Newton–Raphson, fixed-point iteration with rearrangements compared — in one 22-page unit; other read countries solve the equations they meet exactly, so this lesson is built at that honest size.
+**Acceptance count: taught in 7 countries (Rwanda, Belarus, Dominican Republic, Germany, Ireland, Italy, United States).** Rwanda's Senior Five Advanced book carries the complete arc — interpolation, sign-change location, Newton–Raphson, fixed-point iteration with rearrangements compared — in one 22-page unit; other read countries solve the equations they meet exactly, so this lesson is built at that honest size.
 
 
 ## Belarus added 2026-11-11 (expansion merge)
@@ -107,3 +107,17 @@ The 2026-11-10 expansion read read Haiti's whole in-hand Maths set from the PDFs
 Haiti enters this lesson as teacher/curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every document in Haiti's in-hand Maths set is a teacher-side programme, framework or teacher sequence (MENFP / IPN / Nectar), not a pupil textbook, cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Haiti's class for Maths is PARTIAL (evidence-only): every in-hand Maths document has been read in full and stocked, but no pupil Maths textbook is in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/haiti-placements.md.
+
+## United States added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the United States' whole in-hand Maths library from the PDFs — **5 pupil textbooks, 0 teacher guides, all OpenStax** (the CC BY-NC-SA 4.0 open-textbook line of Rice University, Houston, Texas) — and the expansion map's “5 student Maths books, 0 teacher” count is **right**. The United States has no national textbook series and no federal textbook: the set is one nonprofit publisher's open-textbook line, adopted course by course across US states and districts, and every book is a genuine pupil textbook — exposition, worked examples and practice addressed to the student — so the United States' rows **count** in a lesson's taught-in figure. Three record-level flags ride with the set; none of them is a course claim. **F1 — the “Grade 13” filing hides the level split:** four of the five books are college textbooks filed at “Grade 13” (*Introductory Statistics 2e*, *Calculus Volume 1*, *College Algebra 2e*, *Algebra and Trigonometry 2e*); only *Algebra 1* is a school book (the US high-school Algebra 1 course, filed Grade 12), and the set is never presented as five school-grade books. **F2 — the push-state is silent but GitHub holds the files:** `phase3-push-state.json` has no United States entry and nothing US sits in phase3-staging, yet all five files were verified live on GitHub at their exact recorded byte sizes and were read from there — the books ARE in hand and no re-push is owed. **F3 — two of the books duplicate each other:** *Algebra and Trigonometry 2e* repeats *College Algebra 2e* section for section in 59 of its 79 sections (its Chapters 1–6 keep the same pagination), so the country's distinct teaching is 299 items of the 358 placed; both books are nevertheless cited for their own in-hand copies. Honest limit, stated plainly: the in-hand coverage is top-end only — one high-school book and four college books; no US elementary or middle-school Maths book is in hand (the Texas Bluebonnet Learning sets and the New York EngageNY/Eureka Math modules in the library records are link-only, and the US set's OpenStax *Principles of Microeconomics for AP Courses 2e* was checked and excluded — an economics textbook, not mathematics). Counting grain: one item per numbered teaching section of a book (*Algebra 1*: one item per numbered lesson; a lesson's sub-activities are its steps, not separate items). Named exclusions, stocked nowhere: chapter introductions, chapter reviews, formula reviews, practice and homework sets, appendices, answer keys and calculator notes in every book; *Introductory Statistics 2e*'s 22 guided lab and experiment sections (record items R1–R22 — a chapter's teaching applied to one data set, not counted); *Algebra 1*'s unit overviews, readiness reviews and wrap-ups and its nine unit projects. Into this lesson the placements stock 1 item, from *Calculus Volume 1*.
+
+**Book 1:** *Calculus Volume 1* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing authors Gilbert Strang (MIT) and Edwin “Jed” Herman (University of Wisconsin–Stevens Point); © 2016 Rice University, CC BY-NC-SA 4.0; 52,104,540 bytes, 769 PDF pp. A college pupil textbook, filed at “Grade 13” in the library; Volume 1 of the 3-volume Calculus set — only Volume 1 is in hand. Printed pages are the book's own folios. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Newton's method for approximating roots | United States — *Calculus Volume 1* (pupil book), printed p. 409 |
+
+United States is added to the countries line and to the acceptance count above — all five books are pupil textbooks, so every United States row in this lesson counts. The United States' class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/united-states-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Nauru, Jamaica, Samoa
+countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Nauru, Jamaica, Samoa, United States
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
 | The statistical question | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 1, printed p. 108 |
 
-**Acceptance count: taught in 14 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Samoa).**
+**Acceptance count: taught in 15 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Samoa, United States).**
 
 Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 
@@ -220,3 +220,21 @@ The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the 
 Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.
+
+## United States added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the United States' whole in-hand Maths library from the PDFs — **5 pupil textbooks, 0 teacher guides, all OpenStax** (the CC BY-NC-SA 4.0 open-textbook line of Rice University, Houston, Texas) — and the expansion map's “5 student Maths books, 0 teacher” count is **right**. The United States has no national textbook series and no federal textbook: the set is one nonprofit publisher's open-textbook line, adopted course by course across US states and districts, and every book is a genuine pupil textbook — exposition, worked examples and practice addressed to the student — so the United States' rows **count** in a lesson's taught-in figure. Three record-level flags ride with the set; none of them is a course claim. **F1 — the “Grade 13” filing hides the level split:** four of the five books are college textbooks filed at “Grade 13” (*Introductory Statistics 2e*, *Calculus Volume 1*, *College Algebra 2e*, *Algebra and Trigonometry 2e*); only *Algebra 1* is a school book (the US high-school Algebra 1 course, filed Grade 12), and the set is never presented as five school-grade books. **F2 — the push-state is silent but GitHub holds the files:** `phase3-push-state.json` has no United States entry and nothing US sits in phase3-staging, yet all five files were verified live on GitHub at their exact recorded byte sizes and were read from there — the books ARE in hand and no re-push is owed. **F3 — two of the books duplicate each other:** *Algebra and Trigonometry 2e* repeats *College Algebra 2e* section for section in 59 of its 79 sections (its Chapters 1–6 keep the same pagination), so the country's distinct teaching is 299 items of the 358 placed; both books are nevertheless cited for their own in-hand copies. Honest limit, stated plainly: the in-hand coverage is top-end only — one high-school book and four college books; no US elementary or middle-school Maths book is in hand (the Texas Bluebonnet Learning sets and the New York EngageNY/Eureka Math modules in the library records are link-only, and the US set's OpenStax *Principles of Microeconomics for AP Courses 2e* was checked and excluded — an economics textbook, not mathematics). Counting grain: one item per numbered teaching section of a book (*Algebra 1*: one item per numbered lesson; a lesson's sub-activities are its steps, not separate items). Named exclusions, stocked nowhere: chapter introductions, chapter reviews, formula reviews, practice and homework sets, appendices, answer keys and calculator notes in every book; *Introductory Statistics 2e*'s 22 guided lab and experiment sections (record items R1–R22 — a chapter's teaching applied to one data set, not counted); *Algebra 1*'s unit overviews, readiness reviews and wrap-ups and its nine unit projects. Into this lesson the placements stock 3 items — 2 from *Introductory Statistics 2e* and 1 from *Algebra 1*.
+
+**Book 1:** *Introductory Statistics 2e* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing authors Barbara Illowsky and Susan Dean (De Anza College); © 2026 Rice University, CC BY-NC-SA 4.0; 23,503,369 bytes, 847 PDF pp. A college / AP-level pupil textbook, filed at “Grade 13” in the library. Printed page = PDF page − 12 in the body. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 2:** *Algebra 1* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing authors Lynn Marecek, MaryAnne Anthony-Smith, Andrea Honeycutt Mathis, Jay Abramson, Sharon North, Amy Baldwin and Alyssa Howell; © 2025 Rice University, CC BY-NC-SA 4.0; 82,715,252 bytes, 1,535 PDF pp. OpenStax's high-school Algebra 1 pupil course book, filed Grade 12 — the one true school book of the United States set. Printed page = PDF page − 34 in the body. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Key terms of a statistical study — population, sample, parameter, statistic, variable and data, and telling descriptive from inferential statistics | United States — *Introductory Statistics 2e* (pupil book), printed p. 5 |
+| Experimental design and ethics — explanatory/response variables, lurking variables, confounding, blinding, and the ethics of human-subject studies | United States — *Introductory Statistics 2e* (pupil book), printed p. 34 |
+| Causal relationships — correlation does not by itself prove causation | United States — *Algebra 1* (pupil book), printed p. 477 |
+
+United States is added to the countries line and to the acceptance count above — all five books are pupil textbooks, so every United States row in this lesson counts. The United States' class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/united-states-placements.md.

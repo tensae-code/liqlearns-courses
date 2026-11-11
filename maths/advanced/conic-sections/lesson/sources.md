@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras, Italy, Haiti, Papua New Guinea, Thailand, Samoa
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras, Italy, Haiti, Papua New Guinea, Thailand, Samoa, United States
 
 Every part traces to its book and page.
 
@@ -183,7 +183,7 @@ Every part traces to its book and page.
 | Parábola: parabola — elements, equations, tangents; link to the quadratic function and maximum/minimum | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 125 |
 | La elipse: ellipse — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 133 |
 | La hipérbola: hyperbola — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 140 |
-**Acceptance count: taught in 35 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras, Italy, Thailand, Samoa).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 36 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras, Italy, Thailand, Samoa, United States).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -537,3 +537,26 @@ The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the 
 Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.
+
+## United States added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the United States' whole in-hand Maths library from the PDFs — **5 pupil textbooks, 0 teacher guides, all OpenStax** (the CC BY-NC-SA 4.0 open-textbook line of Rice University, Houston, Texas) — and the expansion map's “5 student Maths books, 0 teacher” count is **right**. The United States has no national textbook series and no federal textbook: the set is one nonprofit publisher's open-textbook line, adopted course by course across US states and districts, and every book is a genuine pupil textbook — exposition, worked examples and practice addressed to the student — so the United States' rows **count** in a lesson's taught-in figure. Three record-level flags ride with the set; none of them is a course claim. **F1 — the “Grade 13” filing hides the level split:** four of the five books are college textbooks filed at “Grade 13” (*Introductory Statistics 2e*, *Calculus Volume 1*, *College Algebra 2e*, *Algebra and Trigonometry 2e*); only *Algebra 1* is a school book (the US high-school Algebra 1 course, filed Grade 12), and the set is never presented as five school-grade books. **F2 — the push-state is silent but GitHub holds the files:** `phase3-push-state.json` has no United States entry and nothing US sits in phase3-staging, yet all five files were verified live on GitHub at their exact recorded byte sizes and were read from there — the books ARE in hand and no re-push is owed. **F3 — two of the books duplicate each other:** *Algebra and Trigonometry 2e* repeats *College Algebra 2e* section for section in 59 of its 79 sections (its Chapters 1–6 keep the same pagination), so the country's distinct teaching is 299 items of the 358 placed; both books are nevertheless cited for their own in-hand copies. Honest limit, stated plainly: the in-hand coverage is top-end only — one high-school book and four college books; no US elementary or middle-school Maths book is in hand (the Texas Bluebonnet Learning sets and the New York EngageNY/Eureka Math modules in the library records are link-only, and the US set's OpenStax *Principles of Microeconomics for AP Courses 2e* was checked and excluded — an economics textbook, not mathematics). Counting grain: one item per numbered teaching section of a book (*Algebra 1*: one item per numbered lesson; a lesson's sub-activities are its steps, not separate items). Named exclusions, stocked nowhere: chapter introductions, chapter reviews, formula reviews, practice and homework sets, appendices, answer keys and calculator notes in every book; *Introductory Statistics 2e*'s 22 guided lab and experiment sections (record items R1–R22 — a chapter's teaching applied to one data set, not counted); *Algebra 1*'s unit overviews, readiness reviews and wrap-ups and its nine unit projects. Into this lesson the placements stock 8 items — 4 from *College Algebra 2e* and 4 from *Algebra and Trigonometry 2e*.
+
+**Book 1:** *College Algebra 2e* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing author Jay Abramson (Arizona State University); © 2026 Rice University, CC BY-NC-SA 4.0; 84,220,165 bytes, 1,073 PDF pp. A college pupil textbook, filed at “Grade 13” in the library. Printed pages are the book's own folios. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 2:** *Algebra and Trigonometry 2e* (pupil book) — OpenStax, Rice University, Houston, Texas; senior contributing author Jay Abramson (Arizona State University); © 2026 Rice University, CC BY-NC-SA 4.0; 116,281,063 bytes, 1,467 PDF pp. A college pupil textbook, filed at “Grade 13” in the library. Its Chapters 1–6 and 11–13 repeat *College Algebra 2e*'s teaching section for section (59 of its 79 sections; Chapters 1–6 keep the same pagination) — it is cited here for its own in-hand copy, and its own new teaching is the 20 trigonometry sections of Chapters 7–10. Printed pages are the book's own folios. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The ellipse — standard form, foci, graphing | United States — *College Algebra 2e* (pupil book), printed p. 780 |
+| The hyperbola | United States — *College Algebra 2e* (pupil book), printed p. 796 |
+| The parabola | United States — *College Algebra 2e* (pupil book), printed p. 812 |
+| Rotation of axes — removing the xy term, classifying conics | United States — *College Algebra 2e* (pupil book), printed p. 826 |
+| The ellipse | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 1116 |
+| The hyperbola | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 1132 |
+| The parabola | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 1148 |
+| Rotation of axes | United States — *Algebra and Trigonometry 2e* (pupil book), printed p. 1162 |
+
+United States is added to the countries line and to the acceptance count above — all five books are pupil textbooks, so every United States row in this lesson counts. The United States' class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/united-states-placements.md.
