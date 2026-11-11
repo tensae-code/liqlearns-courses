@@ -58,9 +58,13 @@ book actually teaches that part.
 Built so far (after the one-thing FIX of 2026-10-25 — every built
 lesson audited; anything teaching a second thing was split out into
 its own subtitle folder with its own lesson + questions):
-- Alphabet → the-alphabet
+- Alphabet → the-alphabet ·
+  labelling (added 2026-11-10 by the Ghana
+  re-verification sweep merge — **Unit 2, The Alphabet**)
 - Phonics → blending-sounds · two-letter-sounds · blends ·
-  word-families
+  word-families ·
+  rhymes · songs (added 2026-11-10 by the Ghana
+  re-verification sweep merge — **Unit 3, Sounds Together**)
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you ·
@@ -80,7 +84,9 @@ its own subtitle folder with its own lesson + questions):
   re-verification sweep merge) ·
   prepositions-of-place · prepositions-of-time (added
   2026-11-08 by the Bolivia re-verification sweep merge —
-  **Unit 6, Word Kinds**)
+  **Unit 6, Word Kinds**) ·
+  prepositions · spelling (added 2026-11-10 by the Ghana
+  re-verification sweep merge — **Unit 6, Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
@@ -150,7 +156,12 @@ its own subtitle folder with its own lesson + questions):
   The Paragraph · Reading Whole Texts) ·
   listening-to-an-interview (added 2026-11-09 by the
   Mexico re-verification sweep merge — **Unit 15, Reading
-  Whole Texts**)
+  Whole Texts**) ·
+  listening-comprehension (added 2026-11-10 by the Ghana
+  re-verification sweep merge — **Unit 15, Reading Whole
+  Texts**) · finding-information (added 2026-11-10 by the
+  Ghana re-verification sweep merge — **Unit 42, Reading
+  Like a Detective**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**)
 - Story → the-story · telling-a-story-back ·

@@ -57,6 +57,10 @@ sounds.*
 - joined-up-writing ✅ (catch-up addition 2026-11-07 — cursive
   joins, from the Barbados syllabi and Bangladesh; Kuwait's
   handwriting book stocks the copy-the-model routine)
+- **Sweep addition (2026-11-10, Ghana re-verification sweep
+  merge):** labelling ✅ (1 lesson — drawing a thing and
+  writing its true name beside it, from Ghana's NaCCA
+  Basic 1–3 curriculum)
 
 ## Unit 3 — Sounds Together
 *End of unit: the learner can put sounds together to read a word.*
@@ -64,6 +68,10 @@ sounds.*
 - silent-letters ✅ · the-three-sounds-of-ed ✅ ·
   stress-and-intonation ✅ (catch-up additions 2026-11-07 —
   the pronunciation work the read books teach beyond blending)
+- **Sweep additions (2026-11-10, Ghana re-verification sweep
+  merge):** rhymes ✅ · songs ✅ (2 lessons — Ghana's NaCCA
+  oral-language strands: rhymes and tongue-twisters at
+  Basic 1–3, songs and their messages at Basic 4–5)
 
 ## Unit 4 — First Words
 *End of unit: the learner can read whole little words.*
@@ -111,6 +119,12 @@ about the other person, and close the talk.*
   (2 lessons — Bolivia's own preposition strands: place from
   Primaria 3 and compendium Year 1; time from Secundaria 2–3
   and compendium Years 1 and 3, which no lesson housed)
+- **Sweep additions (2026-11-10, Ghana re-verification sweep
+  merge):** prepositions ✅ · spelling ✅ (2 lessons — the
+  general prepositions lesson the four specific ones hang
+  off, from Ghana's NaCCA strands at Basic 1–6 and its
+  Upper Primary 3 guide; and spelling itself, opened by
+  Ghana's Basic 4 "Use invented spelling" standard)
 
 ## Unit 7 — Words for the World
 *End of unit: the learner has words for the world around them.*
@@ -205,6 +219,9 @@ work through words they do not know, and answer from the text.*
 - finding-the-idea-of-a-text ✅ · words-you-dont-know ✅ ·
   answering-from-the-text ✅ · listening-to-an-interview ✅
   (sweep addition 2026-11-09 — Mexico)
+- **Sweep addition (2026-11-10, Ghana re-verification sweep
+  merge):** listening-comprehension ✅ (1 lesson — listening
+  on purpose, from Ghana's NaCCA curricula, Basic 1–9)
 
 ## Unit 16 — The Essay
 *End of unit: the learner can plan and write a first essay, with an
@@ -467,6 +484,10 @@ choose a reading strategy on purpose.*
 - **Sweep addition (2026-11-09, Indonesia re-verification sweep
   merge):** checking-facts-online ✅ (1 lesson — the fake-news
   identification procedure of Indonesia's Grade 9 book)
+- **Sweep addition (2026-11-10, Ghana re-verification sweep
+  merge):** finding-information ✅ (1 lesson — information
+  from non-text sources and short research projects, from
+  Ghana's NaCCA JHS curriculum)
 
 ## Unit 43 — Words About Words
 *End of unit: the learner can use idioms and collocations,
@@ -638,6 +659,41 @@ listening-to-an-interview in Unit 15, and
 reported-offers-requests-and-suggestions in Unit 22.
 The English path now stands
 at **196 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-10 (GHANA).**
+The Ghana sweep merge stocked the items the fresh
+page-by-page re-read of its 12 documents found missing —
+763 fresh items in all: 76 were already in the course, 644
+were missing and are now stocked, and 43 practice-only
+items (the documents' own Revision and Assessment lessons,
+and one workbook lesson the book itself orders repeated)
+were excluded as teaching no new content, exactly as the
+sweep's diff names them. The old filing had read the three
+NaCCA curricula fully but held the whole Distance Learning
+set — six teacher guides and three learners' workbooks,
+371 items — record-only; the sweep read it in full, and
+273 further curriculum items proved filed but never
+stocked. Ghana holds no pupil textbook: every Ghana row is
+curriculum, teacher or workbook evidence, worded as such,
+and no lesson's taught-in acceptance count moves. Four
+false citations the sweep flagged are corrected in the
+lesson files (going-to-later's two Ghana rows re-seated in
+the B4–B6 curriculum; past-actions' strand opening
+re-seated at Basic 3 in the B1–B3 curriculum;
+joining-with-and-and-but's combination drill re-seated at
+Basic 4 — with an adjacent row carrying the same error
+corrected with it; literary-words' imagery standard
+re-seated at Basic 9). The 'Stocked by Ghana' note further
+down, whose early-lesson claims no early lesson's sources
+carried, is now true in the files: the-alphabet,
+blending-sounds, two-letter-sounds, word-families,
+hello-and-your-name, good-morning-and-good-afternoon and
+joined-up-writing all hold Ghana rows from this merge. It
+built 7 new lessons: prepositions and spelling in Unit 6;
+rhymes and songs in Unit 3; labelling in Unit 2;
+listening-comprehension in Unit 15; and
+finding-information in Unit 42. The English path now stands
+at **203 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are
