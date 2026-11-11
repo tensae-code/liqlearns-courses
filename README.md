@@ -894,9 +894,11 @@ showing inside as examples. Under that principle Computer
 Science and ICT is one world leveled course, not 200 country
 courses.
 
-Two more of his words the same day. First, payment: he is
-thinking of making the website a single payment — pay once,
-then use it — and he doubts the per-lesson charge from the
+Two more of his words the same day. First, payment: he first
+said a single payment — pay once, then use it — and clarified
+it the same day: MONTHLY payment, with different tiers. One
+monthly subscription opens the courses; the tiers stay. And
+he doubts the per-lesson charge from the
 money-rules draft ("to open a new course or a new lesson it
 charges them some money — I don't know if we need those"). The
 draft's lesson-gate question leans no-gate; not yet a clean
