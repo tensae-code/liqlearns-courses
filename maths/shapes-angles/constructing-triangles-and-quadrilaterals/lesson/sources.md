@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria
 
 Every part traces to its book and page.
 
@@ -133,7 +133,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
 | Construct a parallelogram | South Sudan, Pupil's Book 7, §3.4, printed p. 46 |
 | Construct a trapezium | South Sudan, Pupil's Book 7, §3.5, printed p. 47 |
-**Acceptance count: taught in 23 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 24 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -232,3 +232,20 @@ The 2026-11-10 expansion read read Cabo Verde’s whole in-hand Maths set from t
 Cabo Verde is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil books of the Ministério da Educação de Cabo Verde. Cabo Verde’s class for Maths is **COURSES-CLOSED** — every in-hand Cabo Verde Maths book (all 3) has been read in full and stocked; the link-only ministry Maths manuals for the other grades are not in hand, and Cabo Verde reopens for a grade only if one of those manuals is ever grabbed and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cabo-verde-placements.md.
+
+## Bulgaria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bulgaria's whole in-hand Maths set from the PDFs — **5 files = 4 works, all pupil textbooks: the Бит и Техника (Bit i Tekhnika) *Математика* for Grades 1, 2 and 3 and for Grade 4 in two part-files (1 част / 2 част), 642 PDF pages in all** — and placed 123 teaching items. **The expansion map's “5 student + 0 teacher” is CORRECT as a file count (5 files, 4 works). Full-book vs sample verdict: NO in-hand Maths file is a sample** — every file's extent matches its own imprint's print-sheet count (Grade 1: 20.5 sheets, 128 lessons to printed p. 158 + 12 appendices; Grade 2: 18 sheets, 112 lessons to printed p. 140; Grade 3: 18 sheets, 112 lessons to printed p. 140; Grade 4: 10 + 11.5 sheets, lessons 1–136), and the 8 proven publisher samples in Bulgaria's library record (Music G6, Foreign Language G6/G7, БЕЛ G10/G11 and Geography G5) contain no Maths book, so the library's sample ruling does not touch this set. All five PDFs are image-only with no usable text layer and were read visually from page renders (cover, imprint, the book's own contents, and body pages for every distinct topic); printed folio = PDF page − 1 in every book, and Grade 4 Part 2 restarts its own pagination (its citations are marked “Part 2”). No Bulgaria Maths book was in the course before this merge — the string “Bulgaria” occurred nowhere under `maths/` — so every placed item is new here. Set boundary: everything else Bulgarian Maths in the records is exact-link / reader only and NOT in hand — Riva Maths G1–G4 PDFs (duplicate slots for the same grades), Klett epub Maths G5/G6 readers, Klett FlipHTML5 Maths G7/G8 (fullness unproven) and Архимед Maths G10/G11 Ourboox PDFs — none is part of this read and none is cited here; if any is later secured and read, Bulgaria reverts to PARTIAL until it is stocked. The placements' named exclusions — each grade's diagnostics, self-checks and consolidation lessons, drills, blitz tournaments, games and projects (other than the Grade 4 data project stocked in the statistics lessons), end-of-unit and year reviews, and the Grade 1 book's 12 cut-out appendices (number cards, shape cut-outs, play money, tangram, clock face, addition wheel, 0–20 ruler) — are apparatus and are stocked nowhere; the topics they practise are counted at the lessons that teach them. **Book-internal flag, carried exactly: the Grade 1 book's introduction (printed p. 4) promises the unit litre, but no lesson teaches it — the contents list no litre lesson and the closing units summary (lesson 127, printed p. 155, read on the body page) lists only hour, euro, eurocent, kilogram and centimetre — so the litre is stocked nowhere, and Bulgaria Grade 1 stands as teaching cm, kg, euro/eurocent and the hour, not the litre.** Book errors proper (wrong mathematics) were found nowhere in the pages read; contents-page slips (e.g. Grade 4 Part 1 listing its angle lessons out of order in the contents) are apparatus slips, not teaching errors, and are counted nowhere. The placements' one NEW LESSON NEEDED topic — calculator use (Grade 4 Part 2, lessons 118–119, item 121) — is stocked in the existing `money-and-time/calculator-use` lesson built by the Sri Lanka expansion merge; no second calculator lesson is built. Into this lesson the placements stock 2 items (items 51, 82).
+
+**Book 2:** *Математика за 2 клас* (pupil textbook, Grade 2) — Bulgaria, Бит и Техника (Bit i Tekhnika), 2nd edition 2026, ISBN 978-619-252-077-9; seven authors headed by Таня Иванова Вълкова; 121,741,253 bytes, 146 PDF pp.; printed folio = PDF page − 1. FULL BOOK (112 lessons, contents to printed p. 140). Pupil textbook.
+
+**Book 3:** *Математика за 3 клас* (pupil textbook, Grade 3) — Bulgaria, Бит и Техника (Bit i Tekhnika), 1st edition 2018, ISBN 978-619-7457-41-4; seven authors headed by Таня Иванова Вълкова; 90,336,271 bytes, 146 PDF pp.; printed folio = PDF page − 1. FULL BOOK (112 lessons, contents to printed p. 140). Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Drawing a rectangle, a square and a triangle; naming the figures (Grade 2, lesson 42) | Bulgaria — *Математика за 2 клас* (pupil textbook), printed p. 53 |
+| Drawing a triangle from given vertices (Grade 3, lessons 56–57) | Bulgaria — *Математика за 3 клас* (pupil textbook), printed pp. 69–70 |
+
+Bulgaria is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks of Bulgaria (Бит и Техника). Bulgaria's class for Maths is **COURSES-CLOSED** — every in-hand Bulgaria Maths book (all 5 files / 4 works) has been read in full and stocked; it reverts to PARTIAL only if a link-only Maths holding (Riva G1–G4, Klett G5–G8, Архимед G10/G11) is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bulgaria-placements.md.
