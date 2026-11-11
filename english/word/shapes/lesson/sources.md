@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Haiti, Nigeria, Zimbabwe, Zambia, Bhutan
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Haiti, Nigeria, Zimbabwe, Zambia, Bhutan, Japan
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Colour-and-shape phrases — a white star, a red heart, a blue triangle, a green square, a pink circle — with "What colour is your triangle? — Pink!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 1, pupil printed p.12 |
 | Shapes in the real world, adding the rectangle to the shape set — "Shapes in our world! What colour is your triangle?" (Activity Book "Going for CLIL" 2, Maths; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 2 key and instructions, Teacher's Book pp.125(T)–126(T) |
 
-**Acceptance count: taught in 14 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the shapes-and-objects set of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 15 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Bhutan, Japan).** Japan joins with the Japan rows stocked below (stocked 2026-11-11 by the Japan expansion merge). Liechtenstein joins with the shapes-and-objects set of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the shapes taught in the Grade 2 student book with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 2 (Primaria 2) student book named above.
 
@@ -246,3 +246,17 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Japan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs — **2 student books, 0 teacher books**: *Let's Try! 1* (Grade 3) and *Let's Try! 2* (Grade 4), the elementary foreign-language-activities pupil books of Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) — 52 teaching items placed. **Counting for this lesson: Japan is counted** — every row below rests on a Japanese pupil's book (both read books are MEXT pupil's books; Japan has no teacher book in hand). Read depth, as the expansion documents declare it: both books read in full, page by page through their text layers, including every picture-card appendix page; picture-only detail inside illustrations was placed only where a printed caption, chant, song lyric or card label in the text layer evidences it. Each PDF page from p.3 on is a two-page printed spread (printed pp. = 2·PDFp − 4 and 2·PDFp − 3); pages cited are the printed pages. Every page carries the publisher's SAMPLE (見本) specimen watermark — a specimen marking, not book content. No book errors were confirmed in the fresh read. Japan stays PARTIAL for English: *We Can! 1* (Grade 5) and *We Can! 2* (Grade 6) are named link-only books — complete MEXT chunk sets at exact URLs (set 1395222, 17/17 chunks verified 2026-11-02) — never secured, never read and cited nowhere (diff flag F2). The rows below are stocked from the expansion placements (japan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Let's Try! 1* — Japan, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Grade 3 pupil book (elementary foreign-language activities). 30 PDF pages (printed spreads pp.2–56 + colophon); record: grade-03/gov/japan/english/student/full-year.pdf (GitHub release asset id 676167727, mid-size-books-5; 13,192,337 bytes; SHA-256 1e9dee23c8586d48968fba036e98af3a31e7933d5b05fb29cd7590bcee17024f — the read copy byte-matches its record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shape words (circle, triangle, square, rectangle, heart, diamond, star) in shape and pointing games | Japan — *Let's Try! 1* (MEXT, Grade 3 pupil book), Unit 7 "This is for you.", printed pp.26–27 |
+
+Japan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.

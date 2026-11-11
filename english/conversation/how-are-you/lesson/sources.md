@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania, Nicaragua, Laos, Tunisia, Samoa, Uruguay, Haiti, El Salvador, Bhutan, Moldova, Dominican Republic
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania, Nicaragua, Laos, Tunisia, Samoa, Uruguay, Haiti, El Salvador, Bhutan, Moldova, Dominican Republic, Japan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -86,7 +86,7 @@ same table's restaurant-ordering, making-plans,
 offers/promises and apologising rows belong to their own
 later lessons and stay there. No existing row changed.
 
-**Acceptance count: taught in 33 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania, Nicaragua, Laos, Tunisia, Samoa, Uruguay, Bhutan, Moldova, Dominican Republic) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge).
+**Acceptance count: taught in 34 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania, Nicaragua, Laos, Tunisia, Samoa, Uruguay, Bhutan, Moldova, Dominican Republic, Japan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge).
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -148,7 +148,7 @@ you." — and the "Meeting a New Friend" dialog (p.7) runs it both
 ways: "How are you?" — "I am fine, thank you. How are you?" — "I'm
 fine too, thank you." The choose-the-right-response listening (p.9)
 opens with it: "Hello, Sami. How are you?" This changes the count:
-**taught in 2 countries (Egypt, Libya).**
+**taught in 2 countries (Egypt, Libya).** Japan joins with the Japan rows stocked below (stocked 2026-11-11 by the Japan expansion merge).
 
 **China added 2026-10-29** — two books stock this lesson:
 **Book:** *Compulsory Education Textbook · English (Grade 3
@@ -538,3 +538,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Japan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs — **2 student books, 0 teacher books**: *Let's Try! 1* (Grade 3) and *Let's Try! 2* (Grade 4), the elementary foreign-language-activities pupil books of Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) — 52 teaching items placed. **Counting for this lesson: Japan is counted** — every row below rests on a Japanese pupil's book (both read books are MEXT pupil's books; Japan has no teacher book in hand). Read depth, as the expansion documents declare it: both books read in full, page by page through their text layers, including every picture-card appendix page; picture-only detail inside illustrations was placed only where a printed caption, chant, song lyric or card label in the text layer evidences it. Each PDF page from p.3 on is a two-page printed spread (printed pp. = 2·PDFp − 4 and 2·PDFp − 3); pages cited are the printed pages. Every page carries the publisher's SAMPLE (見本) specimen watermark — a specimen marking, not book content. No book errors were confirmed in the fresh read. Japan stays PARTIAL for English: *We Can! 1* (Grade 5) and *We Can! 2* (Grade 6) are named link-only books — complete MEXT chunk sets at exact URLs (set 1395222, 17/17 chunks verified 2026-11-02) — never secured, never read and cited nowhere (diff flag F2). The rows below are stocked from the expansion placements (japan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Let's Try! 1* — Japan, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Grade 3 pupil book (elementary foreign-language activities). 30 PDF pages (printed spreads pp.2–56 + colophon); record: grade-03/gov/japan/english/student/full-year.pdf (GitHub release asset id 676167727, mid-size-books-5; 13,192,337 bytes; SHA-256 1e9dee23c8586d48968fba036e98af3a31e7933d5b05fb29cd7590bcee17024f — the read copy byte-matches its record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking and answering about how you are: "Hello, how are you?" — "I'm good. I'm good, thank you. And you?" — the exchange carried by the book's Hello Song and Goodbye Song | Japan — *Let's Try! 1* (MEXT, Grade 3 pupil book), Unit 2 "How are you?", printed pp.6–9 |
+
+Japan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.

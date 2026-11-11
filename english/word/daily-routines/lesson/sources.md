@@ -1,6 +1,6 @@
 # Sources — Daily Routines
 
-countries: Tanzania, Papua New Guinea, El Salvador
+countries: Tanzania, Papua New Guinea, El Salvador, Japan
 
 **Book 1:** *Reading (English) Standard One — Pupil's Book Two* (pupil's book) — Tanzania, Tanzania Institute of Education (TIE), © 2019, reprinted 2021, ISBN 978-9987-09-011-2. Filed in english/books/tanzania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read page by page in the 2026-11-08 re-verification sweep.
 
@@ -9,7 +9,7 @@ countries: Tanzania, Papua New Guinea, El Salvador
 | Waking up — wake up, wake up early | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Five “My dream”, printed p.22 |
 | Going to bed — go to bed early, go to bed at midnight | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Five “My dream”, printed p.22 |
 
-**Acceptance count: taught in 1 country (Tanzania).**
+**Acceptance count: taught in 2 countries (Tanzania, Japan).** Japan joins with the Japan rows stocked below (stocked 2026-11-11 by the Japan expansion merge).
 
 Built 2026-11-11 by the Tanzania re-verification sweep merge: the sweep marked this topic "NEW LESSON NEEDED: daily routines" — Unit Five of the Standard One reader closes with a word-bank dialogue built on the daily-routine phrases go to bed (early / at midnight) and wake up (early), printed p.22, and no lesson in the course housed routine phrases of this kind. The lesson is built on those phrases; placements at liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md. The held book is the only one of Tanzania's 18 recorded English books in hand (the other 17 are exact-link only), and it is Book Two of its three-book Standard One Reading series; Books One and Three appear nowhere in Tanzania's records and are cited nowhere.
 
@@ -46,3 +46,18 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Japan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs — **2 student books, 0 teacher books**: *Let's Try! 1* (Grade 3) and *Let's Try! 2* (Grade 4), the elementary foreign-language-activities pupil books of Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) — 52 teaching items placed. **Counting for this lesson: Japan is counted** — every row below rests on a Japanese pupil's book (both read books are MEXT pupil's books; Japan has no teacher book in hand). Read depth, as the expansion documents declare it: both books read in full, page by page through their text layers, including every picture-card appendix page; picture-only detail inside illustrations was placed only where a printed caption, chant, song lyric or card label in the text layer evidences it. Each PDF page from p.3 on is a two-page printed spread (printed pp. = 2·PDFp − 4 and 2·PDFp − 3); pages cited are the printed pages. Every page carries the publisher's SAMPLE (見本) specimen watermark — a specimen marking, not book content. No book errors were confirmed in the fresh read. Japan stays PARTIAL for English: *We Can! 1* (Grade 5) and *We Can! 2* (Grade 6) are named link-only books — complete MEXT chunk sets at exact URLs (set 1395222, 17/17 chunks verified 2026-11-02) — never secured, never read and cited nowhere (diff flag F2). The rows below are stocked from the expansion placements (japan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Let's Try! 2* — Japan, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Grade 4 pupil book (elementary foreign-language activities). 30 PDF pages (printed spreads pp.2–56 + colophon); record: grade-04/gov/japan/english/student/full-year.pdf (GitHub release asset id 676182655, mid-size-books-5; 11,695,103 bytes; SHA-256 bd7f562563fab269369b807942a361b59daacaacd945b8afbd8d0d7036a36e50 — the read copy byte-matches its record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily routine actions in order: I wake up. / I put away my futon. / I wash my face. / I brush my teeth. / I have breakfast. / I check my school bag. / I take out the garbage. / I leave my house. / I go to school. / I go home. / I do my homework. / I finish my dinner. / I dream a wonderful dream. | Japan — *Let's Try! 2* (MEXT, Grade 4 pupil book), Unit 9 "This is my day.", printed pp.34–40 |
+| Routine-verb cards: wash my face, brush my teeth, put away my futon, check my school bag, leave my house, take out the garbage, go to school, go home, do my homework, finish my dinner (the school-room cards on the same spreads are stocked in school-and-classroom-things) | Japan — *Let's Try! 2* (MEXT, Grade 4 pupil book), picture-card appendix (printed pp.41 to the end of the book) |
+
+Japan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Moldova, Dominican Republic, Colombia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Moldova, Dominican Republic, Colombia, Japan
 
 Every part traces to its book and page.
 
@@ -217,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
+**Acceptance count: taught in 46 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Moldova, Dominican Republic, Colombia, Japan).** Japan joins with the Japan rows stocked below (stocked 2026-11-11 by the Japan expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -682,3 +682,19 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Japan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs — **2 student books, 0 teacher books**: *Let's Try! 1* (Grade 3) and *Let's Try! 2* (Grade 4), the elementary foreign-language-activities pupil books of Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) — 52 teaching items placed. **Counting for this lesson: Japan is counted** — every row below rests on a Japanese pupil's book (both read books are MEXT pupil's books; Japan has no teacher book in hand). Read depth, as the expansion documents declare it: both books read in full, page by page through their text layers, including every picture-card appendix page; picture-only detail inside illustrations was placed only where a printed caption, chant, song lyric or card label in the text layer evidences it. Each PDF page from p.3 on is a two-page printed spread (printed pp. = 2·PDFp − 4 and 2·PDFp − 3); pages cited are the printed pages. Every page carries the publisher's SAMPLE (見本) specimen watermark — a specimen marking, not book content. No book errors were confirmed in the fresh read. Japan stays PARTIAL for English: *We Can! 1* (Grade 5) and *We Can! 2* (Grade 6) are named link-only books — complete MEXT chunk sets at exact URLs (set 1395222, 17/17 chunks verified 2026-11-02) — never secured, never read and cited nowhere (diff flag F2). The rows below are stocked from the expansion placements (japan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Let's Try! 2* — Japan, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Grade 4 pupil book (elementary foreign-language activities). 30 PDF pages (printed spreads pp.2–56 + colophon); record: grade-04/gov/japan/english/student/full-year.pdf (GitHub release asset id 676182655, mid-size-books-5; 11,695,103 bytes; SHA-256 bd7f562563fab269369b807942a361b59daacaacd945b8afbd8d0d7036a36e50 — the read copy byte-matches its record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telling the time: "What time is it?" — reading and completing clocks, matching times to daily activities | Japan — *Let's Try! 2* (MEXT, Grade 4 pupil book), Unit 4 "What time is it?", printed pp.14–17 |
+| Times around the world: the same moment in Tokyo, London, New York and San Francisco | Japan — *Let's Try! 2* (MEXT, Grade 4 pupil book), Unit 4 "What time is it?", printed pp.16–17 |
+| Time-of-day cards: wake-up time, breakfast time, study time, lunch time, homework time, snack time, bath time, dinner time, bed time, dream time | Japan — *Let's Try! 2* (MEXT, Grade 4 pupil book), picture-card appendix (first card spreads) |
+
+Japan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.

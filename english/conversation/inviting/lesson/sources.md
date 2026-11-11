@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, Zimbabwe, El Salvador, Moldova, Dominican Republic, Guyana
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, Zimbabwe, El Salvador, Moldova, Dominican Republic, Guyana, Japan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,7 +72,7 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 28 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Moldova, Dominican Republic, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 5's writing an invitation (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 29 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Moldova, Dominican Republic, Guyana, Japan).** Japan joins with the Japan rows stocked below (stocked 2026-11-11 by the Japan expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 5's writing an invitation (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -496,3 +496,17 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Japan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs — **2 student books, 0 teacher books**: *Let's Try! 1* (Grade 3) and *Let's Try! 2* (Grade 4), the elementary foreign-language-activities pupil books of Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) — 52 teaching items placed. **Counting for this lesson: Japan is counted** — every row below rests on a Japanese pupil's book (both read books are MEXT pupil's books; Japan has no teacher book in hand). Read depth, as the expansion documents declare it: both books read in full, page by page through their text layers, including every picture-card appendix page; picture-only detail inside illustrations was placed only where a printed caption, chant, song lyric or card label in the text layer evidences it. Each PDF page from p.3 on is a two-page printed spread (printed pp. = 2·PDFp − 4 and 2·PDFp − 3); pages cited are the printed pages. Every page carries the publisher's SAMPLE (見本) specimen watermark — a specimen marking, not book content. No book errors were confirmed in the fresh read. Japan stays PARTIAL for English: *We Can! 1* (Grade 5) and *We Can! 2* (Grade 6) are named link-only books — complete MEXT chunk sets at exact URLs (set 1395222, 17/17 chunks verified 2026-11-02) — never secured, never read and cited nowhere (diff flag F2). The rows below are stocked from the expansion placements (japan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Let's Try! 2* — Japan, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Grade 4 pupil book (elementary foreign-language activities). 30 PDF pages (printed spreads pp.2–56 + colophon); record: grade-04/gov/japan/english/student/full-year.pdf (GitHub release asset id 676182655, mid-size-books-5; 11,695,103 bytes; SHA-256 bd7f562563fab269369b807942a361b59daacaacd945b8afbd8d0d7036a36e50 — the read copy byte-matches its record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Inviting a friend to play, inside the favourite-day and week-schedule work (the day and schedule work itself is stocked in likes-and-hobbies) | Japan — *Let's Try! 2* (MEXT, Grade 4 pupil book), Unit 3 "I like Mondays.", printed pp.12–13 |
+
+Japan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.

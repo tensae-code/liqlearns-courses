@@ -1,6 +1,6 @@
 # Sources — Expressing Gratitude
 
-countries: Mauritania, Egypt, Laos, Ethiopia, Barbados, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, El Salvador, Bhutan
+countries: Mauritania, Egypt, Laos, Ethiopia, Barbados, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, El Salvador, Bhutan, Japan
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — the stronger forms: I'm grateful to you for…; that's really kind of you | Mauritania, Study English, Grade 8, printed pp.43–44; Grade 10, printed pp.33–34 |
 | Sub lesson 4 — the thank-you letter, to a whole family | Mauritania, Study English, Grade 10, printed pp.33–34 |
 
-**Acceptance count: taught in 7 countries (Mauritania, Egypt, Laos, Ethiopia, Tunisia, Samoa, Bhutan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Mauritania, Egypt, Laos, Ethiopia, Tunisia, Samoa, Bhutan, Japan).** Japan joins with the Japan rows stocked below (stocked 2026-11-11 by the Japan expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -173,3 +173,17 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Japan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs — **2 student books, 0 teacher books**: *Let's Try! 1* (Grade 3) and *Let's Try! 2* (Grade 4), the elementary foreign-language-activities pupil books of Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) — 52 teaching items placed. **Counting for this lesson: Japan is counted** — every row below rests on a Japanese pupil's book (both read books are MEXT pupil's books; Japan has no teacher book in hand). Read depth, as the expansion documents declare it: both books read in full, page by page through their text layers, including every picture-card appendix page; picture-only detail inside illustrations was placed only where a printed caption, chant, song lyric or card label in the text layer evidences it. Each PDF page from p.3 on is a two-page printed spread (printed pp. = 2·PDFp − 4 and 2·PDFp − 3); pages cited are the printed pages. Every page carries the publisher's SAMPLE (見本) specimen watermark — a specimen marking, not book content. No book errors were confirmed in the fresh read. Japan stays PARTIAL for English: *We Can! 1* (Grade 5) and *We Can! 2* (Grade 6) are named link-only books — complete MEXT chunk sets at exact URLs (set 1395222, 17/17 chunks verified 2026-11-02) — never secured, never read and cited nowhere (diff flag F2). The rows below are stocked from the expansion placements (japan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Let's Try! 1* — Japan, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Grade 3 pupil book (elementary foreign-language activities). 30 PDF pages (printed spreads pp.2–56 + colophon); record: grade-03/gov/japan/english/student/full-year.pdf (GitHub release asset id 676167727, mid-size-books-5; 13,192,337 bytes; SHA-256 1e9dee23c8586d48968fba036e98af3a31e7933d5b05fb29cd7590bcee17024f — the read copy byte-matches its record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The thanks answer inside a giving exchange: "This is for you." — "Thank you!" | Japan — *Let's Try! 1* (MEXT, Grade 3 pupil book), Unit 7 "This is for you.", printed pp.28–29 |
+
+Japan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.

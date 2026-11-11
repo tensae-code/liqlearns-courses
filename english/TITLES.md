@@ -133,7 +133,9 @@ its own subtitle folder with its own lesson + questions):
   by the El Salvador expansion merge — **Unit 5, Conversation**) ·
   at-the-doctors · making-complaints-and-claims (added
   2026-11-11 by the Dominican Republic expansion merge —
-  **Unit 5, Conversation**)
+  **Unit 5, Conversation**) ·
+  everyday-gesture-phrases (added 2026-11-11 by the
+  Japan expansion merge — **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
