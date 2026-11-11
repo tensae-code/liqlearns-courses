@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 11 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan).** Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 12 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq).** Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -99,7 +99,7 @@ closed countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania works the market — quantities, some/any and prices
 in ouguiya — in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Iraq joins with its Grade 4 dinar prices and Grade 12 banking words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -184,3 +184,17 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 2:** *English for Iraq*, Grade 12 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep (read in full from the book's text layer, cross-checked against the Grade 12 Teacher's Book). No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prices in Iraqi dinars — "How much are the cakes? They're 250 IQD each" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3, printed p.38 |
+| Banking and finance vocabulary | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 6 (book map, SB pp.2–3) |
+| Words used in banking (revision set) | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |

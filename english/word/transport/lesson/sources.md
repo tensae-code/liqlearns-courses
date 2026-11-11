@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -95,8 +95,8 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 14 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 15 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -117,7 +117,7 @@ a conversation in Grade 9 and tourism — choosing a
 destination, the tourism word set and a workbook-only
 reading on being a good traveler — in Grade 10 (stocked
 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Iraq joins with its transport sets in Grades 3, 5, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -211,3 +211,22 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Air-travel dialogues — buying a ticket, checking in (“Smoking or non-smoking? Window or aisle?”), choosing lunch, the captain's announcement | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed pp.10–12 |
 | Travellers at the airport — jobs, destinations and purposes | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.35 |
 | The Channel Tunnel (Arts reader 8) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.49 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 4:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Transport — truck, car, train, plane, bus, bike, boat, motorbike, on foot; "How do you go to school? I go to school by bike / on foot" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 6, printed p.74 |
+| Travelling — flight, airport, mountains, marshes, beach, market; by car, by train, by plane, by ferryboat | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 7, printed p.90 |
+| Ways of travelling | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Travel and hotels vocabulary | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |

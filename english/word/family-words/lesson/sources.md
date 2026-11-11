@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -117,10 +117,10 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 18 countries (Mongolia, North Macedonia, Palestine, Rwanda,
+**Acceptance count: taught in 19 countries (Mongolia, North Macedonia, Palestine, Rwanda,
 Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania,
 Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan,
-Sudan, Venezuela, Yemen).** Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+Sudan, Venezuela, Yemen, Iraq).** Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -147,7 +147,7 @@ repeats the set as a Chapter 0 recap at Grades 7 and 9
 books are read (see READING-QUEUE.md).
 Mauritania introduces the family in a written message in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Iraq joins with its family sets in Grades 1, 2 and 3 and its Grade 10 family-occasions words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -285,3 +285,22 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Family relationship words — father, mother, sister, brother; “How many sisters/brothers has…got?” | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.14 |
 | Family relationships in a family tree — brother, sister, son, daughter, aunt, uncle, cousin | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.70 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 1 Pupil and Activity Book (combined pupil + activity volume; 1st Primary; 2013 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 2 Pupil and Activity Book (combined pupil + activity volume; 2nd Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words — brother, dad, grandma, grandpa, mum, sister | Iraq — *English for Iraq*, Grade 1 Pupil and Activity Book, Unit 7, printed p.60 |
+| Extended family — aunt, uncle, cousin, added to mum, dad, brother, sister, grandma, grandpa | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 6, printed p.48 |
+| The family set — dad, mum, sister, baby sister, brother, grandma, grandpa, uncle, aunt — with "How many brothers/sisters have you got?" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 3, printed p.38 |
+| Celebrations and family occasions; family-related words | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |

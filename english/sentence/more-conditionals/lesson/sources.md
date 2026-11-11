@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -94,9 +94,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 14 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 15 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -112,7 +112,7 @@ conditional base, and South Africa the subjunctive
 mood at Grade 5 HL Workbook 2.
 Mauritania teaches the unreal conditional in its Grade 11 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 probable and less probable consequences talk (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep teaches Conditionals Type II in its grammar system. *English X* works the second conditional in its Great Expectations unit and the third in its closing grammar stretch. English X is filed in english/books/pakistan.md and was re-read in the same sweep.
 
@@ -132,3 +132,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Discussing probable and less probable consequences | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |

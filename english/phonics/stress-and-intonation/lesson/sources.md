@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -111,9 +111,9 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 17 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
+**Acceptance count: taught in 18 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
 China, Iran, Indonesia, Greece, Nicaragua, Pakistan,
-Palestine, Rwanda, Sudan, Venezuela, Yemen).** Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -141,7 +141,7 @@ falling, rising, emphatic stress, rising (stocked
 teaches word stress and sentence stress in its Grade 11
 English for Change (stocked 2026-11-09 by the
 re-verification sweep merge). Counts
-grow as other closed countries' books are read.
+grow as other closed countries' books are read. Iraq joins with its pronunciation, stress and phonemic work across Grades 4, 6, 7, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -249,3 +249,30 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Word stress — saying job words with the stressed syllables underlined (ex. 3.1: career, require, qualification, application), listening and underlining stressed syllables in longer job words (ex. 3.7: ambitious, successful, available, selected, inadequate), and choosing between word pairs by stress (ex. 3.9) | Yemen — *English Course for Yemen*, Workbook 6 (Grade 12), printed pp.29, 35, 38 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 2:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 3:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 4:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 5:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The pronunciation game of the Unit 8 revision | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 8, printed p.106 |
+| Words ending in -tion pronounced | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 5 |
+| Syllable stress; the sounds /s/ and /ʃ/; reading aloud | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 1 |
+| Intonation: performing two rhymes | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 2 |
+| The phonemic alphabet: /ɪ/ and /e/; listening for main stress and number of syllables | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
+| The phonemic alphabet: /eɪ/, /æ/ and /ə/ | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |
+| Listening for and practising contrastive stress in sentences | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Differentiating specific pairs of consonants and vowels | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |
+| Stress patterns in compound nouns and noun phrases; linking consonants and vowels | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
+| Intonation in conditional sentences; contracted forms in sentences | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |

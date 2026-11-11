@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -213,9 +213,9 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 17 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia,
+**Acceptance count: taught in 18 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia,
 China, Mexico, India, Greece, Mongolia, Pakistan,
-Palestine, Rwanda, Sierra Leone, Sudan, Yemen).** Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq).** Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -229,7 +229,7 @@ lessons closing the Dakhil Classes 9–10 People Who Stand
 Out unit (added 2026-11-08 by the re-verification sweep).
 China joins with its Grade 9 writing of an unforgettable
 person or event from junior high school (stocked
-2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 career-history interviewing and writing (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Nursery* closes with character-sketch pages — My Self, My Mother, My Friend, My Teacher (printed pp.136–142); *English 5* prints two biographies, the Father of the Nation (printed p.31) and Arfa Karim (printed p.43); *English 6* writes biography in its Overpopulation unit (printed p.92); and *English 7* reads the Quaid-e-Azam biography (Unit 4, printed p.32). All four are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -344,3 +344,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Great names in medicine — history-of-medicine reading (Hippocrates, Al Rhazes, Jenner, Pasteur, Vesalius, Harvey, Lister) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.55 |
 | Huge changes in Libyan health care — a surgeon's life-story magazine article (1960–1987) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.47 |
 | Arab scientists (Science reader 5) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.69 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Interviewing someone and writing a career history | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 6 (book map, printed pp.2–3) |

@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -93,9 +93,9 @@ verification sweep.
 | Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
 | A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 16 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
+**Acceptance count: taught in 17 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
 India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda,
-Sierra Leone, South Sudan, Sudan, Yemen).** Yemen joins with sending a letter, a falafel recipe, a fish-curry recipe, frozen peas and how a hospital works (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+Sierra Leone, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with sending a letter, a falafel recipe, a fish-curry recipe, frozen peas and how a hospital works (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its process writing across Grades 6, 8, 10 and 11 — recipes, methods, flow charts and instruction sets (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -188,3 +188,26 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Learning to cook — a fish-curry conversation: ingredients and sequenced method | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.26 |
 | Frozen peas — a process description (present simple passive throughout: peas are processed / are chosen / are washed / are packed), turned into a flowchart | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.32 |
 | How a hospital works — writing a process in the present simple (the casualty two-track system: reception, nurse, priority, doctors, X-ray) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.45 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 2:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 3:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 4:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project: designing a backpack from a model — a process text | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 2 |
+| How to make a string telephone — instructions as a process | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 5 |
+| Reading a recipe — ingredients and instruction order; quantity abbreviations | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 6 |
+| Describing a process | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 5 |
+| Reading and writing an illustrated method (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Using pictures to describe a process | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Creating a set of instructions | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
+| Describing a process using a flow chart | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |

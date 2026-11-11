@@ -1,6 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone
+countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq
 
 Every part traces to its book and page.
 
@@ -80,7 +80,7 @@ verification sweep.
 | Writing an article, "How to make people environmentally friendly?" | Mongolia, English XII, Unit 7, printed p.129 |
 | Writing a magazine article about a wheelchair fashion or dance show | Mongolia, English XII, Unit 10, printed pp.187–188 |
 
-**Acceptance count: taught in 9 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 StudyMall/EcoMall project (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -108,3 +108,13 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project 1 "More than just shopping!": reading about a StudyMall and an EcoMall; designing and writing about a new kind of mall | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, printed pp.16–17 |

@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -150,10 +150,10 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 21 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 22 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
 China, Iran, Indonesia, Mauritania, Mexico, India,
 Greece, Mongolia, Nicaragua, North Macedonia, Pakistan,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -180,7 +180,7 @@ re-verification sweep merge). Other closed countries join as their books are rea
 (see READING-QUEUE.md).
 Mauritania advises on illness in Grade 7 and discusses
 HIV/AIDS prevention in Grade 11 (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its health words across Grades 3, 5, 6, 8, 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -343,3 +343,34 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Malaria — cause, carrier, history, future (Science reader 9) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.66 |
 | A surgeon's life story — the health strand of the Libyan health-care article | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.47 |
 | Vaccinations — Jenner, Pasteur, AIDS vaccine research (Science reader 6) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.70 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 4:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 5:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 6:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *English for Iraq*, Grade 12 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep (read in full from the book's text layer, cross-checked against the Grade 12 Teacher's Book). No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Health and exercise words — sleep, wash, drink, brush my teeth, comb my hair, exercise, eat healthy food; healthy/unhealthy; twist, hop, bend, jump | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 5, printed p.58 |
+| Healthy/unhealthy habits talk inside the food unit | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 5, printed p.58 |
+| Project: a healthy-habits poster from a model | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 3 |
+| Describing aches and pains; enquiring about and describing state of health | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 2 "Healthy lifestyle" |
+| have / have got + ailment — health possession (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 2 (book map, printed pp.2–3) |
+| Health and fitness vocabulary | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 6 "Health and fitness" (book map, printed pp.2–3) |
+| Adjectives to describe food; words connected to health and fitness; compound nouns | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 "Food and drink" (book map, printed pp.4–5) |
+| Minor health problems and injuries vocabulary — bleeding toe, cut, fall | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+| The health tips text — advice language for minor problems and injuries | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |
+| Words to describe illness and health; adjective endings | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |

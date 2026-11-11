@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq
 
 Every part traces to its book and page.
 
@@ -47,8 +47,8 @@ verification sweep.
 | Form noticed: reflexive pronouns — emphatic use (himself/yourself) against same-subject use | India — Flamingo (Class 12), Noticing form in The Rattrap, printed pp.43–44 |
 | Reciprocal and reflexive pronouns, in the nature unit (with affixes, articles and sentence patterns) | Pakistan, *English 6*, Unit 3, printed p.27 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Malaysia, Nepal, Yemen, Iran, India, Pakistan).** India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
+**Acceptance count: taught in 8 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq).** India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -61,6 +61,19 @@ a single presentation page, and that limit is stated
 here rather than a page invented. Iran adds the self
 pronouns as a See Also grammar in its Grade 10 travel
 lesson (stocked 2026-11-09 by the re-verification sweep
-merge).
+merge). Iraq joins with its reflexive pronouns in Grades 6 and 7 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 6* teaches reciprocal and reflexive pronouns in its nature unit (Unit 3, printed p.27). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 2:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reflexive pronouns — "I hurt myself; she cut herself" | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 3 |
+| Reflexive pronouns (the danger unit's grammar) | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 7 |

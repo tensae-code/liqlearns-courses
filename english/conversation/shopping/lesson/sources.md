@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -98,8 +98,8 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 14 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 15 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -128,7 +128,7 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania shops in its Grade 7 book — identifying things and
 prices in ouguiya (MRU) (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge). Mexico's Grade 8 book shops in dialogue: three teenagers talk about their newest technology purchases (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+re-verification sweep merge). Mexico's Grade 8 book shops in dialogue: three teenagers talk about their newest technology purchases (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its shopping across Grades 3–9 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -175,3 +175,27 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Shopping words — a pair of glasses/earrings/shorts/sandals, bracelet, necklace, tie, ring, box of paints, paintbrush, comic, some paper; “Where can I buy a ring? At the jewellery shop” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.13 |
 | Shopping quantities in conversation — “I'd like some butter, please. How much? Half a kilo. How many pencils? Five” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.72–73 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 3:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 5:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shopping requests — "Can I have some rice, please?" at the food shop | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 7, printed p.90 |
+| School shop words inside the playground unit | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 1, printed p.6 |
+| Shopping at a stall — "Can I help you? Can I have a cola, please? What do you want? I want a cup of tea; How much are the cakes?" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3, printed p.38 |
+| The shops set — clothes shop, butcher's, shoe shop, pharmacy, fruit and vegetable stall, bank, toy shop, bakery | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 6, printed p.74 |
+| Shop names; deciding where to buy what; asking for something in a shop | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 2 |
+| Shopping for a party conversation; shops in a mall | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 7 |
+| Role-play buying second-hand objects; doing a survey | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 5 (book map, printed pp.2–3) |

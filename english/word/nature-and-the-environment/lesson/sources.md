@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -199,10 +199,10 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 21 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 22 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
 Bolivia, China, Iran, Indonesia, India, Greece,
 Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -223,7 +223,7 @@ nature in talk across the senior years — a wildlife-museum
 visit, an observatory conversation, a wildlife-protection
 workbook reading, and renewable energy in Grade 12
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the renewable-energy vocabulary in its Grade 12 student book, and four environment units at topic level in its two teacher guides — teacher-guide evidence only (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
-their books are read (see READING-QUEUE.md). Mexico's environment strand was completed 2026-11-09 by the Mexico re-verification sweep merge: the Grade 7 Trash and coral-reef projects, the Grade 8 climate-probability and water-protection projects, and the Grade 9 sustainable-energy comparison joined its Grade 7 environment vocabulary set.
+their books are read (see READING-QUEUE.md). Mexico's environment strand was completed 2026-11-09 by the Mexico re-verification sweep merge: the Grade 7 Trash and coral-reef projects, the Grade 8 climate-probability and water-protection projects, and the Grade 9 sustainable-energy comparison joined its Grade 7 environment vocabulary set. Iraq joins with its nature and environment work across Grades 3–11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -419,3 +419,32 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Man — the destroyer: environment damage (Science reader 14) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.71 |
 | The countryside — countryside words (stream, mountain, farmland, river, coastline, valley, desert, hill) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.5 |
 | Natural disasters word set — forest fire, drought, flood, flash flood, epidemic, volcano/eruption, famine, hurricane, earthquake/fault line/plates/crust | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.13 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 3:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 4:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 5:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 6:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Growing a plant — plant, flower, seed, root, shoot, leaf, bud, stem, soil, ground, water, rain, light, sun | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 6, printed p.74 |
+| Keeping-clean phrases — pick up litter, empty bins, cut grass, sweep up, water flowers | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 6, printed p.74 |
+| Geography words — mountain, desert, stream, river, village, lake, field, city, oil field, north, south | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 2, printed p.22 |
+| School-trip words and the places-to-see set — timetable, train, bus, rules, activities, shop, café, presents, vote; museum, lake, cave, forest, waterfall | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 5, printed p.58 |
+| Solar system and space travel reading | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 5 |
+| World problems — endangered animals and environmental issues in Iraq (newspaper-headline-led texts) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 7 "The world around us" |
+| Project 4: recycling at home (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| The EcoMall half of Project 1 "More than just shopping!" | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, printed pp.16–17 |
+| Project 2 "Helping wildlife!"; animals, birds, insects; habitats; landscapes | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
+| Environmental problems vocabulary — threats to endangered species, recycling, types of pollution and ways to reduce it | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 "The environment" (book map, printed pp.4–5) |

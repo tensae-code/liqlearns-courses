@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -140,9 +140,9 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 17 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China,
+**Acceptance count: taught in 18 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China,
 Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua,
-Palestine, Rwanda, Sierra Leone, Sudan).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+Palestine, Rwanda, Sierra Leone, Sudan, Iraq).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -165,7 +165,7 @@ re-verification sweep merge).
 Mauritania grades the modals in Grade 12 (may/might; the
 prediction shades) and charts the whole system — ability,
 deduction, requests, certainty — in Grade 13 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its must/mustn't rules, need, modals and certainty words across Grades 4, 6, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -250,3 +250,34 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 2:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 3:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 4:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 5:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rules with must/mustn't inside the challenge unit | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 7, printed p.90 |
+| need — "What do I need for maths? You need a ruler and a pencil; She needs some trainers" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 7, printed p.90 |
+| The must/mustn't rules system — "First, you must put on your badges. Remember! You mustn't talk; I must eat healthy food. I mustn't eat lots of sweets" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 7, printed p.90 |
+| Rules and advice: must/mustn't with should/shouldn't (online safety) | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 3 |
+| Safety rules with must/mustn't, at home and on the road | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 6 |
+| Modals must, may, might — possibility and obligation | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 7 |
+| Modals must, should, will — the book map's set for Unit 7 (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Expressing obligation and lack of obligation: have to / don't have to | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 (book map, printed pp.2–3) |
+| Modals will, shall, would | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+| Modals may, might for possible events | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 6 (book map, printed pp.2–3) |
+| Adverbs of certainty/uncertainty: perhaps, probably, definitely | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Adverbs and verbs to express degrees of certainty (certainly, definitely, expect) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+| can't/mustn't/shouldn't to express prohibition | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 (book map, printed pp.4–5) |
+| must/have to to express obligation and necessity | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 (book map, printed pp.4–5) |

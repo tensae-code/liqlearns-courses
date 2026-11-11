@@ -1042,3 +1042,30 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Venezuelan local stories — the country's own stories told as the lesson's reading (plot summaries only; the stories' texts are not reproduced in the guide and none is transcribed here) | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 4, student printed pp.32–39 (guide plan printed p.29) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 3:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story: "The Magic Pencil" (the Unit 1 story) | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 1 |
+| Story: "The Clever Crow" (the Unit 2 story) | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 2 |
+| Story: "Sam's Messy Room" (the Unit 3 story) | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 3 |
+| Story: "The Lion and the Mouse" (the Unit 1 story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 1 |
+| Story: "City Mouse and Village Mouse" (the Unit 2 story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 2 |
+| Story: "Sports Races" (the Unit 3 story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3 |
+| Story: "The Magic Bird" (the Unit 4 revision-unit story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 4 |
+| Story: "Rami and the School Trip" (the Unit 5 story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 5 |
+| Story: "The Little Brown Bird" (the Unit 6 story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 6 |
+| Story: "The Big Bike Race" (the Unit 7 story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 7 |
+| Story: "Ice-creams for Everyone!" (the Unit 8 revision-unit story) | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 8 |
+| Story: "Our sports club" (the Unit 3 story) | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 3 |
+| Story: "Picnic by the lake" (the Unit 5 story) | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 5 |
+| Story: "Karam's dream" (the Unit 7 story) | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 7 |

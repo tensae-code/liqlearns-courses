@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -65,8 +65,8 @@ verification sweep.
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 | Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 11 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania,
-India, Mongolia, South Sudan, Sudan, Venezuela).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 12 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania,
+India, Mongolia, South Sudan, Sudan, Venezuela, Iraq).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -74,7 +74,10 @@ questions; Laos dialogues the interview and prints its
 tips; Armenia drills etiquette, thinking-time phrases
 and pair practice. The plan's Iraq STAR anchor could not
 be confirmed in the Iraq filing — no STAR teaching was
-found there — so Iraq is not counted here.
+found there, and the STAR point remains Egypt's alone;
+Iraq joins instead on its Grade 11 Student's Book's
+job-interview role-play (Unit 7), stocked 2026-11-11
+by the re-verification sweep merge.
 Mauritania interviews with present-perfect experience
 questions in its Grade 12 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -127,3 +130,13 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Job interviews — preparing for an interview, the interview carried as a whole task | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 6, student printed pp.48–55 (guide plan printed p.41) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Interviewing someone for a job (role-play) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |

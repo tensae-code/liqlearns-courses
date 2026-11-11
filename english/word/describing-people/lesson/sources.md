@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -166,9 +166,9 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
+**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
 Indonesia, Mauritania, Mexico, India, Greece, Nicaragua,
-North Macedonia, Pakistan, South Sudan, Sudan, Yemen).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -194,7 +194,7 @@ READING-QUEUE.md).
 Mauritania describes people in Grade 7 (looks and clothes) and
 again in Grade 9 (who/whose descriptions and character words)
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its describing work across Grades 3–10 — have/has descriptions, shapes, animal descriptions, products, people and places (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -304,3 +304,38 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Describing objects by shape (round, rectangular, square, cylindrical), size, material (wood, metal, cloth, plastic, rubber) and use; a “What's my job?” yes/no guessing game | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.4 |
 | Describing things: shapes (rectangular, round, curved, square, triangular, straight), animal coverings (hair, feathers, skin, fur, scales, wool) and materials (wood, glass, paper, plastic, metal, cloth) — “A window is made of glass” | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.1 |
 | Describing a picture from furthest to nearest — “In the distance…; Nearer us…; In the foreground…” (a lucky escape) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.42 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 3:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 5:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 6:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 7:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 8:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| have/has descriptions — "I have short hair and a small nose; He has a small mouth; She has big eyes; It has four eyes" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 1, printed p.6 |
+| Shapes — triangle, circle, square, rectangle | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 5, printed p.58 |
+| Describing by position and measure — "Who is behind the farmer? The boy is in front of the girl"; "How tall is the cat?" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 6, printed p.74 |
+| Animal descriptions — "It is small and quiet; It likes to sleep; It can talk; It eats carrots; It is grey; It lives in water and can't walk" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 7, printed p.90 |
+| Riddle thing-description — "It has one leg and it moves its arms in the wind. It drinks water. Can you guess? What is it? … It's a tree!" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 2, printed p.22 |
+| Describing animals — "What's a shark like? It's dangerous; What's a cat like? A cat is playful" (dangerous, greedy, friendly, playful, gentle, lazy, intelligent, social) | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 2, printed p.22 |
+| Materials vocabulary — what things are made of; comes from / made from | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 2 |
+| Personal description; customs; nationalities | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 6 "Friends abroad" |
+| Describing people; writing a description of self and others | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 6 |
+| Describing people, abilities and interests inside the jobs unit | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 6 |
+| Describing people: appearance (straight/curly hair; blue/brown eyes; quite tall/short, a bit thin/fat; is wearing…) and character (artistic, friendly, hard-working, musical, sporty) | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, Lesson 6 "What do they look like?", printed p.10 |
+| Adjectives to describe appearance and character; extreme adjectives; intensifying adverbs | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 "Family and friends" (book map, printed pp.2–3) |

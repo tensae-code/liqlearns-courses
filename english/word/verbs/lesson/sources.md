@@ -504,3 +504,24 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan already stood in this lesson; these rows complete its stock from the sweep.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 2 Pupil and Activity Book (combined pupil + activity volume; 2nd Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 4:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| "What can you see? I can see…" — can for perception, inside the house unit | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 3, printed p.24 |
+| have/has — "I have (a sister); She has (a watch); He has (a ball)" | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 5, printed p.38 |
+| have/has for describing — "He has…; She has…; It has…" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 1, printed p.6 |
+| The -ing activity word set — singing, drawing, brushing my teeth, washing my face, reading, watching TV, skipping, playing football, writing, running, swimming, washing, sleeping, shopping | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 7, printed p.90 |
+| have got — "Have you got any crayons? No, I haven't, but I need some; Can I borrow yours?" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 7, printed p.90 |
+| Names of parts of speech — the verb named among them | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 5 |

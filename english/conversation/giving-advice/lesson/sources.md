@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -152,9 +152,9 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 20 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
+**Acceptance count: taught in 21 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
 China, Iran, Indonesia, Mauritania, Mexico, Greece,
-Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -185,7 +185,7 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania gives advice with the full modal ladder in its
 Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its advice language across Grades 6, 8, 10, 11 and 12 — should/shouldn't, ought to, had better, If I were you (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -303,3 +303,32 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Health posters as advice — prevention, hygiene, smoking and diet slogans | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.45 |
 | Opportunities — a magazine advice page: jobs in tourism; imperative advice; “learn how to…” | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.37 |
 | Getting careers advice — asking for, giving, accepting and turning down advice (“I need your advice; If I were you, I would…; If I were in your shoes…; That's not a very good idea; I'm hopeless at it”) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.19 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 2:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 3:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 4:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 5:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *English for Iraq*, Grade 12 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep (read in full from the book's text layer, cross-checked against the Grade 12 Teacher's Book). No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Advice for health problems: should/shouldn't | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 3 |
+| Online-safety rules and advice — must/mustn't with should/shouldn't | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 3 |
+| Talking about problems and inventing solutions; talking about inventions and helping others | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 3 |
+| should + infinitive for advice (revision) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 2 |
+| Modals could, should, ought to for advising | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 6 (book map, printed pp.2–3) |
+| Discussing healthy eating and sleep; explaining problems and giving advice; doctor-and-patient role-play | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 6 (book map, printed pp.2–3) |
+| Making predictions about the future (filed with the unit's advice-and-offers functions) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+| should / had better / "If I were you, I'd …" and the imperative to express advice | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 5 (book map, printed pp.4–5) |
+| Offering advice (inside the unit's functional expressions) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |
+| Health tips text and advice language | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 1 (book map, SB pp.2–3) |

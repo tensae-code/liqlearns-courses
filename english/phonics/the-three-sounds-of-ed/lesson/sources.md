@@ -1,6 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela
+countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq
 
 Every part traces to its book and page.
 
@@ -39,8 +39,8 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 | The three sounds of -ed, in the health unit (with hygiene and healthy eating) | Pakistan, *English 4*, Unit 8 (contents) |
 
-**Acceptance count: taught in 8 countries (Bolivia, India, Barbados, Nicaragua, Pakistan,
-Palestine, Sudan, Venezuela).**
+**Acceptance count: taught in 9 countries (Bolivia, India, Barbados, Nicaragua, Pakistan,
+Palestine, Sudan, Venezuela, Iraq).**
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -52,7 +52,7 @@ presentation is claimed from Barbados. Bolivia's
 "breathed" stands in its /t/ list as printed and is
 taught corrected (its -ed is /d/), never as a /t/
 example. Counts grow as other closed countries' books
-are read.
+are read. Iraq joins with its Grade 7 past-tense endings /d/ /ɪd/ /t/ (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -100,3 +100,13 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | The -ed rule — pronounced /t/, /d/ or /ɪd/ by the sound before it, stated as a rule with examples | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 22, student printed pp.178–185 (guide plan printed p.140) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past-tense endings /d/ /ɪd/ /t/ pronounced | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 3 |

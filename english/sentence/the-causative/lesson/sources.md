@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 9 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania,
-Palestine, Sudan, Yemen).** Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
+**Acceptance count: taught in 10 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania,
+Palestine, Sudan, Yemen, Iraq).** Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -80,7 +80,7 @@ system, and no part of the lesson claims it does.
 Mauritania teaches the causative whole in its Grade 13 book —
 have/get someone to do, have/get something done, and the
 experienced causative (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge).
+re-verification sweep merge). Iraq joins with its Grade 10 causative have and get (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -118,3 +118,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Causative “make” — “Smoking makes your breath smell; playing games makes me feel fit” (Language review 5) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.56 |
 | Causative have/get — “Have the boy put away his bag; Get the boy to put away his bag” (Language review 8) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.31 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Causative have, get | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |

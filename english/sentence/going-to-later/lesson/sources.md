@@ -586,3 +586,13 @@ Named sub-points (inside items already counted as stocked; the sweep named them 
 
 | The formal future “be + to” — “The factory is to close” (Language review 2's future forms) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.23 |
 | The formal future “be + to” for future plans and forecasts — “The President is to meet…” (Language review 3) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.12 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Future ambition talk — "When I grow up, I want to be…" as the year's first future talk | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 1 |

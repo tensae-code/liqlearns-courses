@@ -449,3 +449,49 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Venezuelan tourism vocabulary — the places and words of visiting, from the Grade 10 lesson | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 19, student printed pp.152–159 (guide plan printed p.122) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 1 Pupil and Activity Book (combined pupil + activity volume; 1st Primary; 2013 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 2 Pupil and Activity Book (combined pupil + activity volume; 2nd Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 5:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 7:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 8:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 9:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 10:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *English for Iraq*, Grade 12 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep (read in full from the book's text layer, cross-checked against the Grade 12 Teacher's Book). No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom objects — bag, bin, book, CD, chair, desk, pen, pencil, pencil case, rubber, ruler | Iraq — *English for Iraq*, Grade 1 Pupil and Activity Book, Unit 2, printed p.16 |
+| Toys vocabulary — bear, bike, doll, net, skates, toy, video game, yo-yo; balloon, present | Iraq — *English for Iraq*, Grade 1 Pupil and Activity Book, Unit 3, printed p.26 |
+| Town places inside the "Where are you?" set — the park, the café, the market | Iraq — *English for Iraq*, Grade 2 Pupil and Activity Book, Unit 6, printed p.48 |
+| Classroom words — chair, desk, book, ruler, pencil, rubber, board, marker, notebook, pencil case, crayon, sharpener, paper | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 1, printed p.6 |
+| Countries and capitals — Iraq, England, America, Russia, China, Brazil; Baghdad, London; country, population, capital city; "I'm from Iraq. Where are you from?" | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 2, printed p.22 |
+| Places to see — museum, lake, cave, forest, waterfall, ruin, seaside, river, mountain range, bridge, city, buildings | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 5, printed p.58 |
+| Cinema words — film, popcorn, ice-cream, funny, good robot, bad robot | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 6, printed p.74 |
+| Countries and nationalities — Thailand, France, Japan, Egypt, England, Iraq, Turkey, Italy; Egyptian, Italian, Iraqi, English, Turkish, Japanese, Thai, French | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 1, printed p.6 |
+| Talking about countries — map, country, capital, flag, nationality; country words (kleicha, macaroni, pandas, elephants, curry, masgouf, kangaroo; minaret, palace, coastline) | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 1, printed p.6 |
+| The shops set placed in the town — clothes shop, butcher's, shoe shop, pharmacy, fruit and vegetable stall, bank, toy shop, bakery, with place prepositions behind, next to, opposite, between | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 6, printed p.74 |
+| Fun city and souvenirs — roller coaster, bumper cars, merry-go-round, super slide, karting, big wheel, super swing, clowns, rides, baby rides; souvenirs (postcard, mug, T-shirt, key ring, baseball cap, doll) | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 6, printed p.74 |
+| Shop names — deciding where to buy what, in the town's shops | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 2 |
+| Countries, industries and products vocabulary | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 5 "Other countries" |
+| Countries and nationalities (the "Other countries" unit's word set) | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Place names and landmarks; adjectives to describe places; proximity words (nearby, around the corner) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 "Travel" (book map, printed pp.2–3) |
+| Secular and religious festivals and celebrations vocabulary; describing a familiar festival or tradition | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 "Culture and customs" (book map, printed pp.4–5) |
+| Holidays vocabulary and talk | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 5 (book map, SB pp.2–3) |

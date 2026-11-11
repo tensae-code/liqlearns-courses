@@ -1300,6 +1300,57 @@ exact, and 245 is exact now. No registered title lacks a
 directory; the apparent 3-lesson drift was the counting
 method, not the course.
 
+**Stocked by Iraq (all 34 books):** the *English for
+Iraq* series (Garnet, for the Ministry of Education,
+General Directorate of Curricula) runs Grades 1–12 —
+combined Pupil and Activity Books at Grades 1–2, then a
+Student's Book, Activity Book and Teacher's Book per
+grade. The old build had stocked Iraq into only 49
+lessons; the sweep stocked the remaining 311 of its 515
+placed items into 103 lessons — the catch-up grammar
+spine that had never landed (question tags, reported
+speech and reported questions, relative clauses, the
+causative, modal perfects, the past perfect and past
+perfect continuous, future continuous), the conversation
+functions (offers, suggestions, invitations, apologies,
+polite requests, telephoning, introductions), the
+writing genres and the whole later-grade word fields —
+and built no new lesson: every missing point already
+had a home. Of the sweep's 7 flags: Flag 1 corrects the
+library record, not the course — the Grade 7–9
+Student's Books are complete full-year volumes (direct
+renders: G7 printed p.44 = Unit 5 Lesson 3, G8 printed
+p.53 = Unit 5 Lesson 7, G9 printed p.70 = Unit 6
+Lesson 6), so no Book Two is owed for any of them, and
+the Units 5–8 rows stocked here rest on the held
+Student's Books themselves. Flags 2–4 are filing-header
+claims the fresh read disproves (the alphabet arrives
+in Grade 1, not Grade 2; the past simple is explicit at
+Grade 4 and the present perfect first arrives at
+Grade 7, not "only in Grade 6"; the present perfect
+continuous IS taught, first at Grade 10) — the course's
+own rows already follow the books, so no lesson file
+changed for them. Flag 5 puts "The Canary" back in
+hand: the story is printed in the Grade 12 Student's
+Book's own Literature Focus, and it is stocked in
+the-big-reading from that book. Flag 6 is a
+library-record error (the held Grade 3 Teacher's Book
+copy has no text layer), reported, not edited. Flag 7:
+the stage names "4th Preparatory" and "6th
+Preparatory" are printed in no held Grade 10 or 12
+book, so the new entries cite those books by grade
+alone (Grade 11's book prints its own "5th
+Preparatory"). Read depth stands exactly as the sweep
+declares it: the text-layer books read in full, the
+scan books at book-map granularity plus targeted
+lesson pages, with the diff's two declared undercounts.
+Two placements supplement points the diff scored
+against the whole course are stocked as extra rows
+where their named lessons held no Iraq row (Grade 8's
+present/past continuous passive; its train-timetable
+reading). **Iraq: 34 of 34 read.** The English course
+now stands at **245 lessons across 44 units**.
+
 ---
 *Kept current as books are read: when a book is finished, its units are
 placed in this plan and its basics are filed into the lessons named

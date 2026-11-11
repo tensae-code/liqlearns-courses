@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -105,9 +105,9 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 14 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh,
+**Acceptance count: taught in 15 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh,
 Indonesia, Mexico, Greece, Palestine, Rwanda,
-Sierra Leone, Sudan, Venezuela, Yemen).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+Sierra Leone, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -124,7 +124,7 @@ Pleasure reader's Ghazali, Dickinson and Neruda (added
 2026-11-08 by the re-verification sweep). Indonesia makes
 poems in both secondary books — a simple poem in Grade 8
 and poem creation as the writing step in Grade 9
-(stocked 2026-11-09 by the re-verification sweep merge). Mexico plays with words in Grade 7 — a poetry reading prepared and performed, a prose piece and a shape poem studied whole — and matches poetry and art vocabulary in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+(stocked 2026-11-09 by the re-verification sweep merge). Mexico plays with words in Grade 7 — a poetry reading prepared and performed, a prose piece and a shape poem studied whole — and matches poetry and art vocabulary in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 8 limericks and Grade 11 Eid poem and verse-writing (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -277,3 +277,16 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Two poems by William Wordsworth (Arts reader 7) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.48 |
 | A poem: “Leisure” by William Henry Davies (Arts reader 9) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.61 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 2:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a limerick; rhyme and rhythm in limericks (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 2 (book map, printed pp.2–3) |
+| A poem about Eid; writing verses of a poem | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |

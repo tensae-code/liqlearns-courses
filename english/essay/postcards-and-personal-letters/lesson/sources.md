@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -96,9 +96,9 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 14 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India,
+**Acceptance count: taught in 15 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India,
 Nicaragua, Pakistan, Palestine, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -108,7 +108,7 @@ keeps its plan in the Writing Reference. China writes
 letters up the whole ladder — friendly letters and a
 pen-pal letter in Grade 5, a pen-pal unit in Grade 6,
 personal letters again at Grade 9 (stocked 2026-11-08
-by the re-verification sweep).
+by the re-verification sweep). Iraq joins with its letters, emails, cards and notes across Grades 5–10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -251,3 +251,34 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | A personal letter — a birthday letter from Sam, London (task reading) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.21 |
 | Writing a postcard — a holiday postcard to a friend (Unit 1) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.4 |
 | Writing a postcard (Unit 4) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), Unit 4, steps 12/13 (Workbook 3, printed pp.68–69) |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 3:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 4:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 5:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 6:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Magazine writing ("My magazine: Camels") and writing an email to a friend, in the Unit 4 revision challenge | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 4, printed p.54 |
+| The Unit 8 revision challenge's email to a friend and holiday quiz writing | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 8, printed p.106 |
+| Writing an email to a friend following a model — how to write an email | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 3 |
+| Writing notes to a family member from a model | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 6 |
+| Mother's Day reading; writing special-day messages in a card | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 7 |
+| Writing a friendly letter of reply | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 1 |
+| Writing a postcard message | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 6 |
+| Making Get Well cards (writing) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 2 |
+| Writing a short letter (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 7 (book map, printed pp.2–3) |
+| Two friendly emails describing best friends (reading + writing emails) | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 1, Lesson 7 "Good friends", printed p.11 |
+| Writing an email invitation; role-playing a dialogue | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 2 (book map, printed pp.2–3) |
+| Describing a place; writing a postcard or email to a friend | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |

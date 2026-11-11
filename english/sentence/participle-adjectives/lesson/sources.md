@@ -1,6 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -30,7 +30,7 @@ Every part traces to its book and page.
 | Participle adjectives, -ed and -ing (bored/boring, fascinated/fascinating) | Mongolia, English XII, Unit 10, printed pp.179–180 |
 | -ed / -ing adjectives — bored against boring, in the emotions lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 4, printed p.13 |
 
-**Acceptance count: taught in 8 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen).** Yemen joins with participle adjectives in its Grade 12 fish-curry lesson (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq).** Yemen joins with participle adjectives in its Grade 12 fish-curry lesson (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 10 -ed and -ing adjectives (stocked 2026-11-11 by the re-verification sweep merge).
 
 Albania's entry is teacher's-guide evidence and is worded as such everywhere it is used; the guide filing also records the chapter vocabulary list's misprints ("don't warry"; "clam" for calm) — neither misprint is taught in this lesson.
 
@@ -62,3 +62,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Participle adjectives — “peeled and chopped tomatoes, crushed garlic” (the fish-curry lesson) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.26 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives ending in -ed and -ing | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |

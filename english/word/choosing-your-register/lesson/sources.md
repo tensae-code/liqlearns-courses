@@ -1,6 +1,6 @@
 # Sources — Choosing your register
 
-countries: Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico, India, Ghana, Greece, Sierra Leone
+countries: Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico, India, Ghana, Greece, Sierra Leone, Iraq
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ verification sweep.
 | “The 5th of November” — formulaic responses (fixed social replies) | Greece, Think Teen! Grade 9 Student's Book, Unit 6, Lesson 2, printed p.65 |
 | Workbook “The 5th of November” — practice of formulaic responses with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 6, Lesson 2, WB printed pp.65–75 |
 
-**Acceptance count: taught in 10 countries (Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico, India, Greece, Sierra Leone).** Greece joins with the Grade 9 'The 5th of November' formulaic-responses lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with colloquial and teenage slang listed from the story in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). South Africa names register in a workbook question and works it through dialogues. Uzbekistan teaches formal/informal style through invitations, pair words and a deliberately mixed letter to fix. Barbados rules the dialect question in its syllabus: discriminate by place and circumstance, and build the switch (syllabus evidence, worded as such). Jordan stocks the two soft tools — hedging as a writing skill and vague language as a named set. Bangladesh teaches manners themselves as the senior register work — etiquette around the world and netiquette online (added 2026-11-08 by the re-verification sweep). China teaches the switch itself — say it directly or say it politely, and change it for the person in front of you (added 2026-11-08 by the re-verification sweep). Mexico names slang as slang — chido and chamba set beside “ain't” and “let's bounce”, informal words marked as informal (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico, India, Greece, Sierra Leone, Iraq).** Greece joins with the Grade 9 'The 5th of November' formulaic-responses lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with colloquial and teenage slang listed from the story in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). South Africa names register in a workbook question and works it through dialogues. Uzbekistan teaches formal/informal style through invitations, pair words and a deliberately mixed letter to fix. Barbados rules the dialect question in its syllabus: discriminate by place and circumstance, and build the switch (syllabus evidence, worded as such). Jordan stocks the two soft tools — hedging as a writing skill and vague language as a named set. Bangladesh teaches manners themselves as the senior register work — etiquette around the world and netiquette online (added 2026-11-08 by the re-verification sweep). China teaches the switch itself — say it directly or say it politely, and change it for the person in front of you (added 2026-11-08 by the re-verification sweep). Mexico names slang as slang — chido and chamba set beside “ain't” and “let's bounce”, informal words marked as informal (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 11 formal and informal expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -77,3 +77,13 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Formal and informal expressions; language for expressing different functions | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 6 (book map, printed pp.4–5) |

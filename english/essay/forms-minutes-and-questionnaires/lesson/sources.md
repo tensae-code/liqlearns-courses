@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan, Yemen
+countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -57,9 +57,9 @@ verification sweep.
 | A personal information card — name, grade, age, phone number | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed p.4 |
 | Addresses — saying and writing an address | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 8, printed p.37 |
 
-**Acceptance count: taught in 13 countries (Albania, Ghana, Greece, South Africa, China, India,
+**Acceptance count: taught in 14 countries (Albania, Ghana, Greece, South Africa, China, India,
 Mongolia, Nicaragua, Palestine, Rwanda, South Sudan,
-Sudan, Yemen).** Yemen joins with landing cards and passports (Grade 11) and work-experience application forms (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+Sudan, Yemen, Iraq).** Yemen joins with landing cards and passports (Grade 11) and work-experience application forms (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its application forms, surveys and questionnaires in Grades 8, 9, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -150,3 +150,23 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Landing cards and passports — forms and official information in an immigration officer's work (“Welcome!”) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.8 |
 | Work-experience opportunity notices — the application form and its facts (interview, vacancies, salary, qualifications) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.17 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 2:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 3:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 4:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Filling out an application form (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 (book map, printed pp.2–3) |
+| Conducting a survey (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 (book map, printed pp.2–3) |
+| Completing a questionnaire ("Caring for the natural world"); forming a questionnaire; researching and writing a fact file on wildlife | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
+| Filling in an application form | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
+| Words used in application forms; completing application forms; designing a form for interviewing someone; scanning a tourist brochure; distinguishing facts and opinions in newspaper articles | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |

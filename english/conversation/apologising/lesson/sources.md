@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 6 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 7 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -77,7 +77,7 @@ speaking work in Grade 9, opens the unit with the
 cross-cultural "I'm Sorry" reading and a company apology
 letter, sets the apology letter as writing, and its
 (DRAFT) teacher's guide carries a seven-lesson apologising
-unit of its own.
+unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -123,3 +123,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 Named sub-points (inside items already counted as stocked; the sweep named them as carrying no Yemen citation):
 
 | Apologising — “Oh, I'm sorry” (in the cartoon story “Tom, Anne and Bill”) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed pp.60–61 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Informal/formal and functional expressions: expressing concern, sympathy, apology, explanation | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |

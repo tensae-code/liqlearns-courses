@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -138,7 +138,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 18 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen).** Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 19 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -155,7 +155,7 @@ re-verification sweep). Iran carries the hobbies and
 free-time set in Grade 8, asked as "What's your hobby?"
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia names what a game needs in Grade 6 and talks about extracurricular activities in Grade 7 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
-READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set.
+READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set. Iraq joins with its sports teaching across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -266,3 +266,32 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Sporting facts: scanning factual texts; superlatives; “going to” for intention (Unit 8) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.66 |
 | The Olympic Games — origins and the modern Games (Arts reader 4) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.45 |
 | An athlete's training (Science reader 3) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.60 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 4 Student's Book (4th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. The held scan skips printed pp.33–34; the rows below rest on the book's own book map and its read pages.
+
+**Book 2:** *English for Iraq*, Grade 5 Student's Book (5th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 4:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 5:** *English for Iraq*, Grade 9 Student's Book (3rd Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Unit 6 is in the held book (printed p.70 = Unit 6 Lesson 6) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 6:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Playground words — tunnel, swing, slide, ladder, roundabout, bars | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 1, printed p.6 |
+| Races — running, skipping, egg and spoon | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 3, printed p.38 |
+| The sports set — tennis, boxing, running, karate, cycling, swimming, football, gymnastics, rowing, basketball; sports places and equipment | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 3, printed p.38 |
+| Sport talk — "What's your favourite sport? I like swimming and tennis; I play football; I go swimming; I do gymnastics; Where do you go swimming / play volleyball / do karate?" | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 3, printed p.38 |
+| Spare-time activities and hobbies vocabulary; routine activities | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 1 "My spare time" |
+| Sports preferences talk; factual texts about sporting events (search reading) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 "Sports" |
+| "How good are you at (volleyball)?" — ability talk inside the sports unit | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 |
+| do, go, play with sports — the collocation set (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 3 (book map, printed pp.2–3) |
+| Spare-time activities and equipment vocabulary; types of stories; film, theatre and concerts | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 2 "Spare time activities" (book map, printed pp.2–3) |
+| Describing a game; words connected to TV games and sports reports | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |

@@ -1,6 +1,6 @@
 # Sources — Modal perfects
 
-countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine
+countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq
 
 Every part traces to its book and page.
 
@@ -61,8 +61,8 @@ reproduced.
 | “Tragedies!” — might have, could have, should have (past modals) | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 2, printed p.113 |
 | Workbook Unit 10 (Natural phenomena), lessons 1–3 — practice of past modals with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, WB printed pp.108–117 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine).** Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
+**Acceptance count: taught in 8 countries (Bolivia,
+Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq).** Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
 past ladder inside the same numbered box as the
 present one, and adds blame and regret to it. Nepal's
 criticism forms rest on teacher's-guide evidence and
@@ -75,7 +75,7 @@ member — the books stock the set it completes
 (Egypt's box carries the necessity modals beside the
 past forms); no filing was found presenting needn't
 have under its own heading, and that limit is stated
-rather than papered over.
+rather than papered over. Iraq joins with its Grade 11 past deductions with modal verbs (might, must and can't have…) (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -87,3 +87,13 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Should(n't) have + past participle | Palestine, Grade 12, Unit 9, printed pp.93–94 |
 | Past forms of modal verbs | Palestine, Grade 12, Unit 11, printed pp.118–119 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making deductions about past events with modal verbs (might, must and can't) | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |

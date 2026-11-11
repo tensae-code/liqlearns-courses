@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -136,9 +136,9 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 17 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China,
+**Acceptance count: taught in 18 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China,
 Indonesia, Mauritania, Greece, North Macedonia,
-Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -166,7 +166,7 @@ Grade 11 (stocked 2026-11-09 by the re-verification
 sweep merge).
 Mauritania gives classroom orders in Grade 7 and the
 admiration exclamations in Grades 8 and 10 (stocked 2026-11-09
-by the Mauritania re-verification sweep merge).
+by the Mauritania re-verification sweep merge). Iraq joins with its classroom instructions and imperatives across Grades 1, 3, 6, 7, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -303,3 +303,28 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Imperative instructions for crossing the street — “Stop! Look left, look right, Don't run!” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.7 |
 | Warnings to children and parents: positive and negative imperatives; “will” for warnings (Unit 5) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed pp.35–36 |
 | Driving-lesson instructions — “Put it into first gear; don't rev too fast or you will sink deeper; dig the sand away…” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.24 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 1 Pupil and Activity Book (combined pupil + activity volume; 1st Primary; 2013 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Iraq*, Grade 6 Student's Book (6th Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. This book's points were itemised in the sweep from the Grade 6 Teacher's Book's book map (TG printed pp.30–31) and teaching notes — teacher evidence for this book; the Teacher's Book was read in full from its text layer.
+
+**Book 4:** *English for Iraq*, Grade 7 Student's Book (1st Intermediate) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.44 = Unit 5 Lesson 3; printed p.68 = Unit 7 Lesson 5) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 5:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 6:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom instructions — Stand up, Sit down, Hands up/down, Turn around, Open, Draw, Close | Iraq — *English for Iraq*, Grade 1 Pupil and Activity Book, Unit 2, printed p.16 |
+| Classroom commands — Stand up, Sit down, Listen, Look, Jump up, Turn around, Clap your hands | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 1, printed p.6 |
+| Imperatives for instructions and safety — "Spread the butter…; Put on your seatbelt" | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 6 |
+| Imperative sentences — instructions, orders, warnings | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 7 |
+| Imperatives with do (from the Student's Book's own book map) | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 5 (book map, printed pp.2–3) |
+| Imperatives (the language-learning unit's grammar) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |

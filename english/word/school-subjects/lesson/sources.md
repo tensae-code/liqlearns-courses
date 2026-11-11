@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq
 
 Every part traces to its book and page.
 
@@ -100,8 +100,8 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 11 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
-Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela).** Mexico carries the
+**Acceptance count: taught in 12 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
+Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -119,7 +119,7 @@ at primary level (Grades 3–4), the subjects recap in its
 Chapter 0, and the class schedule described whole at
 Grade 7 (stocked 2026-11-09 by the re-verification sweep
 merge). Other closed countries join as their
-books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set.
+books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set. Iraq joins with its school subjects in Grades 3, 8 and 10 and its Grade 12 further-education words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -184,3 +184,24 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Education and constitution vocabulary — the words of schooling and the constitution the Grade 11 lesson names | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 17, student printed pp.136–143 (guide plan printed p.106) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Student's Book (3rd Primary; the book's own title is "Pupil's Book", 2015) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Iraq*, Grade 8 Student's Book (2nd Intermediate; 2015 first edition) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. A complete full-year volume (Units 1–8): the sweep's direct page renders prove Units 5–7 are in the held book (printed p.53 = Unit 5 Lesson 7, the "Present passive with can" box) — the library record's "Book One only" description of this book is wrong (sweep Flag 1).
+
+**Book 3:** *English for Iraq*, Grade 10 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep. No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+**Book 4:** *English for Iraq*, Grade 12 Student's Book — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep (read in full from the book's text layer, cross-checked against the Grade 12 Teacher's Book). No stage name is printed in this book (sweep Flag 7); it is cited by grade alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects and places — school, lesson, English, Arabic, RE, science, maths, PE, music, art | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 5, printed p.58 |
+| Favourite-lesson talk — "What's your favourite lesson? It's maths" | Iraq — *English for Iraq*, Grade 3 Student's Book, Unit 5, printed p.58 |
+| School subjects named inside the jobs unit's texts | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 6 |
+| Education, schools and academic subjects vocabulary | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 2 "Education" (book map, printed pp.2–3) |
+| Further education: university study talk and texts | Iraq — *English for Iraq*, Grade 12 Student's Book, Unit 7 (book map, SB pp.2–3) |
+| Words used in education (revision set) | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |

@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq
 
 Every part traces to its book and page.
 
@@ -49,7 +49,7 @@ pinned for them here.
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 | Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 5 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen).** Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq).** Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -60,7 +60,7 @@ work in it; Kuwait's Handwriting Book 3A supplies the
 training routine (trace the grey model, copy the solid
 model, on four-line guides) and is recorded exactly as
 filed: it teaches no joins, and none is claimed from it.
-Counts grow as other closed countries' books are read.
+Counts grow as other closed countries' books are read. Iraq joins with its Grade 3 Activity Book's systematic handwriting strand — letter formation with dotted models and word tracing, activity-book-only teaching (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -81,3 +81,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Handwriting formation: tracing number figures 2–9 and 0, and letter matching (capital ↔ small) | Yemen — *English Course for Yemen*, Workbook 1 (Grade 7), printed pp.1–5 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 3 Activity Book (3rd Primary) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The year's systematic handwriting teaching — letter formation with dotted models and word tracing (a/ant, b/bag, c/cat, d/dog, e/egg, f/fan …), activity-book-only teaching | Iraq — *English for Iraq*, Grade 3 Activity Book, printed pp.2–5 (Unit 1, Lessons 1–2) and through the book |

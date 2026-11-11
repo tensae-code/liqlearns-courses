@@ -372,3 +372,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Word lists (Units 2, 3 and 6) with short glosses | Yemen — *English Course for Yemen*, Workbook 4 (Grade 10), printed pp.108–111 |
 | Word lists for Units 1, 3, 4, 5 and for the Arts and Science readers | Yemen — *English Course for Yemen*, Workbook 5 (Grade 11), printed pp.136–141 |
 | Word lists for the units and for the Arts and Science readers | Yemen — *English Course for Yemen*, Workbook 6 (Grade 12), printed pp.111–117 |
+
+## Iraq added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 teaching items placed; 204 already in the course, 311 missing, 7 claims flagged). Read depth, exactly as the sweep's diff declares it: the text-layer books were read in full; the scan books were read at the granularity of each book's own complete book map plus targeted lesson pages — not an exercise-by-exercise re-read — and two undercounts are declared in the diff (the G3/G4 Activity Book phonics strands and Teacher's-Book-only points sit outside the 515). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/iraq-placements.md).
+
+**Book 1:** *English for Iraq*, Grade 11 Student's Book (5th Preparatory — the stage name this book itself prints) — Iraq, Ministry of Education, General Directorate of Curricula / Garnet Publishing. Filed in english/books/iraq.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Starting learner diaries and vocabulary notebooks — the year's vocabulary-keeping system | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |
