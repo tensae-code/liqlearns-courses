@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Andorra, El Salvador, Iceland, Philippines, Honduras, Bahamas
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Andorra, El Salvador, Iceland, Philippines, Honduras, Bahamas, Bahrain
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
 Scheme of Work, and confirmed by the pupil's-book read of
@@ -72,13 +72,13 @@ PASSED 2026-11-06).
 | Paraphrasing named in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Précis writing as the unit's writing work | Pakistan, *English 12*, Unit 11, printed pp.84–87 (unit range) |
 
-**Acceptance count: taught in 26 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname, Iceland, Philippines, Honduras).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India
+**Acceptance count: taught in 27 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname, Iceland, Philippines, Honduras, Bahrain).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
 rules; South Sudan sets summaries by length and by story
 headings; Malaysia teaches the Someone–Wanted–So–But–
-Then story frame. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 12 summary writing, written and oral (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its summary writing in Grades 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge).
+Then story frame. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 12 summary writing, written and oral (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its summary writing in Grades 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge). Bahrain joins with the Bahrain rows stocked below (stocked 2026-11-11 by the Bahrain expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -599,3 +599,15 @@ The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDF
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.
+
+## Bahrain added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bahrain's whole in-hand English set — one file, a 24-page student-coursebook excerpt — page by page and placed 54 teaching items; none was already in the course. The rows below are this lesson's share, stocked from the expansion placements (liqlearns-courses-work/expansion-2026-11-10/english/bahrain-placements.md).
+
+**Book 1:** Student coursebook excerpt (Units 1, 3 and 5) — Bahrain, recorded in the library record as *English Student Coursebook — Grade 10 (Term 2)* (Almanahj file 3765; the record's year is 2020/2021). The held file is NOT the whole book that record names (expansion diff, flag F1): it is a 24-page excerpt — printed pp.6–13 (Unit 1 "Human planet"), 22–29 (Unit 3 "The media") and 38–45 (Unit 5 "Natural world") — behind an Almanahj mirror cover page, and it carries no cover, title page, imprint, grade, term or country marking of the book itself; the Grade 10 / Term 2 attribution rests on the record alone, and the download list flags the same file as a Term-1 partial, so neither term is confirmable from the file. The excerpt's content is genuine pupil-facing coursebook material, so its rows count in this lesson as a student's book's rows, with the excerpt limit stated here. The parent book runs past printed p.153; everything the excerpt cross-references (language reference, audio scripts, video and task pages) is not in the file and is cited nowhere. Printed page = PDF page + 4. Grabbed byte-exact from the textbooks repo (2,639,293 bytes) and read in full, page by page, in the 2026-11-10 expansion read. Book errors carried, taught corrected: the Bora Bora text puts Vaitape on the "east" coast (printed p.38) — Vaitape is on the island's west coast; the Mount Fuji paragraph prints "Toyko" for Tokyo (printed p.45); the Unit 3 opening page runs overview words together in this assembled file (printed p.22) — file-level spacing corruption, not asserted as a print error in the parent book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Summarising: shortening two short programme texts by cutting the sentences with unimportant information, keeping the story-essential sentences | Bahrain — student coursebook excerpt, Unit 3.4, printed p.29 |
+
+Bahrain is new to this lesson: the countries line and the acceptance count above were updated together.

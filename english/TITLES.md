@@ -178,6 +178,9 @@ its own subtitle folder with its own lesson + questions):
   the World**) · toys-and-games (added 2026-11-09 by the
   Indonesia re-verification sweep merge — **Unit 7, Words
   for the World**) ·
+  media-words (added 2026-11-11 by the Bahrain
+  expansion merge — **Unit 7, Words for the
+  World**) ·
   maritime-english (added 2026-11-10 by the Greece
   re-verification sweep merge — **Unit 7, Words for
   the World**) ·
