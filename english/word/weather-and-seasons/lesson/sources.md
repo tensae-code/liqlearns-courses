@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Suriname, Haiti, Papua New Guinea
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Suriname, Haiti, Papua New Guinea, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** Akelius A2 Teacher's Guide (guide for the
@@ -711,3 +711,29 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 3, Unit 6 — Heavy rains, printed p.20: Reading: showers vs heavy rain; listening to a story and retelling it fluently — stocked here for its weather set too (placement 3.25; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.20 |
+| Grade 4, Unit 23 — The storm, printed p.95: Reading: "The storm"; thoughts and feelings about the storm — stocked here for its topic set too (placement 4.91; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.95 |
+| Grade 4, Unit 29 — The robbers, printed p.123: Composition: The rainy season | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.123 |
+| Grade 5, Unit 11 — Seasons of the year, printed p.33: Reading — stocked here for its topic set too (placement 5.52; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.33 |
+| Grade 5, Unit 11 — Seasons of the year, printed p.34: Talking about weather | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.34 |
+| Grade 5, Unit 22 — Our natural resources, printed p.66: Weather and seasons (skills set) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.66 |
+| Grade 7, Unit 16 — There is a time for everything, printed p.68: Reading: days of the week, months and seasons; activities in different seasons — stocked here for its topic sets too (placement 7.91; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.68 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

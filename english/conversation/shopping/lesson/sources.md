@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** English, Grade 5 (Student's Book) — Cambodia,
@@ -517,3 +517,20 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 3, Unit 18 — At the market place, printed p.61: Reading: dramatising what happens at the marketplace — stocked here for its topic set too (placement 3.85; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.61 |
+| Grade 4, Unit 21 — Children living in the streets, printed p.86: Composition: The day I went shopping | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.86 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

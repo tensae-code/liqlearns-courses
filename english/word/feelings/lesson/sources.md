@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Ethiopia, Barbados, Saudi Arabia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Ethiopia, Barbados, Saudi Arabia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -748,3 +748,25 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD B, Topic 2 — Speaking/Signing, printed p.27: Feelings — happy/smiling: things that make you happy | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.27 |
+| ECD B, Topic 2 — Speaking/Signing, printed p.28: Feelings — crying/sad, and Yes/No questions (with the Nhodo game) | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.28 |
+| Grade 3, Unit 6 — Heavy rains, printed p.23: Facial expressions (reading feelings from faces) | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.23 |
+| Grade 3, Unit 16 — Timothy the orphaned boy, printed p.57: Talking about abuse; mood, attitude and emotion | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.57 |
+| Grade 5, Unit 3 — Be responsible, printed p.11: Forms of abuse (thematic discussion) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.11 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

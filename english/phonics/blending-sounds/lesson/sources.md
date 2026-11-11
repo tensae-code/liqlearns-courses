@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -677,3 +677,39 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages.
+
+**Book 2:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 6:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 2 — Speaking/Signing, printed p.20: Matching letter sounds: pictures with the same first-letter sound | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.20 |
+| ECD A, Topic 3 — Reading/Signing, printed p.46: Phonics: identifying pictures and saying first-letter sounds | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.46 |
+| ECD B, Topic 1 — Listening/Observing, printed p.4: Phonic sounds of objects and people in pictures: identifying objects and imitating their sounds | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.4 |
+| ECD B, Topic 1 — Listening/Observing, printed pp.7–9: Phonics with animals: saying animal names and matching phonic sounds to animals; saying phonic sounds of pictures | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.7–9 |
+| Grade 4, Unit 1 — Last minute luck, printed p.4: Listening/speaking: short vowel sounds | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.4 |
+| Grade 4, Unit 4 — The locusts, printed p.18: Phonic sounds (listening/speaking) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.18 |
+| Grade 4, Unit 5 — My friend Fluffy, printed p.22: Phonic sounds | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.22 |
+| Grade 4, Unit 11 — A journey by bus, printed p.46: Long vowel sounds | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.46 |
+| Grade 4, Unit 12 — Ryan and his boat, printed p.51: Long vowel sounds | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.51 |
+| Grade 4, Unit 14 — Zimbabwe's heritage, printed p.59: Phonic sounds: short vowels | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.59 |
+| Grade 5, Unit 13 — When nature speaks, printed p.40: Short and long vowels; doubling the consonant (spelling) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.40 |
+| Grade 6, Unit 2 — The baobab tree, printed p.10: Phonic sounds | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.10 |
+| Grade 7, Unit 2 — Setting goals, printed p.10: Phonics (unit strand) | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.10 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

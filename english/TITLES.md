@@ -345,6 +345,9 @@ its own subtitle folder with its own lesson + questions):
   Reading Whole Texts**) ·
   writing-a-menu (added 2026-11-11 by the Haiti
   expansion merge — **Unit 15, Reading Whole Texts**) ·
+  reading-graphs-and-charts (added 2026-11-11 by the
+  Zimbabwe expansion merge — **Unit 15, Reading Whole
+  Texts**) ·
   texting-and-messaging (added 2026-11-11 by the
   Kazakhstan re-verification sweep merge — **Unit 44,
   Tests, Translating, Other Ways**) · finding-information (added 2026-11-10 by the

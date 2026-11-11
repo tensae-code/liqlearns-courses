@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Barbados, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Barbados, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10 (student's book) — Cambodia,
@@ -923,3 +923,43 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 6:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 2 — Speaking/Signing, printed p.36: Objects in the environment: identifying and describing objects; the odd one out | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.36 |
+| Grade 3, Unit 3 — A good neighbour, printed p.10: Composition: My neighbour | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.10 |
+| Grade 3, Unit 6 — Heavy rains, printed p.21: Describing a group of items | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.21 |
+| Grade 4, Unit 11 — A journey by bus, printed p.46: Describing places and scenes | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.46 |
+| Grade 4, Unit 12 — Ryan and his boat, printed p.50: Composition: My best friend | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.50 |
+| Grade 4, Unit 24 — Michael at the clinic, printed p.99: Composition: My teacher | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.99 |
+| Grade 4, Unit 26 — The lost wallet, printed p.109: Describing people | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.109 |
+| Grade 5, Unit 27 — My Zimbabwe, printed p.80: Composition: My grandmother — stocked here for its writing part too (placement 5.132; its main home is family-words) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.80 |
+| Grade 5, Unit 28 — Our heroes, printed p.83: Composition: A hero | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.83 |
+| Grade 6, Unit 3 — The adventure of Tom Sawyer, printed p.14: Descriptive composition | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.14 |
+| Grade 6, Unit 6 — The escape, printed p.26: Descriptive composition | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.26 |
+| Grade 6, Unit 23 — Good health, God's gift, printed p.104: Descriptive composition | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.104 |
+| Grade 6, Unit 27 — The Great Zimbabwe, printed p.121: Descriptive composition | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.121 |
+| Grade 7, Unit 6 — The wise grandparents, printed p.29: Composition: The most interesting person in my community | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.29 |
+| Grade 7, Unit 7 — The unwelcome visitor, printed p.32: Composition: a descriptive composition | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.32 |
+| Grade 7, Unit 13 — The famous storyteller, printed p.58: Descriptive composition | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.58 |
+| Grade 7, Unit 19 — Musical instruments, our cultural heritage, printed p.85: Descriptive composition | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.85 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

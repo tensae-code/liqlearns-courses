@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -983,3 +983,34 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages. Book error, taught corrected: the letter-sounds guidance at printed p.17 is garbled about the "g" of *giraffe*; taught corrected — giraffe begins with the /dʒ/ sound.
+
+**Book 2:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 2 — Speaking/Signing, printed p.17: Letter sounds A–H with picture words (apple, ball, cat, dog, elephant, flower, giraffe, hat) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.17 |
+| ECD A, Topic 2 — Speaking/Signing, printed p.18: Letter sounds I–Q with picture words (ink, jacket, key, lion, mango, nest, orange, pan) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.18 |
+| ECD A, Topic 2 — Speaking/Signing, printed pp.19–20: Letter sounds R–Z with picture words (quail, rake, tree, umbrella, van, zebra, box, egg yolk) and sorting pictures by first sound | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.19–20 |
+| ECD A, Topic 3 — Reading/Signing, printed pp.38–40: Reading letter sounds a–h, then i–q, from phonic cards | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.38–40 |
+| ECD A, Topic 3 — Reading/Signing, printed pp.41–43: Reading the letters: saying first-letter sounds and matching sounds to letters (workbook pp.52–55 sequence) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.41–43 |
+| ECD A, Topic 3 — Reading/Signing, printed p.44: Letter sounds for all letters; matching uppercase and lowercase letters, saying each sound | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.44 |
+| ECD A, Topic 4 — Writing, printed pp.52–56: Writing small (lowercase) letters: joining dots and writing each letter (letter groups across workbook pp.66–71) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.52–56 |
+| ECD A, Topic 4 — Writing, printed p.57: Writing capital letters: joining dots for uppercase letters; writing letters in the air | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.57 |
+| ECD B, Topic 3 — Reading/Signing, printed p.33: Reading letter sounds A–Z aloud | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.33 |
+| ECD B, Topic 3 — Reading/Signing, printed pp.34–36: Reading the letters: saying the letter name, tracing the letter, sounding letters, writing the missing letter | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.34–36 |
+| ECD B, Topic 3 — Reading/Signing, printed pp.36–40: Matching lowercase and uppercase letters; sorting small and capital letters; circling the same letters | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.36–40 |
+| ECD B, Topic 3 — Reading/Signing, printed pp.41–42: Capital letters: reading/sounding uppercase letters; matching small letters with capitals | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.41–42 |
+| ECD B, Topic 4 — Writing/Brailing, printed pp.49–50: Writing letters and words; tracing letters joining the dots while sounding them | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.49–50 |
+| Grade 4, Unit 7 — Zimbabwe's wild animals, printed p.32: Know your alphabet | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.32 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

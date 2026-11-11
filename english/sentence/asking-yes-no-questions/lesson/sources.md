@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe
 
 Every part traces to its book and page.
 
@@ -665,3 +665,24 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages.
+
+**Book 2:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 1 — Listening/Observing, printed p.8: Yes/No responses to questions | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.8 |
+| ECD B, Topic 1 — Listening/Observing, printed p.6: Yes/No responses: answering the facilitator's questions and questioning each other | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.6 |
+| ECD B, Topic 2 — Speaking/Signing, printed p.28: Feelings — crying/sad, and Yes/No questions (with the Nhodo game) — stocked here for its questions part too (placement B27; its main home is feelings) | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.28 |
+| Grade 3, Unit 4 — Pet lovers, printed p.15: Yes/No questions | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.15 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

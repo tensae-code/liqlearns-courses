@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea, Tunisia, Uganda
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea, Tunisia, Uganda, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -208,3 +208,18 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 7, Unit 12 — Kache, Musa and the donkey, printed p.53: Using "too", "too … to" and "too much" | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.53 |
+| Grade 7, Unit 24 — Environmental degradation, printed p.111: Using "so, very, much and too" | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.111 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Zimbabwe
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -649,3 +649,17 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 2 — Speaking/Signing, printed p.13: Myself: stating your name and age; the "Myself" rhyme — stocked here for its age part too (placement A16; its main home is hello-and-your-name) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.13 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

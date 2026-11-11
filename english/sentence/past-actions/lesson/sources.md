@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Suriname, Haiti, Nigeria
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe
 
 Every part traces to its book and page.
 
@@ -1140,3 +1140,44 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 3, Unit 6 — Heavy rains, printed p.22: Past tense | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.22 |
+| Grade 3, Unit 23 — A sudden change of life events, printed p.77: Tenses: present to past tense | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.77 |
+| Grade 3, Unit 24 — Traffic jam in the city, printed p.80: Tenses: sentences in the past tense | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.80 |
+| Grade 3, Unit 27 — Trouble at the assembly point, printed p.90: Using the past tense | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.90 |
+| Grade 3, Unit 28 — The day I will never forget, printed p.94: Tenses | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.94 |
+| Grade 4, Unit 6 — Ruth goes on holiday, printed p.26: Simple past tense | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.26 |
+| Grade 4, Unit 22 — Gender roles, printed p.91: Verbs: past and past participle | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.91 |
+| Grade 4, Unit 23 — The storm, printed p.96: Simple past tense | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.96 |
+| Grade 5, Unit 4 — Difficult moments, printed p.13: Verbs (past tense) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.13 |
+| Grade 5, Unit 4 — Difficult moments, printed p.13: Irregular verbs | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.13 |
+| Grade 5, Unit 8 — The growth of music, printed p.25: Past tense | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.25 |
+| Grade 5, Unit 11 — Seasons of the year, printed p.34: Past tense | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.34 |
+| Grade 6, Unit 6 — The escape, printed p.27: Simple past tense | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.27 |
+| Grade 6, Unit 6 — The escape, printed p.27: Irregular verbs | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.27 |
+| Grade 6, Unit 16 — The veld fires, printed p.71: Past participle | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.71 |
+| Grade 7, Unit 4 — Folk story, printed p.19: The past tense | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.19 |
+| Grade 7, Unit 5 — The downpour, printed pp.24–25: Verbs: the past tense; irregular verbs | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed pp.24–25 |
+| Grade 7, Unit 5 — The downpour, printed p.25: Using "was" or "were" | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.25 |
+| Grade 7, Unit 8 — Our beautiful country Zimbabwe, printed p.39: Verbs: the past participle | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.39 |
+| Grade 7, Unit 11 — Finding directions, printed p.48: Irregular verbs | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.48 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

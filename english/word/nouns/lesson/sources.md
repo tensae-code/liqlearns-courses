@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe
 
 Every part traces to its book and page.
 
@@ -982,3 +982,54 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages. Book error, taught corrected: the guide's own answer sentences at printed p.3 model "stationary" (not moving) for *stationery* (writing materials); the rows teach the word corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 3, Unit 2 — Bonny's family, printed p.6: Nouns | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.6 |
+| Grade 3, Unit 2 — Bonny's family, printed p.6: Collective nouns | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.6 |
+| Grade 3, Unit 4 — Pet lovers, printed p.14: Plurals | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.14 |
+| Grade 3, Unit 8 — Visiting a sick friend, printed p.29: Collective nouns (revision in a new text) | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.29 |
+| Grade 3, Unit 12 — A miracle wedding, printed p.43: Plurals | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.43 |
+| Grade 3, Unit 13 — Betty in town, printed p.46: Collective nouns | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.46 |
+| Grade 3, Unit 14 — Death in the community, Part 1, printed p.51: Plurals | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.51 |
+| Grade 3, Unit 21 — Our beloved country, Part 1, printed p.71: Plurals | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.71 |
+| Grade 3, Unit 25 — The amazing Mosi-oa-Tunya, printed p.83: Plurals | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.83 |
+| Grade 3, Unit 26 — Mr Charli's illness, printed p.87: Nouns | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.87 |
+| Grade 4, Unit 1 — Last minute luck, printed p.3: Nouns (naming words) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.3 |
+| Grade 4, Unit 4 — The locusts, printed p.17: Collective nouns | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.17 |
+| Grade 4, Unit 9 — Herding cattle, printed pp.39–40: Nouns and their plural forms | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed pp.39–40 |
+| Grade 4, Unit 22 — Gender roles, printed p.93: Singular nouns | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.93 |
+| Grade 5, Unit 1 — Work places, printed p.2: Nouns | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.2 |
+| Grade 5, Unit 2 — The dog and the bone, printed p.6: Plurals | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.6 |
+| Grade 5, Unit 3 — Be responsible, printed p.9: Nouns and pronouns — stocked here for its nouns part too (placement 5.12; its main home is pronouns) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.9 |
+| Grade 5, Unit 5 — My culture, my heritage, printed p.16: Collective nouns | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.16 |
+| Grade 5, Unit 8 — The growth of music, printed p.25: Proper nouns | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.25 |
+| Grade 5, Unit 22 — Our natural resources, printed p.65: Noun form | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.65 |
+| Grade 6, Unit 1 — Holidays, printed p.3: Nouns | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.3 |
+| Grade 7, Unit 1 — Time flies, printed p.2: Collective nouns in summary writing | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.2 |
+| Grade 7, Unit 1 — Time flies, printed p.3: Common nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.3 |
+| Grade 7, Unit 1 — Time flies, printed pp.3–4: Singular and plural nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed pp.3–4 |
+| Grade 7, Unit 2 — Setting goals, printed p.8: Collective nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.8 |
+| Grade 7, Unit 2 — Setting goals, printed p.9: Abstract nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.9 |
+| Grade 7, Unit 3 — Growing up, printed p.14: Proper nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.14 |
+| Grade 7, Unit 11 — Finding directions, printed p.47: Singular and plural nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.47 |
+| Grade 7, Unit 16 — There is a time for everything, printed p.71: Collective nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.71 |
+| Grade 7, Unit 20 — The Heroes Acre, printed p.91: Collective nouns | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.91 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

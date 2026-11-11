@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Haiti, Nigeria, Papua New Guinea
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Saudi Arabia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus, Class 1 —
@@ -863,3 +863,42 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 4, Unit 18 — Hobbies, printed p.78: Forming words | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.78 |
+| Grade 4, Unit 21 — Children living in the streets, printed p.87: Contractions | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.87 |
+| Grade 4, Unit 21 — Children living in the streets, printed p.88: Abbreviations | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.88 |
+| Grade 4, Unit 28 — Why bats fly at night, printed p.119: Contractions — shortening words | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.119 |
+| Grade 5, Unit 6 — Changing patterns, printed p.20: Abbreviations | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.20 |
+| Grade 5, Unit 16 — Stop violence, printed p.49: Noun formation | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.49 |
+| Grade 5, Unit 19 — Wedding day, printed p.58: Noun formation | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.58 |
+| Grade 5, Unit 21 — The leopard, printed p.62: Contractions | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.62 |
+| Grade 5, Unit 25 — Health, printed p.75: Contractions | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.75 |
+| Grade 5, Unit 28 — Our heroes, printed p.83: Noun formation using -ion | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.83 |
+| Grade 6, Unit 8 — The gardening club (1), printed p.37: Abbreviations | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.37 |
+| Grade 6, Unit 14 — The world of cats, printed p.59: Contractions | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.59 |
+| Grade 6, Unit 23 — Good health, God's gift, printed p.104: One word for many | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.104 |
+| Grade 6, Unit 26 — Life in the streets, printed p.117: Prefixes and suffixes | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.117 |
+| Grade 6, Unit 28 — The big day, printed p.126: Forming nouns | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.126 |
+| Grade 7, Unit 4 — Folk story, printed p.20: Contractions | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.20 |
+| Grade 7, Unit 6 — The wise grandparents, printed p.29: Prefixes dis-, mis- and un- | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.29 |
+| Grade 7, Unit 17 — Clean the environment, printed p.78: Abbreviations | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.78 |
+| Grade 7, Unit 20 — The Heroes Acre, printed p.89: Making words using suffixes | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.89 |
+| Grade 7, Unit 24 — Environmental degradation, printed pp.111–112: Prefixes and suffixes; opposites formed with them | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed pp.111–112 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

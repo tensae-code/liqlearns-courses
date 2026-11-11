@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Tanzania, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 4 (student's book) — Cambodia,
@@ -926,3 +926,41 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD B, Topic 2 — Speaking/Signing, printed p.20: Different occupations: saying/signing occupations; naming the actions shown and the occupations they belong to | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.20 |
+| Grade 3, Unit 6 — Heavy rains, printed p.21: Composition: When I grow up | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.21 |
+| Grade 3, Unit 18 — At the market place, printed p.63: Occupations | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.63 |
+| Grade 3, Unit 26 — Mr Charli's illness, printed p.87: Jobs that we do: Occupations | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.87 |
+| Grade 3, Unit 29 — An invitation to the feast, printed p.98: Completing sentences: People and what they do | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.98 |
+| Grade 4, Unit 17 — Kubi, the nurse, printed p.71: Reading: "Kubi the nurse"; occupations media — stocked here for its topic set too (placement 4.70; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.71 |
+| Grade 4, Unit 17 — Kubi, the nurse, printed p.72: Composition: What I would like to be when I grow up | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.72 |
+| Grade 4, Unit 17 — Kubi, the nurse, printed p.72: Occupations | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.72 |
+| Grade 5, Unit 1 — Work places, printed p.1: Reading: work places — stocked here for its topic set too (placement 5.1; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.1 |
+| Grade 5, Unit 1 — Work places, printed pp.2–3: Occupations and job titles | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed pp.2–3 |
+| Grade 5, Unit 9 — Happy moments, printed p.29: Composition: the job I like to do | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.29 |
+| Grade 5, Unit 17 — Taming the wild, printed p.53: Occupations and careers | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.53 |
+| Grade 6, Unit 4 — Munyoro, the nurse (1), printed p.17: Reading: Munyoro the nurse — stocked here for its topic set too (placement 6.15; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.17 |
+| Grade 6, Unit 19 — Munyoro, the nurse (2), printed p.87: Reading (continued) — stocked here for its topic set too (placement 6.77; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.87 |
+| Grade 6, Unit 21 — The pilot, printed p.93: Reading: the pilot — stocked here for its topic set too (placement 6.82; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.93 |
+| Grade 6, Unit 21 — The pilot, printed p.94: Composition: My ambition | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.94 |
+| Grade 6, Unit 21 — The pilot, printed p.94: Occupations | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.94 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

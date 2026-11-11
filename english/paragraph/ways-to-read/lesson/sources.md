@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe
 
 Every part traces to its book and page.
 
@@ -571,3 +571,36 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages. Book wording, stated as the activities teach it: Topic 1 heads the page-turning work "Turning pages from right to left", compressing two directions; the activities themselves teach opening the book from the left and turning the pages from right to left, and the rows state it that way.
+
+**Book 2:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 1 — Listening/Observing, printed p.11: Book handling: holding a book the right way up, opening and closing books | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.11 |
+| ECD A, Topic 1 — Listening/Observing, printed p.12: Left and right; turning pages from right to left when reading | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.12 |
+| ECD A, Topic 3 — Reading/Signing, printed p.37: Reading orientation left to right (with shapes and colours revision) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.37 |
+| ECD A, Topic 3 — Reading/Signing, printed p.38: Reading orientation top to bottom: top and bottom of the page | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.38 |
+| ECD B, Topic 1 — Listening/Observing, printed p.7: Top-to-bottom orientation: tracing rain drops and lines from top to bottom | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.7 |
+| ECD B, Topic 3 — Reading/Signing, printed p.30: Reading from top to bottom: telling a story from the workbook top to bottom; arranging picture-story cards in order | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.30 |
+| ECD B, Topic 3 — Reading/Signing, printed p.32: Picture-story sequence and sitting well to read: ordering pictures with arrows; identifying books and demonstrating sitting well and reading | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.32 |
+| Grade 3, Unit 1 — Myself, printed p.2: Listening/speaking practice and true-or-false responses to a text | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.2 |
+| Grade 3, Unit 17 — A visit to the dentist, printed p.60: True-or-false responses; responses to utterances | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.60 |
+| Grade 4, Unit 14 — Zimbabwe's heritage, printed p.57: Reading for information: "Zimbabwe's heritage" and "The National Heroes Acre"; scanning a text for information — stocked here for its scanning too (placement 4.55; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.57 |
+| Grade 5, Unit 15 — Safety everywhere, printed p.47: Good listeners and speakers; responses | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.47 |
+| Grade 5, Unit 26 — Road safety, printed p.78: Reading for fluency | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.78 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

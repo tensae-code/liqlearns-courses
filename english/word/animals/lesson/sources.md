@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe
 
 Every part traces to its book and page.
 
@@ -945,3 +945,63 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English ECD A Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-149-7, 62 pp. Printed page = the guide's printed footer/contents page (Topic 1 starts at printed p.1); pages cited are printed pages.
+
+**Book 2:** *PlusOne English ECD B Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-148-0, 56 pp. Printed page = the guide's printed footer/contents page; pages cited are printed pages.
+
+**Book 3:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 6:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 7:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ECD A, Topic 1 — Listening/Observing, printed p.1: Sounds in the environment: naming domestic animals (cat, cow, dog, bird, chicken, goat, donkey, sheep) and imitating their sounds | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.1 |
+| ECD A, Topic 1 — Listening/Observing, printed p.2: Wild animals and their sounds (lion, monkey, elephant, snake, hippo, baboon) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.2 |
+| ECD A, Topic 1 — Listening/Observing, printed p.2: Wild birds and their sounds (owl) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.2 |
+| ECD A, Topic 2 — Speaking/Signing, printed p.24: Animals in the immediate environment (domestic animals, where they live, their sounds) | Zimbabwe — PlusOne English ECD A Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.24 |
+| ECD B, Topic 1 — Listening/Observing, printed pp.2–3: Animal sounds: naming animals and imitating the sounds of at least two (incl. the dog) | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed pp.2–3 |
+| ECD B, Topic 2 — Speaking/Signing, printed p.17: Domestic animals: naming/identifying them and imitating their sounds | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.17 |
+| ECD B, Topic 2 — Speaking/Signing, printed p.18: Wild animals: identifying them and imitating their sounds; telling wild from domestic | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.18 |
+| ECD B, Topic 2 — Speaking/Signing, printed p.19: Matching wild animals with their young ones | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.19 |
+| ECD B, Topic 2 — Speaking/Signing, printed p.20: Matching domestic animals with their young ones | Zimbabwe — PlusOne English ECD B Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.20 |
+| Grade 3, Unit 4 — Pet lovers, printed p.14: Composition: My pet | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.14 |
+| Grade 3, Unit 8 — Visiting a sick friend, printed p.30: Animal sounds | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.30 |
+| Grade 3, Unit 9 — A trip to the zoo, printed p.31: Reading: animals kept at the zoo, identified from pictures — stocked here for its topic set too (placement 3.41; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.31 |
+| Grade 3, Unit 9 — A trip to the zoo, printed p.33: Animal food and animal sounds | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.33 |
+| Grade 3, Unit 19 — A boy named Juma Salim, printed p.65: Composition: My favourite animal | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.65 |
+| Grade 3, Unit 19 — A boy named Juma Salim, printed p.65: Animals and the sounds they make | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.65 |
+| Grade 4, Unit 5 — My friend Fluffy, printed p.20: Composition: My pet | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.20 |
+| Grade 4, Unit 7 — Zimbabwe's wild animals, printed p.30: Reading: naming and defining Zimbabwe's wild animals; locating major game parks and reserves — stocked here for its topic set too (placement 4.27; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.30 |
+| Grade 4, Unit 7 — Zimbabwe's wild animals, printed p.31: Composition: My favourite animal; writing a story about a wild animal | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.31 |
+| Grade 4, Unit 15 — Mourning a living friend, printed p.64: Animals (skills set) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.64 |
+| Grade 4, Unit 16 — Waking up at a rescue zoo, printed p.67: Composition: A day at the zoo | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.67 |
+| Grade 4, Unit 16 — Waking up at a rescue zoo, printed p.67: Animal sounds | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.67 |
+| Grade 4, Unit 16 — Waking up at a rescue zoo, printed p.68: Animals and their young ones | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.68 |
+| Grade 4, Unit 25 — The ducklings, printed p.103: Composition: My favourite bird | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.103 |
+| Grade 5, Unit 17 — Taming the wild, printed p.51: Reading — stocked here for its topic set too (placement 5.79; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.51 |
+| Grade 5, Unit 21 — The leopard, printed p.61: Reading — stocked here for its topic set too (placement 5.96; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.61 |
+| Grade 5, Unit 25 — Health, printed p.74: Composition: The death of my beloved pet | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.74 |
+| Grade 6, Unit 9 — Animals do communicate, printed p.39: Reading: animal communication — stocked here for its topic set too (placement 6.38; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.39 |
+| Grade 6, Unit 14 — The world of cats, printed p.58: Reading: cats — stocked here for its topic set too (placement 6.56; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.58 |
+| Grade 6, Unit 14 — The world of cats, printed p.59: Composition: My pet | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.59 |
+| Grade 6, Unit 18 — Animal farm, printed p.80: Reading: farm animals — stocked here for its topic set too (placement 6.74; its main home is answering-from-the-text) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.80 |
+| Grade 6, Unit 18 — Animal farm, printed pp.82–85: Animal sounds | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed pp.82–85 |
+| Grade 6, Unit 25 — Photographs, printed p.112: Animal homes | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.112 |
+| Grade 6, Unit 25 — Photographs, printed p.113: Rare animals (skills set) | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.113 |
+| Grade 7, Unit 14 — The lovely Lake Kariba, printed p.62: Composition: An animal I like most | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.62 |
+| Grade 7, Unit 16 — There is a time for everything, printed p.71: Animal sounds and their homes | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.71 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.

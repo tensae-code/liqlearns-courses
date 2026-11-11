@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Fiji, Samoa, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Fiji, Samoa, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe
 
 Every part traces to its book and page.
 
@@ -734,3 +734,51 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Zimbabwe added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs — **7 teacher's guides, 0 student books**: the PlusOne English Teacher's Guides for ECD A and ECD B and Grades 3, 4, 5, 6 and 7 (Secondary Book Press, Harare, a MoPSE-approved publisher) — 755 teaching items placed. Every file was retrieved from the textbooks repo (three by the tree route, four as release assets) and verified against its staging record by exact byte size, page count and SHA-256. Every Zimbabwe item in this section is TEACHER EVIDENCE of what is taught: Zimbabwe has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: all seven guides read in full, page by page through their text layers (pdftotext, every page); the matching Learner's Books and Workbooks are not in hand and were not read — their content is evidenced only through the guides. The rows below are stocked from the expansion placements (zimbabwe-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *PlusOne English Grade 3 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2025), ISBN 978-1-77932-042-1, 115 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 2:** *PlusOne English Grade 4 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-041-4, 140 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages. Book error, taught corrected: this book's Unit 13 spelling list (printed p.53) prints "stationary" for *stationery*; taught corrected.
+
+**Book 3:** *PlusOne English Grade 5 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-040-7, 104 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 4:** *PlusOne English Grade 6 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-039-1, 150 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+**Book 5:** *PlusOne English Grade 7 Teacher's Guide* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Zimbabwe, Secondary Book Press, Harare (first published 2026), ISBN 978-1-77932-038-4, 145 pp. Printed page = the guide's printed footer page (printed p.1 = PDF p.16); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 3, Unit 2 — Bonny's family, printed p.7: Using "their" and "there" | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.7 |
+| Grade 3, Unit 5 — A great sportsperson, printed p.17: Using "there" and "their" | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.17 |
+| Grade 3, Unit 12 — A miracle wedding, printed p.42: Using "too" and "to" | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.42 |
+| Grade 3, Unit 13 — Betty in town, printed p.46: Opposites | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.46 |
+| Grade 3, Unit 15 — Death in the community, Part 2, printed p.53: Using "too" and "to" | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.53 |
+| Grade 3, Unit 17 — A visit to the dentist, printed p.59: Opposites | Zimbabwe — PlusOne English Grade 3 Teacher's Guide (Secondary Book Press, Harare, 2025) — teacher evidence, printed p.59 |
+| Grade 4, Unit 8 — Children's Rights, printed p.36: Homophones | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.36 |
+| Grade 4, Unit 9 — Herding cattle, printed p.41: Gender (masculine/feminine word forms) | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.41 |
+| Grade 4, Unit 13 — The birth of Oliver, printed p.53: Homophones | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.53 |
+| Grade 4, Unit 13 — The birth of Oliver, printed p.54: Using "hear" and "here" | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.54 |
+| Grade 4, Unit 13 — The birth of Oliver, printed p.54: Using "there" and "their" | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.54 |
+| Grade 4, Unit 14 — Zimbabwe's heritage, printed p.58: Opposites | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.58 |
+| Grade 4, Unit 25 — The ducklings, printed p.104: Homophones | Zimbabwe — PlusOne English Grade 4 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.104 |
+| Grade 5, Unit 3 — Be responsible, printed p.9: Homophones | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.9 |
+| Grade 5, Unit 3 — Be responsible, printed p.9: Opposites | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.9 |
+| Grade 5, Unit 13 — When nature speaks, printed p.40: Using opposites | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.40 |
+| Grade 5, Unit 24 — Showcasing our talents, printed p.71: Homophones | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.71 |
+| Grade 5, Unit 26 — Road safety, printed p.77: Homophones as confusing words | Zimbabwe — PlusOne English Grade 5 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.77 |
+| Grade 6, Unit 2 — The baobab tree, printed p.9: Antonyms / opposites | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.9 |
+| Grade 6, Unit 29 — Thieves at night, printed p.132: Analogies | Zimbabwe — PlusOne English Grade 6 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.132 |
+| Grade 7, Unit 1 — Time flies, printed p.5: Homophones (it's, meat, heel, pear, sew, steel, dear, flour, hair, two) | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.5 |
+| Grade 7, Unit 3 — Growing up, printed p.16: Homophones | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.16 |
+| Grade 7, Unit 6 — The wise grandparents, printed p.29: Antonyms / opposites | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.29 |
+| Grade 7, Unit 12 — Kache, Musa and the donkey, printed p.54: Synonyms | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.54 |
+| Grade 7, Unit 14 — The lovely Lake Kariba, printed p.64: Synonyms | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.64 |
+| Grade 7, Unit 22 — Shattered dreams, printed p.102: Confusing words | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.102 |
+| Grade 7, Unit 24 — Environmental degradation, printed p.113: Confusing words | Zimbabwe — PlusOne English Grade 7 Teacher's Guide (Secondary Book Press, Harare, 2026) — teacher evidence, printed p.113 |
+
+Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
