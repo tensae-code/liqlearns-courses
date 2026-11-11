@@ -542,6 +542,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Triangle, parallelogram and rhombus; drawing a triangle, a parallelogram and a rhombus | Yemen, Grade 5 Part 2, Unit 7, lessons 7-3–7-5, printed pp. 108–118; Unit 8, lessons 8-3–8-5, printed pp. 145–157 |
 | Trapezium, circle, cuboid and cube, right prism, cylinder, pyramid and cone | Yemen, Grade 6 Part 2, Unit 6, lessons 6-3–6-8, printed pp. 65–81 |
 | Polygons, cuboid, prism, cylinder, pyramid and cone | Yemen, Grade 7, Unit 6, lessons 6-1 and 6-3–6-7, printed pp. 226 and 236–249 |
+| Review: geometry | Yemen, Grade 6 Part 2, Unit 6, printed p. 55 |
+| Intersecting, perpendicular and parallel lines | Yemen, Grade 3 Part 1, Unit 4, printed p. 90 |
 | Three shapes only — triangle, quadrilateral, curved shape; grouping by shape/colour/size, composing and splitting shapes (no circle as a shape) | Indonesia, Grade 1 student book, shapes, printed pp. 115–144 |
 | Polygons vs non-polygons; triangle/quadrilateral/pentagon/hexagon/circle features, straight vs curved edges, decomposing and composing plane shapes; five solids — cuboid, cube, cylinder, cone, sphere (p. 92) | Indonesia, Grade 2 student book, shapes around us, printed pp. 65–100 |
 | Triangles by sides and by angles including combined types such as obtuse-isosceles; quadrilaterals — square, rectangle, rhombus, kite, parallelogram, trapezium (p. 162, exactly one pair of parallel sides), irregular; regular vs irregular polygons; composing and splitting shapes | Indonesia, Grade 4 student book, Bab 5, printed pp. 139–176 |

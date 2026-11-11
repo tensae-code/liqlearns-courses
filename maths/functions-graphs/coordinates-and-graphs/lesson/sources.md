@@ -47,7 +47,7 @@ textbook.
 **Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 15:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Matematika untuk SD/MI Kelas VI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).

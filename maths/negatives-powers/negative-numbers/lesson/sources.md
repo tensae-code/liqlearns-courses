@@ -168,6 +168,7 @@ Every part traces to its book and page.
 | Distance and absolute value: |a|, distance formula |a − b|, equations |x| = 5 and inequalities |x| < 2 drawn on the line | Laos, Grade 6 student book, L9, printed pp. 65–72 |
 | Integers: comparing, adding, subtracting, multiplying and dividing integers | Yemen, Grade 7, Unit 2, lessons 2-2–2-6, printed pp. 52–66 |
 | Rational numbers: the number line, decimal form, comparing and the four operations | Yemen, Grade 8 Part 1, Unit 2, lessons 2-1–2-8, printed pp. 35–64 |
+| Properties of operations on integers | Yemen, Grade 7, Unit 2, printed p. 71 |
 | Integers: number line, comparing/ordering, +/−/×/÷ with football-transfer and cooling-machine models, factors, prime factorisation, FPB/KPK | Indonesia, Grade 7 Merdeka student book, Ch. 1, printed pp. 1–34 |
 | Comparing integers, +/−/×/÷, order of operations | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
 | Powers with negative bases and the sign of the result; comparing two big powers | Indonesia, Grade 8 Merdeka student book, Bab 1, printed pp. 9–11 |

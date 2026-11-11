@@ -462,6 +462,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 266:** *Imibare — Igitabo cy'Umwarimu, Umwaka wa 2* (Kinyarwanda original of the Year 2 teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with unit lesson lists and answers to all pupil-book exercises and unit assessments. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 267:** *Primary Mathematics — Teacher's Guide 8* (teacher guide) — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: it mirrors Pupil's Book 8, with lesson plans and keys; its key to the pupil book's §2.6 Exercise 10 is wrong in 6 of 10 answers and is relied on nowhere (the pupil book alone is cited for that exercise, in speed-distance-and-time).
+**Book 268:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -509,6 +510,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Units of length, capacity (litre, millilitre) and weight (gram, kilogram); reading the clock; perimeter, area and volumes | Yemen, Grade 3 Part 2, Unit 8, lessons 8-1–8-7, printed pp. 60–72 |
 | Units of length; perimeter of shapes, rectangle and square; area and its units; the Hijri and Gregorian calendars | Yemen, Grade 4 Part 2, Unit 8, lessons 1:8–6:8, printed pp. 116–143 |
 | Perimeter and area of the trapezium; circumference and area of the circle; volume and capacity; speed and distance | Yemen, Grade 6 Part 2, Unit 7, lessons 7-2–7-3 and 7-7–7-9, printed pp. 92–98 and 122–134 |
+| Review: measurement | Yemen, Grade 6 Part 2, Unit 7, printed p. 86 |
+| Drawing a line segment of given length | Yemen, Grade 3 Part 1, Unit 4, printed p. 92 |
 | Non-standard length: comparing/ordering length and height, measuring with hand span, footstep, arm span, sticks, pencils, paper clips and 500-rupiah coins as units | Indonesia, Grade 1 student book, non-standard length, printed pp. 197–218 |
 | Weight compared and measured with non-standard units only — marbles, hanger balance, seesaw — and whole-hour time on digital and analogue clocks | Indonesia, Grade 2 student book, measurement, printed pp. 155–190 |
 | Measuring length and weight: metre, centimetre, ruler and tape measure, m–cm conversions, kilogram, gram and ons, choosing scales, kg–g–ons conversions | Indonesia, Grade 3 student book, Bab 3, printed pp. 103–142 |

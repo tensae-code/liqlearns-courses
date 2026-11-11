@@ -139,6 +139,7 @@ Every part traces to its book and page.
 **Book 94:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 95:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 96:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 97:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -164,6 +165,7 @@ Every part traces to its book and page.
 | Second-degree equations in one variable | Yemen, Grade 9 Part 1, Unit 3, lesson 3-3, printed p. 141 |
 | Solving a second-degree equation, sum and product of roots, forming the equation from its roots | Yemen, Grade 10 Part 2, Unit 6, lessons 6-1–6-3, printed pp. 7–13 |
 | Solving a second-degree equation over the complex numbers (quadratic formula, Δ = b² − 4ac) | Yemen, Grade 12 science, Unit 1, lesson 1-6, printed p. 40 |
+| Workbook practice: equations and inequalities (Unit 6) | Yemen, Grade 10 workbook, Unit 6, printed p. 27 (workbook evidence) |
 | Quadratic functions: characteristics, constructing quadratics, applied problems (no named equation-solving section in this edition) | Indonesia, Grade 10 Merdeka 2021 student book, Bab 6, printed pp. 145–170 |
 | Solving quadratic equations as its own section, then quadratic functions | Indonesia, Grade 10 Revisi 2023 student book, Bab 5, printed pp. 129–176 |
 | Teaching guidance and full answer keys for quadratic equations and quadratic functions (teacher evidence) | Indonesia, Grade 10 Revisi teacher guide, Bab 5, printed pp. 149–198 (teacher evidence) |

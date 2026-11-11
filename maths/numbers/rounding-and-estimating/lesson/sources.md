@@ -17,7 +17,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 14:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 15:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -255,6 +255,7 @@ Every part traces to its book and page.
 | Rounding numbers within 10,000 to the nearest ten, hundred and thousand | Yemen, Grade 3 Part 1, Unit 1, lesson 1-6, printed p. 20 |
 | Rounding (تدوير) within 999,999 and estimating all four operations by rounding | Yemen, Grade 4 Part 1, Unit 1, lesson 5:1, printed p. 28; Unit 2, lessons 3:2 and 7:2, printed pp. 44 and 55; Unit 3, lesson 8:3, printed p. 92; Unit 4, lesson 8:4, printed p. 129 |
 | Rounding within hundreds of millions and estimating addition, subtraction, multiplication and division | Yemen, Grade 5 Part 1, Unit 1, lesson 1-5, printed p. 27; Unit 2, lesson 2-6, printed p. 49; Unit 3, lessons 3-4 and 3-9, printed pp. 69 and 86; Grade 6 Part 1, Unit 1, lesson 1-5, printed p. 24 |
+| Estimating operation results by rounding | Yemen, Grade 6 Part 1, Unit 1, printed p. 24 |
 | Estimating (numbers 11–20) | Indonesia, Grade 1 student book, printed pp. 145–174 |
 | Estimating, tens | Indonesia, Grade 2 student book, printed pp. 191–224 |
 | Estimating to place values, estimating rational-number operations | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |

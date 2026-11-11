@@ -98,6 +98,7 @@ On Nepal in this lesson: Nepal's Grade 1 book teaches ordinal numbers in Lesson 
 | Left and right; in, out, up (on top), down, front, back — shown with a dog kennel | Pakistan (Punjab), Primer (PCTB), printed pp. 134–135 |
 | Inside/outside; above/below; over/under; far/near; before/after, each pair its own lessons | Pakistan (Punjab), Grade 1 (PCTB), Unit 6 — Geometry, printed pp. 116–126 |
 | Relative positions: above/below; inside/outside | Yemen, Grade 1 Part 1, lesson 1-4, printed p. 18 (above/below) and printed p. 20 (inside/outside) |
+| Ordinal numbers | Yemen, Grade 1 Part 1, Unit 2, printed p. 56 |
 | Position: right/left, front/back, above/below | Indonesia, Grade 2 student book, Ch. 4 — position and patterns, printed pp. 101–124 |
 | Teaching guidance and answer keys for position words — right/left/front/back/above/below (teacher evidence) | Indonesia, Grade 2 teacher guide, printed pp. 1–184 (teacher evidence) |
 | The eight compass directions; north-up maps; route descriptions on a zoo map; a compass-history reading box | China, Grade 3 Volume 2, Unit 1 — Position and direction (I), printed p. 2 |

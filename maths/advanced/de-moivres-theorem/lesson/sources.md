@@ -1,6 +1,6 @@
 # Sources — De Moivre's Theorem
 
-countries: South Sudan, Laos, Kuwait, Syria, Rwanda, Sudan, Venezuela, North Macedonia
+countries: South Sudan, Laos, Kuwait, Syria, Rwanda, Sudan, Venezuela, North Macedonia, Yemen
 
 Every part traces to its book and page.
 
@@ -16,6 +16,7 @@ Every part traces to its book and page.
 
 **Book 7:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 9:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,7 +41,9 @@ Every part traces to its book and page.
 | Multiplying and dividing complex numbers in trigonometric form | North Macedonia, Grade 12, Algebra, §6.3, printed p. 164 |
 | Powering and rooting complex numbers; De Moivre's formula — worked: (1+i)¹² = −64; cos 3φ and sin 3φ derived from (cos φ + i sin φ)³ | North Macedonia, Grade 12, Algebra, §6.4, printed p. 165 |
 | Application of complex numbers in trigonometric form; primitive roots of the number 1 (index entry, p. 168) | North Macedonia, Grade 12, Algebra, §6.6, printed p. 171 |
-**Acceptance count: taught in 8 countries (South Sudan, Laos, Kuwait, Syria, Rwanda, Sudan, Venezuela, North Macedonia).** South Sudan carries the whole lesson in Additional Mathematics Book 4, Unit 6: the Argand diagram, polar form, De Moivre's theorem with the multiple-angle identities, and roots — with the cube roots of 8 taught corrected (the book prints them wrong on p.194; the correct roots are 2, −1 + i√3, −1 − i√3), the cos 3θ result cited without its faulty printed working, and the sin 3θ identity taught corrected against its guide's misprint. Laos carries the trigonometric form, De Moivre's formula and nth roots in Grade 12, Lesson 13. Kuwait carries the trigonometric form and division in trig form in Grade 11 Term 2, Lesson 7-2 — and stops there: NO De Moivre and NO nth roots for Kuwait, stated plainly wherever Kuwait is cited in this lesson. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| The polar form of a complex number | Yemen, Grade 12 science, Unit 1, printed p. 23 |
+| Powers and roots of complex numbers | Yemen, Grade 12 science, Unit 1, printed p. 33 |
+**Acceptance count: taught in 9 countries (South Sudan, Laos, Kuwait, Syria, Rwanda, Sudan, Venezuela, North Macedonia, Yemen).** South Sudan carries the whole lesson in Additional Mathematics Book 4, Unit 6: the Argand diagram, polar form, De Moivre's theorem with the multiple-angle identities, and roots — with the cube roots of 8 taught corrected (the book prints them wrong on p.194; the correct roots are 2, −1 + i√3, −1 − i√3), the cos 3θ result cited without its faulty printed working, and the sin 3θ identity taught corrected against its guide's misprint. Laos carries the trigonometric form, De Moivre's formula and nth roots in Grade 12, Lesson 13. Kuwait carries the trigonometric form and division in trig form in Grade 11 Term 2, Lesson 7-2 — and stops there: NO De Moivre and NO nth roots for Kuwait, stated plainly wherever Kuwait is cited in this lesson. North Macedonia enters from its main set — the Grade 12 Algebra elective. Yemen enters with the polar form of a complex number and powers and roots of complex numbers in Grade 12 science, Unit 1 (the same lessons are also stocked in complex numbers).
 
 Rwanda teaches De Moivre's theorem in Advanced Mathematics Senior Six Unit 1 — for integer and fractional powers, with nth roots, roots of unity, regular-polygon constructions and the multiple-angle formulae.
 

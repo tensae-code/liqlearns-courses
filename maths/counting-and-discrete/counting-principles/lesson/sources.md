@@ -10,7 +10,7 @@ Every part traces to its book and page.
 **Book 4:** *Mathematics, Grade 11, Term 2 student book* — Kuwait, Ministry of Education. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics, Grade 11 Statistics, Term 2 student book* — Kuwait, Ministry of Education. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 7:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) (Kết nối tri thức với cuộc sống) — Vietnam, NXB Giáo dục Việt Nam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Matematika untuk SMA/MA Kelas XII, Edisi Revisi* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 3, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Only the second volume is held for every primary grade.
@@ -114,6 +114,8 @@ Every part traces to its book and page.
 **Book 86:** *Foundations of Statistics (أساسيات الإحصاء), Grade 12* (student book; third year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 87:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 88:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 89:** *Mathematics, Grade 12 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 12 science student book's units (in its own order — conics third, probability fifth), and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 90:** *Mathematics, Grade 12 workbook (كتاب التمارين), literary track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 12 literary student book's Units 1–3, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -128,6 +130,8 @@ Every part traces to its book and page.
 | The counting principle (fundamental), permutations and combinations | Kuwait, Grade 11 Term 2, 11-1, printed pp. 152–161; Grade 11 Statistics Term 2, 5-1, printed pp. 52–59 |
 | The full counting unit, science track | Yemen, Grade 12 Science, Unit 2, printed pp. 45–55 |
 | The opening small counts: 3 × 2 = 6; P(4,4) = 24; C(4,2) = 6 | Yemen, Grade 12 Literary, Unit 1, printed pp. 6–16 |
+| Workbook practice: counting and the binomial theorem (Unit 2) | Yemen, Grade 12 science workbook, Unit 2, printed p. 18 (workbook evidence) |
+| Workbook practice: counting principle (Unit 1) | Yemen, Grade 12 literary workbook, Unit 1, printed p. 7 (workbook evidence) |
 | The multiply-for-steps and add-for-cases rules in the counting chapter | Vietnam, Grade 10 Volume 2, Ch.VIII, printed pp. 61, 66 |
 | The full counting chapter, both editions | Indonesia, Grade 12, Bab 3, printed pp. 89–148; Grade 12 Revisi, Bab 3, printed pp. 81–122 |
 | Teaching guidance and full worked answer keys for counting rules — the filling-slots rule, permutations and combinations (teacher evidence) | Indonesia, Grade 12 Revisi teacher guide, Bab 3, printed pp. 167–220 (teacher evidence) |

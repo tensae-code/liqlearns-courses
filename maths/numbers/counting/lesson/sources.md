@@ -18,7 +18,7 @@ Every part traces to its book and page.
 **Book 12:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 15:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 16:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -329,6 +329,7 @@ Every part traces to its book and page.
 | Numbers within 1000, counting in hundreds, the number 1000 | Yemen, Grade 2 Part 2, Unit 6, lessons 1st–2nd, printed pp. 8–10 |
 | Numbers within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 10–12 |
 | Numbers within 999,999, then within hundreds of millions and to billions | Yemen, Grade 4 Part 1, Unit 1, lessons 1:1–3:1, printed pp. 8–19; Grade 5 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 12–17; Grade 6 Part 1, Unit 1, lesson 1-2, printed p. 12 |
+| Ordinal numbers | Yemen, Grade 1 Part 1, Unit 2, printed p. 56 |
 | Counting to 10, then to 20 | Indonesia, Grade 1 student book, counting to 10, printed pp. 1–40; counting to 20, printed pp. 145–174 |
 | Counting to 50, then to 100 | Indonesia, Grade 2 student book, counting to 50, printed pp. 1–36; counting to 100, printed pp. 191–224 |
 | Whole numbers to 1,000 | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |

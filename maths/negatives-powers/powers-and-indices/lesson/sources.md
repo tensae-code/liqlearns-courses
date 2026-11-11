@@ -25,7 +25,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 14:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Mathematics, Grade 7 student book, Semester 1, Kurikulum 2013) — Indonesia, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, Kementerian Pendidikan dan Kebudayaan, Edisi Revisi 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
@@ -222,6 +222,7 @@ Every part traces to its book and page.
 **Book 152:** *Mathematics, Grade 6, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-067-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 153:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 154:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS (partial held copy: printed pp. 1–17, all of Unit 1 Geometry, missing). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 155:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -245,6 +246,7 @@ Every part traces to its book and page.
 | Powers (base, exponent, power named) and roots, including √(5⁶) = 5³ and ∛(7⁶) = 7² | Yemen, Grade 6 Part 1, Unit 1, lessons 1-7–1-8, printed pp. 32–36 |
 | Powers of integers | Yemen, Grade 7, Unit 2, lesson 2-8, printed p. 78 |
 | Powers, roots and rational exponents; solving power and root equations | Yemen, Grade 10 Part 1, Unit 3, lessons 3-1–3-6, printed pp. 48–73 |
+| Workbook practice: powers and roots (Unit 3) | Yemen, Grade 10 workbook, Unit 3, printed p. 13 (workbook evidence) |
 | Positive-integer powers only — no negative or zero exponents and no exponent laws beyond positive-integer powers | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
 | Powers as repeated multiplication; the multiplication, division and power-of-a-power laws; zero exponent a⁰ = 1 and negative exponents a⁻ⁿ = 1/aⁿ — now from the student book itself (the Grade 8 Merdeka guide previously cited here is this book's matched companion) | Indonesia, Grade 8 Merdeka student book, Bab 1, printed pp. 5–25 |
 | Finding an unknown exponent from a value; exponential growth in context (the WA chain-message enrichment — 5 pupils each forwarding to 5 more) | Indonesia, Grade 8 Merdeka student book, Bab 1, printed pp. 10, 43 |

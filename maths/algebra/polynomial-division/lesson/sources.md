@@ -54,6 +54,7 @@ Every part traces to its book and page.
 **Book 40:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: polynomial work in Nepal sits in the Optional books — Grade 9 §1.2 (concept and roots; division of polynomials) and Grade 10 Lesson 2 (remainder theorem, factor theorem, rational root theorem).
 
@@ -63,6 +64,7 @@ On Nepal in this lesson: polynomial work in Nepal sits in the Optional books —
 | Division algorithm, long division, Horner's method; remainder theorem; factor theorem; rational-zero theorem | Indonesia, Grade 11 TL Revisi (2024), Bab 2, printed pp. 70–88 |
 | Long and synthetic division; remainder and factor theorems with applications; a quartic factorised completely by synthetic division | Pakistan, Class 11 Mathematics, Unit 9 — Division of Polynomials, printed pp. 169–176 |
 | Remainder and factor theorems used; the worked (x² − 5x + 9) ÷ (x − 3): quotient x − 2, remainder 3, and p(3) = 3; zeros of a polynomial | Yemen, Grade 10 Part 1, Unit 4 — §4-3, printed p. 88; §4-4, printed p. 92 |
+| Workbook practice: polynomials (Unit 4) | Yemen, Grade 10 workbook, Unit 4, printed p. 20 (workbook evidence) |
 | Division of polynomials and the identity p(x) = d(x)q(x) + R(x) | Bangladesh, Class 9, Ch. 4 §8.3 and §8.4, printed pp. 96–99 |
 | Remainder Theorem stated and proved; remainder for divisor (ax + b) is p(−b/a); worked (3x³ − 2x + 1) ÷ (2x + 1) → remainder 13/8 | Bangladesh, Class 9, Ch. 4 §9, printed pp. 99–101 |
 | Factor Theorem | Bangladesh, Class 9, Ch. 4 §10.1, printed pp. 101–102 (within §10, pp. 101–107) |

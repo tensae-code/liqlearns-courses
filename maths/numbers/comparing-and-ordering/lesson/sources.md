@@ -364,6 +364,7 @@ Every part traces to its book and page.
 | Comparing and ordering numbers within 1000 | Yemen, Grade 2 Part 2, Unit 6, 6th lesson, printed p. 18 |
 | Comparing and ordering numbers within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lessons 1-4–1-5, printed pp. 16–18 |
 | Comparing and ordering numbers within 999,999, then within hundreds of millions | Yemen, Grade 4 Part 1, Unit 1, lesson 4:1, printed p. 23; Grade 5 Part 1, Unit 1, lesson 1-4, printed p. 23 |
+| More than / less than / equal — comparing quantities | Yemen, Grade 1 Part 1, Unit 1, printed p. 14 |
 | Comparing groups, comparing numbers to 20 | Indonesia, Grade 1 student book, printed pp. 1–40; printed pp. 145–174 |
 | Comparing and ordering three numbers, then to 100 | Indonesia, Grade 2 student book, printed pp. 1–36; printed pp. 191–224 |
 | Comparing and ordering numbers to 1,000 | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |

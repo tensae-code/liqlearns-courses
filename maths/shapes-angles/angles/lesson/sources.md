@@ -412,6 +412,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Measuring angles; adjacent angles and vertically opposite angles | Yemen, Grade 5 Part 2, Unit 7, lessons 7-1–7-2, printed pp. 99–103 |
 | Alternate, corresponding and co-interior angles; angles on a straight line; sum of a triangle's angles | Yemen, Grade 6 Part 2, Unit 6, lesson 6-2, printed p. 59; Unit 7, lessons 7-4–7-5, printed pp. 104–109 |
 | Types of angles, relations between angles, vertically opposite angles, parallel lines and triangle angles | Yemen, Grade 7, Unit 5, lessons 5-1–5-6, printed pp. 150–182 |
+| Intersecting, perpendicular and parallel lines | Yemen, Grade 3 Part 1, Unit 4, printed p. 90 |
+| Intersecting and perpendicular lines | Yemen, Grade 4 Part 2, Unit 7, printed p. 91 |
+| Parallel lines | Yemen, Grade 4 Part 2, Unit 7, printed p. 95 |
+| Interior angles of a polygon (n-gon) | Yemen, Grade 7, Unit 6, printed p. 231 |
 | What an angle is, non-standard and standard angle measure, drawing angles of a given size, five angle types up to reflex angles, perpendicular and parallel lines | Indonesia, Grade 3 student book, Bab 4, printed pp. 143–194 |
 | Right angles, what an angle is, acute/right/obtuse/straight/full/zero/reflex angles, measuring and drawing with a protractor | Indonesia, Grade 5 student book, Ch. 6, printed pp. 163–190 |
 | Angle relations on intersecting and parallel lines — vertical, corresponding, alternate, same-side, complementary, supplementary | Indonesia, Grade 7 Merdeka student book, Ch. 5, printed pp. 159–184 |

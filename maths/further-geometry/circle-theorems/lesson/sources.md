@@ -35,7 +35,7 @@ maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 Education, English title page issued 2013. Filed in
 maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
-**Book 9:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Matematika untuk SMA/SMK Kelas XI* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Matematika Tingkat Lanjut untuk SMA/MA Kelas XII* (student book) — Indonesia, Wikan Budi Utami, Sri Adi Widodo, Fitria Sulistyowati, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-771-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).

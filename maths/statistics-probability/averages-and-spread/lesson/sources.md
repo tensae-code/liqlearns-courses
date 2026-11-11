@@ -30,10 +30,10 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 16:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 19:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Its matched student book is now in hand (gap batch 2026-11-06) and is cited directly in this lesson; the guide remains filed as its companion.
 **Book 21:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -264,6 +264,7 @@ Every part traces to its book and page.
 **Book 191:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 192:** *Mathematics, Grade 6, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 193:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 194:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -291,6 +292,9 @@ Every part traces to its book and page.
 | Arithmetic mean, mode, cumulative frequency, median | Yemen, Grade 9 Part 2, Unit 7, lessons 7-1–7-4, printed pp. 111–129 |
 | Measures of central tendency and measures of dispersion | Yemen, Grade 10 Part 2, Unit 10, lessons 10-2–10-3, printed pp. 117–121 |
 | Correlation and scatter shapes; linear regression | Yemen, Grade 11 science Part 2, Unit 10, lessons 10-2–10-3, printed pp. 127–138; Grade 12 literary, Unit 2, lessons 2-2–2-3, printed pp. 33–43 |
+| Review: statistics | Yemen, Grade 11 science Part 2, Unit 10, printed p. 123 |
+| Review: statistics | Yemen, Grade 12 literary, Unit 2, printed p. 23 |
+| Workbook practice: statistics (Unit 10) | Yemen, Grade 10 workbook, Unit 10, printed p. 46 (workbook evidence) |
 | Mean, median, mode, range, quartiles, IQR and quartile deviation — now from the student book itself (the Grade 8 Merdeka guide previously cited here is this book's matched companion); the book's Covid example (pp. 261, 263) calls the maximum the mode — the lesson teaches the mode as the most frequent value: those 12 monthly counts are all different, so there is no mode, and July 2021 (9.651) is the maximum | Indonesia, Grade 8 Merdeka student book, Bab 6, printed pp. 255–288 |
 | Mode, median and mean including grouped data; quartiles and percentiles including grouped data; IQR; variance and standard deviation including grouped data | Indonesia, Grade 10 Merdeka, Bab 7, printed pp. 171–214 |
 | Quartiles and percentiles (p. 203); variance and standard deviation (Pengayaan, pp. 234–237) | Indonesia, Grade 10 Revisi, Bab 6, printed pp. 177–238 |

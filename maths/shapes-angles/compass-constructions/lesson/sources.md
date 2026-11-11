@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -89,6 +89,8 @@ Every part traces to its book and page.
 **Book 60:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 61:** *Primary Mathematics — Pupil's Book 5* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 62:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 63:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 64:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: construction is a named unit in both of Nepal's senior compulsory books — Grade 9 Unit 15 and Grade 10 Unit 14.
 
@@ -237,7 +239,10 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Construction | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
 | Constructing parallel lines | South Sudan, Pupil's Book 5, §3.1, printed p. 46 |
 | Constructing a circle of a given radius | South Sudan, Pupil's Book 6, §3.3, printed p. 43 |
-**Acceptance count: taught in 29 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| Drawing a line segment of given length | Yemen, Grade 3 Part 1, Unit 4, printed p. 92 |
+| Drawing and bisecting a line segment | Yemen, Grade 5 Part 2, Unit 8, printed p. 138 |
+| Drawing an angle of given measure | Yemen, Grade 5 Part 2, Unit 8, printed p. 142 |
+**Acceptance count: taught in 30 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 

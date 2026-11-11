@@ -41,7 +41,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 12:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Matematika SMP/MTs Kelas VIII Semester 1* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2017, ISBN 978-602-282-987-4. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -250,6 +250,8 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 156:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 157:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 158:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021 (no ISBN printed — the imprint's ISBN field is blank). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 159:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 160:** *Mathematics, Grade 11 workbook (كتاب التمارين), literary track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 literary student book's Units 1–4, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -274,6 +276,8 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | The symbol Σ, its meaning and properties | Yemen, Grade 10 Part 2, Unit 10, lesson 10-1, printed p. 114 |
 | Sequences, arithmetic sequences, sum of the first n terms of an arithmetic sequence, geometric sequences and their sums | Yemen, Grade 11 literary, Unit 1, lessons 1-1–1-5, printed pp. 7–25 |
 | Sequences, the arithmetic sequence, the geometric sequence (sums folded into the sequence lessons) | Yemen, Grade 11 science Part 1, Unit 3, lessons 3-1–3-3, printed pp. 61–84 |
+| Workbook practice: sequences (Unit 3) | Yemen, Grade 11 science workbook, Unit 3, printed p. 24 (workbook evidence) |
+| Workbook practice: sequences (Unit 1) | Yemen, Grade 11 literary workbook, Unit 1, printed p. 6 (workbook evidence) |
 | Number patterns: odd/even patterns, consecutive numbers, tile patterns, lamp cycles, unit digits, triangular numbers, sum of squares, Pascal's triangle — the geometric sequence is named (p. 19) but deferred to SMA; no arithmetic/geometric series formulas | Indonesia, Grade 8 K13 Semester 1, Bab 1, printed pp. 1–40 |
 | Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 10 Merdeka, Bab 2, printed pp. 33–62 |
 | Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 10 Revisi, Bab 2, printed pp. 35–70 |

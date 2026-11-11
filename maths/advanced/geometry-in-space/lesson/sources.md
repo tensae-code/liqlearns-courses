@@ -43,6 +43,8 @@ Every part traces to its book and page.
 **Book 31:** *Applied Mathematics, Grade 11, Term 1* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 32:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 33:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Mathematics, Grade 12 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 12 science student book's units (in its own order — conics third, probability fifth), and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,6 +60,8 @@ Every part traces to its book and page.
 | Space-geometry introduction: lines and planes in space (Chapter 6 opener) | Iraq, Grade 12 Scientific, Chapter 6, §6-1, printed p. 224 |
 | The plane and space (8-1, p.65 — the cube: 6 faces, 12 edges, 8 vertices); theorems on parallel straight lines (8-2, p.71); parallel planes (8-3, p.78) | Yemen, Grade 11 Science Part 2, Unit 8, pp.65–78 |
 | A straight line perpendicular to a plane (5-1, p.133); the perpendicular and the oblique (5-2, p.142); the dihedral angle defined as the union of two half-planes on a common edge (5-3, p.147) | Yemen, Grade 12 Science, Unit 5, pp.133–147 |
+| Workbook practice: solid geometry (Unit 8) | Yemen, Grade 11 science workbook, Unit 8, printed p. 72 (workbook evidence) |
+| Workbook practice: solid geometry (Unit 4) | Yemen, Grade 12 science workbook, Unit 4, printed p. 37 (workbook evidence) |
 | Positions of points, lines and planes in space; parallel lines in space (exactly one parallel through an outside point); lines perpendicular to a plane; parallel and perpendicular planes (Lessons 1–3, pp.162–208); distances in space (§3.6, p.197) | Cambodia, Grade 10 Part 2, Chapter 11, pp.161–208 |
 | PRIVATE booklet, labelled: coordinates and vectors in space and their applications — analytic material stocked in lesson 92, NOT used for any synthetic part of this lesson; its Lesson 1 answer key (p.192) is unreliable as printed and no question here is drawn from it | Cambodia, Space Geometry booklet (PRIVATE, Khem Putthi), Lessons 1–3, pp.8–82, answer key p.192 |
 | Axioms of stereometry and corollaries (§§1–2); skew lines (§6); line/plane and plane/plane parallelism (§§7–8); angle between skew lines (§9); distances in space incl. the common perpendicular of skew lines (§§10–14); the three-perpendiculars theorem (§15); dihedral angle (§17) | Kazakhstan, Smirnov & Tuyakov Geometry 10 (humanities track), Chapters I–III, pp.20–118 |

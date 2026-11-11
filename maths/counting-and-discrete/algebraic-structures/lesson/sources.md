@@ -13,6 +13,8 @@ Every part traces to its book and page.
 **Book 5:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 
 **Book 6:** *Texto de Aprendizaje, 6to Año de Educación Secundaria Comunitaria Productiva (Grade 12) — Área Matemática section only* (student book) — Bolivia; the publisher is not printed in the section file (no imprint page exists in it) — the Ministerio de Educación (Estado Plurinacional de Bolivia) attribution rests on the full-book context and the bibliography (printed p. 144, citing the ministry's Currículum Base, 2023); no year/edition or ISBN is printed; printed foliation pp. 54–144 (Spanish). Filed in maths/books/bolivia.md (Grade 12 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 7:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,6 +26,8 @@ Every part traces to its book and page.
 | The ring: (S, *, ∘) with (S, *) an abelian group, ∘ associative, ∘ distributing over *; (ℤ, +, ×) is a ring | Yemen, Grade 11 Science Part 1, Unit 1, 1-2, p.14 |
 | The field | Yemen, Grade 11 Science Part 1, Unit 1, 1-3, p.21 |
 | The field of real numbers: ℝ as a field | Yemen, Grade 11 Science Part 1, Unit 1, 1-4, p.24 |
+| Workbook practice: algebraic structures (Unit 5) | Yemen, Grade 10 workbook, Unit 5, printed p. 23 (workbook evidence) |
+| Workbook practice: ring and field (Unit 1) | Yemen, Grade 11 science workbook, Unit 1, printed p. 6 (workbook evidence) |
 
 | Binary operations — A binary operation on a set defined as a function from S × S to S; custom operations defined by formulas (8-1) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 213 |
 | Closure — Internal (closed) operations: + and × are closed on the naturals, − and ÷ are not; closure read from an operation table (8-2) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 215 |

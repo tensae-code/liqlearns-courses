@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal, Yemen
 
 Every part traces to its book and page.
 
@@ -98,6 +98,9 @@ Every part traces to its book and page.
 **Book 68:** *Mathematics, Grade 8 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 5th ed., 1445H/2023; no ISBN printed. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 69:** *Mathematics, Grade 9, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-112-7 (Part 1). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 70:** *Mathematics, Classes 6, 7 and 8, and Optional Mathematics, Grade 9, student books* — Nepal, CDC, Sanothimi. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 73:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: Nepal builds its number system grade by grade — whole numbers (Grades 6 and 7), rational numbers (Grades 7 and 8), irrational numbers (Grade 7) and real numbers (Grade 8, and the Grade 9 Optional book's §1.4).
 
@@ -276,7 +279,10 @@ On Nepal in this lesson: Nepal builds its number system grade by grade — whole
 | Rational numbers | Nepal, Grade 8 student book, Unit 13, printed p. 104 |
 | Real numbers | Nepal, Grade 8 student book, Unit 14, printed p. 110 |
 | Real numbers | Nepal, Grade 9 Optional student book, §1.4, printed p. 58 |
-**Acceptance count: taught in 28 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+| The natural numbers | Yemen, Grade 7, Unit 2, printed p. 47 |
+| The real numbers | Yemen, Grade 9 Part 1, Unit 1, printed p. 40 |
+| The rational numbers: the number line, decimal form, comparing and the four operations | Yemen, Grade 8 Part 1, Unit 2, printed pp. 35–64 |
+**Acceptance count: taught in 29 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal, Yemen)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026). Yemen enters with the number sets built as named lessons — the natural numbers in Grade 7, the rational numbers as a whole unit in Grade 8 Part 1, and the real numbers in Grade 9 Part 1.
 
 Vietnam carries the number-system climb across Grades 4, 6 and 7 — first look at the sequence of natural numbers (Grade 4), the set of rational numbers, irrational numbers and the arithmetic square root, and the set of real numbers (Grade 7). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

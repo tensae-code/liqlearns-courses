@@ -29,7 +29,7 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 16:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* (Mathematics, Grade 8 teacher guide, Kurikulum Merdeka) — Indonesia, Mohammad Tohir, Abdur Rahman As'ari, Ahmad Choirul Anam, Ibnu Tauiq, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05). Its matched student book is now in hand (gap batch 2026-11-06) and is cited directly in this lesson; the guide remains filed as its companion.
@@ -168,6 +168,7 @@ Every part traces to its book and page.
 **Book 115:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 116:** *Mathematics (1), Grade 10 student book* (shared by the Mathematical Sciences and Experimental Sciences branches; code 110211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2512-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 117:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 118:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -192,6 +193,7 @@ Every part traces to its book and page.
 | Square root and cube root, including √(5⁶) = 5³ = 125 and ∛(7⁶) = 7² = 49 | Yemen, Grade 6 Part 1, Unit 1, lesson 1-8, printed pp. 36–38 |
 | Square root and cube root of a rational number (√0.16 = 0.4) | Yemen, Grade 8 Part 1, Unit 2, lesson 2-9, printed p. 67 |
 | Roots and rational exponents; simplifying roots (√18 = 3√2); adding, subtracting, multiplying and dividing roots | Yemen, Grade 10 Part 1, Unit 3, lessons 3-2–3-5, printed pp. 54–68 |
+| Workbook practice: powers and roots (Unit 3) | Yemen, Grade 10 workbook, Unit 3, printed p. 13 (workbook evidence) |
 | Fractional exponents as roots (ⁿ√a = b ↔ bⁿ = a); simplifying radicals; adding and subtracting like radicals; multiplying and dividing radical forms — now from the student book itself (the Grade 8 Merdeka guide previously cited here is this book's matched companion) | Indonesia, Grade 8 Merdeka student book, Bab 1, printed pp. 26–32 |
 | Irrational numbers introduced by contrast (√2's non-terminating decimal); rationalising denominators, including conjugate pairs | Indonesia, Grade 8 Merdeka student book, Bab 1, printed pp. 34–36 |
 | Surds, rationalising denominators, exponential function, laws of exponents | Indonesia, Grade 10 Merdeka 2021 student book, Bab 1, printed pp. 1–32 |

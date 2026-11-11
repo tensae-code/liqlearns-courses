@@ -29,7 +29,7 @@ Every part traces to its book and page.
 **Book 12:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
 **Book 13:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 15:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -120,6 +120,8 @@ Every part traces to its book and page.
 **Book 81:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 83:** *Mathematics, Grade 11 teacher guide (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015 (companion to the Grade 11 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 84:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 85:** *Mathematics, Grade 11 workbook (كتاب التمارين), literary track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 literary student book's Units 1–4, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -150,6 +152,8 @@ Every part traces to its book and page.
 | Powers and roots as background | Yemen, Grade 10 Part 1, Unit 3, lessons 3-1–3-2, printed pp. 48–54 |
 | The concept of the logarithm, rules of logarithms, common and natural logarithms, applications | Yemen, Grade 11 literary, Unit 2, lessons 2-1–2-5, printed pp. 28–45 |
 | The exponential function; logarithms and their properties; the logarithmic function; common and natural logarithms; simplification using logarithms | Yemen, Grade 11 science Part 1, Unit 4, lessons 4-1–4-6, printed pp. 96–116 |
+| Workbook practice: logarithms (Unit 4) | Yemen, Grade 11 science workbook, Unit 4, printed p. 38 (workbook evidence) |
+| Workbook practice: logarithms (Unit 2) | Yemen, Grade 11 literary workbook, Unit 2, printed p. 11 (workbook evidence) |
 | Laws of exponents; exponential function with growth and decay; surds; logarithms defined as the inverse of exponentiation, with their laws | Indonesia, Grade 10 Merdeka, Bab 1, printed pp. 1–32 |
 | Exponents; exponential functions; logarithms as the Bab 1 Pengayaan — definition, common logarithms, log laws with proof tasks, worked examples and exercises (pp. 27–33) | Indonesia, Grade 10 Revisi, Bab 1, printed pp. 1–34 |
 | Logarithmic functions (with trigonometric and algebraic functions) | Indonesia, Grade 11 Tingkat Lanjut, Bab 5, printed pp. 231–314 |

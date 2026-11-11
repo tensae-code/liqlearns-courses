@@ -32,7 +32,7 @@ Every part traces to its book and page.
 **Book 14:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
-**Book 17:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
@@ -291,6 +291,7 @@ Every part traces to its book and page.
 | Multiplying and dividing algebraic expressions; factorisation by greatest common factor and difference of two squares | Yemen, Grade 8 Part 1, Unit 3, lessons 3-2–3-7, printed pp. 80–103; Grade 7, Unit 3, lessons 3-2–3-5 and 3-7–3-8, printed pp. 91–114 |
 | Factorising the trinomial, completing the square, sum and difference of cubes, grouping; algebraic fractions | Yemen, Grade 9 Part 1, Unit 2, lessons 2-2–2-8, printed pp. 61–102 |
 | Polynomials in one variable: general form, the four operations, remainder and factor theorems, zeros | Yemen, Grade 10 Part 1, Unit 4, lessons 4-1–4-4, printed pp. 78–92 |
+| Review: algebraic expressions | Yemen, Grade 8 Part 1, Unit 3, printed p. 77 |
 | Algebraic forms: variables, terms, coefficients, constants, the distributive property, factoring, like terms, modelling — no equation solving in this chapter | Indonesia, Grade 7 Merdeka student book, Ch. 4, printed pp. 123–158 |
 | Algebraic forms: terms, coefficients, variables, constants, +/−/×/÷ of algebraic forms, simplifying algebraic fractions | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 3, printed pp. 193–244 |
 | Open and closed sentences — statements that are true, false, or not yet decidable | Indonesia, Grade 8 Merdeka student book, Bab 3, printed pp. 101–108 |

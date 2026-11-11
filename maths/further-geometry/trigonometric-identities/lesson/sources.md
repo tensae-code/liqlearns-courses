@@ -68,6 +68,7 @@ Every part traces to its book and page.
 **Book 52:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 53:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 54:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: Nepal's Optional books carry the identities — Grade 9 §§2.2–2.2.4 (identities of the trigonometric ratios, including the Pythagoras relation) and Grade 10 Lesson 7 (compound, multiple and sub-multiple angles; transformation of identities).
 
@@ -79,6 +80,7 @@ On Nepal in this lesson: Nepal's Optional books carry the identities — Grade 9
 | Trigonometric ratios of the sum and difference of two angles | Yemen, Grade 11 Science Part 2, Unit 9, lesson 9-2, printed p. 91 |
 | Trigonometric ratios of the double and half angle (sin 2A, cos 2A, tan 2A) | Yemen, Grade 11 Science Part 2, Unit 9, lesson 9-3, printed p. 97 |
 | Converting the sum or difference of sines or cosines into a product, and vice versa | Yemen, Grade 11 Science Part 2, Unit 9, lesson 9-4, printed p. 104 |
+| Workbook practice: trigonometry (Unit 9) | Yemen, Grade 11 science workbook, Unit 9, printed p. 80 (workbook evidence) |
 | cos(a − b) proved via the dot product of unit vectors; cos(a + b), sin(a + b), sin(a − b), tan(a ± b); worked cos 105° = (√2 − √6)/4 and tan(α + β) = 1 from tan α = 1/2, tan β = 1/3; double, triple and half-angle formulas; product-to-sum; sum-to-product; exercises on sin 22.5°, cos 22.5°, tan 22.5° and the sin 2θ = cos 3θ proof at θ = 18° giving sin 18° and cos 18° | Laos, Grade 10 student book, Ch. IX L22, printed pp. 233–250 |
 | The basic relations sin²α + cos²α = 1 and tan α = sin α/cos α; the identity chain proved link by link (sum and difference, double angle, half angle, product-to-sum and sum-to-product) | China, Compulsory Volume 3 (B edition) student book, §7.2, printed pp. 22–34; §8.2, printed pp. 87–110 |
 | Basic trigonometric identities; addition formulas and their consequences (sine/cosine of a sum and difference, tangent/cotangent of a sum and difference, double-angle and half-angle formulas); converting a sum to a product and a product to a sum | Armenia, Grade 10 Algebra and Analysis (Arakelyan), Ch. 4 §§7–9, printed pp. 100, 103, 116 |

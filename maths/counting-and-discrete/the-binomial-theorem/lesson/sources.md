@@ -43,6 +43,7 @@ Every part traces to its book and page.
 **Book 29:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 30:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part One* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, third edition 2020 CE / 1441 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 **Book 33:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Grade 12 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 12 science student book's units (in its own order — conics third, probability fifth), and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,6 +57,7 @@ Every part traces to its book and page.
 | The binomial expansion | Vietnam, Grade 10 Volume 2, Bài 25, printed p. 73 |
 | Newton's binomial proved by induction | Vietnam, Grade 10 study book, Bài 4, printed p. 23 |
 | The theorem in the form (a+b)ⁿ = Σ C(n,k)aⁿ⁻ᵏbᵏ | Yemen, Grade 12 Science, 2-4, printed p. 65 |
+| Workbook practice: counting and the binomial theorem (Unit 2) | Yemen, Grade 12 science workbook, Unit 2, printed p. 18 (workbook evidence) |
 | The binomial expansion in the counting unit | Kuwait, Grade 11 Term 2, 11-2, printed pp. 162–166; Grade 11 Statistics Term 2, 5-2, printed pp. 63–67 |
 | The binomial lesson in the counting chapter | Laos, Grade 11, Ch.6 L28, printed p. 180 |
 | The special case (1+a)ⁿ | Cambodia, Grade 10 |

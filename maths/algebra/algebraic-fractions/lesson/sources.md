@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal, Yemen
 
 Every part traces to its book and page.
 
@@ -46,6 +46,7 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 29:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 30:** *Shikshak Nirdeshika, Aadharbhoot Taha Kaksha 8 Ganit (Teacher Guide — Basic Level Mathematics, Class 8)* — Nepal, CDC, Sanothimi, First edition 2081 BS. TEACHER EVIDENCE ONLY, and a mismatch guide: it is keyed to a newer Grade 8 student book (its contents carry Tessellation and Algebraic Fractions lessons the held Grade 8 student book does not list, in a different order); it is cited only for what the guide itself teaches, never as evidence for the held student book. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *Shikshak Nirdeshika, Anivarya Ganit Kaksha 10 (Teacher Guide — Compulsory Mathematics, Class 10)* — Nepal, CDC, Sanothimi. TEACHER EVIDENCE — the true companion to the Grade 10 student book: the same 18 units in the same order, with objectives, period allocations and teaching activities for each. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: Nepal's compulsory course reaches algebraic fractions in Grade 10 (Unit 11). The Grade 8 teacher guide carries an algebraic-fractions lesson of its own, keyed to a newer Grade 8 book — stocked below as teacher evidence for that guide, never for the held Grade 8 student book, which has no such unit.
 
@@ -124,7 +125,9 @@ On Nepal in this lesson: Nepal's compulsory course reaches algebraic fractions i
 | Algebraic fractions | Nepal, Grade 10 student book, Unit 11, printed p. 126 |
 | Teacher evidence — Grade 8 guide, algebraic fractions (newer book) | Nepal, Grade 8 teacher guide, First edition 2081 BS, Algebraic Fractions lesson, guide pp. 154–167 |
 | Teacher evidence — Grade 10 companion guide | Nepal, Grade 10 teacher guide — facilitation for the Grade 10 student book's Unit 11, Algebraic fractions |
-**Acceptance count: taught in 19 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Multiplying and dividing algebraic fractions | Yemen, Grade 9 Part 1, Unit 2, printed p. 90 |
+| Adding and subtracting algebraic fractions | Yemen, Grade 9 Part 1, Unit 2, printed p. 102 |
+**Acceptance count: taught in 20 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal, Yemen).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective. Yemen enters with multiplying, dividing, adding and subtracting algebraic fractions in Grade 9 Part 1, Unit 2.
 
 Vietnam carries algebraic fractions in Grade 8 Volume 2 — the concept, the basic property, and adding, subtracting, multiplying and dividing algebraic fractions (Bài 21–24). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

@@ -205,6 +205,7 @@ Every part traces to its book and page.
 **Book 145:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 146:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 147:** *Toán 10, Tập Một* (Mathematics 10, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31109-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 148:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -235,6 +236,7 @@ Every part traces to its book and page.
 | Inequalities; solving first-degree inequalities in one variable (3س + 9 ≥ −6 → س ≥ −5) | Yemen, Grade 7, Unit 4, lessons 4-5–4-6, printed pp. 141–143 |
 | First-degree inequality in one variable | Yemen, Grade 8 Part 1, Unit 4, lesson 4-2, printed p. 116 |
 | Intervals, first- and second-degree inequalities in one variable, absolute value, systems of inequalities in one and two variables | Yemen, Grade 10 Part 2, Unit 6, lessons 6-4–6-10, printed pp. 16–39 |
+| Workbook practice: equations and inequalities (Unit 6) | Yemen, Grade 10 workbook, Unit 6, printed p. 27 (workbook evidence) |
 | Linear inequalities in one variable (PtLSV), solving inequality problems — BUT the negative-multiplication tables on printed p. 284 state the UN-flipped signs ("Jika a < b maka a × c < b × c" for c < 0, identical to the positive case) and the worked division example is wrong throughout from the false statement "−4 > 2": teach the correct rule — multiplying or dividing by a negative REVERSES the inequality — and never the book's tables | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 4, printed pp. 245–300 |
 | Linear inequalities in one variable: the signs <, >, ≤, ≥ in context; solutions shown on a number line; the sign kept when adding/subtracting or multiplying/dividing by a positive and REVERSED when multiplying/dividing by a negative; solving with brackets and collecting terms — now from the student book itself (the Grade 8 Merdeka guide previously cited here is this book's matched companion) | Indonesia, Grade 8 Merdeka student book, Bab 3, printed pp. 120–136 |
 | Systems of linear equations and inequalities | Indonesia, Grade 10 Merdeka 2021 student book, Bab 5, printed pp. 125–144 |

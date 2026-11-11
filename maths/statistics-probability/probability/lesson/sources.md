@@ -293,6 +293,8 @@ Every part traces to its book and page.
 **Book 205:** *Guía Metodológica de Matemática — 6to grado* (NICAMATE 2) (teacher guide) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: guide to the Grade 6 NICAMATE 2 student book.
 
 **Book 206:** *Mathematics for Rwandan Schools — Senior 1 Teacher's Guide* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 484 5 (as printed; the imprint misprints the first author's name as 'Ndyabas'). No REB approval wording is printed anywhere in the book. Teacher evidence: a true companion — it mirrors the Senior 1 Student's Book unit for unit (verified from its own contents), with learning objectives, background information, lesson activities and answers to the student book's self-evaluation exercises and unit tests; it adds no pupil content beyond the student book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 207:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 208:** *Mathematics, Grade 12 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 12 science student book's units (in its own order — conics third, probability fifth), and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -328,6 +330,8 @@ Every part traces to its book and page.
 | Probability: ball bags, a spinner and a coin-toss tally | Yemen, Grade 3 Part 2, Unit 10, lesson 10-5, printed pp. 115–116 |
 | Probabilities: the sample space as the set of all possible outcomes (coin, die) | Yemen, Grade 11 science Part 2, Unit 10, lesson 10-4, printed p. 145 |
 | Probability: basic theorems, building the probability model, conditional probability and independent events, repeated trials and the binomial law, sampling with and without replacement | Yemen, Grade 12 science, Unit 3, lessons 3-1–3-5, printed pp. 74–98 |
+| Workbook practice: statistics and probability (Unit 10) | Yemen, Grade 11 science workbook, Unit 10, printed p. 86 (workbook evidence) |
+| Workbook practice: probability (Unit 5) | Yemen, Grade 12 science workbook, Unit 5, printed p. 45 (workbook evidence) |
 | The probability scale — impossible / less likely / likely / very likely / certain — comparing probabilities in games (fair vs unfair) and daily events; entirely qualitative, no numerical probabilities | Indonesia, Grade 6, Ch. 4, printed pp. 99–130 |
 | Experiment, outcome, sample space, event; theoretical probability P(A) = n(A)/n(S) by listing, tables and tree diagrams; empirical probability; expected frequency; sampling — population vs sample, random choice, estimating a population from samples | Indonesia, Grade 9, Bab 4, printed pp. 215–282 |
 | Probability distributions; addition rule only | Indonesia, Grade 10 Merdeka, Bab 8, printed pp. 215–236 |

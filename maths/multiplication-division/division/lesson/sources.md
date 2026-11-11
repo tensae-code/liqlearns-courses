@@ -21,7 +21,7 @@ Every part traces to its book and page.
 **Book 15:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 19:** *Matematika untuk SD/MI Kelas III* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Hobri, 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Matematika untuk SD/MI Kelas IV* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -291,6 +291,7 @@ Every part traces to its book and page.
 | Division as sharing and grouping; ÷2, ÷5, ÷3 and ÷4; fact families | Yemen, Grade 2 Part 2, Unit 9, lessons 8th–12th, printed pp. 84–92 |
 | ÷6, ÷7, ÷8, ÷9 with the long-division bracket; division by one and by the number itself; two-digit ÷ one-digit | Yemen, Grade 3 Part 2, Unit 6, lessons 6-2–6-5, printed pp. 12–18; Unit 7, lessons 7-5–7-6, printed pp. 46–48 |
 | Division within six digits, by one- and two-digit divisors, estimating by rounding | Yemen, Grade 4 Part 1, Unit 4, lessons 4:4–8:4, printed pp. 112–129; Grade 5 Part 1, Unit 3, lessons 3-7–3-9, printed pp. 76–86; Grade 6 Part 1, Unit 1, lesson 1-4, printed p. 20 |
+| Review: division | Yemen, Grade 5 Part 1, Unit 3, printed p. 73 |
 | Division to 100 as repeated subtraction and sharing | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |
 | Column division to 100 | Indonesia, Grade 4 student book, Bab 1, printed pp. 1–54 |
 | Fraction ÷ natural number and natural number ÷ fraction (multiply by the reciprocal) | Indonesia, Grade 6 student book, Ch. 1, printed pp. 1–44 |

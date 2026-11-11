@@ -1,6 +1,6 @@
 # Sources — Rate of Change
 
-countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran
+countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran, Yemen
 
 Every part traces to its book and page.
 
@@ -27,6 +27,7 @@ Every part traces to its book and page.
 
 **Book 15:** *Mathematics, Grade 11* (student book; second year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,8 +59,9 @@ Every part traces to its book and page.
 | Average rate of change — Δx and Δy defined; average rate of change = Δy/Δx = (f(x₂) − f(x₁))/(x₂ − x₁); Bisan's mass falling 80 → 78 kg in ten days; worked Δy = 6 for a linear rule from x = 1 to 4 (verified) | Palestine, Mathematics (Grade 12, Technological stream), printed p. 43 |
 | Rate of change (§1-6) | Libya, Grade 11 Mathematics (Science section), §1-6, printed p.139 |
 | The concept of rate of change (مفهوم آهنگ تغییر) | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 4, printed p. 93 |
+| Average rate of change of a function | Yemen, Grade 11 science Part 1, Unit 5, printed p. 139 |
 
-**Acceptance count: taught in 11 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
+**Acceptance count: taught in 12 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran, Yemen).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway. Yemen enters with the average rate of change of a function in Grade 11 science Part 1, Unit 5.
 
 Libya carries rate of change in Grade 11 Mathematics (Science section), Chapter 6 (stocked by the 2026-11-08 re-verification sweep).
 

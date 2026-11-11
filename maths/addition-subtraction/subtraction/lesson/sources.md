@@ -290,6 +290,7 @@ Every part traces to its book and page.
 **Book 214:** *Mathematics — Teacher's Guide, Year 2 Primary* (English edition, teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2020. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with lesson guidance and answers to every pupil-book activity and end-of-unit assessment. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 215:** *Imibare — Igitabo cy'Umwarimu, Umwaka wa 2* (Kinyarwanda original of the Year 2 teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with unit lesson lists and answers to all pupil-book exercises and unit assessments. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 216:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -346,6 +347,11 @@ Every part traces to its book and page.
 | Subtraction within 1000 with borrowing; estimating subtraction results | Yemen, Grade 2 Part 2, Unit 8, lessons 1st–4th, printed pp. 46–54 |
 | Subtraction within 10,000, borrowing from one and two places, subtraction with zeros | Yemen, Grade 3 Part 1, Unit 3, lessons 3-2–3-5, printed pp. 60–70 |
 | Subtraction within 999,999, estimating and checking by addition, to hundreds of millions | Yemen, Grade 4 Part 1, Unit 2, lessons 5:2–9:2, printed pp. 50–60; Grade 5 Part 1, Unit 2, lessons 2-4–2-6, printed pp. 44–49 |
+| Review: addition and subtraction within 9,999 | Yemen, Grade 4 Part 1, Unit 2, printed p. 38 |
+| Review: addition and subtraction within hundreds of thousands | Yemen, Grade 5 Part 1, Unit 2, printed p. 36 |
+| Subtraction facts within 18 | Yemen, Grade 1 Part 2, Unit 7, printed p. 54 |
+| Fact families: addition–subtraction relations | Yemen, Grade 1 Part 2, Unit 7, printed p. 58 |
+| Addition and subtraction within hundreds of billions | Yemen, Grade 6 Part 1, Unit 1, printed p. 16 |
 | Subtraction to 10; addition and subtraction to 20 | Indonesia, Grade 1 student book, printed pp. 75–114; printed pp. 175–196 |
 | Addition and subtraction under 20 | Indonesia, Grade 2 student book, printed pp. 37–64 |
 | Column subtraction to 100 with borrowing; subtraction sentences with an unknown | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74; Bab 2, printed pp. 75–102 |

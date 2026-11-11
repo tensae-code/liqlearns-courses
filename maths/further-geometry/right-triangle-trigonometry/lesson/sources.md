@@ -143,6 +143,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 76:** *Mathematics, Grade 10, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-360-9, National Library deposit no. 2022/4/2036 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 77:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 78:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 79:** *Mathematics, Grade 10 workbook (كتاب التمارين), full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 10 student book's Units 1–10 with some enrichment, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -162,6 +163,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | The side opposite the 30° angle in a right triangle equals half the hypotenuse | Yemen, Grade 8 Part 2, Unit 7, lesson 7-4, printed p. 77 |
 | Numerical relations in a right triangle; trigonometric ratios for an acute angle; ratios for 30°, 60° and 45° | Yemen, Grade 9 Part 1, Unit 4, lessons 4-1–4-3, printed pp. 165–184 |
 | The directed angle, units of angle measure, trigonometric ratios, solving the right triangle and applications | Yemen, Grade 10 Part 2, Unit 7, lessons 7-1–7-7, printed pp. 41–70 |
+| Workbook practice: trigonometry (Unit 7) | Yemen, Grade 10 workbook, Unit 7, printed p. 32 (workbook evidence) |
 | Right-triangle ratios only — tan first, then sin/cos/tan together, special angles 0°/30°/45°/60°/90°; no sine/cosine rules, no trig functions or graphs | Indonesia, Grade 10 Merdeka 2021 student book, Bab 4, printed pp. 95–124 |
 | Right-triangle ratios, special angles, heights/distances, including the clinometer project (p. 86); no sine/cosine rules and no trigonometric functions/graphs | Indonesia, Grade 10 Revisi 2023 student book, Bab 3, printed pp. 71–106 |
 | Teaching guidance and full answer keys for trigonometric ratios, including the clinometer project (teacher evidence) | Indonesia, Grade 10 Revisi teacher guide, Bab 3, printed pp. 103–124 (teacher evidence) |

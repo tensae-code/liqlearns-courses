@@ -121,7 +121,7 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 25:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 28:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Matematika untuk SD/MI Kelas II* (Mathematics, Grade 2 student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 30:** *Matematika untuk SD/MI Kelas IV* (Mathematics, Grade 4 student book) — Indonesia, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 31:** *Matematika untuk SD/MI Kelas V* (Mathematics, Grade 5 student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
@@ -450,6 +450,8 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Reading and writing fractions, equivalent fractions, comparing and ordering | Yemen, Grade 3 Part 2, Unit 9, lessons 9-2–9-4, printed pp. 84–88 |
 | Numerator and denominator, equivalent fractions, simplifying, comparing, ordering, improper fractions and mixed numbers | Yemen, Grade 4 Part 2, Unit 5, lessons 1:5–6:5, printed pp. 8–26 |
 | Comparing and ordering fractions; adding, subtracting, multiplying and dividing fractions | Yemen, Grade 5 Part 2, Unit 5, lessons 5-2–5-7, printed pp. 13–38; Grade 6 Part 1, Unit 2, lessons 2-2–2-3, printed pp. 62–68 |
+| Review: ordinary fractions | Yemen, Grade 5 Part 2, Unit 5, printed p. 8 |
+| Review: ordinary fractions | Yemen, Grade 6 Part 1, Unit 2, printed p. 57 |
 | Half and quarter of a whole object and of a collection, in words and pictures only — the symbols ½ and ¼ never appear | Indonesia, Grade 2 student book, Ch. 5, printed pp. 125–154 |
 | Unit fractions compared and ordered, same-denominator fractions, equivalent fractions, tenths and hundredths decimals | Indonesia, Grade 4 student book, Bab 2, printed pp. 55–84 |
 | Comparing and ordering fractions on the number line and by numerator; mixed numbers to improper fractions | Indonesia, Grade 5 student book, Ch. 3, printed pp. 63–104 |

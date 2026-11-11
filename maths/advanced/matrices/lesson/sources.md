@@ -14,7 +14,7 @@ Every part traces to its book and page.
 
 **Book 5:** Mathématiques, 7ème AS, série C (7AS-C) — Mauritania, IPN pupil manual, 201 pp., French. Filed in maths/books/mauritania.md (D10).
 **Book 6:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
-**Book 7:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-339-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Its matched student book is now in hand (gap batch 2026-11-06) and is cited directly in this lesson; the guide remains filed as its companion.
@@ -74,6 +74,8 @@ Every part traces to its book and page.
 **Book 46:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 47:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 48:** *Mathematics, Grade 12 teacher guide (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (companion to the Grade 12 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *Mathematics, Grade 11 workbook (كتاب التمارين), science track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 science student book's Units 1–10, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathematics, Grade 11 workbook (كتاب التمارين), literary track, full year* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Workbook evidence only: its exercise sets mirror the Grade 11 literary student book's Units 1–4, and it teaches no new lesson text. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -94,6 +96,8 @@ Every part traces to its book and page.
 | Teacher-guide evidence for the Grade 12 book's matrices and determinants teaching (Part 3) | Laos, Grade 12 teacher guide, 2016 — teacher evidence (companion to the Grade 12 student book) |
 | Matrices, operations on matrices, determinants, solving a system of first-degree equations | Yemen, Grade 11 literary, Unit 3, lessons 3-1–3-4, printed pp. 49–79 |
 | Matrices, special matrices, addition, subtraction and multiplication, determinants, the matrix inverse, solving first-degree equations | Yemen, Grade 11 science Part 2, Unit 6, lessons 6-1–6-7, printed pp. 7–42 |
+| Workbook practice: matrices and determinants (Unit 6) | Yemen, Grade 11 science workbook, Unit 6, printed p. 58 (workbook evidence) |
+| Workbook practice: matrices and determinants (Unit 3) | Yemen, Grade 11 literary workbook, Unit 3, printed p. 17 (workbook evidence) |
 | Concept, types, equality, addition, subtraction, multiplication, determinant and inverse — stops at determinant and inverse (no solving linear systems by matrices as a named topic, no eigenvalues) | Indonesia, Grade 11 Tingkat Lanjut, Bab 3, printed pp. 121–174 |
 | Matrices in the Revisi edition: types including transpose, equality, addition, subtraction, scalar and matrix–matrix multiplication, determinants 2×2 and 3×3 (Sarrus and cofactor expansion), inverses 2×2 and 3×3, solving a 2-variable system through the inverse, Cramer's rule for a 3-variable system, and a matrix-cryptography project — now from the student book itself (the 2024 TL Revisi guide previously cited here is this book's matched companion) | Indonesia, Grade 11 Tingkat Lanjut Revisi 2024 student book, Bab 1, printed pp. 1–46 |
 | Équations – Inéquations – Systèmes – Matrices (the matrices part) | Mauritania, 6AS-M, Ch. 2, printed p. 17 |

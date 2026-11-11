@@ -86,7 +86,7 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 15:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
-**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
@@ -311,6 +311,8 @@ CITATION CHECK PASSED 2026-11-04).
 | Proportion as equality of two ratios, extremes and means; enlargement and reduction; scale drawing | Yemen, Grade 6 Part 2, Unit 5, lessons 5-1, 5-3–5-4, printed pp. 8, 17–23 |
 | Proportional division, including inheritance as proportional division | Yemen, Grade 6 Part 2, Unit 5, lessons 5-6–5-7, printed pp. 40–43 |
 | Ratio and proportion with Thales' theorem and similarity of triangles | Yemen, Grade 8 Part 2, Unit 6, lessons 6-2, 6-4 and 6-7–6-8, printed pp. 10, 23 and 44–51 |
+| Review: ratio | Yemen, Grade 8 Part 2, Unit 6, printed p. 7 |
+| Dividing a line segment in a given ratio | Yemen, Grade 8 Part 2, Unit 6, printed p. 17 |
 | The ratio concept, simplest form, order matters, equivalent ratios via ratio tables, unit ratio, part-to-part and part-to-whole ratios, ratios on time durations — but NO proportion equations / cross-multiplication | Indonesia, Grade 6 student book, Ch. 2, printed pp. 45–74 |
 | Ratio vs difference, equivalent ratios, scale factor, map/plan scale, unit rate, unit-price and density comparisons | Indonesia, Grade 7 Merdeka student book, Ch. 3, printed pp. 83–122 |
 | Indonesia's honest limit (stated, not forced): proportion equations and cross-multiplication are never taught — ratio is taught in full, but proportion appears only as scale factor and unit rate | Indonesia — filed in maths/books/indonesia.md |

@@ -21,7 +21,7 @@ Every part traces to its book and page.
 **Book 15:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
-**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 19:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
@@ -369,6 +369,9 @@ Every part traces to its book and page.
 | Expanded form within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lesson 1-3, printed p. 12 |
 | Place value to 999,999, expanded form | Yemen, Grade 4 Part 1, Unit 1, lessons 1:1–3:1, printed pp. 8–19 |
 | Place value to hundreds of millions, then billions | Yemen, Grade 5 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 12–17; Grade 6 Part 1, Unit 1, lesson 1-2, printed p. 12 |
+| Review: numbers within hundreds of thousands | Yemen, Grade 5 Part 1, Unit 1, printed p. 8 |
+| Review: numbers within hundreds of millions | Yemen, Grade 6 Part 1, Unit 1, printed p. 8 |
+| Reading and writing numbers within 1,000 | Yemen, Grade 2 Part 2, Unit 6, printed p. 16 |
 | Place value, tens and ones (numbers 11–20) | Indonesia, Grade 1 student book, printed pp. 145–174 |
 | Place value, tens and ones, grouping by tens | Indonesia, Grade 2 student book, printed pp. 1–36 |
 | Place value, three-digit numbers | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |

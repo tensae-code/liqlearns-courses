@@ -23,7 +23,7 @@ Every part traces to its book and page.
 **Book 17:** *Mathematics, Grade 12 student book* — Ethiopia, First Published August 2023. Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 7 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 6th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 11 Literary student book* — Iraq, Ministry of Education, General Directorate of Curricula, 14th ed., 1446H/2024. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
-**Book 20:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education (Curriculum and Guidance Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Elementary Mathematics, Class 5* — Bangladesh, NCTB. Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Mathematics, Class 8* — Bangladesh, NCTB, National Curriculum 2022 experimental version (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
