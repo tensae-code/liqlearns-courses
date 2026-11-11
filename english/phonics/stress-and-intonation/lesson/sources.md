@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece
 
 Every part traces to its book and page.
 
@@ -53,6 +53,10 @@ file).
 
 **Book 12:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | WORD STRESS taught by name: the stressed syllable is the more prominent one; a word has as many syllables as it has vowels; the ´ mark — camel, balloon, decent, opinion, ´manner — then stressed syllables underlined in twelve words | India — Honeydew, Class 8, Unit 7 ("A Visit to Cambridge"), Speaking/Writing section, as filed in english/books/india.md |
@@ -94,8 +98,10 @@ file).
 | Rising intonation | Iran, Vision 1 (Grade 10), Lesson 4, Pronunciation, printed pp.97–119 |
 | Word stress — which syllable carries the stress | Indonesia, English for Change Grade 11, Unit 1, printed p.2 |
 | Sentence stress — which words carry the stress in a sentence | Indonesia, English for Change Grade 11, printed p.98 |
+| “Acting Up!” — theatre: pronunciation stress and intonation for actors | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 5, Lesson 15, printed p.95 |
+| Workbook “Acting Up!” — practice of stress and intonation with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 5, Lesson 15, WB printed pp.53–62 |
 
-**Acceptance count: taught in 9 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia).**
+**Acceptance count: taught in 10 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the

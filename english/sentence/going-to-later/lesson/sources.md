@@ -222,6 +222,10 @@ verification sweep.
 
 **Book 74:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
 
+**Book 75:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 76:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -360,6 +364,8 @@ verification sweep.
 | “Good for you!” — be going to for future plans and intentions | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 2, printed p.115 |
 | Workbook Unit 8 (Tomorrow and … beyond!), lessons 1–3 — practice of future forms with the unit's texts | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 8 (contents PDF p.7) |
 | The Beginners teacher's guide for Unit 8 “Tomorrow and … beyond!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.99 |
+| “Change through Time” — a child's life across eras; going to and future simple | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 4, Lesson 11, printed p.71 |
+| Workbook “Change through Time” — practice of going to and future simple with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 4, Lesson 11, WB printed pp.41–52 |
 **Acceptance count: taught in 32 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India).** India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the

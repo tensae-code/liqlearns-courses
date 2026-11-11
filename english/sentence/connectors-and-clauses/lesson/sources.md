@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -96,6 +96,12 @@ verification sweep.
 **Book 19:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 20:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 21:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 22:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -126,9 +132,12 @@ verification sweep.
 | Transitions noticed: the chatty, rambling style — marking how one idea leads to the next (thematic coherence devices) | India — Flamingo (Class 12), Noticing transitions in Poets and Pancakes, printed p.66 |
 | Discourse linkers and signallers noticed: linkers joining stretches of text; signallers announcing topic shifts ("Which brings me to…", "But let me tell you…") | India — Flamingo (Class 12), Noticing discourse linkers and signallers in The Interview, printed pp.74–75 |
 | Use dependent and independent clauses | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.4, PDF p.53 (curriculum evidence) |
+| “You Are What You Eat” — food and healthy-eating words; clauses of purpose and result | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 6, Lesson 16, printed p.101 |
+| Workbook “You Are What You Eat” — practice of purpose and result clauses with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 6, Lesson 16, WB printed pp.63–72 |
+| The Advanced teacher's guide for Unit 6 “Healthy Living” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 6 |
 
-**Acceptance count: taught in 8 countries (Bolivia,
-Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India).** India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 9 countries (Bolivia,
+Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece).** Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait

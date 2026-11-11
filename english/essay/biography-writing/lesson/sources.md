@@ -133,6 +133,10 @@ verification sweep.
 
 **Book 23:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
 
+**Book 24:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 25:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -183,6 +187,8 @@ verification sweep.
 | A life read whole: "Indigo" (Louis Fischer, from The Life of Mahatma Gandhi) — Gandhi at Champaran, 1917: sharecroppers' indigo grievances, civil disobedience, the settlement that ended tinkathia (plot summary only) | India — Flamingo (Class 12), printed pp.46–55 |
 | A life read whole: "Poets and Pancakes" (Asokamitran) — the Gemini Studios make-up department, the office-boy, Subbu, the legal adviser, and the baffling visit of poet Stephen Spender (humorous account; plot summary only) | India — Flamingo (Class 12), printed pp.57–66 |
 | “Alexander the Great” — a presentation on a famous figure in history | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 7, Lesson 3, printed pp.94–96 |
+| “Famous people” — review of past simple time expressions; writing a postcard and a biography | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 5, Lesson 3, printed pp.57–60 |
+| Workbook “Famous people” — practice of postcard and biography writing with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 5, Lesson 3, WB printed pp.56–65 |
 
 **Acceptance count: taught in 10 countries (Egypt,
 Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece).** Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full

@@ -1,6 +1,6 @@
 # Sources — Modal perfects
 
-countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela
+countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece
 
 Every part traces to its book and page.
 
@@ -35,6 +35,12 @@ evidence only: the guide's plan states the lesson's
 grammar; the student poster with its examples is not
 reproduced.
 
+**Book 6:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 8:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The deduction box's past half: must have / may have / might have / can't have + past participle, at the same printed certainty values as the present ladder | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -44,9 +50,12 @@ reproduced.
 | Unit 14 "Criticising": grammar = present perfect with should ("You shouldn't have…"); picture-based "should have" writing (Ramesh in the Head Teacher's room); the shop-complaint tapescript anchor "should have kept the receipt" (p.110) — teacher's-guide evidence | Nepal, Grade 9 Teacher's Guide, Unit 14, guide pp.104–111 |
 | "might have" for conjectures in past time, inside the modal set (may/might, ought to) | Bolivia, Year 6, Theme 6 (as filed in bolivia.md) |
 | Lesson 17's plan grammar: conditional Type III, and should have / could have / might have — use and structure of modal verbs, affirmative/negative/interrogative (the Type III poster with its examples is not reproduced) — teacher's-guide evidence | Venezuela, *My Victory* Teacher's Book, Grade 11, Lesson 17, guide plan p.98, body pp.99–102; student pp.130–137 per plan |
+| “Communication” — will/won't, have to/don't have to, should/shouldn't; -ed/-ing adjectives | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 4, Lesson 1, printed pp.37–40 |
+| Workbook Unit 4 (Communication), lessons 1–3 — practice of the modal set with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, WB printed pp.45–54 |
+| The Beginners teacher's guide for Unit 4 “Communication” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.67 |
 
-**Acceptance count: taught in 5 countries (Bolivia,
-Egypt, Malaysia, Nepal, Venezuela).** Egypt prints the
+**Acceptance count: taught in 6 countries (Bolivia,
+Egypt, Malaysia, Nepal, Venezuela, Greece).** Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
 past ladder inside the same numbered box as the
 present one, and adds blame and regret to it. Nepal's
 criticism forms rest on teacher's-guide evidence and

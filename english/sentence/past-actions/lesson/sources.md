@@ -197,6 +197,16 @@ verification sweep.
 
 **Book 70:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
 
+**Book 71:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 72:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
+**Book 73:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 74:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 75:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -373,6 +383,14 @@ verification sweep.
 | Workbook “Let's communic8!” — new text: a magazine article about emoticons | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 7, Lesson 1, printed p.80 |
 | Workbook “Houston, we're back!” — new text: a quiz about our solar system | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 7, Lesson 2, printed p.85 |
 | The Beginners teacher's guide for Unit 7 “In our mind's eye!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.85 |
+| “Mysteries of our World” — archaeology mysteries text; past forms and used to | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 2, Lesson 4, printed p.27 |
+| “Across the Ages” — phrases for talking about time; historical events text | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 2, Lesson 5, printed p.33 |
+| The Advanced teacher's guide for Unit 2 “Echoes of the Past” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 2 |
+| “Making a difference” — past simple affirmative; jobs words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 2, Lesson 1, printed pp.13–16 |
+| “Same or Different” — past simple interrogative forms; words for expressing attitudes | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 2, Lesson 2, printed pp.17–20 |
+| “A show” — past simple questions with where/what; film and theatre words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 2, Lesson 3, printed pp.21–24 |
+| Workbook Unit 2 (Making a difference), lessons 1–3 — practice of the past forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 2, WB printed pp.21–32 |
+| The Beginners teacher's guide for Unit 2 “Making a difference” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.29 |
 **Acceptance count: taught in 33 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India).** India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the

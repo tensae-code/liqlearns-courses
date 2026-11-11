@@ -88,6 +88,10 @@ verification sweep.
 
 **Book 21:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 22:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 23:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather outcomes: name weather conditions; describe weather with adjectives; express temperature (hot, cold, warm, cool, high, low, freeze, degrees); ask/answer weather questions | Albania, Akelius A2 Guide, Chapter 32 "The weather," overview, printed p.16 (PDF 19) |
@@ -123,6 +127,8 @@ verification sweep.
 | Weather and seasons strand: weather flashcards (snowy, cloudy, windy, sunny), draw-the-weather house sheets, a weather-to-clothes matching sheet; a four-seasons picture card, season flashcards and a friendly-snowman cut-out set | Greece, Beta English Grade 2 Workpack, weather and seasons sets (B14, Γ08), PDF pp.71–76, 108–110 |
 | “What's the weather like?” — weather words; present simple for seasonal activities | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 4, Lesson 2, printed pp.50–53 |
 | “Weather around the world” (project) — weather, climate and a seasons poem | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 4, Lesson 3, printed pp.54–56 |
+| “A World Without End” — weather around the world; future forms revision | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 8, Lesson 24, printed p.147 |
+| Workbook “A World Without End” — practice on world weather with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 8, Lesson 24, WB printed pp.83–92 |
 
 **Acceptance count: taught in 11 countries (Albania, Bolivia,
 Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece).** Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —

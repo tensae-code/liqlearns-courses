@@ -42,6 +42,10 @@ verification sweep.
 
 **Book 10:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
 
+**Book 11:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Typical clothes of the regions (Altiplano colourful for cold; valleys/oriental white for hot), clothes and colours taught together; production: a wallpaper of typical clothes of your region; closing model text "Typical clothes from my region" (the tipoy dress) | Bolivia, Year 1 (Grade 7), Topic 6 "Typical clothes," student p.173 |
@@ -60,6 +64,9 @@ verification sweep.
 | Clothes words matched to pictures (shirt, socks, cap, trousers, belt, shoes), in the bath poem's unit | India — Marigold (Class 1), Unit 2 word work, printed pp.16–28 |
 | Clothes: a two-panel spot-and-match sheet of clothing items (trousers, socks, trainers, T-shirt, shirt and tie, hat, dress, hooded jacket) | Greece, Beta English Grade 2 Workpack, clothes set (Γ06), PDF p.100 |
 | Workbook “TEEN Voice!” — new text: a webpage about fashion; writing descriptions of people's appearance | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 6, Lesson 2, printed p.70 |
+| “Clothes and communication” — review of present simple and modal verbs; clothes and fashion words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 4, Lesson 3, printed pp.45–48 |
+| “Byzantine and Present” — revision of tenses; designing clothes | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 9, Lesson 3, printed pp.105–108 |
+| Workbook “Clothes and communication” — practice on clothes and fashion words with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, Lesson 3, WB printed pp.45–54 |
 
 **Acceptance count: taught in 6 countries (Bolivia, Cambodia,
 Mongolia, China, India, Greece).** Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional

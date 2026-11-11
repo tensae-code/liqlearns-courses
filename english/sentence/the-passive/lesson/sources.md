@@ -163,6 +163,14 @@ verification sweep.
 
 **Book 68:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
 
+**Book 69:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 70:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 71:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 72:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -295,6 +303,12 @@ verification sweep.
 | “Crack the code!” — simple past passive; Braille code and disabilities words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 8, Lesson 2, printed p.123 |
 | Workbook Unit 8 (In the papers!), lessons 1–3 — practice of the passive with the unit's texts | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 8 (contents PDF p.7) |
 | The Advanced teacher's guide for Unit 8 “In the papers!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), contents PDF p.6 |
+| “Friends Without Frontiers” — making friends worldwide; present and past passive | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 7, Lesson 21, printed p.133 |
+| “A Plastic World” — passive voice; describing materials: made of, used for; raw materials | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 10, Lesson 1, printed pp.109–112 |
+| “Silk” — passive voice question form; materials words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 10, Lesson 2, printed pp.113–116 |
+| “Ancient constructions” — passive with agent (by…); kinds of buildings and musical instruments | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 10, Lesson 3, printed pp.117–120 |
+| Workbook Unit 10 (A material world), lessons 1–3 — practice of the passive with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 10, WB printed pp.109–120 |
+| The Beginners teacher's guide for Unit 10 “A material world” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.187 |
 
 
 **Acceptance count: taught in 31 countries (Egypt,

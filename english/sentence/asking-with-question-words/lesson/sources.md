@@ -184,6 +184,14 @@ verification sweep.
 **Book 65:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 66:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 67:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 68:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 69:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -326,6 +334,10 @@ verification sweep.
 | Asking And Answering Questions — Ask and answer questions for clarifications about given topics | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.8.1, PDF p.98 (curriculum evidence) |
 | Asking And Answering Questions — Use appropriate pronunciation and intonation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.8.1, PDF p.35 (curriculum evidence) |
 | Asking And Answering Questions — Answer “Yes” or “No” questions correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.8.1, PDF p.186 (curriculum evidence) |
+| “What an Experience!” — holidays and travel experiences; question forms | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 3, Lesson 8, printed p.53 |
+| Workbook “What an Experience!” — practice of question forms with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 8, WB printed pp.29–40 |
+| “Save the tribes” — question forms in the present tenses; collocations | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 3, printed pp.9–12 |
+| Workbook “Save the tribes” — practice of present-tense question forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 3, WB printed pp.5–19 |
 **Acceptance count: taught in 35 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India).** India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer

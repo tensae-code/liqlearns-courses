@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -122,6 +122,10 @@ verification sweep.
 **Book 21:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 22:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 23:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -150,10 +154,12 @@ verification sweep.
 | Reported suggestions taught beside the statements: reporting verbs suggested, proposed, recommended + that…, -ing or to-infinitive (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 16 "Fake News and Post-Truth", printed p. 142 |
 | Reported speech as named work: what comic-book characters say in speech bubbles must be put into reported speech to repeat it | India — Honeycomb (Class 7), Working with Language in Gopal and the Hilsa Fish, printed p.42 |
 | Direct And Reported Speech — Form and use reported speech appropriately | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.13.1, PDF p.219 (curriculum evidence) |
+| “…Let the Games Begin!” — Olympic Games text; reported speech | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 3, Lesson 9, printed p.59 |
+| Workbook “…Let the Games Begin!” — practice of reported speech with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 9, WB printed pp.29–40 |
 
-**Acceptance count: taught in 12 countries (Armenia,
+**Acceptance count: taught in 13 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
-Nepal, Sudan, Indonesia, Mexico, India).** India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
+Nepal, Sudan, Indonesia, Mexico, India, Greece).** Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade

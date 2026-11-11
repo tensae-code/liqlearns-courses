@@ -153,6 +153,8 @@ re-verification sweep.
 
 **Book 56:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
 
+**Book 57:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -259,6 +261,7 @@ re-verification sweep.
 | “Let's talk about Greece” (project) — presenting places in Greece | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 3, Lesson 3, printed pp.42–44 |
 | “The place we live in” — places, services, occupations and transport words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 1, printed pp.38–41 |
 | “Talking about a city in Greece” — writing a guidebook text about a city | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 3, printed pp.45–48 |
+| Workbook “Different Places – Different Buildings” — practice on types of buildings across cultures with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 3, WB printed pp.5–16 |
 **Acceptance count: taught in 32 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India).** India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's

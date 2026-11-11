@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -107,6 +107,10 @@ verification sweep.
 **Book 18:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
 
 
+**Book 19:** Greece Think Teen! Grade 8 Advanced Glossary (Γλωσσάριο, printable form): glossary — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Glossary section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Per-unit word lists with definition, example, synonym, antonym, derived forms and Greek translation.
+
+**Book 20:** Greece Think Teen! Grade 8 Beginners Glossary (Γλωσσάριο, printable form): glossary — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Glossary section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Per-unit word lists with definition, example, synonym, antonym, derived forms and Greek translation.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -139,9 +143,11 @@ verification sweep.
 | Common words worked in the Notes: different uses of "tell" and "take"; words for ways of walking; semantically related word groups (dictionary enrichment) — cited from the book's Notes | India — Hornbill (Class 11), Working with words in The Portrait of a Lady, printed p.10 (Notes) |
 | Words worked in About the Unit: synonyms chosen to reflect personal attitudes | India — Flamingo (Class 12), Working with words in The Rattrap, printed p.45 (About the Unit) |
 | Homophones II | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.42 (teacher evidence) |
+| The whole Advanced glossary: unit-by-unit vocabulary with definitions, examples, synonyms, antonyms, derived forms and Greek translations (apparatus) | Greece, Think Teen! Grade 8 Advanced Glossary, PDF pp.3–135 |
+| The whole Beginners glossary: unit-by-unit vocabulary with definitions, examples, synonyms, antonyms, derived forms and Greek translations (apparatus) | Greece, Think Teen! Grade 8 Beginners Glossary, PDF pp.3–79 |
 
-**Acceptance count: taught in 9 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India).** India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 10 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded

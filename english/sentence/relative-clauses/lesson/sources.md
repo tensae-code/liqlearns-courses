@@ -132,6 +132,16 @@ re-verification sweep.
 
 **Book 26:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
 
+**Book 27:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 28:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 29:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
+**Book 30:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 31:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -165,6 +175,13 @@ re-verification sweep.
 | Workbook “Fancy ancient history?” — new text: an article about the Indus civilisation | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 5, Lesson 1, printed p.62 |
 | Workbook “A nation in brief!” — new text: a webpage about superstitions around the world | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 5, Lesson 2, printed p.67 |
 | The Advanced teacher's guide for Unit 5 “Times change!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.61 |
+| “Change: An Ongoing Process” — technology changing how we learn; relative clauses | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 4, Lesson 12, printed p.77 |
+| Workbook “Change: An Ongoing Process” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 4, Lesson 12, WB printed pp.41–52 |
+| The Advanced teacher's guide for Unit 4 “Let's Change Our Schools” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 4 |
+| “Gadgets” — relative clauses; computer words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 3, Lesson 2, printed pp.29–32 |
+| “Signs and travel” — relative clauses who/which/where/when/how; travel idioms | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 8, Lesson 2, printed pp.89–92 |
+| Workbook “Gadgets” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 3, Lesson 2, WB printed pp.33–44 |
+| Workbook “Signs and travel” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, Lesson 2, WB printed pp.87–97 |
 
 **Acceptance count: taught in 16 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,

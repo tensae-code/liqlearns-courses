@@ -100,6 +100,10 @@ verification sweep.
 
 **Book 19:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 20:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 21:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -127,6 +131,8 @@ verification sweep.
 | To-infinitives after verbs (determined to live, managed to conceal) — sentences completed with to-verbs | India — Beehive (Class 9), Thinking about Language in The Sound of Music, printed p.24 |
 | “A nation in brief!” — comparing and contrasting; the gerund; education and numbers words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 5, Lesson 2, printed p.70 |
 | “Greetings from Australia!” — likes and dislikes: like/love/enjoy/hate + -ing | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 3, Lesson 2, printed p.31 |
+| “Way of Life” — infinitive of purpose ('to' for purpose); items used by tribes | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 2, printed pp.5–8 |
+| Workbook “Way of Life” — practice of the infinitive of purpose with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 2, WB printed pp.5–19 |
 
 **Acceptance count: taught in 13 countries (Cambodia,
 Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia

@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece
 
 Every part traces to its book and page.
 
@@ -41,6 +41,10 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 11:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 4, Unit 6 "Hundreds": money enters — cost and Riel prices ("An orange costs 900 Riels"), "How much does an orange cost?", dozen, a restaurant-buying reading | Cambodia, ENGLISH Grade 5, Chapter 4, Unit 6, printed pp.86–89 |
@@ -55,9 +59,11 @@ covers the 6th Year book only).
 | Personal money-management vocabulary, in the money unit | Indonesia, English for Change Grade 11, Unit 5, printed p.183 |
 | A unit on the future method of payment — payment and digital-money themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide (no student book held), Unit 4, printed p.147 — teacher-guide evidence only |
 | At the market: ordering goods, how much/how many, countable and uncountable nouns, some/any, asking and giving prices | Mauritania, Study English, Grade 8, printed pp.34–36 |
+| “It's a Small World After All” — world customs; currency words | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 8, Lesson 23, printed p.143 |
+| Workbook “It's a Small World After All” — practice on customs and currency words with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 8, Lesson 23, WB printed pp.83–92 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Uzbekistan, Sudan, China, Indonesia, Mauritania).** Cambodia carries the asking — the
+**Acceptance count: taught in 7 countries (Cambodia,
+Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece).** Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions

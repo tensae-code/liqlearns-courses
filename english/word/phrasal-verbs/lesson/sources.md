@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece
 
 Every part traces to its book and page.
 
@@ -73,6 +73,12 @@ India, NCERT, 2020-21 printing (chapter footers stamped
 CITATION CHECK PASSED 2026-10-26); re-read page by page in
 the 2026-11-08 re-verification sweep.
 
+**Book 18:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 19:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 20:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phrasal verbs (1): the verb + particle idea, with the Remember box (go out, pass down, cut down on, run out of) and look around, come back, hand down, find out, take care of, get on with | Vietnam, Tiếng Anh 9, Unit 1, printed pp.8–17 |
@@ -100,9 +106,14 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs with "break" matched to meanings — broke out, broke off, broke down, broke away, broke up, broke into | India — Beehive (Class 9), Thinking about Language in Kathmandu, printed p.130 |
 | Phrases with "fly" matched to meanings (fly a flag, fly into a rage, fly high, fly the coop); words meaning the same as fly (swoop, flit, flutter, glide, soar…) | India — First Flight (Class 10), Language in Two Stories about Flying, printed p.41 |
 | Language work in the Notes: "ship" terms as homonyms; compound words with "-ship"; phrasal verbs; English words derived from Indian languages — cited from the book's Notes | India — Hornbill (Class 11), Language work in We're Not Afraid to Die, printed p.21 (Notes) |
+| “Get on Board!” — sports words; phrasal verb 'break' | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 3, Lesson 7, printed p.47 |
+| “Looking at Other Schools” — schools in other countries; phrasal verb 'turn' | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 4, Lesson 10, printed p.65 |
+| Workbook Unit 3 (Time out), lessons 7–9 — practice of the unit's phrasal verbs with the workbook's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, WB printed pp.29–40 |
+| Workbook “Looking at Other Schools” — practice of phrasal verb 'turn' with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 4, Lesson 10, WB printed pp.41–52 |
+| The Advanced teacher's guide for Unit 3 “Time Out” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 3 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Cambodia, Mongolia, Sudan, Vietnam, Iran, India).** India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 8 countries (Bolivia,
+Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece).** Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and

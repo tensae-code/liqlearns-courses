@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -70,6 +70,12 @@ covers the 6th Year book only).
 **Book 14:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 15:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 17:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-tags box in EIGHT RULES: positive → negative tag; negative → positive; same auxiliary; no auxiliary → do/does/did; "I am" → "aren't I"; everyone → singular verb but plural pronoun ("Everyone knows the answer, don't they?"); Let's → "shall we?"; imperatives → "will you? / won't you?" — filed as the fullest tag statement of Egypt's run | Egypt, Secondary 12 Term 2, Unit 12, Lesson 3 "School Life" (Language in Context) |
@@ -92,10 +98,13 @@ covers the 6th Year book only).
 | Asking And Answering Questions — Use positive tags, negative tags | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.8.2, PDF p.186 (curriculum evidence) |
 | Use question tags accurately | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.7, PDF p.56 (curriculum evidence) |
 | Demonstrate command of question tags | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.6, PDF p.89 (curriculum evidence) |
+| “Getting around” — question tags; transport words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 8, Lesson 1, printed pp.85–88 |
+| Workbook Unit 8 (Getting around), lessons 1–3 — practice of question tags with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, WB printed pp.87–97 |
+| The Beginners teacher's guide for Unit 8 “Getting around” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.147 |
 
-**Acceptance count: taught in 9 countries (Egypt,
+**Acceptance count: taught in 10 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
-Venezuela, Bolivia, Iran).** Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+Venezuela, Bolivia, Iran, Greece).** Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the

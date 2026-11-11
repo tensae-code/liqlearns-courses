@@ -1,6 +1,6 @@
 # Sources — British and American English
 
-countries: Nepal, Vietnam, China, Mexico
+countries: Nepal, Vietnam, China, Mexico, Greece
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 5:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Jack from New York visits the class: American 'pants' = British 'trousers'; a quiz matching British and American words (flat/apartment, holiday/vacation, jumper/sweater, chips/French fries, football/soccer) | Vietnam, Tiếng Anh 9, Unit 9 'World Englishes', printed pp.92–101 |
@@ -30,5 +32,6 @@ differ only in cover wording and colophon; cited once.
 | The mixture live in a book's own list: '50 Meters Race' (American spelling) beside '100 Metres Race' in the same Sports Day list | Nepal, English Grade 8, printed p.80 (as filed, slips section) |
 | One British/American pair worked inside the seasons unit: autumn (British) and fall (American), named as such | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.19 |
 | A listening on where English comes from: English as a product of multiple influences from other languages | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 136 |
+| The Advanced teacher's guide for Unit 1 “Unity in Diversity” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), contents, printed p.1 (unit start) |
 
-**Acceptance count: taught in 4 countries (Nepal, Vietnam, China, Mexico).** Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Nepal, Vietnam, China, Mexico, Greece).** Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).

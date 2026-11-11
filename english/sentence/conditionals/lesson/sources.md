@@ -162,6 +162,16 @@ verification sweep.
 
 **Book 68:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 69:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 70:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
+**Book 71:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 72:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 73:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 2 (p.79, as filed in libya.md) |
@@ -312,6 +322,15 @@ verification sweep.
 | If-clauses as named work: notice sentences beginning with "if" (present tense + will), and rewrite pairs of sentences as one sentence beginning with If | India — Honeycomb (Class 7), Working with Language in A Gift of Chappals, printed p.30 |
 | UNLESS = if not as a named point: negative conditionals for the present and the future ("Unless you work harder you will fail"), learners predict endings | India — Beehive (Class 9), Thinking about Language in The Fun They Had, Unit 1 |
 | “Let's go green!” — must/mustn't for obligation and prohibition; if-sentences (if + present → can/imperative); recycling and green issues | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 4, Lesson 3, printed p.50 |
+| “Going 'Green'” — ecological issues; phrasal verb 'put'; Type 2 conditionals | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 6, Lesson 18, printed p.113 |
+| “Breaking the Boundaries” — travel, greetings and manners in other countries; 'unless' | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 8, Lesson 22, printed p.139 |
+| Workbook “Going 'Green'” — practice of Type 2 conditionals with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 6, Lesson 18, WB printed pp.63–72 |
+| Workbook “Breaking the Boundaries” — practice of 'unless' with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 8, Lesson 22, WB printed pp.83–92 |
+| The Advanced teacher's guide for Unit 8 “Welcome to the World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 8 |
+| “Eco-art” — 'unless'; binomial nouns (pairs of words joined by 'and') | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 6, Lesson 2, printed pp.65–68 |
+| “Recycling as art” — first conditional forms; eco-art words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 6, Lesson 3, printed pp.69–72 |
+| Workbook Unit 6 (What a waste!), lessons 1–3 — practice of the first conditional and 'unless' with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 6, WB printed pp.66–74 |
+| The Beginners teacher's guide for Unit 6 “What a waste!” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.107 |
 
 **Acceptance count: taught in 31 countries (Egypt,
 Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at

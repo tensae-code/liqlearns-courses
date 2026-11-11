@@ -28,6 +28,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 9:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Form-filling from a guest's answers — the registration form's fields (name, nationality, address, passport number, dates, room, arrival, nights, departure) and the receptionist's questions that fill it | Greece, the hotel registration-form unit (as filed in english/books/greece.md) |
@@ -39,5 +43,7 @@ verification sweep.
 | A real form to fill in — the camp form: which job you want to do, parents' jobs, where they work, phone number, parent's signature | China — English (PEP) Grade 6 Volume 1, Unit 5, printed p.53 |
 | A NOTICE taught by its four questions (who is to meet / when / where / what are they to do — Sheela's notice for the Annual Day play), then the pupil writes a notice | India — Marigold Book Five (Class 5), Unit 6 writing |
 | A notice written for a school bulletin board (announcement / requirement / rule) | India — Flamingo (Class 12), Writing after The Last Lesson, printed p.11 |
+| “Bikes for the world” — revision of comparative/superlative; writing a questionnaire | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 8, Lesson 3, printed pp.93–96 |
+| Workbook “Bikes for the world” — practice of questionnaire writing with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, Lesson 3, WB printed pp.87–97 |
 
 **Acceptance count: taught in 6 countries (Albania, Ghana, Greece, South Africa, China, India).** India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep).

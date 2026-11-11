@@ -1,6 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece
 
 Every part traces to its book and page.
 
@@ -64,6 +64,12 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 11:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported WH- QUESTIONS with their own backshift chart, inside the Nasreddin tale lesson | Mauritania, Study English Grade 12, Unit Five, Lesson 12, pp.37–39 |
@@ -77,9 +83,12 @@ verification sweep.
 | Object clauses with that, if and whether (Unit 2) and object clauses with wh- questions inside polite requests (Unit 3 — "Could you please tell me how to get to the post office?"; "I wonder where we should go next"), gathered in the Grammar reference; the filing's honest negative: reported speech is never taught as a structure in this book — cited here as object clauses, not as reporting | China, English Grade 9, Unit 2, pp.9–16; Unit 3, pp.17–24 (Grammar Focus p.20); Grammar reference, pp.151–152 |
 | Reported questions, in the time-travel chapter's "Back to the 90s" unit | Indonesia, English for Nusantara Grade 9, Chapter 3, Unit 2, printed p.167 (the sweep confirmed the work sits in Unit 2, not Unit 3 as an earlier filing line put it — 2026-11-08 re-verification sweep, flag 5; stocked 2026-11-09 by the re-verification sweep merge) |
 | A named language point in the teacher notes: reporting questions — yes/no questions reported with if/whether, wh-questions, the reporting verb, pronoun changes and sequence of tenses — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
+| “Against the Odds” — people who overcame adversity; reported questions | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 7, Lesson 19, printed p.121 |
+| Workbook “Against the Odds” — practice of reported questions with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 7, Lesson 19, WB printed pp.73–82 |
+| The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
 
-**Acceptance count: taught in 9 countries (Cambodia,
-China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India).** India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Cambodia,
+China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece).** Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.

@@ -158,6 +158,16 @@ verification sweep.
 
 **Book 47:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, with tapescripts and keys.
 
+**Book 48:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 49:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 50:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 51:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 52:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -272,6 +282,12 @@ verification sweep.
 | “Going for the Gold” — expressing experience and achievement; a personal-record poster | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 7, Lesson 3, contents p.ix |
 | Workbook Unit 6 (contents title: “Volunteers wanted!” — the student book's “Teens in action!”), lessons 1–3 — practice of the present perfect with the unit's texts | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 6 (contents PDF p.7) |
 | The Advanced teacher's guide for Unit 6 “Teens in action!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.82 |
+| “The 'Greenest' Way to School” — environment and transport to school; present perfect vs past simple | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 6, Lesson 17, printed p.107 |
+| Workbook “The 'Greenest' Way to School” — practice of present perfect vs past simple with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 6, Lesson 17, WB printed pp.63–72 |
+| “Everyday experiences” — present perfect tense; museum and artifact words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 5, Lesson 1, printed pp.49–52 |
+| “A Change” — present perfect vs past simple, with 'ago'; places and sights in London | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 5, Lesson 2, printed pp.53–56 |
+| Workbook Unit 5 (Change and experience), lessons 1–3 — practice of the present perfect with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 5, WB printed pp.56–65 |
+| The Beginners teacher's guide for Unit 5 “Change and experience” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.87 |
 
 
 **Acceptance count: taught in 28 countries (Egypt,

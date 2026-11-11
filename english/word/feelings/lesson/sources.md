@@ -48,6 +48,14 @@ re-verification sweep.
 
 **Book 11:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
 
+**Book 12:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 14:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The feelings vocabulary list of 17: bored, cold, hot, confused, disappointed, tired, hungry, thirsty, surprised, nervous, happy, sad, upset, excited, afraid, brave, amused — carried under a hobbies-and-abilities heading after "knowing my town" and the and/but connectors | Bolivia, Year 2 (Grade 8), Topic 7 "Feelings and emotions," §2.3, student p.178 |
@@ -67,6 +75,10 @@ re-verification sweep.
 | Carnival costume photographs and feelings emoji cards | Greece, Beta English Grade 2 Workpack, carnival and feelings set (B04), PDF pp.177–180 |
 | The Friendly Ghost: two big friendly ghosts to colour and six ghost faces with different expressions — a story/song lesson whose words live in the audio | Greece, Beta English Grade 2 Workpack, Friendly Ghost set (B11), PDF pp.57–58 |
 | “School life and feelings” — talking about school life; expressing feelings | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 2, Lesson 1, printed pp.26–29 |
+| “Seeing Through a Friend's Eyes” — friendship; the senses words; phrasal verb 'look' | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 7, Lesson 20, printed p.127 |
+| Workbook “Seeing Through a Friend's Eyes” — practice on the senses words with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 7, Lesson 20, WB printed pp.73–82 |
+| “Expressing Attitude” — will/won't and should for opinions; words for gestures and dreams | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 4, Lesson 2, printed pp.41–44 |
+| Workbook “Expressing Attitude” — practice of opinion forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, Lesson 2, WB printed pp.45–54 |
 
 **Acceptance count: taught in 8 countries (Albania, Bolivia,
 Mexico, Mongolia, China, Indonesia, India, Greece).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single

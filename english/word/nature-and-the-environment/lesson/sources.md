@@ -104,6 +104,10 @@ the 2026-11-08 re-verification sweep.
 
 **Book 24:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
 
+**Book 25:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 26:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -147,6 +151,8 @@ the 2026-11-08 re-verification sweep.
 | An environment text read whole: "The Ailing Planet: the Green Movement's Role" (Nani Palkhivala) — the Green Movement, the earth as a living organism, population and the four biological systems, sustainable development (topic summary only) | India — Hornbill (Class 11), printed p.43 |
 | “The United Kingdom” — reading a guidebook text about a country; geography and landforms words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 1, Lesson 3, printed pp.22–24 |
 | “My work can make a difference” — environmental problems and campaigns; a friendly letter about environmental work | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 5, Lesson 3, printed pp.70–72 |
+| “Save the turtle” — review of tenses and modals; environment words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 7, Lesson 3, printed pp.81–84 |
+| Workbook “Save the turtle” — practice on environment words with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 7, Lesson 3, WB printed pp.76–86 |
 
 **Acceptance count: taught in 11 countries (Albania, Mexico,
 Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and

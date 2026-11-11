@@ -220,6 +220,12 @@ verification sweep.
 
 **Book 78:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
 
+**Book 79:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 80:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
+
+**Book 81:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -419,6 +425,9 @@ verification sweep.
 | Workbook Unit 5 (Teens in action!), lessons 1–3 — practice of the present continuous with the unit's texts | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 5 (contents PDF pp.6–7) |
 | The Beginners teacher's guide for Unit 3 “Day in Day out!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.25 |
 | The Beginners teacher's guide for Unit 5 “Teens in action!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.55 |
+| “Tribes of the forest” — present simple and present continuous; -ed/-ing adjectives; tribal life words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 1, printed pp.1–4 |
+| Workbook Unit 1 (I'm only human), lessons 1–3 — practice of the present tenses, including the unit's new texts about the Bushman, Aborigine, Zulu and Kayapo peoples | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, WB printed pp.5–19 |
+| The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
 **Acceptance count: taught in 37 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India).** India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside

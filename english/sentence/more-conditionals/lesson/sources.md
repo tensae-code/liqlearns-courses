@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece
 
 Every part traces to its book and page.
 
@@ -54,6 +54,10 @@ India, NCERT, 2020-21 printing (chapter footers stamped
 CITATION CHECK PASSED 2026-10-26); re-read page by page in
 the 2026-11-08 re-verification sweep.
 
+**Book 12:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -69,10 +73,12 @@ the 2026-11-08 re-verification sweep.
 | If and unless — the compendium's if/unless table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
 | The unreal (second) conditional: if + simple past, would/could + verb; if I were you (one dialogue line in the book, printed p.55, breaks off with no result clause — defective as printed) | Mauritania, Study English, Grade 11, printed pp.55–57 |
 | Language work in the Notes: idiomatic expressions; respectively vs respectfully (frequently misused forms); conditional sentences for unreal and hypothetical conditions — cited from the book's Notes | India — Hornbill (Class 11), Language work in The Adventure, printed p.73 (Notes) |
+| “I wish I were…” — second conditional; adjectives describing character | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 9, Lesson 1, printed pp.97–100 |
+| The Beginners teacher's guide for Unit 9 “Keeping up appearances” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.167 |
 
-**Acceptance count: taught in 10 countries (Armenia,
+**Acceptance count: taught in 11 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria, Bolivia, Mauritania, India).** India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Syria, Bolivia, Mauritania, India, Greece).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its

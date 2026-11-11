@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -52,6 +52,12 @@ verification sweep.
 **Book 12:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
+
+**Book 15:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 'The Many Kinds of Literature': the five kinds — novels, poetry, drama, folktales, essays — taken one by one; literature collocations (express ideas, argue a point, think deeply) | Egypt, Secondary 11 Term 1, Unit 11, Lesson 1 (as filed in EGYPT-BOOK-MAP.md) |
@@ -74,8 +80,12 @@ verification sweep.
 | Words worked in About the Unit: metaphorical expressions | India — Flamingo (Class 12), Working with words in Going Places, printed p.88 (About the Unit) |
 | Demonstrate understanding of oral literature | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 5 (Literature), standard B7.5.1.1, PDF p.71 (curriculum evidence) |
 | Identify the main text features of non-fiction texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 2 (Reading), standard B8.2.1.2, PDF p.81 (curriculum evidence) |
+| “Quite an Art!” — types of art and artists' language | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 5, Lesson 13, printed p.83 |
+| “It's Music to my Ears” — music, instruments and musicians' words | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 5, Lesson 14, printed p.89 |
+| Workbook Unit 5 (The arts!), lessons 13–15 — practice of the arts words with the workbook's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 5, WB printed pp.53–62 |
+| The Advanced teacher's guide for Unit 5 “The Arts!” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 5 |
 
-**Acceptance count: taught in 9 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India).** India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 10 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge).
