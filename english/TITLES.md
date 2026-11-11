@@ -372,6 +372,8 @@ its own subtitle folder with its own lesson + questions):
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**) · the-writing-process
   (added 2026-11-11 by the Samoa expansion merge —
+  **Unit 16, The Essay**) · citing-sources-and-bibliography
+  (added 2026-11-11 by the Andorra expansion merge —
   **Unit 16, The Essay**) · making-a-short-documentary-film
   (added 2026-11-11 by the Canada expansion merge —
   **Unit 38, Speeches and Shows**) · the-photo-essay (added
@@ -429,11 +431,15 @@ play-scripts · radio-and-tv-programme-scripts (added
 2026-11-11 by the Kazakhstan re-verification sweep merge —
 **Unit 39, Essays and Shortening**) · note-making · summarising ·
 diary-and-journal · biography-writing ·
-postcards-and-personal-letters · Story → story-techniques ·
+postcards-and-personal-letters · writing-an-email (added
+2026-11-11 by the Andorra expansion merge — **Unit 34,
+Letters That Work**) · Story → story-techniques ·
 poetry-writing · Paragraph → reading-between-the-lines ·
 checking-facts-online (added 2026-11-09 by the Indonesia
 re-verification sweep merge — **Unit 42, Reading Like a
-Detective**) · ways-to-read · exam-technique · translating-well ·
+Detective**) · ways-to-read · reading-hypertexts (added
+2026-11-11 by the Andorra expansion merge — **Unit 42,
+Reading Like a Detective**) · exam-technique · translating-well ·
 other-ways-to-communicate · making-decisions ·
 problem-solving-strategies-and-games (added 2026-11-11 by the
 Uruguay expansion merge — **Unit 42, Reading Like a

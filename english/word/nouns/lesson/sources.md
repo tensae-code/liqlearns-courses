@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra
 
 Every part traces to its book and page.
 
@@ -1033,3 +1033,17 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Andorra added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs — **2 teacher programmes, 0 student books**: the *Programa de llengua anglesa de segona ensenyança de l'Escola Andorrana* (Decret 361/2023, BOPA Núm. 91, 19 July 2023; 76 BOPA pages) and the *Programa de comunicació en llengua anglesa del batxillerat general de l'Escola Andorrana* (Decret del 20-3-2019, BOPA Núm. 29, 27 March 2019; 40 BOPA pages) — the Escola Andorrana's official English curriculum programmes, decreed in Catalan — 70 teaching items placed. Both programmes were read from the BOPA originals the records name (the GitHub contents route failed on both files — connection closed / empty reply, tried twice by two clients — declared in the placements): the Batxillerat file matches its staging record byte-exactly (890,148 bytes, 40 pages; SHA-256 9f8a16cff149e7890b2e185318855a9ebca98653cb97610dc9eece20b5990c61), and the Segona file (28,016,485 bytes, 76 pages; SHA-256 139b15162d27739df0defc55cf3dc1e7968e1d5b00dc0a8737e9d36734293a07) is identity-verified by the Decret 361/2023 header on its PDF p.1, no record carrying a byte size for it. Every Andorra item in this section is TEACHER EVIDENCE of what Andorra's English programmes teach: Andorra has no student English book in hand, and no row below is pupil-book evidence; a teacher programme never substitutes for a pupil's book. Read depth, as the placements declare it: the Segona programme's five Recursos blocs (BOPA pp.34–63) were read page by page in full; its competence chapters, didactic orientations and synthesis tables were read structurally and excluded as apparatus restating the blocs. The Batxillerat programme's three competence chapters and the three Recursos bloc openings were read; its criteria, expectations and synthesis tables were read structurally and excluded as apparatus; some of its body pages extract with a substituted-glyph text layer, decoded via the consistent substitution and cross-checked against the same pages' clean-font headings and lists. The rows below are stocked from the expansion placements (andorra-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Programa de llengua anglesa de segona ensenyança de l'Escola Andorrana* (TEACHER EVIDENCE ONLY: a curriculum programme decreed by the Govern d'Andorra, in Catalan, cited for what it teaches, never as a pupil's book) — Andorra, Govern d'Andorra, Decret 361/2023 (BOPA Núm. 91, 19 July 2023), 76 pp, for Segona ensenyança years 1–4 (two cycles). Pages cited are the BOPA printed pages (shown on every page as N/76; the PDF page number is the same number).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word classes: the programme's named set — determiner, noun, adjective, pronoun, verb, preposition and adverb (the adjective, pronoun, verb and adverb parts of the same item are stocked in adjectives, pronouns, verbs and adverbs) | Andorra — Segona ensenyança English programme (Decret 361/2023, BOPA 2023) — teacher evidence, printed p.59 |
+
+Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.

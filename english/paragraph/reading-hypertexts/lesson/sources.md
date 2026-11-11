@@ -1,0 +1,24 @@
+# Sources — Reading Hypertexts and Digital Navigation
+
+countries: Andorra
+
+Every part traces to its book and page.
+
+**Acceptance count: taught in 0 countries** (founded on teacher evidence only: Andorra's in-hand English set is two teacher curriculum programmes, and this lesson is founded on the hypertext-navigation item the Batxillerat Communication in English programme places; Andorra is named as the evidence source, not counted as a country teaching it from a pupil's book — the-colon pattern).
+
+## Andorra added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs — **2 teacher programmes, 0 student books**: the *Programa de llengua anglesa de segona ensenyança de l'Escola Andorrana* (Decret 361/2023, BOPA Núm. 91, 19 July 2023; 76 BOPA pages) and the *Programa de comunicació en llengua anglesa del batxillerat general de l'Escola Andorrana* (Decret del 20-3-2019, BOPA Núm. 29, 27 March 2019; 40 BOPA pages) — the Escola Andorrana's official English curriculum programmes, decreed in Catalan — 70 teaching items placed. Both programmes were read from the BOPA originals the records name (the GitHub contents route failed on both files — connection closed / empty reply, tried twice by two clients — declared in the placements): the Batxillerat file matches its staging record byte-exactly (890,148 bytes, 40 pages; SHA-256 9f8a16cff149e7890b2e185318855a9ebca98653cb97610dc9eece20b5990c61), and the Segona file (28,016,485 bytes, 76 pages; SHA-256 139b15162d27739df0defc55cf3dc1e7968e1d5b00dc0a8737e9d36734293a07) is identity-verified by the Decret 361/2023 header on its PDF p.1, no record carrying a byte size for it. Every Andorra item in this section is TEACHER EVIDENCE of what Andorra's English programmes teach: Andorra has no student English book in hand, and no row below is pupil-book evidence; a teacher programme never substitutes for a pupil's book. Read depth, as the placements declare it: the Segona programme's five Recursos blocs (BOPA pp.34–63) were read page by page in full; its competence chapters, didactic orientations and synthesis tables were read structurally and excluded as apparatus restating the blocs. The Batxillerat programme's three competence chapters and the three Recursos bloc openings were read; its criteria, expectations and synthesis tables were read structurally and excluded as apparatus; some of its body pages extract with a substituted-glyph text layer, decoded via the consistent substitution and cross-checked against the same pages' clean-font headings and lists. The rows below are stocked from the expansion placements (andorra-placements.md).
+
+**Book 2:** *Programa de comunicació en llengua anglesa del batxillerat general de l'Escola Andorrana* (TEACHER EVIDENCE ONLY: a curriculum programme decreed by the Govern d'Andorra, in Catalan, cited for what it teaches, never as a pupil's book) — Andorra, Govern d'Andorra, Decret del 20-3-2019 (BOPA Núm. 29, 27 March 2019), 40 pp, for Batxillerat General years 1–2. Pages cited are the BOPA printed pages (N/40 = the PDF page number).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — The shape of a hypertext page: the global structure of pages and the symbols that signal what things on the page do (placement 65) | Andorra — Batxillerat Communication in English programme (Decret del 20-3-2019, BOPA 2019) — teacher evidence, printed p.21 |
+| Sub lesson 2 — Finding your way through hypertexts: the links as the text's doors, and the variations across hypertexts that make the organisers be recognised afresh in each one (placement 65) | Andorra — Batxillerat Communication in English programme (Decret del 20-3-2019, BOPA 2019) — teacher evidence, printed p.21 |
+
+Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.
+
+This lesson exists because of the 2026-11-10 expansion read of Andorra's English books: the read found the textual organisers of digital texts (hypertexts) — the global structure of pages, symbols and links, and their variations across hypertexts — taught as a named reading skill in the Batxillerat programme's Reading resources, stocked nowhere in the course; its diff marks the topic "NEW LESSON NEEDED: reading hypertexts and digital navigation". Under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built honestly on the one programme that teaches it, on the the-colon pattern.
