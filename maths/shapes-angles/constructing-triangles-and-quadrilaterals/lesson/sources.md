@@ -65,6 +65,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | A triangle from two sides and the included angle, in five steps | Yemen, Grade 5 Part 2, 8-3 (p.145) |
 | Construction word problems | Sierra Leone, SSS 2 Term 2, L90 (p.121), L91 (p.124) |
 | The triangle inequality (المتراجحة في المثلث): the length of any side of a triangle is less than the sum of the lengths of the other two sides — if one length equals the sum of the other two, the three points lie on one straight line; testing whether three lengths can be the sides of a triangle (an equality or a failed inequality rules it out) and whether three points are collinear from their mutual distances | Syria, Grade 7 student's book, printed pp. 135–136, 139 |
+| Drawing the triangle (رسم المثلث) — constructing a triangle from given data, the construction lesson of the Triangle and circle unit (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in compass-constructions) | Syria, Grade 7 student's book, printed p. 134 |
 | Constructing a triangle from its three sides with compass and ruler; side-length (in)equality questions in the exercises | Tajikistan, Математика (Grade 5), printed p. 272 |
 
 | Drawing a triangle — draw a triangle with a right angle at A, AB = 4 cm, AC = 3 cm | Sudan, Grade 4 Mathematics, printed p. 100 |
@@ -138,7 +139,7 @@ Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by t
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 
-Syria tests whether three lengths can be the sides of a triangle in Grade 7, through the triangle inequality.
+Syria tests whether three lengths can be the sides of a triangle in Grade 7, through the triangle inequality, and draws the triangle itself in the same unit (printed p. 134, stocked by the 2026-11-08 re-verification sweep merge).
 
 Sudan constructs from Grade 4 — a triangle, a parallelogram, a rectangle and a square with ruler and set square — and in Grade 5 proves the triangle angle sum with parallel-line angles before closing with four full compass-and-protractor triangle constructions: SSS, ASA, SAS and RHS.
 

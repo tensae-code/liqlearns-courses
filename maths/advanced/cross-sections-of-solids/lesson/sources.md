@@ -1,11 +1,12 @@
 # Sources — Cross-Sections of Solids
 
-countries: Tajikistan, Armenia
+countries: Tajikistan, Armenia, Syria
 
 Every part traces to its book and page.
 
 **Book 1:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 2:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,8 +23,9 @@ Every part traces to its book and page.
 | Theorem 18 (proved): every section of a sphere by a plane is a circle whose centre is the foot of the perpendicular from the sphere's centre; section radius √(R² − d²); diametral plane and great circle defined | Tajikistan, Геометрия (Grade 11), printed p. 84 |
 | Section of a ball by a plane is a disc; seven stated properties of great circles — taught corrected: property 4 — exactly one great circle through two points — is false for antipodal points, through which infinitely many great circles pass | Tajikistan, Геометрия (Grade 11), printed p. 85 |
 | Section of a spherical surface by a plane | Armenia, Geometry 11, §3.2, printed p. 26 |
+| Sections of solids (مقاطع المجسمات) — plane sections of the solids, with the pyramid frustum and its volume (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is also stocked in geometry-in-space and volume-and-surface-area) | Syria, Grade 9 Geometry student's book, printed p. 70 |
 
-**Acceptance count: taught in 2 countries (Tajikistan, Armenia).**
+**Acceptance count: taught in 3 countries (Tajikistan, Armenia, Syria).**
 
 This lesson exists because Tajikistan's Grade 11 Геометрия treats sections of solids as a named, systematic topic in its own right: it defines the section of a solid by a cutting plane and then proves the section theorems solid by solid — Theorems 2 and 3 for the prism (Topic 3, printed pp. 13–15, with a full worked construction through three points on three lateral edges), the pyramid and tetrahedron sections with their construction (Topic 9, printed p. 35), Theorem 12 for the cylinder (Topic 16, printed pp. 59–60), Theorems 14 and 15 for the cone (Topic 19, printed pp. 68–70), and Theorem 18 with the great-circle properties for the sphere and ball (Topic 24, printed pp. 84–85). The course's geometry-in-space lesson carries sections as single rows inside several countries' wider space-geometry courses (Kazakhstan's worked-solutions manual, Iran's and Syria's chapters, Mongolia, North Macedonia §§5.9–5.12), and the volume-and-surface-area lesson uses sections only where an area or volume needs them; neither teaches the section itself — its definition, its construction, and what shape it must be for each solid — as the topic. Under the everything-goes-in ruling (2026-11-06) the topic therefore gets its own lesson, built at the size of its source — the same call the four-means and Euler's totient lessons were built on. One of the book's seven stated great-circle properties is false as printed (property 4, for antipodal points) and is taught corrected on its row above, as the filing directs.
 

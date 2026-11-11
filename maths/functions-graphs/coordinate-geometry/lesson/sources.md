@@ -15,6 +15,8 @@ Every part traces to its book and page.
 **Book 9:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 10:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+**Book 68:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education, held printing 2025–2026/1446H, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+**Book 69:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
@@ -117,6 +119,8 @@ On Nepal in this lesson: Nepal's Optional books carry coordinate geometry — Gr
 | Analytic geometry (هندسه تحلیلی) | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 1, printed p. 2 |
 | Graph of a linear function (نمودار تابع خطی) | Iran, Grade 10 Mathematics and Statistics (1) student book (Humanities branch), Ch. 2, printed p. 56 |
 | Coordinates of the midpoint in a parallelogram problem: the centre's coordinates are half the sums of the endpoints' coordinates, checked on a parallelogram drawn in a coordinate frame — the fourth vertex found from the other three | Syria, Grade 7 student's book, printed p. 55 |
+| Distance of a point from a line (مسافة نقطة عن مستقيم) — the perpendicular distance from a point to a line, inside the Right triangle and the circle unit (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in measuring) | Syria, Grade 8 Geometry student's book, printed p. 81 |
+| Equation of a straight line (معادلة مستقيم) — the line's equation from its points and slope, inside the Systems of equations unit (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is spanned by the coordinates-and-graphs row) | Syria, Grade 9 Algebra student's book, printed p. 68 |
 | Distance between two points: the same-x and same-y cases first, then the general distance formula √[(x₂ − x₁)² + (y₂ − y₁)²] obtained from Pythagoras; inverse problems and word problems | Malaysia, Mathematics Form 2, Ch. 7 §7.1, printed pp. 122–131 |
 | The midpoint formula ((x₁ + x₂)/2, (y₁ + y₂)/2); an endpoint found from the midpoint and the other endpoint | Malaysia, Mathematics Form 2, Ch. 7 §7.2, printed pp. 132–139 |
 | Gradient of a straight line: steepness and inclination; gradient as vertical distance ÷ horizontal distance and as (y₂ − y₁)/(x₂ − x₁); gradient from the x- and y-intercepts; parallel lines have equal gradients | Malaysia, Mathematics Form 2, Ch. 10 §10.1, printed pp. 190–204 |
@@ -285,7 +289,7 @@ Vietnam carries coordinate geometry in Grade 10 Volume 2 — the equation of a s
 
 Libya carries coordinate geometry in Grade 9 (linear models and their equations) and Grade 10 Part 1, Chapter 4 (distance, midpoint, slope, equations of lines) (stocked by the 2026-11-08 re-verification sweep).
 
-Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
+Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7, takes the distance of a point from a line in Grade 8 Geometry, and writes the equation of a straight line in Grade 9 Algebra (the last two stocked by the 2026-11-08 re-verification sweep merge).
 
 Malaysia teaches coordinate geometry in Form 2 (distance from Pythagoras, midpoint, gradient) and completes it in Additional Mathematics Form 4 with the section formula and the parallel/perpendicular gradient conditions.
 

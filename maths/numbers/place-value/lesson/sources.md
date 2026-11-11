@@ -140,6 +140,7 @@ Every part traces to its book and page.
 **Book 104:** *Mathematics, Pupil's Book, Grade 6* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 105:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+**Book 245:** *Mathematics, Pupil's Book, Grade 1, Semester 1* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 106:** *Mathematics, Grade 1, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-143-7, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
@@ -520,6 +521,7 @@ Every part traces to its book and page.
 | Numbers up to one billion read and written in numerals and in words on the international place-value chart, commas after every three digits | Pakistan (Punjab), Class 5 (PCTB, Urdu-medium), printed pp. 1–3 |
 | Place value of whole numbers to hundred millions; decimal place value to thousandths | Pakistan (Punjab), Class 7 (PCTB), printed pp. 3, 5 |
 | Number systems for computers — decimal, binary, octal and hexadecimal place values, with the conversion table of 0–16 across the four bases | Pakistan (Punjab), Statistics Class 12 (PCTB, 2016), Ch. 17, printed pp. 281–282 |
+| The number 10 as one whole ten — a completed ten-frame — opening the Numbers to 12 chapter: the first full ten met as a single unit (stocked by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in counting) | Syria, Grade 1, Semester 1 pupil's book, printed p. 33 |
 | Two-digit numbers to 99 built from ten-rods and ones-cubes (3 tens and 4 ones = 34); the place-value table — reading and writing the ones and tens digits, building a number from a given pair | Syria, Grade 1, Semester 2 pupil's book, printed pp. 31–34 |
 | Numbers to 99 revised from rods and ones; counting by hundreds to 1000; three-digit numbers in the hundreds/tens/ones table with expanded form (620 = 600 + 20 + 0) | Syria, Grade 2, Semester 1 pupil's book, printed pp. 10–12, 45–48 |
 | The number 1000 as ten hundreds; the four places of a 4-digit number (ones, tens, hundreds, thousands); writing the number in the table, in expanded form and in words | Syria, Grade 3 pupil's book, printed pp. 19–25 |
@@ -834,7 +836,7 @@ China carries place value through the primary books — composition, reading and
 
 Pakistan (Punjab) carries place value through the primary climb — tens and ones in Grade 1, hundreds in Grade 2, to 100,000 in Grades 3–4 and to a billion in the Urdu-medium Class 5 book — with decimal place value in Class 7 and binary, octal and hexadecimal place values in the Class 12 statistics book's computers chapter.
 
-Syria carries place value grade by grade — ten-rods and ones-cubes and the place-value table in Grade 1, hundreds and the expanded form in Grade 2, four places in Grade 3, five places in Grade 4, periods of three to the millions in Grade 5 and to the billions in Grade 6, and digit-value work into the billions in Grade 7.
+Syria carries place value grade by grade — the number 10 as one whole ten and ten-rods and ones-cubes and the place-value table in Grade 1, hundreds and the expanded form in Grade 2, four places in Grade 3, five places in Grade 4, periods of three to the millions in Grade 5 and to the billions in Grade 6, and digit-value work into the billions in Grade 7.
 
 Saudi Arabia builds place value one place per grade — tens in Grade 1 Part Two, hundreds and the expanded form in Grade 2 Part Two, digit-value in a table and the periods in Grade 3, and numbers within millions in Grade 4 — with the older 1445 Term-3 volumes witnessing the Part Two chapters. Kuwait gains further practice evidence from the teacher-made Grade 3 booklet misfiled in Saudi Arabia's record: block, abacus, word-form and expanded-form exercises on numbers to 1000 (PDF pp. 3–12, 35–42), cited as a Kuwaiti school booklet, not as a textbook.
 

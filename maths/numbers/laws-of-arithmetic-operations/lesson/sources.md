@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Syria
 
 Every part traces to its book and page.
 
@@ -87,6 +87,9 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 
 **Book 58:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 60:** *Mathematics, Pupil's Book, Grade 1, Semester 1* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *Mathematics, Pupil's Book, Grade 2, Semester 2* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2015–2016, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+**Book 62:** *Mathematics, Pupil's Book, Grade 4* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -244,7 +247,10 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Multiplication using the distributive property | Jordan, Grade 3 Student Book Term 2, Unit 7, Lesson 3, printed p. 12 |
 | Algebraic properties | Jordan, Grade 6 Student Book Term 2, Unit 5, Lesson 4, printed p. 24 |
 | Properties of multiplication — the laws worked through multiplication (خاصیت‌های ضرب) | Iran, Grade 3 student book, Ch. 4, printed p. 70 |
-**Acceptance count: taught in 19 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran)**.** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| Addition is commutative (الجمع عملية تبديلية) — swapping the addends leaves the sum unchanged, met as a named fact inside the Grade 1 Problems and diagram chapter (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in addition) | Syria, Grade 1, Semester 1 pupil's book, printed p. 63 |
+| Multiplication is commutative — swapping the factors leaves the product unchanged, met as a named fact inside the Meaning of multiplication chapter (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in multiplication) | Syria, Grade 2, Semester 2 pupil's book, printed p. 44 |
+| Distributing multiplication over addition as a named lesson inside the Multiplication and division chapter (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in multiplication and division; the Grade 4 book's contents page numbers all drift ahead of the body, so the body page is cited) | Syria, Grade 4 pupil's book, printed p. 51 |
+**Acceptance count: taught in 20 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Syria)**.** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023). Syria uses the laws inside its primary number work as named facts — addition commutative in Grade 1, multiplication commutative in Grade 2, distributing multiplication over addition in Grade 4 — stocked here by the 2026-11-08 re-verification sweep merge.
 
 Vietnam carries the laws of arithmetic in Grade 4 — the commutative and associative properties of addition (Bài 24) and of multiplication (Bài 40), and the distributive property of multiplication over addition (Bài 42). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

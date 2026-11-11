@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait, Nepal, South Sudan
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait, Nepal, South Sudan, Syria
 
 Every part traces to its book and page.
 
@@ -64,6 +64,7 @@ Every part traces to its book and page.
 **Book 39:** *Mathematics, Class 8* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 40:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: Nepal's factorisation sits inside Grade 8's algebraic-expressions unit (Unit 20) and becomes a unit of its own in Grade 9 (Unit 9).
 
@@ -161,8 +162,10 @@ On Nepal in this lesson: Nepal's factorisation sits inside Grade 8's algebraic-e
 | Factorising algebraic expressions | Nepal, Grade 8 student book, Unit 20, printed p. 161 |
 | Factorisation | Nepal, Grade 9 student book, Unit 9, printed p. 184 |
 | Factorising algebraic expressions | South Sudan, Student's Book 1, Unit 4, printed p. 99 |
+| Expanding and factorising (النشر والتحليل) — expansion and its reverse taught as one lesson (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is spanned by the expressions lesson's Grade 9 row) | Syria, Grade 9 Algebra student's book, printed p. 32 |
+| The famous identities (مطابقات شهيرة) — the standard identities used to expand and to factorise (stocked here by the 2026-11-08 re-verification sweep merge) | Syria, Grade 9 Algebra student's book, printed p. 34 |
 
-**Acceptance count: taught in 19 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait, Nepal, South Sudan)**.** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 20 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait, Nepal, South Sudan, Syria).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
 
 Libya carries factorisation in Grade 9, Chapter 1, where expansion and factorisation are taught as one chapter (stocked by the 2026-11-08 re-verification sweep).
 
