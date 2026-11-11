@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia
 
 Every part traces to its book and page.
 
@@ -299,8 +299,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric ratios for angles within one revolution | Jordan, Grade 10 Student Book Term 1, Unit 3, Lesson 2, printed p. 74 |
 | Workbook practice: trigonometry (T1 U3) | Jordan, Grade 10 Workbook Term 1, Unit 3 (workbook evidence) |
 
-**Acceptance count: taught in 37 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka).**
+**Acceptance count: taught in 38 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3 —
@@ -396,3 +396,23 @@ Into this lesson the placements stock 3 items (2 from pupil books, 1 teacher evi
 Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's whole in-hand Maths set from the PDFs — **27 distinct works: 26 student books and 1 teacher guide, all Colombia Ministerio de Educación Nacional (MEN), in Spanish** — Escuela Nueva Matemáticas cartillas Grades 1–5 (11), Nivelemos Matemáticas student workbooks Grades 1–4 (4), Aulas sin fronteras Grade 6 Unidad 1 student book and its teacher guide (2), Postprimaria student guides Grades 6–9 (4), Secundaria Activa student modules Grades 6–9 (4), and Vamos a Aprender Matemáticas 10 and 11 (2) — 3,928 PDF pages — and placed 293 teaching items: 288 from the student books and 5 teacher-evidence items from the one teacher guide (Book 23). SET CORRECTIONS carried exactly: (1) the expansion map's “28 student + 1 teacher = 29” over-counts by 2 — textbooks.tsv carries duplicate records of Escuela Nueva Grado 1 Cartilla 1 and Grado 2 Cartilla 1 (old blob/main rows for the same two works that also landed as release assets); the distinct set is 27 works and the duplicates are cited once (the library records themselves are not edited — merges never edit the records); (2) the set in hand contains NO Grade 3 Cartilla 3 — Grade 3 holds Cartillas 1–2 plus the Nivelemos Grade 3 workbook, and Cartilla 2 completes Unidades 6–9; nothing in hand is a mislabelled Cartilla 3, and no never-published ruling is needed or made; (3) Nivelemos Matemáticas Grado 1 (Book 10) has NO asset in any GitHub release — it was read from the MEN source file itself, landed at exactly the census size (5,020,415 bytes) with EOF intact; the library side still owes that file a GitHub landing. The two Vamos a Aprender books (Books 26–27) are image-only viewer assemblies with no text layer, read from rendered pages (covers, printed contents pp. 6–7 and body spot-checks — Matemáticas 10 printed p. 110 “Teorema del seno”, Matemáticas 11 printed p. 120 “Derivada de una función en un punto”); printed page = PDF page in the sampled range. In the sections below the books are cited as Books 1–27 in the placements' order. Colombia COUNTS in a lesson's taught-in figure on the strength of its student-book rows; Book 23's rows are TEACHER EVIDENCE — the guide companions Book 15 with teaching plans, activity scripts and answers and teaches no student content itself — cited as the evidence kind it is and never the basis of the count (the standing Ghana evidence precedent for guide rows). Book errors: none material at placement grain — the Secundaria Activa Grade 9 module's contents page misprints two of its own headings (“Captítulo”, “Undiad 2”); the content is unaffected and rows use the corrected unit names. The placements' named exclusions — presentation letters, “how this book works” pages, author/imprint pages, transversal civics/health/environment themes, practice/evaluation apparatus (“Practica más”, “Evaluación del aprendizaje”, answer keys) and the Escuela Nueva “Estándares/Competencias” boxes at each unidad opening (MEN's own curriculum-standard statements; the taught content is placed at the guías themselves) — are stocked nowhere. The Círculos de Aprendizaje integrated books and the Retos para Gigantes Transición weekly guides are NOT in this set (filed as integrado, not matematicas) and are stocked nowhere. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (27/27) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 3 items from Book 21, Book 26.
+
+**Book 21:** *Secundaria Activa — Matemáticas, Grado 9* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 60,984,675 bytes, 218 PDF pp. Pages cited are the book's printed pages. Its contents page misprints two of its own headings ("Captítulo", "Undiad 2") — the content is unaffected and the rows use the corrected unit names.
+
+**Book 26:** *Vamos a Aprender — Matemáticas 10, Libro del estudiante* (student book, Grade 10) — Colombia, Presidencia de la República / Mineducación (MEN / Difusora Larousse–Ediciones SM); 110,264,975 bytes, 240 PDF pp. IMAGE-ONLY viewer assembly — no text layer; read from rendered pages (cover, printed Contenido at printed pp. 6–7, body spot-check at printed p. 110, "Teorema del seno"). Printed page = PDF page throughout the sampled range.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Trigonometric ratios | Colombia — *Secundaria Activa — Matemáticas, Grado 9* (student module), Grade 9, Cap. 1, tema 2, printed p. 89 |
+| Trigonometric ratios in a right triangle; ratios of notable angles | Colombia — *Vamos a Aprender — Matemáticas 10, Libro del estudiante* (student book), Grade 10, temas 3–4, printed pp. 76–80 |
+| Solving right triangles; angle of elevation and angle of depression | Colombia — *Vamos a Aprender — Matemáticas 10, Libro del estudiante* (student book), Grade 10, temas 5–6, printed pp. 84–88 |
+
+Colombia is added to the countries line and to the acceptance count above on its student-book rows. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 27 distinct works) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/colombia-placements.md.

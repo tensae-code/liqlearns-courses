@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia
 
 Every part traces to its book and page.
 
@@ -943,7 +943,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: measurement (T2 U9) | Jordan, Grade 5 Workbook Term 2, Unit 9 (workbook evidence) |
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 
-**Acceptance count: taught in 44 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania, El Salvador, Cyprus, Sri Lanka).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 45 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -1252,3 +1252,38 @@ Into this lesson the placements stock 45 items (18 from pupil books, 27 teacher 
 Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's whole in-hand Maths set from the PDFs — **27 distinct works: 26 student books and 1 teacher guide, all Colombia Ministerio de Educación Nacional (MEN), in Spanish** — Escuela Nueva Matemáticas cartillas Grades 1–5 (11), Nivelemos Matemáticas student workbooks Grades 1–4 (4), Aulas sin fronteras Grade 6 Unidad 1 student book and its teacher guide (2), Postprimaria student guides Grades 6–9 (4), Secundaria Activa student modules Grades 6–9 (4), and Vamos a Aprender Matemáticas 10 and 11 (2) — 3,928 PDF pages — and placed 293 teaching items: 288 from the student books and 5 teacher-evidence items from the one teacher guide (Book 23). SET CORRECTIONS carried exactly: (1) the expansion map's “28 student + 1 teacher = 29” over-counts by 2 — textbooks.tsv carries duplicate records of Escuela Nueva Grado 1 Cartilla 1 and Grado 2 Cartilla 1 (old blob/main rows for the same two works that also landed as release assets); the distinct set is 27 works and the duplicates are cited once (the library records themselves are not edited — merges never edit the records); (2) the set in hand contains NO Grade 3 Cartilla 3 — Grade 3 holds Cartillas 1–2 plus the Nivelemos Grade 3 workbook, and Cartilla 2 completes Unidades 6–9; nothing in hand is a mislabelled Cartilla 3, and no never-published ruling is needed or made; (3) Nivelemos Matemáticas Grado 1 (Book 10) has NO asset in any GitHub release — it was read from the MEN source file itself, landed at exactly the census size (5,020,415 bytes) with EOF intact; the library side still owes that file a GitHub landing. The two Vamos a Aprender books (Books 26–27) are image-only viewer assemblies with no text layer, read from rendered pages (covers, printed contents pp. 6–7 and body spot-checks — Matemáticas 10 printed p. 110 “Teorema del seno”, Matemáticas 11 printed p. 120 “Derivada de una función en un punto”); printed page = PDF page in the sampled range. In the sections below the books are cited as Books 1–27 in the placements' order. Colombia COUNTS in a lesson's taught-in figure on the strength of its student-book rows; Book 23's rows are TEACHER EVIDENCE — the guide companions Book 15 with teaching plans, activity scripts and answers and teaches no student content itself — cited as the evidence kind it is and never the basis of the count (the standing Ghana evidence precedent for guide rows). Book errors: none material at placement grain — the Secundaria Activa Grade 9 module's contents page misprints two of its own headings (“Captítulo”, “Undiad 2”); the content is unaffected and rows use the corrected unit names. The placements' named exclusions — presentation letters, “how this book works” pages, author/imprint pages, transversal civics/health/environment themes, practice/evaluation apparatus (“Practica más”, “Evaluación del aprendizaje”, answer keys) and the Escuela Nueva “Estándares/Competencias” boxes at each unidad opening (MEN's own curriculum-standard statements; the taught content is placed at the guías themselves) — are stocked nowhere. The Círculos de Aprendizaje integrated books and the Retos para Gigantes Transición weekly guides are NOT in this set (filed as integrado, not matematicas) and are stocked nowhere. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (27/27) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 8 items from Book 4, Book 7, Book 8, Book 11, Book 12, Book 17, Book 19.
+
+**Book 4:** *Escuela Nueva — Matemáticas, Grado 2, Cartilla 2* (student book, Grade 2, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 12,909,560 bytes, 100 PDF pp. Pages cited are the book's printed pages.
+
+**Book 7:** *Escuela Nueva — Matemáticas, Grado 3, Cartilla 2* (student book, Grade 3, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 45,390,762 bytes, 104 PDF pp. Pages cited are the book's printed pages.
+
+**Book 8:** *Nivelemos — Matemáticas, Grado 3* (student workbook, "Guía del estudiante") — Colombia, Ministerio de Educación Nacional (MEN) levelling programme; 18,405,606 bytes, 72 PDF pp. Pages cited are the book's printed pages.
+
+**Book 11:** *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book, Grade 4, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 50,701,928 bytes, 140 PDF pp. Pages cited are the book's printed pages.
+
+**Book 12:** *Nivelemos — Matemáticas, Grado 4* (student workbook, "Guía del estudiante") — Colombia, Ministerio de Educación Nacional (MEN) levelling programme; 16,691,033 bytes, 80 PDF pp. Pages cited are the book's printed pages.
+
+**Book 17:** *Postprimaria — Matemáticas, Grado 6* (student guide) — Colombia, Ministerio de Educación Nacional (MEN) / Fundación Manuel Mejía; 20,084,783 bytes, 222 PDF pp. Pages cited are the book's printed pages (contents-page basis).
+
+**Book 19:** *Secundaria Activa — Matemáticas, Grado 6* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 47,908,685 bytes, 252 PDF pp. Pages cited are the book's printed pages (its own Tabla de contenido).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparing the size of surfaces — fields, boards and other flat surfaces | Colombia — *Escuela Nueva — Matemáticas, Grado 2, Cartilla 2* (student book), Grade 2, Guía 16, printed p. 82 |
+| Measuring land: perimeter and area | Colombia — *Escuela Nueva — Matemáticas, Grado 3, Cartilla 2* (student book), Grade 3, Guía 17, printed p. 90 |
+| Measuring land | Colombia — *Nivelemos — Matemáticas, Grado 3* (student workbook), Grade 3, Guía 7, printed p. 63 |
+| More on perimeters and areas | Colombia — *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book), Grade 4, Guía 12, printed p. 38 |
+| The system of area units | Colombia — *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book), Grade 4, Guía 13, printed p. 48 |
+| More on perimeters and areas | Colombia — *Nivelemos — Matemáticas, Grado 4* (student workbook), Grade 4, Guía 5, printed p. 49 |
+| The measurement system for surfaces | Colombia — *Postprimaria — Matemáticas, Grado 6* (student guide), Grade 6, Guía 16, printed p. 140 |
+| Magnitude and quantity; measuring and calculating length, area, mass and time | Colombia — *Secundaria Activa — Matemáticas, Grado 6* (student module), Grade 6, Cap. 2, printed pp. 133–156 |
+
+Colombia is added to the countries line and to the acceptance count above on its student-book rows. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 27 distinct works) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/colombia-placements.md.

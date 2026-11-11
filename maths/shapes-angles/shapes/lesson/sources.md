@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia
 
 Every part traces to its book and page.
 
@@ -1203,7 +1203,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 | Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
-**Acceptance count: taught in 45 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 46 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries first plane shapes and
 shape-making in Primary 1 (Japanese-collaboration series),
@@ -1563,3 +1563,51 @@ Into this lesson the placements stock 39 items (14 from pupil books, 25 teacher 
 Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's whole in-hand Maths set from the PDFs — **27 distinct works: 26 student books and 1 teacher guide, all Colombia Ministerio de Educación Nacional (MEN), in Spanish** — Escuela Nueva Matemáticas cartillas Grades 1–5 (11), Nivelemos Matemáticas student workbooks Grades 1–4 (4), Aulas sin fronteras Grade 6 Unidad 1 student book and its teacher guide (2), Postprimaria student guides Grades 6–9 (4), Secundaria Activa student modules Grades 6–9 (4), and Vamos a Aprender Matemáticas 10 and 11 (2) — 3,928 PDF pages — and placed 293 teaching items: 288 from the student books and 5 teacher-evidence items from the one teacher guide (Book 23). SET CORRECTIONS carried exactly: (1) the expansion map's “28 student + 1 teacher = 29” over-counts by 2 — textbooks.tsv carries duplicate records of Escuela Nueva Grado 1 Cartilla 1 and Grado 2 Cartilla 1 (old blob/main rows for the same two works that also landed as release assets); the distinct set is 27 works and the duplicates are cited once (the library records themselves are not edited — merges never edit the records); (2) the set in hand contains NO Grade 3 Cartilla 3 — Grade 3 holds Cartillas 1–2 plus the Nivelemos Grade 3 workbook, and Cartilla 2 completes Unidades 6–9; nothing in hand is a mislabelled Cartilla 3, and no never-published ruling is needed or made; (3) Nivelemos Matemáticas Grado 1 (Book 10) has NO asset in any GitHub release — it was read from the MEN source file itself, landed at exactly the census size (5,020,415 bytes) with EOF intact; the library side still owes that file a GitHub landing. The two Vamos a Aprender books (Books 26–27) are image-only viewer assemblies with no text layer, read from rendered pages (covers, printed contents pp. 6–7 and body spot-checks — Matemáticas 10 printed p. 110 “Teorema del seno”, Matemáticas 11 printed p. 120 “Derivada de una función en un punto”); printed page = PDF page in the sampled range. In the sections below the books are cited as Books 1–27 in the placements' order. Colombia COUNTS in a lesson's taught-in figure on the strength of its student-book rows; Book 23's rows are TEACHER EVIDENCE — the guide companions Book 15 with teaching plans, activity scripts and answers and teaches no student content itself — cited as the evidence kind it is and never the basis of the count (the standing Ghana evidence precedent for guide rows). Book errors: none material at placement grain — the Secundaria Activa Grade 9 module's contents page misprints two of its own headings (“Captítulo”, “Undiad 2”); the content is unaffected and rows use the corrected unit names. The placements' named exclusions — presentation letters, “how this book works” pages, author/imprint pages, transversal civics/health/environment themes, practice/evaluation apparatus (“Practica más”, “Evaluación del aprendizaje”, answer keys) and the Escuela Nueva “Estándares/Competencias” boxes at each unidad opening (MEN's own curriculum-standard statements; the taught content is placed at the guías themselves) — are stocked nowhere. The Círculos de Aprendizaje integrated books and the Retos para Gigantes Transición weekly guides are NOT in this set (filed as integrado, not matematicas) and are stocked nowhere. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (27/27) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 15 items from Book 1, Book 3, Book 5, Book 7, Book 9, Book 11, Book 16, Book 17, Book 19, Book 24.
+
+**Book 1:** *Escuela Nueva — Matemáticas, Grado 1, Cartilla 1* (student book, Grade 1, Primera Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 14,426,196 bytes, 100 PDF pp. Pages cited are the book's printed pages (contents-page basis, matching the printed folios).
+
+**Book 3:** *Escuela Nueva — Matemáticas, Grado 2, Cartilla 1* (student book, Grade 2, Primera Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 11,572,668 bytes, 92 PDF pp. Pages cited are the book's printed pages.
+
+**Book 5:** *Nivelemos — Matemáticas, Grado 2* (student workbook, "Guía del estudiante") — Colombia, Ministerio de Educación Nacional (MEN) levelling programme, adapted from Escuela Nueva; 11,443,390 bytes, 80 PDF pp. Pages cited are the book's printed pages.
+
+**Book 7:** *Escuela Nueva — Matemáticas, Grado 3, Cartilla 2* (student book, Grade 3, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 45,390,762 bytes, 104 PDF pp. Pages cited are the book's printed pages.
+
+**Book 9:** *Escuela Nueva — Matemáticas, Grado 4, Cartilla 1* (student book, Grade 4, Primera Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 51,939,788 bytes, 112 PDF pp. Pages cited are the book's printed pages.
+
+**Book 11:** *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book, Grade 4, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 50,701,928 bytes, 140 PDF pp. Pages cited are the book's printed pages.
+
+**Book 16:** *Escuela Nueva — Matemáticas, Grado 5, Cartilla 2* (student book, Grade 5, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 36,290,636 bytes, 96 PDF pp. Pages cited are the book's printed pages.
+
+**Book 17:** *Postprimaria — Matemáticas, Grado 6* (student guide) — Colombia, Ministerio de Educación Nacional (MEN) / Fundación Manuel Mejía; 20,084,783 bytes, 222 PDF pp. Pages cited are the book's printed pages (contents-page basis).
+
+**Book 19:** *Secundaria Activa — Matemáticas, Grado 6* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 47,908,685 bytes, 252 PDF pp. Pages cited are the book's printed pages (its own Tabla de contenido).
+
+**Book 24:** *Secundaria Activa — Matemáticas, Grado 7* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 174,397,469 bytes, 254 PDF pp. Pages cited are the book's printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Playing with and naming flat shapes | Colombia — *Escuela Nueva — Matemáticas, Grado 1, Cartilla 1* (student book), Grade 1, Guía 7 "Juguemos con las formas", printed p. 78 |
+| Working on the geoboard: making and copying flat figures | Colombia — *Escuela Nueva — Matemáticas, Grado 2, Cartilla 1* (student book), Grade 2, Guía 5, printed p. 52 |
+| Experimenting with shapes: solids and flat figures | Colombia — *Escuela Nueva — Matemáticas, Grado 2, Cartilla 1* (student book), Grade 2, Guía 6, printed p. 60 |
+| Experimenting with shapes, including symmetry folding work | Colombia — *Nivelemos — Matemáticas, Grado 2* (student workbook), Grade 2, Guía 4, printed p. 37 |
+| Exploring solids | Colombia — *Escuela Nueva — Matemáticas, Grado 3, Cartilla 2* (student book), Grade 3, Guía 15, printed p. 70 |
+| Relations and properties of figures | Colombia — *Escuela Nueva — Matemáticas, Grado 3, Cartilla 2* (student book), Grade 3, Guía 16, printed p. 78 |
+| Properties of triangles and quadrilaterals | Colombia — *Escuela Nueva — Matemáticas, Grado 4, Cartilla 1* (student book), Grade 4, Guía 8, printed p. 86 |
+| Drawing figures | Colombia — *Escuela Nueva — Matemáticas, Grado 4, Cartilla 1* (student book), Grade 4, Guía 9, printed p. 94 |
+| Relations in figures | Colombia — *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book), Grade 4, Guía 18, printed p. 102 |
+| More on figures | Colombia — *Escuela Nueva — Matemáticas, Grado 5, Cartilla 2* (student book), Grade 5, Guía 10, printed p. 48 |
+| Exploring art with geometry | Colombia — *Escuela Nueva — Matemáticas, Grado 5, Cartilla 2* (student book), Grade 5, Guía 11, printed p. 60 |
+| Polygons | Colombia — *Postprimaria — Matemáticas, Grado 6* (student guide), Grade 6, Guía 21, printed p. 178 |
+| Basic geometry concepts and instruments; locating objects in space and modelling solids | Colombia — *Secundaria Activa — Matemáticas, Grado 6* (student module), Grade 6, Cap. 1, temas 1–2, printed pp. 99–110 |
+| Constructing angles and classifying polygons | Colombia — *Secundaria Activa — Matemáticas, Grado 6* (student module), Grade 6, Cap. 1, tema 4, printed p. 125 |
+| Geometric figures; exploring theorems | Colombia — *Secundaria Activa — Matemáticas, Grado 7* (student module), Grade 7, Cap. 1, printed pp. 91–103 |
+
+Colombia is added to the countries line and to the acceptance count above on its student-book rows. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 27 distinct works) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/colombia-placements.md.

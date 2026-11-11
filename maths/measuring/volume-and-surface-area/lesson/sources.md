@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia
 
 Every part traces to its book and page.
 
@@ -791,7 +791,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 | Review of surface area of shapes | South Sudan, Secondary Mathematics — Student's Book 2, Unit 2, printed p. 19 |
 
-**Acceptance count: taught in 44 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 45 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -1017,3 +1017,39 @@ Into this lesson the placements stock 20 items (7 from pupil books, 13 teacher e
 Sri Lanka is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Sri Lanka guide rows, they are teacher evidence only, never the basis of the count. Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's whole in-hand Maths set from the PDFs — **27 distinct works: 26 student books and 1 teacher guide, all Colombia Ministerio de Educación Nacional (MEN), in Spanish** — Escuela Nueva Matemáticas cartillas Grades 1–5 (11), Nivelemos Matemáticas student workbooks Grades 1–4 (4), Aulas sin fronteras Grade 6 Unidad 1 student book and its teacher guide (2), Postprimaria student guides Grades 6–9 (4), Secundaria Activa student modules Grades 6–9 (4), and Vamos a Aprender Matemáticas 10 and 11 (2) — 3,928 PDF pages — and placed 293 teaching items: 288 from the student books and 5 teacher-evidence items from the one teacher guide (Book 23). SET CORRECTIONS carried exactly: (1) the expansion map's “28 student + 1 teacher = 29” over-counts by 2 — textbooks.tsv carries duplicate records of Escuela Nueva Grado 1 Cartilla 1 and Grado 2 Cartilla 1 (old blob/main rows for the same two works that also landed as release assets); the distinct set is 27 works and the duplicates are cited once (the library records themselves are not edited — merges never edit the records); (2) the set in hand contains NO Grade 3 Cartilla 3 — Grade 3 holds Cartillas 1–2 plus the Nivelemos Grade 3 workbook, and Cartilla 2 completes Unidades 6–9; nothing in hand is a mislabelled Cartilla 3, and no never-published ruling is needed or made; (3) Nivelemos Matemáticas Grado 1 (Book 10) has NO asset in any GitHub release — it was read from the MEN source file itself, landed at exactly the census size (5,020,415 bytes) with EOF intact; the library side still owes that file a GitHub landing. The two Vamos a Aprender books (Books 26–27) are image-only viewer assemblies with no text layer, read from rendered pages (covers, printed contents pp. 6–7 and body spot-checks — Matemáticas 10 printed p. 110 “Teorema del seno”, Matemáticas 11 printed p. 120 “Derivada de una función en un punto”); printed page = PDF page in the sampled range. In the sections below the books are cited as Books 1–27 in the placements' order. Colombia COUNTS in a lesson's taught-in figure on the strength of its student-book rows; Book 23's rows are TEACHER EVIDENCE — the guide companions Book 15 with teaching plans, activity scripts and answers and teaches no student content itself — cited as the evidence kind it is and never the basis of the count (the standing Ghana evidence precedent for guide rows). Book errors: none material at placement grain — the Secundaria Activa Grade 9 module's contents page misprints two of its own headings (“Captítulo”, “Undiad 2”); the content is unaffected and rows use the corrected unit names. The placements' named exclusions — presentation letters, “how this book works” pages, author/imprint pages, transversal civics/health/environment themes, practice/evaluation apparatus (“Practica más”, “Evaluación del aprendizaje”, answer keys) and the Escuela Nueva “Estándares/Competencias” boxes at each unidad opening (MEN's own curriculum-standard statements; the taught content is placed at the guías themselves) — are stocked nowhere. The Círculos de Aprendizaje integrated books and the Retos para Gigantes Transición weekly guides are NOT in this set (filed as integrado, not matematicas) and are stocked nowhere. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (27/27) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 9 items from Book 11, Book 16, Book 18, Book 20, Book 21, Book 24, Book 25.
+
+**Book 11:** *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book, Grade 4, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 50,701,928 bytes, 140 PDF pp. Pages cited are the book's printed pages.
+
+**Book 16:** *Escuela Nueva — Matemáticas, Grado 5, Cartilla 2* (student book, Grade 5, Segunda Cartilla) — Colombia, Ministerio de Educación Nacional (MEN); 36,290,636 bytes, 96 PDF pp. Pages cited are the book's printed pages.
+
+**Book 18:** *Postprimaria — Matemáticas, Grado 8* (student guide) — Colombia, Ministerio de Educación Nacional (MEN); 20,256,968 bytes, 266 PDF pp. Pages cited are the book's printed pages.
+
+**Book 20:** *Postprimaria — Matemáticas, Grado 7* (student guide) — Colombia, Ministerio de Educación Nacional (MEN); 26,570,107 bytes, 230 PDF pp. Pages cited are the book's printed pages.
+
+**Book 21:** *Secundaria Activa — Matemáticas, Grado 9* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 60,984,675 bytes, 218 PDF pp. Pages cited are the book's printed pages. Its contents page misprints two of its own headings ("Captítulo", "Undiad 2") — the content is unaffected and the rows use the corrected unit names.
+
+**Book 24:** *Secundaria Activa — Matemáticas, Grado 7* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 174,397,469 bytes, 254 PDF pp. Pages cited are the book's printed pages.
+
+**Book 25:** *Secundaria Activa — Matemáticas, Grado 8* (student module) — Colombia, Ministerio de Educación Nacional (MEN), Secundaria Activa; 136,353,340 bytes, 252 PDF pp. Pages cited are the book's printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Volume of solids | Colombia — *Escuela Nueva — Matemáticas, Grado 4, Cartilla 2* (student book), Grade 4, Guía 14, printed p. 54 |
+| Calculating areas and volumes | Colombia — *Escuela Nueva — Matemáticas, Grado 5, Cartilla 2* (student book), Grade 5, Guía 13, printed p. 76 |
+| Measures of prisms and other solids; applying volume calculations | Colombia — *Postprimaria — Matemáticas, Grado 8* (student guide), Grade 8, Guías 18–20, printed pp. 200–224 |
+| Volume units; capacity as a new magnitude; equivalences between volume and capacity measures | Colombia — *Postprimaria — Matemáticas, Grado 7* (student guide), Grade 7, Guías 15–17, printed pp. 144–161 |
+| Solids: characteristics, areas and volumes | Colombia — *Secundaria Activa — Matemáticas, Grado 9* (student module), Grade 9, Cap. 2, printed pp. 99–105 |
+| Solids: surface areas of cube, right prism and pyramid | Colombia — *Secundaria Activa — Matemáticas, Grado 7* (student module), Grade 7, Cap. 3, tema 1, printed p. 133 |
+| Volume, weight and capacity measures of solids | Colombia — *Secundaria Activa — Matemáticas, Grado 7* (student module), Grade 7, Cap. 3, tema 2, printed p. 143 |
+| Geometric solids: area problems | Colombia — *Secundaria Activa — Matemáticas, Grado 8* (student module), Grade 8, Cap. 2, tema 1, printed p. 107 |
+| Volume problems of solids | Colombia — *Secundaria Activa — Matemáticas, Grado 8* (student module), Grade 8, Cap. 2, tema 2, printed p. 117 |
+
+Colombia is added to the countries line and to the acceptance count above on its student-book rows. Colombia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 27 distinct works) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/colombia-placements.md.
