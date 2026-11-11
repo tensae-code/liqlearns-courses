@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,10 @@ Edition 2019 (no ISBN printed). Filed in
 english/books/rwanda.md (FULLY READ; citation-checked
 2026-11-04).
 
+**Book 4:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 5:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Alphabetising by 1st and 2nd letter ("Alphabetiises" as printed) — set inside Functional + Recreational Reading, beside table of contents, telephone directories, glossary/encyclopaedia/junior dictionary | Barbados — Class 1 syllabus body, printed p.36 (syllabus evidence) |
@@ -34,8 +38,10 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Dictionary pronunciation/transcription tasks: IPA transcriptions given for the professions/job words; dictionary transcription work recurs (and in Test 2.2) | Rwanda — P.5 Learner's Book, Unit 1, printed pp.18–19; also printed p.33, p.86 and Test 2.2, printed p.50, as filed in english/books/rwanda.md |
 | NOT cited: the P.5 Teacher's Guide's answer keys — the filing records errors in that guide's keys, so this lesson stands on the Learner's Book alone | Rwanda — P.5 filing, english/books/rwanda.md (standing flag honoured) |
 | Alphabetical order | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.6–7 |
+| Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
+| Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 4 countries (Barbados, India, Rwanda, Nicaragua).**
+**Acceptance count: taught in 5 countries (Barbados, India, Rwanda, Nicaragua, Pakistan).**
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -56,3 +62,5 @@ are read.
 **Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 1* and *English 3* both name alphabetical order as a strand of their contents. Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

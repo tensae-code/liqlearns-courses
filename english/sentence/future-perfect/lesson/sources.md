@@ -1,6 +1,6 @@
 # Sources — Future perfect
 
-countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia
+countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -18,6 +18,10 @@ Every part traces to its book and page.
 
 **Book 7:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 8:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 9:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Future Perfect box: will have + past participle, for actions completed before a specific time in the future or before another future action; by / by the time / before; in (three days') time | Egypt, Secondary 11 Term 2, Future Perfect box, p.19 |
@@ -28,5 +32,9 @@ Every part traces to its book and page.
 | CORRECTION: the same worksheet prints the formation rule as "formed with 'will' + 'have' plus the past tense of the verb" (printed p.51) — WRONG: the form required is the past participle, not the past tense. Taught corrected in this lesson; the book's model sentence is right, its rule line is not | South Africa, HL Grade 6 Workbook 2, printed p.51, Slips note as filed in english/books/south-africa.md |
 | Future perfect (will have done by …) | Mongolia, English XI, Unit 2, printed pp.31–32 |
 | Future perfect, active and passive | Mongolia, English XII, Unit 3, printed p.50 |
+| The future system, active and passive: future indefinite, continuous, perfect and perfect continuous, with the passive of the indefinite and the perfect — each tense its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.117–136 (sections at printed pp.117, 120, 123, 127; passive at pp.131, 134) |
+| The future perfect tense in the culture unit's grammar work (with sentence patterns, direct and indirect object, and phrases, clauses and sentences) | Pakistan, *English 7*, Unit 11, printed p.103 |
 
-**Acceptance count: taught in 6 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia).** Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan).** Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It teaches the whole future system, active and passive, tense by tense — the future perfect stands at printed p.123 and its passive at p.134. *English 7* names the future perfect in its culture unit (Unit 11, printed p.103); it is filed in english/books/pakistan.md and was re-read in the same sweep.

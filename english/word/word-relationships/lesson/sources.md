@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -119,6 +119,12 @@ verification sweep.
 
 **Book 24:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 25:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 26:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 27:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -165,9 +171,13 @@ verification sweep.
 | Film genres matched to their definitions | Mongolia, English XII, Unit 10, printed p.180 |
 | Opposite adjectives | Nicaragua, Activity Book 3 (Grade 3), Unit 6, printed pp.39–40 |
 | Trip / travel / travelling — word distinctions | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
+| A "Pair of Words" chapter: confusable word pairs set side by side | Pakistan, *English Grammar & Composition 9–10*, printed p.175 |
+| Homographs — the same spelling carrying different meanings — as a named vocabulary point | Pakistan, *English 6*, Unit 2, printed p.14 |
+| Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
+| Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 12 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 13 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -196,3 +206,5 @@ Mauritania re-verification sweep merge). Mexico works word relationships as iden
 **Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It closes with a "Pair of Words" chapter of confusable pairs (printed p.175). *English 6* names homographs in its festival unit (Unit 2, printed p.14), and *English 12* works word patterns, figurative language and nuances of meaning in Unit 4 (printed p.30) and antonyms and synonyms in Unit 12 (printed p.95). English 6 and English 12 are filed in english/books/pakistan.md and were re-read in the same sweep.

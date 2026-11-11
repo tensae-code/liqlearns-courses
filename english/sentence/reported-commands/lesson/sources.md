@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan
 
 Every part traces to its book and page.
 
@@ -43,6 +43,8 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 7:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported commands — imperative → to-infinitive, negative → not to; the filed practice anchor "not to eat with fingers" | Mauritania, Study English Grade 12, Unit Five, Lesson 13 "At the Restaurant", pp.40–41 |
@@ -53,9 +55,10 @@ colophon; cited once.
 | Reported speech narrowed to orders, requests, offers and advice: reporting verbs (ask, tell, advise, command, order, instruct, invite, encourage, persuade, remind, warn) with object + to-infinitive; offer/propose/agree/demand without an object; negatives with not + to-infinitive; the filing's limit: no reported statements or questions in this book | Vietnam, Tiếng Anh 12 (Global Success), Unit 10 "Lifelong learning", printed pp.128–139 |
 | Reported commands: a reporting verb like tell, advise or ask, + to-infinitive | Mexico, Grade 9, Project 16 "Experience Active and Healthy Habits", printed p. 152 |
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
+| Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 5 countries (Mauritania,
-Nepal, Rwanda, Vietnam, Mexico).** Mauritania states the
+**Acceptance count: taught in 6 countries (Mauritania,
+Nepal, Rwanda, Vietnam, Mexico, Pakistan).** Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -69,3 +72,5 @@ reported speech; the commands stand in P.6, Unit 9.
 Vietnam caps the lesson with the eleven-verb bank and
 the not-before-to rule, in a book that teaches no other
 reported speech. Mexico's Grade 9 book teaches reported commands with tell, advise or ask + to-infinitive (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches direct and indirect speech across present, past and future tenses, with reported requests, commands and exclamatory sentences (printed pp.120–121) — the full system the old filing's header missed when it said reported speech is taught properly only in Grades 6 and 9. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

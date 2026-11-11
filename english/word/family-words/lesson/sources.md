@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -73,6 +73,10 @@ covers the 6th Year book only).
 
 **Book 19:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 20:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
+**Book 21:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | My family: Mum, Dad, sister, brother, baby, me — Pattern: "Who's this? This is Tala / my brother / my mum / the baby" | Palestine, Grade 1 Part 1, Unit 7 "My family," p.40 (pattern pp.42–44) |
@@ -110,10 +114,12 @@ covers the 6th Year book only).
 | Craftwork "Make a heart": heart cards carrying "I love you Daddy! / I love you Mummy!" | North Macedonia — EXTRA and Friends 2, Pupil's Book, Module 1, Lesson 2, printed p.5 |
 | The family song's full verses — the daddy, sister and brother verses beyond the mummy verse the pupil page prints | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), Module 1, Lesson 2 audioscript, Teacher's Book p.5(T) (pupil printed p.5) |
 | Big families and small families — "This is my family. I've got a big/small family." — with the wider set grandad, grandma, aunt, uncle, cousin (Activity Book "Going for CLIL" 1, PSHE; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 1 key and instructions, Teacher's Book p.124(T) |
+| My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
+| The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 12 countries (Mongolia, North
+**Acceptance count: taught in 13 countries (Mongolia, North
 Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran,
-Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+Indonesia, Mauritania, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -161,3 +167,5 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 ## North Macedonia — sweep additions 2026-11-11 (re-verification sweep merge)
 
 **Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep; the earlier North Macedonia sections in this file covered only the Pupil's Book. North Macedonia was already counted in this lesson, so the acceptance count does not change. The Teacher's Book rows are teacher evidence: the secured Pupil's Book copy holds printed pp.3–11 only, and the Teacher's Book reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Teacher's Book's own Programme overview (pp.IX–X) lists Module 1's craftwork as "make a headband" — a copy error in the book; the lesson itself (pupil printed p.5) is "Make a heart", and the rows follow the lesson. Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Nursery* names the family — grandfather, grandmother, father, mother, brother, sister (printed p.4) — and *English 3* works The People I Love, family and home together (Unit 3). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

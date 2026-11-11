@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan
 
 Every part traces to its book and page.
 
@@ -39,6 +39,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 7:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 8:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Silent letters defined — letters in a word not pronounced when the word is spoken; they often show the word's origin or differentiate homophones; intro examples knight, gnome, honor, debt, subtle | Ecuador — Medium Sublevel text, Worksheet 6, printed p.35 |
@@ -61,8 +65,10 @@ verification sweep.
 | Scope and Sequence row 3.1.4: "Contractions, blends (three letters etc.) and silent letters" | Barbados — Class 1 syllabus, printed p.3 (syllabus evidence) |
 | Silent letters — the silent k and silent t box (know, knife; listen, castle) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed p. 33 |
 | Silent letters as the unit's sound work, beyond the wrinkle/talk pair: words rhyming with "my" completed with a silent letter (sm_le, k_te, m_ce, l_ne), and the longest-word joke-riddle | India — Marigold Book Two (Class 2), Unit 3 sound work, printed pp.39–53 |
+| Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
+| Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 5 countries (Ecuador, Kuwait, India, Barbados, Bolivia).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -75,3 +81,5 @@ card is a book error and is taught corrected (the word
 belongs to kn-); VEHICLE's silent h holds only in some
 varieties and is flagged as such wherever it appears.
 Counts grow as other closed countries' books are read.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 4* works silent letters in its Beauty of Nature unit and *English 8* carries them in its grammar system. Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

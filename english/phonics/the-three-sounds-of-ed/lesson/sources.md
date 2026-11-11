@@ -1,6 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados, Nicaragua
+countries: Bolivia, India, Barbados, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -26,6 +26,8 @@ syllabus documents are what the library holds and what
 was read. Filed in english/books/barbados.md (FULLY
 READ + CITATION CHECK PASSED 2026-10-27).
 
+**Book 4:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The -ed pronunciation lists /t/ /d/ /id/: /t/ helped, looked, washed, watched, breathed, kissed, danced, fixed · /d/ damaged, called, cleaned, offered, loved, amazed, enjoyed, followed, used · /ɪd/ wanted, visited, needed, started — printed beside the -ED spelling rules in the Simple Past box | Bolivia — Year 3 (Grade 9), Topic 4 "Talking about vacation", §1.2, student p.219 |
@@ -35,8 +37,9 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | Suffixes -s/-es/-ies/-ed/-ied/-ing stocked among the word-building work | Barbados — Classes 1–2 syllabus bodies, as filed in english/books/barbados.md (syllabus evidence — practice stock for -ed words, not a presentation of the three sounds) |
 | The pronunciation of regular past-tense verbs — the /t/ /d/ /ɪd/ sounds (review section; the book teaches these sounds but no past-tense grammar anywhere in its 36 lessons) | Nicaragua, Secondary English, Grade 8 Student's Book, review section, printed p.162 (PDF p.168) |
 | The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
+| The three sounds of -ed, in the health unit (with hygiene and healthy eating) | Pakistan, *English 4*, Unit 8 (contents) |
 
-**Acceptance count: taught in 4 countries (Bolivia, India, Barbados, Nicaragua).**
+**Acceptance count: taught in 5 countries (Bolivia, India, Barbados, Nicaragua, Pakistan).**
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -57,3 +60,5 @@ are read.
 **Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 4* teaches the three sounds of -ed in its health unit (Unit 8). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

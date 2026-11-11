@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan
 
 Every part traces to its book and page.
 
@@ -112,6 +112,10 @@ verification sweep.
 
 **Book 27:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 28:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 29:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -155,9 +159,11 @@ verification sweep.
 | Because-clauses giving reasons | Mongolia, English XII, Unit 7, printed p.128 |
 | Linking words (adding, ordering, contrasting, explaining, reinforcing, summing up) | Mongolia, English XII, Unit 8, printed p.140 |
 | A project frame with a reason — "My favourite season is winter because I like snow!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 6, pupil printed p.64 |
+| Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 11 countries (Bolivia,
-Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia).** North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 12 countries (Bolivia,
+Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan).** North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -190,3 +196,5 @@ connectors and Grade 13's FANBOYS conjunctions (stocked
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 8 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The module's seasons set itself stocks weather-and-seasons.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 8* carries conjunctions and transitional devices in its grammar system, and *English 12* works adjectival, prepositional and adverbial phrases in Unit 2 (printed p.14). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.

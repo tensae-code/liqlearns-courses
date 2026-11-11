@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -14,6 +14,10 @@ Every part traces to its book and page.
 
 **Book 5:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 6:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
+**Book 7:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole unit: 'Reading books, writing compositions and examinations' — skimming and scanning explained; table of contents and index named as the reading-skills terms | Rwanda, Pupil's Book 6, Unit 6, printed pp.75–77 |
@@ -23,5 +27,10 @@ Every part traces to its book and page.
 | “At the airport” — a revision lesson working the whole tense system, idiomatic expressions and time prepositions together (the book's own exam-style revision point) | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 10, Lesson 1, printed pp.122–125 |
 | The Beginners teacher's book appendices: printed tests for Units 1–3, 4–6 and 7–9, and speaking tasks — assessment apparatus over the same content | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.118 |
 | International exams in dialogues (IELTS, TOEFL iBT, SAT) | Mongolia, English XII, Unit 2, printed pp.35–36 |
+| Sample rubrics printed at the back of the book | Pakistan, *English X*, back matter (contents) |
+| The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
+| A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 4 countries (Rwanda, Vietnam, Greece, Mongolia).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.

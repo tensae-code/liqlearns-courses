@@ -230,6 +230,8 @@ verification sweep.
 
 **Book 83:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 84:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -286,6 +288,7 @@ verification sweep.
 | Present progressive, with the -ing spelling rules — make→making, sit→sitting, begin→beginning, listen→listening | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1B, printed p.17 |
 | Simple present against present progressive — the contrast | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1B, printed pp.17–33 |
 | Simple present against present continuous — the contrast | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5, PDF p.96 |
+| The present-tense system taught tense by tense in the active voice — present indefinite, present continuous, present perfect, present perfect continuous, each in its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.74–87 (sections at printed pp.74, 77, 80, 83) |
 
 | The present continuous at the very start of the set: classroom actions in the present continuous "I am writing" frame | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed p.43 |
 | The present continuous taught in sentences | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.111 |
@@ -552,3 +555,5 @@ futures (Student's Book, Unit 1, printed pp.6–16).
 **Book 5:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: it teaches the whole present-tense system tense by tense in the active voice — indefinite (printed p.74), continuous (p.77), perfect (p.80) and perfect continuous (p.83). Its perfect-continuous section is also stocked at the present perfect continuous lesson.

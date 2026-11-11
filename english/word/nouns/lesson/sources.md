@@ -181,6 +181,8 @@ verification sweep.
 **Book 62:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 63:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -234,6 +236,7 @@ verification sweep.
 | Countable and uncountable nouns sorted and marked C/U (an orange/oranges against water, rice, meat, milk, cheese) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 14, Lesson 1, printed pp.132–133 |
 | Singular and plural nouns | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.8–9 |
 | Regular plurals | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
+| The parts of speech taught in full as a grammar chapter — the noun system inside it | Pakistan, *English Grammar & Composition 9–10*, Chapter VII, printed p.148 (chapter runs to printed p.174) |
 
 | The noun as a word kind in its own right: one-line definitions of nouns, pronouns, verbs, adjectives, articles, adverbs, prepositions, conjunctions and interjections in the Parts of Speech appendix | Syria — Emar English Series 12, Workbook, Scientific Section, Appendix I "Parts of Speech," p.100 |
 | Countable and uncountable nouns as a lesson of their own — how much / how many, some / any — worked on food ("How much sugar is there," p.61) | Syria — English, Pupil's Book 5 (NCCD), Unit 16 "Food and Drinks," pp.60–62 |
@@ -424,3 +427,5 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 6's Checkpoint in *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Checkpoint's own shopping-picture list prints "eggs/egg" inconsistently against the teacher's key (sweep placements note) — the row cites the choice work itself, not the key.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its Chapter VII teaches the parts of speech in full (printed p.148, running to p.174), the noun system inside it.

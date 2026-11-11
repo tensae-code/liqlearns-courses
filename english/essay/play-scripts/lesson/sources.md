@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -99,6 +99,12 @@ the 2026-11-08 re-verification sweep.
 
 **Book 17:** Greece Αγγλικά Γενικού Λυκείου 2 (Anglika Genikou Lykeiou 2), Grades 11–12: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11–12 — Αγγλικά 2 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Same construction as the Grade 10 volume: thematic units of video/reading/discussion/project tasks.
 
+**Book 18:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *English Book III* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, intermediate literature book (plays and poems), April 2018 printing (imprint: Malik Muhammad Afzal & Sons, Lahore), no ISBN printed. Filed in english/books/pakistan.md; read page by page (complete OCR) in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A complete play script read: "The robbery" (Inspector Fox deduces that the photographer "borrowed" the dinosaur egg); then play-script writing with stage directions as the unit's writing work | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 10 "It's a mystery!", printed pp.122–123 (the script) and pp.128–129 (the writing) |
@@ -125,9 +131,14 @@ the 2026-11-08 re-verification sweep.
 | “Classroom theatre” — a literature extract: Shakespeare's A Midsummer Night's Dream; acting a scene | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 3, Lesson 3, contents p.vii |
 | “The Awful 5” — a play extract about pollutants; acting (project) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 9, Lesson 3, contents p.xi |
 | Unit 9 “The Merchant of Venice” — Shakespeare study: Shylock's monologue worked through a four-stage looking/thinking method (plot and speech studied as literature; no text transcribed) | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 9, printed p.141 |
+| A complete one-act play printed as a unit: "The Dear Departed" by William Stanley Houghton | Pakistan, *English 9*, Unit 11, printed p.132 |
+| A complete one-act play: "Heat Lightning" | Pakistan, *English Book III*, Play 1, printed p.1 |
+| A complete play: "A Visit to a Small Planet" | Pakistan, *English Book III*, Play 2, printed p.8 (contents) |
+| A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
+| Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 7 countries (Malaysia,
-Ghana, Barbados, India, Bangladesh, Mexico, Greece).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 8 countries (Malaysia,
+Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -138,3 +149,5 @@ Chekhov play in its senior book's Reading for Pleasure
 reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 9* prints a complete one-act play, Houghton's "The Dear Departed" (Unit 11, printed p.132). *English Book III* prints three complete plays — "Heat Lightning", "A Visit to a Small Planet" and Saroyan's "The Oyster and the Pearl" (a different work from Steinbeck's novella in English 12). *English 12* sets script analysis and writing in its Shakespeare unit (Unit 10, printed p.80 area). All three are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep, Book III page by page.

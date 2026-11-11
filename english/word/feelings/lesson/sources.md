@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -58,6 +58,12 @@ re-verification sweep.
 
 **Book 16:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 17:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
+**Book 18:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 19:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The feelings vocabulary list of 17: bored, cold, hot, confused, disappointed, tired, hungry, thirsty, surprised, nervous, happy, sad, upset, excited, afraid, brave, amused — carried under a hobbies-and-abilities heading after "knowing my town" and the and/but connectors | Bolivia, Year 2 (Grade 8), Topic 7 "Feelings and emotions," §2.3, student p.178 |
@@ -90,9 +96,15 @@ re-verification sweep.
 | The love / like / don't like / hate scale (with third-person -s) | Nicaragua, Grade 9 Módulo Autoformativo, Unit 4A, PDF p.112 |
 | Friendship vocabulary — bond, twin spirit, spouse, a shoulder to cry on… | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1, Lesson 2 |
 | Relationship words | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C |
+| A "My Day" page: the day's routine in words and rhyme | Pakistan, *English Nursery*, printed p.7 |
+| A Feelings page: the feeling words named and pictured | Pakistan, *English Nursery*, printed p.33 |
+| A "Responsible Citizen" values page | Pakistan, *English Nursery*, printed p.78 |
+| Expressing emotions as the Blessings of Allah unit's language work | Pakistan, *English 1*, Unit 6 (contents) |
+| Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
+| Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 9 countries (Albania, Bolivia,
-Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 10 countries (Albania, Bolivia,
+Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -127,3 +139,5 @@ are read (see READING-QUEUE.md).
 **Book 6:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Nursery* names feelings three times — a My Day routine page (printed p.7, the routine vocabulary's closest home), its Feelings page (printed p.33) and a Responsible Citizen values page (printed p.78). *English 1* expresses emotions in its Blessings of Allah unit and *English 2* works gratitude (Unit 4) and the good deed (Unit 9). All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

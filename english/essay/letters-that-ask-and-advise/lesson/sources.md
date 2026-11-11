@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -36,6 +36,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 7:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The primary letter kinds — invitation, praise, request, sympathy, apology — inside the primary writing syllabus | Barbados, Language Arts Syllabi, writing strand (as filed) — syllabus evidence |
@@ -45,9 +47,10 @@ verification sweep.
 | Writing: a letter to a pen pal coming to China, giving advice on how to behave properly (table manners, house rules, going out) | China — English ("Go for it!") Grade 9, Unit 10, printed p.80 |
 | Writing: a letter to the city mayor about the environmental problems in your town/city ("I think that… We should/could… I suggest…") | China — English ("Go for it!") Grade 9, Unit 13, printed p.104 |
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
+| The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 6 countries (Barbados,
-Ghana, Jordan, Sierra Leone, China, India).** India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 7 countries (Barbados,
+Ghana, Jordan, Sierra Leone, China, India, Pakistan).** India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -65,3 +68,5 @@ letter evidence found is the Form 1 formal complaint
 model and permission letters, and no advice letter was
 found in the Mongolia filing — so neither country is
 counted here.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 6* writes the informal letter in its First Aid unit (Unit 6, printed p.56). Its own pages carry two of the book's slips — "laddy" for lady (printed p.58) and "CRP" for CPR (printed p.59) — taught corrected wherever this book is used. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

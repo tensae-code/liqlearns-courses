@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan
 
 Every part traces to its book and page.
 
@@ -115,6 +115,10 @@ verification sweep.
 
 **Book 27:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 28:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
+**Book 29:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -159,9 +163,11 @@ verification sweep.
 | Personality adjectives — an extended set | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 8 |
 | Look like against be like | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 | Project frame "My favourite character!" — draw and present a favourite cartoon character | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 6, pupil printed p.56 |
+| Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
+| Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 14 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+**Acceptance count: taught in 15 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan).** North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -210,3 +216,5 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 7 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The same Module 7 culture spot (the London Eye) stocks the-town.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Nursery* teaches the hot/cold adjective pair with pictured things (printed p.11), and *English 12* sets descriptive composition as its Devoted Friend unit's writing work (printed pp.50–61). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

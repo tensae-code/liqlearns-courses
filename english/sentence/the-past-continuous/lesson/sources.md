@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan
 
 Every part traces to its book and page.
 
@@ -73,6 +73,12 @@ re-verification sweep.
 
 **Book 19:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 20:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 21:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 22:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The past continuous tabled whole at Year 3, Topic 6 | Bolivia, teacher compendium, Year 3 Topic 6 (as filed in english/books/bolivia.md) |
@@ -100,9 +106,14 @@ re-verification sweep.
 | “Magnetic fields” — past continuous vs past simple | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 7, Lesson 2, printed pp.77–80 |
 | Workbook Unit 7 (Magnetism), lessons 1–3 — practice of the past continuous with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 7, WB printed pp.76–86 |
 | The Beginners teacher's guide for Unit 7 “Magnetism and the world we live in” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.127 |
+| The past continuous tense, in the geography unit (with position words and connectors) | Pakistan, *English 4*, Unit 9 (contents) |
+| Simple past and past continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| Past indefinite and past continuous as the justice unit's grammar (with précis writing) | Pakistan, *English X*, Unit 1 (contents) |
 
-**Acceptance count: taught in 12 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan).** Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico teaches the past progressive in Grade 8 (interrupted actions, then a past-simple contrast review) and contrasts simple past with past progressive again in Grade 9 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 4* teaches the past continuous in its geography unit, *English 8* pairs simple past and past continuous in its grammar system, and *English X* sets past indefinite and past continuous in its opening unit. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

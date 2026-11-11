@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -71,6 +71,12 @@ verification sweep.
 
 **Book 16:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
 
+**Book 17:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 18:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 19:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Articles met inside the Year 1 school theme (class supplies; the computer's parts) | Bolivia, Year 1, Theme 3 "My school", p.167 (as filed) |
@@ -96,10 +102,13 @@ verification sweep.
 | The definite article "the" | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.42–48 |
 | A/an chosen by sound, including the honest cases — "an honest…, a unit…" | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 | "The" against no article — specific things against generalisations; the before hotels, theatres, some countries and geographical features | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5, PDF p.102 |
+| Articles a/an/the — and the omission of articles — as a named grammar strand | Pakistan, *English 1*, contents Language Focus column |
+| Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
+| Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 12 countries (Armenia,
+**Acceptance count: taught in 13 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -125,3 +134,5 @@ re-verification sweep merge).
 **Book 4:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 1* and *English 2* both name articles and the omission of articles as a grammar strand — Grade 2's printed rule ("We use the with the names of rivers, continents, etc.", printed p.47) is wrong as stated and is taught corrected — and *English 8* carries articles in its grammar system. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

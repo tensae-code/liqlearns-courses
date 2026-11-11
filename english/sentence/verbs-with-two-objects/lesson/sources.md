@@ -1,6 +1,6 @@
 # Sources — Verbs with two objects
 
-countries: Cambodia, Mongolia, India
+countries: Cambodia, Mongolia, India, Pakistan
 
 Every part traces to its book and page.
 
@@ -25,15 +25,18 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 4:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Verbs with two objects; direct vs indirect objects (Unit 15A), beside will for spontaneous decisions (Unit 15B) — presented in the guide's spreads, the student's page reproduced beside the teacher's page | Cambodia, Grade 11 Teacher's Book, Unit 15 "I'll help you!", pp.81–86 (teacher's-book spreads; student's book not held) |
 | Direct and indirect objects as a named objective (UE7) of the survivor's-tales unit | Mongolia, English IX, Unit 7 "Survivor's tales" (p.98) |
 | The two shapes printed as the Grammar Reference's matched pair: "I sent Mary some flowers" / "I sent some flowers to Mary" (the filing records the pair with the book's own Direct/Indirect labels as printed) | Mongolia, English IX, Unit 7, Grammar Reference (pp.154–164, as filed in mongolia.md) |
 | A named language point in the teacher notes: transitive and intransitive verbs — underline the direct object (He brought me a colourful umbrella; I will write a letter to him; give yourself a chance) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
+| Transitive and intransitive verbs in the grammar system (with action, linking and helping verbs) | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 3 countries (Cambodia,
-Mongolia, India).** India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
+**Acceptance count: taught in 4 countries (Cambodia,
+Mongolia, India, Pakistan).** India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
 half — verbs with two objects, direct vs indirect
 objects — evidenced by the Grade 11 Teacher's Book's
 spreads, the student's book not being held. Mongolia
@@ -44,3 +47,5 @@ signpost choice and the pronoun rule are taught here
 as the working system of the same two shapes; no third
 country's filing teaches the two-object system as a
 named point, and the lesson does not claim one.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* works transitive and intransitive verbs in its grammar system, beside action, linking and helping verbs. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

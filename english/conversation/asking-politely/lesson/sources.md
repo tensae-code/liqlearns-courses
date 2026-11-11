@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -63,6 +63,8 @@ covers the 6th Year book only).
 
 **Book 13:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 14:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Requests: can you / will you for casual requests, could you / would you / would you mind for formal ones — the distinction stated in the book's own notes; barbecue help, a wedding, and exam preparation at school | Cambodia, ENGLISH Grade 8, Unit 8 "Helping family and friends", printed pp.56–61 |
@@ -85,9 +87,10 @@ covers the 6th Year book only).
 | Polite questions with can / could / will / would — "Can you help me please?" | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2A, PDF p.44 |
 | A hotel reservation dialogue — asking politely for a room | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 12 |
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
+| Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 9 countries (Cambodia,
-Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 10 countries (Cambodia,
+Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan).** Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -122,3 +125,5 @@ Mauritania re-verification sweep merge). Mongolia joins with English XI, its Gra
 **Book 4:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the *English Nursery* teaches Courtesy Words — thank you, sorry, excuse me, please — as a page of their own (printed p.22). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

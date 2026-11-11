@@ -1,6 +1,6 @@
 # Sources — The passive in every tense
 
-countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia
+countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -24,6 +24,8 @@ Every part traces to its book and page.
 
 **Book 10:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 11:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Passive Voice — Present Continuous, Past Continuous and Present Perfect only (are being installed / were being built / have been made), with conversion and free-production tasks | Kuwait, Pearls 9B, Learning Unit 6, Lesson 6 Grammar, p.38 |
@@ -40,7 +42,10 @@ Every part traces to its book and page.
 | The passive in the perfect tenses (present, past and future perfect passive) (The book's quoted “people's views” on the future Olympics, printed pp.111–112, are ungrammatical as printed; they are learner-style opinion quotes, not models.) | Mongolia, English XI, Unit 7, printed pp.112–113 |
 | The past perfect passive | Mongolia, English XI, Unit 9, printed pp.139–140 |
 | Present and past perfect passive, reviewed in museum contexts | Mongolia, English XI, Unit 10, printed pp.156–157 |
+| The passive voice taught systematically for the present tenses — indefinite, continuous and perfect, each in its own section (the same book carries the passive through the past and future tenses too; those coats are stocked at the past perfect and future perfect lessons) | Pakistan, *English Grammar & Composition 9–10*, printed pp.88–95 (sections at printed pp.88, 91, 93) |
 
-**Acceptance count: taught in 8 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia).** Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan).** Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 The basic present/past passive itself is stocked by the earlier lesson, The passive, and is not re-counted here; this lesson's count covers only the countries whose books carry the deeper coats named above. Nepal's entry is teacher's-guide evidence and is worded as such everywhere it is used.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: it is the book that teaches the passive systematically for every tense — the present-tense coats stand here (indefinite printed p.88, continuous p.91, perfect p.93), and the past and future coats are stocked at the past perfect and future perfect lessons. Before this sweep the old filing's header claimed the passive was never taught as a topic in Pakistan's books; that claim covered only the counted set and does not survive this book.

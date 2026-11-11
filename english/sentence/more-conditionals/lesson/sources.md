@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -64,6 +64,10 @@ the 2026-11-08 re-verification sweep.
 
 **Book 16:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 17:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 18:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -86,10 +90,13 @@ the 2026-11-08 re-verification sweep.
 | Workbook Unit 5 lessons 2–3 — practice of the second conditional with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 5, WB printed pp.53–63 |
 | Second conditional | Mongolia, English XII, Unit 9, printed p.155 |
 | Third conditional | Mongolia, English XII, Unit 9, printed p.159 |
+| Conditionals Type II in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
+| The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
+| The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 12 countries (Armenia,
+**Acceptance count: taught in 13 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria, Bolivia, Mauritania, India, Greece, Mongolia).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -106,3 +113,5 @@ mood at Grade 5 HL Workbook 2.
 Mauritania teaches the unreal conditional in its Grade 11 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep teaches Conditionals Type II in its grammar system. *English X* works the second conditional in its Great Expectations unit and the third in its closing grammar stretch. English X is filed in english/books/pakistan.md and was re-read in the same sweep.

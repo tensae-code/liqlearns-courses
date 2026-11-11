@@ -334,6 +334,8 @@ verification sweep.
 
 **Book 99:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 100:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -646,6 +648,7 @@ verification sweep.
 | Story: a picnic where a bee goes after the pizza and Extra ends up covered in food (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 4, pupil printed p.47 |
 | Story: at the fair the friends paint their faces and Extra cannot recognise them (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 4, pupil printed p.55 |
 | Story: a hot beach day where Extra rubs ice cream on himself instead of sun cream (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 4, pupil printed p.63 |
+| A complete poem read at story scale: Robert Frost's "Stopping by Woods on a Snowy Evening", with alliteration, imagery and paraphrasing (filed as a summary only) | Pakistan, *English IX* (older curriculum), Unit 7 (contents) |
 **Acceptance count: taught in 37 countries (Bangladesh,
 Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia).** North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
@@ -767,3 +770,5 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 2:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The Module 2–8 story rows rest on this book alone (teacher evidence) — its reproduced pupil pages and notes: those pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). All North Macedonia stories are stocked as plot summaries only; no story text is transcribed.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its Unit 7 reads Robert Frost's "Stopping by Woods on a Snowy Evening" whole, with alliteration, imagery and paraphrasing — filed as a summary only.

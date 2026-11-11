@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan
 
 Every part traces to its book and page.
 
@@ -114,6 +114,16 @@ the 2026-11-08 re-verification sweep.
 
 **Book 29:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 30:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
+**Book 31:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 32:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 33:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 34:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -181,9 +191,16 @@ the 2026-11-08 re-verification sweep.
 | Disaster words, with safety imperatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 6, Lesson 16 |
 | Disaster words — the emergencies lesson | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5A |
 | Animals of hot and cold places — "Hot places! Cold places!", "Where do elephants live? — In hot places." — polar bear, kangaroo, camel, penguin, elephant, lion (Activity Book "Going for CLIL" 8, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 8 key and instructions, Teacher's Book pp.134(T)–135(T) |
+| Living and Non-Living Things, sorted and named | Pakistan, *English Nursery*, printed p.55 |
+| The Plant Life Cycle | Pakistan, *English Nursery*, printed p.71 |
+| Nature is Beautiful: nature words and sight words (the unit's grammar carries singular/plural nouns and polite words) | Pakistan, *English 1*, Unit 8, printed p.73 |
+| Gifts of Nature: taking care of animals and birds, seasons and colours, long and short vowels | Pakistan, *English 3*, Unit 2 (contents) |
+| Saving Resources: saving water and resources, environmental awareness, weak forms | Pakistan, *English 3*, Unit 8, printed p.75 |
+| Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
+| "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 13 countries (Albania, Mexico,
-Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 14 countries (Albania, Mexico,
+Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan).** North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -225,3 +242,5 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's printed key and instructions for the Activity Book's CLIL 8 lesson (the Activity Book itself is not in hand).
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 5 books stock this lesson: the *English Nursery* sorts living and non-living things (printed p.55) and follows the plant life cycle (printed p.71); *English 1* reads Nature is Beautiful (Unit 8, printed p.73); *English 3* takes Gifts of Nature and Saving Resources; *English 7* reads its Smog climate text (Unit 5, printed p.41); and *English 9* reads the snow leopard and markhor unit whole (Unit 10, printed p.120). All five are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

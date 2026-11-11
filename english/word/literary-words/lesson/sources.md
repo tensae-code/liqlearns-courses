@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -62,6 +62,12 @@ verification sweep.
 
 **Book 17:** Greece Αγγλικά Γενικού Λυκείου 2 (Anglika Genikou Lykeiou 2), Grades 11–12: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11–12 — Αγγλικά 2 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Same construction as the Grade 10 volume: thematic units of video/reading/discussion/project tasks.
 
+**Book 18:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 19:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 20:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 'The Many Kinds of Literature': the five kinds — novels, poetry, drama, folktales, essays — taken one by one; literature collocations (express ideas, argue a point, think deeply) | Egypt, Secondary 11 Term 1, Unit 11, Lesson 1 (as filed in EGYPT-BOOK-MAP.md) |
@@ -92,8 +98,11 @@ verification sweep.
 | Unit 3 “Renaissance arts & artists” — video and crossword on the Renaissance; Da Vinci and Michelangelo | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 3, printed p.33 |
 | Similes — "as white as snow…" — set inside the teacher instructions of the Additional Activities | Nicaragua, Secondary English, Grade 10 Student's Book, Additional Activities, printed p.58 |
 | Music and movie genre words | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 5 |
+| Figures of speech named and taught: simile, metaphor, imagery, personification, with connotations | Pakistan, *English IX* (older curriculum), Unit 4 (contents) |
+| Personification named and defined as a poetic literary device — "Personification is a poetic literary device" | Pakistan, *English 7*, Unit 9, printed p.79 |
+| Literary devices as the unit's grammar work (the key to its spot-the-error exercise is printed on the same page) | Pakistan, *English 12*, Unit 9, printed p.71 |
 
-**Acceptance count: taught in 11 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua).** Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 12 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge).
@@ -105,3 +114,5 @@ merge). Mexico's Grade 7 book matches its women's-history word set — suffrage,
 **Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep names simile, metaphor, imagery and personification in its Daffodils unit. *English 7* defines personification outright — "Personification is a poetic literary device" (Unit 9, printed p.79) — and *English 12* works literary devices in its Doll's House unit (Unit 9, printed p.71). English 7 and English 12 are filed in english/books/pakistan.md and were re-read in the same sweep.

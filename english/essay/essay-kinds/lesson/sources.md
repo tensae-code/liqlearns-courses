@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -76,6 +76,10 @@ verification sweep.
 **Book 15:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
 
+**Book 16:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 17:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Argumentative texts as the essay unit's production: the model "Let's compare universities and careers" and the pupil's own argument essay; the general structure that lets the body "explore both sides of debate" | Bolivia compendium, Year 6, Topic 1, student p.213 (1.3, with the structure table at 1.2) |
@@ -107,9 +111,12 @@ verification sweep.
 | Text Types and Purposes | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 4 (Writing), standard B7.4.2.2, PDF p.65 (curriculum evidence) |
 | Reading: a for-and-against essay on the internet for young people | Mongolia, English XII, Unit 9, printed pp.160–161 |
 | Writing a for-and-against essay (cell phones in class; Facebook) | Mongolia, English XII, Unit 9, printed pp.162, 170 |
+| A whole writing system: summary, essay, dialogue, paragraph, email writing, character sketch, descriptive writing, the contrast essay, personal narrative | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
+| Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
+| The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 8 countries (Bolivia,
-Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia,
+Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -120,3 +127,5 @@ builds the five-paragraph essay and lessons for its
 kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep carries a whole writing system — summary, essay, dialogue, paragraph, email writing, character sketch, descriptive writing, the contrast essay and personal narrative. *English 12* builds arguments with valid reasoning and evidence in Unit 7 (printed p.49 area) and sets the argumentative paragraph in Unit 12 (printed p.92); it is filed in english/books/pakistan.md and was re-read page by page in the same sweep.

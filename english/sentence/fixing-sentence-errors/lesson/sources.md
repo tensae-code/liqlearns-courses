@@ -1,6 +1,6 @@
 # Sources — Fixing sentence errors
 
-countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia
+countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -39,6 +39,8 @@ Education. Filed in english/books/sierra-leone.md
 
 **Book 10:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 11:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sentence-structure errors named together in the writing section: fragments, run-ons, comma splices (with sentence types and punctuation/mechanics) | Ethiopia, English Grade 11, Unit 1, Writing (1F); the unit runs printed pp.1–32 |
@@ -57,9 +59,11 @@ Education. Filed in english/books/sierra-leone.md
 | “Soil texture and structure” — tense revision inside soil-science texts | Greece, Exploiting the Earth, Part A4, printed p.32 |
 | Fixing errors in modal-advice sentences | Mongolia, English XII, Unit 2, printed p.43 |
 | Fixing sentence errors (infinitives; because vs because of) | Mongolia, English XII, Unit 7, printed p.120 |
+| Editing and proofreading, and final-draft writing and critiquing, as the unit's writing work | Pakistan, *English 12*, Unit 2, printed pp.14–16 |
+| Spot the error as the unit's grammar work | Pakistan, *English 12*, Unit 8, printed p.60 |
 
-**Acceptance count: taught in 5 countries (Ethiopia,
-Ghana, Sierra Leone, Greece, Mongolia).** Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
+**Acceptance count: taught in 6 countries (Ethiopia,
+Ghana, Sierra Leone, Greece, Mongolia, Pakistan).** Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
 five-error clinic: Grade 11 names fragments, run-ons
 and comma splices together, and Grade 12 builds its
 writing strand on them, adding dangling modifiers and
@@ -70,3 +74,5 @@ as curriculum evidence throughout, since no Ghana pupil
 textbook exists. Sierra Leone teaches completeness
 itself, with fragments and run-ons corrected inside the
 same lesson. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 12* teaches editing and proofreading and final-draft critiquing in Unit 2 (printed pp.14–16) and sets spot-the-error as Unit 8's grammar work (printed p.60). It is filed in english/books/pakistan.md and was re-read page by page in the 2026-11-08 re-verification sweep.

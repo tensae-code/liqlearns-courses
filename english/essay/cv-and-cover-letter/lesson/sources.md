@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan
 
 Every part traces to its book and page.
 
@@ -40,6 +40,8 @@ CHECK PASSED 2026-11-03).
 
 **Book 8:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 9:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a CV is (against the one-page resume) and nine steps for writing one — personal details, profile statement, achievements, education, employment, qualifications, skills, hobbies, references — ending with students writing and voting on CVs | Syria, Grade 12, Project 2 "Curriculum Vitae", pp.84–86 |
@@ -50,9 +52,10 @@ CHECK PASSED 2026-11-03).
 | A European-style CV read and answered; the pupil then creates their own CV | Laos, Book Seven (Grade 12), Unit 10, Lesson 1, pp.128–132 |
 | CV writing as techniques, formatting rules and proper order of sections; critical review of a sample high-school student's CV, checked true/false | Armenia, English 11, §1.7 Writing, pp.25–27 |
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
+| Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 8 countries (Syria,
-Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 9 countries (Syria,
+Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -66,3 +69,5 @@ filings show no CV unit at the named places, and South
 Sudan's letter-writing unit sits in its Primary 6 book
 (counted in Job application letters) — so none of the
 three is counted here.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English X* analyses and writes the job application in its World Without Books unit. It is filed in english/books/pakistan.md and was re-read in the 2026-11-08 re-verification sweep.

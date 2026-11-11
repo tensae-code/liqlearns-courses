@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -28,6 +28,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 9:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | ADJECTIVE ORDER — the order table (Quantity/Number · Quality · Size · Shape · Age · Color · Nationality · Material) with the worked examples ("There are 2, bad, small, old, red, American, plastic shoes"; "There is a tall, black dog"). The table prints "American / Bolivian / Japanese" in both the Nationality and the Material columns, as printed — recorded here as the filing records it | Bolivia, Year 6, Topic 5, p.221 |
@@ -42,8 +44,9 @@ verification sweep.
 | Clothing adjectives — adjective order: opinion–size–age–colour–material | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 20, printed p.92 |
 | Adjective + noun order | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Adjective order — opinion, size, shape, age, colour, nationality, material | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B, printed p.94 (PDF p.100) |
+| Degrees and order of adjectives, with the adjective phrase, in the Try Again unit | Pakistan, *English X*, Unit 3 (contents) |
 
-**Acceptance count: taught in 8 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.
 
@@ -56,3 +59,5 @@ The two tables differ in two named places, and the lesson says so: Bolivia's tab
 **Book 3:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English X* works degrees and order of adjectives, with the adjective phrase, in its Try Again unit. It is filed in english/books/pakistan.md and was re-read in the 2026-11-08 re-verification sweep.

@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan
 
 Every part traces to its book and page.
 
@@ -33,6 +33,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 8:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | REFLEXIVE PRONOUNS — the full set, as the theme's §1 grammar (Theme 7 stands on its own: ought to and “might have” for past conjecture are Theme 6, §1.5, a separate theme — DESCRIPTION CORRECTED 2026-11-08 by the re-verification sweep) | Bolivia, Year 6, Theme 7, §1 (as filed in bolivia.md) |
@@ -43,9 +45,10 @@ verification sweep.
 | Reflexive pronouns in full — myself, yourself, himself, herself, itself, ourselves, yourselves, themselves: the action falls back on the subject; also for emphasis (“by herself”) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 50–51 |
 | The self pronouns as the lesson's See Also grammar — the reflexive set beside the past progressive | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," See Also, printed pp.71–95 |
 | Form noticed: reflexive pronouns — emphatic use (himself/yourself) against same-subject use | India — Flamingo (Class 12), Noticing form in The Rattrap, printed pp.43–44 |
+| Reciprocal and reflexive pronouns, in the nature unit (with affixes, articles and sentence patterns) | Pakistan, *English 6*, Unit 3, printed p.27 |
 
-**Acceptance count: taught in 6 countries (Bolivia,
-Malaysia, Nepal, Yemen, Iran, India).** India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
+**Acceptance count: taught in 7 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran, India, Pakistan).** India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -59,3 +62,5 @@ here rather than a page invented. Iran adds the self
 pronouns as a See Also grammar in its Grade 10 travel
 lesson (stocked 2026-11-09 by the re-verification sweep
 merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 6* teaches reciprocal and reflexive pronouns in its nature unit (Unit 3, printed p.27). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

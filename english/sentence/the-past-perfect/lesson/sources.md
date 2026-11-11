@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -68,6 +68,14 @@ verification sweep.
 
 **Book 19:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 20:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 21:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 22:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 23:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -92,8 +100,12 @@ verification sweep.
 | “Technology” — future forms (will, present simple, present continuous, going to); past perfect simple; the passive and why we use it; prepositions of time and place; phrasal verbs (call for, take over, shut down, take place); opposite adjectives in in-/ir-/il-/im-; poem writing | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.9–10 |
 | Past perfect for the earlier of two past events | Mongolia, English XI, Unit 3, printed p.44 |
 | Narrative tenses together — past simple, past continuous and past perfect over one story line | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, printed pp.68–69 (PDF pp.74–75) |
+| The past-tense system, active and passive: past indefinite, continuous, perfect and perfect continuous, with the passive of the first three — each tense its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.96–116 (active sections at printed pp.96, 98, 101, 104; passive at pp.108, 110, 113) |
+| The past perfect tense in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
+| The past perfect and the past perfect continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| The past perfect (with the past perfect continuous) as a named strand of the population unit | Pakistan, *English X*, Unit 11 (contents) |
 
-**Acceptance count: taught in 16 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 17 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -103,3 +115,5 @@ verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its
 **Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Grammar & Composition 9–10* teaches the whole past system, active and passive, tense by tense (printed pp.96–116); the older-curriculum *English IX* carries the past perfect in its grammar system; *English 8* pairs past perfect with past perfect continuous in its grammar system; and *English X* names both in its population unit. The two grammar books stood unread in the old filing under the 2026-11-03 ruling and were read in the 2026-11-08 re-verification sweep; English 8 and English X are filed in english/books/pakistan.md and were re-read in the same sweep.

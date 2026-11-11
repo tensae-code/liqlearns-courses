@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -110,6 +110,12 @@ covers the 6th Year book only).
 
 **Book 23:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
 
+**Book 24:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
+**Book 25:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 26:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Directions whole: "Excuse me. Where's the (post office)? It's (far from here / just around the corner). How long does it take? Go (straight) and you'll find it on your (left/right); in front of / behind you / opposite / next to the school" | Saudi Arabia, We Can! 3, Unit 11 "Hanging Out in Town", printed pp.82–89 |
@@ -145,9 +151,12 @@ covers the 6th Year book only).
 | Asking for and giving directions politely — tourist-office language | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 3 |
 | Direction expressions with a map — turn left, go straight on, opposite… | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2A, PDF p.52 |
 | Cardinal points, and describing where places are on a town map | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.65 |
+| In and Out: position words | Pakistan, *English Nursery*, printed p.134 |
+| Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
+| Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 13 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 14 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -189,3 +198,5 @@ merge).
 **Book 4:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Nursery* teaches the position words in and out (printed p.134); *English 2* follows traffic rules in Unit 5 and *English 3* works road safety and making queues in its own Unit 5. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

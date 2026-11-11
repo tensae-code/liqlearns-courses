@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -30,6 +30,10 @@ re-verification sweep.
 
 **Book 11:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 12:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 13:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition — a serious document giving information, usually with advice — and the task size (150–180 words) | Egypt, Secondary 11 Term 1, Unit 4, Lesson 5, Tip Box p.57; task as printed with the unit |
@@ -48,8 +52,10 @@ re-verification sweep.
 | Reading a bar graph of community service; surveying the class and describing the results | Mongolia, English XII, Unit 3, printed pp.55–57 |
 | Writing a weather report for the regions of Nicaragua | Nicaragua, Activity Book 4 (Grade 4), Unit 2, printed pp.16–17 |
 | A guided country description — "Tell me about Nicaragua" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 11, printed p.49 |
+| A survey report printed whole: "Paucity of Textbooks in the Area of Allama Iqbal Town, Lahore" | Pakistan, *English 8*, printed p.122 |
+| Informative and explanatory texts as the unit's writing work | Pakistan, *English 12*, Unit 6, printed pp.38–44 (unit range) |
 
-**Acceptance count: taught in 9 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -58,3 +64,5 @@ re-verification sweep.
 **Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 8* prints a whole survey report — "Paucity of Textbooks in the Area of Allama Iqbal Town, Lahore" (printed p.122) — and *English 12* sets informative and explanatory writing in its Fun They Had unit (printed pp.38–44). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.

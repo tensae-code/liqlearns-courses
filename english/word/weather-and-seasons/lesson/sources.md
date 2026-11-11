@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan
 
 Every part traces to its book and page.
 
@@ -92,6 +92,8 @@ verification sweep.
 
 **Book 23:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
 
+**Book 24:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather outcomes: name weather conditions; describe weather with adjectives; express temperature (hot, cold, warm, cool, high, low, freeze, degrees); ask/answer weather questions | Albania, Akelius A2 Guide, Chapter 32 "The weather," overview, printed p.16 (PDF 19) |
@@ -139,9 +141,11 @@ verification sweep.
 | The seasons chant, tying each season to its sign — "Summer for the sun, Autumn for the rain, Winter for the snow, Spring for the flowers!" (new sign words sun, rain, snow, flower) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 2, pupil printed p.61 |
 | Weather sentences — "What's the weather like? — It's raining. / It's sunny. / It's snowing. / It's hot. / It's cold." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 3, pupil printed p.62 |
 | Culture spot "Welcome to Britain": British weather — "Spring, summer, autumn, winter in the UK. Bring an umbrella … anyway!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 5, pupil printed p.64 |
+| Weather words: cloudy, windy, rainy, sunny | Pakistan, *English Nursery*, printed p.8 |
+| The seasons: spring, summer, autumn, winter | Pakistan, *English Nursery*, printed p.9 |
 
-**Acceptance count: taught in 13 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 14 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan).** North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -184,3 +188,5 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All four North Macedonia rows in this lesson are teacher evidence: they rest on this book's reproduced pupil pages and notes for Module 8 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 8 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Module 8 because-frame stocks connectors-and-clauses, and its /s/–/ʃ/ sound spot stocks two-letter-sounds.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the *English Nursery* teaches the weather words (cloudy, windy, rainy, sunny, printed p.8) and the four seasons (printed p.9). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

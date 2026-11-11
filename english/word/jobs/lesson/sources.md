@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -110,6 +110,10 @@ verification sweep.
 
 **Book 35:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 36:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + full contact-sheet pass).
+
+**Book 37:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -172,9 +176,11 @@ verification sweep.
 | Work schedules | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 | Occupations and their definitions | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3A/C, PDF pp.80, 85 |
 | Workplaces — "Where does a barber work? He works in a barber shop" | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3C, PDF p.101 |
+| Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
+| Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 12 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 13 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -203,3 +209,5 @@ join as their books are read (see READING-QUEUE.md). Mongolia joins with English
 **Book 4:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Nursery* names the professions (printed p.70), and *English 1* works jobs in the surroundings in Cobbler, Cobbler (Unit 3). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan
 
 Every part traces to its book and page.
 
@@ -56,6 +56,10 @@ verification sweep.
 **Book 9:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
 
 
+**Book 10:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 11:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Direct speech punctuation set as the unit's language work, with reporting verbs for ways of speaking (whisper…) — MAPPED evidence: a Scheme of Work entry, the teacher planning document, not a pupil's-book page | Malaysia, English Language Scheme of Work — Primary Year 6, Unit 1 "It's an emergency!", Lessons 6–16 (Scheme of Work printed pp.44–56) |
@@ -68,9 +72,11 @@ verification sweep.
 | Form noticed: direct speech inside narration — why the author quotes; comma use when a subordinate clause precedes/follows the main clause | India — Flamingo (Class 12), Noticing form in Indigo, printed p.55 |
 | Direct Speech | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 4, PDF p.95 (teacher evidence) |
 | Travelling by Water | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 6, PDF p.100 (teacher evidence) |
+| Punctuation and quotation marks in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| Quotation marks in the book's closing grammar stretch (with simple, compound and complex sentences) | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 5 countries (Malaysia,
-Rwanda, South Africa, Indonesia, India).** India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
+**Acceptance count: taught in 6 countries (Malaysia,
+Rwanda, South Africa, Indonesia, India, Pakistan).** India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
 6 Scheme of Work — a teacher planning document, not a
 pupil's textbook — and is worded as mapped coverage
 throughout: Unit 1 of the map sets direct speech
@@ -93,3 +99,5 @@ punctuation as a named system; the lesson does not claim
 them.
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 8* carries punctuation and quotation marks in its grammar system, and *English X* works quotation marks in its closing grammar stretch. Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.

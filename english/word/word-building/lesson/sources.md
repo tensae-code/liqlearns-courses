@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -95,6 +95,14 @@ verification sweep.
 
 **Book 23:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 24:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 25:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 26:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 27:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Class 1 word-work run: suffixes s, es, ies, ed, ied, ing; prefixes (un-fair → unfair, dis-honest); roots; compound words; syllabication | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -134,9 +142,14 @@ verification sweep.
 | Job-noun suffixes -er/-or, -ist, -ian | Mongolia, English XI, Unit 2, printed p.25 |
 | Eater words from Latin -vore (herbivore, carnivore, omnivore, insectivore) | Mongolia, English XI, Unit 6, printed p.96 |
 | Word building — prefixes in-/un-/dis-/im-/re-/pre- and suffixes -er/-able/-ful | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
+| A closing vocabulary chapter: syllabified word lists running to the end of the book | Pakistan, *English Grammar & Composition 9–10*, Chapter VIII, printed p.179 |
+| Abbreviations as the mosque unit's vocabulary work | Pakistan, *English IX* (older curriculum), Unit 6 (contents) |
+| Prefixes and suffixes as the opening unit's word-building work (with silent letters and pronoun-antecedent agreement) | Pakistan, *English 7*, Unit 1, printed p.1 |
+| Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 11 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 12 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -162,3 +175,5 @@ are read (see READING-QUEUE.md). Mongolia joins with English XI, its Grade 11 bo
 **Book 1:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Grammar & Composition 9–10* closes with a vocabulary chapter of syllabified word lists (Chapter VIII, printed p.179), and the older-curriculum *English IX* works abbreviations in its mosque unit — both books stood unread in the old filing under the 2026-11-03 ruling and were read in the 2026-11-08 re-verification sweep. *English 7* opens with prefixes and suffixes (Unit 1, printed p.1) and *English 8* carries thesaurus work, multi-syllable words and abbreviations and acronyms in its grammar system; both are filed in english/books/pakistan.md and were re-read in the same sweep.

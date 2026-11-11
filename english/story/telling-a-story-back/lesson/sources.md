@@ -140,6 +140,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 38:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -220,6 +222,7 @@ verification sweep.
 | The anthology project: an anthology of short folktales or legends in English, gathered for retelling | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 128 |
 | A story retold from inside: rewrite part of the story as if Wanda is telling her own story | India — First Flight (Class 10), Writing in Hundred Dresses, printed p.82 |
 | Ordering the La Cegua story — retelling in sequence | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2C |
+| A whole chapter on story writing: specimen stories, and stories built up from outlines | Pakistan, *English Grammar & Composition 9–10*, Chapter II, printed p.8 |
 
 **Acceptance count: taught in 27 countries (Bangladesh,
 Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua).** India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
@@ -299,3 +302,5 @@ their books are read (see READING-QUEUE.md). Mexico's Grade 8 book gathers an an
 **Book 1:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its Chapter II is a whole chapter on story writing — specimen stories and stories built from outlines (printed p.8).

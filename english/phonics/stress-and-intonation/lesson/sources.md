@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -57,6 +57,10 @@ file).
 
 **Book 14:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Advanced — Προχωρημένοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 24 student lessons and carries supplementary reading, listening, speaking and writing per lesson.
 
+**Book 15:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 16:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | WORD STRESS taught by name: the stressed syllable is the more prominent one; a word has as many syllables as it has vowels; the ´ mark — camel, balloon, decent, opinion, ´manner — then stressed syllables underlined in twelve words | India — Honeydew, Class 8, Unit 7 ("A Visit to Cambridge"), Speaking/Writing section, as filed in english/books/india.md |
@@ -104,8 +108,10 @@ file).
 | Counting syllables — pronunciation work inside the food-containers lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 14, printed p.68 |
 | Weak forms of of / to / and | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 17, printed p.82 (PDF p.88) |
 | Word stress — FOLKlore, anCEStors, paRADE | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2B, printed pp.59–61 |
+| Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
+| An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 11 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 12 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -144,3 +150,5 @@ grow as other closed countries' books are read.
 **Book 3:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 2* names rhythm, stress and intonation in its closing units, and *English 7* prints an IPA pronunciation chart at its back (printed p.130). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

@@ -1,6 +1,6 @@
 # Sources — Subject-verb agreement
 
-countries: Nepal, Sierra Leone, South Africa
+countries: Nepal, Sierra Leone, South Africa, Pakistan
 
 Every part traces to its book and page.
 
@@ -44,6 +44,8 @@ Education, Sixteenth edition 2026. Filed in
 english/books/south-africa.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 8:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Concord (subject–verb agreement) as the unit's Grammar I, with the filed examples "one of my friends is…", "twenty dollars is…", "police were…" — inside the quantity and measurement unit | Nepal, English Grade 7, Unit 14, printed pp.142–153 |
@@ -54,9 +56,10 @@ CHECK PASSED 2026-11-03).
 | Concord — noun-numbers and pronoun–antecedent agreement: singular antecedent with singular pronoun | Sierra Leone, SSS3 Pupil Handbook Term 3, Lesson 106, printed p.23 |
 | Subject–verb agreement at workbook age: there is/are; farmers plough / ploughs | South Africa, English Home Language Grade 5 Workbook 1, printed p.28 |
 | Subject–verb agreement with is/are | South Africa, English Home Language Grade 6 Workbook 1, printed p.30 |
+| Subject-verb agreement as a named grammar point of the older Grade 9 book | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 
-**Acceptance count: taught in 3 countries (Nepal,
-Sierra Leone, South Africa).** Nepal files the three
+**Acceptance count: taught in 4 countries (Nepal,
+Sierra Leone, South Africa, Pakistan).** Nepal files the three
 tricky examples this lesson is built on — one of,
 twenty dollars, police — inside its Grade 7 quantity
 unit, and returns to agreement as a named Grade 10
@@ -69,3 +72,5 @@ names Ghana and Ethiopia concord stock; no concord
 teaching was found under those names in the Ghana or
 Ethiopia filings as read for this build, so neither is
 cited here.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: it names subject-verb agreement in its grammar system (contents pp.3–5).

@@ -178,6 +178,8 @@ verification sweep.
 **Book 50:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
 
+**Book 51:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -283,6 +285,7 @@ verification sweep.
 | Writing a composition about your future plan | Mongolia, English XII, Unit 3, printed p.62 |
 | Writing an argumentative essay, "Can we use the smartphone smartly?" | Mongolia, English XII, Unit 8, printed p.147 |
 | Writing an argumentative essay, "Why is breakfast important?" | Mongolia, English XII, Unit 8, printed p.152 |
+| A whole chapter on essay writing, with specimen essays | Pakistan, *English Grammar & Composition 9–10*, Chapter VI, printed p.46 |
 
 **Acceptance count: taught in 24 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia).** India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
@@ -373,3 +376,5 @@ READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 
 **Malaysia — primary pupil's books added 2026-11-06** — 1 further Malaysia book stocks this lesson, read directly: **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Academy Stars Year 6: the opinion essay: topic sentences, introduction, two argument paragraphs, conclusion, with Bart's sugar essay as the model (pp.114–115).
 
 **Bangladesh added 2026-11-08 (re-verification sweep)** — 1 book stocks this lesson: **Book:** *English for Today, Classes XI–XII & Alim* (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. The volume was never covered by the old country filing; the sweep re-read it and stocked its one essay item: "Limits of the Scientific Method," an essay on the limits of science read as a model at the close of the Environment and Nature unit (Unit Twelve, Lesson 5, printed p.235). Stated plainly: the book reads this essay; it does not anatomise the essay form, and no essay-structure teaching is claimed for Bangladesh.
+
+**Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its Chapter VI is a whole chapter on essay writing, with specimen essays (printed p.46).

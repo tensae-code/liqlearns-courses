@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -54,6 +54,12 @@ verification sweep.
 
 **Book 19:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 20:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 21:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents read visually + contact-sheet pass).
+
+**Book 22:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The procedure shape — goal, ingredients/materials, steps — in recipes and a craft procedure (an instant-porridge pack as a first procedure; making a pencil holder) | Indonesia, Grade 7, Chapter 2 'Culinary and Me', printed pp.57–100 (as filed in indonesia.md) |
@@ -83,11 +89,16 @@ verification sweep.
 | Hotel Unit 14 “Understanding and giving instructions (2)” — instruction language | Greece, English for the Hotel and Tourist Trade, Unit 14, printed p.237 |
 | Writing how-to instructions (doing yoga) in the present simple passive | Mongolia, English XII, Unit 1, printed p.26 |
 | Evacuation procedures — a process text | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 6, Lesson 17 |
+| Writing instructions — with posters, invitation cards, character sketches and comic strips among the book's writing kinds | Pakistan, *English 3*, contents writing strands |
+| Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
+| A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 10 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
 **Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 3* writes instructions among its writing kinds; *English 5* reads the Invention of Glass as a process text (Unit 8, printed p.49); and *English 8* sets a recipe among its writing kinds. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

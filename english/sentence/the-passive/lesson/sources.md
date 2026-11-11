@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -183,6 +183,10 @@ verification sweep.
 
 **Book 78:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 79:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 80:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. Filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -247,6 +251,9 @@ verification sweep.
 | Use passive sentences for a range of functions | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.6, PDF p.55 (curriculum evidence) |
 | Use passive forms appropriately in speech | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.4, PDF p.121 (curriculum evidence) |
 | The passive voice | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, printed p.115 (PDF p.121) |
+| Voice — the passive — as a named grammar point of the older Grade 9 book | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
+| Active and passive voice as a taught grammar item of the First Aid unit | Pakistan, *English X*, Unit 4 (contents) |
+| Active and passive voice again as a taught grammar item of the Rain unit | Pakistan, *English X*, Unit 5 (contents) |
 
 | Active voice named alongside the passive | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.90 |
 | The set's one full passive lesson: the passive voice defined — "The action is done to the subject" — with active→passive conversions | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.95 |
@@ -336,8 +343,8 @@ verification sweep.
 | Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
-**Acceptance count: taught in 32 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
+**Acceptance count: taught in 33 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -426,3 +433,5 @@ from its naming in Book Four to the full system here.
 **Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep names voice in its grammar system, and *English X* lists active and passive voice as a taught grammar item in Units 4 and 5. The old filing's header claimed the passive is never taught as a topic in Pakistan's books; that was true only of the thirteen counted books, and English X's own contents grid — three voice units in a row — already broke it. English X is filed in english/books/pakistan.md and was re-read in the same sweep.

@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan
 
 Every part traces to its book and page.
 
@@ -57,6 +57,10 @@ the 2026-11-08 re-verification sweep.
 
 **Book 12:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 13:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 14:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1, Lesson 5 "Time": compound words (foot+ball, hour+glass, sun+dial…) inside the sundials/water-clock/hourglass reading | Sudan, SMILE Book 7 (Grade 7), Unit 1, Lesson 5, printed pp.1–8 |
@@ -72,9 +76,11 @@ the 2026-11-08 re-verification sweep.
 | “The bravest student” — verbs followed by gerund; compound nouns | Greece, Think Teen! Grade 9 Student's Book, Unit 3, Lesson 2, printed p.29 |
 | Workbook “The bravest student” — practice on compound nouns with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 2, WB printed pp.34–41 |
 | Compound nouns, abstract nouns and complex noun phrases | Mongolia, English XI, Unit 8, printed pp.121–122 |
+| Compound words — with homophones (whether/weather, scene/seen, herd/heard, hare/hair, they're/there/their) — in the opening unit | Pakistan, *English 6*, Unit 1, printed pp.1–13 |
+| Compound words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 8 countries (Albania,
-Barbados, Mongolia, Sudan, Vietnam, China, India, Greece).** Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
+**Acceptance count: taught in 9 countries (Albania,
+Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan).** Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -87,3 +93,5 @@ inside its doctor chapter. China works compound words as
 vocabulary building in Grade 5 — coffee shop, cell phone
 (stocked 2026-11-08 by the re-verification sweep). Other closed countries join as
 their books are read (see READING-QUEUE.md).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 6* opens with compound words (Unit 1, printed pp.1–13) and *English 8* carries them in its grammar system. Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

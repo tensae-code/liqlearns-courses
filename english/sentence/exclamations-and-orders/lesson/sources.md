@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan
 
 Every part traces to its book and page.
 
@@ -87,6 +87,12 @@ covers the 6th Year book only).
 
 **Book 28:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
+**Book 29:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 30:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 31:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Imperatives: the base form for positive instructions, don't + base for negative; the note that they end with an exclamation point "because they are strong instructions" | Egypt, Primary 3, Term 2, printed p.8 (via EGYPT-BOOK-MAP.md) |
@@ -126,9 +132,12 @@ covers the 6th Year book only).
 | Imperatives — a revision lesson | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
 | Imperatives in recipes — chop, mix; and the negative imperatives ("I love to cook!") | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 17, printed p.79 |
 | Classroom commands in a TPR song: look and listen, stand up, sit down, open your book, close your book, hands up, hands down | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 2, pupil printed p.22 |
+| Commands as a named grammar strand | Pakistan, *English 1*, contents Language Focus column |
+| The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
+| Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 10 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia).** North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 11 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan).** North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -167,3 +176,5 @@ by the Mauritania re-verification sweep merge).
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 3 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 3 pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 1* names commands as a grammar strand, *English 4* works the exclamation mark in its gratitude unit, and *English 8* carries imperatives and exclamatory sentences in its grammar system. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

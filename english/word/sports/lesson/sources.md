@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -96,6 +96,10 @@ verification sweep.
 
 **Book 20:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 21:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 22:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -131,9 +135,11 @@ verification sweep.
 | Do, go or play (a sport) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 25, printed p.116 |
 | Sports equipment | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 26, printed p.120 |
 | Recreation — entertainment and recreation activities | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5 |
+| Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
+| I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 11 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 12 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -161,3 +167,5 @@ READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy
 **Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 2* holds its Sports Day of local sports (Unit 7, printed p.62 area) and *English 3* plays games in I Like to Play (Unit 7). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

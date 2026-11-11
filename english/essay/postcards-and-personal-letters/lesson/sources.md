@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -68,6 +68,8 @@ verification sweep.
 
 **Book 14:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 15:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The model postcard read, then your own written: Omar's postcard from Jeddah (the page is headed "Phonics" in print although its goal is postcard writing, as filed) | Saudi Arabia, We Can! 3 Workbook, Goal 96, printed p.234 |
@@ -92,9 +94,10 @@ verification sweep.
 | Writing an e-mail about a trip | Mongolia, English XII, Unit 5, printed p.87 |
 | Writing an email to a friend | Nicaragua, Activity Book 4 (Grade 4), Unit 5, printed pp.39–40 |
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
+| Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 7 countries (Saudi
-Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 8 countries (Saudi
+Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -113,3 +116,5 @@ by the re-verification sweep).
 **Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 2* names writing a greeting card among its writing tasks. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

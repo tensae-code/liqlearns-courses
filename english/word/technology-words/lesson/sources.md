@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -96,6 +96,10 @@ colophon; cited once.
 
 **Book 23:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 24:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
+**Book 25:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1 computer hardware/software: the Magaly reading and collocations (scan a document, upload a photo, print a document); the parts of the computer numbered 1–6 — 1. DRIVE ("reads CD/DVD discs" as printed), 2. MONITOR (output device), 3. KEYBOARD (principal input device), 4. MOUSE (pointing device), 5. MODEM/ROUTER (network signal), 6. PRINTER | Bolivia, Year 2, Topic 6 "Convivencia intercultural a través del uso de la tecnología," student p.177 |
@@ -144,9 +148,11 @@ colophon; cited once.
 | Technology in education words (laptop, tablet, smartboard, projector, flash drive) | Mongolia, English XII, Unit 9, printed p.154 |
 | Drones: what they are and what they are used for; drone words defined | Mongolia, English XII, Unit 9, printed pp.154–155 |
 | Cyberbullying: staying safe online, danger signs, the 108 helpline | Mongolia, English XII, Unit 9, printed pp.157–158 |
+| The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
+| "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia).** Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 11 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan).** Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -165,3 +171,5 @@ literacy unit at topic level in its Grade 12 teacher
 guide — teacher-guide evidence only (stocked 2026-11-09
 by the re-verification sweep merge). Other closed countries join as
 their books are read (see READING-QUEUE.md). Mexico builds technology across the grades: tools and machines as the body's functions delegated, and a social-networks study (Grade 7); the automatons history reading (Grade 8); and a social-media lapbook (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 4* journeys through chocolate as an inventions text (Unit 3), and *English 6* reads its Importance of Science & Technology whole (printed pp.101–109; its contents rotate the last units against the body openers, and the body opener governs). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

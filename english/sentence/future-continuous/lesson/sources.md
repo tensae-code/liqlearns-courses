@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan
 
 Every part traces to its book and page.
 
@@ -27,6 +27,8 @@ colophon; cited once.
 
 **Book 7:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 8:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The future continuous carried in Secondary 11 Term 2's future work | Egypt, Secondary 11 Term 2 (as filed in EGYPT-BOOK-MAP.md) |
@@ -36,5 +38,8 @@ colophon; cited once.
 | The future continuous — the student book's full treatment (the book models the negative throughout as “will be not + verb-ing” — “I will be not dancing” — taught corrected: will not be dancing, the order the compendium prints) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 52–55 |
 | The future progressive (will be + -ing): “We will be implementing energy-saving policies” | Mexico, Grade 9, Project 12 "Technical Solutions Using Sustainable Energies", printed p. 112 |
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
+| Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 6 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

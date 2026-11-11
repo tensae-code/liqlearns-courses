@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -77,6 +77,14 @@ verification sweep.
 
 **Book 22:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 23:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 24:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 25:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 26:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Idiom Tip: an idiom is a fixed multi-word expression whose meaning can't be deduced from its words — 'spring into action', 'Teamwork makes the dream work'; learners hunt five more hard-work idioms | Egypt, Secondary 11 Term 1, Unit 1, Lesson 1, SB p.13 (as filed in EGYPT-BOOK-MAP.md) |
@@ -113,8 +121,12 @@ verification sweep.
 | Transport collocations — take a bus, get on/get off, get in/get out, catch, ride, drive | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1A–C, PDF pp.11, 18 |
 | Superstition expressions | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 6 |
 | Weather idioms — under the weather, break the ice, save for a rainy day, weather the storm, come rain or shine | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 6, Lesson 17 |
+| Idioms, with denotation and connotation, in the Quaid's Vision unit | Pakistan, *English IX* (older curriculum), Unit 5 (contents) |
+| Idioms and proverbs in the Wise Old Woman unit | Pakistan, *English 7*, Unit 8, printed p.72 |
+| Idioms and proverbs in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| Idioms and proverbs in texts, as the opening unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 1, printed p.7 |
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 9 'Colour's my world!' colour-idioms lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the Grade 9 'Colour's my world!' colour-idioms lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -125,3 +137,5 @@ verification sweep.
 **Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep works idioms in its Quaid's Vision unit. *English 7* works idioms and proverbs in the Wise Old Woman unit (Unit 8, printed p.72), *English 8* carries them in its grammar system, and *English 12* opens with idioms and proverbs in texts (Unit 1, printed p.7). The Grade 7, 8 and 12 books are filed in english/books/pakistan.md and were re-read in the same sweep.

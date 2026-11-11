@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -114,6 +114,10 @@ re-verification sweep.
 
 **Book 30:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 31:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents + unit-opener pass).
+
+**Book 32:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -153,9 +157,13 @@ re-verification sweep.
 | IT Text 2 “Operating Systems” — operating-system text; comparisons of adjectives and adverbs, regular and irregular | Greece, EPAL Information Technology folder, Text 2, printed p.29 |
 | Comparisons: (not) as … as, so … as, like, more/less … than, for adjectives and adverbs | Mongolia, English XI, Unit 10, printed pp.162–163 |
 | Comparative adverbs and adverbs of manner; as … as with adverbs | Mongolia, English XII, Unit 10, printed pp.174, 176–177 |
+| Degrees of adjectives — regular and irregular adjectives compared — in the Harmony in Society unit (with relative pronouns, clauses and phrases, commas and dictionary use) | Pakistan, *English 6*, Unit 5, printed p.47 |
+| Degrees of adjectives in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 10 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 11 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
 2026-11-09 by the Mauritania re-verification sweep merge). Mexico tables comparative and superlative adjectives whole in Grade 7 and returns with as…as equality comparisons in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 6* compares regular and irregular adjectives in Harmony in Society (Unit 5, printed p.47) and *English 8* carries degrees of adjectives in its grammar system. Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

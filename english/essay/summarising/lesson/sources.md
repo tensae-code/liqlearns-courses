@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -45,6 +45,12 @@ PASSED 2026-11-06).
 **Book 9:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
 
+**Book 10:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 11:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
+**Book 12:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Summarising defined as selection + paraphrase; the same steps as note-making, but points expanded into full sentences with connectors, NOT nominalised; one word for many; a 225-word text carried through three printed reductions — 111 words of points, a 90-word summary, then 74 words — with the devices named; the rule of thumb: a summary is usually one-third the length of the original | India, Hornbill, Writing Skills 2 "Summarising", printed pp.94–98 |
@@ -63,9 +69,12 @@ PASSED 2026-11-06).
 | Writing a summary, with summary-writing rules | Mongolia, English XI, Unit 8, printed p.135 |
 | Reading: the world's languages are disappearing (Ethnologue) — and summarising it | Mongolia, English XII, Unit 6, printed pp.100–101 |
 | Writing a summary from notes (the Mongolian script) | Mongolia, English XII, Unit 6, printed p.104 |
+| Summarising the main idea as the media unit's reading work | Pakistan, *English IX* (older curriculum), Unit 2 (contents) |
+| Paraphrasing named in the grammar system | Pakistan, *English 8*, grammar system (contents) |
+| Précis writing as the unit's writing work | Pakistan, *English 12*, Unit 11, printed pp.84–87 (unit range) |
 
-**Acceptance count: taught in 6 countries (India,
-Mauritania, Sudan, South Sudan, Malaysia, Mongolia).** India
+**Acceptance count: taught in 7 countries (India,
+Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan).** India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
@@ -74,3 +83,5 @@ headings; Malaysia teaches the Someone–Wanted–So–But–
 Then story frame. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep works summarising the main idea in its media unit. *English 8* names paraphrasing in its grammar system, and *English 12* sets précis writing in its Letter to God unit (printed pp.84–87). English 8 and English 12 are filed in english/books/pakistan.md and were re-read in the same sweep.

@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -59,6 +59,12 @@ colophon; cited once.
 **Book 10:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
 
+**Book 11:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
+**Book 12:** *English Book I* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, intermediate literature book (15 short stories), April 2018 printing, no ISBN printed. Filed in english/books/pakistan.md; read page by page (complete OCR) in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. Filed in english/books/pakistan.md; read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The speech for or against an argument as a set writing kind; the speaking work on stressing the important information in arguments (electric cars by 2050, for and against); the Workbook's own speech for or against electric cars | Egypt, Secondary 11 Term 2, Unit 8, Lessons 3–4 and Workbook Unit 8 (as filed in EGYPT-BOOK-MAP.md) |
@@ -78,9 +84,12 @@ colophon; cited once.
 | Argumentative/Persuasive Writing — Write explanations and examples to support opinions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.13.1, PDF p.231 (curriculum evidence) |
 | Reading: a speech arguing for more exercise at school — argument vs fact | Mongolia, English XII, Unit 8, printed p.139 |
 | Writing and giving an argumentative speech | Mongolia, English XII, Unit 8, printed p.141 |
+| A whole chapter on dialogue writing, with specimen dialogues | Pakistan, *English Grammar & Composition 9–10*, Chapter IV, printed p.28 |
+| A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
+| Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 9 countries (Egypt, Ghana,
-Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia).** Egypt sets the speech for or against an
+**Acceptance count: taught in 10 countries (Egypt, Ghana,
+Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -94,3 +103,5 @@ read with a strategy box on text type and purpose
 (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It gives a whole chapter on dialogue writing, with specimen dialogues (printed p.28). *English Book I* prints a complete speech as a lesson text — Martin Luther King Jr.'s "I Have a Dream" (Lesson 11, printed p.67) — and *English 12* closes its Pearl unit with a mock trial, a debate and book-review writing (Unit 13, printed p.155). Book I and English 12 are filed in english/books/pakistan.md and were re-read page by page in the same sweep.

@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan
 
 Every part traces to its book and page.
 
@@ -56,6 +56,8 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 8:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents table + contact-sheet pass).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Invitations (Study Box: "I'm going to go shopping / to the cinema / to a football match. Would you like to come? — Yes, please, I'd love to. / I'm sorry. I'd like to, but I'm afraid I can't."); pupil-A/pupil-B invitation role-cards with reasons for refusing | Syria, English for Starters 5, Unit 21 "Making invitations / films and the cinema", printed pp.61–63 |
@@ -69,9 +71,10 @@ covers the 6th Year book only).
 | Inviting, and accepting and declining invitations (would you like to…, how about + -ing, let's) | Mauritania, Study English, Grade 8, printed pp.12–15 |
 | Writing an invitation by email, after the special-days reading | Nicaragua, Activity Book 4 (Grade 4), Unit 1, printed pp.9–10 |
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
+| Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 7 countries (Albania, Bolivia,
-Malaysia, Nepal, Syria, Mauritania, Nicaragua).** Albania — teacher-guide
+**Acceptance count: taught in 8 countries (Albania, Bolivia,
+Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan).** Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -95,3 +98,5 @@ sweep merge).
 **Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 4* names invitations among its writing kinds, beside short notes and dialogues. (The fuller invitations system — invitations with acceptance and refusal — is stocked from the Grammar & Composition 9–10 at the formal letter lesson.) It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

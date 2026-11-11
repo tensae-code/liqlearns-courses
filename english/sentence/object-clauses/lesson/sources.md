@@ -1,6 +1,6 @@
 # Sources — Object clauses
 
-countries: Albania, China, Nepal, South Africa, Greece
+countries: Albania, China, Nepal, South Africa, Greece, Pakistan
 
 Every part traces to its book and page.
 
@@ -34,6 +34,8 @@ Education. Filed in english/books/south-africa.md
 
 **Book 6:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
 
+**Book 7:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Object clauses with that, if, whether (music festivals unit); Grammar Focus | China, English Grade 9, Unit 2, printed pp.9–16 (Grammar Focus, printed p.12) |
@@ -45,9 +47,10 @@ Education. Filed in english/books/south-africa.md
 | Expressing degrees of certainty and probability: the grammar is the "that" clause — "I'm sure that…", "There's no doubt that…" | Nepal, Teachers' Guide English Grade 9, Unit 16 (teacher's guide), printed pp.119–124 |
 | Noun clauses met early: "I don't know whose pen it is" | South Africa, Home Language Grade 4, Workbook 2, Theme 7, printed p.99 |
 | Workbook Unit 6 (Keeping traditions and customs alive!), lessons 1–3 — practice of believe/think/feel + that-clause patterns with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 6, WB printed pp.65–75 |
+| The noun phrase and the noun clause in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 5 countries (Albania,
-China, Nepal, South Africa, Greece).** Greece joins with the Grade 9 workbook's that-clause practice unit and the teacher's guide already cited here (stocked 2026-11-10 by the Greece re-verification sweep merge). China carries the full
+**Acceptance count: taught in 6 countries (Albania,
+China, Nepal, South Africa, Greece, Pakistan).** Greece joins with the Grade 9 workbook's that-clause practice unit and the teacher's guide already cited here (stocked 2026-11-10 by the Greece re-verification sweep merge). China carries the full
 system in a pupil's book: that/if/whether in Unit 2,
 wh- clauses in Unit 3, and the gathered reference
 section. Albania and Nepal are cited as what they are —
@@ -56,3 +59,5 @@ draft teachers' guide), never as student books;
 Albania's filing itself draws the not-reported-speech
 line this lesson teaches. South Africa meets the same
 clause at Grade 4 under the name noun clause.
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* carries the noun phrase and the noun clause in its grammar system. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

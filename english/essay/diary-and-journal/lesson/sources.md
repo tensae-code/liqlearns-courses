@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan
 
 Every part traces to its book and page.
 
@@ -74,6 +74,8 @@ verification sweep.
 
 **Book 14:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
+**Book 15:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. Filed in english/books/pakistan.md; re-read in the 2026-11-08 re-verification sweep (contents list + check-verified anchors).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The diary entry as a writing genre with informal features, taught as the unit's writing lesson | Malaysia, Academy Stars Year 6, Unit 2 "Life in the past", pp.28–29 (direct read) |
@@ -97,9 +99,10 @@ verification sweep.
 | Experience narrated as diary-shaped writing: narrate an experience that changed your opinion of someone/something | India — Flamingo (Class 12), Writing after The Last Lesson, printed p.11 |
 | Reading: a diary extract from Diary of a Wimpy Kid | Mongolia, English XII, Unit 6, printed pp.109–110 |
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
+| A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 6 countries (Malaysia,
-Nepal, Egypt, China, India, Mongolia).** India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 7 countries (Malaysia,
+Nepal, Egypt, China, India, Mongolia, Pakistan).** India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -110,3 +113,5 @@ Tip Box restated at Secondary 12. China keeps a diary
 across its Grade 5 Recycle pages and sets a dated entry
 as writing again at Grade 9 (stocked 2026-11-08 by the
 re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* sets a diary page among its writing kinds (printed pp.116–117). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.

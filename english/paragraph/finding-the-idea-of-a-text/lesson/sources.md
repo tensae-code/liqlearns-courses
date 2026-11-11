@@ -154,6 +154,8 @@ differ only in cover wording and colophon; cited once.
 **Book 46:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
 
 
+**Book 47:** *English IX* (student's book, older curriculum) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, National Curriculum 2006, approved 07-12-2012, no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -242,6 +244,7 @@ differ only in cover wording and colophon; cited once.
 | Reading: a "Teen" newspaper article on leisure activities — finding the topic and the main idea | Mongolia, English XII, Unit 1, printed pp.10–11 |
 | Topic sentence / main idea of a paragraph | Nicaragua, Grade 8 Módulo Autoformativo, Unit 3, printed pp.80–89 |
 | Main idea and topic sentence (Folklore) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2B |
+| Four later units read for their ideas: All is Not Lost; Drug Addiction; Noise in the Environment; Three Days to See | Pakistan, *English IX* (older curriculum), contents pp.4–5 |
 
 **Acceptance count: taught in 30 countries (Bangladesh,
 Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua).** Ghana names the weighing (main idea vs supporting
@@ -336,3 +339,5 @@ read (see READING-QUEUE.md). Mexico's Grade 8 book teaches learners to tell popu
 **Book 2:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+**Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its later units — All is Not Lost, Drug Addiction, Noise in the Environment, Three Days to See — are read for their ideas (contents pp.4–5).
