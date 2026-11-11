@@ -1,6 +1,6 @@
 # Sources — Numerical Methods
 
-countries: Rwanda, Belarus, Dominican Republic
+countries: Rwanda, Belarus, Dominican Republic, Germany
 
 Every part traces to its book and page.
 
@@ -16,7 +16,7 @@ On Rwanda in this lesson: Rwanda's Senior Five Advanced Learner's Book devotes i
 | Newton–Raphson method for solving f(x) = 0 | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 118–122 |
 | Fixed-point iteration x = g(x); comparing different rearrangements of the same equation | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 122–126 |
 
-**Acceptance count: taught in 3 countries (Rwanda, Belarus, Dominican Republic).** Rwanda's Senior Five Advanced book carries the complete arc — interpolation, sign-change location, Newton–Raphson, fixed-point iteration with rearrangements compared — in one 22-page unit; other read countries solve the equations they meet exactly, so this lesson is built at that honest size.
+**Acceptance count: taught in 4 countries (Rwanda, Belarus, Dominican Republic, Germany).** Rwanda's Senior Five Advanced book carries the complete arc — interpolation, sign-change location, Newton–Raphson, fixed-point iteration with rearrangements compared — in one 22-page unit; other read countries solve the equations they meet exactly, so this lesson is built at that honest size.
 
 
 ## Belarus added 2026-11-11 (expansion merge)
@@ -48,3 +48,17 @@ Into this lesson the placements stock 1 item from Book 11.
 Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.
+
+## Germany added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Germany's whole in-hand Maths set from the PDFs — **3 student books, 0 teacher guides**: the Lambacher Schweizer pupil textbooks for Gymnasien (Ernst Klett Verlag, Stuttgart) — *Mathematik 10*, Ausgabe Baden-Württemberg (2016), *Mathematik 11*, Ausgabe Bayern (2023) and *Mathematik 12*, Ausgabe Bayern (2024) — 836 PDF pages in all — and placed 121 teaching items. All three are complete books (title page through all chapters to the solutions appendix, register and glossary, with contents listings matching the pages present), taken byte-exact from the GitHub release the records name (mid-size-books-3) and verified against their staging books.json (byte size, page count and MD5); each is an Internet Archive OCR scan read from its full text layer page by page, contents pages read in full and teaching text spot-read at definitions, theorems and derivations throughout; printed page = PDF page − 4 in all three books. The expansion map's count of 3 student + 0 teacher is CORRECT, proved from textbooks.tsv, the staging books.json files and the push-state: **no Maths book hides under another subject label** — the only candidate, Informatik 5 (Bayern NTG, Grade 11), was checked and is a computer-science pupil book teaching no mathematics course content, and the Deutsch and Englisch books in the Germany folders carry no mathematics. Germany has no national textbook series (the Länder approve lists); these are Land-approved commercial pupil books, judged as filed. The other 152 rows of the NRW-basis library grid were never in hand and are outside this reckoning. Set facts carried exactly: F1 — Book 1's books.json filing records its ISBN as “not confirmed from this scan”; the scan's imprint page (PDF p. 4) does print it, ISBN 978-3-12-735320-4, © 2016, 1. Auflage, and the book is cited with it (the filing correction is reported, not made — merges never edit filings). F2 — the download list / checklist statement “Germany: 0 filled, commercial-only, no free source” was true of the library grid when written (2026-10-20/21) but no longer describes the holding since the three books were staged on 2026-10-22; it is reported here, not edited. Book-internal note: Book 1's contents list gives Kapitel V's Test at printed p. 152, out of sequence against its own Training (p. 156) and Rückblick (p. 158; the test itself follows the Rückblick at printed pp. 158–159) — a contents misprint (or scan artefact) only; no mathematical error was found in the teaching text of any of the three books — the statements spot-checked are correct and are proved where the book claims a proof. The placements' counting grain is one item per Lerneinheit (numbered teaching unit) of each chapter, including the GFS-Thema / Exkursion units where they teach mathematics. The placements' named exclusions — the three books' how-to-use front matter, chapter openers, Training / Wiederholen–Vertiefen–Vernetzen / Rückblick / Test apparatus, Check-in appendices, Lösungen, Register and glossaries; Book 1's Grundwissen prerequisite-review appendix (printed pp. 190–197); Book 2's history-of-the-derivative Exkursion “Der Streit um die Ableitung”; Book 3's software Exkursion “Binomialverteilung und Mathematiksoftware”; and the Informatik 5 computer-science book checked and excluded from the Maths set — are stocked nowhere. Germany COUNTS in a lesson's taught-in figure on the strength of these pupil-book rows. Into this lesson the placements stock 1 item from Book 2 (items 74).
+
+**Book 2:** *Lambacher Schweizer Mathematik 11 — Mathematik für Gymnasien, Ausgabe Bayern* (Schülerbuch — student book, Grade 11) — Germany, Ernst Klett Verlag, Stuttgart, 2023, 1. Auflage, ISBN 978-3-12-735010-4; 20,600,562 bytes, 240 PDF pp., MD5 fd5610c5c232700caf9d24377a4b8982. Internet Archive OCR scan, read from its full text layer. Printed page = PDF page − 4. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Newton's method (Das Newton-Verfahren) for approximating zeros | Germany — *Lambacher Schweizer Mathematik 11, Ausgabe Bayern* (student book, Grade 11), printed p. 171 |
+
+Germany is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from the in-hand pupil textbooks named above. Germany's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Germany Maths book (3/3) has been read in full and stocked; the 152 NRW-grid rows never in hand are outside the reckoning.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/germany-placements.md.

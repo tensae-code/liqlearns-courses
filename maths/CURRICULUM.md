@@ -199,6 +199,7 @@ pattern by its rule.*
 - polar-coordinates ✅ — polar coordinates (Level 83, catch-up build)
 - special-sequences ✅ — harmonic and arithmetico-geometric sequences, square, cube and triangular numbers (Level 84, catch-up build)
 - rate-of-change ✅ — rate of change of a quantity, negative and zero rates, constant rate of change tested in tables (Level 150, Sudan merge 2026-11-07)
+- function-families ✅ — families of functions with a parameter: the members of one formula, the investigation in terms of the parameter, and the locus curve (Ortskurve) of their extreme points (Level 172, Germany expansion merge 2026-11-11)
 
 ## Unit 11 — Statistics and Probability
 *End of unit: the learner can collect and show data, sum it
@@ -239,6 +240,7 @@ integrate.*
 - vector-spaces ✅ — vector spaces and subspaces: closure tests, intersections and sums, Grassmann's formula, span, independence, basis and dimension (Level 148, Rwanda merge 2026-11-07)
 - linear-transformations ✅ — maps that preserve addition and scaling: the two laws and their first properties, the five kinds of linear map, kernel and image, and rank–nullity (Level 155, Venezuela merge 2026-11-07)
 - cross-sections-of-solids ✅ — sections of prisms, pyramids, cylinders, cones and spheres by a cutting plane: what the section is, how to construct it, and the section theorems (Level 159, Tajikistan merge 2026-11-07)
+- transition-curves ✅ — joining curve pieces smoothly (Trassierungen): matching value, slope and curvature at a join, and choosing the polynomial degree from the number of conditions (Level 171, Germany expansion merge 2026-11-11)
 
 ## Unit 13 — Logic and Proof
 *End of unit: the learner can handle mathematical statements,
@@ -318,7 +320,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 170 lessons across 18 units** — the first
+**LADDER TOTAL: 172 lessons across 18 units** — the first
 52 built 2026-11-05 across 12 units (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -335,7 +337,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Units 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13; the Australia expansion merge of 2026-11-11 added 1 lesson (Level 167) inside Unit 14; the Dominica expansion merge of 2026-11-11 added 3 lessons (Levels 168–170) inside Units 3, 9 and 6.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13; the Australia expansion merge of 2026-11-11 added 1 lesson (Level 167) inside Unit 14; the Dominica expansion merge of 2026-11-11 added 3 lessons (Levels 168–170) inside Units 3, 9 and 6; the Germany expansion merge of 2026-11-11 added 2 lessons (Levels 171–172) inside Units 12 and 10.
 
 ## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:
