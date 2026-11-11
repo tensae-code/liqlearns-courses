@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia, Palestine
+countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Nicaragua, North Macedonia, Palestine).**
+**Acceptance count: taught in 5 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -58,3 +58,26 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | At for where someone is — "Where's Sami? At his house. She's at the park." | Palestine, Grade 2 Part 1, Unit 8, printed pp.50–51 |
 
 The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 8:** English, Primary 1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 9:** English, Primary 2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** English, Primary 3 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pets word set (cat, dog, turtle, bird) with prepositions in / on / under ('The dog is on the couch. The cat is under the chair. The bird is in the cage') | Egypt, Primary 1 Term 1, printed p.113 |
+| Prepositions of place on / under / next to / in ('The lamp is on the table. The ball is under the table') | Egypt, Primary 2 Term 1, printed p.66 |
+| Prepositions of place, extended set (on, under, behind, between, in front of) | Egypt, Primary 3 Term 1, printed p.55 |
+| Prepositions of place (in, on, in front of, behind, next to, between) | Egypt, Primary 4 Term 1, printed p.67 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

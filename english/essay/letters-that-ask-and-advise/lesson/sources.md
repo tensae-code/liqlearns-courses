@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -49,8 +49,8 @@ verification sweep.
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
 | The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 12 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam).** Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 13 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -146,3 +146,17 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Writing a request letter to ask for information about vocational school courses | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 9:** English, Preparatory 8 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing tips to protect your online privacy | Egypt, Preparatory 8 Term 1, printed p.38 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

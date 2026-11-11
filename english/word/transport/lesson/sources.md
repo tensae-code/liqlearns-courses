@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
 
 Every part traces to its book and page.
 
@@ -95,7 +95,7 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 19 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia).** Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 20 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -322,3 +322,20 @@ The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English b
 Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 26:** English, Primary 2 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Transportation word set (plane, taxi, bicycle, car, motorcycle, by car/bus) | Egypt, Primary 2 Term 2, printed p.60 |
+| Transportation and construction word set (highways, infrastructure, innovation) | Egypt, Primary 6 Term 2, printed p.62 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

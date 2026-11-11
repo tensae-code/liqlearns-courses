@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt
 
 Every part traces to its book and page.
 
@@ -151,8 +151,8 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 18 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 19 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -381,3 +381,32 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Culture/project — the evolution of robots; researching or designing a new AI application | Vietnam, Tiếng Anh 12 (Global Success), Unit 6, printed pp.85–87 |
 | Words and phrases related to the mass media | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed p.90 |
 | Culture/project — mass media types around the world; comparing two types of mass media | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed pp.98–99 |
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 31:** English, Primary 3 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 32:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 33:** English, Preparatory 7 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 34:** English, Preparatory 8 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 35:** English, Preparatory 9 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Technology word set (technology, computer, tablet, phone, robot, TV, device) (Unit 4: Living with Technology) | Egypt, Primary 3 Term 2, printed p.62 |
+| Technology in daily life word set (internet, camera, apps, games, email) | Egypt, Primary 3 Term 2, printed p.66 |
+| Using technology safely word set (screen, keyboard, password, virus, button, power) | Egypt, Primary 3 Term 2, printed p.70 |
+| Technology in the future word set (drone, smart home) | Egypt, Primary 3 Term 2, printed p.75 |
+| Inventions word set (invention, gadget, blueprint, engineer, assemble, innovate) | Egypt, Primary 6 Term 2, printed p.25 |
+| Technology word set (laptop, tablet, download, smartboard, website, screen, social media) | Egypt, Preparatory 7 Term 1, printed p.14 |
+| Generation and technology word set (digital natives, trends, emojis, memes, balance, limit) | Egypt, Preparatory 8 Term 1, printed p.14 |
+| Artificial-intelligence word set (advanced, feedback, machine learning, robot, innovation, customized, instantly) | Egypt, Preparatory 9 Term 1, printed p.42 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

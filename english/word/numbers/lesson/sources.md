@@ -218,7 +218,6 @@ verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
-| Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
 | Numbers 11 to 20 recognized with their values, and the counting sentences "How many … are there? There are 15 …" | Egypt, Primary 1 Term 2, Unit 2 "Feelings" (outcomes p.24; the unit's filed basics) |
 | Numbers 1–10 as words, and counting by 10s to 100 — the book's own can-do line: "I can count and write numbers from 1–10. / I can count by 10s to 100." | Egypt, Primary 3 Term 1 (numbers material, pp.18–23; can-do statements as filed) |
 | Numbers arrive inside real units, traced and copied, counted and written: 1, 2, 3 in the food unit · 4, 5, 6 in the animals unit · 7, 8, 9, 10 in the body unit | Palestine, Grade 1 Part 1 — Unit 2 "Let's eat!" p.10 · Unit 3 "Animals" p.16 · Unit 4 "My body" p.22 |
@@ -639,3 +638,43 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+FLAG FIXED (sweep flag 4): a row above credited Egypt KG2 with 'Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples)… trace the numbers 1–5' from an 'I Love My Family' unit at pp.54–55. The only KG2 book in hand (Term 1, re-read in full) has no such unit and none of that content — its pp.54–55 are Unit 2 story questions and the 'Getting Dressed' song. That row is removed; Egypt stays counted in this lesson through KG2's real number spreads, stocked below.
+
+**Book 73:** English, KG1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 74:** English, KG2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 75:** English, Primary 1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 76:** English, Primary 2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 77:** English, Primary 2 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 78:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Number 1: 'I can see 1 train / 1 turtle', tracing the figure | Egypt, KG1 Term 1, printed p.10 |
+| Number 2: 'I can see 2 chairs / 2 pencils' | Egypt, KG1 Term 1, printed p.25 |
+| Number 3: 'I can see 3 pans / 3 helicopters' | Egypt, KG1 Term 1, printed p.51 |
+| Number 4: 'I can see 4 sandwiches / 4 clouds' | Egypt, KG1 Term 1, printed p.74 |
+| Number 5: 'I can see 5 caps / 5 flowers' | Egypt, KG1 Term 1, printed p.81 |
+| Numbers 1 and 2 (counting balls and kites; 'I have 1 basketball / I have 2') | Egypt, KG2 Term 1, printed p.20 |
+| Numbers 3, 4 and 5 (counting clothes; 'I have 4 caps / I have 3 dresses') | Egypt, KG2 Term 1, printed p.42 |
+| Numbers 6, 7 and 8 (counting oranges, calendars and buses; 'How many days are there in a week? There are 7') | Egypt, KG2 Term 1, printed p.68 |
+| Numbers 9 and 10 (counting cats and leaves) | Egypt, KG2 Term 1, printed p.93 |
+| Numbers 1–5 with 'How many books are there? There are 3 books / There is 1 butterfly' | Egypt, Primary 1 Term 1, printed p.52 |
+| Numbers 6–10, counting farm animals ('How many horses can you see? I can see 7 horses') | Egypt, Primary 1 Term 1, printed p.94 |
+| Numbers 1–10 with 'How many pencils do you have? I have …' and counting classroom things | Egypt, Primary 2 Term 1, printed p.24 |
+| Counting 20–50 | Egypt, Primary 2 Term 2, printed p.45 |
+| Counting 50–100 and counting in 10s | Egypt, Primary 2 Term 2, printed p.89 |
+| Big numbers read to a billion (thousand, hundred thousand, million, one hundred million, billion) | Egypt, Primary 4 Term 1, printed p.68 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

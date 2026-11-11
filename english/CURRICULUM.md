@@ -1704,3 +1704,53 @@ so those books' counts understate. **Cambodia:
 14 of 14 read.** No new lesson was built; the
 English course total is unchanged at **256
 lessons across 44 units**.
+
+**Egypt merged 2026-11-11 (re-verification
+sweep):** all 26 held books — Kindergarten 1 and
+2 (Term 1 each), Primary 1–6 Terms 1 and 2,
+Preparatory 7–9 Terms 1 and 2, Secondary 10–12
+Terms 1 and 2 (26 books in 25 PDF files; the
+Secondary 12 file binds both terms) — were
+re-read page by page in the sweep (13 from full
+text layers, 13 scan-only by full or targeted
+OCR and visual reads): **567 fresh items. 154
+were already in the course; 409 were missing and
+are now stocked, and all 4 split items are
+stocked in both of their lessons** — 434 new
+provenance rows in all, because 21 items are
+dual-targeted and 2 Primary 4 Term 2 items are
+stocked by correcting their book attribution (see
+below). Egypt is newly counted in 51 lessons. A
+27th held file (a Secondary 10 Term 1
+second-language book) is counted nowhere: its
+content duplicates Preparatory 7 Term 1. The
+sweep's one "NEW LESSON NEEDED" — can for ability
+and permission — was NOT built: the lesson
+sentence/can-for-ability was built by another
+country's merge in this sweep, so Egypt's six
+can-points are stocked there instead. All four
+sweep flags were fixed in the lesson files: (1)
+the Dahab postcard model and friendly-letter
+checklist, filed under Primary 5 Term 1, stand in
+Primary 4 Term 2 — re-sourced, not removed;
+(2) "Secondary 12 Term 2" was cited as a
+standalone book in 10 lessons — every book entry
+now names the Term 2 half of the combined
+Secondary 12 file; (3) Primary 2 Term 2's end
+blends, deferred to a lesson that never stocked
+them, are stocked in phonics/blends; (4) an
+unconfirmable KG2 numbers row ("I Love My
+Family" unit) is removed — the KG2 book in hand
+has no such unit. One further slip: the animal
+fact file's citation in article-writing said
+Unit 9; the lesson stands in Unit 10 — corrected,
+filing not edited. Egypt's long readings are all
+adapted retellings, extracts or story units
+inside its textbooks, so Egypt joins
+the-big-reading as a distinction country only.
+The book's own errors are carried as printed and
+taught corrected where they land (Primary 5
+Term 1's Scope spells "muscels" and "Naitonal
+Park"). **Egypt: 26 of 26 read.** No new lesson
+was built; the English course total is unchanged
+at **256 lessons across 44 units**.

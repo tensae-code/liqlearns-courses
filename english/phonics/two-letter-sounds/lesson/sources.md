@@ -900,3 +900,28 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 24:** English, Primary 1 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** English, Primary 3 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** English, Primary 4 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter Ww: sound, tracing, beginning-letter words (watch, water, window, wall, wind) | Egypt, Primary 1 Term 2, printed p.10 |
+| Letter Vv: sound and words (van, vase, vegetables, vest, violin) | Egypt, Primary 1 Term 2, printed p.19 |
+| Letter Zz: sound and words (zebra, zoo, zigzag, zero) | Egypt, Primary 1 Term 2, printed p.21 |
+| Letter Yy: sound and words (yellow, yo-yo, yes, yogurt) | Egypt, Primary 1 Term 2, printed p.29 |
+| Letter Xx: the /ks/ sound, mostly at word end (x-ray, box, six, mix) | Egypt, Primary 1 Term 2, printed p.31 |
+| Long oo /u:/ against short oo /ʊ/ (moon, zoo, pool, food against book, foot, look, cook) | Egypt, Primary 3 Term 2, printed p.83 |
+| The two sounds of ow: long /əʊ/ (snow, grow, window) against short /aʊ/ (cow, now, owl) | Egypt, Primary 3 Term 2, printed p.90 |
+| Plural nouns: the final -s sounds /s/, /z/ and /ɪz/ (books, ribbons, houses) | Egypt, Primary 4 Term 2, printed p.71 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

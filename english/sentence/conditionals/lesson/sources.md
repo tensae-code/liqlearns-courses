@@ -494,3 +494,26 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 79:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 80:** English, Preparatory 7 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 81:** English, Preparatory 8 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 82:** English, Secondary 10 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. The year's novel, The Old Man and the Sea, is bound into the same PDF (PDF pp.101–172).
+
+| Lesson part | Where it comes from |
+|---|---|
+| First conditional (If you stand behind the yellow line…; if + present, will…) | Egypt, Primary 6 Term 2, printed p.82 |
+| First conditional for choices and consequences | Egypt, Preparatory 7 Term 1, printed p.63 |
+| Conditionals type 1 and type 2 (Scope and Sequence, Unit 6) | Egypt, Preparatory 8 Term 1, printed p.87 |
+| Conditional forms including unless / as long as | Egypt, Secondary 10 Term 1, printed p.36 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

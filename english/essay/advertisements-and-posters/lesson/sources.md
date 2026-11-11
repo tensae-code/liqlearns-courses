@@ -303,3 +303,44 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 37:** English, Primary 3 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 38:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 39:** English, Primary 4 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** English, Primary 5 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 42:** English, Primary 6 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 43:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 44:** English, Preparatory 7 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 45:** English, Preparatory 8 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Safety-guide poster project (at least 5 safety rules with must/mustn't) | Egypt, Primary 3 Term 2, printed p.19 |
+| Making a poster about solving a community problem | Egypt, Primary 4 Term 1, printed p.36 |
+| Making a going-green brochure (a short description on each side) | Egypt, Primary 4 Term 2, printed p.39 |
+| Making a restaurant flyer (main heading, details) | Egypt, Primary 5 Term 1, printed p.20 |
+| Healthy-habits poster | Egypt, Primary 5 Term 1, printed p.38 |
+| Making a poster that teaches people to appreciate and be kind to animal helpers | Egypt, Primary 5 Term 2, printed p.74 |
+| Poster about daily life in a governorate | Egypt, Primary 6 Term 1, printed p.18 |
+| Display board about a museum object (Grand Egyptian Museum) | Egypt, Primary 6 Term 1, printed p.81 |
+| Poster about a famous place in Egypt | Egypt, Primary 6 Term 2, printed p.20 |
+| Writing a rules poster (5–6 rules, easy to read, showing important rules and steps) | Egypt, Preparatory 7 Term 2, printed p.96 |
+| Creating a study-tips poster (title; each tip as advice + reason; a final encouraging message) | Egypt, Preparatory 8 Term 2, printed p.37 |
+| Designing a poster of 90–100 words about saving energy (the unit's writing task, set in its Assessment Corner) | Egypt, Preparatory 8 Term 2, printed p.99 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

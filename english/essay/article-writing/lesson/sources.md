@@ -61,7 +61,7 @@ verification sweep.
 | Lesson part | Where it comes from |
 |---|---|
 | The short article defined — 'a piece of writing that gives information or ideas about a topic in a clear and simple way'; structure: Title (catchy), Introduction, Body, Conclusion; 100–110 words | Egypt, Preparatory 9 Term 2, Unit 8, Lesson 6 writing (as filed in EGYPT-BOOK-MAP.md) |
-| The fact file defined — 'a short report that gives important information about a topic… in a clear and organized way'; the animal model's sections (Physical Description / Habitat / Adaptations / Diet / Conservation Status); the rules (title; sections; short notes; interesting facts; simple language; a picture) | Egypt, Preparatory 9 Term 2, Unit 9, Lesson 6 writing (as filed in EGYPT-BOOK-MAP.md) |
+| The fact file defined — 'a short report that gives important information about a topic… in a clear and organized way'; the animal model's sections (Physical Description / Habitat / Adaptations / Diet / Conservation Status); the rules (title; sections; short notes; interesting facts; simple language; a picture) | Egypt, Preparatory 9 Term 2, Unit 10 (Animal Adaptations), Lesson 6 writing, printed p.69 (the EGYPT-BOOK-MAP filing says Unit 9; the sweep re-read places the lesson in Unit 10 — corrected 2026-11-11, filing not edited) |
 | Compositions at 150–170 words (article among them); Writing: a magazine article suggesting practical ways to save energy, modelled on 'Do you really have to drive?' | Kuwait, Over to You Student's Book 10B, Unit 7 (as filed in english/books/kuwait.md) |
 | Magazine articles read: 'Amazing Animals!' on animal intelligence and friendship; 'Keep It Green!' on eco-friendly products | Malaysia, Form 4 Full Blast! Plus 4, Module 7, printed pp.97–110 |
 | Writing: article — getting readers' attention with a direct, less formal tone and rhetorical questions; model article analysed by paragraph | Malaysia, Form 5 KPM textbook, Unit 4, Writing, printed pp.52–53 |
@@ -158,3 +158,20 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 15:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 16:** English, Secondary 12 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. Term 2 exists only as the second half of the single Secondary 12 PDF (PDF pp.156–286, its printed folios restarting; printed p. = PDF p. − 154) — there is no standalone Term 2 book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a non-fiction text about a healthcare worker | Egypt, Primary 5 Term 1, printed p.34 |
+| Article writing (Unit 9 writing skill) | Egypt, Secondary 12 Term 2, printed p.26 (PDF p.180) |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

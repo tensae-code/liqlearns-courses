@@ -565,3 +565,20 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | "Where are you from? — I'm from …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 1, printed p.10 (Book Map) |
 | "Where's he / she from? — He's / She's from …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 1, printed p.10 (Book Map) |
 | Everyday English — making small talk | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed p.97 |
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 5:** English, Primary 2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 6:** English, Primary 3 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings and self-introduction ('Hello, I'm Ali. What's your name? Good morning. May I sit down? Goodbye') (Unit 1: Back to School) | Egypt, Primary 2 Term 1, printed p.6 |
+| Greetings and introductions ('How are you? I am fine, thank you. Nice to meet you. See you later!') (Unit 1: Let's Learn Together) | Egypt, Primary 3 Term 1, printed p.6 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

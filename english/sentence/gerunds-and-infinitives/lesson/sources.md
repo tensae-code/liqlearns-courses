@@ -58,7 +58,7 @@ Filed in english/books/mongolia.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-26).
 
 **Book 10:** English, Preparatory 9 Term 2; Secondary
-10 Term 1; Secondary 12 Term 2 (Student's Books) —
+10 Term 1; and the Term 2 half of the combined Secondary 12 file (Student's Books; no standalone Secondary 12 Term 2 book exists — corrected 2026-11-11) —
 Egypt, Ministry of Education. Filed in
 english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is

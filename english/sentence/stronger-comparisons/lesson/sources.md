@@ -6,7 +6,7 @@ Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Comparative Phrases box, p.26, is among this book's citation-checked anchors).
 
-**Book 2:** English, Secondary 12 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; citation check passed for this book's anchors).
+**Book 2:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; citation check passed for this book's anchors — amended 2026-11-11: the sweep confirms the content rows against the Term 2 half of the combined Secondary 12 file; no standalone Term 2 book exists).
 
 **Book 3:** English Grade 7 (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. Filed in english/books/nepal.md (as filed).
 
@@ -385,3 +385,33 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 39:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** English, Primary 5 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 42:** English, Preparatory 7 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 43:** English, Preparatory 8 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 44:** English, Secondary 11 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparative adjectives (short adjectives: -er than; bigger, taller, healthier) | Egypt, Primary 4 Term 1, printed p.45 |
+| Superlative adjectives (the -est; tallest, biggest, nicest, happiest) | Egypt, Primary 4 Term 1, printed p.85 |
+| Comparative adjectives (-er + than, irregular notes in scope) | Egypt, Primary 5 Term 1, printed p.83 |
+| Comparatives and superlatives (short adjectives: -er than / the -est; long adjectives: more … than / the most; good–better–best, bad–worse–worst, far–farther–farthest) | Egypt, Primary 5 Term 2, printed p.84 |
+| Comparative and superlative adjectives (bigger, smaller, more sensitive; the tallest, the most beautiful) | Egypt, Preparatory 7 Term 2, printed p.82 |
+| Comparative and superlative adjectives | Egypt, Preparatory 8 Term 1, printed p.72 |
+| Comparative and superlative forms, comparative phrases (Scope and Sequence, Unit 3) | Egypt, Secondary 11 Term 1, Scope and Sequence, printed p.3 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

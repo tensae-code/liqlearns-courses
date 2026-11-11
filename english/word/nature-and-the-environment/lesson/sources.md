@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
 
 Every part traces to its book and page.
 
@@ -199,7 +199,7 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 26 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia).** Cambodia joins with three Grade 9 environment units and five guide-held Grade 11 nature units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 27 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with three Grade 9 environment units and five guide-held Grade 11 nature units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -598,3 +598,50 @@ The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English b
 Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 51:** English, KG1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 52:** English, Primary 1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 53:** English, Primary 2 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 54:** English, Primary 3 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 55:** English, Primary 4 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 56:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 57:** English, Primary 5 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 58:** English, Primary 6 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 59:** English, Preparatory 7 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 60:** English, Preparatory 8 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Garden word set (tree, flower, grass) | Egypt, KG1 Term 1, printed p.66 |
+| Garden word set (sky, butterfly, bird, tree, grass, flower) with 'I can see a bird / The grass is green' (Unit 2: The Garden of Colors and Shapes) | Egypt, Primary 1 Term 1, printed p.26 |
+| Park word set (flower, park, grass, tree, bench, river, plant) | Egypt, Primary 2 Term 2, printed p.6 |
+| Habitats word set (habitat, ocean, wild, desert, forest) (Unit 5: Animals and Habitats) | Egypt, Primary 3 Term 2, printed p.81 |
+| Environment and places word set (environment, building, city, village, oasis, river, desert, forest, wells, farmed, raised, fisherman, sail, boat, riverbank, palm trees) (Unit 1: This is Where I Live) | Egypt, Primary 4 Term 2, printed p.11 |
+| Protecting-the-planet word set (recycle, reduce, reuse, planet, pollution, go green, litter, bin, surroundings, resources, run out) (Unit 2) | Egypt, Primary 4 Term 2, printed p.28 |
+| Exploring Egypt word set (water springs, tents, Bedouins, traditional life, scuba diving, snorkeling, starfish, hiking, horseback riding, corals, ferry, seagulls, Corniche, Suez Canal, breeze, memorable) (Unit 5: Exploring Wonders in Egypt) | Egypt, Primary 4 Term 2, printed p.79 |
+| Nile River and desert life word set (crocodile, hunt, water weeds, trunk, shade) | Egypt, Primary 5 Term 1, printed p.8 |
+| Natural resources word set (sunlight, fossil fuel, minerals, fertile, cargo, digger) | Egypt, Primary 5 Term 1, printed p.78 |
+| Solar-system word set (planets, Sun, Moon, Jupiter the largest, Saturn and its rings, Mars the Red Planet, galaxy, Milky Way, astronaut, spaceship, rocket) (Unit 5: Our Solar System) | Egypt, Primary 5 Term 2, printed p.79 |
+| Visiting-places and activities word set (buy souvenirs, visit ancient sites, coral reefs, snorkel, landscape, marine life) | Egypt, Primary 6 Term 1, printed p.8 |
+| Plants and gardening word set (natural fertilizer, weeds, hibiscus, basil) | Egypt, Primary 6 Term 1, printed p.21 |
+| Materials and energy word set (ancient/modern materials, saving energy, pollution) | Egypt, Primary 6 Term 1, printed p.55 |
+| Nature word set (waterfalls, deserts, landmark, species, mist, towering, flat) taught through a text on Victoria Falls, Table Mountain and Lake Malawi (Unit 11: The Natural World) | Egypt, Preparatory 7 Term 2, printed p.72 |
+| Desert word set (nomadic, irrigation, grazing, conserve, adapt, survive, harsh, cactus, adaptations, unique, balance) (Unit 11: Life in the Desert) | Egypt, Preparatory 8 Term 2, printed p.70 |
+| Earth and nature word set (rainforest, endangered, species, landscapes, recycling, gravity, radiation, moisture, evolve) (Unit 12: Our Incredible Earth) | Egypt, Preparatory 8 Term 2, printed p.85 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

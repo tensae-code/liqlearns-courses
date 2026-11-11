@@ -367,3 +367,29 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 42:** English, KG1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 43:** English, KG2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 44:** English, Primary 1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 45:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 46:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Body and face parts word set (face, arm, hand, foot, legs, hair, ear, nose, eye, mouth, teeth) in labelled pictures (Unit 3: My Body, My Care!) | Egypt, KG1 Term 1, printed p.38 |
+| Body-parts recall set (head, eyes, mouth, arms, hands, feet; 'I have 1 head / 2 eyes / 2 arms / 2 hands') | Egypt, KG2 Term 1, printed p.6 |
+| Body-parts word set (head, eye, ear, nose, mouth, tongue, arms, hand, legs, foot/feet, toes) with counting sentences 'I have 2 eyes / 1 nose / 2 legs / 5 toes' (Unit 4: My Body and My Senses, Lesson 1: Head to Toe) | Egypt, Primary 1 Term 1, printed p.66 |
+| The five senses word set (taste, see, smell, hear, touch; sight, hearing) with the body part each sense uses (Unit 1: The Five Senses) | Egypt, Primary 4 Term 1, printed p.8 |
+| Health and body word set (fit, mental health, lungs, muscles, organ, blood vessels, oxygen, nutrients) | Egypt, Primary 5 Term 1, printed p.25 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

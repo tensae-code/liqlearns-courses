@@ -26,8 +26,13 @@ international edition, read directly). Filed in
 english/books/malaysia.md (FULLY READ + CITATION CHECK
 PASSED 2026-11-04).
 
-**Book 4:** English, Primary 5 Term 1 (Student's Book)
-— Egypt, Ministry of Education. Filed in
+**Book 4:** English, Primary 4 Term 2 (Student's Book)
+— Egypt, Ministry of Education — CORRECTED 2026-11-11
+(sweep flag 1): this entry and its two rows below were
+filed under Primary 5 Term 1, but the postcard model and
+the friendly-letter checklist stand in Primary 4 Term 2
+(same unit and page numbers); Primary 5 Term 1 contains
+neither. Filed in
 english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).
@@ -76,8 +81,8 @@ verification sweep.
 | A model postcard inside the Self-Check — from Istanbul, running greeting, stay, weather, yesterday's tour, photos, praise and closing — then its adjectives upgraded from a box, then the pupil's own postcard | Mongolia, English VIII, Unit 6 Self-Check, printed pp.87–90 (the postcard at p.90) |
 | Writing: a postcard — linking words and phrases, writing the correct amount | Malaysia, Form 3 Close-Up B1, Unit 8 "Time to Spare" (unit pp.95–106), Writing |
 | The postcard kept as a reference kind — plan and useful phrases — among email, informal letter and email, story, review and report | Malaysia, Form 3 Close-Up B1, Writing Reference, printed pp.176–181 |
-| The postcard modelled whole: greeting, past-tense holiday news with advice, "Wish you were here!", closing + name, address side with name and country, a real photo of the place (Dahab's Blue Hole) | Egypt, Primary 5 Term 1, Unit 5, p.89 |
-| The friendly letter's printed five-part checklist — greeting (Dear + name), introduction (say why you are writing), body (details or stories), closing (end politely), signature — with a full model letter and a word bank (time words, feeling words, action words, closings) | Egypt, Primary 5 Term 1, Unit 1, p.22 |
+| The postcard modelled whole: greeting, past-tense holiday news with advice, "Wish you were here!", closing + name, address side with name and country, a real photo of the place (Dahab's Blue Hole) | Egypt, Primary 4 Term 2, Unit 5, p.89 |
+| The friendly letter's printed five-part checklist — greeting (Dear + name), introduction (say why you are writing), body (details or stories), closing (end politely), signature — with a full model letter and a word bank (time words, feeling words, action words, closings) | Egypt, Primary 4 Term 2, Unit 1, p.22 |
 | Letters as the unit's writing — friendly letters read and written | China — English (PEP) Grade 5 Volume 1, Unit 3, printed p.29 |
 | A pen-pal letter — writing to a new friend abroad | China — English (PEP) Grade 5 Volume 2, Unit 1, printed p.9 |
 | Letter writing as the unit's writing work | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.34 |
@@ -399,3 +404,34 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+FLAG FIXED (sweep flag 1): this file's Book 4 entry and two rows above cited Egypt Primary 5 Term 1 for the Dahab Blue Hole postcard model (p.89) and the friendly-letter five-part checklist (p.22). Primary 5 Term 1 contains neither — its p.22 is 'My Restaurant Flyer!' and its p.89 the 'My Gold' poster, and the word 'postcard' never occurs in it. Both items stand in the same unit and on the same pages of Primary 4 Term 2; the Book 4 entry and both rows are corrected to Primary 4 Term 2 above, and those two items are counted as stocked by this correction, not duplicated below. The rows below add Primary 4 Term 2's remaining email point and the other books' Egypt rows.
+
+**Book 36:** English, Primary 4 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 37:** English, Primary 5 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 38:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 39:** English, Preparatory 7 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** English, Preparatory 9 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** English, Secondary 10 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. The year's novel, The Old Man and the Sea, is bound into the same PDF (PDF pp.101–172).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a simple email (its parts labelled on the model: To / From / Subject, greeting, introduction, body, conclusion, closing) | Egypt, Primary 4 Term 2, printed p.37 |
+| Writing an invitation email (30–40 words: greeting, invitation, places to see, a food or activity to try, closing) | Egypt, Primary 5 Term 2, printed p.52 |
+| Writing an email to a friend describing a future-transport vision | Egypt, Primary 6 Term 2, printed p.88 |
+| Email to a friend about your daily routine using technology (80–100 words) | Egypt, Preparatory 7 Term 1, printed p.22 |
+| Writing an email about the future use of AI (Scope and Sequence, Unit 3) | Egypt, Preparatory 9 Term 1, printed p.52 |
+| Email as a text form (Unit 5 Writing Corner writing: an email about sportsmanship, 150–180 words) | Egypt, Secondary 10 Term 1, printed p.69 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

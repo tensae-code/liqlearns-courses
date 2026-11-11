@@ -35,8 +35,7 @@ english/EGYPT-BOOK-MAP.md (same filing state as Book 3).
 Book) — Egypt, Ministry of Education. Filed in
 english/EGYPT-BOOK-MAP.md (same filing state as Book 3).
 
-**Book 6:** English, Secondary 12 Term 2 (Student's
-Book) — Egypt, Ministry of Education. Filed in
+**Book 6:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
 english/EGYPT-BOOK-MAP.md (same filing state as Book 3).
 
 **Book 7:** English, Secondary 11 Term 2 (Student's

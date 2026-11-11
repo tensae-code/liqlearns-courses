@@ -25,8 +25,7 @@ Curriculum evidence only: Ghana holds no government
 pupil textbook for English; what is cited is what the
 curriculum prescribes, worded as such.
 
-**Book 4:** English, Secondary 12 Term 2 (Student's
-Book) — Egypt, Ministry of Education. Filed in
+**Book 4:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
 english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).

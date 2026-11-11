@@ -1123,3 +1123,70 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 110:** English, KG1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 111:** English, KG2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 112:** English, Primary 1 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 113:** English, Primary 2 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 114:** English, Primary 3 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 115:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 116:** English, Primary 4 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 117:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 118:** English, Primary 5 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 119:** English, Primary 6 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 120:** English, Preparatory 7 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 121:** English, Preparatory 8 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 122:** English, Preparatory 9 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 123:** English, Preparatory 9 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story 'Look Around the Classroom!': a class names and uses its classroom objects in a 4-panel story | Egypt, KG1 Term 1, printed p.34 |
+| Story 'All About Me and My Day!': a girl greets her friend, names her face parts, moves her arms and legs, and counts animals (4 panels) | Egypt, KG1 Term 1, printed p.60 |
+| Story 'Family Fun on the Grass': a boy goes on a picnic with his family in the sunny garden (4 panels) | Egypt, KG1 Term 1, printed p.86 |
+| Story-dialog: Jad and Karma play together in the park, showing what each can do | Egypt, KG2 Term 1, printed p.27 |
+| Story-dialog: Dina and Mazen go shopping and count the clothes they want | Egypt, KG2 Term 1, printed p.53 |
+| Story-dialog: Farida and Bassem work out today, yesterday and tomorrow at the class calendar | Egypt, KG2 Term 1, printed p.79 |
+| Story-dialog: Gamila and Omneya tell each other their daily routines | Egypt, KG2 Term 1, printed p.103 |
+| Story 'Two Friends and One Apple' (Sara finds an apple, sees Omar sad, and splits it in two), with story elements taught: characters, setting, problem, events (Unit 6) | Egypt, Primary 1 Term 2, printed p.102 |
+| Story unit 'A Day with My Family' (Nour's family spends a day at the park), with characters and setting identified | Egypt, Primary 2 Term 2, printed p.96 |
+| Story 'The Honest Choice': Lina forgets her homework, refuses to copy her friend's work, and tells her teacher the truth | Egypt, Primary 3 Term 2, printed p.99 |
+| Story 'Goha's Great Meal': hungry Goha enjoys the smell of a restaurant's soup; when the greedy owner demands payment for the smell, Goha pays with the jingling sound of his coins | Egypt, Primary 4 Term 1, printed p.14 |
+| Story: Sami the skilled carpenter, asked to build one last house as a gift for the village, builds it carelessly with weak wood — then learns the house is a gift for himself; he regrets it and promises to always do his best | Egypt, Primary 4 Term 1, printed p.87 |
+| Story unit 'The Hundred Dresses': Wanda, teased about her one faded dress, wins the drawing competition with her hundred dress designs; Peggy and Maddie write to apologise — worked through characters, setting, events and moral (Unit 6) | Egypt, Primary 4 Term 1, printed p.97 |
+| Story 'The Lost Kite': Omar and Sami fly a red kite by the river; it lands on a roof across the river, and a kind old man returns it — kindness makes the world brighter (Unit 6) | Egypt, Primary 4 Term 2, printed p.96 |
+| Story 'The Giving Tree' (a boy takes everything from a tree and returns too late) | Egypt, Primary 5 Term 1, printed p.13 |
+| Writing a fiction story (title, beginning, setting, characters) | Egypt, Primary 5 Term 1, printed p.52 |
+| Story elements work: characters, setting, events in order, summary completion | Egypt, Primary 5 Term 1, printed p.100 |
+| Story: Adam insists on making the class planets poster alone and it comes out messy; with Nada's help the pair finish it well — teamwork makes the job easier | Egypt, Primary 5 Term 2, printed p.86 |
+| Story 'Offline but Happy': when the Wi-Fi fails, Tarek is bored and lonely indoors; he joins his friends outside — chalk drawings, bikes, games — and when the Wi-Fi returns he keeps playing: no screen can replace the joy of friendship | Egypt, Primary 5 Term 2, printed p.99 |
+| Story 'The Proud Rose' (a rose that scorns a cactus learns in a drought that it needs help) | Egypt, Primary 6 Term 1, printed p.43 |
+| Fable 'The Bundle of Sticks' (sons who fight learn that a bundle cannot be broken) | Egypt, Primary 6 Term 1, printed p.76 |
+| Folk tale: three brothers meet an old man in the forest; the two rude brothers are injured, the kind youngest succeeds (a Grimm tale retold; the book's running Golden Goose story opens in this unit and continues through the book, counted once here) | Egypt, Preparatory 7 Term 2, printed p.19 |
+| Story (running through the book): Kipling's The Jungle Book, Chapter One — the wolves find the baby Mowgli; Mother Wolf defies Shere Khan and the pack accepts the man-cub (later chapters continue through the book, counted once here) | Egypt, Preparatory 8 Term 2, printed p.20 |
+| Folktales: what a folktale is (a traditional story passed from generation to generation, teaching a moral through simple characters), with a listening tale of a farmer, a freed bird and a promise broken (Unit 10: Storytelling) | Egypt, Preparatory 8 Term 2, printed p.59 |
+| Story: Cinderella — the kind girl, her cruel stepmother and stepsisters, the fairy, the midnight slipper and the prince's search | Egypt, Preparatory 8 Term 2, printed p.61 |
+| Story elements: moral, points of view, conflicts, empathy in stories | Egypt, Preparatory 9 Term 1, printed p.85 |
+| Narrative story 'The Grand Finale Relay Race' (a runner drops the baton; the team's encouragement carries them to finish) | Egypt, Preparatory 9 Term 2, printed p.18 |
+| Story-within: a donkey fable about promise and cleverness (Boniface's story; the lesson's reading subject is animal-verified Content Language) | Egypt, Preparatory 9 Term 2, printed p.44 |
+
+Egypt is already counted in this lesson; these rows complete its stock from the sweep.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

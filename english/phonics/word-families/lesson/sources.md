@@ -146,7 +146,7 @@ letters, match to picture, circle against a near-miss with no long
 vowel (kite–five–pen, rope–stone–fig). The same book also introduces
 final blends (-mp/-ft/-lt, -nd/-sk) — end blends, a different thing
 from this lesson's vowel families and from the Blends lesson's start
-blends; they are recorded in the Egypt map for their own lesson.
+blends; they are stocked in english/phonics/blends (the Egypt section added there 2026-11-11 by the re-verification sweep merge).
 
 ---
 

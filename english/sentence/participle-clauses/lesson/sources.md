@@ -28,8 +28,7 @@ Pakistan, Punjab Curriculum & Textbook Board (PCTB),
 Lahore. Filed in english/books/pakistan.md (FULLY READ
 + CITATION CHECK PASSED 2026-11-03).
 
-**Book 6:** English, Secondary 12 Term 2 (Student's
-Book) — Egypt, Ministry of Education. Filed in
+**Book 6:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
 english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).

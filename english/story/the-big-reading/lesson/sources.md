@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -280,7 +280,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 22 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa)** — the
+**Acceptance count: taught in 23 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -761,3 +761,53 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+DISTINCTION (standing rule): every Egypt long reading below is an adapted retelling, an extract, or a story unit printed inside a textbook — The Old Man and the Sea retold twice, Around the World in Eighty Days, The Secret Garden as an extract, King Lear as a drama study of Acts III–V, The Count of Monte Cristo in two term halves, and the Primary serial story units. None is a complete book-length text, so Egypt joins this lesson as a distinction country only; the complete-text countries above are unchanged. Rows are plot summaries only.
+
+**Book 36:** English, Primary 5 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 37:** English, Primary 6 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 38:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 39:** English, Preparatory 7 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** English, Preparatory 8 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** English, Preparatory 9 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 42:** English, Secondary 10 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. The year's novel, The Old Man and the Sea, is bound into the same PDF (PDF pp.101–172).
+
+**Book 43:** English, Secondary 10 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 44:** English, Secondary 11 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 45:** English, Secondary 11 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. This book is the earlier 'Hello! New' series (Egyptian International Publishing / Longman), not the current ministry series.
+
+**Book 46:** English, Secondary 12 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 47:** English, Secondary 12 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. Term 2 exists only as the second half of the single Secondary 12 PDF (PDF pp.156–286, its printed folios restarting; printed p. = PDF p. − 154) — there is no standalone Term 2 book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Full story unit 'The Talking Earth' by Jean Craighead George (a girl who doubts the Earth can speak is sent alone into the Everglades and learns to read nature's signs) | Egypt, Primary 5 Term 1, printed p.92 |
+| Full story unit 'The Water Savers' (three friends track down and fix their school's wasted water), with events put in order | Egypt, Primary 6 Term 1, printed p.88 |
+| Full story unit 'The Library That Time Forgot' (children find a bronze key, reopen a forgotten library and put it to work for their town), with retelling the sequence of events | Egypt, Primary 6 Term 2, printed p.96 |
+| Serial story 'The Magic Classroom' / 'The Dream Team' (a class team solves challenges together across six chapters) | Egypt, Preparatory 7 Term 1, printed p.20 |
+| Serial story 'The Little Inventor' (a young inventor keeps trying until her robot works at the creative fair) | Egypt, Preparatory 8 Term 1, printed p.20 |
+| Serial story 'The School Garden Project' (students build a school garden team across four chapters) | Egypt, Preparatory 9 Term 1, printed p.20 |
+| The Old Man and the Sea, adapted retelling (Santiago the fisherman, the marlin, Manolin) — the novel-printing section bound into the same PDF | Egypt, Secondary 10 Term 1, PDF p.105 |
+| The Old Man and the Sea, adapted retelling, Term 2 continuation (Santiago and Manolin readings) | Egypt, Secondary 10 Term 2, printed p.98 |
+| Around the World in Eighty Days, adapted retelling (Phileas Fogg and Passepartout) — the book's novel section | Egypt, Secondary 11 Term 1, printed p.93 |
+| The Secret Garden extract (Mary Lennox; the reading in Lesson 1) | Egypt, Secondary 11 Term 2, printed p.7 |
+| King Lear drama study: Acts III–V (readings across Lesson 1) | Egypt, Secondary 11 Term 2, printed p.12 |
+| The Count of Monte Cristo, adapted retelling (the Term 1 half of the novel section) | Egypt, Secondary 12 Term 1, printed p.106 |
+| The Count of Monte Cristo, adapted retelling (the Term 2 half of the novel section) | Egypt, Secondary 12 Term 2, printed p.101 (PDF p.255) |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

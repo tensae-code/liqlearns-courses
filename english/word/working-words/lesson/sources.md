@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -111,7 +111,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 12 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 13 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -334,3 +334,86 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 19:** English, KG1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** English, KG2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** English, Primary 1 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** English, Primary 1 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** English, Primary 2 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** English, Primary 2 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** English, Primary 3 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** English, Primary 3 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** English, Primary 4 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** English, Primary 4 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 29:** English, Primary 5 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 30:** English, Primary 6 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 31:** English, Preparatory 7 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 32:** English, Preparatory 7 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 33:** English, Preparatory 8 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 34:** English, Preparatory 8 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 35:** English, Preparatory 9 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 36:** English, Preparatory 9 Term 2 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School and classroom word set (school, classroom, teacher, board, desk, chair, book, pencil, eraser, crayon, playground, swing, slide) in labelled scenes (Unit 2: I Can Find it at School!) | Egypt, KG1 Term 1, printed p.19 |
+| School and classroom recall set (school, classroom, board, desk, teacher, chair; school-bag things: crayons, eraser, pencil, books) | Egypt, KG2 Term 1, printed p.3 |
+| Action verbs set (walk, run, jump, skip, kick, play, throw, catch, fly a kite) (Unit 1: Little Bodies, Big Moves!) | Egypt, KG2 Term 1, printed p.7 |
+| Daily-routine word set (morning, noon, night; breakfast, lunch, dinner; get up, go to school, go to bed, have breakfast / lunch / dinner) (Unit 4: My Busy Day!) | Egypt, KG2 Term 1, printed p.83 |
+| Classroom objects word set (book, teacher, bag, pencil, chair, desk, board) with sit down / stand up | Egypt, Primary 1 Term 1, printed p.17 |
+| Meals word set (breakfast, lunch, dinner, eat, drink, bread, chicken, rice, sandwich, juice) with 'What do you eat for breakfast? I eat bread and eggs' | Egypt, Primary 1 Term 2, printed p.15 |
+| Classroom objects word set (desk, board, chair, window, door, pen, book, notebook, bag, pencil case, eraser, ruler) with This is / That is | Egypt, Primary 2 Term 1, printed p.8 |
+| Pyramids trip word set (Pyramids, Sphinx, camel, guide, tourist, desert, camera) | Egypt, Primary 2 Term 2, printed p.78 |
+| Celebrations word set (Eid Al-Fitr, Sham El-Nessim, Mother's Day, 6th of October) | Egypt, Primary 3 Term 1, printed p.32 |
+| Egypt's landmarks reading set (Cairo Tower, Alexandria Library, Pyramids of Giza) | Egypt, Primary 3 Term 1, printed p.50 |
+| Teamwork and chores word set (clean, tidy up, share, care, win, cheer, plant, donate) (Unit 5: Together Is Better) | Egypt, Primary 3 Term 1, printed p.83 |
+| Goals word set (goal, try, step, plan, practice, celebrate, success, reach) (Unit 6: Dare to Dream) | Egypt, Primary 3 Term 1, printed p.100 |
+| Safety word set (dangerous, rules, emergency, careful, hurt, safe; policeman, seat belt, ambulance, first aid) with home/street safety dialogs (Unit 1: Safety) | Egypt, Primary 3 Term 2, printed p.6 |
+| Celebrating heroes word set (athlete, respect, event, medal) | Egypt, Primary 3 Term 2, printed p.55 |
+| Honesty word set (backpack, nervous, whisper, copy, cheating, truth, break, choice) (Unit 6: The Honest Choice) | Egypt, Primary 3 Term 2, printed p.97 |
+| Helping-the-community word set (community, volunteer, plant, feed, collect, help, clean; traffic, trash, bins) with community problems and solutions (Unit 2: My Community) | Egypt, Primary 4 Term 1, printed p.24 |
+| Famous-places word set (Pyramids of Giza, Cairo Tower, Khan Al-Khalili Bazaar, Siwa Oasis, the Nile) (Unit 4: Egypt — My Homeland) | Egypt, Primary 4 Term 1, printed p.62 |
+| Shopping and packaging word set (packaging, neighborhood, vegetables, elderly, picnic, dessert, leftovers, crunchy), met in the unit's helping-others story and picnic dialog (Unit 3: What's in the Package?) | Egypt, Primary 4 Term 2, printed p.44 |
+| Celebrations word set (exchange gifts, perform music, play a game, eat special food, socialize with friends; wear special clothes, clap, take photos, fireworks, ribbons, candles, decorate, cheerful, wrapped giveaways, guests) (Unit 4: Let's Celebrate) | Egypt, Primary 4 Term 2, printed p.62 |
+| Hobbies word set (playing board games, cycling, skating, painting, singing, solving puzzles, playing the piano, crafting with paper) (Unit 1: Hobbies Make Us Shine!) | Egypt, Primary 5 Term 2, printed p.7 |
+| Travel word set (suitcase, pack, travel, crowded, beach, ticket; citadel, ancient, tombs, abroad in the unit's readings) (Unit 3: Suitcase) | Egypt, Primary 5 Term 2, printed p.40 |
+| Art and gallery word set (canvas, paintbrush, palette, carve, sculpture, masterpiece, mural) | Egypt, Primary 6 Term 2, printed p.8 |
+| Ancient-sites word set (temple, monument, archaeologist, restore, burial, mummy) | Egypt, Primary 6 Term 2, printed p.42 |
+| Learning-styles word set (visual, auditory, kinesthetic, mind map, benefits) | Egypt, Preparatory 7 Term 1, printed p.28 |
+| Heritage word set (royal mummies, witness, parade, vehicle, costumes, ceremonies, heritage, masterpiece, artifacts, breathtaking, pride, preserve, restore, monuments, ancestors, exhibition, civilization) (Unit 7: Reviving the Spirit of Civilization) | Egypt, Preparatory 7 Term 2, printed p.14 |
+| Make against Do collocations (make a sandwich / a mistake / friends; do a job / exercises / the ironing) | Egypt, Preparatory 7 Term 2, printed p.42 |
+| Kindness and volunteering word set (donate, charity, volunteer, flyers, neighborhood, meaningful, warmly, kindness, responsibility, effort) (Unit 10: Helping Others) | Egypt, Preparatory 7 Term 2, printed p.57 |
+| Responsibility and rules word set (respect, politeness, good manners, pay attention, feel proud; chores, set the table, dust, in order) (Unit 12: I Will Be Responsible) | Egypt, Preparatory 7 Term 2, printed p.86 |
+| Art word set (artwork, sculpture, materials, imagination, gallery, sculptor, symbol) | Egypt, Preparatory 8 Term 1, printed p.59 |
+| World word set (continents, culture, population, ceremony, tradition, landmark, glacier, lagoon) | Egypt, Preparatory 8 Term 1, printed p.72 |
+| School-life word set (dress code, behavior, rules, forbidden, hallway, uniform, timetable, period, organize, manage, effectively, smoothly) (Unit 7: My School Life) | Egypt, Preparatory 8 Term 2, printed p.14 |
+| Study and learning word set (concentration, mental, experts, combine, participate, shy, effectively, interactive, discoveries) (Unit 8: Learn Smart, Learn Easy) | Egypt, Preparatory 8 Term 2, printed p.27 |
+| Design-thinking word set (problem, solution, prototype, test, feedback, brainstorm, creativity) | Egypt, Preparatory 9 Term 1, printed p.72 |
+| Beliefs-and-values word set (principles, trust, faith, respect, community, support) | Egypt, Preparatory 9 Term 2, printed p.25 |
+| Biology word set (species, habitat, ecosystem, genetics, adaptation, evolution, conservation, organisms) | Egypt, Preparatory 9 Term 2, printed p.39 |
+| History word set (ancient, artifacts, discoveries, civilization, monument, heritage, preserve) | Egypt, Preparatory 9 Term 2, printed p.89 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.

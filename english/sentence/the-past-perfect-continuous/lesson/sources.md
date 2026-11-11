@@ -4,7 +4,7 @@ countries: Egypt, Malaysia, Pakistan, Sudan, Venezuela, Sierra Leone, Yemen, Ira
 
 Every part traces to its book and page.
 
-**Book 1:** English, Secondary 12 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
+**Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
 
 **Book 2:** *Close-Up* B1 Student's Book (Form 3) and Form 5 KPM textbook — Malaysia. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's secondary books are direct reads.
 

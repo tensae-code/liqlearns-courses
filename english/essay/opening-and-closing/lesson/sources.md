@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt
 
 Every part traces to its book and page.
 
@@ -136,7 +136,7 @@ PASSED 2026-11-03).
 | The parts of a letter named as one set — heading, salutation, body, complimentary close, signature — worked in the guide's Lesson 1 (Part I), with the lesson's own letter printed complete in the guide (below) and the good-wish, greeting and farewell formulas sorted around it | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, guide printed pp.4–13 |
 | One complete letter printed in full in a guide — the only student text in the whole five-book set reproduced complete: Pedro Estévez's letter to Mr. González (printed p.6), opening with its salutation and closing with its complimentary close and signature, the model the letter-writing work is built on | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, Part A, guide printed p.6 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela).**
+**Acceptance count: taught in 21 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -202,3 +202,17 @@ READING-QUEUE.md).
 ## South Africa verification note 2026-11-11 (re-verification sweep)
 
 **Sweep verification note (2026-11-11, flag 3 of the South Africa diff):** the 2026-11-08 re-verification sweep stocked no new South Africa rows in this lesson, but this file carries older stock from South Africa's Grade 6 FAL Workbook 2 — introductions and conclusions written over the incident story "My money has disappeared!" (worksheet 100). That book is scan-only, and the sweep's OCR read covered its contents spread and opening worksheets only, so those claims could be neither confirmed nor refuted; they stand as unverified until the book is OCR'd whole.
+
+## Egypt added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by page — Kindergarten 1 and 2 (Term 1 each), Primary 1–6 Terms 1 and 2, Preparatory 7–9 Terms 1 and 2, Secondary 10–12 Terms 1 and 2 (26 books in 25 PDF files; the Secondary 12 file binds both terms). 13 books were read from full text layers and 13 scan-only books by full or targeted OCR and visual reads (KG1 and KG2 visually, from page renders). The sweep placed 567 items: 154 already in the course, 409 missing, 4 split across lessons, 4 claims flagged. A 27th held file (a Secondary 10 Term 1 second-language book) is counted nowhere: its content duplicates Preparatory 7 Term 1. Stories and readings are stocked as plot summaries only, never transcribed text. Rows below are this lesson's Egypt share, taken from the sweep's placements file.
+
+**Book 24:** English, Secondary 10 Term 1 (student book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md; re-read in the 2026-11-08 re-verification sweep. The year's novel, The Old Man and the Sea, is bound into the same PDF (PDF pp.101–172).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Formal letter writing: identifying parts of a letter (opening salutation, reflection on a problem, closing, address placement) | Egypt, Secondary 10 Term 1, printed p.36 |
+
+Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
