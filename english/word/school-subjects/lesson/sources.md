@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -100,8 +100,8 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 13 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
-Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia).** Mexico carries the
+**Acceptance count: taught in 14 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
+Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -119,7 +119,7 @@ at primary level (Grades 3–4), the subjects recap in its
 Chapter 0, and the class schedule described whole at
 Grade 7 (stocked 2026-11-09 by the re-verification sweep
 merge). Other closed countries join as their
-books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set. Iraq joins with its school subjects in Grades 3, 8 and 10 and its Grade 12 further-education words (stocked 2026-11-11 by the re-verification sweep merge).
+books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set. Iraq joins with its school subjects in Grades 3, 8 and 10 and its Grade 12 further-education words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -224,3 +224,58 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 17:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School-room words art room, classroom, computer room, gym, library, music room, playground, school | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 6 "Our school", printed p.44 |
+| School-thing words book, eraser, notebook, pen, pencil, pencil case, ruler, school bag | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 8 "My school things", printed p.56 |
+| Place and facility words city, mountains, town, village; building, computer room, garden, playground | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 6 "Our school facilities", printed p.44 |
+| School subject words art, English, history and geography, maths, music, science, Vietnamese | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 7 "Our timetables", printed p.50 |
+| "What subjects do you have today? — I have …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 7, printed p.50 (Book Map) |
+| "What's your favourite subject? — It's …" (IT, PE and the subject set) | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 8 "My favourite subjects", printed p.56 |
+| Room floors "Where's the …? — It's on the … floor." (first, ground, second, third; upstairs, downstairs) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 6 "Our school rooms", printed p.44 |
+| "What school activity does he / she like? — He / She likes …" (do projects, play games, read books, solve maths problems) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 7 "Our favourite school activities", printed p.50 |
+| Vocabulary — school things and activities; verb + noun collocations with play, do, have, study | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed p.6 |
+| Speaking — talking about the type of school one would like to go to | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed p.6 |
+| Project — designing your dream school | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed p.6 |
+| Vocabulary — schools, school facilities and school activities | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
+| Reading about a famous school for specific information (listening: school activities) | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
+| Speaking — talking about an outdoor activity at one's school | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
+| Project — my favourite school | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
+| Vocabulary — teen school clubs, teens' use of social media, and teen stress | Vietnam, Tiếng Anh 8 (Global Success), Unit 3, printed p.28 |
+| Reading about school club activities for general and specific information (listening: teen stress and solutions to deal with it) | Vietnam, Tiếng Anh 8 (Global Success), Unit 3, printed p.28 |
+| Speaking — asking and answering questions about school clubs | Vietnam, Tiếng Anh 8 (Global Success), Unit 3, printed p.28 |
+| Vocabulary — students' life and schoolwork | Vietnam, Tiếng Anh 9 (Global Success), Unit 3, printed p.28 |
+| Words and phrases related to different ways of learning | Vietnam, Tiếng Anh 10 (Global Success), Unit 8, printed p.86 |
+| Reading a text about online and face-to-face learning (listening: instructions on how to prepare for a blended learning class) | Vietnam, Tiếng Anh 10 (Global Success), Unit 8, printed p.86 |
+| Speaking — talking about the advantages and disadvantages of online learning | Vietnam, Tiếng Anh 10 (Global Success), Unit 8, printed p.86 |
+| Culture/project — modern schools; a survey to find out how students use electronic devices to learn | Vietnam, Tiếng Anh 10 (Global Success), Unit 8, printed p.86 |
+| Words and phrases related to education after leaving school | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |
+| Reading an article about different study options after leaving school (listening: a conversation about courses provided at a vocational school) | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |
+| Speaking — discussing the benefits of vocational training and academic study; ending a conversation or discussion | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |
+| Culture/project — UK education; research on a secondary educational institution | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |
+| Phrases related to lifelong learning | Vietnam, Tiếng Anh 12 (Global Success), Unit 10, printed p.130 |

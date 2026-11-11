@@ -1,6 +1,6 @@
 # Sources — Review writing
 
-countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia
+countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -40,7 +40,7 @@ Every part traces to its book and page.
 | Writing a comment on a film you watched | Mongolia, English XII, Unit 10, printed p.180 |
 | Telling the story of a film (set phrases for beginning, middle, end) | Mongolia, English XII, Unit 10, printed p.183 |
 
-**Acceptance count: taught in 11 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -109,3 +109,16 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 11:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading a film review for specific information (listening: a film) | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
+| Speaking — talking about a film | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
+| Writing a paragraph about a film | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
+| Project — your favourite film | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |

@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ lesson is reproduced.
 | Christmas greetings exchanged — "Merry Christmas to you! — And a Happy New Year, too!" — plus making an angel for the tree | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.69 |
 | The Easter song "Here's my Easter bunny rabbit. What a funny bunny!" with Easter vocabulary (bunny, egg, jump, tail, long ears) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.70 |
 
-**Acceptance count: taught in 16 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania,
+**Acceptance count: taught in 17 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania,
 China, Iran, Indonesia, Greece, Nicaragua,
-North Macedonia, Sudan, Venezuela, Yemen, Armenia).** Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam).** Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -145,7 +145,7 @@ Days and months, where the diff counted it as already in
 course. Iran carries festival talk with holiday wishes —
 "Wish you a great holiday," "Happy New Year" — in Grade 9
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia congratulates and expresses hopes in its Grade 8 celebration chapter (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are
-read (see READING-QUEUE.md).
+read (see READING-QUEUE.md). Vietnam joins with its Grades 6, 7, 8, 9, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -219,3 +219,36 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 19:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Everyday English — saying New Year's wishes | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6, printed p.66 |
+| Project — "I wish": writing New Year wishes and hanging them on a tree | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6, printed p.66 |
+| Everyday English — expressing and responding to congratulations | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |
+| Everyday English — giving compliments | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+| Everyday English — giving and responding to compliments | Vietnam, Tiếng Anh 8 (Global Success), Unit 2, printed p.18 |
+| Everyday English — giving and responding to good news | Vietnam, Tiếng Anh 8 (Global Success), Unit 11, printed p.114 |
+| Everyday English — thanking and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 4, printed p.40 |
+| Everyday English — saying good luck and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |
+| Everyday English — giving compliments and responding | Vietnam, Tiếng Anh 11 (Global Success), Unit 4, printed p.42 |
+| Everyday English — expressing best wishes and responding | Vietnam, Tiếng Anh 11 (Global Success), Unit 8, printed p.86 |
+| Everyday English — expressing pleasure and responding to it | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.16 |
+| Everyday English — thanking and accepting thanks | Vietnam, Tiếng Anh 12 (Global Success), Unit 10, printed p.128 (unit opener) |

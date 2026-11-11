@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -98,8 +98,8 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 16 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 17 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -128,7 +128,7 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania shops in its Grade 7 book — identifying things and
 prices in ouguiya (MRU) (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge). Mexico's Grade 8 book shops in dialogue: three teenagers talk about their newest technology purchases (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its shopping across Grades 3–9 (stocked 2026-11-11 by the re-verification sweep merge).
+re-verification sweep merge). Mexico's Grade 8 book shops in dialogue: three teenagers talk about their newest technology purchases (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its shopping across Grades 3–9 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 4 and Grade 8 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -215,3 +215,20 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 17:** *Tiếng Anh 4, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35121-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shop locations "Where's the bookshop? — It's …" (behind, between, near, opposite) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 18 "At the shopping centre", printed p.52 |
+| Vocabulary — shopping | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+| Reading about the reasons people go to shopping centres for specific information (listening: online shopping) | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+| Speaking — talking about a shopping place | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+| Writing a paragraph about the advantages or disadvantages of a type of shopping | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+| Project — my favourite shopping place (imagining a shopping place) | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |

@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -213,9 +213,9 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 18 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia,
+**Acceptance count: taught in 19 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia,
 China, Mexico, India, Greece, Mongolia, Pakistan,
-Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq).** Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam).** Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -229,7 +229,7 @@ lessons closing the Dakhil Classes 9–10 People Who Stand
 Out unit (added 2026-11-08 by the re-verification sweep).
 China joins with its Grade 9 writing of an unforgettable
 person or event from junior high school (stocked
-2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 career-history interviewing and writing (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 career-history interviewing and writing (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Nursery* closes with character-sketch pages — My Self, My Mother, My Friend, My Teacher (printed pp.136–142); *English 5* prints two biographies, the Father of the Nation (printed p.31) and Arfa Karim (printed p.43); *English 6* writes biography in its Overpopulation unit (printed p.92); and *English 7* reads the Quaid-e-Azam biography (Unit 4, printed p.32). All four are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -376,3 +376,14 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 32:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a biography of Walt Disney by synthesising and summarising information | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.15 |
+| Culture/project — famous queens in world history; designing a visual story of a person's life | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed pp.17–19 |

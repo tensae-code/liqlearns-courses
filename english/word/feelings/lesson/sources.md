@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -103,7 +103,7 @@ re-verification sweep.
 | Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
 | Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 17 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 18 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -121,7 +121,7 @@ has learners express their feelings about club activities
 in Grade 6 (stocked 2026-11-09 by the re-verification
 sweep merge).
 Other closed countries join as their books
-are read (see READING-QUEUE.md). Iraq joins with its feeling words in Grades 2 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+are read (see READING-QUEUE.md). Iraq joins with its feeling words in Grades 2 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 3, 5, 6, 7, 8, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -247,3 +247,46 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 20:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes questions "Do you like the zoo? — Yes, I do. / No, I don't." | Vietnam, Tiếng Anh 2 (Global Success), Unit 10, printed p.43 (Book Map) |
+| "What's your hobby? — It's … / I like …" | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 5, printed p.34 (Book Map) |
+| Favourites "What's your favourite …? — It's …" (colour, food, sport; table tennis, sandwich, pink) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 1, printed p.10 (Book Map) |
+| Free-time likes "What do you like doing in your free time? — I like …" (go for a walk, play the violin, surf the Internet, water the flowers) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 4 "Our free-time activities", printed p.28 |
+| Everyday English — expressing surprise | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10, printed p.42 |
+| Everyday English — talking about likes and dislikes | Vietnam, Tiếng Anh 7 (Global Success), Unit 1, printed p.8 |
+| Everyday English — expressing preferences | Vietnam, Tiếng Anh 7 (Global Success), Unit 4, printed p.40 |
+| Everyday English — expressing disappointment | Vietnam, Tiếng Anh 7 (Global Success), Unit 9, printed p.92 |
+| Everyday English — expressing amazement | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
+| Everyday English — giving and responding to bad news | Vietnam, Tiếng Anh 8 (Global Success), Unit 9, printed p.92 |
+| Everyday English — expressing feelings | Vietnam, Tiếng Anh 10 (Global Success), Unit 4, printed p.42 |
+| Words and phrases related to social issues | Vietnam, Tiếng Anh 11 (Global Success), Unit 9, printed p.100 |
+| Speaking — talking about experiences of peer pressure and responding to peer-pressure situations | Vietnam, Tiếng Anh 11 (Global Success), Unit 9, printed p.100 |
+| Everyday English — expressing disappointment and sympathy | Vietnam, Tiếng Anh 11 (Global Success), Unit 9, printed p.100 |
+| Culture/project — social problems facing teens in the US today (CLIL); planning an awareness campaign against a social issue | Vietnam, Tiếng Anh 11 (Global Success), Unit 9, printed p.100 |
+| Everyday English — expressing likes and dislikes and responding | Vietnam, Tiếng Anh 11 (Global Success), Unit 10, printed p.110 |
+| Everyday English — expressing anxiety and responding to it | Vietnam, Tiếng Anh 12 (Global Success), Unit 5, printed p.69 |
+| Everyday English — expressing concern | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.108 (Book Map) |

@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -93,9 +93,9 @@ verification sweep.
 | Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
 | A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 17 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
+**Acceptance count: taught in 18 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
 India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda,
-Sierra Leone, South Sudan, Sudan, Yemen, Iraq).** Yemen joins with sending a letter, a falafel recipe, a fish-curry recipe, frozen peas and how a hospital works (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its process writing across Grades 6, 8, 10 and 11 — recipes, methods, flow charts and instruction sets (stocked 2026-11-11 by the re-verification sweep merge).
+Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Vietnam).** Yemen joins with sending a letter, a falafel recipe, a fish-curry recipe, frozen peas and how a hospital works (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its process writing across Grades 6, 8, 10 and 11 — recipes, methods, flow charts and instruction sets (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 8, 9 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -211,3 +211,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Using pictures to describe a process | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 7 (book map, printed pp.2–3) |
 | Creating a set of instructions | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
 | Describing a process using a flow chart | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 23:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing instructions about things to do before, during and after a natural disaster | Vietnam, Tiếng Anh 8 (Global Success), Unit 9, printed p.92 |
+| Writing a paragraph about how to manage time effectively | Vietnam, Tiếng Anh 9 (Global Success), Unit 3, printed p.28 |
+| Speaking — giving detailed instructions on learning basic life skills, using sequencing words and phrases | Vietnam, Tiếng Anh 11 (Global Success), Unit 8, printed p.86 |

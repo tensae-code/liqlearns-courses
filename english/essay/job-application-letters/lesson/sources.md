@@ -1,6 +1,6 @@
 # Sources — Job application letters
 
-countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen
+countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam
 
 Every part traces to its book and page.
 
@@ -56,8 +56,8 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole Office Clerks key: answers and notes for the student coursebook's sub-lessons — mirror apparatus for the Office Clerks coursebook (teacher evidence) | Greece, English for Office Clerks KEY / Teacher's Book (teacher evidence), PDF pp.1–134 |
 | Hotel Unit 22 “Applying for a job” — job-application language for hotel work | Greece, English for the Hotel and Tourist Trade, Unit 22, Section D |
 
-**Acceptance count: taught in 10 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
-South Sudan, Greece, Sudan, Yemen).** Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
+**Acceptance count: taught in 11 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
+South Sudan, Greece, Sudan, Yemen, Vietnam).** Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
 prints the advert–CV–covering-letter chain whole;
 Cambodia coaches the covering letter paragraph by
 paragraph; Uzbekistan names the kind as its own lessons;
@@ -66,7 +66,7 @@ letter; Egypt carries the same ask into the formal email;
 South Sudan models the job application letter at primary
 level. Kazakhstan was named in the catch-up plan for this
 lesson, but its filing holds no application-letter
-teaching (jobs vocabulary only) — it is not counted here.
+teaching (jobs vocabulary only) — it is not counted here. Vietnam joins with its Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -91,3 +91,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Getting work experience — reading opportunity notices (application form, interview, vacancies, salary, qualifications) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.17 |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 10:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an application letter for volunteer work | Vietnam, Tiếng Anh 10 (Global Success), Unit 4, printed p.42 |

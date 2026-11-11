@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -144,8 +144,8 @@ verification sweep.
 | Weather words: cloudy, windy, rainy, sunny | Pakistan, *English Nursery*, printed p.8 |
 | The seasons: spring, summer, autumn, winter | Pakistan, *English Nursery*, printed p.9 |
 
-**Acceptance count: taught in 20 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 21 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -171,7 +171,7 @@ re-verification sweep merge). Other closed countries join as their books are rea
 (see READING-QUEUE.md).
 Mauritania names the four seasons in a Grade 7 vocabulary list
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Iraq joins with its weather sets in Grades 3, 4 and 5 (stocked 2026-11-11 by the re-verification sweep merge).
+merge). Iraq joins with its weather sets in Grades 3, 4 and 5 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 4 and Grade 5 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -281,3 +281,16 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 25:** *Tiếng Anh 4, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35121-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past weather "What was the weather like last weekend? — It was …" (cloudy, rainy, sunny, windy) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 16 "Weather", printed p.40 |
+| Seasonal weather "How's the weather in Ha Noi in …? — It's …" (autumn, spring, summer, winter; cold, cool, hot, warm, cloudy) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 16 "Seasons and the weather", printed p.40 |

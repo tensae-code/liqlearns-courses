@@ -396,3 +396,26 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). One row below is sweep flag 5's point: Grade 7 Unit 8's connectors although / though and however, which Joining with And and But records as not counted there (a different shape) — it is stocked and counted here.
+
+**Book 30:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 31:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 32:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 33:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 34:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reasons for liking a subject "Why do you like …? — Because I want to be …" (English teacher, maths teacher, painter) | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 8, printed p.56 (Book Map) |
+| Activity reasons "Why does he / she like …? — Because he / she thinks it's …" (fun, good for group work, interesting, useful) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 7, printed p.50 (Book Map) |
+| Grammar — connectors although / though and however | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
+| Grammar — complex sentences with adverb clauses of time | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
+| Grammar — adverbial clauses of concession, result and reason | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
+| Compound sentences — the unstocked half of this unit's grammar line (the to-infinitive/bare infinitive half was stocked in 2026; named in sweep flag 7) | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |

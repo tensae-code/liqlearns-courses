@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -74,7 +74,7 @@ verification sweep.
 | Colours and shapes as a named strand of the book's Language Focus | Pakistan, *English 1*, contents Language Focus column |
 | Colours and shapes as a named strand of the book's contents | Pakistan, *English 2*, contents |
 
-**Acceptance count: taught in 16 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 17 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -82,7 +82,7 @@ names the pairing, not a separate colour list, and none is
 claimed); Mongolia carries the rainbow seven, the mixing
 chart and the primary/secondary/neutral sorting. Other
 closed countries join as their books are read (see
-READING-QUEUE.md). Iraq joins with its Grade 1 colour set and its Grade 3 revisit (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Iraq joins with its Grade 1 colour set and its Grade 3 revisit (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 3 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -181,3 +181,14 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 14:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colour words black, blue, brown, green, orange, red, white, yellow | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 9 "Colours", printed p.62 |
+| "What colour is it? — It's … / What colour are they? — They're …" | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 9, printed p.62 (Book Map) |

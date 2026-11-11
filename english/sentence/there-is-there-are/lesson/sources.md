@@ -1,6 +1,6 @@
 # Sources — There Is and There Are
 
-countries: Bolivia, Nicaragua, Yemen
+countries: Bolivia, Nicaragua, Yemen, Vietnam
 
 Every part traces to its book and page.
 
@@ -30,7 +30,7 @@ Every part traces to its book and page.
 | Describing where you live — there is/are with prepositions of place | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed p.9 |
 | There is / there are (review) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4A |
 
-**Acceptance count: taught in 3 countries (Bolivia, Nicaragua, Yemen).** Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Bolivia, Nicaragua, Yemen, Vietnam).** Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found there is/are taught in four places with no full lesson of their own (the course's Introductory There, from Bangladesh, covers only the introductory use). Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the full system. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -47,3 +47,22 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | There is / There are with place prepositions — “There is a boy in front of the Post Office” (reading text “This is my room”, and the Language summary) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.47 (and Language summary, printed p.52) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). The sweep marked this point "NEW LESSON NEEDED" (no there is / there are lesson existed when the sweep was written); the lesson has since been built (Bolivia merge, 2026-11-11), so Vietnam's four points are stocked here instead of a duplicate lesson being built.
+
+**Book 8:** *Tiếng Anh 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-22405-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Existence "There's a garden." | Vietnam, Tiếng Anh 1 (Global Success), Unit 7, printed p.33 |
+| Existence questions "Is there a fox? — Yes, there is. / No, there isn't." | Vietnam, Tiếng Anh 2 (Global Success), Unit 6, printed p.26 (Book Map) |
+| Room existence "There's / There are … in the room." | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 14 "My bedroom", printed p.24 |
+| Counting facilities "How many … are there at your school? — There is / are …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 6, printed p.44 (Book Map) |

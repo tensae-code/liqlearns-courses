@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan, Yemen, Iraq
+countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -57,9 +57,9 @@ verification sweep.
 | A personal information card — name, grade, age, phone number | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed p.4 |
 | Addresses — saying and writing an address | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 8, printed p.37 |
 
-**Acceptance count: taught in 14 countries (Albania, Ghana, Greece, South Africa, China, India,
+**Acceptance count: taught in 15 countries (Albania, Ghana, Greece, South Africa, China, India,
 Mongolia, Nicaragua, Palestine, Rwanda, South Sudan,
-Sudan, Yemen, Iraq).** Yemen joins with landing cards and passports (Grade 11) and work-experience application forms (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its application forms, surveys and questionnaires in Grades 8, 9, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+Sudan, Yemen, Iraq, Vietnam).** Yemen joins with landing cards and passports (Grade 11) and work-experience application forms (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 food questionnaire and Primary 6's class survey (stocked 2026-11-11 by the re-verification sweep merge). India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its application forms, surveys and questionnaires in Grades 8, 9, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 8 and 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -170,3 +170,20 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Completing a questionnaire ("Caring for the natural world"); forming a questionnaire; researching and writing a fact file on wildlife | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Filling in an application form | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 1 (book map, printed pp.2–3) |
 | Words used in application forms; completing application forms; designing a form for interviewing someone; scanning a tourist brochure; distinguishing facts and opinions in newspaper articles | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 14:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project — interviewing friends: "How important is TV to you?" | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed p.6 |
+| Project — a leisure time survey of students | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
+| Project — what to change in our community: interviewing students about changes they want to make | Vietnam, Tiếng Anh 9 (Global Success), Unit 1, printed p.8 |
+| Project — how good are your classmates at time management? (a class survey) | Vietnam, Tiếng Anh 9 (Global Success), Unit 3, printed p.28 |

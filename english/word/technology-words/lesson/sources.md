@@ -335,3 +335,49 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 26:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 29:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 30:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary — TV programmes | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed p.6 |
+| Project — "My future appliance": an appliance you would like to have in your future house | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10, printed p.42 |
+| Vocabulary — daily activities (things robots can do) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 12, printed p.66 |
+| Reading about an international robot show for specific information (listening: what robots can do) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 12, printed p.66 |
+| Speaking — talking about what robots can do | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 12, printed p.66 |
+| Writing a paragraph about a robot one would like to have | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 12, printed p.66 |
+| Project — robot design competition: deciding what your robot is like | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 12, printed p.66 |
+| Vocabulary — communication technology | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+| Reading about a way of communicating in the future for general and specific information (listening: a communication exhibition) | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+| Speaking — talking about the advantages and disadvantages of a way of communicating | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+| Writing a paragraph to describe a way of modern communication | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+| Project — communication in the future: imagining a means of communication in 2050 | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+| Vocabulary — science and technology in the future | Vietnam, Tiếng Anh 8 (Global Success), Unit 11, printed p.114 |
+| Reading advertisements about new technologies for specific information (listening: a robot teacher) | Vietnam, Tiếng Anh 8 (Global Success), Unit 11, printed p.114 |
+| Speaking — talking about a technology or an invention | Vietnam, Tiếng Anh 8 (Global Success), Unit 11, printed p.114 |
+| Project — imagining an invention that helps you deal with a problem at home or at school | Vietnam, Tiếng Anh 8 (Global Success), Unit 11, printed p.114 |
+| Vocabulary — electronic devices | Vietnam, Tiếng Anh 9 (Global Success), Unit 11, printed p.114 |
+| Reading about electronic devices for specific information, guessing meaning in context and identifying text structures (listening: the current and future capabilities of one's favourite electronic device) | Vietnam, Tiếng Anh 9 (Global Success), Unit 11, printed p.114 |
+| Speaking — talking about an electronic device which is important to you | Vietnam, Tiếng Anh 9 (Global Success), Unit 11, printed p.114 |
+| Writing a passage about the current and future uses of one's favourite electronic device | Vietnam, Tiếng Anh 9 (Global Success), Unit 11, printed p.114 |
+| Words and phrases related to inventions | Vietnam, Tiếng Anh 10 (Global Success), Unit 5, printed p.52 |
+| Reading a text about an invention (listening: instructions on how to use an invention) | Vietnam, Tiếng Anh 10 (Global Success), Unit 5, printed p.52 |
+| Speaking — talking about inventions and their uses | Vietnam, Tiếng Anh 10 (Global Success), Unit 5, printed p.52 |
+| Culture/project — computer hardware (CLIL); collecting information about an existing invention | Vietnam, Tiếng Anh 10 (Global Success), Unit 5, printed p.52 |
+| Reading an article about AI applications in education (listening: an interview with an AI expert) | Vietnam, Tiếng Anh 12 (Global Success), Unit 6, printed p.80 |
+| Speaking — discussing applications of AI in education | Vietnam, Tiếng Anh 12 (Global Success), Unit 6, printed p.82 |
+| Culture/project — the evolution of robots; researching or designing a new AI application | Vietnam, Tiếng Anh 12 (Global Success), Unit 6, printed pp.85–87 |
+| Words and phrases related to the mass media | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed p.90 |
+| Culture/project — mass media types around the world; comparing two types of mass media | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed pp.98–99 |

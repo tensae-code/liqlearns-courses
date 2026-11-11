@@ -499,3 +499,22 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 70:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 71:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 72:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Party food and drink "What food / drinks will you have at the party? — We'll have …" (apple juice, burgers, milk tea, pizza) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 13, printed p.18 (Book Map) |
+| Reading about a typical traditional food for general and specific information (listening: eating habits) | Vietnam, Tiếng Anh 7 (Global Success), Unit 5, printed p.50 |
+| Speaking — talking about a popular food or drink | Vietnam, Tiếng Anh 7 (Global Success), Unit 5, printed p.50 |
+| Writing a paragraph describing eating habits | Vietnam, Tiếng Anh 7 (Global Success), Unit 5, printed p.50 |
+| Project — food in a foreign country: main meals, mealtimes and common food and drink for each meal | Vietnam, Tiếng Anh 7 (Global Success), Unit 5, printed p.50 |
+| Speaking — talking about a typical traditional Vietnamese dish | Vietnam, Tiếng Anh 9 (Global Success), Unit 4, printed p.40 |

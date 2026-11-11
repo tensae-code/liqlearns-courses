@@ -1503,3 +1503,56 @@ read page by page in the 2026-11-08 re-verification sweep
 and every one of their 257 distinct teaching items is
 stocked (120 already in, 137 stocked by the 2026-11-11
 sweep merge, 0 excluded). **Venezuela: 5 of 5 read.**
+
+**Stocked by Vietnam (all 16 books):** the *Tiếng Anh
+(Global Success)* student books, Grades 1–12 — one volume
+per grade except Grades 3, 4, 5 and 6, which are two
+volumes each. All 16 books are scan-only; the sweep read
+them by rendering every page and OCR'ing the full books.
+No teacher's books are in hand for Vietnam (they are
+among the library's owed items), so every stocked row is
+from a student's book. The 2026-11-03 merge had stocked
+Vietnam's named grammar spine and selected sets (190 of
+the sweep's 834 items); this merge stocked all 644
+missing items (650 provenance rows across 91 lessons —
+6 dual-target items are stocked in each lesson the sweep
+names) and completed the 7 half-stocked grammar lines
+named in sweep flag 7 with 7 further rows. The sweep's
+one "NEW LESSON NEEDED" topic — there is / there are,
+placed from Grades 1, 2, 3 and 4 — was routed into the
+lesson of that name built by the Bolivia sweep merge
+earlier the same day, so no new lesson was built and the
+course total is unchanged. Flags: (1) Grade 12 Unit 9
+teaches CV writing in full — the filing misses it and
+cv-and-cover-letter recorded Vietnam as
+checked-not-confirmed; the false negative is corrected
+and Vietnam is counted there. (2) Grade 12 Unit 3's
+Writing task is the problem-solving report, already
+stocked in report-writing under its own name; its
+leaflet is the unit's project task, stocked in
+advertisements-and-posters. (3) The Grade 12 "Exam
+Strategies" appendix, excluded from the placements as
+apparatus, was verified already stocked in
+exam-technique and ways-to-read; no change. (4) The
+jobs citation naming "Volume 1, Unit 12" is corrected
+to Volume 2 in word/jobs. (5) Grade 7 Unit 8's
+although/though and however connectors, recorded as not
+counted in joining-with-and-and-but, are stocked and
+counted in connectors-and-clauses. (6) Grade 9's blend
+pairs /fl/, /fr/ and /sl/, /sn/ — named in blends but
+never stocked — are stocked, with Grade 8's two cluster
+pairs. (7) The seven half-stocked grammar lines are
+completed (must/mustn't, imperatives, articles, future
+simple, prepositions of place and time, compound
+sentences, verbs followed by prepositions). Book errors
+carried as filed: Grade 1's Book Map lists "run" and
+"wash" where the units teach "running" and "washing",
+and its Glossary enters singulars where the units teach
+plurals; Grade 2 Unit 13 presents eleven, thirteen,
+fourteen and fifteen — twelve is used in the unit but
+never presented; the held Grade 4 copies are third-party
+scans (a "www.minh-pham.info" margin stamp, no back
+cover; content complete); the series prints no
+irregular-verb table in any book although irregular
+past forms are required from Grade 5 on — a design gap,
+filed as such. **Vietnam: 16 of 16 read.**

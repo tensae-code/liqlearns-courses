@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam
 
 Every part traces to its book and page.
 
@@ -101,8 +101,8 @@ verification sweep.
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
 | A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 11 countries (Malaysia, Nepal, Egypt, China, India, Mongolia,
-Pakistan, Palestine, South Sudan, Sudan, Yemen).** Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 12 countries (Malaysia, Nepal, Egypt, China, India, Mongolia,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam).** Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -112,7 +112,7 @@ journals defined and modelled at Secondary 10, and the
 Tip Box restated at Secondary 12. China keeps a diary
 across its Grade 5 Recycle pages and sets a dated entry
 as writing again at Grade 9 (stocked 2026-11-08 by the
-re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Vietnam joins with its Grades 6, 7 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* sets a diary page among its writing kinds (printed pp.116–117). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -170,3 +170,19 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Diary writing — two diaries (Khalid's and Amal's day last Tuesday) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.28 |
 | A diary of a bad camping day (past simple and past continuous) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.49 |
 | A 1937 flying-boat travel diary (past simple narrative) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.13 |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 16:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a diary entry about best friends | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed p.30 |
+| Writing a diary entry about a tour of a city | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
+| Writing about family routines | Vietnam, Tiếng Anh 10 (Global Success), Unit 1, printed p.8 |

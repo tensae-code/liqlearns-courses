@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -89,9 +89,9 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 19 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
+**Acceptance count: taught in 20 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
 Mauritania, Mongolia, Nicaragua, Pakistan, Palestine,
-Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -113,7 +113,7 @@ could you… / can you… forms in Grade 7 (stocked
 2026-11-09 by the re-verification sweep merge).
 Mauritania asks politely at the table and for borrowing and
 lending in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its polite requests in Grades 3 and 10 — "Can I have some rice, please?" and "Could I have …? Would you send …?" (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its polite requests in Grades 3 and 10 — "Can I have some rice, please?" and "Could I have …? Would you send …?" (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 3, 8, 9, 10 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -265,3 +265,30 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 15:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Polite passing requests "Pass me the jam, please. — Here you are." | Vietnam, Tiếng Anh 2 (Global Success), Unit 7, printed p.33 |
+| Asking permission "May I …? — Yes, you can. / No, you can't." | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 7, printed p.50 (Book Map) |
+| Everyday English — making requests | Vietnam, Tiếng Anh 8 (Global Success), Unit 3, printed p.28 |
+| Everyday English — seeking help and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 1, printed p.8 |
+| Everyday English — offering help and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 2, printed p.18 |
+| Everyday English — asking for permission and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 7, printed p.72 |
+| Everyday English — making and responding to requests | Vietnam, Tiếng Anh 10 (Global Success), Unit 5, printed p.52 |
+| Everyday English — asking for and giving permission | Vietnam, Tiếng Anh 11 (Global Success), Unit 2, printed p.18 |

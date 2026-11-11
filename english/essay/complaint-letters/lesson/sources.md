@@ -1,6 +1,6 @@
 # Sources — Complaint letters
 
-countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq
+countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh, Sudan, Iraq, Vietnam
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -52,8 +52,8 @@ outcome and teaches no complaint lesson (see the row).
 | The complaint named as a learning outcome and taught nowhere in the unit: Unit 12 "Roots" prints "lodge complaint" among its learning outcomes on the unit opener — and no lesson in the unit teaches complaint writing (outcome evidence only, stated exactly; stocked 2026-11-08 by the re-verification sweep, which found the outcome in the fresh read and no complaint lesson behind it) | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Twelve opener, printed p.151 |
 | Hotel Unit 12 “Responding to complaints” — complaint-response language in food and beverage service | Greece, English for the Hotel and Tourist Trade, Unit 12, printed p.205 |
 
-**Acceptance count: taught in 8 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana,
-Bangladesh, Sudan, Iraq).** Greece teaches
+**Acceptance count: taught in 9 countries (Greece, Uzbekistan, Sierra Leone, Jordan, Ghana,
+Bangladesh, Sudan, Iraq, Vietnam).** Greece teaches
 the complaint and its apologetic reply as one worked pair;
 Uzbekistan reads a formal complaint and corrects a
 style-mixed one; Sierra Leone names the letter of
@@ -63,7 +63,7 @@ carries the formal kinds in its curriculum. Bangladesh
 names "lodge complaint" as a printed learning outcome in
 its Classes 9–10 book and teaches no complaint lesson
 behind it — outcome evidence only (added 2026-11-08 by
-the re-verification sweep). Iraq joins with its Grade 12 letter of complaint, carried in the revision spreads (stocked 2026-11-11 by the re-verification sweep merge).
+the re-verification sweep). Iraq joins with its Grade 12 letter of complaint, carried in the revision spreads (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 8 and Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -88,3 +88,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Persuasive language; writing a letter of complaint | Iraq — *English for Iraq*, Grade 12 Student's Book, Revision spreads (book map, SB pp.2–3) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 7:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Everyday English — making complaints | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+| Everyday English — making complaints and responding to them | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.57 |

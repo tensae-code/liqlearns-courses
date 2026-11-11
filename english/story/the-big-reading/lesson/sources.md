@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -280,7 +280,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 20 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia)** — the
+**Acceptance count: taught in 21 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -295,7 +295,7 @@ its Student's Book 10B: Treasure Island, simplified and
 abridged, in five episodes reaching the story's end — a
 graded retelling, not the original text, with no questions
 on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Bolivia joins the same way Bangladesh does (2026-11-08, re-verification sweep): its schoolbooks carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — 31 lesson-length readings and songs (seventeen in the student books, fourteen in the teacher compendium), filed as plot summaries only. China joins the same way (2026-11-08, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — fifteen sustained readings, poems and a song across Grades 5–9, filed as plot summaries only. Indonesia joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is talking about your favourite book in Grade 5 and one sustained narrative read whole in Grade 12 — "The Breakers of Limitations from Gurung Mali," filed as a plot summary only. Mexico joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its sustained-reading ladder — seven lesson-length readings across Grades 7–8: folk dances and music read as identity, a coral-reef dream story, a Shakespeare biography paragraph, the Masferrer fragment, the ancient-Mexico agriculture text, the War of the Worlds broadcast account and the Naica Mine crystals, filed as summaries only. India joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its big-reading ladder — 103 poems, songs and sustained readings across Classes 1–12, from the first Marigold poems to Flamingo's six senior poems, filed as summaries only. Greece joins the same way (2026-11-10, re-verification sweep): its Lykeio dossiers carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is two literature-study units — Jane Austen's Pride and Prejudice studied in Grade 10 and the book-burning unit built around a film extract of The Book Thief in Grades 11–12 — filed as summaries of the studies only. Mongolia joins the same way (2026-11-11, re-verification sweep): its senior books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its senior long-reading ladder — sixteen sustained readings across English XI and English XII (biographies of Angelina Jolie, Marie Curie and Alfred Nobel; the explorers and their voyages; the Silk Road; the legend of Queen Alungoo; the story of Malala; a poem, a Harry Potter extract and a simplified Dickens story among them), filed as plot summaries only. Nicaragua joins the same way (2026-11-11, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its sustained-reading ladder — thirty-six lesson-length readings across its Grade 3 and Grade 4 activity books and its Grade 7, 8 and 10 books and modules, filed as plot summaries only. Venezuela joins the same way (2026-11-11, re-verification sweep): its guides name lesson-length readings but print no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its named-reading ladder — a nursery text, a famous song read as a text, a Dickens dictation, a president's tales studied as reading, and a named play the guide does not print — filed as summaries only. Other closed countries join as their
-books are read (see READING-QUEUE.md). Iraq joins with a run of graded reading texts and story episodes across Grades 7–12 and one complete short story, "The Canary" by Katherine Mansfield, printed in full in its Grade 12 Student's Book's Literature Focus — the same footing as Syria's Snow White; Iraq's other rows are short readings and extracts and claim no complete text (stocked 2026-11-11 by the re-verification sweep merge).
+books are read (see READING-QUEUE.md). Iraq joins with a run of graded reading texts and story episodes across Grades 7–12 and one complete short story, "The Canary" by Katherine Mansfield, printed in full in its Grade 12 Student's Book's Literature Focus — the same footing as Syria's Snow White; Iraq's other rows are short readings and extracts and claim no complete text (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -535,3 +535,61 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). Vietnam's rows here are short readings, unit texts and the primary books' Phil and Sue review comics, stocked as plot summaries only; none is a complete book-length text, and Vietnam does not join this lesson's complete-text countries on their terms.
+
+**Book 7:** *Tiếng Anh 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-22405-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phil and Sue comic — the pair introduce themselves and their animals and things, ending in a dropped-cake mix-up | Vietnam, Tiếng Anh 1 (Global Success), Review 1, printed p.20 |
+| Phil and Sue comic — Ben's ball, bag and cat meet a goat in the garden | Vietnam, Tiếng Anh 1 (Global Success), Review 2, printed p.37 |
+| Phil and Sue comic — watching Mary and a mouse running by the lake | Vietnam, Tiếng Anh 1 (Global Success), Review 3, printed p.54 |
+| Phil and Sue comic — greetings and goodbyes around Lucy's lost teddy bear | Vietnam, Tiếng Anh 1 (Global Success), Review 4, printed p.71 |
+| Phil and Sue comic — spotting friends flying a kite, eating pizza and playing with a kitten by the sea | Vietnam, Tiếng Anh 2 (Global Success), Review 1, printed p.20 |
+| Phil and Sue comic (classroom and farm scenes re-met in story form) | Vietnam, Tiếng Anh 2 (Global Success), Review 2, printed p.37 |
+| Phil and Sue comic — Sue's birthday, with the cake and grapes on the table and friends riding bikes | Vietnam, Tiếng Anh 2 (Global Success), Review 3, printed p.54 |
+| Phil and Sue comic — shopping for shirts and juice and asking a brother's age | Vietnam, Tiếng Anh 2 (Global Success), Review 4, printed p.71 |
+| Reading about friends and a summer camp for specific information (listening: best friends) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed p.30 |
+| Reading about New Year practices for general and specific information (listening: preparations for Tet) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6, printed p.66 |
+| Reading about an unusual festival for specific information (listening: a festival) | Vietnam, Tiếng Anh 7 (Global Success), Unit 9, printed p.92 |
+| Reading about an interesting lifestyle and ways to maintain its traditional lifestyle (listening: the impact of modern technology on lifestyles) | Vietnam, Tiếng Anh 8 (Global Success), Unit 6, printed p.60 |
+| Project — interesting lifestyles around the world | Vietnam, Tiếng Anh 8 (Global Success), Unit 6, printed p.60 |
+| Reading about the possibility of life on other planets for specific information (listening: imaginary creatures living on another planet) | Vietnam, Tiếng Anh 8 (Global Success), Unit 12, printed p.124 |
+| Reading about how English people keep their cuisine alive for specific information (listening: old school days) | Vietnam, Tiếng Anh 9 (Global Success), Unit 4, printed p.40 |
+| Project — life in your area about 40 years ago: collecting information and pictures | Vietnam, Tiếng Anh 9 (Global Success), Unit 4, printed p.40 |
+| Reading about different summer course experiences for general and specific information (listening: bad experiences at school) | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
+| Speaking — talking about a friend's experience of a course | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
+| Project — your most memorable experience | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
+| Reading about learning styles in the past and at present for specific information (listening: changes in family life) | Vietnam, Tiếng Anh 9 (Global Success), Unit 6, printed p.60 |
+| Reading a text about a famous TV music show (listening: an interview about a music festival) | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |
+| Culture/project — Chau van singing; research on a form of traditional music in Viet Nam or another country | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |
+| Reading a text about a volunteer club (listening: an announcement for volunteers) | Vietnam, Tiếng Anh 10 (Global Success), Unit 4, printed p.42 |
+| Reading a text about gender equality (listening: a talk about the first woman in space) | Vietnam, Tiếng Anh 10 (Global Success), Unit 6, printed p.66 |
+| Culture/project — New Year festivals in ASEAN; research about an ASEAN member country | Vietnam, Tiếng Anh 11 (Global Success), Unit 4, printed p.42 |
+| Reading an article about an ideas competition for preserving Trang An (listening: a talk about Trang An Scenic Landscape Complex) | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |
+| Reading an article about how teens can become independent (listening: a conversation about becoming independent) | Vietnam, Tiếng Anh 11 (Global Success), Unit 8, printed p.86 |
+| Reading an article about peer pressure (listening: a conversation about types of bullying) | Vietnam, Tiếng Anh 11 (Global Success), Unit 9, printed p.100 |
+| Reading an article about Steve Jobs' life and achievements (listening: a talk about Walt Disney's life) | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.11 |
+| Reading an article about globalisation and cultural diversity (listening: an interview about Halloween in Viet Nam) | Vietnam, Tiếng Anh 12 (Global Success), Unit 2, printed p.23 |
+| Reading emails about going green with plastics (listening: instructions for creating a compost pile) | Vietnam, Tiếng Anh 12 (Global Success), Unit 3, printed p.35 |
+| Reading an article about the urbanisation of Ha Noi (listening: a radio talk about urbanisation) | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.52 |
+| Reading a head teacher's message to school-leavers (listening: a talk about the challenges of lifelong learning) | Vietnam, Tiếng Anh 12 (Global Success), Unit 10, printed p.132 |

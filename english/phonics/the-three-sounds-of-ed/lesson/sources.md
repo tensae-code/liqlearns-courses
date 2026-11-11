@@ -1,6 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq
+countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -39,8 +39,8 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 | The three sounds of -ed, in the health unit (with hygiene and healthy eating) | Pakistan, *English 4*, Unit 8 (contents) |
 
-**Acceptance count: taught in 9 countries (Bolivia, India, Barbados, Nicaragua, Pakistan,
-Palestine, Sudan, Venezuela, Iraq).**
+**Acceptance count: taught in 10 countries (Bolivia, India, Barbados, Nicaragua, Pakistan,
+Palestine, Sudan, Venezuela, Iraq, Vietnam).**
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -52,7 +52,7 @@ presentation is claimed from Barbados. Bolivia's
 "breathed" stands in its /t/ list as printed and is
 taught corrected (its -ed is /d/), never as a /t/
 example. Counts grow as other closed countries' books
-are read. Iraq joins with its Grade 7 past-tense endings /d/ /ɪd/ /t/ (stocked 2026-11-11 by the re-verification sweep merge).
+are read. Iraq joins with its Grade 7 past-tense endings /d/ /ɪd/ /t/ (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -110,3 +110,13 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Past-tense endings /d/ /ɪd/ /t/ pronounced | Iraq — *English for Iraq*, Grade 7 Student's Book, Unit 3 |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 5:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pronunciation — the three sounds of -ed, /t/, /d/ and /ɪd/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 3 "Community service", printed p.28 |

@@ -558,3 +558,32 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 65:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 66:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 67:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 68:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 69:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a paragraph about a natural wonder | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
+| Writing a paragraph about TV-viewing habits | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed p.6 |
+| Writing a paragraph about a dream house | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10, printed p.42 |
+| Writing a paragraph about ideas for a green club | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 11, printed p.54 |
+| Writing a paragraph about one's hobby | Vietnam, Tiếng Anh 7 (Global Success), Unit 1, printed p.8 |
+| Writing a paragraph about an outdoor activity at one's school | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
+| Writing a paragraph about what someone likes or dislikes about life in the countryside | Vietnam, Tiếng Anh 8 (Global Success), Unit 2, printed p.18 |
+| Writing a paragraph about the advantages or disadvantages of online learning | Vietnam, Tiếng Anh 8 (Global Success), Unit 6, printed p.60 |
+| Writing a paragraph to describe an imaginary planet and its creatures | Vietnam, Tiếng Anh 8 (Global Success), Unit 12, printed p.124 |
+| Writing a paragraph about old school days | Vietnam, Tiếng Anh 9 (Global Success), Unit 4, printed p.40 |
+| Writing a paragraph about the most pleasant / unpleasant experience at school | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
+| Writing a paragraph about ways to improve an area of English learning | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |

@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -68,8 +68,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 12 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
-Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
+**Acceptance count: taught in 13 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -88,7 +88,7 @@ beside it (stocked 2026-11-08 by the re-verification
 sweep).
 Mauritania offers help and things, with accepting and
 declining, in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Iraq joins with its offers across Grades 2, 4, 5, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Iraq joins with its offers across Grades 2, 4, 5, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 4 and Grade 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -185,3 +185,16 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 9:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Party wants "What do you want to eat / drink? — I want …" (chips, grapes, jam, juice, lemonade, water) | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 4, printed p.28 (Book Map) |
+| Everyday English — offering help and responding | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |

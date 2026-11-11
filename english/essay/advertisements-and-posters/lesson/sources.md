@@ -1,6 +1,6 @@
 # Sources — Advertisements and posters
 
-countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia
+countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -77,7 +77,7 @@ verification sweep.
 | Help wanted — job advertisements, reading and writing them | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 1 |
 | Help wanted — job ads, with finding the main idea of a text | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3B, PDF p.90 |
 
-**Acceptance count: taught in 15 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -217,3 +217,39 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 17:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project — a poster about a natural wonder you would like to visit (dream destination) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
+| Project — a hobby poster | Vietnam, Tiếng Anh 7 (Global Success), Unit 1, printed p.8 |
+| Project — a poster to introduce a place in an English-speaking country | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
+| Project — a poster about a village in Viet Nam or a foreign country you would like to visit | Vietnam, Tiếng Anh 8 (Global Success), Unit 2, printed p.18 |
+| Project — a poster about a club you would like to have at your school | Vietnam, Tiếng Anh 8 (Global Success), Unit 3, printed p.28 |
+| Project — a poster about an ethnic group in Viet Nam | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
+| Writing a notice | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
+| Project — our favourite planet: a poster about a planet in our solar system | Vietnam, Tiếng Anh 8 (Global Success), Unit 12, printed p.124 |
+| Project — a city in the future: a poster presentation of a future city you would like to live in | Vietnam, Tiếng Anh 9 (Global Success), Unit 2, printed p.18 |
+| Project — a competition for designing leaflets on electronic devices | Vietnam, Tiếng Anh 9 (Global Success), Unit 11, printed p.114 |
+| Writing a website advertisement for an ecotour | Vietnam, Tiếng Anh 10 (Global Success), Unit 10, printed p.110 |
+| Writing a leaflet to persuade people to reduce black carbon emissions | Vietnam, Tiếng Anh 11 (Global Success), Unit 5, printed p.52 |
+| Writing a leaflet to inform people about ways to preserve Trang An | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |
+| Writing a leaflet promoting an eco-friendly habit | Vietnam, Tiếng Anh 12 (Global Success), Unit 3, printed p.40 |
+| Culture/project — one of the oldest university graduates; designing a leaflet about a lifelong learning habit | Vietnam, Tiếng Anh 12 (Global Success), Unit 10, printed p.128 (unit opener) |

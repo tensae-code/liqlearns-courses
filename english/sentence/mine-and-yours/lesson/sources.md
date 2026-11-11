@@ -390,3 +390,26 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 39:** *Tiếng Anh 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-22405-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 42:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 43:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possession "I have a car." | Vietnam, Tiếng Anh 1 (Global Success), Unit 2, printed p.11 |
+| "This is my bag." (this is + possessive my) | Vietnam, Tiếng Anh 1 (Global Success), Unit 3, printed p.16 |
+| Having things "I have … / Do you have …? — Yes, I do. / No, I don't." | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 8, printed p.56 (Book Map) |
+| Other people's possessions "He / She has … / They have …" | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 17, printed p.46 (Book Map) |
+| Possession "Whose … is this? — It's …" (crayon, glue stick, pencil sharpener, set square) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 8, printed p.56 (Book Map) |
+| Grammar — possessive case; prepositions of place | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.18 |

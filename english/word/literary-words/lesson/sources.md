@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -102,12 +102,12 @@ verification sweep.
 | Personification named and defined as a poetic literary device — "Personification is a poetic literary device" | Pakistan, *English 7*, Unit 9, printed p.79 |
 | Literary devices as the unit's grammar work (the key to its spot-the-error exercise is printed on the same page) | Pakistan, *English 12*, Unit 9, printed p.71 |
 
-**Acceptance count: taught in 18 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
+**Acceptance count: taught in 19 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
 Mauritania, Mexico, India, Greece, Nicaragua, Pakistan,
-Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Literature Focus drama terms (Grade 11) and "The Swing" discussion (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge).
+merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Literature Focus drama terms (Grade 11) and "The Swing" discussion (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -281,3 +281,21 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 21:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary — music and arts | Vietnam, Tiếng Anh 7 (Global Success), Unit 4, printed p.40 |
+| Reading about a traditional art form for specific information (listening: street painting) | Vietnam, Tiếng Anh 7 (Global Success), Unit 4, printed p.40 |
+| Vocabulary — aspects of languages; English language learning | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |
+| Speaking — talking about borrowed words | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |
+| Phrases related to life stories | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.10 |

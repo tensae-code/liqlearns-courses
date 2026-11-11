@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -96,9 +96,9 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 16 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India,
+**Acceptance count: taught in 17 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India,
 Nicaragua, Pakistan, Palestine, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -108,7 +108,7 @@ keeps its plan in the Writing Reference. China writes
 letters up the whole ladder — friendly letters and a
 pen-pal letter in Grade 5, a pen-pal unit in Grade 6,
 personal letters again at Grade 9 (stocked 2026-11-08
-by the re-verification sweep). Iraq joins with its letters, emails, cards and notes across Grades 5–10 (stocked 2026-11-11 by the re-verification sweep merge).
+by the re-verification sweep). Iraq joins with its letters, emails, cards and notes across Grades 5–10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 7, 8, 9 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -298,3 +298,32 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 16:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an email to a friend describing a house | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.18 |
+| Writing an email about what children should / shouldn't do at Tet | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6, printed p.66 |
+| Reading a holiday postcard describing a city (listening: a description of a city) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed p.30 |
+| Writing a holiday postcard | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed p.30 |
+| Writing an email about community activities one did last summer | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+| Writing an informal letter of invitation | Vietnam, Tiếng Anh 7 (Global Success), Unit 4, printed p.40 |
+| Writing an email to describe a festival | Vietnam, Tiếng Anh 7 (Global Success), Unit 9, printed p.92 |
+| Writing an email about leisure activities with friends | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
+| Writing an email about changes in your family | Vietnam, Tiếng Anh 9 (Global Success), Unit 6, printed p.60 |
+| Writing a short message | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |

@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -199,10 +199,10 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 23 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 24 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
 Bolivia, China, Iran, Indonesia, India, Greece,
 Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -223,7 +223,7 @@ nature in talk across the senior years — a wildlife-museum
 visit, an observatory conversation, a wildlife-protection
 workbook reading, and renewable energy in Grade 12
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the renewable-energy vocabulary in its Grade 12 student book, and four environment units at topic level in its two teacher guides — teacher-guide evidence only (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
-their books are read (see READING-QUEUE.md). Mexico's environment strand was completed 2026-11-09 by the Mexico re-verification sweep merge: the Grade 7 Trash and coral-reef projects, the Grade 8 climate-probability and water-protection projects, and the Grade 9 sustainable-energy comparison joined its Grade 7 environment vocabulary set. Iraq joins with its nature and environment work across Grades 3–11 (stocked 2026-11-11 by the re-verification sweep merge).
+their books are read (see READING-QUEUE.md). Mexico's environment strand was completed 2026-11-09 by the Mexico re-verification sweep merge: the Grade 7 Trash and coral-reef projects, the Grade 8 climate-probability and water-protection projects, and the Grade 9 sustainable-energy comparison joined its Grade 7 environment vocabulary set. Iraq joins with its nature and environment work across Grades 3–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -470,3 +470,82 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 35:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 36:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 37:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 38:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 39:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 42:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary — things in nature; travel items | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
+| Reading about natural wonders for specific information (listening: a natural wonder) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
+| Speaking — talking about famous places and what you must / mustn't do there | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
+| Vocabulary — things that can be reduced, reused and recycled | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 11, printed p.54 |
+| Reading about ways to go green for general and specific information (listening: ideas for a green club) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 11, printed p.54 |
+| Project — creative ideas about reusing old things | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 11, printed p.54 |
+| Project — environmental problems in your neighbourhood: problems and solutions | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+| Vocabulary — types of energy sources | Vietnam, Tiếng Anh 7 (Global Success), Unit 10, printed p.104 |
+| Reading about types of energy sources for specific information (listening: how to save energy at home) | Vietnam, Tiếng Anh 7 (Global Success), Unit 10, printed p.104 |
+| Speaking — talking about the advantages and disadvantages of different energy sources | Vietnam, Tiếng Anh 7 (Global Success), Unit 10, printed p.104 |
+| Writing a paragraph about how to save energy at home | Vietnam, Tiếng Anh 7 (Global Success), Unit 10, printed p.104 |
+| Project — saving energy at school: which tips can be applied in your school | Vietnam, Tiếng Anh 7 (Global Success), Unit 10, printed p.104 |
+| Vocabulary — environmental protection | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
+| Reading about Con Dao National Park for general and specific information (listening: water pollution) | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
+| Speaking — talking about Vu Quang National Park | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
+| Project — a serious pollution problem in my area | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
+| Vocabulary — types of natural disasters; words describing natural disasters | Vietnam, Tiếng Anh 8 (Global Success), Unit 9, printed p.92 |
+| Reading about natural disasters for specific information (listening: things to do before, during and after a natural disaster) | Vietnam, Tiếng Anh 8 (Global Success), Unit 9, printed p.92 |
+| Speaking — talking about a natural disaster | Vietnam, Tiếng Anh 8 (Global Success), Unit 9, printed p.92 |
+| Project — "What do we know about it?": choosing a natural disaster to learn more about | Vietnam, Tiếng Anh 8 (Global Success), Unit 9, printed p.92 |
+| Vocabulary — outer space; imaginary creatures | Vietnam, Tiếng Anh 8 (Global Success), Unit 12, printed p.124 |
+| Speaking — talking about the conditions needed for planets to support human life | Vietnam, Tiếng Anh 8 (Global Success), Unit 12, printed p.124 |
+| Vocabulary — natural wonders | Vietnam, Tiếng Anh 9 (Global Success), Unit 7, printed p.72 |
+| Reading about a travel destination for specific information, making references in the text (listening: a natural wonder in an area) | Vietnam, Tiếng Anh 9 (Global Success), Unit 7, printed p.72 |
+| Speaking — talking about a natural wonder | Vietnam, Tiếng Anh 9 (Global Success), Unit 7, printed p.72 |
+| Writing a paragraph about a natural wonder / landscape | Vietnam, Tiếng Anh 9 (Global Success), Unit 7, printed p.72 |
+| Project — natural wonders of the world: a poster and presentation about a natural wonder | Vietnam, Tiếng Anh 9 (Global Success), Unit 7, printed p.72 |
+| Vocabulary — Planet Earth; habitats; flora and fauna | Vietnam, Tiếng Anh 9 (Global Success), Unit 10, printed p.104 |
+| Reading about flora and fauna for general and specific information (listening: the effects of living things on the environment) | Vietnam, Tiếng Anh 9 (Global Success), Unit 10, printed p.104 |
+| Speaking — talking about threats to flora and fauna and how to protect them | Vietnam, Tiếng Anh 9 (Global Success), Unit 10, printed p.104 |
+| Project — our flora and fauna: a poster introducing an area's flora and fauna | Vietnam, Tiếng Anh 9 (Global Success), Unit 10, printed p.104 |
+| Words and phrases related to human activities and the environment | Vietnam, Tiếng Anh 10 (Global Success), Unit 2, printed p.18 |
+| Speaking — talking about ways to live green | Vietnam, Tiếng Anh 10 (Global Success), Unit 2, printed p.18 |
+| Writing about ways to improve the environment | Vietnam, Tiếng Anh 10 (Global Success), Unit 2, printed p.18 |
+| Culture/project — carbon footprint (CLIL); planning activities for a green event | Vietnam, Tiếng Anh 10 (Global Success), Unit 2, printed p.18 |
+| Words and phrases related to the environment and ways to protect it | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |
+| Reading a text about environmental problems (listening: a conversation about ways to protect endangered animals) | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |
+| Speaking — talking about environmental problems and solutions | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |
+| Culture/project — Earth Hour; research on an environmental organisation | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |
+| Words and phrases related to ecotourism | Vietnam, Tiếng Anh 10 (Global Success), Unit 10, printed p.110 |
+| Reading a brochure about ecotours (listening: a tour guide speech welcoming ecotourists in the Mekong Delta) | Vietnam, Tiếng Anh 10 (Global Success), Unit 10, printed p.110 |
+| Speaking — talking about how to become an ecotourist | Vietnam, Tiếng Anh 10 (Global Success), Unit 10, printed p.110 |
+| Culture/project — tourism's impact on the environment; designing an ecotour to a local attraction | Vietnam, Tiếng Anh 10 (Global Success), Unit 10, printed p.110 |
+| Words and phrases related to global warming | Vietnam, Tiếng Anh 11 (Global Success), Unit 5, printed p.52 |
+| Reading an article about the UN Climate Change Conference (listening: a talk about black carbon and global temperature) | Vietnam, Tiếng Anh 11 (Global Success), Unit 5, printed p.52 |
+| Speaking — talking about human activities and global warming; presenting ideas clearly in a discussion | Vietnam, Tiếng Anh 11 (Global Success), Unit 5, printed p.52 |
+| Culture/project — reducing the environmental impact of farming (CLIL); a survey on how local people try to limit global warming | Vietnam, Tiếng Anh 11 (Global Success), Unit 5, printed p.52 |
+| Words and phrases related to ecosystems | Vietnam, Tiếng Anh 11 (Global Success), Unit 10, printed p.110 |
+| Reading an article about a national park (listening: a talk about the human impact on ecosystems, and making predictions) | Vietnam, Tiếng Anh 11 (Global Success), Unit 10, printed p.110 |
+| Speaking — talking about ways to protect local biodiversity and responding to situations that may harm the environment | Vietnam, Tiếng Anh 11 (Global Success), Unit 10, printed p.110 |
+| Culture/project — protecting the ecosystem around the world (CLIL); designing a poster about a local ecosystem | Vietnam, Tiếng Anh 11 (Global Success), Unit 10, printed p.110 |
+| Words related to cultural diversity | Vietnam, Tiếng Anh 12 (Global Success), Unit 2, printed p.22 |
+| Words and phrases related to green living | Vietnam, Tiếng Anh 12 (Global Success), Unit 3, printed p.34 |
+| Culture/project — how green festival traditions are; designing a leaflet about going green | Vietnam, Tiếng Anh 12 (Global Success), Unit 3, printed pp.41–43 |
+| Words related to conserving wildlife | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.102 |
+| Culture/project — the IUCN Red List; designing a poster about an endangered species | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed pp.109–111 |

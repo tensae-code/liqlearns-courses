@@ -1,6 +1,6 @@
 # Sources — Dialogue and Discussion
 
-countries: Sierra Leone
+countries: Sierra Leone, Vietnam
 
 Every part traces to its book and page.
 
@@ -84,8 +84,21 @@ Every part traces to its book and page.
 | Sub lesson 4: Debate | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 65, printed p.45 |
 | Sub lesson 4: Debate | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 112, printed p.39 |
 
-**Acceptance count: taught in 1 country (Sierra Leone).** The Primary rows are teacher lesson-plan evidence, cited as such; the JSS and SSS rows are pupils' handbook lessons.
+**Acceptance count: taught in 2 countries (Sierra Leone, Vietnam).** The Primary rows are teacher lesson-plan evidence, cited as such; the JSS and SSS rows are pupils' handbook lessons. Vietnam joins with its Grade 8 and Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Sierra Leone's English books. The sweep re-read all 36 held books (1,771 teaching items placed; 1,466 missing) and marked 41 items NEW LESSON NEEDED for this topic: Sierra Leone teaches talking itself — pair talk, class discussion, the good listener and the good speaker, conversations, role play and formal debate — from Primary 1 to SSS 3, and no course lesson housed it. Under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson. Neighbouring lessons keep their own things: agreeing-and-disagreeing teaches agreeing and disagreeing, presentation-skills teaches presenting, listening-comprehension teaches listening to passages; this lesson is the talk between people itself.
 
 Searchable tag: the books' own names for these parts — "Talk and work in pairs", "Oral discussion", "Conversations", "Role Play", "Debate", "Good Listener", "Good Speaker" — are kept here as tags, not as the lesson's title, which names the thing itself.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). The rows below are the points the placements key to "conversation (managing talk)" — interrupting politely and getting attention in a conversation; they are stocked here, in the lesson on holding a talk.
+
+**Book 19:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Everyday English — interrupting politely | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+| Everyday English — getting attention and interrupting in a conversation | Vietnam, Tiếng Anh 12 (Global Success), Unit 6, printed p.82 (Book Map) |

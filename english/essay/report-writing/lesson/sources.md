@@ -183,3 +183,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | Writing a report on a marine animal; discussing online shopping | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 7 (book map, printed pp.2–3) |
 | Completing short reports describing charts, graphs and tables | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). Sweep flag 2 confirmed here: Grade 12 Unit 3's Writing task is the problem-solving report (already stocked above under its own name); the leaflet promoting an eco-friendly habit is that unit's project task and is stocked in Advertisements and Posters by this merge.
+
+**Book 14:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing about Viet Nam's participation in international organisations | Vietnam, Tiếng Anh 10 (Global Success), Unit 7, printed p.76 |
+| Writing about solutions to an environmental problem for a local organisation | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |
+| Writing — describing a line graph about trends in urbanisation | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.55 |
+| Writing — describing pie charts | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed p.95 |
+| Writing a problem-solving report on protecting tigers | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.108 |

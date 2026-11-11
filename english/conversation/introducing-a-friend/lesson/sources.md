@@ -548,3 +548,20 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). One row below (Grade 12, Unit 7 everyday English — making small talk) is keyed by the placements to "conversation (small talk)"; small talk already lives in this lesson (see the Armenia row above), so it is stocked here.
+
+**Book 2:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Who's this / that? — It's my …" | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 11, printed p.6 (Book Map) |
+| "Where are you from? — I'm from …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 1, printed p.10 (Book Map) |
+| "Where's he / she from? — He's / She's from …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 1, printed p.10 (Book Map) |
+| Everyday English — making small talk | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed p.97 |

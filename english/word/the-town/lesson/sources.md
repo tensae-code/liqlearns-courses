@@ -518,3 +518,63 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 58:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 59:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 60:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 61:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 62:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 63:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 64:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 65:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 66:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 67:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 68:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Toy words bus, car, kite, plane, ship, teddy bear, train, truck | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 17 "Our toys", printed p.46 |
+| Country words America, Australia, Britain, Japan, Malaysia, Singapore, Thailand, Viet Nam | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 1 "My friends", printed p.10 |
+| Nationality "What nationality is he / she? — He's / She's …" (American, Australian, Japanese, Malaysian) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 3 "My foreign friends", printed p.22 |
+| Reading about a neighbourhood for specific information (listening: a neighbourhood) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 4, printed p.42 |
+| Speaking — talking about a neighbourhood | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 4, printed p.42 |
+| Vocabulary — cities and landmarks | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed p.30 |
+| Speaking — talking about a city | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed p.30 |
+| Project — "My journey": choosing a city in the world to visit and finding information for the visit | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed p.30 |
+| Vocabulary — community activities and their benefits | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+| Reading about community activities at a school for specific information (listening: a talk about community activities and their benefits) | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+| Speaking — talking about the reasons why students join different community activities | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+| Vocabulary — people and places in English-speaking countries | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
+| Reading about a country for specific information (listening: a tour of a city) | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
+| Speaking — talking about a country | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
+| Vocabulary — life in the countryside | Vietnam, Tiếng Anh 8 (Global Success), Unit 2, printed p.18 |
+| Reading about different aspects of a Vietnamese village for specific information (listening: someone's opinion about life in the countryside) | Vietnam, Tiếng Anh 8 (Global Success), Unit 2, printed p.18 |
+| Speaking — talking about the village or town where someone lives | Vietnam, Tiếng Anh 8 (Global Success), Unit 2, printed p.18 |
+| Vocabulary — the lifestyle of ethnic groups | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
+| Speaking — talking about city problems and their solutions | Vietnam, Tiếng Anh 9 (Global Success), Unit 2, printed p.18 |
+| Writing a paragraph about what you like or dislike about city life | Vietnam, Tiếng Anh 9 (Global Success), Unit 2, printed p.18 |
+| Project — English around the world: a poster about a country where English is a second or official language | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |
+| Words and phrases related to international organisations | Vietnam, Tiếng Anh 10 (Global Success), Unit 7, printed p.76 |
+| Words and phrases related to cities and smart living | Vietnam, Tiếng Anh 11 (Global Success), Unit 3, printed p.28 |
+| Reading an article about the characteristics of future cities (listening: an interview about the disadvantages of living in a smart city) | Vietnam, Tiếng Anh 11 (Global Success), Unit 3, printed p.28 |
+| Speaking — discussing cities of the future; keeping a conversation going by asking Wh- questions | Vietnam, Tiếng Anh 11 (Global Success), Unit 3, printed p.28 |
+| Culture/project — smart cities around the world; designing a poster about the ideal city of the future | Vietnam, Tiếng Anh 11 (Global Success), Unit 3, printed p.28 |
+| Words and phrases related to ASEAN | Vietnam, Tiếng Anh 11 (Global Success), Unit 4, printed p.42 |
+| Words and phrases related to preserving heritage | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |
+| Culture/project — initiatives to preserve heritage around the world; proposing ways to preserve a type of heritage | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |
+| Words related to urbanisation | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.50 |
+| Culture/project — urbanisation in Malaysia and Australia; research on an urban area in Viet Nam | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed pp.57–59 |

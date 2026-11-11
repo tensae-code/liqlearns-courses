@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -95,8 +95,8 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 16 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 17 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -117,7 +117,7 @@ a conversation in Grade 9 and tourism — choosing a
 destination, the tourism word set and a workbook-only
 reading on being a good traveler — in Grade 10 (stocked
 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
-READING-QUEUE.md). Iraq joins with its transport sets in Grades 3, 5, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Iraq joins with its transport sets in Grades 3, 5, 9 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 5 and Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -249,3 +249,27 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 16:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Places to visit "Where do you want to visit? — I want to visit …" (Dragon Bridge, Ha Noi Opera House, Ho Chi Minh City Museum, Ngo Mon Square) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 18 "Means of transport", printed p.52 |
+| Getting places "How can I get to …? — You can get there …" (by bicycle, by bus, by taxi, on foot) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 18, printed p.52 (Book Map) |
+| Vocabulary — means of transport; road signs | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Reading about traffic rules for general and specific information (listening: traffic problems in a city) | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Speaking — talking about obeying traffic rules | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Writing a paragraph about traffic problems | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Everyday English — asking and answering questions about means of transport | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Project — traffic signs in your neighbourhood (photographing and presenting four signs) | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Vocabulary — future means of transport | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
+| Reading about cars and future means of transport for general and specific information (listening: future means of transport) | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
+| Speaking — talking about why a means of transport will / won't be popular | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
+| Writing a paragraph about the advantages of a future means of transport | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
+| Project — our future means of transport: imagining a future vehicle | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |

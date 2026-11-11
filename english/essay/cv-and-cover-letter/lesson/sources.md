@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 10 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 11 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -63,12 +63,17 @@ inside the whole chain; Nepal and Laos teach from a
 model read whole; Armenia rules the order and reviews a
 sample against it. The plan also named Vietnam (Grade 12
 Review 4) and Ethiopia (Grade 12) and South Sudan
-(Primary 7): no CV teaching for those anchors could be
-confirmed in their filings — Vietnam's and Ethiopia's
-filings show no CV unit at the named places, and South
-Sudan's letter-writing unit sits in its Primary 6 book
-(counted in Job application letters) — so none of the
-three is counted here.
+(Primary 7): for Ethiopia and South Sudan no CV teaching
+could be confirmed in their filings — Ethiopia's filing
+shows no CV unit at the named place, and South Sudan's
+letter-writing unit sits in its Primary 6 book (counted
+in Job application letters) — so those two are not counted
+here. Vietnam was recorded the same way, and that was a
+false negative (sweep flag 1): the 2026-11-08 sweep
+re-read Tiếng Anh 12 and found Unit 9's Writing section
+is "Writing your CV" — a model CV with a headings-matching
+task and "Write your own CV" (printed pp.116–127) — which
+the filing misses. Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English X* analyses and writes the job application in its World Without Books unit. It is filed in english/books/pakistan.md and was re-read in the 2026-11-08 re-verification sweep.
 
@@ -101,3 +106,13 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). Sweep flag 1: Grade 12 Unit 9 teaches CV writing in full ("Writing your CV", printed pp.116–127) — the filing missed it and this lesson's acceptance text below recorded Vietnam as checked-not-confirmed; that was a false negative. The point is stocked below, Vietnam is counted in this lesson from this merge, and the acceptance text is corrected.
+
+**Book 10:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a curriculum vitae (CV) | Vietnam, Tiếng Anh 12 (Global Success), Unit 9, printed p.123 (Book Map) |

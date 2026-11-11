@@ -120,7 +120,7 @@ verification sweep.
 | Naming Jobs, Describing Jobs, Talking about People's Jobs: teacher, farmer, taxi driver, doctor, nurse, carpenter, shopkeeper, chef, secretary, plus actress, mechanic, police officer; "What does a … do? / Where does … work?" | Rwanda, P4, Unit 5 "Jobs and Roles in Home and Community," pp.59–68 (vocabulary pp.59–61; questions pp.61–62) |
 | The '-er' job-formation word family (the book's model pairs and exercise; its printed "Firefight : …" slip, for firefighter, is recorded in the filing and taught corrected nowhere in this lesson's text) | Rwanda, P4, Unit 5, word families, printed p.67 |
 | Jobs cook, doctor, driver, farmer, nurse, singer, teacher, worker (plus pupil): "What's his/her job? — He's/She's a…" and "Is he/she a…? — Yes, he/she is. / No, he/she isn't." Project: "My parents' jobs" | Vietnam, Tiếng Anh 3, Volume 2, Unit 12 "Jobs," printed pp.12–17 |
-| Jobs actor, farmer, nurse, office worker, policeman (teacher, doctor, worker in songs/readings) and workplaces factory, farm, hospital, nursing home: "What does he/she do? — He's/She's a…" and "Where does he/she work? — He/She works at a… / on a…" | Vietnam, Tiếng Anh 4, Volume 1, Unit 12 "Jobs," printed pp.12–17 |
+| Jobs actor, farmer, nurse, office worker, policeman (teacher, doctor, worker in songs/readings) and workplaces factory, farm, hospital, nursing home: "What does he/she do? — He's/She's a…" and "Where does he/she work? — He/She works at a… / on a…" | Vietnam, Tiếng Anh 4, Volume 2, Unit 12 "Jobs," printed pp.12–17 |
 | Future jobs: firefighter, gardener, reporter, writer (doctor, teacher, dentist also used); job activities grow flowers, report the news, teach children, write stories; "What would you like to be in the future? – I'd like to be a…"; "Why…? – Because I'd like to…" | Vietnam, Tiếng Anh 5, Volume 1, Unit 5 "My future job," printed pp.34–39 |
 | Career jobs — bartender, fashion designer, garment worker, hairdresser, mechanic; tailor, surgeon, assembly worker, cashier, software engineer — with demanding, repetitive, well-paid | Vietnam, Tiếng Anh 9, Unit 12 "Career Choices," printed pp.124–133 |
 | The world of work: five job advertisements read for main ideas; a job application letter; "Unusual jobs" (train pushers, Burj Khalifa window cleaners, golf-ball divers) | Vietnam, Tiếng Anh 12, Unit 5 "The world of work," printed pp.60–71 |
@@ -375,3 +375,29 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). Sweep flag 4 is fixed in this file: the existing Vietnam row for the actor/farmer/nurse/office-worker/policeman set cited "Tiếng Anh 4, Volume 1, Unit 12" — the Jobs unit is in **Volume 2** (Volume 1 ends at Unit 10); the citation is corrected above.
+
+**Book 38:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 39:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 40:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary — community helpers; traditional handicrafts | Vietnam, Tiếng Anh 9 (Global Success), Unit 1, printed p.8 |
+| Writing a paragraph about a community helper | Vietnam, Tiếng Anh 9 (Global Success), Unit 1, printed p.8 |
+| Reading about the future world of work for general and specific information (listening: people's career paths) | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
+| Speaking — talking about the job you want to do in the future | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
+| Writing an email about your future favourite job | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
+| Project — your future jobs: a poster presentation comparing two jobs | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
+| Speaking — talking about career choices for men and women | Vietnam, Tiếng Anh 10 (Global Success), Unit 6, printed p.66 |
+| Writing about jobs for men and women | Vietnam, Tiếng Anh 10 (Global Success), Unit 6, printed p.66 |
+| Speaking — giving opinions about different jobs | Vietnam, Tiếng Anh 12 (Global Success), Unit 5, printed p.66 |
+| Culture/project — unusual jobs around the world; research on suitable part-time jobs for students | Vietnam, Tiếng Anh 12 (Global Success), Unit 5, printed pp.70–71 |
+| Phrases related to choosing a career path | Vietnam, Tiếng Anh 12 (Global Success), Unit 9, printed p.118 |
+| Speaking — talking about the things to consider when choosing a career path | Vietnam, Tiếng Anh 12 (Global Success), Unit 9, printed p.123 |
+| Culture/project — in-demand careers for the future; a survey on school-leavers' career plans | Vietnam, Tiếng Anh 12 (Global Success), Unit 9, printed pp.125–127 |

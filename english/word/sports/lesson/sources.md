@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -138,7 +138,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 20 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 21 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -155,7 +155,7 @@ re-verification sweep). Iran carries the hobbies and
 free-time set in Grade 8, asked as "What's your hobby?"
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia names what a game needs in Grade 6 and talks about extracurricular activities in Grade 7 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
-READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set. Iraq joins with its sports teaching across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge).
+READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set. Iraq joins with its sports teaching across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 4, 6, 7, 8 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -314,3 +314,40 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 23:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 29:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Hobby words cooking, dancing, drawing, painting, running, singing, swimming, walking | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 5 "My hobbies", printed p.34 |
+| Break-time activity words chat, do word puzzles, play badminton / basketball / chess / football / table tennis / volleyball | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 10 "Break time activities", printed p.68 |
+| Outdoor activity words cycling, flying a kite, painting, playing badminton, running, skating, walking | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 19 "Outdoor activities", printed p.58 |
+| Ability activity words cook, draw, play the guitar, play the piano, ride a bike, ride a horse, roller skate, swim | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 5 "Things we can do", printed p.34 |
+| Vocabulary — sports and games | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |
+| Reading about a sports star for general and specific information (listening: sports and games) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |
+| Speaking — talking about famous sportspeople | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |
+| Writing a paragraph about a sport or game | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |
+| Project — writing about a traditional game | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |
+| Vocabulary — hobbies; verbs of liking and disliking | Vietnam, Tiếng Anh 7 (Global Success), Unit 1, printed p.8 |
+| Reading about a hobby for specific information (listening: one's hobby) | Vietnam, Tiếng Anh 7 (Global Success), Unit 1, printed p.8 |
+| Speaking — talking about the benefits of hobbies | Vietnam, Tiếng Anh 7 (Global Success), Unit 1, printed p.8 |
+| Vocabulary — leisure activities; expressions about likes and dislikes | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
+| Reading about leisure activities with family for general and specific information (listening: leisure activities with friends) | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
+| Words and phrases related to music | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |
+| Culture/project — women's football; a survey on students' future jobs | Vietnam, Tiếng Anh 10 (Global Success), Unit 6, printed p.66 |

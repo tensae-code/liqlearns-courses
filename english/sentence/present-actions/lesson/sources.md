@@ -735,3 +735,39 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 85:** *Tiếng Anh 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-22405-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 86:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 87:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 88:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 89:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 90:** *Tiếng Anh 4, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35121-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 91:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous for actions now "He's / She's running." | Vietnam, Tiếng Anh 1 (Global Success), Unit 11, printed p.50 |
+| Present continuous for eating "He's having nuts. / She's having noodles." | Vietnam, Tiếng Anh 1 (Global Success), Unit 13, printed p.59 |
+| "What's he doing? — He's doing a quiz." | Vietnam, Tiếng Anh 2 (Global Success), Unit 5, printed p.23 (Book Map) |
+| Plural present continuous "They're driving cars." | Vietnam, Tiếng Anh 2 (Global Success), Unit 11, printed p.48 (Book Map) |
+| "What do you do at break time? — I … at break time." | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 10, printed p.68 (Book Map) |
+| Activity words dancing, drawing a picture, listening to music, playing basketball, reading, singing, watching TV, writing | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 18 "Playing and doing", printed p.52 |
+| "What are you doing? — I'm …" | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 18, printed p.52 (Book Map) |
+| "What's he / she doing? — He's / She's …" | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 19, printed p.58 (Book Map) |
+| Talking about classroom and outdoor activities (revision of the G3 activity sets in new dialogues) | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Starter, printed p.7 |
+| Morning activities "What do you do in the morning? — I …" (clean the floor, help with the cooking, wash the clothes, wash the dishes) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 14, printed p.24 (Book Map) |
+| Saturday places "Where does he / she go on Saturdays? — He / She goes to the …" (cinema, shopping centre, sports centre, swimming pool) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 15 "My family's weekends", printed p.30 |
+| Sunday activities "What does he / she do on Sundays? — He / She …" (cook meals, do yoga, play tennis, watch films) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 15, printed p.30 (Book Map) |
+| Camp activities, one person "What's he / she doing? — He's / She's …" (building a campfire, dancing around the campfire, playing card games, putting up a tent, singing songs, taking a photo, telling a story) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 20 "At summer camp", printed p.64 |
+| Camp activities, group "What are they doing? — They're …" | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 20, printed p.64 (Book Map) |
+| Grammar — adverbs of frequency; present simple for future events | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |

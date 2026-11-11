@@ -276,3 +276,86 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Differentiating specific pairs of consonants and vowels | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 1 (book map, printed pp.4–5) |
 | Stress patterns in compound nouns and noun phrases; linking consonants and vowels | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
 | Intonation in conditional sentences; contracted forms in sentences | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 3 (book map, printed pp.4–5) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 17:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pronunciation — sounds /ɑː/ and /ʌ/ | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 1 "My new school", printed p.6 |
+| Pronunciation — final sounds /s/ and /z/ | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2 "My house", printed p.18 |
+| Pronunciation — sounds /b/ and /p/ | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3 "My friends", printed p.30 |
+| Pronunciation — sounds /ɪ/ and /iː/ | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 4 "My neighbourhood", printed p.42 |
+| Pronunciation — sounds /t/ and /d/ | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5 "Natural wonders of Viet Nam", printed p.54 |
+| Pronunciation — sounds /s/ and /ʃ/ | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6 "Our Tet holiday", printed p.66 |
+| Pronunciation — sounds /θ/ and /ð/ | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7 "Television", printed p.6 |
+| Pronunciation — sounds /e/ and /æ/ | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8 "Sports and games", printed p.18 |
+| Pronunciation — sounds /əʊ/ and /aʊ/ | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9 "Cities of the world", printed p.30 |
+| Pronunciation — stress in two-syllable words | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10 "Our houses in the future", printed p.42 |
+| Pronunciation — rhythm in sentences | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 11 "Our greener world", printed p.54 |
+| Pronunciation — falling tone in statements | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 12 "Robots", printed p.66 |
+| Pronunciation — sounds /ə/ and /ɜː/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 1 "Hobbies", printed p.8 |
+| Pronunciation — sounds /f/ and /v/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 2 "Healthy living", printed p.18 |
+| Pronunciation — sounds /ʃ/ and /ʒ/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 4 "Music and arts", printed p.40 |
+| Pronunciation — sounds /ɒ/ and /ɔː/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 5 "Food and drink", printed p.50 |
+| Pronunciation — sounds /tʃ/ and /dʒ/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 6 "A visit to a school", printed p.60 |
+| Pronunciation — sounds /aɪ/ and /eɪ/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 7 "Traffic", printed p.72 |
+| Pronunciation — sounds /ɪə/ and /eə/ | Vietnam, Tiếng Anh 7 (Global Success), Unit 8 "Films", printed p.82 |
+| Pronunciation — stress in two-syllable words | Vietnam, Tiếng Anh 7 (Global Success), Unit 9 "Festivals around the world", printed p.92 |
+| Pronunciation — stress in three-syllable words | Vietnam, Tiếng Anh 7 (Global Success), Unit 10 "Energy sources", printed p.104 |
+| Pronunciation — sentence stress | Vietnam, Tiếng Anh 7 (Global Success), Unit 11 "Travelling in the future", printed p.114 |
+| Pronunciation — rising and falling intonation for questions | Vietnam, Tiếng Anh 7 (Global Success), Unit 12 "English-speaking countries", printed p.124 |
+| Pronunciation — sounds /ʊ/ and /uː/ | Vietnam, Tiếng Anh 8 (Global Success), Unit 1 "Leisure time", printed p.8 |
+| Pronunciation — sounds /ə/ and /ɪ/ | Vietnam, Tiếng Anh 8 (Global Success), Unit 2 "Life in the countryside", printed p.18 |
+| Pronunciation — sounds /ʊə/ and /ɔɪ/ | Vietnam, Tiếng Anh 8 (Global Success), Unit 3 "Teenagers", printed p.28 |
+| Pronunciation — sounds /k/ and /g/ | Vietnam, Tiếng Anh 8 (Global Success), Unit 4 "Ethnic groups of Vietnam", printed p.40 |
+| Pronunciation — sounds /n/ and /ŋ/ | Vietnam, Tiếng Anh 8 (Global Success), Unit 5 "Our customs and traditions", printed p.50 |
+| Pronunciation — sounds /br/ and /pr/ | Vietnam, Tiếng Anh 8 (Global Success), Unit 6 "Lifestyles", printed p.60 |
+| Pronunciation — stress in words ending in -al and -ous | Vietnam, Tiếng Anh 8 (Global Success), Unit 9 "Natural disasters", printed p.92 |
+| Pronunciation — stress in words ending in -ese and -ee | Vietnam, Tiếng Anh 8 (Global Success), Unit 10 "Communication in the future", printed p.104 |
+| Pronunciation — sentence stress | Vietnam, Tiếng Anh 8 (Global Success), Unit 11 "Science and technology", printed p.114 |
+| Pronunciation — intonation for making lists | Vietnam, Tiếng Anh 8 (Global Success), Unit 12 "Life on other planets", printed p.124 |
+| Pronunciation — vowel revision /æ/, /aː/ and /e/ | Vietnam, Tiếng Anh 9 (Global Success), Unit 1 "Local community", printed p.8 |
+| Pronunciation — diphthong revision /aʊ/, /əʊ/ and /eə/ | Vietnam, Tiếng Anh 9 (Global Success), Unit 2 "City life", printed p.18 |
+| Pronunciation — sounds /h/ and /r/ | Vietnam, Tiếng Anh 9 (Global Success), Unit 3 "Healthy living for teens", printed p.28 |
+| Pronunciation — sounds /m/ and /l/ | Vietnam, Tiếng Anh 9 (Global Success), Unit 4 "Remembering the past", printed p.40 |
+| Pronunciation — sounds /j/ and /w/ | Vietnam, Tiếng Anh 9 (Global Success), Unit 5 "Our experiences", printed p.50 |
+| Pronunciation — stress in words ending in -ic and -ious | Vietnam, Tiếng Anh 9 (Global Success), Unit 8 "Tourism", printed p.82 |
+| Pronunciation — stress in words ending in -ion and -ity | Vietnam, Tiếng Anh 9 (Global Success), Unit 9 "World Englishes", printed p.92 |
+| Pronunciation — rhythm in sentences | Vietnam, Tiếng Anh 9 (Global Success), Unit 10 "Planet Earth", printed p.104 |
+| Pronunciation — stress on all words in sentences | Vietnam, Tiếng Anh 9 (Global Success), Unit 11 "Electronic devices", printed p.114 |
+| Pronunciation — intonation in statements used as questions | Vietnam, Tiếng Anh 9 (Global Success), Unit 12 "Career choices", printed p.124 |
+| Pronunciation — stress in two-syllable words | Vietnam, Tiếng Anh 10 (Global Success), Unit 3 "Music", printed p.28 |
+| Pronunciation — stress in two-syllable words with the same spelling | Vietnam, Tiếng Anh 10 (Global Success), Unit 4 "For a better community", printed p.42 |
+| Pronunciation — stress in three-syllable nouns | Vietnam, Tiếng Anh 10 (Global Success), Unit 5 "Inventions", printed p.52 |
+| Pronunciation — stress in three-syllable adjectives and verbs | Vietnam, Tiếng Anh 10 (Global Success), Unit 6 "Gender equality", printed p.66 |
+| Pronunciation — stress in words with more than three syllables | Vietnam, Tiếng Anh 10 (Global Success), Unit 7 "Viet Nam and international organisations", printed p.76 |
+| Pronunciation — sentence stress | Vietnam, Tiếng Anh 10 (Global Success), Unit 8 "New ways to learn", printed p.86 |
+| Pronunciation — rhythm in sentences | Vietnam, Tiếng Anh 10 (Global Success), Unit 9 "Protecting the environment", printed p.100 |
+| Pronunciation — intonation in sentences | Vietnam, Tiếng Anh 10 (Global Success), Unit 10 "Ecotourism", printed p.110 |
+| Pronunciation — contracted forms | Vietnam, Tiếng Anh 11 (Global Success), Unit 2 "The generation gap", printed p.18 |
+| Pronunciation — linking final consonants to initial vowels | Vietnam, Tiếng Anh 11 (Global Success), Unit 3 "Cities of the future", printed p.28 |
+| Pronunciation — diphthongs /eɪ/ and /aʊ/ | Vietnam, Tiếng Anh 12 (Global Success), Unit 1 "Life stories we admire", printed p.9 |
+| Pronunciation — diphthongs /ɔɪ/, /aɪ/ and /aʊ/ | Vietnam, Tiếng Anh 12 (Global Success), Unit 2 "A multicultural world", printed p.21 |
+| Pronunciation — diphthongs /ɪə/, /eə/ and /ʊə/ | Vietnam, Tiếng Anh 12 (Global Success), Unit 3 "Green living", printed p.33 |
+| Pronunciation — unstressed words in connected speech | Vietnam, Tiếng Anh 12 (Global Success), Unit 4 "Urbanisation", printed p.49 |
+| Pronunciation — stressing auxiliary and modal verbs | Vietnam, Tiếng Anh 12 (Global Success), Unit 5 "The world of work", printed p.62 |
+| Pronunciation — linking /r/ between two vowels | Vietnam, Tiếng Anh 12 (Global Success), Unit 7 "The world of mass media", printed p.90 |
+| Pronunciation — assimilation | Vietnam, Tiếng Anh 12 (Global Success), Unit 8 "Wildlife conservation", printed p.102 |

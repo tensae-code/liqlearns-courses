@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -73,8 +73,8 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 12 countries (Albania, Bolivia,
-Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq).** Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 13 countries (Albania, Bolivia,
+Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam).** Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -91,7 +91,7 @@ invitation to the written message, the formal card and
 the birthday-card project.
 Mauritania invites — and accepts and declines — in its Grade 8
 book (stocked 2026-11-09 by the Mauritania re-verification
-sweep merge). Iraq joins with its Grade 5 "Would you like to…?" invitations and Grade 10 invitation-giving (stocked 2026-11-11 by the re-verification sweep merge).
+sweep merge). Iraq joins with its Grade 5 "Would you like to…?" invitations and Grade 10 invitation-giving (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 8 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -157,3 +157,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 |---|---|
 | "Would you like to…?" invitations — "Would you like to go on the big wheel? Yes, I would / No, I wouldn't. It's too fast" | Iraq — *English for Iraq*, Grade 5 Student's Book, Unit 6, printed p.74 |
 | Giving invitations (with offers and promises) | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 5 (book map, printed pp.2–3) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 9:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project — organising music shows (a Traditional Music Night invitation) | Vietnam, Tiếng Anh 7 (Global Success), Unit 4, printed p.40 |
+| Everyday English — inviting and accepting invitations | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
+| Everyday English — making and responding to invitations | Vietnam, Tiếng Anh 10 (Global Success), Unit 7, printed p.76 |

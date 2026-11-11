@@ -461,3 +461,35 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 53:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 54:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 55:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 56:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 57:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 58:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Position with on "The cake is on the table. / The grapes are on the table." | Vietnam, Tiếng Anh 2 (Global Success), Unit 12, printed p.51 (Book Map) |
+| Position questions "Is the blanket near the tent? — No, it isn't. It's in the tent." (near / in) | Vietnam, Tiếng Anh 2 (Global Success), Unit 16, printed p.68 (Book Map) |
+| Homes "Do you live in this / that …? — Yes, I do. / No, I don't." (building, flat, house, tower) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 2 "Our homes", printed p.16 |
+| Thing locations "Where are the …? — They're …" (above, beside, in front of, under) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 8 "In our classroom", printed p.56 |
+| Speaking — describing houses, rooms and furniture | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.18 |
+| Project — strange houses: choosing which one you would like to live in and why | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.18 |
+| Vocabulary — types of houses and appliances | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10, printed p.42 |
+| Reading about houses and appliances in the future for specific information (listening: dream houses) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10, printed p.42 |
+| Speaking — talking about different houses in the future | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 10, printed p.42 |
+| Grammar — prepositions of time and place | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
+| Reading about stilt houses for specific information (listening: the life of minority children) | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
+| Speaking — talking about the type of home you live in | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
+| Prepositions of place and time — the unstocked half of this unit's grammar line (named in sweep flag 7; the placements key the combined line to Mine and Yours, where the possessive-pronoun half is stocked — the prepositions half is stocked here) | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |

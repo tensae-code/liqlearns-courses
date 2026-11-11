@@ -1,6 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -45,10 +45,10 @@ covers the 6th Year book only).
 | Commenting on ideas and posts: positive and negative comment phrases — what a great post, this post really resonates with me, it was boring / it was brilliant | Mauritania, Study English, Grade 13, printed pp.11–13 |
 | Blog reading: football obsession in England | Mongolia, English XI, Unit 7, printed p.109 |
 
-**Acceptance count: taught in 9 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+**Acceptance count: taught in 10 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
 Mauritania comments on posts with a positive/negative phrase
 set in its Grade 13 book (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 chat-forum project and Grade 9 advice blog (stocked 2026-11-11 by the re-verification sweep merge).
+re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 chat-forum project and Grade 9 advice blog (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Iraq added 2026-11-11 (re-verification sweep merge)
 
@@ -75,3 +75,13 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 11:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a blog about an experience at a music event | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |

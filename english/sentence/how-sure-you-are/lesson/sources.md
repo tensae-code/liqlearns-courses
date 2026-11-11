@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -140,9 +140,9 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 19 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China,
+**Acceptance count: taught in 20 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China,
 Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua,
-Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -165,7 +165,7 @@ re-verification sweep merge).
 Mauritania grades the modals in Grade 12 (may/might; the
 prediction shades) and charts the whole system — ability,
 deduction, requests, certainty — in Grade 13 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its must/mustn't rules, need, modals and certainty words across Grades 4, 6, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its must/mustn't rules, need, modals and certainty words across Grades 4, 6, 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3, 4, 8 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -303,3 +303,33 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 24:** *Tiếng Anh 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-22405-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 29:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ability with can "I can see a tiger." | Vietnam, Tiếng Anh 1 (Global Success), Unit 14, printed p.62 |
+| "What can you see? — I can see a rainbow." | Vietnam, Tiếng Anh 2 (Global Success), Unit 4, printed p.17 (Book Map) |
+| Ability questions "Can you draw a van? — Yes, I can. / No, I can't." | Vietnam, Tiếng Anh 2 (Global Success), Unit 8, printed p.34 (Book Map) |
+| "What can you see? — I can see …" | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 20, printed p.64 (Book Map) |
+| "Can you …? — Yes, I can. / No, I can't." | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 5, printed p.34 (Book Map) |
+| Third-person ability with contrast "Can he / she …? — Yes, he / she can. / No, he / she can't, but he / she can …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 5, printed p.34 (Book Map) |
+| Everyday English — expressing certainty | Vietnam, Tiếng Anh 8 (Global Success), Unit 6, printed p.60 |
+| Everyday English — expressing uncertainty | Vietnam, Tiếng Anh 8 (Global Success), Unit 12, printed p.124 |
+| Modal verbs must, have to and should | Vietnam, Tiếng Anh 11 (Global Success), Unit 2, printed p.18 |
+| Everyday English — expressing certainty and uncertainty | Vietnam, Tiếng Anh 11 (Global Success), Unit 3, printed p.28 |
+| Modal must / mustn't — the unstocked half of this unit's grammar line (the countable/uncountable half was stocked in 2026; named in sweep flag 7) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |

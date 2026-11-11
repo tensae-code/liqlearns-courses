@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -117,10 +117,10 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 20 countries (Mongolia, North Macedonia, Palestine, Rwanda,
+**Acceptance count: taught in 21 countries (Mongolia, North Macedonia, Palestine, Rwanda,
 Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania,
 Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan,
-Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -147,7 +147,7 @@ repeats the set as a Chapter 0 recap at Grades 7 and 9
 books are read (see READING-QUEUE.md).
 Mauritania introduces the family in a written message in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Iraq joins with its family sets in Grades 1, 2 and 3 and its Grade 10 family-occasions words (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Iraq joins with its family sets in Grades 1, 2 and 3 and its Grade 10 family-occasions words (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 3, 8, 9, 10 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -317,3 +317,33 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 22:** *Tiếng Anh 3, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30721-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words brother, father, mother, sister | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 11 "My family", printed p.6 |
+| Speaking — talking about leisure activities with family | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
+| Writing a paragraph about the things you do to help your family | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
+| Speaking — talking about a normal family event | Vietnam, Tiếng Anh 8 (Global Success), Unit 5, printed p.50 |
+| Project — interviewing a family member about his/her life when he/she was your age, and making a poster | Vietnam, Tiếng Anh 9 (Global Success), Unit 6, printed p.60 |
+| Words and phrases related to family life | Vietnam, Tiếng Anh 10 (Global Success), Unit 1, printed p.8 |
+| Reading a text about the benefits of doing housework for children (listening: a talk show about family life) | Vietnam, Tiếng Anh 10 (Global Success), Unit 1, printed p.8 |
+| Speaking — explaining why children should or shouldn't do housework | Vietnam, Tiếng Anh 10 (Global Success), Unit 1, printed p.8 |
+| Culture/project — family values in Viet Nam and other countries; research on Family Day | Vietnam, Tiếng Anh 10 (Global Success), Unit 1, printed p.8 |
+| Words and phrases related to generational differences | Vietnam, Tiếng Anh 11 (Global Success), Unit 2, printed p.18 |
+| Reading an article about different generations (listening: a conversation about family conflicts) | Vietnam, Tiếng Anh 11 (Global Success), Unit 2, printed p.18 |
+| Speaking — talking about the different generations of a family; starting a conversation or discussion | Vietnam, Tiếng Anh 11 (Global Success), Unit 2, printed p.18 |
+| Culture/project — the generation gap in Asian American families; a survey to find out generational differences in families | Vietnam, Tiếng Anh 11 (Global Success), Unit 2, printed p.18 |

@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 7 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 8 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -77,7 +77,7 @@ speaking work in Grade 9, opens the unit with the
 cross-cultural "I'm Sorry" reading and a company apology
 letter, sets the apology letter as writing, and its
 (DRAFT) teacher's guide carries a seven-lesson apologising
-unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge).
+unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 and Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -133,3 +133,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Informal/formal and functional expressions: expressing concern, sympathy, apology, explanation | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 7 (book map, printed pp.4–5) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 7:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Everyday English — apologising and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
+| Everyday English — making and responding to apologies | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |

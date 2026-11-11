@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -155,10 +155,10 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 20 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia,
+**Acceptance count: taught in 21 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia,
 Libya, Kuwait, Bolivia, China, Indonesia, Mauritania,
 Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan,
-Sudan, Venezuela, Iraq, Armenia).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+Sudan, Venezuela, Iraq, Armenia, Vietnam).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -187,7 +187,7 @@ location prepositions and map reading in Grade 7 (the guide as
 teacher evidence), routes and indirect questions in Grades
 9–10, and the idiomatic place prepositions in Grade 13
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Iraq joins with its directions in Grades 3, 5 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+merge). Iraq joins with its directions in Grades 3, 5 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 4, 5, 6, 7 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -308,3 +308,34 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 27:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 29:** *Tiếng Anh 4, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35121-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 30:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 31:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 32:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 33:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 34:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Where-questions for things "Where are the shoes? — Over there." | Vietnam, Tiếng Anh 2 (Global Success), Unit 15, printed p.65 (Book Map) |
+| "Where's your school? — It's in the …" | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 6, printed p.44 (Book Map) |
+| "Where do you live? — I live …" with at / in + street or road names | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 11 "My home", printed p.6 |
+| Directions inside school "Could you tell me the way to the computer room, please?" (go along, go past, go upstairs, go downstairs) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 6, printed p.44 (Book Map) |
+| Getting places "How can I get to …? — You can get there …" (by bicycle, by bus, by taxi, on foot) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 18, printed p.52 (Book Map) |
+| Project — drawing a map of a neighbourhood and giving directions on it | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 4, printed p.42 |
+| Grammar — It indicating distance; should / shouldn't | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
+| Everyday English — asking for and giving directions | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |

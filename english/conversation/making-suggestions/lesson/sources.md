@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -73,8 +73,8 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 13 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
-Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 14 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
+Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -90,7 +90,7 @@ environment solutions — no suggestion forms are filed for
 it — so it is not cited here.
 Mauritania makes suggestions with the full Grade 8 form set —
 let's, why don't we, shall we, how about, we could (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Iraq joins with its suggestions in Grades 6, 8 and 9 (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Iraq joins with its suggestions in Grades 6, 8 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 3, 4, 6, 7, 9, 10 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Rwanda added 2026-11-11 (re-verification sweep merge)
 
@@ -192,3 +192,34 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Party plans and a "to do" list | Iraq — *English for Iraq*, Grade 6 Student's Book, Unit 7 |
 | Asking for and making suggestions; expressing preferences | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 |
 | Expressing preferences and making suggestions | Iraq — *English for Iraq*, Grade 9 Student's Book, Unit 2 (book map, printed pp.2–3) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 12:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *Tiếng Anh 4, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35121-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Suggestions "Let's look at the sea!" | Vietnam, Tiếng Anh 2 (Global Success), Unit 3, printed p.14 (Book Map) |
+| Suggestions to go to school places "Let's go to the … — OK, let's go." | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 6, printed p.44 (Book Map) |
+| Suggestions to go out "Do you want to go to the …? — Great! Let's go. / Sorry, I can't." (bakery, bookshop, food stall, water park) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 16, printed p.40 (Book Map) |
+| Everyday English — giving suggestions | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.18 |
+| Everyday English — accepting and declining suggestions | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
+| Everyday English — persuading someone to do something and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 10, printed p.104 |
+| Everyday English — making and responding to suggestions | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |
+| Speaking — suggesting activities for a wildlife conservation event | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.105 |

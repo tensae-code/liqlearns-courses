@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -49,8 +49,8 @@ verification sweep.
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
 | The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 11 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
-Pakistan, Palestine, South Sudan, Sudan, Yemen).** Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 12 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam).** Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -67,7 +67,7 @@ could be confirmed in its filing — the Malaysia filing's
 letter evidence found is the Form 1 formal complaint
 model and permission letters, and no advice letter was
 found in the Mongolia filing — so neither country is
-counted here.
+counted here. Vietnam joins with its Grade 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 6* writes the informal letter in its First Aid unit (Unit 6, printed p.56). Its own pages carry two of the book's slips — "laddy" for lady (printed p.58) and "CRP" for CPR (printed p.59) — taught corrected wherever this book is used. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -136,3 +136,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Letters to the newspaper — two opinion letters (“I totally agree with your report…; In my opinion we need it / we do not need it; I totally disagree…”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.30 |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 8:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a request letter to ask for information about vocational school courses | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |

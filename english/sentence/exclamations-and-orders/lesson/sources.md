@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -136,9 +136,9 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 19 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China,
+**Acceptance count: taught in 20 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China,
 Indonesia, Mauritania, Greece, North Macedonia,
-Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -166,7 +166,7 @@ Grade 11 (stocked 2026-11-09 by the re-verification
 sweep merge).
 Mauritania gives classroom orders in Grade 7 and the
 admiration exclamations in Grades 8 and 10 (stocked 2026-11-09
-by the Mauritania re-verification sweep merge). Iraq joins with its classroom instructions and imperatives across Grades 1, 3, 6, 7, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+by the Mauritania re-verification sweep merge). Iraq joins with its classroom instructions and imperatives across Grades 1, 3, 6, 7, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 3, 6, 10 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -341,3 +341,28 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 32:** *Tiếng Anh 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-22405-7. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 33:** *Tiếng Anh 3, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-30720-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 34:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 35:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 36:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Imperatives "Look at Lucy. / Look at the lemons." | Vietnam, Tiếng Anh 1 (Global Success), Unit 12, printed p.53 |
+| Instruction verbs close, come in, go out, sit down, speak, stand with "…, please!" | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Unit 7 "Classroom instructions", printed p.50 |
+| Everyday English — expressing exclamations with What | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed p.30 |
+| Everyday English — giving warnings | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 11, printed p.54 |
+| Everyday English — giving instructions | Vietnam, Tiếng Anh 10 (Global Success), Unit 8, printed p.86 |
+| Speaking — giving instructions for an exercise routine | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |
+| Everyday English — giving warnings and responding | Vietnam, Tiếng Anh 11 (Global Success), Unit 5, printed p.52 |
+| Imperatives — the unstocked half of this unit's grammar line (the past simple half was stocked in 2026; named in sweep flag 7) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed p.18 |

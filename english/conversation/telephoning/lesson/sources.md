@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam
 
 Every part traces to its book and page.
 
@@ -66,7 +66,7 @@ PASSED 2026-11-04).
 | “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 | Telephoning: telephone greetings and the steps to make a call | Pakistan, *English 8*, printed pp.118–119 |
 
-**Acceptance count: taught in 13 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq).** Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
+**Acceptance count: taught in 14 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam).** Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -89,7 +89,7 @@ polite requests. China carries the home call at primary
 level — a child's call to arrange meeting and presents,
 and Mike's call to his mum (stocked 2026-11-08 by the
 re-verification sweep). Other closed countries join as their
-books are read (see READING-QUEUE.md). Iraq joins with its telephone work in Grades 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+books are read (see READING-QUEUE.md). Iraq joins with its telephone work in Grades 8, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 6 and Grade 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches telephoning — the greetings and the steps to make a call (printed pp.118–119). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -161,3 +161,16 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Advice on making telephone calls | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 5 |
 | Telephone conversations; checking and confirming information | Iraq — *English for Iraq*, Grade 10 Student's Book, Unit 3 (book map, printed pp.2–3) |
 | Phrases for telephoning; phrases for taking part in a discussion | Iraq — *English for Iraq*, Grade 11 Student's Book, Unit 2 (book map, printed pp.4–5) |
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md). Two of the rows below are the sweep's appointment points (Grade 6, Volume 1, Unit 5 everyday English — making and accepting appointments; Grade 11, Unit 7 everyday English — making an appointment), which the placements key to "conversation (appointments)"; they are stocked here, where appointment-making already lives in this lesson.
+
+**Book 11:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Everyday English — making and accepting appointments | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed p.54 |
+| Everyday English — making an appointment | Vietnam, Tiếng Anh 11 (Global Success), Unit 7, printed p.76 |

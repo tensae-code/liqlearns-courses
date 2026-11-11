@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -150,10 +150,10 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 23 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 24 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
 China, Iran, Indonesia, Mauritania, Mexico, India,
 Greece, Mongolia, Nicaragua, North Macedonia, Pakistan,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -180,7 +180,7 @@ re-verification sweep merge). Other closed countries join as their books are rea
 (see READING-QUEUE.md).
 Mauritania advises on illness in Grade 7 and discusses
 HIV/AIDS prevention in Grade 11 (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its health words across Grades 3, 5, 6, 8, 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its health words across Grades 3, 5, 6, 8, 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 5, 7, 8, 9 and 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -399,3 +399,31 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 26:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 27:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 28:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 29:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 30:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Healthy lifestyles "How does he / she stay healthy? — He / She …" (do morning exercise, do yoga, drink fresh juice, eat healthy food, eat vegetables, play sports) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 14 "Staying healthy", printed p.24 |
+| Health problems "What's the matter? — I have a …" (headache, sore throat, stomachache, toothache) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 15 "Our health", printed p.30 |
+| Vocabulary — healthy activities; health problems | Vietnam, Tiếng Anh 7 (Global Success), Unit 2, printed p.18 |
+| Reading about acne for general and specific information (listening: advice about healthy habits, to avoid viruses) | Vietnam, Tiếng Anh 7 (Global Success), Unit 2, printed p.18 |
+| Speaking — talking about how to deal with some health problems | Vietnam, Tiếng Anh 7 (Global Success), Unit 2, printed p.18 |
+| Project — "Build healthy habits": a campaign to make your school a healthier place | Vietnam, Tiếng Anh 7 (Global Success), Unit 2, printed p.18 |
+| Writing a paragraph about the causes of one's stress and solutions to deal with it | Vietnam, Tiếng Anh 8 (Global Success), Unit 3, printed p.28 |
+| Reading about how someone could have a well-balanced life when he/she was at school (listening: how some students manage their time effectively) | Vietnam, Tiếng Anh 9 (Global Success), Unit 3, printed p.28 |
+| Speaking — talking about how to have a well-balanced life as a secondary student | Vietnam, Tiếng Anh 9 (Global Success), Unit 3, printed p.28 |
+| Words and phrases related to health and fitness | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |
+| Culture/project — bacteria and viruses (CLIL); designing a poster about a healthy habit | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |

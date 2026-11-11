@@ -1,6 +1,6 @@
 # Sources — Have To for Obligation
 
-countries: Bolivia, Syria
+countries: Bolivia, Syria, Vietnam
 
 Every part traces to its book and page.
 
@@ -25,10 +25,20 @@ Every part traces to its book and page.
 | have to / don't have to for jobs, rules with must / mustn't, and had to / didn't have to — the older course's obligation teaching (Module 5 "World of work", Units 9–10), held only in its Teacher's Book | Syria, *English for Syria*, Intermediate, Teacher's Book (York Press), Module 5, printed pp.63–76 — teacher's-book evidence; the matching student's book is not in hand |
 | must / mustn't for rules, at a nature reserve (Unit 13) | Syria, *English for Starters 5*, Pupil's Book (York Press), Unit 13, printed p.39 |
 
-**Acceptance count: taught in 2 countries (Bolivia, Syria).**
+**Acceptance count: taught in 3 countries (Bolivia, Syria, Vietnam).** Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 9 student book's full have-to treatment with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium spread is stocked with its true content stated, exactly as the sweep's placements carry it — the filing's own recorded slip (a possession table under an obligation heading) is not smoothed over. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
 Searchable tag: the books' own name for this part is “Have to” (Secundaria 3; compendium Year 3).
 
 Syria joins 2026-11-11 (re-verification sweep merge). The sweep marked Syria's have-to system NEW LESSON NEEDED: at sweep time the course had no dedicated have-to lesson, and `word/verbs` cited only an incidental Starters 5 line ("I have to be very strong for my job!", Unit 7, printed p.24 — still stocked there). This lesson, built from Bolivia's Grade 9 treatment found in the same sweep, is the dedicated lesson, so Syria's system is stocked here rather than in a second lesson: first taught in the Grade 5 book (Book 3), reinforced in Grade 6 (Book 4), in the older course's Teacher's Book (Book 5, teacher's-book evidence only) and by must / mustn't in *English for Starters 5* (Book 6). Stated plainly, because the record once blurred them: Book 3 (the NCCD developed-curriculum Pupil's Book 5) and Book 6 (the York Press *English for Starters 5*) are two different Grade 5 books.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 7:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Everyday English — expressing obligation | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |

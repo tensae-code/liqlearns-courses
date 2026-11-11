@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -166,9 +166,9 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 20 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
+**Acceptance count: taught in 21 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
 Indonesia, Mauritania, Mexico, India, Greece, Nicaragua,
-North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -194,7 +194,7 @@ READING-QUEUE.md).
 Mauritania describes people in Grade 7 (looks and clothes) and
 again in Grade 9 (who/whose descriptions and character words)
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its describing work across Grades 3–10 — have/has descriptions, shapes, animal descriptions, products, people and places (stocked 2026-11-11 by the re-verification sweep merge).
+merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its describing work across Grades 3–10 — have/has descriptions, shapes, animal descriptions, products, people and places (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 4, 5, 6, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -358,3 +358,44 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 30:** *Tiếng Anh 4, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35121-0. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 31:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 32:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 33:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 34:** *Tiếng Anh 8 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35127-2. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 35:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 36:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 37:** *Tiếng Anh 11 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-35131-9. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 38:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing a place "What's the … like? — It's …" (big, busy, noisy, quiet) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 11, printed p.6 (Book Map) |
+| Opinions of places "What do you think of …? — I think it's / they're …" (beautiful, exciting, fantastic, peaceful) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 19 "Places of interest", printed p.58 |
+| Speaking — talking about friends and summer camps | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed p.30 |
+| Everyday English — asking about appearance and personality | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed p.30 |
+| Project — making a class yearbook | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed p.30 |
+| Speaking — talking about a favourite TV programme | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed p.6 |
+| Vocabulary — different lifestyles | Vietnam, Tiếng Anh 8 (Global Success), Unit 6, printed p.60 |
+| Speaking — talking about maintaining traditional lifestyles | Vietnam, Tiếng Anh 8 (Global Success), Unit 6, printed p.60 |
+| Vocabulary — life in the past; preserving values of the past | Vietnam, Tiếng Anh 9 (Global Success), Unit 4, printed p.40 |
+| Vocabulary — changes in lifestyles | Vietnam, Tiếng Anh 9 (Global Success), Unit 6, printed p.60 |
+| Speaking — talking about changes in your learning style | Vietnam, Tiếng Anh 9 (Global Success), Unit 6, printed p.60 |
+| Words and phrases related to gender equality | Vietnam, Tiếng Anh 10 (Global Success), Unit 6, printed p.66 |
+| Words and phrases related to teen independence | Vietnam, Tiếng Anh 11 (Global Success), Unit 8, printed p.86 |
+| Culture/project — teen independence in the US; creating a detailed plan to develop a life skill | Vietnam, Tiếng Anh 11 (Global Success), Unit 8, printed p.86 |
+| Speaking — talking about the changes in a living area | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.54 |
+| Speaking — talking about great role models for lifelong learning | Vietnam, Tiếng Anh 12 (Global Success), Unit 10, printed p.128 (unit opener) |

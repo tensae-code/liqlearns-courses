@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam
 
 Every part traces to its book and page.
 
@@ -224,8 +224,8 @@ verification sweep.
 | Ordering the La Cegua story — retelling in sequence | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2C |
 | A whole chapter on story writing: specimen stories, and stories built up from outlines | Pakistan, *English Grammar & Composition 9–10*, Chapter II, printed p.8 |
 
-**Acceptance count: taught in 28 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela).** India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 29 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam).** India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -264,7 +264,7 @@ teaching — and Workbook 12A, workbook only, has pupils order
 the 11 sentences of a model story, noting its sequencing
 words and pronoun links, before a past-event description.
 Rwanda stocks the telling-back in part: retelling is set as a task in three pupil's books — the P1 story retold and resequenced, the P3 story read by the teacher for retelling, and the P6 fable read for retelling beside the unit's summaries and retellings — but no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries. Syria stocks the telling-back in part: its Grade 5 *English for Starters 5* (York Press) sets a four-part story to order and then predict its ending (Unit 18, printed p.55), and its closing whole-book quiz sets a character's story to retell from memory — "Tell the story of Queen Zenobia" (Revision 5, printed p.74) — retelling set as tasks, with no own-words retelling aim stated, so that framing rests on the other countries too. Other closed countries join as
-their books are read (see READING-QUEUE.md). Mexico's Grade 8 book gathers an anthology of short folktales and legends in English, to retell (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+their books are read (see READING-QUEUE.md). Mexico's Grade 8 book gathers an anthology of short folktales and legends in English, to retell (stocked 2026-11-09 by the Mexico re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
 
@@ -375,3 +375,13 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Retelling a story — a story heard or read and then told back in the learner's own telling | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 5, student printed pp.40–47 (guide plan printed p.35) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 39:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Speaking — talking about the lives of two national heroes of Viet Nam | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.13 |

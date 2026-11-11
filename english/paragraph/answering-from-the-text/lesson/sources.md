@@ -917,3 +917,24 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 74:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 75:** *Tiếng Anh 6, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25874-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 76:** *Tiếng Anh 10 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-32428-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 77:** *Tiếng Anh 12 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading about schools for general and specific information (listening: school activities) | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed p.6 |
+| Reading a TV guide for general and specific information (listening: different TV programmes) | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed p.6 |
+| Culture/project — the Save the Children organisation; research on a volunteer project in your community | Vietnam, Tiếng Anh 10 (Global Success), Unit 4, printed p.42 |
+| Reading about UNICEF's support for Viet Nam's education (listening: a conversation about Viet Nam's participation in international organisations) | Vietnam, Tiếng Anh 10 (Global Success), Unit 7, printed p.76 |
+| Culture/project — FAO and its activities (CLIL); research on an international organisation | Vietnam, Tiếng Anh 10 (Global Success), Unit 7, printed p.76 |
+| Culture/project — culture shock; doing research on a country's culture | Vietnam, Tiếng Anh 12 (Global Success), Unit 2, printed pp.29–31 |

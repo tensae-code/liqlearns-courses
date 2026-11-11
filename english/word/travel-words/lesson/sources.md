@@ -1,6 +1,6 @@
 # Sources — Travel Words
 
-countries: Palestine
+countries: Palestine, Vietnam
 
 Every part traces to its book and page.
 
@@ -11,7 +11,7 @@ Every part traces to its book and page.
 | Tour words — next, tour, arrive, meet, travel, ruin, before, float, leave, near, tomorrow, our | Palestine, Grade 5 Blended Learning Module 4, Unit 1, printed pp.2–4 |
 | The lesson's example sentences | The course's own workings on the book's stocked word set — no sentence is quoted from the book |
 
-**Acceptance count: taught in 1 country (Palestine).**
+**Acceptance count: taught in 2 countries (Palestine, Vietnam).** Vietnam joins with its Grade 9 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08 re-verification
 sweep of Palestine's English books. The sweep re-read all 8 held
@@ -27,3 +27,17 @@ Searchable tag: the book's own name for this part is the Grade 5
 Blended Learning Module 4's Unit 1 tour vocabulary (the "Best of
 Palestine" tour) — kept here as a tag, not as the lesson's
 title, which names the thing itself.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 2:** *Tiếng Anh 9 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-39366-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary — tourism | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |
+| Reading about different types of tours for specific information (listening: a tour announcement) | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |
+| Speaking — talking about your travel experience | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |
+| Writing a paragraph introducing a tour | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |
+| Project — making a plan for a two-day trip | Vietnam, Tiếng Anh 9 (Global Success), Unit 8, printed p.82 |

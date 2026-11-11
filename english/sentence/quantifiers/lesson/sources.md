@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
+**Acceptance count: taught in 20 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
 Mongolia, Nepal, China, Mauritania, Greece, Nicaragua,
-Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -132,7 +132,7 @@ classroom's own things in Grade 4 (stocked 2026-11-08 by
 the re-verification sweep).
 Mauritania teaches the quantity words and the containers set
 in its Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project. Iraq joins with its quantifiers in Grades 5, 8, 9, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project. Iraq joins with its quantifiers in Grades 5, 8, 9, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 2, 6 and 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -258,3 +258,19 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 21:** *Tiếng Anh 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-25872-4. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *Tiếng Anh 6, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-25873-1. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Wants with some "What do you want? — I want some yams." | Vietnam, Tiếng Anh 2 (Global Success), Unit 9, printed p.40 (Book Map) |
+| Grammar — should / shouldn't for advice; some / any for amount | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6, printed p.66 |
+| Grammar — quantity words some and a lot of / lots of with countable and uncountable nouns | Vietnam, Tiếng Anh 7 (Global Success), Unit 5, printed p.50 |

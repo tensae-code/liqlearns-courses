@@ -667,3 +667,28 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Vietnam added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English books (834 teaching items placed; 190 already in the course, 644 missing, 7 claims flagged). All 16 books are scan-only — every page was rendered and OCR'd in the sweep — and no teacher's books are in hand, so every row below is from a student's book. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/vietnam-placements.md).
+
+**Book 79:** *Tiếng Anh 4, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-35120-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 80:** *Tiếng Anh 5, Volume 1 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39361-6. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 81:** *Tiếng Anh 5, Volume 2 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Macmillan, ISBN 978-604-0-39362-3. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 82:** *Tiếng Anh 7 (Global Success)* (student's book) — Vietnam, Vietnam Education Publishing House & Pearson, ISBN 978-604-0-30724-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past location questions "Were you … last weekend? — Yes, I was. / No, I wasn't." | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 10 "Our summer holidays", printed p.68 |
+| "Where were you last summer? — I was in …" (beach, campsite, countryside; Bangkok, London, Sydney, Tokyo; at / on / in + place) | Vietnam, Tiếng Anh 4, Volume 1 (Global Success), Unit 10, printed p.68 (Book Map) |
+| Talking about last summer (with classroom-instruction revision) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Starter, printed p.7 |
+| Past places "Were you at the … yesterday? — Yes, we were. / No, we weren't." (aquarium, bakery, campsite, cinema, funfair, theatre) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 9 "Our outdoor activities", printed p.62 |
+| Past activities "What did you do yesterday? — We …" (danced around the campfire, listened to music, played chess, watched the fish) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 9, printed p.62 (Book Map) |
+| Trip questions "Did they go to …? — Yes, they did. / No, they didn't." (Ba Na Hills, Bai Dinh Pagoda, Hoan Kiem Lake, Suoi Tien Theme Park) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 10 "Our school trip", printed p.68 |
+| Trip activities "What did they do there? — They …" (planted trees, played games, visited the old buildings, walked around the lake) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 10, printed p.68 (Book Map) |
+| Past holiday questions "Did you …? — Yes, I …" about a family trip | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 11 "Family time", printed p.6 |
+| Family holiday activities "What did your family do in …? — We …" (buy souvenirs, collect seashells, eat seafood, see some interesting places, take a boat trip around the bay, walk on the beach) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 11, printed p.6 (Book Map) |
+| Grammar — past simple | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
