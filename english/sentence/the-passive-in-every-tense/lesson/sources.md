@@ -1,6 +1,6 @@
 # Sources — The passive in every tense
 
-countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen
+countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 
 **Book 9:** Egypt — the continuous and perfect passive boxes, as filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
 
+**Book 10:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Passive Voice — Present Continuous, Past Continuous and Present Perfect only (are being installed / were being built / have been made), with conversion and free-production tasks | Kuwait, Pearls 9B, Learning Unit 6, Lesson 6 Grammar, p.38 |
@@ -34,7 +36,11 @@ Every part traces to its book and page.
 | Passives including "being" and "having" passives, I & II — TEACHER'S-GUIDE evidence: the guide's own grammar naming for its hobbies unit | Nepal, English 10 Teacher's Guide, Unit 8 (pp.122–135) |
 | Impersonal constructions and the passive voice named together in the formal-style checklist of the for-and-against essay teaching | Greece, for-and-against essay unit (as filed in english/books/greece.md) |
 | The Present Continuous, active AND passive, boxed ("…is being built") — the continuous passive's box in the Egypt run; the present perfect passive boxed with its active twin (object + have/has + been + p.p.) | Egypt, Secondary run, as filed in english/EGYPT-BOOK-MAP.md (continuous-passive box; Secondary 12 Term 1, Unit 1, pp.17–19) |
+| Present perfect passive (has been killed, have been rescued) | Mongolia, English XI, Unit 5, printed p.77 |
+| The passive in the perfect tenses (present, past and future perfect passive) (The book's quoted “people's views” on the future Olympics, printed pp.111–112, are ungrammatical as printed; they are learner-style opinion quotes, not models.) | Mongolia, English XI, Unit 7, printed pp.112–113 |
+| The past perfect passive | Mongolia, English XI, Unit 9, printed pp.139–140 |
+| Present and past perfect passive, reviewed in museum contexts | Mongolia, English XI, Unit 10, printed pp.156–157 |
 
-**Acceptance count: taught in 7 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen).**
+**Acceptance count: taught in 8 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia).** Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 The basic present/past passive itself is stocked by the earlier lesson, The passive, and is not re-counted here; this lesson's count covers only the countries whose books carry the deeper coats named above. Nepal's entry is teacher's-guide evidence and is worded as such everywhere it is used.

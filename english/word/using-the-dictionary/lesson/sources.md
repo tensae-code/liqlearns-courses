@@ -137,6 +137,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 48:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 49:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -211,6 +215,9 @@ verification sweep.
 | The vocabulary of the dictionary lesson's reading | Iran, Vision 3 (Grade 12), Lesson 2 "Look it Up!," New Words & Expressions, printed pp.43–69 |
 | A workbook-only reading on dictionaries: what a dictionary is, alphabetical order, "dictionary" from the Latin "dictio," dictionary types, IPA pronunciation information, bilingual volumes — and "pajamas", "bazaar" and "paradise" entering English from Persian — facts only | Iran, Vision 3 Workbook (Grade 12), Lesson 2, Part I Reading, printed pp.28–30 (workbook-only text; not in the student book) |
 | Dictionary work on many meanings: the many meanings/uses of erupt, surge, trace, undistinguished, casualty in a dictionary, with examples | India — Beehive (Class 9), Thinking about Language in My Childhood, printed p.73 |
+| Language-learning aid words (e-book, e-dictionary, language gadget, pronunciation, devote) | Mongolia, English XI, Unit 1, printed p.11 |
+| Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
+| College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
 **Acceptance count: taught in 22 countries (Bangladesh, India,
 Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh

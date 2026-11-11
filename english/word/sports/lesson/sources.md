@@ -92,6 +92,10 @@ verification sweep.
 
 **Book 18:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 19:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 20:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -117,6 +121,11 @@ verification sweep.
 | “My favourite sport” — talking about your favourite sport; I like / I don't like | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 2, Lesson 1, printed pp.21–25 |
 | “Have you got a hobby?” — he/she likes / doesn't like; hobby words | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 2, Lesson 2, printed pp.26–29 |
 | “The Olympic Games” (project) — Olympic sports, past and now | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 2, Lesson 3, printed pp.30–32 |
+| Sports equipment and where sports are played | Mongolia, English XI, Unit 7, printed pp.105–106 |
+| Sport and health words defined (competition, co-operation, sedentary behaviour, obesity) | Mongolia, English XI, Unit 7, printed p.107 |
+| Olympic facts (rings, flame, motto, mascot, diploma) | Mongolia, English XII, Unit 10, printed p.172 |
+| Reading: Olympic winter sports (figure skating, snowboarding, Big Air) | Mongolia, English XII, Unit 10, printed pp.172–173 |
+| The Paralympic and Special Olympic Games | Mongolia, English XII, Unit 10, printed p.184 |
 
 **Acceptance count: taught in 10 countries (Albania,
 Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its

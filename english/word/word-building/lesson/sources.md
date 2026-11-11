@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -93,6 +93,8 @@ verification sweep.
 
 **Book 22:** Greece Γενικά Αγγλικά Α΄ ΕΠΑΛ, General English 1, Grade 10 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0002. Filed in english/books/greece.md (Grade 10 EPAL — General English 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Units 5 and 10 are the book's own 'STOP AND DO REVISION' units — named exclusions, not stocked.
 
+**Book 23:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Class 1 word-work run: suffixes s, es, ies, ed, ied, ing; prefixes (un-fair → unfair, dis-honest); roots; compound words; syllabication | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -129,9 +131,11 @@ verification sweep.
 | Phonics — recognise and read words using a variety of cues (word beginnings, word structure, prefixes) | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.2.2, PDF p.42 (curriculum evidence) |
 | Comprehension — Demonstrate texts (e.g. introduction, body, conclusion) | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.7.3, PDF p.125 (curriculum evidence) |
 | “Art and Graffiti” — noun formation; descriptive writing | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 7, printed p.101 |
+| Job-noun suffixes -er/-or, -ist, -ian | Mongolia, English XI, Unit 2, printed p.25 |
+| Eater words from Latin -vore (herbivore, carnivore, omnivore, insectivore) | Mongolia, English XI, Unit 6, printed p.96 |
 
-**Acceptance count: taught in 9 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 10 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -148,6 +152,6 @@ and shortening in one block (the earlier claim that China
 stocked this lesson was false until the re-verification
 sweep stocked it, 2026-11-08 — flag 7 of the sweep's
 China diff). Other closed countries join as their books
-are read (see READING-QUEUE.md).
+are read (see READING-QUEUE.md). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

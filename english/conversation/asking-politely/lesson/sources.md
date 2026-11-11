@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia
 
 Every part traces to its book and page.
 
@@ -61,6 +61,8 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 13:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Requests: can you / will you for casual requests, could you / would you / would you mind for formal ones — the distinction stated in the book's own notes; barbecue help, a wedding, and exam preparation at school | Cambodia, ENGLISH Grade 8, Unit 8 "Helping family and friends", printed pp.56–61 |
@@ -78,9 +80,10 @@ covers the 6th Year book only).
 | Asking with could you… / can you… — the polite request forms of the online-class unit | Indonesia, English for Nusantara Grade 7, Chapter 4, printed p.171 |
 | Polite requests when eating out: ordering a starter, a main course and a drink, and asking for the bill | Mauritania, Study English, Grade 8, printed pp.16–17 |
 | Requests to borrow and lend: can/could/may I, can/could you, do/would you mind + -ing, do you mind if…, I wonder if you could…; borrow against lend | Mauritania, Study English, Grade 8, printed pp.20–23 |
+| Will for requests; shall for suggestions and offers | Mongolia, English XI, Unit 2, printed p.30 |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Malaysia, Syria, Bolivia, China, Indonesia, Mauritania).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 8 countries (Cambodia,
+Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia).** Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -102,4 +105,4 @@ could you… / can you… forms in Grade 7 (stocked
 2026-11-09 by the re-verification sweep merge).
 Mauritania asks politely at the table and for borrowing and
 lending in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

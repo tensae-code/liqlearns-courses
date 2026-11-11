@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -56,6 +56,8 @@ the two files differ only in cover wording and
 colophon; cited once.
 **Book 9:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 10:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -74,9 +76,11 @@ colophon; cited once.
 | Persuasive/Argumentative Writing — Write explanations to support opinions Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.13.1, PDF p.158 (curriculum evidence) |
 | Persuasive/Argumentative Writing | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.13.2, PDF p.159 (curriculum evidence) |
 | Argumentative/Persuasive Writing — Write explanations and examples to support opinions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.13.1, PDF p.231 (curriculum evidence) |
+| Reading: a speech arguing for more exercise at school — argument vs fact | Mongolia, English XII, Unit 8, printed p.139 |
+| Writing and giving an argumentative speech | Mongolia, English XII, Unit 8, printed p.141 |
 
-**Acceptance count: taught in 8 countries (Egypt, Ghana,
-Nepal, Greece, Bangladesh, Bolivia, China, Mexico).** Egypt sets the speech for or against an
+**Acceptance count: taught in 9 countries (Egypt, Ghana,
+Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -87,6 +91,6 @@ famous speeches and analyses them in its senior book's
 History unit (added 2026-11-08 by the re-verification
 sweep). China joins with a principal's graduation speech
 read with a strategy box on text type and purpose
-(stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+(stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

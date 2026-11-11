@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -108,6 +108,10 @@ verification sweep.
 
 **Book 25:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
 
+**Book 26:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 27:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -144,9 +148,15 @@ verification sweep.
 | Workbook Unit 1 (What a wonderful world!), lessons 1–3 — practice of the unit's linking words (because, as, although, but) with the workbook's texts | Greece, Think Teen! Grade 9 Workbook, Unit 1, WB printed pp.5–20 |
 | “Surface and underground mining” — connectors which/while/because/that/who; not only…but | Greece, Exploiting the Earth, Part B6, skills table pp.115–120 |
 | “Earthquakes” — cause and result language; tense revision; active/passive practice | Greece, Exploiting the Earth, Part B14, skills table pp.115–120 |
+| Although / even though for contrast; so that / in order to for purpose | Mongolia, English XI, Unit 1, printed pp.14–15 |
+| Conjunctions of contrast and purpose (although, even though, whereas, so that) | Mongolia, English XI, Unit 9, printed p.143 |
+| Clauses of reason: due to, due to the fact that, because, because of | Mongolia, English XII, Unit 6, printed pp.101–102 |
+| Time clauses (when, while, before, after) and the sequence of tenses | Mongolia, English XII, Unit 6, printed pp.104–105 |
+| Because-clauses giving reasons | Mongolia, English XII, Unit 7, printed p.128 |
+| Linking words (adding, ordering, contrasting, explaining, reinforcing, summing up) | Mongolia, English XII, Unit 8, printed p.140 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece).** Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 10 countries (Bolivia,
+Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia).** Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -170,6 +180,6 @@ temporal connectives (stocked 2026-11-09 by the
 re-verification sweep merge).
 The sweep also stocked Mauritania's Grade 11 sentence
 connectors and Grade 13's FANBOYS conjunctions (stocked
-2026-11-09 by the Mauritania re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -137,6 +137,10 @@ verification sweep.
 
 **Book 25:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
 
+**Book 26:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 27:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -189,9 +193,15 @@ verification sweep.
 | “Alexander the Great” — a presentation on a famous figure in history | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 7, Lesson 3, printed pp.94–96 |
 | “Famous people” — review of past simple time expressions; writing a postcard and a biography | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 5, Lesson 3, printed pp.57–60 |
 | Workbook “Famous people” — practice of postcard and biography writing with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 5, Lesson 3, WB printed pp.56–65 |
+| Writing a biography of a family member | Mongolia, English XI, Unit 3, printed p.44 |
+| Writing an autobiography (yourself at seventy) | Mongolia, English XI, Unit 3, printed p.55 |
+| Writing a biography of a favourite sporting hero | Mongolia, English XI, Unit 7, printed p.113 |
+| Writing about Ferdinand Magellan from a fact file | Mongolia, English XI, Unit 9, printed p.140 |
+| Writing Neil Armstrong's biography from an acrostic | Mongolia, English XI, Unit 9, printed p.145 |
+| A biography text: LeBron James | Mongolia, English XII, Unit 10, printed p.175 |
 
-**Acceptance count: taught in 10 countries (Egypt,
-Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece).** Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 11 countries (Egypt,
+Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -205,4 +215,4 @@ lessons closing the Dakhil Classes 9–10 People Who Stand
 Out unit (added 2026-11-08 by the re-verification sweep).
 China joins with its Grade 9 writing of an unforgettable
 person or event from junior high school (stocked
-2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

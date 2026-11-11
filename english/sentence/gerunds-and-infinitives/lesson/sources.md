@@ -112,6 +112,10 @@ verification sweep.
 
 **Book 25:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
 
+**Book 26:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 27:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -146,6 +150,15 @@ verification sweep.
 | The Grade 9 teacher's guide for Unit 3 “Thrills and spills!” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.39 |
 | “Planting” — gerund vs infinitive; reported statements; plant-production texts | Greece, Exploiting the Earth, Part A1, printed p.18 |
 | “Soil water and tensiometres” — to + infinitive for purpose; active voice | Greece, Exploiting the Earth, Part A5, printed p.35 |
+| Gerunds as sentence subjects | Mongolia, English XI, Unit 1, printed p.12 |
+| Gerunds and to-infinitives after verbs, adjectives and prepositions | Mongolia, English XI, Unit 2, printed pp.27–28 |
+| Gerunds as subjects | Mongolia, English XII, Unit 5, printed p.83 |
+| Gerunds after prepositions and set expressions | Mongolia, English XII, Unit 5, printed p.87 |
+| Gerunds and to-infinitives after particular verbs; Disney rules with avoid + gerund | Mongolia, English XII, Unit 5, printed pp.89–90 |
+| Allow / advise / recommend with object + infinitive, or gerund; be allowed to | Mongolia, English XII, Unit 5, printed p.92 |
+| Infinitives of purpose (to / in order to; not to) | Mongolia, English XII, Unit 7, printed p.120 |
+| Infinitives after nouns (ability, ambition, decision, plan + to…) | Mongolia, English XII, Unit 7, printed p.126 |
+| Gerunds and infinitives with a change of meaning (remember, forget, regret, stop, try; used to) — taught only in the book’s Grammar Reference | Mongolia, English XII, Grammar Reference, printed pp.193–195 |
 
 **Acceptance count: taught in 13 countries (Cambodia,
 Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia

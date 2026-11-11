@@ -179,6 +179,10 @@ verification sweep.
 
 **Book 76:** Greece EPAL Sector Material — Applied Arts (Graphic Arts / Interior Design / Art Conservation sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0619. Filed in english/books/greece.md (Applied Arts folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 77:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 78:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -325,6 +329,10 @@ verification sweep.
 | “Dairy production – milking systems” — passive to active; sentence ordering | Greece, Exploiting the Earth, Part A14, printed p.87 |
 | “Rock formation and classification” — active to passive; geology texts | Greece, Exploiting the Earth, Part B1, printed p.121 |
 | Applied Arts Text 1 “Graphic Design” — history and uses of graphic design; the passive voice; notes towards a job application | Greece, EPAL Applied Arts folder, Text 1, printed p.9 |
+| The passive in building contexts (present, past and future simple; by + agent, of + material) | Mongolia, English XI, Unit 4, printed pp.61–62 |
+| The present simple passive for processes (An exercise sentence on the page drops the article — “trapped by green chemical called chlorophyll”; taught corrected.) | Mongolia, English XI, Unit 6, printed p.91 |
+| Present simple passive (be + past participle; by + agent; passive questions) | Mongolia, English XII, Unit 1, printed pp.12–15 |
+| Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
 **Acceptance count: taught in 31 countries (Egypt,

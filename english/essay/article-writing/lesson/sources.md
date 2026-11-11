@@ -1,6 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India
+countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -54,6 +54,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 11:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 12:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The short article defined — 'a piece of writing that gives information or ideas about a topic in a clear and simple way'; structure: Title (catchy), Introduction, Body, Conclusion; 100–110 words | Egypt, Preparatory 9 Term 2, Unit 8, Lesson 6 writing (as filed in EGYPT-BOOK-MAP.md) |
@@ -70,5 +74,10 @@ verification sweep.
 | The inclusion project: the history of enslaved Africans in New Spain against Afro-Mexicans today, with art as protest | Mexico, Grade 9, Project 1 "Afro-Mexican Communities: Stories for Inclusion", printed p. 10 |
 | The independence project: researching the independence movements of Latin America | Mexico, Grade 9, Project 2 "The Independence of Latin America During the 19th Century", printed p. 18 |
 | An article written for the school magazine: comparing and contrasting top women tennis players from a data table | India — Beehive (Class 9), Writing in Reach for the Top, printed p.107 |
+| Writing an article "It's useful for language learning" (article structure taught) | Mongolia, English XI, Unit 1, printed pp.15–16 |
+| Writing an article about preventing a dzud | Mongolia, English XI, Unit 5, printed p.76 |
+| Writing a short article about Mongolian nomads and country life | Mongolia, English XII, Unit 4, printed p.75 |
+| Writing an article, "How to make people environmentally friendly?" | Mongolia, English XII, Unit 7, printed p.129 |
+| Writing a magazine article about a wheelchair fashion or dance show | Mongolia, English XII, Unit 10, printed pp.187–188 |
 
-**Acceptance count: taught in 7 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

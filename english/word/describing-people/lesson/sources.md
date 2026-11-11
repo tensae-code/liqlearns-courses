@@ -113,6 +113,8 @@ verification sweep.
 
 **Book 26:** Greece Αγγλικά Γενικού Λυκείου 2 (Anglika Genikou Lykeiou 2), Grades 11–12: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11–12 — Αγγλικά 2 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Same construction as the Grade 10 volume: thematic units of video/reading/discussion/project tasks.
 
+**Book 27:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -147,6 +149,7 @@ verification sweep.
 | “Visualising colour” — modal verbs; words for personality | Greece, Think Teen! Grade 9 Student's Book, Unit 7, Lesson 3, printed p.81 |
 | Workbook “Visualising colour” — practice on personality words with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 7, Lesson 3, WB printed pp.76–85 |
 | “Leaders. Born or made?” — discussion and mind-map: qualities of good leaders, born vs made | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 6, printed p.81 |
+| Teen behaviour words (peer pressure, tolerance, cyber addiction, bullying, diversity, social justice) | Mongolia, English XII, Unit 1, printed pp.16–17 |
 
 **Acceptance count: taught in 12 countries (Bolivia,
 Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the

@@ -70,6 +70,10 @@ differ only in cover wording and colophon; cited once.
 
 **Book 16:** Greece Think Teen! 1st Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 7: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student book, plus printed tests and speaking tasks in its appendices.
 
+**Book 17:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 18:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
@@ -93,6 +97,9 @@ differ only in cover wording and colophon; cited once.
 | The Advanced teacher's guide for Unit 3 “TEEN Matters!” | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.26 |
 | Workbook “FOODstuff!” — new text: an article about food and teens' diet | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 6, Lesson 1, printed p.66 |
 | The Beginners teacher's guide for Unit 6 “Bits and pieces!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.71 |
+| Determiners both / neither / either / none / all (of) | Mongolia, English XI, Unit 6, printed pp.98–99 |
+| Fewer / less / more with countable and uncountable nouns | Mongolia, English XI, Unit 7, printed pp.110–111 |
+| Phrases of quantity and quantifiers (a bar/carton/slice of; a few/a little; some/any/much/many) | Mongolia, English XII, Unit 8, printed pp.138–139 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check

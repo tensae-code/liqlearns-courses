@@ -40,6 +40,8 @@ verification sweep.
 
 **Book 10:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
 
+**Book 11:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six first colours — red, green, white, blue, black, yellow — with umbrella as the carrier word, and the pattern "What colour? Red and black." | Palestine, Grade 1 Part 2, Unit 12 "Colours," p.16 |
@@ -56,6 +58,7 @@ verification sweep.
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
 | The course's very first poem is a colour lesson: "A Happy Child" — a red house, a green tree, the sun; colour questions (the colour of the house, the tree, the sun) and happy/sad feelings work | India — Marigold (Class 1), Unit 1, printed pp.1–15 |
 | The colour characters and a rainbow sheet: “I'm blue, I'm the sea / I'm green, I'm a tree / I'm red, I'm the fire…” — each colour introduces itself | Greece, Beta English Grade 2 Workpack, colours set (A04_C01-8), PDF pp.125–128 |
+| The symbolism of colours in Mongolia | Mongolia, English XII, Unit 4, printed pp.67–68 |
 
 **Acceptance count: taught in 7 countries (Palestine, Bolivia,
 Mongolia, Iran, Indonesia, India, Greece).** Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the

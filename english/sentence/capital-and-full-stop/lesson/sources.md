@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -116,6 +116,8 @@ verification sweep.
 
 **Book 47:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 48:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -199,9 +201,12 @@ verification sweep.
 | Using Punctuation — Use punctuations: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.2.1, PDF p.163 (curriculum evidence) |
 | Using Capitalisation — Write to friends to express their views on given | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.15.1, PDF p.233 (curriculum evidence) |
 | Using Punctuation — use the colon | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.2.1, PDF p.234 (curriculum evidence) |
+| Punctuation marks and their jobs | Mongolia, English XI, Unit 1, printed p.18 |
+| Punctuating a paragraph about stopping global warming | Mongolia, English XI, Unit 5, printed p.83 |
+| Punctuating an animal journal (zebras and jaguars) | Mongolia, English XI, Unit 6, printed pp.94–95 |
 
-**Acceptance count: taught in 26 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India).** India joins with punctuation in writing sentences, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 27 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia).** India joins with punctuation in writing sentences, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -223,7 +228,7 @@ the naming. Iraq teaches the pair outright from the first year: its Grade 1 Teac
 their books are read (see READING-QUEUE.md).
 Mauritania teaches name-spelling and the capital-letter rules
 in its Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 

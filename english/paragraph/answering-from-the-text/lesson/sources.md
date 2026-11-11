@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia
 
 Every part traces to its book and page.
 
@@ -232,6 +232,10 @@ verification sweep.
 
 **Book 70:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 71:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 72:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -457,8 +461,36 @@ verification sweep.
 | Comprehension — Demonstrate (e.g. introduction, body, conclusion) understanding of the • Guide learners systematically using given | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.7.3, PDF p.201 (curriculum evidence) |
 | Fluency — Read grade-level text with meaning | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.9.1, PDF p.202 (curriculum evidence) |
 | Cite the textual evidence that supports an analysis of a text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 2 (Reading), standard B9.2.2.1, PDF p.117 (curriculum evidence) |
-**Acceptance count: taught in 33 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico).** India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+| Reading: multilingualism on the Internet | Mongolia, English XI, Unit 1, printed p.10 |
+| Reading: languages in Asian countries (Hong Kong, India, Malaysia) | Mongolia, English XI, Unit 1, printed p.13 |
+| Reading: Paul's life story, a career narrative | Mongolia, English XI, Unit 2, printed pp.38–39 |
+| Reading: interview with Hussam, a young Syrian refugee | Mongolia, English XI, Unit 3, printed p.48 |
+| Reading: a newspaper's rules for a happy life | Mongolia, English XI, Unit 3, printed p.50 |
+| Reading: the Burj Khalifa | Mongolia, English XI, Unit 4, printed p.60 |
+| Reading: kinds of bridges (beam, arch, suspension) | Mongolia, English XI, Unit 4, printed p.63 |
+| Reading: the Golden Gate Bridge | Mongolia, English XI, Unit 4, printed p.65 |
+| Reading: the Sydney Harbour Bridge | Mongolia, English XI, Unit 4, printed p.70 |
+| Reading: famine, a newspaper article on hunger | Mongolia, English XI, Unit 5, printed p.74 |
+| Reading: how to prepare for disasters (earthquake and fire safety) | Mongolia, English XI, Unit 5, printed pp.81–82 |
+| Reading: a school newspaper article on the 2004 tsunami | Mongolia, English XI, Unit 5, printed p.86 |
+| Reading: habitats and how animals adapt | Mongolia, English XI, Unit 6, printed p.93 |
+| Reading: unusual hobbies (jewellery making, eggshell carving, beekeeping) | Mongolia, English XI, Unit 7, printed pp.114–115 |
+| Reading: "Be a space respecter, not a space invader" | Mongolia, English XI, Unit 8, printed pp.128–129 |
+| Reading: the four personal space zones (Hall) | Mongolia, English XI, Unit 8, printed p.134 |
+| Reading: a newspaper article on Gurragchaa, first Mongolian in space | Mongolia, English XI, Unit 9, printed p.146 |
+| Reading: the Shoroon Bumbagar Tomb excavation | Mongolia, English XI, Unit 10, printed pp.157–158 |
+| Reading: "How to pack smartly" travel tips | Mongolia, English XI, Unit 10, printed pp.161–162 |
+| Reading: a newspaper article on multiple intelligences and choosing a career | Mongolia, English XII, Unit 3, printed pp.60–61 |
+| Reading: symbolism in Lunar New Year customs (Ul boov, khadags) | Mongolia, English XII, Unit 4, printed pp.77–78 |
+| Reading: Serengeti National Park and the great migration | Mongolia, English XII, Unit 5, printed pp.85–86 |
+| Reading: the Maasai tribe today | Mongolia, English XII, Unit 5, printed pp.95–96 |
+| Reading: the Eco-Schools programme | Mongolia, English XII, Unit 7, printed p.125 |
+| Reading: e-waste medals for the Tokyo 2020 Olympics | Mongolia, English XII, Unit 7, printed pp.131–132 |
+| Reading survey results: Khan Academy and online learning | Mongolia, English XII, Unit 9, printed p.163 |
+| An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
+| Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
+**Acceptance count: taught in 34 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia).** India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -505,7 +537,7 @@ true/false with correction, and reference and inference
 questions on every reading, and Pearls 9B sends pupils
 to find the evidence in the text in its cause-and-effect
 linker work. Rwanda answers from the text as its standing comprehension work from P1 up — passages, stories, graphs and sample papers all closed by questions on the text itself — with skimming and scanning named as reading skills in P5 and P6, but no not-given answering shape in any read book. Tanzania answers from the text as its one book's fixed cycle — every unit's story, passage or poem closed by fill-in-the-blanks, short-answer questions and a word-bank completion drawn from the text itself, two questions per unit stepping out to the pupil's own life — with no named scanning or not-given answering strategy in the book, so that naming rests on the other countries. Other closed countries join as their
-books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 

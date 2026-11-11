@@ -64,6 +64,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 13:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 14:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The model postcard read, then your own written: Omar's postcard from Jeddah (the page is headed "Phonics" in print although its goal is postcard writing, as filed) | Saudi Arabia, We Can! 3 Workbook, Goal 96, printed p.234 |
@@ -83,6 +87,9 @@ verification sweep.
 | A model letter with its parts LABELLED in the margin: writer's address / date / greeting / introduction / body / ending / closing | India — Marigold Book Five (Class 5), Unit 4 model letter |
 | Listening to a personal letter (Jaya to Arti) and completing a table about it (apology, address, dates) | India — First Flight (Class 10), Listening in A Letter to God, printed p.12 |
 | A short letter written to someone you know about having learnt something new | India — Flamingo (Class 12), Writing after Deep Water, printed p.30 |
+| Writing an e-mail about a sporting competition you attended | Mongolia, English XI, Unit 7, printed pp.113–114 |
+| Writing a reply letter with travel recommendations | Mongolia, English XI, Unit 10, printed p.166 |
+| Writing an e-mail about a trip | Mongolia, English XII, Unit 5, printed p.87 |
 
 **Acceptance count: taught in 6 countries (Saudi
 Arabia, Mongolia, Malaysia, Egypt, China, India).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the

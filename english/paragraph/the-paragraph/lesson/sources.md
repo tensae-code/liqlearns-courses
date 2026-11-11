@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -177,6 +177,10 @@ verification sweep.
 
 **Book 61:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 62:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 63:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -310,10 +314,21 @@ verification sweep.
 | Determine the central idea in paragraphs | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 2 (Reading), standard B8.2.2.1, PDF p.85 (curriculum evidence) |
 | Demonstrate understanding of how different paragraph forms are organised and expressed | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 4 (Writing), standard B8.4.1.1, PDF p.92 (curriculum evidence) |
 | Compose more complex paragraphs | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 4 (Writing), standard B9.4.1.2, PDF p.127 (curriculum evidence) |
+| Writing descriptions of buildings (a home-town building; famous buildings from data tables) | Mongolia, English XI, Unit 4, printed pp.59, 67 |
+| Writing a paragraph explaining a food chain | Mongolia, English XI, Unit 6, printed pp.98–99 |
+| Writing a paragraph: what if the top predator disappeared? | Mongolia, English XI, Unit 6, printed p.103 |
+| Writing about your hobbies in three paragraphs | Mongolia, English XI, Unit 7, printed p.115 |
+| Writing sentences about Ulaanbaatar museums from given facts | Mongolia, English XI, Unit 10, printed pp.155–156 |
+| Writing a paragraph on how Mongolians raise their children (topic, supporting and concluding sentences) | Mongolia, English XII, Unit 4, printed p.66 |
+| Writing a paragraph about the symbolism of numbers in Mongolia | Mongolia, English XII, Unit 4, printed p.69 |
+| Writing a paragraph about Mongolian reindeer herders | Mongolia, English XII, Unit 5, printed p.84 |
+| Short writings for the environment (a Plant-a-tree day plan; what I can do in my neighbourhood) | Mongolia, English XII, Unit 7, printed pp.120, 123 |
+| Writing about green habits at school and home; a trash-free lifestyle | Mongolia, English XII, Unit 7, printed pp.126, 133 |
+| Writing a paragraph about a technological advance (second conditional) | Mongolia, English XII, Unit 9, printed p.156 |
 
-**Acceptance count: taught in 32 countries (Bangladesh,
+**Acceptance count: taught in 33 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India).** India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia).** India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -361,7 +376,7 @@ repeats that organiser and checklist in every unit, and
 Pearls 7A names topic sentence, supporting details and
 concluding sentence for the two-paragraph report, while
 Skyline 4A builds paragraphs from a graphic organiser. Rwanda stocks the paragraph in part — guided paragraphs are set writing from P4 up, P5 plans a three-paragraph text, and P6 teaches composition structure (introduction / main body / conclusion) and analyses a speech paragraph by paragraph — but no read Rwanda book names the topic sentence, so Rwanda carries the paragraph as a written and structured unit, not as a named topic-sentence craft. Other closed countries join as their books are
-read (see READING-QUEUE.md).
+read (see READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 

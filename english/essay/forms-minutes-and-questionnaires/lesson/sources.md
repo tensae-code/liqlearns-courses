@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China, India
+countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -36,6 +36,8 @@ verification sweep.
 
 **Book 12:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
 
+**Book 13:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Form-filling from a guest's answers — the registration form's fields (name, nationality, address, passport number, dates, room, arrival, nights, departure) and the receptionist's questions that fill it | Greece, the hotel registration-form unit (as filed in english/books/greece.md) |
@@ -50,5 +52,7 @@ verification sweep.
 | “Bikes for the world” — revision of comparative/superlative; writing a questionnaire | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 8, Lesson 3, printed pp.93–96 |
 | Workbook “Bikes for the world” — practice of questionnaire writing with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, Lesson 3, WB printed pp.87–97 |
 | Office Clerks Unit 6.4 “Evaluation checklist” — checklist and evaluation-form language | Greece, English for Office Clerks, Unit 6.4, printed p.326 |
+| Filling in a calendar with activities, assignments and deadlines | Mongolia, English XII, Unit 2, printed p.30 |
+| An ICT questionnaire: how students use computers and the internet | Mongolia, English XII, Unit 9, printed p.167 |
 
-**Acceptance count: taught in 6 countries (Albania, Ghana, Greece, South Africa, China, India).** India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 7 countries (Albania, Ghana, Greece, South Africa, China, India, Mongolia).** India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -330,6 +330,10 @@ verification sweep.
 
 **Book 97:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
 
+**Book 98:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 99:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -627,8 +631,11 @@ verification sweep.
 | “Myths and legends” — myths and legends from other civilisations — plots only | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 10, Lesson 3, printed pp.130–132 |
 | “TEEN best-sellers!” — past simple; 'book' words and collocations; interviews with authors (Beginners student's book) | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 7, Lesson 3, printed p.103 |
 | Workbook “TEEN best-sellers!” — new text: a blurb of a book | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 7, Lesson 3, printed p.89 |
-**Acceptance count: taught in 34 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India).** India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
+| Writing a short story, "An amazing survivor" | Mongolia, English XI, Unit 5, printed p.83 |
+| Reading fiction: "The Road to Paris — 1775" (simplified Dickens), reading with punctuation | Mongolia, English XII, Unit 6, printed pp.106–107 |
+| Writing a story, with a story layout | Mongolia, English XII, Unit 6, printed p.108 |
+**Acceptance count: taught in 35 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia).** India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -681,7 +688,7 @@ solution, moral — is completed for The Honest Woodcutter,
 and its favourite-story organiser works character, events
 in first/then/finally order and lesson on a model paragraph
 about Alice in Wonderland before the pupil's own story. Rwanda stocks the story in part — complete stories are read whole from P1 up, stories and fables are named topics in P2 and P5, Telling Stories is a named topic in P4, and story writing is set work through the set (narrations and alternative endings in P4, plan–draft–revise story work in P5, set-title stories in P6) — but no read Rwanda book names the story's furniture (setting, characters, plot) as a taught set, so that naming rests on the other countries. Tanzania stocks the story in part — one whole Standard One reading book of complete short stories (The wrong fish, The foolish rats, The magic tree, The Hen and the Kite among them), its Introduction naming story-telling as the course's own aim — but no read Tanzania book names the story's furniture (setting, characters, plot) as such, so that naming rests on the other countries. Other closed countries join as their books are read (see
-READING-QUEUE.md). Mexico stocks story at project scale: its Grade 7 book's literary festival and the complete tale “The Kindness Princess”, and its Grade 8 book's La Llorona artistic proposal (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+READING-QUEUE.md). Mexico stocks story at project scale: its Grade 7 book's literary festival and the complete tale “The Kindness Princess”, and its Grade 8 book's La Llorona artistic proposal (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 

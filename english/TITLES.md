@@ -75,6 +75,9 @@ its own subtitle folder with its own lesson + questions):
   expressing-gratitude · expressing-sympathy ·
   likes-dislikes-and-preferences (added 2026-11-09 by
   the Mauritania re-verification sweep merge — **Unit 5,
+  Conversation**) ·
+  everyday-replies-and-social-responses (added 2026-11-11 by
+  the Mongolia re-verification sweep merge — **Unit 5,
   Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
@@ -86,7 +89,10 @@ its own subtitle folder with its own lesson + questions):
   2026-11-08 by the Bolivia re-verification sweep merge —
   **Unit 6, Word Kinds**) ·
   prepositions · spelling (added 2026-11-10 by the Ghana
-  re-verification sweep merge — **Unit 6, Word Kinds**)
+  re-verification sweep merge — **Unit 6, Word Kinds**) ·
+  prepositions-after-adjectives-and-verbs (added 2026-11-11
+  by the Mongolia re-verification sweep merge — **Unit 6,
+  Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
@@ -105,6 +111,9 @@ its own subtitle folder with its own lesson + questions):
   Indonesia re-verification sweep merge — **Unit 7, Words
   for the World**) ·
   maritime-english (added 2026-11-10 by the Greece
+  re-verification sweep merge — **Unit 7, Words for
+  the World**) ·
+  what-things-are-made-of (added 2026-11-11 by the Mongolia
   re-verification sweep merge — **Unit 7, Words for
   the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —

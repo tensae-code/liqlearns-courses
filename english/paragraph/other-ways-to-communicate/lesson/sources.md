@@ -1,6 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia
 
 Every part traces to its book and page.
 
@@ -21,6 +21,10 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 5:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 6:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A full sign-language spread: what sign language is (signs, gestures, finger spelling, facial expressions; total communication with lipreading and writing), with six signs drawn and described — Sing, Dance, Read, Win, Sunset, Sunrise | India, Marigold Book Three (Class 3), Unit 9 (as filed in india.md) |
@@ -30,5 +34,7 @@ cited once.
 | The cross-cultural gesture grids: Thumbs Up, V Sign, Namaste, Wai, A-okay, Handshake, Raised Eyebrows; Finger Snap, Crossed Fingers, Raised Foot (sole-pointing offensive in Saudi Arabia and elsewhere), with the cultural-differences warning | Ecuador, Superior, Worksheet 1, printed pp.8–9 |
 | Body-language gestures as a vocabulary set: kiss, bow, hug, point, raise one's hand, wink, nod, shrug, wave | Mexico, Grade 7, Project 11 "We Are Words, We Are Valuable", printed p. 99 |
 | Language talked about itself: language against language systems, and the other languages spoken in the class and the community | Mexico, Grade 7, Project 11 "We Are Words, We Are Valuable", printed p. 99 |
+| Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
+| Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 4 countries (Afghanistan, Ecuador, India, Mexico).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Afghanistan, Ecuador, India, Mexico, Mongolia).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

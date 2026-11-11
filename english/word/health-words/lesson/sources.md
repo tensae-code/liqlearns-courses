@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -98,6 +98,10 @@ verification sweep.
 
 **Book 22:** Greece EPAL Sector Material — Health (Health / Welfare sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0620. Filed in english/books/greece.md (Health folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 23:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 24:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -133,9 +137,12 @@ verification sweep.
 | “Adolescence” — texts and a quiz on teen habits, drugs and parents | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.10 |
 | Health Text 1 “Health Care Services” — hospital departments and health-service vocabulary; relative clauses; notes towards a complaint letter | Greece, EPAL Health folder, Text 1, printed p.9 |
 | Health Text 2 “First Aid” — first-aid tips and instructions; expressions with MAKE and DO | Greece, EPAL Health folder, Text 2, printed p.29 |
+| Reading: physical activity and health — inactivity as a "silent killer" | Mongolia, English XI, Unit 7, printed pp.108–109 |
+| Reading: a biology lecture on the two sides of the brain and brain food | Mongolia, English XII, Unit 8, printed p.142 |
+| Reading: health and well-being (the WHO definition; physical, mental, social) | Mongolia, English XII, Unit 8, printed p.150 |
 
-**Acceptance count: taught in 12 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 13 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -162,4 +169,4 @@ re-verification sweep merge). Other closed countries join as their books are rea
 (see READING-QUEUE.md).
 Mauritania advises on illness in Grade 7 and discusses
 HIV/AIDS prevention in Grade 11 (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

@@ -144,6 +144,8 @@ re-verification sweep.
 
 **Book 32:** Greece EPAL Sector Material — Construction (Structural Works / Built Environment / Architectural Design sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0617. Filed in english/books/greece.md (Construction folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 33:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -185,6 +187,10 @@ re-verification sweep.
 | Workbook “Gadgets” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 3, Lesson 2, WB printed pp.33–44 |
 | Workbook “Signs and travel” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, Lesson 2, WB printed pp.87–97 |
 | Construction Text 2 “Public Works” — public-works text; relative clauses; writing a formal e-mail to a city council member | Greece, EPAL Construction folder, Text 2, printed p.25 |
+| Relative clauses with who | Mongolia, English XII, Unit 4, printed p.65 |
+| Relative clauses with which and that | Mongolia, English XII, Unit 4, printed p.68 |
+| Relative clauses with where and when | Mongolia, English XII, Unit 4, printed pp.71–72 |
+| Relative clauses with that after superlatives and indefinite words | Mongolia, English XII, Unit 4, printed p.74 |
 
 **Acceptance count: taught in 16 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,

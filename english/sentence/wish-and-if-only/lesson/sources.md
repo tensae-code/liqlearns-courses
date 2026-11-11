@@ -1,6 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -43,6 +43,8 @@ covers the 6th Year book only).
 
 **Book 9:** Greece Think Teen! 2nd Grade of Junior High School, Student's Book (Beginners — Αρχάριοι), Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 10:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole wish system under its own heading "HOW TO EXPRESS WISHES IN ENGLISH" — wish expresses regret or wanting something different; WISH + Simple Past for a present/future situation ("I wish I ate more vegetables — but I don't"); WISH + Past Continuous; WISH + Past Perfect to change a past situation ("I wish I hadn't done it"); WISH + Would for something to happen or someone to start/stop an annoying thing ("I wish the lesson would end", "I wish you would listen to me!", "I wish you wouldn't borrow my clothes!"); WISH + to-infinitive as formal "want" | Bolivia, Year 6, Theme 4, §1.4 (as filed in bolivia.md) |
@@ -56,9 +58,11 @@ covers the 6th Year book only).
 | Wish forms — if only and I wish in the compendium's presentation (wishing for things and for people to act) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
 | Hope against wish: hope + present/past for real possibilities; wish + simple past (unreal now), wish + past perfect (past regret), wish + would (a wanted change); I wish I were… | Mauritania, Study English, Grade 13, printed pp.25–26 |
 | “History of fashion” — I wish + past tense; status and clothes words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 9, Lesson 2, printed pp.101–104 |
+| Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
+| Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece).** Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 8 countries (Bolivia,
+Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia).** Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -71,4 +75,4 @@ was found in english/EGYPT-BOOK-MAP.md, so Egypt is
 not cited here.
 Mauritania sets hope against wish in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge).
+merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

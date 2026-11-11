@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -173,6 +173,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 verification sweep.
 **Book 48:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 49:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 50:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -270,8 +274,17 @@ verification sweep.
 | Writing: "How I've Changed!" — a two-paragraph composition (paragraph 1 general changes; paragraph 2 the most important change and how it happened) | China — English ("Go for it!") Grade 9, Unit 4, printed p.32 |
 | An essay written in five paragraphs: recounting overcoming a fear in an activity | India — Flamingo (Class 12), Writing after Deep Water, printed p.30 |
 | Expository/Informative Writing — Write words giving information about family | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 4 (Writing), standard B4.4.14.1, PDF p.81 (curriculum evidence) |
+| Essay: "By 2025, what will you have achieved?" | Mongolia, English XI, Unit 3, printed p.51 |
+| Reading: an essay about basketball, and how an essay is built | Mongolia, English XI, Unit 7, printed pp.118–119 |
+| Writing an opinion essay about exploring your hometown | Mongolia, English XI, Unit 9, printed p.147 |
+| Reading: an essay on college experiences and its parts | Mongolia, English XII, Unit 2, printed pp.41–42 |
+| Writing an essay evaluating your high-school experience | Mongolia, English XII, Unit 2, printed p.44 |
+| Writing a composition about your career choice | Mongolia, English XII, Unit 3, printed p.51 |
+| Writing a composition about your future plan | Mongolia, English XII, Unit 3, printed p.62 |
+| Writing an argumentative essay, "Can we use the smartphone smartly?" | Mongolia, English XII, Unit 8, printed p.147 |
+| Writing an argumentative essay, "Why is breakfast important?" | Mongolia, English XII, Unit 8, printed p.152 |
 
-**Acceptance count: taught in 23 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India).** India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 24 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia).** India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -327,7 +340,7 @@ composition "How I've Changed!" (general changes, then the
 most important change and how it happened) (stocked
 2026-11-08 by the re-verification sweep). Other finished
 countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 

@@ -226,6 +226,10 @@ verification sweep.
 
 **Book 81:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 82:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 83:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -428,6 +432,8 @@ verification sweep.
 | “Tribes of the forest” — present simple and present continuous; -ed/-ing adjectives; tribal life words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 1, printed pp.1–4 |
 | Workbook Unit 1 (I'm only human), lessons 1–3 — practice of the present tenses, including the unit's new texts about the Bushman, Aborigine, Zulu and Kayapo peoples | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, WB printed pp.5–19 |
 | The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
+| Present continuous for gradual change | Mongolia, English XI, Unit 1, printed p.14 |
+| Present continuous, active and passive, for changing situations | Mongolia, English XII, Unit 1, printed pp.17–18 |
 **Acceptance count: taught in 37 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India).** India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside

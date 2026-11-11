@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -110,6 +110,10 @@ re-verification sweep.
 
 **Book 28:** Greece EPAL Sector Material — Information Technology (IT sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0618. Filed in english/books/greece.md (IT folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 29:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 30:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -147,9 +151,11 @@ re-verification sweep.
 | “Minerals – metals – physical properties” — comparisons in property texts | Greece, Exploiting the Earth, Part B3, printed p.131 (skills table) |
 | “Metals: conductivity and chemical properties” — comparatives | Greece, Exploiting the Earth, Part B9, skills table pp.115–120 |
 | IT Text 2 “Operating Systems” — operating-system text; comparisons of adjectives and adverbs, regular and irregular | Greece, EPAL Information Technology folder, Text 2, printed p.29 |
+| Comparisons: (not) as … as, so … as, like, more/less … than, for adjectives and adverbs | Mongolia, English XI, Unit 10, printed pp.162–163 |
+| Comparative adverbs and adverbs of manner; as … as with adverbs | Mongolia, English XII, Unit 10, printed pp.174, 176–177 |
 
-**Acceptance count: taught in 9 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 10 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico tables comparative and superlative adjectives whole in Grade 7 and returns with as…as equality comparisons in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico tables comparative and superlative adjectives whole in Grade 7 and returns with as…as equality comparisons in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,8 @@ covers the 6th Year book only).
 
 **Book 5:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 6:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Countries and nationalities — Japan/Japanese, Peru/Peruvian, Mexico/Mexican, France/French, USA/American, Bolivia/Bolivian | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 12 |
@@ -26,11 +28,12 @@ covers the 6th Year book only).
 | The same system practised on maps and lists: labelling a map of Iran and its neighbours with English country names, a FIFA country-rankings task, circling country/nationality/language words | Iran, Prospect 2 Workbook (Grade 8), Lesson 1, printed pp.2–7 (workbook mirror of the student lesson, with map and ranking tasks not in the student book) |
 | Countries and nationalities — Morocco→Moroccan, Algeria→Algerian, Mali→Malian, England→English, Japan→Japanese — with jobs words | Mauritania, Study English, Grade 7, printed pp.21–22 |
 | “My country” — countries and nationalities; I'm from…; Where are you from? | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 3, Lesson 1, printed pp.33–37 |
+| Languages spoken in European countries (which language in France, Spain, Poland) | Mongolia, English XI, Unit 1, printed p.9 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Iran, Mauritania, Greece).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Bolivia, Iran, Mauritania, Greece, Mongolia).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the compendium's Year 1 countries-and-nationalities set with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The Grade 7 student book's own countries-and-nationalities teaching (printed pp. 13–14) is stocked in Hello and Your Name, where its introduction dialogue lives; this lesson carries the compendium's paired set. The Bolivia source here is the teacher compendium — teacher-compilation evidence, cited as such, never as a student's book. Iran joins (stocked 2026-11-09 by the re-verification sweep merge): Prospect 2 opens Grade 8 with the country/nationality system as a whole lesson of its own, and its workbook practises the system on a labelled map and FIFA rankings.
 

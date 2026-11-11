@@ -16,6 +16,8 @@ Every part traces to its book and page.
 
 **Book 6:** C
 
+**Book 7:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Grammar focus (as named): participle adjectives (-ed and -ing adjectives); the contrast sets "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" — TEACHER'S-GUIDE evidence | Albania, Akelius Chapter 36, overview, printed pp.38–39, and sample plan, printed pp.40–41 (the sample-plan page corrected 2026-11-08 by the re-verification sweep — the plan was cited at pp.38–39, which are the overview only) |
@@ -25,6 +27,7 @@ Every part traces to its book and page.
 | Passive-style -ed expressions — be inspired by, be amazed by, be surprised by, be fascinated by, be impressed by, be interested in, taught with a heroine reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 16 |
 | -ed and -ing adjectives — bored/boring, interested/interesting, excited/exciting, tired/tiring, worried/worrying, surprised/surprising: -ed for how a person feels, -ing for what causes it | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 24–25 |
 | Be inspired by — passive-style -ed expressions (be inspired/amazed/surprised/fascinated/impressed by, be interested in) with a national-heroine text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 93–94 |
+| Participle adjectives, -ed and -ing (bored/boring, fascinated/fascinating) | Mongolia, English XII, Unit 10, printed pp.179–180 |
 
 **Acceptance count: taught in 5 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia).**
 

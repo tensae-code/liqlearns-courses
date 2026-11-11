@@ -1,6 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Indonesia, Mauritania
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Indonesia, Mauritania, Mongolia
 
 Every part traces to its book and page.
 
@@ -27,6 +27,8 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 10:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The blog model with SIX BLOG TIPS — a title that catches attention first among them; the writer's name and date as part of the kind | Egypt, Primary 6 Term 2 (the Wadi El-Hitan blog model, as filed in EGYPT-BOOK-MAP.md) |
@@ -41,8 +43,9 @@ covers the 6th Year book only).
 | Creating captions and comments for social-media posts | Indonesia, English for Nusantara Grade 8, Chapter 3, printed p.148 |
 | Producing an argumentative-text podcast — the argument text taken to audio for an online audience | Indonesia, Life Today Grade 12, Unit 3, printed p.84 (podcast format only; the argumentative text itself is filed with its own lessons, and no book podcast text is reproduced) |
 | Commenting on ideas and posts: positive and negative comment phrases — what a great post, this post really resonates with me, it was boring / it was brilliant | Mauritania, Study English, Grade 13, printed pp.11–13 |
+| Blog reading: football obsession in England | Mongolia, English XI, Unit 7, printed p.109 |
 
-**Acceptance count: taught in 6 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+**Acceptance count: taught in 7 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
 Mauritania comments on posts with a positive/negative phrase
 set in its Grade 13 book (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge).
+re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

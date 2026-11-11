@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia
+countries: Indonesia, Mongolia
 
 Every part traces to its book and page.
 
@@ -10,11 +10,18 @@ Every part traces to its book and page.
 
 **Book 3:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 4:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 5:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — likes and dislikes said together | Indonesia, English for Nusantara Kids Grade 6, printed p.17 |
 | Sub lesson 2 — naming your favourite activity | Indonesia, English for Nusantara Kids Grade 3, "My Favorite Activity," printed p.18 |
 | Sub lesson 3 — hobbies named and talked about | Indonesia, English for Nusantara Grade 7, Chapter 1, printed p.28 |
 | Sub lesson 4 — asking about likes and hobbies | Indonesia, the same three books' class-survey work (Grades 3, 6 and 7, as above) |
+| Hobbies and pastimes (board games, sky diving, blogging, bird watching, knitting) | Mongolia, English XI, Unit 7, printed p.114 |
+| Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
+| School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 1 country (Indonesia).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land.
+**Acceptance count: taught in 2 countries (Indonesia, Mongolia).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

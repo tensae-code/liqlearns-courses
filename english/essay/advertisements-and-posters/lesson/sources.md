@@ -1,6 +1,6 @@
 # Sources — Advertisements and posters
 
-countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece
+countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -40,6 +40,10 @@ verification sweep.
 
 **Book 14:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
 
+**Book 15:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 16:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four consumer-product types (convenience, shopping, speciality, unsought); advertising methods (social media, posters, radio, public display) and audiences; creating and performing an advertising speech | Cambodia, ENGLISH Grade 12, Unit 17 'Advertising', printed pp.93–98 |
@@ -65,5 +69,10 @@ verification sweep.
 | Office Clerks Unit 5.6 “TV ads have to give the viewer a break” | Greece, English for Office Clerks, Unit 5.6, printed p.273 |
 | Office Clerks Unit 6.3 “The creative urge” — advertising creativity | Greece, English for Office Clerks, Unit 6.3, printed p.322 |
 | Office Clerks Unit 6.5 “Promotions” — promotional writing | Greece, English for Office Clerks, Unit 6.5, printed p.330 |
+| Reading: college job-centre adverts | Mongolia, English XI, Unit 2, printed p.34 |
+| Writing an information leaflet about flood preparedness | Mongolia, English XI, Unit 5, printed p.82 |
+| Reading gadget adverts; the layout of an advertisement | Mongolia, English XI, Unit 8, printed p.126 |
+| Writing a holiday advertisement for a Mongolian destination | Mongolia, English XI, Unit 9, printed p.144 |
+| Do's and don'ts for visitors (America; tips for tourists in Mongolia) | Mongolia, English XII, Unit 5, printed pp.92–93 |
 
-**Acceptance count: taught in 9 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced.
+**Acceptance count: taught in 10 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

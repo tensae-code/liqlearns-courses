@@ -56,6 +56,8 @@ re-verification sweep.
 
 **Book 15:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
 
+**Book 16:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The feelings vocabulary list of 17: bored, cold, hot, confused, disappointed, tired, hungry, thirsty, surprised, nervous, happy, sad, upset, excited, afraid, brave, amused — carried under a hobbies-and-abilities heading after "knowing my town" and the and/but connectors | Bolivia, Year 2 (Grade 8), Topic 7 "Feelings and emotions," §2.3, student p.178 |
@@ -79,6 +81,8 @@ re-verification sweep.
 | Workbook “Seeing Through a Friend's Eyes” — practice on the senses words with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 7, Lesson 20, WB printed pp.73–82 |
 | “Expressing Attitude” — will/won't and should for opinions; words for gestures and dreams | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 4, Lesson 2, printed pp.41–44 |
 | Workbook “Expressing Attitude” — practice of opinion forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, Lesson 2, WB printed pp.45–54 |
+| Feelings and emotion words (upset, relaxed, nervous, embarrassed, amazed) | Mongolia, English XII, Unit 1, printed p.19 |
+| Emotional intelligence: the EI test and its vocabulary | Mongolia, English XII, Unit 1, printed pp.19–21 |
 
 **Acceptance count: taught in 8 countries (Albania, Bolivia,
 Mexico, Mongolia, China, Indonesia, India, Greece).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single

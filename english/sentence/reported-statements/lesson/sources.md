@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -132,6 +132,10 @@ verification sweep.
 
 **Book 26:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
 
+**Book 27:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 28:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -166,10 +170,12 @@ verification sweep.
 | “Alternative sources of energy!” — conditional forms inside reported speech; electricity words | Greece, Think Teen! Grade 9 Student's Book, Unit 9, Lesson 2, printed p.101 |
 | Workbook Unit 9 (contents title: “What's the weather like?” — the energy unit), lessons 1–3 — practice of reported speech with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 9, WB printed pp.97–106 |
 | The Grade 9 teacher's guide for Unit 9 (the energy unit) | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.143 |
+| Reported statements: backshift and word changes (this → that) | Mongolia, English XI, Unit 9, printed pp.146–147 |
+| Reported statements (tense changes) | Mongolia, English XII, Unit 9, printed p.161 |
 
-**Acceptance count: taught in 13 countries (Armenia,
+**Acceptance count: taught in 14 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
-Nepal, Sudan, Indonesia, Mexico, India, Greece).** Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
+Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -194,6 +200,6 @@ by the re-verification sweep merge).
 The sweep also stocked Mauritania's Grade 11 backshift chart
 and present-reporting-verb lesson, and Grade 13's advanced
 table (stocked 2026-11-09 by the Mauritania re-verification
-sweep merge). Mexico's Grade 9 book teaches direct speech against reported speech, and closes the course with the whole backshift table (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+sweep merge). Mexico's Grade 9 book teaches direct speech against reported speech, and closes the course with the whole backshift table (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

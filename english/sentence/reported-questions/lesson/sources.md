@@ -1,6 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -70,6 +70,8 @@ verification sweep.
 
 **Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Advanced — Προχωρημένοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book.
 
+**Book 14:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported WH- QUESTIONS with their own backshift chart, inside the Nasreddin tale lesson | Mauritania, Study English Grade 12, Unit Five, Lesson 12, pp.37–39 |
@@ -86,9 +88,10 @@ verification sweep.
 | “Against the Odds” — people who overcame adversity; reported questions | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 7, Lesson 19, printed p.121 |
 | Workbook “Against the Odds” — practice of reported questions with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 7, Lesson 19, WB printed pp.73–82 |
 | The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
+| Reported questions (wh- and if/whether) | Mongolia, English XII, Unit 9, printed p.164 |
 
-**Acceptance count: taught in 10 countries (Cambodia,
-China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece).** Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Cambodia,
+China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia).** Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.
@@ -107,4 +110,4 @@ as filed: it teaches the same straight order as object
 clauses inside polite requests and never teaches
 reported speech. Indonesia teaches reported questions in
 its Grade 9 time-travel chapter (stocked 2026-11-09 by
-the re-verification sweep merge).
+the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

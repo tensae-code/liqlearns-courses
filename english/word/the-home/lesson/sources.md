@@ -161,6 +161,8 @@ verification sweep.
 
 **Book 51:** Greece Think Teen! 1st Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 7: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook carries a new reading text for every student-book lesson.
 
+**Book 52:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -259,6 +261,7 @@ verification sweep.
 | The house and its rooms: a house cross-section poster, furniture flashcards (desk, bed, table, chair, sofa, lamp) and kinds of houses (tree house, castle, kennel) | Greece, Alpha English Grade 1 Workpack, house set (A_B17), PDF pp.54–58 |
 | “Feel at home!” — there is/are, some/any, prepositions of place; my room, places and buildings | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 2, Lesson 3, printed p.18 |
 | Workbook “Feel at home!” — new texts: signs and notices; an article about London; writing a paragraph about a girl's neighbourhood | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 2, Lesson 3, printed p.17 |
+| Parts of a building and building materials (roof, basement, balcony, column, window pane; bricks, concrete, granite) | Mongolia, English XI, Unit 4, printed p.57 |
 **Acceptance count: taught in 34 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
 Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for

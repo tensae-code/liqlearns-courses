@@ -55,6 +55,8 @@ the 2026-11-08 re-verification sweep.
 
 **Book 11:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
 
+**Book 12:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1, Lesson 5 "Time": compound words (foot+ball, hour+glass, sun+dial…) inside the sundials/water-clock/hourglass reading | Sudan, SMILE Book 7 (Grade 7), Unit 1, Lesson 5, printed pp.1–8 |
@@ -69,6 +71,7 @@ the 2026-11-08 re-verification sweep.
 | Language work in the Notes: adjectival collocations; common medical terms; extinction of language and language preservation — cited from the book's Notes | India — Hornbill (Class 11), Language work in Discovering Tut, printed p.30 (Notes) |
 | “The bravest student” — verbs followed by gerund; compound nouns | Greece, Think Teen! Grade 9 Student's Book, Unit 3, Lesson 2, printed p.29 |
 | Workbook “The bravest student” — practice on compound nouns with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 2, WB printed pp.34–41 |
+| Compound nouns, abstract nouns and complex noun phrases | Mongolia, English XI, Unit 8, printed pp.121–122 |
 
 **Acceptance count: taught in 8 countries (Albania,
 Barbados, Mongolia, Sudan, Vietnam, China, India, Greece).** Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the

@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -174,6 +174,10 @@ verification sweep.
 
 **Book 55:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
 
+**Book 56:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 57:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -300,10 +304,14 @@ verification sweep.
 | Workbook Unit 2 (Teen idols), lessons 1–3 — practice of the present perfect with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 2, WB printed pp.22–33 |
 | The Grade 9 teacher's guide for Unit 2 “Teen idols” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.23 |
 | “A Sport for Everyone” — present perfect; since/for; comparisons as…as, the same as; ordinal numbers; either…or, neither…nor, both…and; word building in -ful/-less; phrasal verbs; the Paralympic Games | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.10–11 |
+| Present perfect with so far, lately, all my life | Mongolia, English XI, Unit 3, printed p.43 |
+| Present perfect review (news and experience uses) | Mongolia, English XI, Unit 5, printed p.75 |
+| Present perfect simple, active and passive | Mongolia, English XII, Unit 2, printed pp.32–35 |
+| Past simple vs present perfect | Mongolia, English XII, Unit 6, printed pp.110–111 |
 
 
-**Acceptance count: taught in 28 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India).** India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 29 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia).** India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -330,7 +338,7 @@ books are read (see READING-QUEUE.md).
 Mauritania teaches the present perfect in Grade 11 —
 experience, then duration with for/since — and again for
 duration in Grade 12 (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's perfect spine runs through Grades 8 and 9: the form itself, ever/never and for/since, a medical for/since set, past-against-perfect contrasts in both books, just/yet/already, and closing reviews (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+verification sweep merge). Mexico's perfect spine runs through Grades 8 and 9: the form itself, ever/never and for/since, a medical for/since set, past-against-perfect contrasts in both books, just/yet/already, and closing reviews (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary
 Schools, Book Three* (MoES/RIES, 2012; full read in

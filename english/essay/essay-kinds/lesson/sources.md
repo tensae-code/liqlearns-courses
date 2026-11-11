@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -73,6 +73,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 verification sweep.
 **Book 14:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 15:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -103,9 +105,11 @@ verification sweep.
 | The compendium project: an argumentative text for a Compendium of Stories, Sayings, and Proverbs in Spanish and an Indigenous language | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 60 |
 | Argumentative writing as an essay kind: argue for or against keeping pets only by those committed to their care (or on snake charmers continuing in their profession) | India — Beehive (Class 9), Writing in The Bond of Love, printed p.121 |
 | Text Types and Purposes | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 4 (Writing), standard B7.4.2.2, PDF p.65 (curriculum evidence) |
+| Reading: a for-and-against essay on the internet for young people | Mongolia, English XII, Unit 9, printed pp.160–161 |
+| Writing a for-and-against essay (cell phones in class; Facebook) | Mongolia, English XII, Unit 9, printed pp.162, 170 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Bolivia,
+Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -113,6 +117,6 @@ and conclusions as separate skills; India names the
 essay's four characteristics; Indonesia gives three
 kinds labelled structures of their own; Sierra Leone
 builds the five-paragraph essay and lessons for its
-kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

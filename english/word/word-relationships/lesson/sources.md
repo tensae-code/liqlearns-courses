@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -115,6 +115,10 @@ verification sweep.
 
 **Book 22:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
 
+**Book 23:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 24:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -151,9 +155,17 @@ verification sweep.
 | The whole Beginners glossary: unit-by-unit vocabulary with definitions, examples, synonyms, antonyms, derived forms and Greek translations (apparatus) | Greece, Think Teen! Grade 8 Beginners Glossary, PDF pp.3–79 |
 | “The Seven Wonders” — phrases with 'and'; adjectives from a survey | Greece, Think Teen! Grade 9 Student's Book, Unit 1, Lesson 2, printed p.5 |
 | Workbook “The Seven Wonders” — practice of 'and' phrases with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 1, Lesson 2, WB printed pp.5–20 |
+| Synonyms drawn from the biography texts | Mongolia, English XI, Unit 3, printed p.42 |
+| Expedition words defined (trade route, navigator, expedition, circumnavigate, scurvy, endeavour) | Mongolia, English XI, Unit 9, printed p.137 |
+| Voyage words defined (apprenticeship, navy, coral, passage, merchant) | Mongolia, English XI, Unit 9, printed p.140 |
+| Landscape words defined (ridge, brook, vast, splendid, dominate, quench) | Mongolia, English XI, Unit 10, printed p.154 |
+| Archaeology words defined (excavation, exploration, aristocrat, tomb, artifact, depict) | Mongolia, English XI, Unit 10, printed p.157 |
+| Mongolian music and art words defined (horse-head fiddle, khoomii, tsuur, limbe, contortion) | Mongolia, English XII, Unit 4, printed p.70 |
+| Theme-park words defined (theme park, resort, roller coaster, exhibit, cuisine) | Mongolia, English XII, Unit 5, printed p.88 |
+| Film genres matched to their definitions | Mongolia, English XII, Unit 10, printed p.180 |
 
-**Acceptance count: taught in 10 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 11 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia).** Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -171,6 +183,6 @@ opposites, and sorting words into categories (stocked
 their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 teacher guide names synonyms and antonyms
 as taught content (teacher evidence; stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

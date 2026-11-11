@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -66,6 +66,8 @@ verification sweep.
 
 **Book 18:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
 
+**Book 19:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -88,8 +90,9 @@ verification sweep.
 | Form noticed: the past perfect — form picked out of the story and its use explained | India — Flamingo (Class 12), Noticing form in The Last Lesson, printed p.10 |
 | “An Earth Day Story” — sequencing past actions; past perfect simple; environment words | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 9, Lesson 1, contents p.xi |
 | “Technology” — future forms (will, present simple, present continuous, going to); past perfect simple; the passive and why we use it; prepositions of time and place; phrasal verbs (call for, take over, shut down, take place); opposite adjectives in in-/ir-/il-/im-; poem writing | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.9–10 |
+| Past perfect for the earlier of two past events | Mongolia, English XI, Unit 3, printed p.44 |
 
-**Acceptance count: taught in 14 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

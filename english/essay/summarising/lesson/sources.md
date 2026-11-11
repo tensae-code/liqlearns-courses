@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -40,6 +40,10 @@ PASSED 2026-11-06).
 
 **Book 7:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 8:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 9:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,14 +60,17 @@ PASSED 2026-11-06).
 | Summarising — Summarise level-appropriate texts/passages orally | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.10.1, PDF p.128 (curriculum evidence) |
 | Summarizing — Summarise level-appropriate passages/text orally | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.10.1, PDF p.203 (curriculum evidence) |
 | Use summarising to understand key ideas in a range | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 2 (Reading), standard B7.2.2.1, PDF p.47 (curriculum evidence) |
+| Writing a summary, with summary-writing rules | Mongolia, English XI, Unit 8, printed p.135 |
+| Reading: the world's languages are disappearing (Ethnologue) — and summarising it | Mongolia, English XII, Unit 6, printed pp.100–101 |
+| Writing a summary from notes (the Mongolian script) | Mongolia, English XII, Unit 6, printed p.104 |
 
-**Acceptance count: taught in 5 countries (India,
-Mauritania, Sudan, South Sudan, Malaysia).** India
+**Acceptance count: taught in 6 countries (India,
+Mauritania, Sudan, South Sudan, Malaysia, Mongolia).** India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
 rules; South Sudan sets summaries by length and by story
 headings; Malaysia teaches the Someone–Wanted–So–But–
-Then story frame.
+Then story frame. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

@@ -1,6 +1,6 @@
 # Sources — News writing
 
-countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece
+countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -51,6 +51,10 @@ verification sweep.
 
 **Book 11:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 12:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 13:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Headlines and news stories; subject–verb–object word order ('There was a big storm last night') | Cambodia, ENGLISH Grade 12, Unit 15 'In the news', printed pp.81–86 (Lesson A) |
@@ -69,5 +73,8 @@ verification sweep.
 | A newspaper report written from given notes (Einstein's handwritten manuscript unearthed, 21 August 2005) | India — Beehive (Class 9), Writing in A Truly Beautiful Mind, printed p.51 |
 | The interview turned into a short newspaper report of its salient points | India — Flamingo (Class 12), Writing after The Interview, printed p.75 |
 | “School Reporting!” — making a school newspaper; punctuation marks words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 8, Lesson 3, printed p.127 |
+| Writing a news article about the 2008 China earthquake | Mongolia, English XI, Unit 5, printed p.87 |
+| Writing a newspaper article about a festival (horse race; Golden Eagle Festival) | Mongolia, English XII, Unit 4, printed p.72 |
+| Writing a news article about a wedding ceremony | Mongolia, English XII, Unit 4, printed p.80 |
 
-**Acceptance count: taught in 8 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced 'School Reporting!' newspaper lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a newspaper report written from notes in Class 9, and the interview turned into a newspaper report in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 7 Advanced 'School Reporting!' newspaper lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a newspaper report written from notes in Class 9, and the interview turned into a newspaper report in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -52,6 +52,8 @@ verification sweep.
 
 **Book 18:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
 
+**Book 19:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The procedure shape — goal, ingredients/materials, steps — in recipes and a craft procedure (an instant-porridge pack as a first procedure; making a pencil holder) | Indonesia, Grade 7, Chapter 2 'Culinary and Me', printed pp.57–100 (as filed in indonesia.md) |
@@ -79,5 +81,6 @@ verification sweep.
 | Electricity Unit 11 “Repairing electric cookers” — describing a procedure; imperatives; before/after/prior to + gerund; linking words | Greece, ESP Coursebook: ELECTRICITY, Unit 11 |
 | Hotel Unit 13 “Understanding and giving instructions (1)” — instruction language | Greece, English for the Hotel and Tourist Trade, Unit 13, printed p.221 |
 | Hotel Unit 14 “Understanding and giving instructions (2)” — instruction language | Greece, English for the Hotel and Tourist Trade, Unit 14, printed p.237 |
+| Writing how-to instructions (doing yoga) in the present simple passive | Mongolia, English XII, Unit 1, printed p.26 |
 
-**Acceptance count: taught in 8 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.
+**Acceptance count: taught in 9 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

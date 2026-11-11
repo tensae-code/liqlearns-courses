@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -50,6 +50,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 9:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Interview preparation advice — dress, punctuality, phone, body language; preparing for an interview and talking about experience; the information interviewers ask for; answering interview questions with quality adjectives (reliable, punctual, co-operative) | Cambodia, Grade 12, Unit 31 "At a job interview", printed pp.169–174 (teacher's-book spread as filed) |
@@ -61,9 +63,10 @@ verification sweep.
 | Career writing as interview preparation: write a paragraph or two on making a career of your hobby (after consulting an expert/reference work) | India — First Flight (Class 10), Writing in Hundred Dresses, printed p.82 |
 | Interviewing as a thing to do (About the Unit): interview a person you admire and record it in writing | India — Flamingo (Class 12), Things to do in The Interview, printed p.76 (About the Unit) |
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
+| Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Egypt, Libya, Laos, Armenia, Mauritania, India).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 8 countries (Cambodia,
+Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -74,4 +77,4 @@ be confirmed in the Iraq filing — no STAR teaching was
 found there — so Iraq is not counted here.
 Mauritania interviews with present-perfect experience
 questions in its Grade 12 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

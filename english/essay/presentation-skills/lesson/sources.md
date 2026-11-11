@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -73,6 +73,10 @@ verification sweep.
 
 **Book 16:** Greece Αγγλικά Γενικού Λυκείου 2 (Anglika Genikou Lykeiou 2), Grades 11–12: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11–12 — Αγγλικά 2 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Same construction as the Grade 10 volume: thematic units of video/reading/discussion/project tasks.
 
+**Book 17:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 18:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Appendix IV — "How to Prepare a Presentation": eight practical tips (organise, open strongly, define terms, finish with a bang, slides, timing, notes, practice) | Syria, Emar Workbook 12, Scientific Section, Appendixes, printed pp.100–104 (Appendix IV at p.104) |
@@ -105,9 +109,13 @@ verification sweep.
 | “This is my school” (project) — finding information about your school and presenting it on a poster | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 1, Lesson 3, printed pp.18–20 |
 | Unit 1 “Group Work” — getting to know each other, pair interviews reported to the class, a group survival-choice task | Greece, Αγγλικά Γενικού Λυκείου 1 (Grade 10), Unit 1, printed p.9 |
 | Unit 1 “Group Work” — class group tasks and presentations | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 1, printed p.9 |
+| Giving a short presentation: greeting, body and conclusion phrases | Mongolia, English XI, Unit 1, printed p.13 |
+| Lifelong-learning tips; preparing a talk | Mongolia, English XII, Unit 2, printed p.36 |
+| Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
+| Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 8 countries (Syria,
-Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece).** Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 9 countries (Syria,
+Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -116,6 +124,6 @@ presentation as real class work. China presents twice: a
 child's school-life PPT picked over for mistakes in
 Grade 6, and the learner's own graduation speech at
 Grade 9 (stocked 2026-11-08 by the re-verification
-sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

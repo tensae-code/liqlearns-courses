@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -114,6 +114,8 @@ differ only in cover wording and colophon; cited once.
 
 **Book 23:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
 
+**Book 24:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -142,9 +144,10 @@ differ only in cover wording and colophon; cited once.
 | “The Problem Page” — asking for and giving advice; an advice letter; letter-writing set phrases (the contents page prints 'singing off' for the body's 'signing off' — taught corrected) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 8, Lesson 3, contents p.x |
 | “Your problem sorted!” — giving advice and reasons; modals must/mustn't/don't have to/may/might/should; feelings adjectives | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 3, Lesson 2, printed p.33 |
 | Office Clerks Unit 5.2 “Pieces of advice on organising a trip” — advice-giving texts | Greece, English for Office Clerks, Unit 5.2, printed p.257 |
+| Study skills (setting goals, time management, organisation, note-taking) and modals for advice (ought to, had better, might want to, why don't…) (The unit's grammar box, printed p.29, prints the model sentence “She might not want go out this weekend” with the “to” missing; taught corrected.) | Mongolia, English XII, Unit 2, printed pp.28–30 |
 
-**Acceptance count: taught in 13 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+**Acceptance count: taught in 14 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -175,4 +178,4 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania gives advice with the full modal ladder in its
 Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

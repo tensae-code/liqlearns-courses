@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -106,6 +106,10 @@ verification sweep.
 
 **Book 33:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
 
+**Book 34:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 35:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -153,9 +157,14 @@ verification sweep.
 | Electricity Unit 7 “Electricians” — the trade and its people | Greece, ESP Coursebook: ELECTRICITY, Unit 7 |
 | Hotel Unit 21 “Hotel and restaurant personnel” — the jobs of a hotel and restaurant | Greece, English for the Hotel and Tourist Trade, Unit 21, Section D |
 | Office Clerks Unit 6.7 “The management field” — management jobs and roles | Greece, English for Office Clerks, Unit 6.7, printed p.340 |
+| Job words grouped by workplace (architect, pharmacist, lawyer, flight attendant, therapist, cashier) | Mongolia, English XI, Unit 2, printed p.25 |
+| Skills questionnaire: matching skills to suitable jobs, and writing about them | Mongolia, English XI, Unit 2, printed pp.28–29 |
+| Reading: jobs that technology is changing, and jobs that are disappearing | Mongolia, English XI, Unit 2, printed p.33 |
+| Soft skills (communication, leadership, teamwork, critical thinking) | Mongolia, English XII, Unit 3, printed p.46 |
+| Multiple intelligences matched to careers | Mongolia, English XII, Unit 3, printed pp.49–50 |
 
-**Acceptance count: taught in 10 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 11 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -171,4 +180,4 @@ twice: the family-jobs set in Grade 4, and at Grade 6 a
 whole people's-jobs unit — the job set, interviews, job
 advertisements, work duties and future jobs (stocked
 2026-11-08 by the re-verification sweep). Other closed countries
-join as their books are read (see READING-QUEUE.md).
+join as their books are read (see READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

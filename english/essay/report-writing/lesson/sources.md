@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -26,6 +26,10 @@ re-verification sweep.
 
 **Book 9:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
 
+**Book 10:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 11:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition — a serious document giving information, usually with advice — and the task size (150–180 words) | Egypt, Secondary 11 Term 1, Unit 4, Lesson 5, Tip Box p.57; task as printed with the unit |
@@ -38,5 +42,9 @@ re-verification sweep.
 | REPORT WRITING taught as an explicit lesson: a model report (Uncle Lal's dairy farm) and printed rules — give a good title, keep to the subject, keep the right order, write neatly | India — Marigold Book Five (Class 5), Unit 1 writing |
 | “Catastrophes” — idiomatic forms; similes; report writing | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 3, printed p.117 |
 | Workbook “Catastrophes” — practice of report writing with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, Lesson 3, WB printed pp.108–117 |
+| Writing a comparison of two provinces from their statistics | Mongolia, English XI, Unit 10, printed p.163 |
+| Reading: a survey report on college life, and its parts | Mongolia, English XII, Unit 2, printed pp.31–33 |
+| Completing a survey report from a pie chart | Mongolia, English XII, Unit 2, printed p.33 |
+| Reading a bar graph of community service; surveying the class and describing the results | Mongolia, English XII, Unit 3, printed pp.55–57 |
 
-**Acceptance count: taught in 7 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece).** Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced.
+**Acceptance count: taught in 8 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia).** Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

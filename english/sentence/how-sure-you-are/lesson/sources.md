@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -100,6 +100,8 @@ differ only in cover wording and colophon; cited once.
 
 **Book 22:** Greece ESP Coursebook: ELECTRICITY, EPAL (Electrical / Electronics / Automation sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0513. Filed in english/books/greece.md (ESP Electricity section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Each unit carries FUNCTIONS and STRUCTURES tables.
 
+**Book 23:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -134,9 +136,11 @@ differ only in cover wording and colophon; cited once.
 | The Grade 9 teacher's guide for Unit 7 “Shades of meaning!” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.107 |
 | “Farm management” — obligation and advice forms; the passive; purpose clauses (to, so that) | Greece, Exploiting the Earth, Part A18, printed p.110 |
 | Electricity Unit 12 “The electrical trade” — must/have to; should/ought to/had better; expressing opinion and preference | Greece, ESP Coursebook: ELECTRICITY, Unit 12 |
+| Modals of obligation, permission and prohibition (have to, must/mustn't, be allowed to, be supposed to) | Mongolia, English XI, Unit 5, printed p.78 |
+| Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 
-**Acceptance count: taught in 11 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 12 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -159,6 +163,6 @@ re-verification sweep merge).
 Mauritania grades the modals in Grade 12 (may/might; the
 prediction shades) and charts the whole system — ability,
 deduction, requests, certainty — in Grade 13 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

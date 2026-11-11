@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia
 
 Every part traces to its book and page.
 
@@ -151,6 +151,8 @@ Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 **Book 45:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
+**Book 46:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -237,9 +239,10 @@ differ only in cover wording and colophon; cited once.
 | Finding the idea of a text as a taught procedure — the scanning and skimming steps printed in full in the guide ("read it quickly to get a general idea; go over it quickly trying to find a specific piece of information; read it again in detail"), then a titled reading worked for its main idea, its topic and its topic sentence, with the Keep in mind note: "The topic sentence expresses the main idea of the paragraph" | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 15, guide printed pp.88–92 |
 | Popular-science texts against news articles: their purposes, and facts against opinions, beliefs and evidence | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed pp. 11–13 |
 | Determine and analyse central and supporting ideas in a text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 2 (Reading), standard B7.2.2.2, PDF p.47 (curriculum evidence) |
+| Reading: a "Teen" newspaper article on leisure activities — finding the topic and the main idea | Mongolia, English XII, Unit 1, printed pp.10–11 |
 
-**Acceptance count: taught in 28 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 29 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -283,7 +286,7 @@ paragraph-level evidence hunting and true/false/not-given
 work, and Workbook 12B — workbook only — completes a
 main-idea/supporting-ideas table for an article on Venus.
 Rwanda stocks the hunt in part — no read Rwanda book names the main idea, and none works gist, headings or paragraph titles, but skimming and scanning are explained as reading skills in P5 and P6, each with its own extract, and P5's Reading unit test sets skimming, scanning and summarising tasks on a story — the fast hunt for what a text carries, without the idea ever being named. Other closed countries join as their books are
-read (see READING-QUEUE.md). Mexico's Grade 8 book teaches learners to tell popular-science texts from news articles — their purposes, and facts against opinions, beliefs and evidence (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+read (see READING-QUEUE.md). Mexico's Grade 8 book teaches learners to tell popular-science texts from news articles — their purposes, and facts against opinions, beliefs and evidence (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 

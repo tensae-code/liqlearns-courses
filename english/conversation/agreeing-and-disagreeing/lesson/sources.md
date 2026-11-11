@@ -72,6 +72,10 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 11:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 12:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Free-time activities; like / love / hate / don't mind + -ing; agreeing and disagreeing with preferences ("So do I", "Neither do I", "I don't") | Cambodia, ENGLISH Grade 10, Unit 8 "Leisure activities", printed pp.41–46 |
@@ -87,6 +91,8 @@ differ only in cover wording and colophon; cited once.
 | Agreeing and disagreeing, polite against informal (I'm afraid I can't agree; nonsense; you're mistaken; definitely; absolutely) | Mauritania, Study English, Grade 10, printed pp.27–29 |
 | Agreeing fully and partially, asking for clarification of an opinion, and disagreeing (I couldn't agree more; I agree up to a point; could you explain…; that's not how I see it), in a violent-sports argument text | Mauritania, Study English, Grade 13, printed pp.35–37 |
 | The tombola-games project: designing games that favour democratic decision-making and assertive attitudes — agreeing and disagreeing practised as a civic skill | Mexico, Grade 8, Project 12 "Democratic Decision Making and Assertive Attitudes", printed p. 96 |
+| Opinion, agreement and disagreement phrases | Mongolia, English XI, Unit 7, printed p.107 |
+| How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 
 **Acceptance count: taught in 7 countries (Cambodia,
 Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico).** Mongolia

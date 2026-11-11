@@ -110,6 +110,10 @@ the 2026-11-08 re-verification sweep.
 
 **Book 27:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
 
+**Book 28:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 29:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -156,6 +160,20 @@ the 2026-11-08 re-verification sweep.
 | “Save the turtle” — review of tenses and modals; environment words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 7, Lesson 3, printed pp.81–84 |
 | Workbook “Save the turtle” — practice on environment words with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 7, Lesson 3, WB printed pp.76–86 |
 | “Basic anatomy of the tree” — tree-part vocabulary and description | Greece, Exploiting the Earth, Part A7, printed p.44 |
+| Natural disaster words with definitions (flood, wildfire, earthquake, avalanche, drought, hurricane) | Mongolia, English XI, Unit 5, printed p.73 |
+| Reading: the dzud and its kinds (white, black, storm, iron) | Mongolia, English XI, Unit 5, printed pp.75–76 |
+| Photosynthesis words (glucose, carbon dioxide, oxygen, respiration, cell) | Mongolia, English XI, Unit 6, printed p.89 |
+| Reading: photosynthesis and respiration | Mongolia, English XI, Unit 6, printed pp.89–90 |
+| The world's biomes (forest, desert, rainforest, arctic, grassland) | Mongolia, English XI, Unit 6, printed p.92 |
+| Habitat and adaptation words defined (habitat, adaptation, symbiosis, camouflage, migration, offspring, hibernation) | Mongolia, English XI, Unit 6, printed p.93 |
+| Reading: food chains and food webs | Mongolia, English XI, Unit 6, printed pp.97–98 |
+| Reading: a pyramid of numbers (predator–prey balance) | Mongolia, English XI, Unit 6, printed pp.102–103 |
+| Mongolia's natural zones (mountain forest steppe, high mountain, taiga, steppe, desert steppe, wetland, Gobi) | Mongolia, English XI, Unit 10, printed pp.153–154 |
+| Environment words defined (precipitation, desertification, degradation, hazardous, intact, accelerate, reverse) | Mongolia, English XII, Unit 7, printed p.118 |
+| Reading: climate change and desertification in Mongolia; sea buckthorn (The text's “in 2010, 78% of the total territory would be desertified” is muddled as printed — a future-in-the-past wording for a date already past in its 2016 source; taught corrected.) | Mongolia, English XII, Unit 7, printed p.119 |
+| Reading: reduce, reuse, recycle | Mongolia, English XII, Unit 7, printed pp.121–122 |
+| Traditional Mongolian environmental laws and eco slogans | Mongolia, English XII, Unit 7, printed p.124 |
+| Kinds of pollution (air, water, soil, noise, radioactive) | Mongolia, English XII, Unit 7, printed p.127 |
 
 **Acceptance count: taught in 11 countries (Albania, Mexico,
 Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and

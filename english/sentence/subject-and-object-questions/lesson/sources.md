@@ -1,6 +1,6 @@
 # Sources — Subject and object questions
 
-countries: Cambodia, Malaysia, Indonesia, Mexico
+countries: Cambodia, Malaysia, Indonesia, Mexico, Mongolia
 
 Every part traces to its book and page.
 
@@ -47,6 +47,10 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 7:** English XI — Student's Book, Grade 11 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
+**Book 8:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Object questions (Lesson A) and subject questions (Lesson B), with distinguishing subject from object questions, over invention/discovery content — presented in the guide's spreads, the student's page reproduced beside the teacher's page | Cambodia, Grade 11 Teacher's Book, Unit 31 "General knowledge", pp.169–174 (teacher's-book spreads; student's book not held) |
@@ -56,9 +60,11 @@ colophon; cited once.
 | Subject and object questions taught as one grammar item in the survival unit, listed with question tags and negative questions | Malaysia, Form 3 Close-Up B1, Unit 7 "Extreme Situations", pp.83–94 |
 | Subject questions — asking about the doer, with no do-support | Indonesia, English for Change Grade 11, Unit 1, printed p.31 |
 | Object questions (with the auxiliary) against subject questions (no auxiliary) — who did it against who it was done to | Mexico, Grade 9, Project 1 "Afro-Mexican Communities: Stories for Inclusion", printed pp. 14–15 |
+| Subject and object questions; questions ending with a preposition | Mongolia, English XI, Unit 6, printed pp.95–96 |
+| Subject and object questions; questions with prepositions at the start or end | Mongolia, English XII, Unit 3, printed pp.53, 56–57 |
 
-**Acceptance count: taught in 4 countries (Cambodia,
-Malaysia, Indonesia, Mexico).** Cambodia carries the fullest treatment: its
+**Acceptance count: taught in 5 countries (Cambodia,
+Malaysia, Indonesia, Mexico, Mongolia).** Cambodia carries the fullest treatment: its
 Grade 11 course — evidenced by the Teacher's Book, the
 student's book not being held — devotes a whole unit to
 the pair, object questions first and subject questions
@@ -73,4 +79,4 @@ English for Change (stocked 2026-11-09 by the
 re-verification sweep merge). No
 other closed country's filing teaches the subject/object
 distinction as a named point; the lesson does not claim
-them. Mexico's Grade 9 book sets object questions against subject questions — the auxiliary against no auxiliary (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+them. Mexico's Grade 9 book sets object questions against subject questions — the auxiliary against no auxiliary (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

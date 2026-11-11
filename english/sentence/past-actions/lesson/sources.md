@@ -211,6 +211,8 @@ verification sweep.
 
 **Book 77:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
 
+**Book 78:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -399,6 +401,7 @@ verification sweep.
 | Workbook “The Right Holiday” — tense-revision practice with the unit's texts, including a Greek-holiday report and a 'Culture Shock' true/false set | Greece, Think Teen! Grade 9 Workbook, Unit 1, Lesson 1, WB printed pp.5–20 |
 | “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
 | “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
+| Past tenses for storytelling (past simple, past continuous, past perfect) | Mongolia, English XII, Unit 6, printed pp.107–108 |
 **Acceptance count: taught in 33 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India).** India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the

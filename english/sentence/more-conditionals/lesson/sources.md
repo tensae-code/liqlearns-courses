@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia
 
 Every part traces to its book and page.
 
@@ -62,6 +62,8 @@ the 2026-11-08 re-verification sweep.
 
 **Book 15:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
 
+**Book 16:** English XII — Student's Book, Grade 12 — Mongolia, Ministry of Education, Culture, Science and Sports, 2019 (2nd printing), ISBN 978-99978-61-93-1. Read page by page in the 2026-11-08 re-verification sweep, from the Ministry's econtent.edu.mn flipbook (the english/books/mongolia.md filing covers Grades 5–10; the sweep's placements for this book stand in the sweep record).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -82,10 +84,12 @@ the 2026-11-08 re-verification sweep.
 | “If I were…” — second conditional; word formation; prepositional phrases | Greece, Think Teen! Grade 9 Student's Book, Unit 5, Lesson 2, printed p.53 |
 | “An attractive tourist destination” — extension of first and second conditional | Greece, Think Teen! Grade 9 Student's Book, Unit 5, Lesson 3, printed p.57 |
 | Workbook Unit 5 lessons 2–3 — practice of the second conditional with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 5, WB printed pp.53–63 |
+| Second conditional | Mongolia, English XII, Unit 9, printed p.155 |
+| Third conditional | Mongolia, English XII, Unit 9, printed p.159 |
 
-**Acceptance count: taught in 11 countries (Armenia,
+**Acceptance count: taught in 12 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria, Bolivia, Mauritania, India, Greece).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Syria, Bolivia, Mauritania, India, Greece, Mongolia).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -101,4 +105,4 @@ conditional base, and South Africa the subjunctive
 mood at Grade 5 HL Workbook 2.
 Mauritania teaches the unreal conditional in its Grade 11 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge).
+merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).

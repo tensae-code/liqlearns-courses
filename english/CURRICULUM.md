@@ -104,6 +104,11 @@ about the other person, and close the talk.*
   likes-dislikes-and-preferences ✅ (4 lessons — the clarification,
   gratitude, sympathy and likes/preferences teaching of
   Mauritania's Grades 7, 8, 10 and 13 books that no lesson housed)
+- **Sweep addition (2026-11-11, Mongolia re-verification sweep
+  merge):** everyday-replies-and-social-responses ✅ (1 lesson —
+  the awkward-situations teaching of Mongolia's English XI,
+  Unit 8: forgetting a name, escalator rules, which no lesson
+  housed)
 
 ## Unit 6 — Word Kinds
 *End of unit: the learner knows what each kind of word does.*
@@ -125,6 +130,11 @@ about the other person, and close the talk.*
   off, from Ghana's NaCCA strands at Basic 1–6 and its
   Upper Primary 3 guide; and spelling itself, opened by
   Ghana's Basic 4 "Use invented spelling" standard)
+- **Sweep addition (2026-11-11, Mongolia re-verification sweep
+  merge):** prepositions-after-adjectives-and-verbs ✅ (1 lesson —
+  the prepositions that belong to a word itself, from Mongolia's
+  English XI, Unit 8 and English XII, Unit 1, which no lesson
+  housed)
 
 ## Unit 7 — Words for the World
 *End of unit: the learner has words for the world around them.*
@@ -160,6 +170,10 @@ about the other person, and close the talk.*
   ships and the sea from Greece's Maritime English Volumes
   1–2 and the IMO Standard Marine Communication Phrases,
   which no lesson housed)
+- **Sweep addition (2026-11-11, Mongolia re-verification sweep
+  merge):** what-things-are-made-of ✅ (1 lesson — the material
+  adjectives and "be made of" teaching of Mongolia's English
+  XI, Unit 4, which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -724,6 +738,58 @@ content is re-pinned to General English 2 (24-0622), and the
 working-words lesson's framing now names the full EPAL
 sector set it holds (Flag 3). The English path now stands
 at **204 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-11 (MONGOLIA).** The
+2026-11-08 re-verification sweep re-read Mongolia's 8 held English
+books page by page and rebuilt the placements from the books
+themselves: 690 teaching items — 425 already in the course, 265
+MISSING — and every missing item is in this merge stocked. The
+whole gap was the top of the ladder: the Grades 5–10 books proved
+fully stocked (all 425 control items already in, citations
+verified on their pages), while *English XI* (Grade 11, 2019) and
+*English XII* (Grade 12, 2019, 2nd printing) had never been read
+for the course at all — the english/books/mongolia.md filing
+covers Grades 5–10 only — and their 265 items (126 + 139) are
+stocked here into 73 existing lessons and **3 NEW LESSONS**:
+**everyday-replies-and-social-responses** (Unit 5 — the awkward
+situations of English XI, Unit 8: forgetting a name, escalator
+rules), **prepositions-after-adjectives-and-verbs** (Unit 6 —
+English XI, Unit 8 and English XII, Unit 1: good at, different
+from, listen to, a decision on) and **what-things-are-made-of**
+(Unit 7 — English XI, Unit 4: material adjectives and "be made
+of"). The two named-NEW topics that already had homes were routed
+there and noted: countries, nationalities and languages into
+countries-and-nationalities, and free-time activities and hobbies
+into likes-and-hobbies (built by the Indonesia merge after the
+sweep's placements were written). the-big-reading takes the
+sixteen senior long readings (biographies of Angelina Jolie,
+Marie Curie and Alfred Nobel; the explorers and the Silk Road;
+the legend of Queen Alungoo; the story of Malala; a Harry Potter
+extract among them) under the same stated distinction as
+Bangladesh, Bolivia, China, Indonesia, Mexico, India and Greece
+— no complete book-length text, so Mongolia does not join the
+five complete-text countries on their terms, and every reading is
+filed as a plot summary only. Book errors are stocked taught
+corrected with the error noted: English XI's explorers page
+credits Magellan himself as the first to circumnavigate the
+globe (he died in the Philippines; Elcano completed the voyage);
+the passive exercise's dropped article ("trapped by green
+chemical called chlorophyll"); the advice unit's "She might not
+want go out"; the desertification line's "in 2010, 78% … would be
+desertified." Nothing is excluded: 690 fresh items = 425 already
+in + 265 stocked, 0 excluded. CURRICULUM's own older credits were
+verified on their pages and stand: English X's passive spread
+(pp.76–86, 131) and the IX/X conditional tables. All four of the
+diff's flags are library/record-side and are reported, not edited
+(merges never touch filings): the closed-52 inventory's framing
+of Grades 11–12 as covered; Grade 12's recorded copy (books.json
+describes a 7,798,197-byte file held nowhere; the secured copy is
+a different scan, 128,945,028 bytes, in the full-quality release);
+Grade 11's recorded mid-size asset 404ing on the API endpoint
+(the full-quality copy is secured); and books.json's Grade 6–10
+byte sizes not matching the on-disk copies (same books, different
+scans — covers, ISBNs and pagination agree). The English path now
+stands at **207 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are
