@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Andorra, Moldova, Belarus
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Andorra, Moldova, Belarus, Cuba
 
 Every part traces to its book and page.
 
@@ -138,7 +138,7 @@ Every part traces to its book and page.
 | The plane | Egypt, Grade 11 Applied, Term 1, U2 L2, printed p. 64 |
 | The sphere | Egypt, Grade 11 Applied, Term 1, U2 L3, printed p. 69 |
 
-**Acceptance count: taught in 24 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Moldova, Belarus)**.**
+**Acceptance count: taught in 25 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Moldova, Belarus, Cuba)**.**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which the chapter introduction (§6-1, printed p. 224, read from the chapter opener in the 2026-11-08 re-verification sweep) and the read-and-checked projection example (pp.238–240) are cited here.
 
@@ -241,3 +241,17 @@ The 2026-11-10 expansion read read Belarus's whole in-hand Maths set from the PD
 Belarus is added to the countries line and to the acceptance count above on its pupil-textbook rows — both books in its set are pupil textbooks and there are no teacher-evidence rows. Belarus's class for Maths is **COURSES-CLOSED for the in-hand set only** — both in-hand Maths books have been read and stocked; Mathematics 1–6 and 7–9 were never in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/belarus-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 1 item (items 246): 1 student item and 0 teacher-evidence items.
+
+**Book 14:** *Matemática 12mo grado* (student textbook, Grade 12) — Cuba, MINED, Editorial Pueblo y Educación; 490 PDF pp; printed page = PDF page − 11; items cite the book's own índice, printed pages. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap 4 teaches synthetic geometry of space | Cuba — *Matemática 12mo grado* (student textbook) — printed p. 246 |
+
+Cuba is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación). Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

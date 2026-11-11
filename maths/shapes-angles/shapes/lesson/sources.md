@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -1203,7 +1203,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 | Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
-**Acceptance count: taught in 53 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 54 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries first plane shapes and
 shape-making in Primary 1 (Japanese-collaboration series),
@@ -2046,3 +2046,57 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 12 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 17 items (items 19, 26, 31, 52, 53, 54, 62, 74, 84, 93, 97, 116, 120, 136, 140, 154, 195): 11 student items and 6 teacher-evidence items.
+
+**Book 4:** *Matemática 3er grado* (student textbook, Grade 3) — Cuba, Editorial Pueblo y Educación; Biblioteca (Perfeccionamiento) edition, 354 PDF pp; printed page = PDF page − 13; items cite the book's own index, printed pages. The MINED portal edition (©1990, 18th reprint 2019) was verified against it — one work, cited once. Pupil textbook.
+
+**Book 6:** *Matemática 4to grado* (student textbook, Grade 4) — Cuba, Editorial Pueblo y Educación, ©1991, 11th reprint 2013, ISBN 978-959-13-0069-0; 218 PDF pp; printed page = PDF page − 5. Held twice as byte-identical copies (MD5 01c106741b186cf28d360854a40d7e93) — cited once. Pupil textbook.
+
+**Book 7:** *Matemática 5to grado* (student textbook, Grade 5) — Cuba, Editorial Pueblo y Educación; Rizo Cabrera et al., ©1989, 13th reprint 2013, ISBN 978-959-13-0135-2; 396 PDF pp — the complete file, 77,146,019 B (the record's 36,868,096 B is a truncated copy); held twice byte-identical (MD5 b48e28b1df820e2451bb44eb33b5ac11), cited once; printed folios as verified on each sampled page (the scan's second half is not folio-monotonic). Pupil textbook.
+
+**Book 8:** *Matemática 6to grado* (student textbook, Grade 6) — Cuba, MINED, Editorial Pueblo y Educación; 256 PDF pp; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 9:** *Matemática 7mo grado* (student textbook, Grade 7) — Cuba, MINED, Editorial Pueblo y Educación; 483 PDF pp; printed page = PDF page − 10 as sampled; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 10:** *Matemática 8vo grado* (student textbook, Grade 8) — Cuba, Editorial Pueblo y Educación; one work in two editions (MINED portal edition, 407 PDF pp, printed page = PDF page − 10; Biblioteca Perfeccionamiento edition 2024, 442 PDF pp, ISBN 978-959-13-4758-9) — cited once, items placed from the MINED edition's index. Pupil textbook.
+
+**Book 11:** *Matemática 9no grado* (student textbook, Grade 9) — Cuba, MINED, Editorial Pueblo y Educación; 489 PDF pp; printed page = PDF page − 9; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 15:** *Programa Matemática 1er grado* (teacher programme, Grade 1) — Cuba, MINED (2019 uploads series); 17 PDF pp; read visually (its text layer is garbled); cited by PDF page. TEACHER EVIDENCE ONLY — a programme states what is required to be taught.
+
+**Book 16:** *Programa Matemática 2do grado* (teacher programme, Grade 2) — Cuba, MINED; 55 PDF pp; cited by the programme's printed pages. TEACHER EVIDENCE ONLY.
+
+**Book 17:** *Orientaciones metodológicas Matemática 2do grado* (teacher guide, Grade 2) — Cuba, MINED, Tercer Perfeccionamiento; 158 PDF pp; printed folio ≈ PDF page − 8 as printed in the text. TEACHER EVIDENCE ONLY.
+
+**Book 18:** *Programa Matemática 3er grado* (teacher programme, Grade 3) — Cuba, MINED (2019 uploads series); 18 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 20:** *Programa Matemática 5to grado* (teacher programme, Grade 5) — Cuba, MINED (2019 uploads series); 44 PDF pp; unit starts at programme printed pp. 18, 23, 28, 31. TEACHER EVIDENCE ONLY.
+
+**Book 21:** *Orientaciones metodológicas Matemática 5to grado* (teacher guide, Grade 5) — Cuba, MINED, Tercer Perfeccionamiento; 237 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Grade 1 programme's geometry unit requires point, line, straight line (recta) and segment — naming with capital letters, drawing with the ruler, measuring segments in centimetres — and the figures triangle, rectangle, square, circle (U6) | Cuba — *Programa Matemática 1er grado* (teacher programme) — teacher evidence, PDF pp. 15, 17 |
+| The Grade 2 programme's U3 “Geometría” states the grade's geometry requirements | Cuba — *Programa Matemática 2do grado* (teacher programme) — teacher evidence, programme printed p. 41 |
+| The Grade 2 guide's geometry unit requires recognising/describing plane figures and solids, the relations between points, lines and segments, rectangle vs square and cube vs ortoedro (cuboid), drawing with ruler and set templates, geoplano and tangram work, and first compass skills | Cuba — *Orientaciones metodológicas Matemática 2do grado* (teacher guide) — teacher evidence, printed pp. 128–129 |
+| U4 teaches parallelograms | Cuba — *Matemática 3er grado* (student textbook) — printed p. 277 |
+| U4 teaches prism, ortoedro (cuboid) and cube | Cuba — *Matemática 3er grado* (student textbook) — printed p. 285 |
+| U4 teaches circumference and circle, and the cylinder | Cuba — *Matemática 3er grado* (student textbook) — printed p. 289 |
+| The Grade 3 programme's geometry domain requires congruence, parallel and perpendicular lines/segments drawn with ruler and set square, circumferences drawn with the compass, and new geometric solids | Cuba — *Programa Matemática 3er grado* (teacher programme) — teacher evidence, the whole programme |
+| The round solids — cylinder, sphere and cone — as bodies with curved surfaces, distinguished from flat-faced solids | Cuba — *Matemática 4to grado* (student textbook) — printed p. 201 |
+| Cap D (Geometría) teaches polygons — side, vertex, diagonal — and the classes of triangles (equilátero, isósceles, escaleno) and quadrilaterals (paralelogramos, trapecios, trapezoides, with rectángulo/rombo/cuadrado) | Cuba — *Matemática 5to grado* (student textbook) — printed p. 170 |
+| The Grade 5 programme's U4 “Geometría” states the grade's geometry requirements | Cuba — *Programa Matemática 5to grado* (teacher programme) — teacher evidence, programme printed p. 31 |
+| The Grade 5 guide's U4 “Geometría” (33 h/c) requires geometric equality made algorithmic through superposition, the angle defined as union of half-planes, consecutive angles, measuring and drawing angles and transporting angles with protractor and with ruler-and-compass, and triangle classification by sides | Cuba — *Orientaciones metodológicas Matemática 5to grado* (teacher guide) — teacher evidence, the whole guide |
+| Cap F “Geometría” reviews plane figures and solids and the basic properties of planimetry | Cuba — *Matemática 6to grado* (student textbook) — printed pp. 147, 148 |
+| Cap F teaches triangles: classification, relations between sides and angles, the triangle inequality, and theorems on the angles of a triangle | Cuba — *Matemática 6to grado* (student textbook) — printed pp. 187–192 |
+| Cap 2 reviews plane figures and their properties, polygonal lines and polygons | Cuba — *Matemática 7mo grado* (student textbook) — printed p. 197 ff. |
+| Cap 2 teaches relations in triangles and quadrilaterals: angles of the triangle, the triangle inequality, notable lines and points, the right triangle, parallelograms and trapezoids | Cuba — *Matemática 7mo grado* (student textbook) — printed p. 263 ff. |
+| Cap 2.4 teaches prism and pyramid: representation and areas | Cuba — *Matemática 8vo grado* (student textbook) — printed p. 61 ff. |
+| Cap 5.2 teaches cylinder, cone and sphere and their geometric representation | Cuba — *Matemática 9no grado* (student textbook) — printed pp. 437, 441 |
+
+Cuba is added to the countries line and to the acceptance count above — 11 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 6 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

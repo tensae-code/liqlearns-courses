@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Bahamas, Australia, Canada, Costa Rica
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Bahamas, Australia, Canada, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -229,7 +229,7 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Angles of a cyclic quadrilateral | Libya, Grade 10 pupil's book Part 2, §7-8, printed p.91 |
 | Alternate segment angles | Libya, Grade 10 pupil's book Part 2, §8-8, printed p.97 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Australia, Costa Rica)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Australia, Costa Rica, Cuba)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -392,3 +392,23 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 3 items (items 151, 165, 168): 1 student item and 2 teacher-evidence items.
+
+**Book 10:** *Matemática 8vo grado* (student textbook, Grade 8) — Cuba, Editorial Pueblo y Educación; one work in two editions (MINED portal edition, 407 PDF pp, printed page = PDF page − 10; Biblioteca Perfeccionamiento edition 2024, 442 PDF pp, ISBN 978-959-13-4758-9) — cited once, items placed from the MINED edition's index. Pupil textbook.
+
+**Book 22:** *Programa Matemática 8vo grado* (teacher programme, Grade 8) — Cuba, MINED (2019 uploads series); 32 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 23:** *Orientaciones metodológicas Matemática 8vo grado* (teacher guide, Grade 8) — Cuba, MINED, Tercer Perfeccionamiento; 166 PDF pp; unit plan at its pp. 15, 36, 113. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap 2.1 teaches angles in the circumference: central, inscribed and semi-inscribed angles | Cuba — *Matemática 8vo grado* (student textbook) — printed p. 61 ff. |
+| The Grade 8 programme's U2 “Geometría plana y cálculo de cuerpos” (76 h-c) states the grade's plane-geometry and solids requirements | Cuba — *Programa Matemática 8vo grado* (teacher programme) — teacher evidence, the whole programme |
+| The Grade 8 guide's U2 “Geometría plana y cálculo de cuerpos” guides teaching plane geometry and the calculation of solids | Cuba — *Orientaciones metodológicas Matemática 8vo grado* (teacher guide) — teacher evidence, the guide's p. 36 |
+
+Cuba is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 2 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

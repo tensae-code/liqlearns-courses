@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -531,7 +531,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
 | Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
-**Acceptance count: taught in 47 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 48 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -961,3 +961,32 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 3 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 8 items (items 62, 97, 117, 153, 175, 176, 177, 178): 6 student items and 2 teacher-evidence items.
+
+**Book 8:** *Matemática 6to grado* (student textbook, Grade 6) — Cuba, MINED, Editorial Pueblo y Educación; 256 PDF pp; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 10:** *Matemática 8vo grado* (student textbook, Grade 8) — Cuba, Editorial Pueblo y Educación; one work in two editions (MINED portal edition, 407 PDF pp, printed page = PDF page − 10; Biblioteca Perfeccionamiento edition 2024, 442 PDF pp, ISBN 978-959-13-4758-9) — cited once, items placed from the MINED edition's index. Pupil textbook.
+
+**Book 11:** *Matemática 9no grado* (student textbook, Grade 9) — Cuba, MINED, Editorial Pueblo y Educación; 489 PDF pp; printed page = PDF page − 9; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 18:** *Programa Matemática 3er grado* (teacher programme, Grade 3) — Cuba, MINED (2019 uploads series); 18 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 21:** *Orientaciones metodológicas Matemática 5to grado* (teacher guide, Grade 5) — Cuba, MINED, Tercer Perfeccionamiento; 237 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Grade 3 programme's geometry domain requires congruence, parallel and perpendicular lines/segments drawn with ruler and set square, circumferences drawn with the compass, and new geometric solids | Cuba — *Programa Matemática 3er grado* (teacher programme) — teacher evidence, the whole programme |
+| The Grade 5 guide's U4 “Geometría” (33 h/c) requires geometric equality made algorithmic through superposition, the angle defined as union of half-planes, consecutive angles, measuring and drawing angles and transporting angles with protractor and with ruler-and-compass, and triangle classification by sides | Cuba — *Orientaciones metodológicas Matemática 5to grado* (teacher guide) — teacher evidence, the whole guide |
+| Cap F reviews geometric equality and motions: successive composition of motions (p. 151), and the special properties of reflection, translation and central symmetry (p. 154) | Cuba — *Matemática 6to grado* (student textbook) — printed pp. 151, 154 |
+| Cap 2.3 teaches equality of figures: motions of the plane and equality (congruence) of triangles | Cuba — *Matemática 8vo grado* (student textbook) — printed p. 61 ff. |
+| Cap 2.1 teaches the transversal (Thales) theorem (p. 59) and its applications (p. 71) | Cuba — *Matemática 9no grado* (student textbook) — printed pp. 59, 71 |
+| Cap 2.2 teaches similar figures | Cuba — *Matemática 9no grado* (student textbook) — printed p. 77 |
+| Cap 2.3 teaches similarity of triangles and its theorems | Cuba — *Matemática 9no grado* (student textbook) — printed pp. 88, 91 |
+| Cap 2.3 teaches the ratio between perimeters and areas in similar triangles | Cuba — *Matemática 9no grado* (student textbook) — printed p. 99 |
+
+Cuba is added to the countries line and to the acceptance count above — 6 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 2 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -1171,7 +1171,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Capacity — volume and capacity | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 8 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 8, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 53 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 54 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -1953,3 +1953,48 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 10 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 14 items (items 6, 10, 16, 18, 19, 29, 39, 44, 61, 66, 73, 77, 92, 96): 6 student items and 8 teacher-evidence items.
+
+**Book 1:** *Matemática 1er grado* (student textbook, Grade 1) — Cuba, MINED, Editorial Pueblo y Educación; Villalón Incháustegui et al., ©1988, 10th reprint 2013, ISBN 978-959-13-0341-7; 139 PDF pp; printed page = PDF page − 2; a picture book with no index — structure mapped by sampling the whole book in order. Pupil textbook.
+
+**Book 2:** *Cuaderno de trabajo Matemática 1* (student workbook, Grade 1) — Cuba, Editorial Pueblo y Educación, ©1988, 14th reprint 2005 (based on the former GDR Matemática 1 cuaderno); 114 PDF pp; printed page = PDF page − 3. Pupil workbook.
+
+**Book 4:** *Matemática 3er grado* (student textbook, Grade 3) — Cuba, Editorial Pueblo y Educación; Biblioteca (Perfeccionamiento) edition, 354 PDF pp; printed page = PDF page − 13; items cite the book's own index, printed pages. The MINED portal edition (©1990, 18th reprint 2019) was verified against it — one work, cited once. Pupil textbook.
+
+**Book 6:** *Matemática 4to grado* (student textbook, Grade 4) — Cuba, Editorial Pueblo y Educación, ©1991, 11th reprint 2013, ISBN 978-959-13-0069-0; 218 PDF pp; printed page = PDF page − 5. Held twice as byte-identical copies (MD5 01c106741b186cf28d360854a40d7e93) — cited once. Pupil textbook.
+
+**Book 15:** *Programa Matemática 1er grado* (teacher programme, Grade 1) — Cuba, MINED (2019 uploads series); 17 PDF pp; read visually (its text layer is garbled); cited by PDF page. TEACHER EVIDENCE ONLY — a programme states what is required to be taught.
+
+**Book 17:** *Orientaciones metodológicas Matemática 2do grado* (teacher guide, Grade 2) — Cuba, MINED, Tercer Perfeccionamiento; 158 PDF pp; printed folio ≈ PDF page − 8 as printed in the text. TEACHER EVIDENCE ONLY.
+
+**Book 18:** *Programa Matemática 3er grado* (teacher programme, Grade 3) — Cuba, MINED (2019 uploads series); 18 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 19:** *Programa Matemática 4to grado* (teacher programme, Grade 4) — Cuba, MINED (2019 uploads series); 19 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 20:** *Programa Matemática 5to grado* (teacher programme, Grade 5) — Cuba, MINED (2019 uploads series); 44 PDF pp; unit starts at programme printed pp. 18, 23, 28, 31. TEACHER EVIDENCE ONLY.
+
+**Book 21:** *Orientaciones metodológicas Matemática 5to grado* (teacher guide, Grade 5) — Cuba, MINED, Tercer Perfeccionamiento; 237 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparing segments by length (“es más corto que”, “es más largo que”, “tienen igual longitud”), with segments named by letter endpoints, and drawing a segment longer than a given one | Cuba — *Matemática 1er grado* (student textbook) — printed p. 128 |
+| Comparing segment lengths against a 1 cm unit and measuring segments labelled with letter endpoints (workbook practice) | Cuba — *Cuaderno de trabajo Matemática 1* (student workbook) — printed p. 67 |
+| The Grade 1 programme introduces the centimetre (“1 cm”) and measuring/drawing segments of given length with the ruler (U2.3.2) | Cuba — *Programa Matemática 1er grado* (teacher programme) — teacher evidence, PDF p. 9 |
+| The Grade 1 programme requires multiples of 10 to 100 as products with factor 10, their order, addition/subtraction with multiples of 10, the money units $1 and 100¢ = $1, the metre (1 m = 100 cm), two-digit numbers as decena + unidad, and simple equations (U5) | Cuba — *Programa Matemática 1er grado* (teacher programme) — teacher evidence, PDF p. 13 |
+| The Grade 1 programme's geometry unit requires point, line, straight line (recta) and segment — naming with capital letters, drawing with the ruler, measuring segments in centimetres — and the figures triangle, rectangle, square, circle (U6) | Cuba — *Programa Matemática 1er grado* (teacher programme) — teacher evidence, PDF pp. 15, 17 |
+| The Grade 2 guide introduces the length units 1 cm, 1 dm, 1 mm and the money unit $3, with the relations 1 m = 10 dm, 1 dm = 10 cm, 1 cm = 10 mm, 1 m = 100 cm, and measuring/estimating segment lengths | Cuba — *Orientaciones metodológicas Matemática 2do grado* (teacher guide) — teacher evidence, printed p. 30 |
+| U1 teaches conversions between measure units | Cuba — *Matemática 3er grado* (student textbook) — printed p. 58 |
+| U2 teaches units of mass | Cuba — *Matemática 3er grado* (student textbook) — printed p. 117 |
+| The Grade 3 programme requires multiples of 100 and 1 000 worked with length units | Cuba — *Programa Matemática 3er grado* (teacher programme) — teacher evidence, the whole programme |
+| Length magnitudes in context — metres/decimetres and kilometres, distances and combined lengths | Cuba — *Matemática 4to grado* (student textbook) — printed p. 61 |
+| Angles: the right angle and perpendicular sides, measuring angles in degrees with the semicircular protractor, and the straight angle of 180° | Cuba — *Matemática 4to grado* (student textbook) — printed p. 181 |
+| The Grade 4 programme's U2.1 “Trabajo con magnitudes” (14 h/c) requires working with magnitudes inside the calculation unit | Cuba — *Programa Matemática 4to grado* (teacher programme) — teacher evidence, the whole programme |
+| The Grade 5 programme's U3 “Magnitudes” states the grade's magnitude requirements | Cuba — *Programa Matemática 5to grado* (teacher programme) — teacher evidence, programme printed p. 28 |
+| The Grade 5 guide's U3 “Magnitudes” (30 h/c) requires mass, length, surface, volume and capacity magnitudes with their conversion procedures, and monetary/time units inside exercises | Cuba — *Orientaciones metodológicas Matemática 5to grado* (teacher guide) — teacher evidence, the whole guide |
+
+Cuba is added to the countries line and to the acceptance count above — 6 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 8 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 48 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica).**.** Kazakhstan carries
+**Acceptance count: taught in 49 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -1038,3 +1038,20 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 5 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 2 items (items 34, 237): 2 student items and 0 teacher-evidence items.
+
+**Book 4:** *Matemática 3er grado* (student textbook, Grade 3) — Cuba, Editorial Pueblo y Educación; Biblioteca (Perfeccionamiento) edition, 354 PDF pp; printed page = PDF page − 13; items cite the book's own index, printed pages. The MINED portal edition (©1990, 18th reprint 2019) was verified against it — one work, cited once. Pupil textbook.
+
+**Book 14:** *Matemática 12mo grado* (student textbook, Grade 12) — Cuba, MINED, Editorial Pueblo y Educación; 490 PDF pp; printed page = PDF page − 11; items cite the book's own índice, printed pages. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| U1 teaches patterns, and geometric and number sequences | Cuba — *Matemática 3er grado* (student textbook) — printed p. 31 |
+| Cap 1 teaches numerical sequences | Cuba — *Matemática 12mo grado* (student textbook) — printed p. 17 |
+
+Cuba is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación). Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

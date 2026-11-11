@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 47 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica).**.** Egypt carries the
+**Acceptance count: taught in 48 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1191,3 +1191,42 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 8 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 12 items (items 161, 162, 163, 166, 169, 192, 193, 194, 204, 219, 220, 231): 9 student items and 3 teacher-evidence items.
+
+**Book 10:** *Matemática 8vo grado* (student textbook, Grade 8) — Cuba, Editorial Pueblo y Educación; one work in two editions (MINED portal edition, 407 PDF pp, printed page = PDF page − 10; Biblioteca Perfeccionamiento edition 2024, 442 PDF pp, ISBN 978-959-13-4758-9) — cited once, items placed from the MINED edition's index. Pupil textbook.
+
+**Book 11:** *Matemática 9no grado* (student textbook, Grade 9) — Cuba, MINED, Editorial Pueblo y Educación; 489 PDF pp; printed page = PDF page − 9; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 12:** *Matemática 10mo grado* (student textbook, Grade 10) — Cuba, MINED, Editorial Pueblo y Educación; 354 PDF pp; printed page = PDF page − 5. Pupil textbook.
+
+**Book 13:** *Matemática 11no grado* (student textbook, Grade 11, 2005 edition) — Cuba, Editorial Pueblo y Educación; Biblioteca digital item 131, ISBN 978-959-13-0688-1; 425 pp; items cite the book's own índice, printed pages. Pupil textbook. The Grade 11 teacher documents in hand (Books 24–25) belong to a different, newer programme and are not this book's companions.
+
+**Book 22:** *Programa Matemática 8vo grado* (teacher programme, Grade 8) — Cuba, MINED (2019 uploads series); 32 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 23:** *Orientaciones metodológicas Matemática 8vo grado* (teacher guide, Grade 8) — Cuba, MINED, Tercer Perfeccionamiento; 166 PDF pp; unit plan at its pp. 15, 36, 113. TEACHER EVIDENCE ONLY.
+
+**Book 24:** *Programa Matemática 11no grado* (teacher programme, Grade 11, Perfeccionamiento programme) — Cuba, MINED; 46 PDF pp; cited by programme printed pages. TEACHER EVIDENCE ONLY — a different curriculum from the in-hand Grade 11 student book (Book 13); evidence for its own programme only, never filed as that book's companion.
+
+**Book 25:** *Orientaciones metodológicas Matemática 11no grado* (teacher guide, Grade 11, Perfeccionamiento programme) — Cuba, MINED; 99 PDF pp. TEACHER EVIDENCE ONLY — same programme as Book 24; not a companion to Book 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap 3.4 teaches the concept of function | Cuba — *Matemática 8vo grado* (student textbook) — printed p. 275 |
+| Cap 3.4 teaches the linear function, its graph and its equation, and the zero of the function | Cuba — *Matemática 8vo grado* (student textbook) — printed p. 293 |
+| Cap 3.4 teaches lines and functions, and piecewise-defined functions | Cuba — *Matemática 8vo grado* (student textbook) — printed p. 334 |
+| The Grade 8 programme's U3 “Variables, ecuaciones y funciones” (55 h-c) states the grade's algebra-and-functions requirements | Cuba — *Programa Matemática 8vo grado* (teacher programme) — teacher evidence, the whole programme |
+| The Grade 8 guide's U3 “Variables, ecuaciones y funciones” guides teaching variables, equations and functions | Cuba — *Orientaciones metodológicas Matemática 8vo grado* (teacher guide) — teacher evidence, the guide's p. 113 |
+| Cap 4.5–4.6 reviews the linear function (p. 344) and introduces the quadratic function concept (p. 353) | Cuba — *Matemática 9no grado* (student textbook) — printed pp. 344, 353 |
+| Cap 4.7 teaches graphing y = ax² and its properties | Cuba — *Matemática 9no grado* (student textbook) — printed p. 362 |
+| Cap 4.8 teaches the quadratic function y = ax² + bx + c | Cuba — *Matemática 9no grado* (student textbook) — printed p. 376 |
+| Cap 2 teaches the function concept through the reviewed graphs y = mx + n, y = x², y = 1/x, including the vertical-line criterion for a function | Cuba — *Matemática 10mo grado* (student textbook) — printed p. 125 |
+| Cap 4 teaches numerical functions: domain and image | Cuba — *Matemática 11no grado* (student textbook, 2005 edition) — printed p. 171 |
+| Cap 4 teaches operations with functions | Cuba — *Matemática 11no grado* (student textbook, 2005 edition) — printed p. 171 ff. |
+| The Grade 11 Perfeccionamiento programme's U1 requires numerical functions, their properties and operations | Cuba — *Programa + Orientaciones metodológicas Matemática 11no grado (Perfeccionamiento)* (teacher programme + guide) — teacher evidence, programme printed p. 16 |
+
+Cuba is added to the countries line and to the acceptance count above — 9 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 3 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

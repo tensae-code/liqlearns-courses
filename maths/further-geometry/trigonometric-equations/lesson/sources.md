@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania, Iran, El Salvador, Moldova, Belarus, Australia
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania, Iran, El Salvador, Moldova, Belarus, Australia, Cuba
 
 Every part traces to its book and page.
 
@@ -190,3 +190,19 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 1 item (items 233): 0 student items and 1 teacher-evidence item.
+
+**Book 24:** *Programa Matemática 11no grado* (teacher programme, Grade 11, Perfeccionamiento programme) — Cuba, MINED; 46 PDF pp; cited by programme printed pages. TEACHER EVIDENCE ONLY — a different curriculum from the in-hand Grade 11 student book (Book 13); evidence for its own programme only, never filed as that book's companion.
+
+**Book 25:** *Orientaciones metodológicas Matemática 11no grado* (teacher guide, Grade 11, Perfeccionamiento programme) — Cuba, MINED; 99 PDF pp. TEACHER EVIDENCE ONLY — same programme as Book 24; not a companion to Book 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Grade 11 Perfeccionamiento programme's U3 (27 h-c) requires trigonometric equations and functions | Cuba — *Programa + Orientaciones metodológicas Matemática 11no grado (Perfeccionamiento)* (teacher programme + guide) — teacher evidence, programme printed p. 25 |
+
+Cuba is added to the countries line only — every Cuba item in this lesson is teacher evidence (Programa / Orientaciones metodológicas), so Cuba is named but stays outside the acceptance count above, on the standing evidence-only precedent. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

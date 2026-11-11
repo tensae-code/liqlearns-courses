@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -183,7 +183,7 @@ Every part traces to its book and page.
 | Parábola: parabola — elements, equations, tangents; link to the quadratic function and maximum/minimum | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 125 |
 | La elipse: ellipse — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 133 |
 | La hipérbola: hyperbola — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 140 |
-**Acceptance count: taught in 26 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 27 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -292,3 +292,25 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 5 items (items 215, 216, 217, 218, 235): 4 student items and 1 teacher-evidence item.
+
+**Book 13:** *Matemática 11no grado* (student textbook, Grade 11, 2005 edition) — Cuba, Editorial Pueblo y Educación; Biblioteca digital item 131, ISBN 978-959-13-0688-1; 425 pp; items cite the book's own índice, printed pages. Pupil textbook. The Grade 11 teacher documents in hand (Books 24–25) belong to a different, newer programme and are not this book's companions.
+
+**Book 24:** *Programa Matemática 11no grado* (teacher programme, Grade 11, Perfeccionamiento programme) — Cuba, MINED; 46 PDF pp; cited by programme printed pages. TEACHER EVIDENCE ONLY — a different curriculum from the in-hand Grade 11 student book (Book 13); evidence for its own programme only, never filed as that book's companion.
+
+**Book 25:** *Orientaciones metodológicas Matemática 11no grado* (teacher guide, Grade 11, Perfeccionamiento programme) — Cuba, MINED; 99 PDF pp. TEACHER EVIDENCE ONLY — same programme as Book 24; not a companion to Book 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap 3 teaches the circle through its Cartesian equation | Cuba — *Matemática 11no grado* (student textbook, 2005 edition) — printed p. 115 |
+| Cap 3 teaches the parabola by its geometric characterisation | Cuba — *Matemática 11no grado* (student textbook, 2005 edition) — printed p. 124 |
+| Cap 3 teaches the ellipse | Cuba — *Matemática 11no grado* (student textbook, 2005 edition) — printed p. 133 |
+| Cap 3 teaches the hyperbola (p. 147) and conic sections as a family (p. 158) | Cuba — *Matemática 11no grado* (student textbook, 2005 edition) — printed pp. 147, 158 |
+| The Grade 11 Perfeccionamiento programme's U5 (33 h-c) requires second-degree curves and conic sections | Cuba — *Programa + Orientaciones metodológicas Matemática 11no grado (Perfeccionamiento)* (teacher programme + guide) — teacher evidence, programme printed p. 31 |
+
+Cuba is added to the countries line and to the acceptance count above — 4 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 1 teacher-evidence item are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

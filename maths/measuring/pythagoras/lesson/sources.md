@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Bhutan, Canada, Costa Rica
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Bhutan, Canada, Costa Rica, Cuba
 
 Every part traces to its book and page.
 
@@ -309,7 +309,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem | Armenia, Geometry 10, §6.18, printed p. 58 |
 | Year revision overview, Pythagoras among it (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 140–144 Revision overview: parts 1–5 (year revision of this grade's placed items), printed pp. 204, 206, 208, 210, 212 |
 
-**Acceptance count: taught in 44 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Bhutan, Costa Rica).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 45 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Bhutan, Costa Rica, Cuba).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -606,3 +606,23 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 3 items (items 120, 140, 179): 3 student items and 0 teacher-evidence items.
+
+**Book 8:** *Matemática 6to grado* (student textbook, Grade 6) — Cuba, MINED, Editorial Pueblo y Educación; 256 PDF pp; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 9:** *Matemática 7mo grado* (student textbook, Grade 7) — Cuba, MINED, Editorial Pueblo y Educación; 483 PDF pp; printed page = PDF page − 10 as sampled; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 11:** *Matemática 9no grado* (student textbook, Grade 9) — Cuba, MINED, Editorial Pueblo y Educación; 489 PDF pp; printed page = PDF page − 9; items cite the book's own index, printed pages. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap F teaches triangles: classification, relations between sides and angles, the triangle inequality, and theorems on the angles of a triangle | Cuba — *Matemática 6to grado* (student textbook) — printed pp. 187–192 |
+| Cap 2 teaches relations in triangles and quadrilaterals: angles of the triangle, the triangle inequality, notable lines and points, the right triangle, parallelograms and trapezoids | Cuba — *Matemática 7mo grado* (student textbook) — printed p. 263 ff. |
+| Cap 2.4 teaches the Pythagoras theorem group | Cuba — *Matemática 9no grado* (student textbook) — printed p. 106 |
+
+Cuba is added to the countries line and to the acceptance count above — 3 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación). Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador, Sri Lanka, Andorra, Bahamas, Brazil, Bhutan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador, Sri Lanka, Andorra, Bahamas, Brazil, Bhutan, Cuba
 
 Every part traces to its book and page.
 
@@ -242,7 +242,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Drawing a line segment of given length | Yemen, Grade 3 Part 1, Unit 4, printed p. 92 |
 | Drawing and bisecting a line segment | Yemen, Grade 5 Part 2, Unit 8, printed p. 138 |
 | Drawing an angle of given measure | Yemen, Grade 5 Part 2, Unit 8, printed p. 142 |
-**Acceptance count: taught in 34 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador, Sri Lanka, Brazil, Bhutan)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
+**Acceptance count: taught in 35 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador, Sri Lanka, Brazil, Bhutan, Cuba)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -419,3 +419,26 @@ The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDF
 Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 2 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs — **29 in-hand entries = 25 distinct works (MINED, Editorial Pueblo y Educación, Cuba), every one read in full**: student textbooks for Grades 1 and 3–12, student workbooks for Grades 1, 2 and 3, and teacher documents (Programa and Orientaciones metodológicas) for Grades 1–5, 8 and 11 — and placed 247 teaching items (202 student-side, 45 teacher-evidence). **SET CORRECTION: the expansion map's count of 14 student + 8 teacher is WRONG** — the staging books.json holds 13 student + 9 teacher entries and textbooks.tsv holds 7 further secured entries; duplicated filings are cited once (the Grade 3 and Grade 8 student books were each verified in a second edition; the Grade 4 and Grade 5 student books are each filed twice as byte-identical copies — Grade 4 MD5 01c106741b186cf28d360854a40d7e93, Grade 5 MD5 b48e28b1df820e2451bb44eb33b5ac11). Record corrections the read proved, carried exactly: the record's “Matemática 2do grado Parte I student textbook” is in fact the COMPLETE Grade 2 workbook (Cuaderno de trabajo — Matemática 2, ISBN 978-959-13-1854-1) — **no Grade 2 student textbook is in hand**, and Grade 2 rests on its workbook, Programa and Orientaciones; the record's Grade 5 student byte size (36,868,096 B) is a truncated copy — the complete file read is 77,146,019 B / 396 pp; the Grade 11 teacher documents belong to the newer Perfeccionamiento programme and do **not** match the in-hand Grade 11 student book (2005 edition — its limits, derivatives and integrals chapters have no teacher companion in hand, and the programme's trigonometry unit has no chapter in that book), so they are filed as that programme's own teacher evidence, never as evidence for the 2005 book; the MINED portal source URLs now return soft-404 pages — the reads used Wayback captures of those same URLs and the GitHub routes. The placements' named exclusions — exercise sets, chapter exercises, self-evaluation sections, answers appendices, mathematical tables, historical feature essays and front/back matter — are stocked nowhere. Teacher items are TEACHER EVIDENCE — they state what the programme requires and how it is taught — are labelled as such on every row, and are never counted in this lesson's acceptance figure; student textbook and workbook items are COUNTED. Printed pages are the books' own printed folios as the placements cite them (each book's printed-page basis is stated in its book entry). Into this lesson the placements stock 4 items (items 31, 62, 97, 137): 1 student item and 3 teacher-evidence items.
+
+**Book 9:** *Matemática 7mo grado* (student textbook, Grade 7) — Cuba, MINED, Editorial Pueblo y Educación; 483 PDF pp; printed page = PDF page − 10 as sampled; items cite the book's own index, printed pages. Pupil textbook.
+
+**Book 17:** *Orientaciones metodológicas Matemática 2do grado* (teacher guide, Grade 2) — Cuba, MINED, Tercer Perfeccionamiento; 158 PDF pp; printed folio ≈ PDF page − 8 as printed in the text. TEACHER EVIDENCE ONLY.
+
+**Book 18:** *Programa Matemática 3er grado* (teacher programme, Grade 3) — Cuba, MINED (2019 uploads series); 18 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+**Book 21:** *Orientaciones metodológicas Matemática 5to grado* (teacher guide, Grade 5) — Cuba, MINED, Tercer Perfeccionamiento; 237 PDF pp; read in full. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Grade 2 guide's geometry unit requires recognising/describing plane figures and solids, the relations between points, lines and segments, rectangle vs square and cube vs ortoedro (cuboid), drawing with ruler and set templates, geoplano and tangram work, and first compass skills | Cuba — *Orientaciones metodológicas Matemática 2do grado* (teacher guide) — teacher evidence, printed pp. 128–129 |
+| The Grade 3 programme's geometry domain requires congruence, parallel and perpendicular lines/segments drawn with ruler and set square, circumferences drawn with the compass, and new geometric solids | Cuba — *Programa Matemática 3er grado* (teacher programme) — teacher evidence, the whole programme |
+| The Grade 5 guide's U4 “Geometría” (33 h/c) requires geometric equality made algorithmic through superposition, the angle defined as union of half-planes, consecutive angles, measuring and drawing angles and transporting angles with protractor and with ruler-and-compass, and triangle classification by sides | Cuba — *Orientaciones metodológicas Matemática 5to grado* (teacher guide) — teacher evidence, the whole guide |
+| Cap 2 teaches relative positions of lines and elementary constructions | Cuba — *Matemática 7mo grado* (student textbook) — printed p. 197 ff. |
+
+Cuba is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 3 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
