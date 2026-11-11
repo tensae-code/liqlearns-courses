@@ -106,6 +106,8 @@ verification sweep.
 
 **Book 24:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
 
+**Book 25:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -140,6 +142,8 @@ verification sweep.
 | Workbook “You Are What You Eat” — practice of purpose and result clauses with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 6, Lesson 16, WB printed pp.63–72 |
 | The Advanced teacher's guide for Unit 6 “Healthy Living” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 6 |
 | Workbook Unit 1 (What a wonderful world!), lessons 1–3 — practice of the unit's linking words (because, as, although, but) with the workbook's texts | Greece, Think Teen! Grade 9 Workbook, Unit 1, WB printed pp.5–20 |
+| “Surface and underground mining” — connectors which/while/because/that/who; not only…but | Greece, Exploiting the Earth, Part B6, skills table pp.115–120 |
+| “Earthquakes” — cause and result language; tense revision; active/passive practice | Greece, Exploiting the Earth, Part B14, skills table pp.115–120 |
 
 **Acceptance count: taught in 9 countries (Bolivia,
 Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece).** Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia

@@ -50,6 +50,7 @@ outcome and teaches no complaint lesson (see the row).
 | The email of complaint as a taught genre with a full model, among the Grade 12 writing genres | Jordan, High Note Grade 12, writing spine (Semester 1), as filed |
 | Formal writing kinds named as curriculum outcomes — applications, invitations, email; formal letters to the Headmaster/mistress, Director of Education, Assembly Man/woman, SMC and PTA chairmen | Ghana, NaCCA curricula, formal-writing strand (as filed) — curriculum evidence only |
 | The complaint named as a learning outcome and taught nowhere in the unit: Unit 12 "Roots" prints "lodge complaint" among its learning outcomes on the unit opener — and no lesson in the unit teaches complaint writing (outcome evidence only, stated exactly; stocked 2026-11-08 by the re-verification sweep, which found the outcome in the fresh read and no complaint lesson behind it) | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Twelve opener, printed p.151 |
+| Hotel Unit 12 “Responding to complaints” — complaint-response language in food and beverage service | Greece, English for the Hotel and Tourist Trade, Unit 12, printed p.205 |
 
 **Acceptance count: taught in 6 countries (Greece,
 Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh).** Greece teaches

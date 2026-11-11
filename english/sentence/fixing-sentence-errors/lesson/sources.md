@@ -35,6 +35,8 @@ Education. Filed in english/books/sierra-leone.md
 
 **Book 8:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
 
+**Book 9:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sentence-structure errors named together in the writing section: fragments, run-ons, comma splices (with sentence types and punctuation/mechanics) | Ethiopia, English Grade 11, Unit 1, Writing (1F); the unit runs printed pp.1–32 |
@@ -50,6 +52,7 @@ Education. Filed in english/books/sierra-leone.md
 | The Advanced book's Grammar Appendix — grammar tables and rules for all units | Greece, Think Teen! Grade 7 Advanced Student's Book, Grammar Appendix, printed p.159 |
 | The Beginners book's Grammar Appendix — grammar tables for all units | Greece, Think Teen! Grade 7 Beginners Student's Book, Grammar Appendix, printed p.145 |
 | “Welcome Back” (opening unit) — review of the whole tense system (active and passive); word building: nouns in -er/-or/-ar; questionnaires and spidergraphs | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
+| “Soil texture and structure” — tense revision inside soil-science texts | Greece, Exploiting the Earth, Part A4, printed p.32 |
 
 **Acceptance count: taught in 4 countries (Ethiopia,
 Ghana, Sierra Leone, Greece).** Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole

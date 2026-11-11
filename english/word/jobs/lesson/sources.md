@@ -102,6 +102,10 @@ verification sweep.
 
 **Book 31:** Greece Αγγλικά Γενικού Λυκείου 1 (Anglika Genikou Lykeiou 1), Grade 10: student activity dossier — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Eight thematic units of video/reading/discussion/project tasks; no explicit grammar syllabus — grammar is exercised inside tasks.
 
+**Book 32:** Greece ESP Coursebook: ELECTRICITY, EPAL (Electrical / Electronics / Automation sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0513. Filed in english/books/greece.md (ESP Electricity section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Each unit carries FUNCTIONS and STRUCTURES tables.
+
+**Book 33:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -146,6 +150,9 @@ verification sweep.
 | “Life on the Water” — jobs at sea; modals of obligation | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 2, Lesson 6, printed p.39 |
 | Workbook “Life on the Water” — practice on sea jobs and obligation modals with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 2, Lesson 6, WB printed pp.17–28 |
 | Unit 3 “On Duty” — careers discussion: choosing an occupation, dangerous jobs, the traits of people who risk their lives for others | Greece, Αγγλικά Γενικού Λυκείου 1 (Grade 10), Unit 3, printed p.23 |
+| Electricity Unit 7 “Electricians” — the trade and its people | Greece, ESP Coursebook: ELECTRICITY, Unit 7 |
+| Hotel Unit 21 “Hotel and restaurant personnel” — the jobs of a hotel and restaurant | Greece, English for the Hotel and Tourist Trade, Unit 21, Section D |
+| Office Clerks Unit 6.7 “The management field” — management jobs and roles | Greece, English for Office Clerks, Unit 6.7, printed p.340 |
 
 **Acceptance count: taught in 10 countries (Cambodia, Rwanda,
 Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening

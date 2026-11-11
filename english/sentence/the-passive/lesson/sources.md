@@ -175,6 +175,10 @@ verification sweep.
 
 **Book 74:** Greece Γενικά Αγγλικά Α΄ ΕΠΑΛ, General English 1, Grade 10 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0002. Filed in english/books/greece.md (Grade 10 EPAL — General English 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Units 5 and 10 are the book's own 'STOP AND DO REVISION' units — named exclusions, not stocked.
 
+**Book 75:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
+**Book 76:** Greece EPAL Sector Material — Applied Arts (Graphic Arts / Interior Design / Art Conservation sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0619. Filed in english/books/greece.md (Applied Arts folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -317,6 +321,10 @@ verification sweep.
 | Workbook Unit 8 (Food for thought!), lessons 1–3 — practice of the passive with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 8, WB printed pp.87–96 |
 | The Grade 9 teacher's guide for Unit 8 “Food for thought!” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.125 |
 | “Sports, Games and Activities” — the passive voice (introduction) | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 8, printed p.119 |
+| “Breeding animals” — active to passive transformation work | Greece, Exploiting the Earth, Part A13, printed p.79 |
+| “Dairy production – milking systems” — passive to active; sentence ordering | Greece, Exploiting the Earth, Part A14, printed p.87 |
+| “Rock formation and classification” — active to passive; geology texts | Greece, Exploiting the Earth, Part B1, printed p.121 |
+| Applied Arts Text 1 “Graphic Design” — history and uses of graphic design; the passive voice; notes towards a job application | Greece, EPAL Applied Arts folder, Text 1, printed p.9 |
 
 
 **Acceptance count: taught in 31 countries (Egypt,

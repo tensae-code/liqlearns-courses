@@ -76,6 +76,8 @@ covers the 6th Year book only).
 
 **Book 17:** Greece Think Teen! 2nd Grade of Junior High School, Teacher's Book (Beginners — Αρχάριοι), Grade 8: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.215.
 
+**Book 18:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-tags box in EIGHT RULES: positive → negative tag; negative → positive; same auxiliary; no auxiliary → do/does/did; "I am" → "aren't I"; everyone → singular verb but plural pronoun ("Everyone knows the answer, don't they?"); Let's → "shall we?"; imperatives → "will you? / won't you?" — filed as the fullest tag statement of Egypt's run | Egypt, Secondary 12 Term 2, Unit 12, Lesson 3 "School Life" (Language in Context) |
@@ -101,6 +103,8 @@ covers the 6th Year book only).
 | “Getting around” — question tags; transport words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 8, Lesson 1, printed pp.85–88 |
 | Workbook Unit 8 (Getting around), lessons 1–3 — practice of question tags with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, WB printed pp.87–97 |
 | The Beginners teacher's guide for Unit 8 “Getting around” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.147 |
+| The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
+| The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
 **Acceptance count: taught in 10 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,

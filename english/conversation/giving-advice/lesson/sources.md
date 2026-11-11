@@ -112,6 +112,8 @@ differ only in cover wording and colophon; cited once.
 
 **Book 22:** Greece Think Teen! 1st Grade of Junior High School, Student's Book (Advanced — Προχωρημένοι), Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 23:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -139,6 +141,7 @@ differ only in cover wording and colophon; cited once.
 | The community life project: short-, medium- and long-term goals, well-being and safe environments — advice given as a community plan | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 138 |
 | “The Problem Page” — asking for and giving advice; an advice letter; letter-writing set phrases (the contents page prints 'singing off' for the body's 'signing off' — taught corrected) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 8, Lesson 3, contents p.x |
 | “Your problem sorted!” — giving advice and reasons; modals must/mustn't/don't have to/may/might/should; feelings adjectives | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 3, Lesson 2, printed p.33 |
+| Office Clerks Unit 5.2 “Pieces of advice on organising a trip” — advice-giving texts | Greece, English for Office Clerks, Unit 5.2, printed p.257 |
 
 **Acceptance count: taught in 13 countries (Malaysia,
 Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives

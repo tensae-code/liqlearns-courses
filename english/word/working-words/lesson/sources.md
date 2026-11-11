@@ -5,6 +5,14 @@ countries: Greece, Bolivia, China, India
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
 sector English, and it is counted and flagged as such.
+The Greek sector stock was completed 2026-11-10 by the
+Greece re-verification sweep merge: the full EPAL sector
+set in hand is now stocked — Exploiting the Earth,
+Mechanical Engineering Technicians, ESP Electricity, the
+four sector folders (Construction, IT, Health, Applied
+Arts), the Hotel and Tourist Trade teacher's book and the
+Office Clerks key — here, and in the grammar and topic
+lessons their units belong to.
 
 **Book 1:** English for the Hotel and Tourist Trade —
 Student's Book (Grade 12 EPAL, Γ΄ ΕΠΑ.Λ., Administration
@@ -37,6 +45,18 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 8:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
+**Book 9:** Greece English for Mechanical Engineering Technicians, EPAL (Mechanical sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0376. Filed in english/books/greece.md (Mechanical Engineering Technicians section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** Greece ESP Coursebook: ELECTRICITY, EPAL (Electrical / Electronics / Automation sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0513. Filed in english/books/greece.md (ESP Electricity section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Each unit carries FUNCTIONS and STRUCTURES tables.
+
+**Book 11:** Greece EPAL Sector Material — Construction (Structural Works / Built Environment / Architectural Design sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0617. Filed in english/books/greece.md (Construction folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** Greece English for Office Clerks KEY / Teacher's Book, EPAL: teacher's book / answer key (image scan) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0207. Filed in english/books/greece.md (Office Clerks KEY section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Teacher evidence: per-sub-lesson answers and notes mirroring the student coursebook, read visually. The printed cover reads ENGLISH FOR OFFICE CLERKS; the string 'EGLISH' exists only in the PDF's hidden OCR layer — not a book error.
+
+**Book 13:** Greece English for the Hotel and Tourist Trade, Teacher's Book (Notes and Key), Grade 12 EPAL: teacher's book (image scan) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0216. Filed in english/books/greece.md (Hotel Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Teacher evidence: notes, keys and per-unit Functions/Structures tables for the 24 student units, read visually — the tables carry teaching the student-book citations never carry, e.g. Unit 6's causative have + object + past participle.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The course shape: 22 units plus 2 revision units in 5 thematic sections — A Hotel Services (Units 1–8, pp.23–148), B Food and Beverage Service (Units 9–15), C Tourist Services (Units 16–20), D Jobs and Business Correspondence (Units 21–23), E Tourism (Unit 24); a glossary of approximately 2,000 words (printed pp.373–412) | Greece, Hotel and Tourist Trade, prologue (printed p.7) and contents (printed pp.10–20) |
@@ -52,6 +72,43 @@ verification sweep.
 | Material words as a set, inside the made-of unit: chopstick, coin, silver, steel, cotton (with fork, blouse, glass, grass, leaf) | China — English ("Go for it!") Grade 9, Unit 5, printed pp.33–38 |
 | Field-specific vocabulary worked: ironworks terms (maw, clatter etc.); culture-specific game names (Mjölis) and regional words for a small farmer | India — Flamingo (Class 12), Thinking about language in The Rattrap, printed pp.44–45 |
 | Working vocabulary of a field: legal-procedure vocabulary (deposition etc.) | India — Flamingo (Class 12), Working with words in Indigo, printed p.55 |
+| “Irrigation” — irrigation texts and tasks (agriculture sector English) | Greece, Exploiting the Earth, Part A6, printed p.40 |
+| “Insects and other enemies of plants” — plant-pest texts | Greece, Exploiting the Earth, Part A9, printed p.54 |
+| “Field crops” — crop texts | Greece, Exploiting the Earth, Part A10, printed p.62 |
+| “Agricultural machines for preparing the soil” — machine texts | Greece, Exploiting the Earth, Part A11, printed p.68 |
+| “Harvesting and tying pick-up machines” — machine texts | Greece, Exploiting the Earth, Part A12, printed p.74 |
+| “Photosynthesis: storing energy” — science text and tasks | Greece, Exploiting the Earth, Part A15, printed p.92 |
+| “Greenhouses” — materials and equipment words; types of greenhouses | Greece, Exploiting the Earth, Part A16, printed pp.98–100 |
+| “Cooperatives – what are they?” — text on farm cooperatives | Greece, Exploiting the Earth, Part A17, printed p.104 |
+| The metals-working unit (recorded by its skills-table descriptor) — metals-working texts | Greece, Exploiting the Earth, Part B11, skills table pp.115–120 |
+| “Methods of joining pieces of metal” — joining-process texts | Greece, Exploiting the Earth, Part B12, skills table pp.115–120 |
+| “Atoms, molecules and their compounds” — chemistry texts | Greece, Exploiting the Earth, Part B13, skills table pp.115–120 |
+| Office Clerks Unit 6.1 “Market research” — marketing words and texts | Greece, English for Office Clerks, Unit 6.1, printed p.314 |
+| Office Clerks Unit 6.2 “Product identity” — branding words and texts | Greece, English for Office Clerks, Unit 6.2, printed p.318 |
+| Office Clerks Unit 6.6 “NPD” (new product development) | Greece, English for Office Clerks, Unit 6.6, printed p.334 |
+| Office Clerks Unit 6.8 “Partnership” — business-forms words and texts | Greece, English for Office Clerks, Unit 6.8, printed p.345 |
+| Office Clerks Unit 6.9 — management/purchasing text | Greece, English for Office Clerks, Unit 6.9, contents PDF p.8 |
+| “Mechanical Engineering Technicians” — what the job is; technical reading | Greece, English for Mechanical Engineering Technicians, Unit 1, PDF p.17 (unit start) |
+| “Drafting” — drawing-office texts and terms | Greece, English for Mechanical Engineering Technicians, Unit 2 |
+| “Metals” — metal texts | Greece, English for Mechanical Engineering Technicians, Unit 3 |
+| “Joining Metals” — joining method texts | Greece, English for Mechanical Engineering Technicians, Unit 5 |
+| “Machine Tools” — machine-tool texts | Greece, English for Mechanical Engineering Technicians, Unit 6 |
+| “Safety at Work” — safety rules and warnings | Greece, English for Mechanical Engineering Technicians, Unit 7 |
+| “Heat Engines” — engine texts | Greece, English for Mechanical Engineering Technicians, Unit 8 |
+| “The Car” — car systems vocabulary through a decision dialogue | Greece, English for Mechanical Engineering Technicians, Unit 9, printed p.224 |
+| “Refrigeration” — refrigeration texts | Greece, English for Mechanical Engineering Technicians, Unit 10 |
+| “Air Conditioning” — air-conditioning texts | Greece, English for Mechanical Engineering Technicians, Unit 11 |
+| Electricity Unit 9 “Safety at work” — electrical safety words and texts | Greece, ESP Coursebook: ELECTRICITY, Unit 9 |
+| Electricity Unit 10 “Safety for the user” — user-safety words and texts | Greece, ESP Coursebook: ELECTRICITY, Unit 10 |
+| Construction Text 1 “Protective Equipment” — personal protective equipment vocabulary; construction hazards; modal verbs by function; justifying PPE choices in writing | Greece, EPAL Construction folder, Text 1, printed p.9 |
+| Hotel Unit 5 “Hotel facilities (2)” — facilities words and texts | Greece, English for the Hotel and Tourist Trade, Unit 5, printed p.83 |
+| Hotel Unit 9 “Taking orders” — restaurant order-taking language | Greece, English for the Hotel and Tourist Trade, Unit 9, printed p.149 |
+| Hotel Unit 10 “At the restaurant (1)” — restaurant service language | Greece, English for the Hotel and Tourist Trade, Unit 10, printed p.167 |
+| Hotel Unit 11 “At the restaurant (2)” — restaurant service language | Greece, English for the Hotel and Tourist Trade, Unit 11, printed p.185 |
+| Hotel Unit 16 “Package tours” — package-tour words and texts | Greece, English for the Hotel and Tourist Trade, Unit 16, printed p.255 |
+| Hotel Unit 17 “Accommodation and catering” — accommodation and catering words | Greece, English for the Hotel and Tourist Trade, Unit 17, printed p.269 |
+| Hotel Unit 18 “Tourist information” — tourist-information language | Greece, English for the Hotel and Tourist Trade, Unit 18, printed p.279 |
+| The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 
 **Acceptance count: taught in 4 countries (Greece, Bolivia, China, India).** India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
@@ -62,7 +119,14 @@ tourist services, business correspondence, a 2,000-word
 glossary) and the Grade 11 EPAL English for Office Clerks
 course (the business letter's anatomy, office
 communications, a full export correspondence), with
-Bolivia's factory and electrical tool sets beside it. No other
+Bolivia's factory and electrical tool sets beside it.
+Greece's sector base was widened by the Greece
+re-verification sweep merge (2026-11-10): the rows here
+now also carry Exploiting the Earth (agriculture, mining,
+metallurgy), Mechanical Engineering Technicians, ESP
+Electricity, the Construction folder's protective-
+equipment text, Office Clerks Units 4–6, the Hotel book's
+remaining units and both sector teacher's books. No other
 country's books teach that trade stock, and none is claimed
 to. China joins on a different footing (stocked 2026-11-08
 by the re-verification sweep): not trade English, but the

@@ -108,6 +108,8 @@ the 2026-11-08 re-verification sweep.
 
 **Book 26:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
 
+**Book 27:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -153,6 +155,7 @@ the 2026-11-08 re-verification sweep.
 | “My work can make a difference” — environmental problems and campaigns; a friendly letter about environmental work | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 5, Lesson 3, printed pp.70–72 |
 | “Save the turtle” — review of tenses and modals; environment words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 7, Lesson 3, printed pp.81–84 |
 | Workbook “Save the turtle” — practice on environment words with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 7, Lesson 3, WB printed pp.76–86 |
+| “Basic anatomy of the tree” — tree-part vocabulary and description | Greece, Exploiting the Earth, Part A7, printed p.44 |
 
 **Acceptance count: taught in 11 countries (Albania, Mexico,
 Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and

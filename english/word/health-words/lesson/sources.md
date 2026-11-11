@@ -96,6 +96,8 @@ verification sweep.
 
 **Book 21:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
 
+**Book 22:** Greece EPAL Sector Material — Health (Health / Welfare sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0620. Filed in english/books/greece.md (Health folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -129,6 +131,8 @@ verification sweep.
 | “Food Pyramid” — review of tenses; the Mediterranean diet | Greece, Think Teen! Grade 9 Student's Book, Unit 8, Lesson 3, printed p.93 |
 | Workbook “Food Pyramid” — practice on diet and health words with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 8, Lesson 3, WB printed pp.87–96 |
 | “Adolescence” — texts and a quiz on teen habits, drugs and parents | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.10 |
+| Health Text 1 “Health Care Services” — hospital departments and health-service vocabulary; relative clauses; notes towards a complaint letter | Greece, EPAL Health folder, Text 1, printed p.9 |
+| Health Text 2 “First Aid” — first-aid tips and instructions; expressions with MAKE and DO | Greece, EPAL Health folder, Text 2, printed p.29 |
 
 **Acceptance count: taught in 12 countries (Albania, Bolivia,
 Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a

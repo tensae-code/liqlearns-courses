@@ -47,6 +47,10 @@ covers the 6th Year book only).
 
 **Book 13:** Greece Think Teen! 3rd Grade of Junior High School, Workbook, Grade 9: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new short texts per unit; its review sections are revision only and are not stocked.
 
+**Book 14:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
+
+**Book 15:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 4, Unit 6 "Hundreds": money enters — cost and Riel prices ("An orange costs 900 Riels"), "How much does an orange cost?", dozen, a restaurant-buying reading | Cambodia, ENGLISH Grade 5, Chapter 4, Unit 6, printed pp.86–89 |
@@ -65,6 +69,10 @@ covers the 6th Year book only).
 | Workbook “It's a Small World After All” — practice on customs and currency words with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 8, Lesson 23, WB printed pp.83–92 |
 | “Electricity bills” — comparison, modals, passive revision; lighting words | Greece, Think Teen! Grade 9 Student's Book, Unit 9, Lesson 3, printed p.105 |
 | Workbook “Electricity bills” — practice on bills and lighting words with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 9, Lesson 3, WB printed pp.97–106 |
+| Office Clerks Unit 5.7 “Don't sell the advertising budget short” | Greece, English for Office Clerks, Unit 5.7, printed p.278 |
+| Office Clerks Unit 5.10 “The price of publicity” | Greece, English for Office Clerks, Unit 5.10, printed p.291 |
+| Office Clerks Unit 6.10 “Credit cards” | Greece, English for Office Clerks, Unit 6.10, printed p.357 |
+| Hotel Unit 8 “Checking out and methods of payment” — payment language | Greece, English for the Hotel and Tourist Trade, Unit 8, printed p.133 |
 
 **Acceptance count: taught in 7 countries (Cambodia,
 Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece).** Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the

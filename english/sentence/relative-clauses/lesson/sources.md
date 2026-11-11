@@ -142,6 +142,8 @@ re-verification sweep.
 
 **Book 31:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
 
+**Book 32:** Greece EPAL Sector Material — Construction (Structural Works / Built Environment / Architectural Design sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0617. Filed in english/books/greece.md (Construction folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -182,6 +184,7 @@ re-verification sweep.
 | “Signs and travel” — relative clauses who/which/where/when/how; travel idioms | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 8, Lesson 2, printed pp.89–92 |
 | Workbook “Gadgets” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 3, Lesson 2, WB printed pp.33–44 |
 | Workbook “Signs and travel” — practice of relative clauses with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 8, Lesson 2, WB printed pp.87–97 |
+| Construction Text 2 “Public Works” — public-works text; relative clauses; writing a formal e-mail to a city council member | Greece, EPAL Construction folder, Text 2, printed p.25 |
 
 **Acceptance count: taught in 16 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,

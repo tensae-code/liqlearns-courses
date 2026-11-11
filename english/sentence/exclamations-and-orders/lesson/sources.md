@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -77,6 +77,8 @@ covers the 6th Year book only).
 **Book 23:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 24:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Imperatives: the base form for positive instructions, don't + base for negative; the note that they end with an exclamation point "because they are strong instructions" | Egypt, Primary 3, Term 2, printed p.8 (via EGYPT-BOOK-MAP.md) |
@@ -110,9 +112,10 @@ covers the 6th Year book only).
 | Giving And Responding To Commands/Instructions/Directions And Making R — Give and respond to commands, instructions | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.9.1, PDF p.99 (curriculum evidence) |
 | Giving And Following Commands/ Instructions/Directions And — Give and respond to commands, instructions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.9.1, PDF p.37 (curriculum evidence) |
 | Giving And Following Commands/ Instructions/Directions — Give and respond to commands, instructions; give | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.9.1, PDF p.109 (curriculum evidence) |
+| “Transplanting procedures” — the imperative; ways of giving advice; temporal and conditional clauses in instructions | Greece, Exploiting the Earth, Part A2, printed p.23 |
 
-**Acceptance count: taught in 8 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania).** A plan-anchor
+**Acceptance count: taught in 9 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece).** Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture

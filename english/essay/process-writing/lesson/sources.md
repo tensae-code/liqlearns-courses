@@ -44,6 +44,14 @@ verification sweep.
 
 **Book 14:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 15:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
+**Book 16:** Greece English for Mechanical Engineering Technicians, EPAL (Mechanical sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0376. Filed in english/books/greece.md (Mechanical Engineering Technicians section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 17:** Greece ESP Coursebook: ELECTRICITY, EPAL (Electrical / Electronics / Automation sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0513. Filed in english/books/greece.md (ESP Electricity section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Each unit carries FUNCTIONS and STRUCTURES tables.
+
+**Book 18:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The procedure shape — goal, ingredients/materials, steps — in recipes and a craft procedure (an instant-porridge pack as a first procedure; making a pencil holder) | Indonesia, Grade 7, Chapter 2 'Culinary and Me', printed pp.57–100 (as filed in indonesia.md) |
@@ -64,5 +72,12 @@ verification sweep.
 | A process text filled in: a recipe (Easy Palak-Dal) completed with words from a box — ingredients and steps; names of insects and how they affect health | India — Honeycomb (Class 7), Working with Language in The Invention of Vita-Wonk, printed p.103 |
 | A paragraph of packing tips completed — dos and don'ts learned from the characters' mistakes | India — Beehive (Class 9), Writing in Packing, printed p.90 |
 | “Recipes from around the world” (project) — recipes, quantity and cooking instructions | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 9, Lesson 3, printed pp.114–116 |
+| “Metallurgy – methods of ore dressing” — process texts | Greece, Exploiting the Earth, Part B4, skills table pp.115–120 |
+| “Metallurgy of iron – steelmaking” — process texts | Greece, Exploiting the Earth, Part B7, skills table pp.115–120 |
+| “Castings and heat treatment of metals” — process texts | Greece, Exploiting the Earth, Part B10, skills table pp.115–120 |
+| “Working with Metal” — workshop process texts | Greece, English for Mechanical Engineering Technicians, Unit 4 |
+| Electricity Unit 11 “Repairing electric cookers” — describing a procedure; imperatives; before/after/prior to + gerund; linking words | Greece, ESP Coursebook: ELECTRICITY, Unit 11 |
+| Hotel Unit 13 “Understanding and giving instructions (1)” — instruction language | Greece, English for the Hotel and Tourist Trade, Unit 13, printed p.221 |
+| Hotel Unit 14 “Understanding and giving instructions (2)” — instruction language | Greece, English for the Hotel and Tourist Trade, Unit 14, printed p.237 |
 
 **Acceptance count: taught in 8 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.

@@ -108,6 +108,8 @@ covers the 6th Year book only).
 
 **Book 22:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
 
+**Book 23:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Directions whole: "Excuse me. Where's the (post office)? It's (far from here / just around the corner). How long does it take? Go (straight) and you'll find it on your (left/right); in front of / behind you / opposite / next to the school" | Saudi Arabia, We Can! 3, Unit 11 "Hanging Out in Town", printed pp.82–89 |
@@ -135,6 +137,8 @@ covers the 6th Year book only).
 | Idiomatic prepositions of place: in bed (sleeping) against on the bed; at home, at work, at/in school; at the hospital (visiting or working) against in hospital (a patient) | Mauritania, Study English, Grade 13, printed p.30 |
 | “Walking in the street” (project) — road safety advice | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 8, Lesson 3, printed pp.102–104 |
 | “Trans-portation” — asking for and giving directions and information; informal letter layout; means of transport | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 5, Lesson 2, contents p.viii |
+| Hotel Unit 7 “Giving directions and information” — directions language for hotel guests | Greece, English for the Hotel and Tourist Trade, Unit 7, printed p.113 |
+| Hotel Unit 19 “Itineraries and tours” — route and itinerary language | Greece, English for the Hotel and Tourist Trade, Unit 19, printed p.291 |
 
 **Acceptance count: taught in 12 countries (Saudi Arabia,
 Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**

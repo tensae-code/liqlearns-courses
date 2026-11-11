@@ -88,6 +88,12 @@ colophon; cited once.
 
 **Book 19:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
 
+**Book 20:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
+
+**Book 21:** Greece ESP Coursebook: ELECTRICITY, EPAL (Electrical / Electronics / Automation sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0513. Filed in english/books/greece.md (ESP Electricity section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Each unit carries FUNCTIONS and STRUCTURES tables.
+
+**Book 22:** Greece EPAL Sector Material — Information Technology (IT sector): material folder with exactly 2 texts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0618. Filed in english/books/greece.md (IT folder section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1 computer hardware/software: the Magaly reading and collocations (scan a document, upload a photo, print a document); the parts of the computer numbered 1–6 — 1. DRIVE ("reads CD/DVD discs" as printed), 2. MONITOR (output device), 3. KEYBOARD (principal input device), 4. MOUSE (pointing device), 5. MODEM/ROUTER (network signal), 6. PRINTER | Bolivia, Year 2, Topic 6 "Convivencia intercultural a través del uso de la tecnología," student p.177 |
@@ -117,6 +123,21 @@ colophon; cited once.
 | A history reading: automatons, the ancestors of robots, up to modern robots (topic summary only) | Mexico, Grade 8, Project 6 "Automatons: The Ancestors of Robots", printed p. 46 |
 | The lapbook project: a lapbook on an artistic or cultural manifestation from an English-speaking country, and how adults perceive the internet and social media | Mexico, Grade 9, Project 19 "Social Media and Their Importance in the Transmission of Current Cultural and Artistic Manifestations", printed p. 174 |
 | “Do you like computers?” — like / don't like / enjoy / hate + -ing; computer and internet words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 1, Lesson 1, printed pp.13–17 |
+| Office Clerks Unit 4.1 — the computer unit's opening text | Greece, English for Office Clerks, Unit 4.1, contents PDF p.7 |
+| Office Clerks Unit 4.2 — computer unit text | Greece, English for Office Clerks, Unit 4.2, contents PDF p.7 |
+| Office Clerks Unit 4.3 “The use of microcomputers gives yourself an edge” | Greece, English for Office Clerks, Unit 4.3, printed p.224 |
+| Office Clerks Unit 4.4 “New scope for micros” — function, use and size of the computer | Greece, English for Office Clerks, Unit 4.4, printed p.228 |
+| Office Clerks Unit 4.5 “The high tech pitch” | Greece, English for Office Clerks, Unit 4.5, printed p.232 |
+| Office Clerks Unit 4.6 “The terminal salesman” | Greece, English for Office Clerks, Unit 4.6, printed p.236 |
+| Office Clerks Unit 4.7 “Reengineering” | Greece, English for Office Clerks, Unit 4.7, printed p.240 |
+| Electricity Unit 1 “Electricity – the power that transforms the world” | Greece, ESP Coursebook: ELECTRICITY, Unit 1 |
+| Electricity Unit 2 “Electricity holds the world together” | Greece, ESP Coursebook: ELECTRICITY, Unit 2 |
+| Electricity Unit 3 “Energy supply and demand” | Greece, ESP Coursebook: ELECTRICITY, Unit 3 |
+| Electricity Unit 4 “Power distribution systems” | Greece, ESP Coursebook: ELECTRICITY, Unit 4 |
+| Electricity Unit 5 “Test and measurement instruments” | Greece, ESP Coursebook: ELECTRICITY, Unit 5 |
+| Electricity Unit 6 “Electrical machines” | Greece, ESP Coursebook: ELECTRICITY, Unit 6 |
+| Electricity Unit 8 “Electrical drawing” | Greece, ESP Coursebook: ELECTRICITY, Unit 8 |
+| IT Text 1 “Network Devices and Equipment” — hubs, switches, routers, modems; network topologies; word formation (noun suffixes); modal verbs | Greece, EPAL Information Technology folder, Text 1, printed p.9 |
 
 **Acceptance count: taught in 9 countries (Bolivia, Vietnam,
 Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece).** Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered

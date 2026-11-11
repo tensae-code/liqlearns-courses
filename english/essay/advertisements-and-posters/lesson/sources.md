@@ -38,6 +38,8 @@ verification sweep.
 
 **Book 13:** Greece Think Teen! 2nd Grade of Junior High School, Workbook (Beginners — Αρχάριοι), Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. The workbook mirrors the 30 student lessons and carries new reading texts per unit; its review sections are revision only and are not stocked.
 
+**Book 14:** Greece English for Office Clerks, ESP Coursebook, EPAL (Administration & Economy sector): ESP student coursebook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0206, ISBN 978-960-06-2981-1. Filed in english/books/greece.md (Office Clerks section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Six units of numbered sub-lessons, each followed by consolidation exercises (revision — not stocked).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four consumer-product types (convenience, shopping, speciality, unsought); advertising methods (social media, posters, radio, public display) and audiences; creating and performing an advertising speech | Cambodia, ENGLISH Grade 12, Unit 17 'Advertising', printed pp.93–98 |
@@ -56,5 +58,12 @@ verification sweep.
 | “The Museum Leaflet” — talking and writing about a museum leaflet (project) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 5, Lesson 3, contents p.viii |
 | “Making an advertisement” — review of present simple/past simple; words for persuading | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 3, Lesson 3, printed pp.33–36 |
 | Workbook “Making an advertisement” — practice of persuasive words with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 3, Lesson 3, WB printed pp.33–44 |
+| Office Clerks Unit 5.1 “Ads: a challenge to buyers” | Greece, English for Office Clerks, Unit 5.1, printed p.254 |
+| Office Clerks Unit 5.3 “Make your holidays a real pleasure” | Greece, English for Office Clerks, Unit 5.3, printed p.261 |
+| Office Clerks Unit 5.4 “Welcome to Greece” | Greece, English for Office Clerks, Unit 5.4, printed p.264 |
+| Office Clerks Unit 5.5 “Why ads aren't black and white” | Greece, English for Office Clerks, Unit 5.5, printed p.269 |
+| Office Clerks Unit 5.6 “TV ads have to give the viewer a break” | Greece, English for Office Clerks, Unit 5.6, printed p.273 |
+| Office Clerks Unit 6.3 “The creative urge” — advertising creativity | Greece, English for Office Clerks, Unit 6.3, printed p.322 |
+| Office Clerks Unit 6.5 “Promotions” — promotional writing | Greece, English for Office Clerks, Unit 6.5, printed p.330 |
 
 **Acceptance count: taught in 9 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced.

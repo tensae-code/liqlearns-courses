@@ -1,6 +1,6 @@
 # Sources — Job application letters
 
-countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan
+countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece
 
 Every part traces to its book and page.
 
@@ -39,6 +39,10 @@ Ministry of General Education and Instruction, © 2018.
 Filed in english/books/south-sudan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 8:** Greece English for Office Clerks KEY / Teacher's Book, EPAL: teacher's book / answer key (image scan) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0207. Filed in english/books/greece.md (Office Clerks KEY section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Teacher evidence: per-sub-lesson answers and notes mirroring the student coursebook, read visually. The printed cover reads ENGLISH FOR OFFICE CLERKS; the string 'EGLISH' exists only in the PDF's hidden OCR layer — not a book error.
+
+**Book 9:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal email template whose stated purposes include job application — subject line, named greeting, "I am writing to [state your purpose clearly]", "Thank you for your time and consideration", "Yours sincerely" | Egypt, Secondary 10 Term 1, Unit 4, Lesson 5 (as filed in EGYPT-BOOK-MAP.md) |
@@ -49,9 +53,11 @@ CITATION CHECK PASSED 2026-11-03).
 | "Letters of application" as a named lesson pair inside the jobs unit | Uzbekistan, English Matters 9, Unit 9, Lessons 5–6, p.102 |
 | The covering letter coached paragraph by paragraph — its parts and paragraph order — written to a café waiter advert, with the learner's own letter as the outcome | Cambodia, Grade 12, Unit 30 "Applying for a job", printed pp.163–168 |
 | A job application letter as a primary unit's model — "A JOB APPLICATION LETTER" (p.74), "RE: APPLICATION FOR A VACANCY AS A TEACHER" (p.76) — inside a letter-writing unit whose vocabulary is applicant, referees, signature, salutation, address, recipient | South Sudan, Primary 6 Pupil's Book, Unit 6 "Letter Writing", printed pp.70–87 |
+| The whole Office Clerks key: answers and notes for the student coursebook's sub-lessons — mirror apparatus for the Office Clerks coursebook (teacher evidence) | Greece, English for Office Clerks KEY / Teacher's Book (teacher evidence), PDF pp.1–134 |
+| Hotel Unit 22 “Applying for a job” — job-application language for hotel work | Greece, English for the Hotel and Tourist Trade, Unit 22, Section D |
 
-**Acceptance count: taught in 7 countries (Egypt, Iraq,
-India, Laos, Uzbekistan, Cambodia, South Sudan).** India
+**Acceptance count: taught in 8 countries (Egypt, Iraq,
+India, Laos, Uzbekistan, Cambodia, South Sudan, Greece).** Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
 prints the advert–CV–covering-letter chain whole;
 Cambodia coaches the covering letter paragraph by
 paragraph; Uzbekistan names the kind as its own lessons;

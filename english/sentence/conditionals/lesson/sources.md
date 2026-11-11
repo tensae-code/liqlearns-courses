@@ -176,6 +176,8 @@ verification sweep.
 
 **Book 75:** Greece Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ, General English 2, Grades 11–12 EPAL: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0622. Filed in english/books/greece.md (Grade 11 EPAL — General English 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Its rows cite the book's printed contents pages (PDF pp.8–11), where the sweep recorded these units.
 
+**Book 76:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 2 (p.79, as filed in libya.md) |
@@ -337,6 +339,7 @@ verification sweep.
 | The Beginners teacher's guide for Unit 6 “What a waste!” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.107 |
 | Workbook Unit 5 (The myths we live by), lessons 1–3 — practice of the conditional forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 5, WB printed pp.53–63 |
 | “The Changing Face of Nature” — imperative; must/mustn't; have to/don't have to; can/can't; first conditional; environment and animal words | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.9 |
+| “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 
 **Acceptance count: taught in 31 countries (Egypt,
 Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at

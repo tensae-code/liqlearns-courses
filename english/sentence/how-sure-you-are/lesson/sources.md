@@ -96,6 +96,10 @@ differ only in cover wording and colophon; cited once.
 
 **Book 20:** Greece Think Teen! 3rd Grade of Junior High School, Teacher's Book, Grade 9: teacher's book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Teacher evidence: unit guides mirroring the student's book, with Revision Tests at printed p.177.
 
+**Book 21:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
+
+**Book 22:** Greece ESP Coursebook: ELECTRICITY, EPAL (Electrical / Electronics / Automation sector): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0513. Filed in english/books/greece.md (ESP Electricity section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Each unit carries FUNCTIONS and STRUCTURES tables.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -128,6 +132,8 @@ differ only in cover wording and colophon; cited once.
 | “Colours in our lives!” — modal verbs; phrases with 'go' | Greece, Think Teen! Grade 9 Student's Book, Unit 7, Lesson 1, printed p.73 |
 | Workbook Unit 7 (Shades of meaning!), lessons 1–3 — practice of the modal set with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 7, WB printed pp.76–85 |
 | The Grade 9 teacher's guide for Unit 7 “Shades of meaning!” | Greece, Think Teen! Grade 9 Teacher's Book (teacher evidence), printed p.107 |
+| “Farm management” — obligation and advice forms; the passive; purpose clauses (to, so that) | Greece, Exploiting the Earth, Part A18, printed p.110 |
+| Electricity Unit 12 “The electrical trade” — must/have to; should/ought to/had better; expressing opinion and preference | Greece, ESP Coursebook: ELECTRICITY, Unit 12 |
 
 **Acceptance count: taught in 11 countries (Cambodia,
 Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the

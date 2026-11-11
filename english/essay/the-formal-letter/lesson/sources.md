@@ -34,6 +34,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 7:** Greece English for the Hotel and Tourist Trade, Student's Book, Grade 12 EPAL (Hotel/Tourism speciality): ESP student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0215, ISBN 978-960-06-2987-3. Filed in english/books/greece.md (Hotel and Tourist Trade section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Units 15 and 20 are the book's own Revision units — named exclusions, not stocked.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The business letter's anatomy — headed notepaper, receiver's address, date, greeting, optional subject line, opening, body, complimentary close, signature — and the correspondence of address form, greeting and close | Greece, Office Clerks, "Things to keep in mind", printed pp.9–10 |
@@ -43,6 +45,7 @@ verification sweep.
 | Formal and informal style taught through invitations — a party letter, a formal wedding invitation and a reply judged for correctness; formal/informal vocabulary pairs (ask for/inform, find out, book/arrange) | Uzbekistan, English Matters 9, Unit 7 "Letter Matters", Lessons 5–8 (printed pp.78–81) |
 | The polite letter as a writing task: write to a school asking for information — introduce yourself, say when you are coming, politely ask, thank them — with polite indirect questions written for a study vacation abroad beside it | China — English ("Go for it!") Grade 9, Unit 3, printed p.23 |
 | A formal letter written properly: rewrite Mr Petronski's letter to Miss Mason as a proper formal letter (format, formal language, complete sentences — no informal words or fragments) | India — First Flight (Class 10), Writing in Hundred Dresses, printed p.82 |
+| Hotel Unit 23 “Letter writing” — business correspondence for the hotel trade | Greece, English for the Hotel and Tourist Trade, Unit 23, Section D |
 
 **Acceptance count: taught in 6 countries (Greece,
 Sudan, Laos, Uzbekistan, China, India).** India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
