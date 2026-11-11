@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -356,8 +356,8 @@ cited once.
 | Culture spot "Welcome to Britain": fish and chips — "I like fish and chips. There are lots of Fish and Chip shops in the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 5, pupil printed p.48 |
 | Project frame "My favourite food is pizza! Yummy!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 6, pupil printed p.48 |
 | Fruit or vegetable? — fruits strawberry, apple, orange, lemon, pear, banana against vegetables carrot, aubergine, potato, onion, peas, pepper (Activity Book "Going for CLIL" 6, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 6 key and instructions, Teacher's Book pp.131(T)–132(T) |
-**Acceptance count: taught in 44 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Bhutan).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
 North Macedonia joins with the two food sets and their likes exchanges, the fish-and-chips culture spot, the favourite-food frame and the fruit-or-vegetable CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge).
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
@@ -925,3 +925,29 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+**Book 2:** *Anthology of Songs, Rhymes and Poems* — Class I (student book) — Bhutan, 22 pp. Printed page = PDF page − 2 approx.; pages cited are printed pages.
+
+**Book 3:** *Reader Book 9: What Am I?* — Class I (student reader) — Bhutan, 22 pp. Cited as the whole book.
+
+**Book 4:** *Reader Book 2: I Like…* — Class PP (student photo reader) — Bhutan, 22 pp. Printed page = PDF page − 4 approx.; the text pages are cited.
+
+**Book 5:** *Reader Book 4: How Do Plants Provide Food?* — Class III (student reader) — Bhutan, 26 pp. Printed folios 1–19 on the content pages; the content pages are cited.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food songs: 'The Good Food Song' (vegetables are good for me), 'Fruit Salad' (watermelon, pineapple, banana, guava, mango, apricot, litchi, apple, orange, cucumber, papaya), 'Pat-a-Cake' (item 9) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.9–11 |
+| Food and drink rhymes: 'Drinks' (tap/spring/mineral water; suja and ngaja teas; juices), 'Mix a Pancake', 'Peanut Butter and Jelly', 'I Love Lollipop', 'Apple Cake Time' and the festival rhyme 'Diwali' (item 43) | Bhutan — Class I Anthology of Songs, Rhymes and Poems, printed pp.12–14, 16–18 |
+| Riddle reader: each vegetable describes itself and the reader guesses before the answer page — chilli, potato, bean, pumpkin, spinach, bitter gourd, squash, okra (item 58) | Bhutan — Class I Reader Book 9: What Am I?, whole book |
+| The food set of the 'I like…' photo reader: mangoes, bananas, cabbages, tomatoes, potatoes, chillies, eggs, rice (item 27, part) | Bhutan — Class PP Reader Book 2: I Like…, printed pp.2–18 (text pages) |
+| The fruit set of the plant-foods reader: fruit trees of cold and warm places; hard and dry fruits, soft and juicy fruits, citrus; where Bhutan's fruits ripen; tubers and food grains (item 122, part) | Bhutan — Class III Reader Book 4: How Do Plants Provide Food?, content pp.1–11 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

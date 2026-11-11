@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Haiti, Papua New Guinea
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Haiti, Papua New Guinea, Bhutan
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -63,8 +63,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 17 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein).** Liechtenstein joins with the “I'm sorry / no problem” courtesy pair of its Grade 1 teacher's handbook (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 18 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the “I'm sorry / no problem” courtesy pair of its Grade 1 teacher's handbook (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -347,3 +347,17 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class I (student book) — Bhutan, 22 pp. Printed page = PDF page − 2 approx.; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The sorry/excuse-me part of the manners rhyme 'How Nice I Am' (say sorry and excuse me, live the Golden Rule at school) (item 38, part) | Bhutan — Class I Anthology of Songs, Rhymes and Poems, printed pp.1–2 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

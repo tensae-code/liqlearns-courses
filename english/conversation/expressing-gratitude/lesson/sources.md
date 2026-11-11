@@ -1,6 +1,6 @@
 # Sources — Expressing Gratitude
 
-countries: Mauritania, Egypt, Laos, Ethiopia, Barbados, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, El Salvador
+countries: Mauritania, Egypt, Laos, Ethiopia, Barbados, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — the stronger forms: I'm grateful to you for…; that's really kind of you | Mauritania, Study English, Grade 8, printed pp.43–44; Grade 10, printed pp.33–34 |
 | Sub lesson 4 — the thank-you letter, to a whole family | Mauritania, Study English, Grade 10, printed pp.33–34 |
 
-**Acceptance count: taught in 6 countries (Mauritania, Egypt, Laos, Ethiopia, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Mauritania, Egypt, Laos, Ethiopia, Tunisia, Samoa, Bhutan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -159,3 +159,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Manners song 'Manners' (to Twinkle Twinkle): saying thank you and please, not interrupting or teasing, listening when people talk, sharing toys and taking turns (item 3) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed p.3 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Canada, Singapore, Zambia
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Canada, Singapore, Zambia, Bhutan
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
 banner at the head of english/books/libya.md; its scrub
@@ -279,7 +279,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 36 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein)** — the
+**Acceptance count: taught in 37 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Bhutan)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -1431,3 +1431,23 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia joins this lesson as a distinction country only, on teacher evidence alone: its rows are set poems named for theme study and one set poem analysed whole, stocked as theme summaries only; no complete book-length text is in hand, and Zambia does not join the complete-text countries (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Curriculum Guide for Teachers, Class I* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 277 pp. Pages cited are the guide's printed pages. The guide's overview proves the Class I reader series and its order — including Reader Book 2, *What Time Is It, Momo?*, as the main text of Unit 2 Weeks 2–4; the file held under that title is byte-identical to Book 1 (md5 0ef2a9534fdb27efc77805e8f7ef03dd), so the genuine Book 2 is not in hand and nothing is cited from it (flag F2).
+
+**Book 2:** *Reader Book 1: The True Son* — Class III (student reader) — Bhutan, 24 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 3:** *Reader Book 5: The Lion and the Hare* — Class III (student reader, adapted from the Class VI Druk English Series) — Bhutan, 14 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE — the guide's main-text map proves the Class I reader series and its order: 'Look for Me' (big book) and 'The School' in Unit 1; 'What Time Is It, Momo?' as main text of Unit 2 Weeks 2–4; 'Momo and the Bananas' in Weeks 5–6; 'Work' and 'Twelve Animals of Bhutan' in Unit 3; 'The Elephant's Trunk', 'At the Market' and 'What Am I?' in Unit 4; 'Water' and 'Momo and the Leopard' in Unit 5; the Cats supplementary reader in Unit 2. The same map proves the filed Book 2 copy is a duplicate of Book 1: the genuine 'What Time Is It, Momo?' is a real book that is not in hand (flag F2) (item 63) | Bhutan — Class I Teacher's Guide (teacher evidence), Overview Plan, printed pp.xlv–l |
+| Graded story read whole — 'The True Son' (plot summary only): Norbu runs away at night; a demon boy exactly like him challenges him; the lama's vase test traps the demon, and Norbu is declared the true son (item 90). Stocked as a distinction-only row: a complete graded reader read whole, not a book-length text | Bhutan — Class III Reader Book 1: The True Son, printed pp.1–18 (whole book) |
+| Graded fable read whole — 'The Lion and the Hare' (plot summary only): the hare, sent late as the lion's food, invents a bigger rival lion; the lion sees his own reflection in the pit, jumps in to fight it and dies (item 91). Stocked as a distinction-only row: a complete graded reader read whole, not a book-length text | Bhutan — Class III Reader Book 5: The Lion and the Hare, printed pp.1–9 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together. Bhutan's two pupil-book rows are distinction-only (complete graded readers read whole — *The True Son* and *The Lion and the Hare* — not book-length texts), and its teacher-guide row is evidence of the reader series itself; the acceptance count above was updated for Bhutan on that footing.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

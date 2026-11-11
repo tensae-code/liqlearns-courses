@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Canada, El Salvador
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Canada, El Salvador, Bhutan
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 with bound-in
@@ -100,7 +100,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 31 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its letter writing — the e-pal e-mail, the holiday postcard, and Mr Hatch's gap-fill email (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 32 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Bhutan).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its letter writing — the e-pal e-mail, the holiday postcard, and Mr Hatch's gap-fill email (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -851,3 +851,20 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Workbook* — Class III (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 2:** *English Curriculum Guide for Teachers, Class III* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 143 pp. Pages cited are the guide's printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Friendly-letter writing: a labelled model letter (sender's address, date, salutation, body, complementary closure, signature, name) inviting a friend for the summer vacation, then learners write their own friendly letter using all the components (item 106) | Bhutan — Class III English Workbook, printed pp.31–32 |
+| TEACHER EVIDENCE — the personal-letter writing strand named in the guide's Class III theme and genre map (item 124, part) | Bhutan — Class III Teacher's Guide (teacher evidence), Overview Plan, printed pp.xlv–xlvii |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

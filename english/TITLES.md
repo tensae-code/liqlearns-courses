@@ -85,6 +85,11 @@ its own subtitle folder with its own lesson + questions):
   merge — **Unit 3, Sounds Together**) ·
   tongue-twisters (added 2026-11-11 by the Zambia
   expansion merge — **Unit 3, Sounds Together**) ·
+  split-vowel-digraphs · alternative-spellings-soft-c-and-g ·
+  alternative-spellings-r-vowel-and-wa ·
+  alternative-spellings-le-endings-and-doubles (added
+  2026-11-11 by the Bhutan expansion merge — **Unit 3,
+  Sounds Together**) ·
   sight-words (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 4, First Words**)
 - Conversation → hello-and-your-name · how-are-you ·
@@ -374,7 +379,9 @@ its own subtitle folder with its own lesson + questions):
   library-skills · media-studies-newspapers ·
   media-studies-magazines-and-brochures (added 2026-11-11
   by the Samoa expansion merge — **Unit 15, Reading
-  Whole Texts**)
+  Whole Texts**) ·
+  non-fiction-texts (added 2026-11-11 by the Bhutan
+  expansion merge — **Unit 15, Reading Whole Texts**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**) · the-writing-process
   (added 2026-11-11 by the Samoa expansion merge —
@@ -396,7 +403,9 @@ its own subtitle folder with its own lesson + questions):
   Poems in Detail**) · novel-study ·
   studying-themes-in-literature (added 2026-11-11 by
   the Fiji expansion merge — **Unit 41, Stories and
-  Poems in Detail**)
+  Poems in Detail**) ·
+  poems (added 2026-11-11 by the Bhutan expansion
+  merge — **Unit 41, Stories and Poems in Detail**)
 **Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
 additions inside Units 2, 3, 5, 7, 8 — full map in
 CATCH-UP-PLAN.md and CURRICULUM.md):** Sentence → question-tags ·

@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, El Salvador, Zambia
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, El Salvador, Zambia, Bhutan
 
 Every part traces to its book and page.
 
@@ -212,8 +212,8 @@ verification sweep.
 | A chant: "Touch my face, touch my hair! Touch my ears, touch my mouth, touch my eyes… Two of those!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 2, pupil printed p.53 |
 | Body words arm and leg with the command game "Touch your arm!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
 | The action song "If you're happy and you know it, clap your hands / nod your head / stamp your feet" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
-**Acceptance count: taught in 43 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein).** Liechtenstein joins with the body and sensing-body sets of its LieLa books (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 44 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the body and sensing-body sets of its LieLa books (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -667,3 +667,30 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+**Book 2:** *Anthology of Songs, Rhymes and Poems* — Class II (student book) — Bhutan, 28 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 3:** *Reader Book 5: The Body* — Class II (student reader) — Bhutan, 24 pp. Printed page = PDF page − 5 approx.; pages cited are printed pages.
+
+**Book 4:** *English Workbook* — Class III (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 5:** *English Curriculum Guide for Teachers, Class I* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 277 pp. Pages cited are the guide's printed pages. The guide's overview proves the Class I reader series and its order — including Reader Book 2, *What Time Is It, Momo?*, as the main text of Unit 2 Weeks 2–4; the file held under that title is byte-identical to Book 1 (md5 0ef2a9534fdb27efc77805e8f7ef03dd), so the genuine Book 2 is not in hand and nothing is cited from it (flag F2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Action and movement rhymes naming body parts and movements — 'Hop a Little', 'Roly Poly', 'This Is the Way We Sit on the Chair', 'Teddy Bear, Teddy Bear', 'Walking in the Jungle', 'It's Time to Clean Up', 'I Wiggle' (item 2) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.2–6, 14 |
+| Body songs: 'Head and Shoulder' (head, shoulders, knees, toes, eyes, ears, nose, mouth) and 'Ten Little Fingers' (item 12) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.14, 18 |
+| Action songs with body movement — 'Lubin Loo', 'With My Hands on My Head' (cumulative body nicknames), 'Put Your Fingers on Your Head', 'One Finger, One Thumb', 'Head and Shoulders' (item 67) | Bhutan — Class II Anthology of Songs, Rhymes and Poems, printed pp.3, 12–15 |
+| Information reader on what is under the skin: bones (206 in the body), muscles working in twos, digestion, and blood and the pulse (item 78) | Bhutan — Class II Reader Book 5: The Body, printed pp.1–18 |
+| The five senses: the poem 'I am a bee', comprehension questions, sentences with see/hear/taste/smell/feel, and sorting a word box into SEE / SMELL / HEAR / TASTE / TOUCH columns (item 94) | Bhutan — Class III English Workbook, printed pp.5–8 |
+| Body parts teaching named in the Class I topic map (Unit 1) (item 64, part) | Bhutan — Class I Teacher's Guide (teacher evidence), Overview Plan, printed pp.xlv–l |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

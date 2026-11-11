@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Zambia
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Zambia, Bhutan
 
 Every part traces to its book and page.
 
@@ -492,8 +492,8 @@ verification sweep.
 | An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
 | Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
 | Passage comprehension taught as its own chapter: solved examples first, then exercises | Pakistan, *English Grammar & Composition 9–10*, Chapter V, printed p.31 |
-**Acceptance count: taught in 44 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+**Acceptance count: taught in 45 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Bhutan).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -2033,3 +2033,29 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Curriculum Guide for Teachers, Class PP* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 225 pp. Pages cited are the guide's printed pages.
+
+**Book 2:** *English Workbook* — Class III (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 3:** *Reader Book 2: Punakha Domchoe* — Class III (student reader) — Bhutan, 34 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 4:** *English Reading & Literature* — Class IX (student anthology; Department of School Education, Reprint 2024) — Bhutan, 98 pp. Pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE — emergent reading method and content: shared and guided reading of the PP big books and readers, dialogue reading in pairs, KWL charts (item 31) | Bhutan — Class PP Teacher's Guide (teacher evidence), Unit 4 plans, printed pp.92–94 (PDF pp.150–151) |
+| Healthy-living comprehension on the anthology story 'Two Unforgettable Days' (who the children are, the food they loved, why they fell sick, the doctor's advice, the lesson learned) plus sentence-making with ten story words (item 104) | Bhutan — Class III English Workbook, printed pp.26–27 |
+| History reader (summary only): Zhabdrung Ngawang Namgyal comes to Bhutan in 1616, builds the dzongs, fools the Tibetan soldiers twice at Punakha, and the book closes with today's Domchoe festival (item 119) | Bhutan — Class III Reader Book 2: Punakha Domchoe, printed pp.1–28 |
+| TEACHER EVIDENCE — the Class IX front matter prints the Key Stage IV Standards and twelve Learning Objectives for Reading & Literature (critical reading, identifying genres, inter-textual connections, evaluating point of view, building vocabulary and pronunciation) — the frame the whole IV–XII anthology series is taught under (item 150) | Bhutan — Class IX English Reading & Literature, printed pp.ix–x |
+| First aid reading with yes/no and multiple-choice comprehension: what to do for a nosebleed (item 95, part) | Bhutan — Class III English Workbook, printed pp.9–10 |
+| The comprehension questions on the family reading 'My Lovely Family' (item 97, part) | Bhutan — Class III English Workbook, printed pp.13–14 |
+| Comprehension questions and sentence-making after the reader's theatre play (item 101, part) | Bhutan — Class III English Workbook, printed pp.20–22 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

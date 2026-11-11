@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Haiti, Papua New Guinea, Zimbabwe, El Salvador
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Haiti, Papua New Guinea, Zimbabwe, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -385,9 +385,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 43 countries (Egypt, India,
+**Acceptance count: taught in 44 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Liechtenstein).** Liechtenstein joins with the date ordinals of its Grade 1 booklet and the shape-counting work of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Liechtenstein, Bhutan).** Liechtenstein joins with the date ordinals of its Grade 1 booklet and the shape-counting work of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -999,3 +999,34 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+**Book 2:** *Reader Big Book: Dechen and Dorji's Father* — Class PP (student big book) — Bhutan, 16 pp. Printed page = PDF page − 2; pages cited are printed pages.
+
+**Book 3:** *Anthology of Songs, Rhymes and Poems* — Class I (student book) — Bhutan, 22 pp. Printed page = PDF page − 2 approx.; pages cited are printed pages.
+
+**Book 4:** *Supplementary Reader: Cats* — Class I (student reader) — Bhutan, 14 pp. Cited as the whole book.
+
+**Book 5:** *Anthology of Songs, Rhymes and Poems* — Class II (student book) — Bhutan, 28 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 6:** *Anthology of Songs, Rhymes, Poems and Short Stories* — Class III (student book) — Bhutan, 44 pp. Printed page = PDF page − 4; pages cited are printed pages. Its contents page misprints 'Two Unforgetable Days' and 'Aknowledgement' — noted, and taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Counting rhymes: 'One, Two, Three, Four, Five' (once I caught a fish alive), 'Monkey on the Bed' (counting down), 'Where Is Thumbkin' (finger names) (item 15) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.25–27 |
+| Counting in the father's-house big book: three horses and two cows, eight hens and four goats, two brown horses and one white, seven small black piglets, seven white eggs (item 24) | Bhutan — Class PP Big Book: Dechen and Dorji's Father, printed pp.1–14 |
+| Counting-down song 'Ten Little Mice' ('How many mice were left? Can you count them?') (item 37) | Bhutan — Class I Anthology of Songs, Rhymes and Poems, printed pp.1–3 |
+| Counting-down rhyme reader: four little cats under a tree, one climbs it — 'How many cats do you see on the ground?' — down to none (item 61) | Bhutan — Class I Supplementary Reader: Cats, whole book |
+| Counting body parts in 'Ten Little Fingers' (ten fingers, ten toes, two ears, one nose, two eyes, one mouth) (item 12, part) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.14, 18 |
+| The counting part of the litter song 'Don't Throw Your Junk in My Backyard' (bottles popping one to seven) (item 68, part) | Bhutan — Class II Anthology of Songs, Rhymes and Poems, printed pp.4–5 |
+| Counting song 'One Man Went to Mow' (one man and his dog, two men… up to five) (item 71, part) | Bhutan — Class II Anthology of Songs, Rhymes and Poems, printed pp.10–11, 18 |
+| The counting song 'One Little Red Bird' (one bird to ten) in the action and counting songs (item 114, part) | Bhutan — Class III Anthology of Songs, Rhymes, Poems and Short Stories, printed pp.29–39 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

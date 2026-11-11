@@ -1,6 +1,6 @@
 # Sources — Recount Text
 
-countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Haiti, Papua New Guinea, Zimbabwe, El Salvador
+countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Haiti, Papua New Guinea, Zimbabwe, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — writing a recount text | Indonesia, English for Nusantara Grade 9, printed p.119 |
 | Sub lesson 3 — a recount of a sports event, as the kind's public model | Indonesia, Work in Progress Grade 10, Chapter 2, printed p.29 |
 
-**Acceptance count: taught in 9 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 10 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Bhutan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -220,3 +220,20 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Reader Book 2: Blessed Rainy Day* — Class II (student reader) — Bhutan, 19 pp. Cited as the whole book.
+
+**Book 2:** *English Curriculum Guide for Teachers, Class II* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 145 pp. Pages cited are the guide's printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| First-person reader recounting the festival day in time order: waking to sun, the blessed water, bathing, new kira and gho, prayers at the temple, momos and suja, a family picnic by the river, rain at four o'clock, clearing the litter, bed at eight (item 75) | Bhutan — Class II Reader Book 2: Blessed Rainy Day, whole book |
+| TEACHER EVIDENCE — Blessed Rainy Day taught as a recount in the guide's theme and genre map (item 83, part) | Bhutan — Class II Teacher's Guide (teacher evidence), Overview Plan, printed pp.xlv–xlviii |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

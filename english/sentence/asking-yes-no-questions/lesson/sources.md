@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, El Salvador
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -293,9 +293,9 @@ cited once.
 | Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
 | Yes/no questions built two ways — with be (am/is/are) and with do/does — with dialogue practice asking and answering identity questions in the simple present | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed pp. 21, 25 |
 | The Easter egg game exchange "Have you got my egg? — No!", with making an Easter bunny mask | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.71 |
-**Acceptance count: taught in 43 countries (Bangladesh,
+**Acceptance count: taught in 44 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein).** Liechtenstein joins with the animal-guessing, post-box and job guessing games of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its guessing and possession questions — 'Is it a…?' and 'Have you got…?' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What is it? It's a … / What are they?” (Grade 1) and present simple habit questions “Do you …? Yes, I do / No, I don't” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the animal-guessing, post-box and job guessing games of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its guessing and possession questions — 'Is it a…?' and 'Have you got…?' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What is it? It's a … / What are they?” (Grade 1) and present simple habit questions “Do you …? Yes, I do / No, I don't” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -700,3 +700,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *CVC Stories* — Class PP (student decodable reader) — Bhutan, 13 pp. Printed page = PDF page − 3; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The yes/no frame of the decodable CVC stories: 'Is it a pan/ant/pin/tap? Yes, it is / No, it is not' and the yes/no questions of 'Zam's Pets' (item 19, part) | Bhutan — Class PP CVC Stories, printed pp.1–10 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

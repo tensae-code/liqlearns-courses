@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, El Salvador, Zambia
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, El Salvador, Zambia, Bhutan
 
 Every part traces to its book and page.
 
@@ -205,7 +205,7 @@ re-verification sweep.
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
 | Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The possessive case ('s / s') named in the guide's Unit Ten content list for identifying people (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.30 |
-**Acceptance count: taught in 41 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Liechtenstein).** Liechtenstein joins with the possessive 's work of its Grade 1 booklet's family page (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 42 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Liechtenstein, Bhutan).** Liechtenstein joins with the possessive 's work of its Grade 1 booklet's family page (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -836,3 +836,17 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Workbook* — Class III (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessive pronouns mine/yours/his/hers/ours/theirs in gap-fill sentences (model: 'I like your dress. Do you like mine?') (item 99) | Bhutan — Class III English Workbook, printed p.16 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

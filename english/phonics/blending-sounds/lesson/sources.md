@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Zambia
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -146,7 +146,7 @@ verification sweep.
 | The short-a sound, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Alphabet sounds — the sounds the letters make | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 
-**Acceptance count: taught in 22 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa).** Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 23 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Bhutan).** Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -780,3 +780,32 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *CVC Stories* — Class PP (student decodable reader) — Bhutan, 13 pp. Printed page = PDF page − 3; pages cited are printed pages.
+
+**Book 2:** *Phonics Workbook* — Class PP (student workbook) — Bhutan, 27 pp. Printed page = PDF page − 4 (roman front matter i–iv); pages cited are printed pages.
+
+**Book 3:** *English Curriculum Guide for Teachers, Class PP* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 225 pp. Pages cited are the guide's printed pages.
+
+**Book 4:** *Phonics Workbook* — Class I (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4 approx.; pages cited are printed pages.
+
+**Book 5:** *SSP Packs — Structured Synthetic Phonics in Class III* (TEACHER EVIDENCE ONLY: a teacher assessment/resource pack — PLD Organisation, 'Hear Hear for Bhutan — Class III Pack', ISBN 978-1-925769-37-1 — cited for what it teaches, never as a pupil's book) — Bhutan, 91 pp. The pack carries no printed folio sequence; PDF pages are cited.
+
+**Book 6:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Decodable CVC story set, each story built from taught sounds with 'I can sound out and read words' lists and checks: 'Is it?', 'I see a cat', 'The Bus', 'Ram's Yak', 'Bob in the Mud', 'Zam's Pets', 'I am a…?', 'Dad's Bag', 'The Man Om' (item 19) | Bhutan — Class PP CVC Stories, printed pp.1–10 |
+| First-sounds workbook on the SSP sound groups: circle the picture matching the beginning sound (s, a, t, p, i, n first), sound out and match CVC words to pictures, write beginning/middle/end sounds (item 20) | Bhutan — Class PP Phonics Workbook, printed pp.1–5 |
+| TEACHER EVIDENCE — SSP sound teaching in four groups across the year (group 1: s, a, t, p; groups 2–3: i, n, c, h, e, r, m, d, g, o, u, l, f, b; group 4: x, j, q, k, z, v, w, y), with daily phonemic-awareness training in blending (for decoding) and segmenting (for spelling) (item 29) | Bhutan — Class PP Teacher's Guide (teacher evidence), Units 1–5 weekly plans, e.g. Unit 4 Week Six, printed pp.93–95 (PDF pp.150–153) |
+| CVC revision and spelling method: sound-out word-search, teacher-dictated CVC words in sound boxes, read-draw-write phrases, rearranging jumbled letters into CVC words (item 46) | Bhutan — Class I Phonics Workbook, printed pp.1–4 |
+| Stage 1 and Stage 2 review sound charts (repeated class sets): single sounds and CVC sounding-out, consonant digraphs, vowel digraphs, tricky words, and sounding-out-and-spelling word rows — the chart set reprinted for class use, counted once (item 118) | Bhutan — Class III SSP Packs (teacher assessment pack — evidence), PDF pp.4–91 |
+| The sounds part of the letter-sound action song (an action per initial sound) (item 8, part) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.17–18 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

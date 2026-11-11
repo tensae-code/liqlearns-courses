@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -626,3 +626,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is EVIDENCE ONLY** — every Bhutan row below rests on a teacher's guide, the SSP assessment pack, or teacher-facing apparatus inside a pupil book, so Bhutan is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Curriculum Guide for Teachers, Class I* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 277 pp. Pages cited are the guide's printed pages. The guide's overview proves the Class I reader series and its order — including Reader Book 2, *What Time Is It, Momo?*, as the main text of Unit 2 Weeks 2–4; the file held under that title is byte-identical to Book 1 (md5 0ef2a9534fdb27efc77805e8f7ef03dd), so the genuine Book 2 is not in hand and nothing is cited from it (flag F2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE — days of the week and telling the time named in the Class I topic map: 'Can tell time' (Unit 2) — the unit whose main text is Reader Book 2, 'What Time Is It, Momo?', a real book the library's filed copy does not contain (flag F2) (item 64) | Bhutan — Class I Teacher's Guide (teacher evidence), Overview Plan, printed pp.xlv–l |
+
+Bhutan enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

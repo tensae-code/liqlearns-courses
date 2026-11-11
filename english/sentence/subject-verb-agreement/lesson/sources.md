@@ -1,6 +1,6 @@
 # Sources — Subject-verb agreement
 
-countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia, Kuwait, Fiji, Eritrea, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Zambia
+countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia, Kuwait, Fiji, Eritrea, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Zambia, Bhutan
 
 Every part traces to its book and page.
 
@@ -324,3 +324,17 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is EVIDENCE ONLY** — every Bhutan row below rests on a teacher's guide, the SSP assessment pack, or teacher-facing apparatus inside a pupil book, so Bhutan is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Reading & Literature* — Class IV (student anthology; Department of School Education, Revised Edition 2023, Reprint 2024) — Bhutan, 53 pp. Printed page = PDF page − 8; pages cited are printed pages. The imprint prints the ISBN as 975-99936-0-683-3 (malformed — Classes V and VI print the same series correctly as 978-99936-…); noted, not silently corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE inside the pupil book's headnote — subject–verb agreement and subject–verb–object sentence structure are taught from the 'Some Small Mammals in Bhutan' text (its essay set is stocked in non-fiction-texts) (item 132) | Bhutan — Class IV English Reading & Literature, printed p.25 headnote |
+
+Bhutan enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

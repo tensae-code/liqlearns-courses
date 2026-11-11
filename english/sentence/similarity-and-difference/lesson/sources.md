@@ -1,6 +1,6 @@
 # Sources — Similarity and Difference
 
-countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Haiti
+countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Haiti, Bhutan
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — difference: different from, unlike, not the same as, not similar to | Mauritania, Study English, Grade 9, printed pp.21–24; repeated at Grade 10, printed pp.9–10 |
 | Sub lesson 4 — whereas joining the two sides | Mauritania, Study English, Grade 9, printed pp.21–24 |
 
-**Acceptance count: taught in 10 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein).** Liechtenstein joins with the as … as comparisons of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the as … as comparisons of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -178,3 +178,17 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Workbook* — Class III (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Completing similes after 'The Clothesline' (as white as…, as green as…, as red as…, as blue as…) (item 110, part) | Bhutan — Class III English Workbook, printed pp.44–47 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

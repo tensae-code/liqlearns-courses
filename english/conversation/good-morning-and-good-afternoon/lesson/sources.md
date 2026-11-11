@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen, Laos, Cyprus, Eritrea, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen, Laos, Cyprus, Eritrea, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Bhutan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -69,7 +69,7 @@ verification sweep.
 | Greetings by time of day — good morning / afternoon / evening, good night — with nice to meet you (too) | Mauritania, Study English, Grade 7, printed pp.11–12 |
 | The greeting taught from the year's first poem: "Good Morning" (Fannie R. Buchanan) — the child greets sky, sun, winds, birds, trees, grass and bees on waking; talk time: "In the morning I say Good morning, at night Good night", and saying Good morning in your own language | India — Marigold Book Three (Class 3), Unit 1, printed pp.1–10 |
 
-**Acceptance count: taught in 32 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen, Laos, Cyprus, Eritrea, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its greetings — 'Good morning' and 'How are you?' (Year 1) and the time-of-day greetings (Year 4) (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 33 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen, Laos, Cyprus, Eritrea, Uruguay, Bhutan).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its greetings — 'Good morning' and 'How are you?' (Year 1) and the time-of-day greetings (Year 4) (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -514,3 +514,20 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+**Book 2:** *Anthology of Songs, Rhymes and Poems* — Class II (student book) — Bhutan, 28 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greeting and day-opening songs: 'Good Morning' (with Kuzu Zangpo / Namaste / Good Afternoon variants and no-sun / cloudy / raining weather variants) and 'Where is Tashi?' (item 1) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.1–3 |
+| The greeting set 'Good Morning' (Kuzu Zangpo / Namaste / Good Afternoon verses), printed again in the Class II anthology (item 70, part) | Bhutan — Class II Anthology of Songs, Rhymes and Poems, printed pp.22–24 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

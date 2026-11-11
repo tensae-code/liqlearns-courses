@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Andorra
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Libya, Uzbekistan, Ethiopia, Afghanistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Andorra, Bhutan
 
 Every part traces to its book and page.
 
@@ -708,3 +708,17 @@ The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs �
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is EVIDENCE ONLY** — every Bhutan row below rests on a teacher's guide, the SSP assessment pack, or teacher-facing apparatus inside a pupil book, so Bhutan is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Reading & Literature* — Class V (student anthology; Department of School Education, Revised Edition 2023, Reprint 2024; ISBN 978-99936-0-684-0) — Bhutan, 74 pp. Pages cited are printed pages. Two headnote rationales carry print slips ('smetimes decide to seperate'; 'Thepoen camnn be used'); noted where a row rests on those pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE — the Class V headnotes project direct and indirect speech from 'The Wise Old Woman' (with compound and complex sentences, possessives and punctuation, and readers' theatre on its dialogue), and parts of speech from 'The Ladybug Garden'. Stocked here under the placements' reported-speech target, which this lesson carries for direct/indirect speech (item 135) | Bhutan — Class V English Reading & Literature, printed p.9 and p.15 headnotes |
+
+Bhutan enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

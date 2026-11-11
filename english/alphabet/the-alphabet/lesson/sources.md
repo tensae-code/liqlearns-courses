@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, El Salvador, Zambia
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, El Salvador, Zambia, Bhutan
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -393,7 +393,7 @@ sound is learned.
 | Writing Letters – Small And Capital — Match lower and upper case letters Reading and Writing Skills general skills | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.3.1, PDF p.51 (curriculum evidence) |
 | Writing Letters – Small And Capital | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 4 (Writing), standard B2.4.3.1, PDF p.78 (curriculum evidence) |
 | Letter Writing — write letters to friends about events, using the letter format | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.15.1, PDF p.161 (curriculum evidence) |
-**Acceptance count: taught in 40 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein).** Liechtenstein joins with the letter-spelling dialogue work of its LieLa books (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
+**Acceptance count: taught in 41 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the letter-spelling dialogue work of its LieLa books (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -1087,3 +1087,34 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+**Book 2:** *Phonics Workbook* — Class PP (student workbook) — Bhutan, 27 pp. Printed page = PDF page − 4 (roman front matter i–iv); pages cited are printed pages.
+
+**Book 3:** *English Curriculum Guide for Teachers, Class PP* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 225 pp. Pages cited are the guide's printed pages.
+
+**Book 4:** *Handwriting Book* — Class PP (student book; Reprint 2024) — Bhutan, 63 pp. Image-only; read from page renders. Printed folio = PDF page; pages cited are printed pages.
+
+**Book 5:** *Anthology of Songs, Rhymes and Poems* — Class I (student book) — Bhutan, 22 pp. Printed page = PDF page − 2 approx.; pages cited are printed pages.
+
+**Book 6:** *English Curriculum Guide for Teachers, Class I* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 277 pp. Pages cited are the guide's printed pages. The guide's overview proves the Class I reader series and its order — including Reader Book 2, *What Time Is It, Momo?*, as the main text of Unit 2 Weeks 2–4; the file held under that title is byte-identical to Book 1 (md5 0ef2a9534fdb27efc77805e8f7ef03dd), so the genuine Book 2 is not in hand and nothing is cited from it (flag F2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The alphabet song (A–Z in order, 'Now I've learned my ABCs') (item 7) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed p.9 |
+| Letter-sound action song: 'If You're Happy and You Know It' in a sound-song version working through the alphabet with an action per initial sound (item 8) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.17–18 |
+| Whole-alphabet sound coverage in the phonics workbook: tick the correct beginning sound through the alphabet, colour the picture matching the late-letter sounds (x, j, q, k, y, z, v, w), rearrange jumbled sounds, write beginning and end sounds (item 21) | Bhutan — Class PP Phonics Workbook, printed pp.6–12 |
+| TEACHER EVIDENCE — letter formation: motor skills, recognising and writing lower-case letters with verbal cues, the appendix 'Formation of Letters' chart and a letter-formation rubric (item 30) | Bhutan — Class PP Teacher's Guide (teacher evidence), appendix, printed pp.124–131 |
+| Pre-writing stroke patterns to trace with direction arrows: horizontal left-to-right lines, zigzags, verticals, curves and ovals — letter-formation readiness evidence (item 35) | Bhutan — Class PP Handwriting Book, printed pp.1–10 |
+| Write pages — one letter per page on three-line grids with a large model letter: all 26 lowercase letters in the phonics teaching order, then the capital letters (item 36) | Bhutan — Class PP Handwriting Book, printed pp.11–63 |
+| The Class I printing of the alphabet sound song 'If You're Happy and You Know It' (the same A–Z action-per-sound version as the PP anthology) (item 39) | Bhutan — Class I Anthology of Songs, Rhymes and Poems, printed pp.4–5 |
+| TEACHER EVIDENCE — the letter formation appendix and the Class I high-frequency word list, with a word wall organised from Unit 1 Week 1 (item 65) | Bhutan — Class I Teacher's Guide (teacher evidence), appendices, printed pp.212–220 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua, Palestine, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, El Salvador
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua, Palestine, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, El Salvador, Bhutan
 
 Every part traces to its book and page.
 
@@ -346,9 +346,9 @@ verification sweep.
 | Workbook “What an Experience!” — practice of question forms with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 8, WB printed pp.29–40 |
 | “Save the tribes” — question forms in the present tenses; collocations | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 3, printed pp.9–12 |
 | Workbook “Save the tribes” — practice of present-tense question forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 3, WB printed pp.5–19 |
-**Acceptance count: taught in 46 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 47 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua, Palestine, Libya, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Liechtenstein).** Liechtenstein joins with its partner interview, classmate interview, place-question crossword, nature interview and journey brainstorm (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its question-word work — 'What are they?' plurals and Year 5's 'Why…?' with 'Because…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What's this? It's a …” and “What can you see?” (Grade 1) and the Wh- question set as an explicit system (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua, Palestine, Libya, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with its partner interview, classmate interview, place-question crossword, nature interview and journey brainstorm (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its question-word work — 'What are they?' plurals and Year 5's 'Why…?' with 'Because…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What's this? It's a …” and “What can you see?” (Grade 1) and the Wh- question set as an explicit system (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -1088,3 +1088,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Reader Big Book: Who Took It?* — Class PP (student big book) — Bhutan, 17 pp. Printed page = PDF page − 3; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shared reader built on the pattern 'Where is my…? It is not here / not on the chair': Dorji's red gho is missing, then Dechen's yellow bag, then the black dog's rice, and a trail of rice leads to the monkey (item 25) | Bhutan — Class PP Big Book: Who Took It?, printed pp.1–13 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia, Samoa, Nigeria, Papua New Guinea, Zimbabwe, Andorra
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia, Samoa, Nigeria, Papua New Guinea, Zimbabwe, Andorra, Bhutan
 Every part traces to its book and page.
 
 **Book 1:** English — General Basic Education, Medium
@@ -67,7 +67,7 @@ verification sweep.
 | Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
 | Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 14 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia, Samoa).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia, Samoa, Bhutan).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -318,3 +318,17 @@ The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs �
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — every row below rests on a Bhutanese pupil book (student book, reader or workbook). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Phonics Workbook* — Class II (student spelling workbook; PLD / Hear Hear for Bhutan, 'Sound Out As You Write', Reprint 2024) — Bhutan, 36 pp. Image-only; read from page renders. Printed page = PDF page − 3; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Silent k in kn: the spelling workbook's kn week (know, knee, knock, knew, knife, knead, kneel, knoll, knit, knot) (item 89, part) | Bhutan — Class II Phonics Workbook, printed pp.24–33 |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

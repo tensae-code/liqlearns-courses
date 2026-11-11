@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Zambia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Zambia, Bhutan
 
 Every part traces to its book and page.
 
@@ -319,9 +319,9 @@ verification sweep.
 | Project frame "My favourite animals!" — draw and present favourite animals | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 6, pupil printed p.40 |
 | Matching each animal to its baby by picture (cat, dog, rabbit, mouse, bird families) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 7, pupil printed p.41 |
 | Wild animals against pets — "Wild animal or pet? In the wild. / In my house." — wild set elephant, lion, zebra, monkey, tiger; pet set parrot, fish, hamster, cat, dog, rabbit, koala (Activity Book "Going for CLIL" 5, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 5 key and instructions, Teacher's Book pp.130(T)–131(T) |
-**Acceptance count: taught in 46 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 47 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein).** Liechtenstein joins with the animals-and-senses set, the two forest-animal sets, and the favourite-pets list of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its animal sets, from pets and zoo animals in Year 1 to the Bad-Tempered Ladybird's creatures in Year 5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Bhutan).** Liechtenstein joins with the animals-and-senses set, the two forest-animal sets, and the favourite-pets list of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its animal sets, from pets and zoo animals in Year 1 to the Bad-Tempered Ladybird's creatures in Year 5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -1035,3 +1035,39 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Anthology of Songs, Rhymes and Poems* — Class PP (student book) — Bhutan, 28 pp. Printed page = PDF page − 1 approx. (a folio is printed on each page); pages cited are printed pages.
+
+**Book 2:** *Anthology of Songs, Rhymes and Poems* — Class I (student book) — Bhutan, 22 pp. Printed page = PDF page − 2 approx.; pages cited are printed pages.
+
+**Book 3:** *Reader Book 6: Twelve Animals of Bhutan* — Class I (student reader) — Bhutan, 26 pp. (printed folios 5–21 on the story pages). Cited as the whole book.
+
+**Book 4:** *Reader Book 8: Yak* — Class II (student reader) — Bhutan, 26 pp. Printed page = PDF page − 4 approx.; pages cited are printed pages.
+
+**Book 5:** *Reader Book 3: Some Birds of Bhutan* — Class III (student reader) — Bhutan, 34 pp. Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 6:** *Reader Big Book: Dechen and Dorji* — Class PP (student big book) — Bhutan, 16 pp. Printed page = PDF page − 2; pages cited are printed pages.
+
+**Book 7:** *Reader Big Book: Dechen and Dorji's Father* — Class PP (student big book) — Bhutan, 16 pp. Printed page = PDF page − 2; pages cited are printed pages.
+
+**Book 8:** *English Curriculum Guide for Teachers, Class PP* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 225 pp. Pages cited are the guide's printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animal songs and rhymes: 'Dorji's Gho', 'What the Animals Say', 'Nima Karma Had a Farm', 'Going to the Zoo', 'Mrs. Hen', 'An Elephant', 'Little Peter Rabbit', 'Little Bo Peep', 'There Was an Old Woman', 'How Does the Corn Go' (item 13) | Bhutan — Class PP Anthology of Songs, Rhymes and Poems, printed pp.15–24 |
+| Animal rhymes and songs: 'Little Pussy', 'Mary Had a Little Lamb', 'Monkeys in a Tree', 'Creepy Mouse', 'Jump or Jiggle' (how animals move), 'Moo' (what animals say and like to eat) (item 42) | Bhutan — Class I Anthology of Songs, Rhymes and Poems, printed pp.9–11, 19–20 |
+| Information reader in question-and-answer form: takin (Bhutan's national animal), yaks, bear, barking deer, snake, elephant, tiger, boars, fox, frog, leopard and monkeys — each with size, colour, home, food and one special fact (item 55) | Bhutan — Class I Reader Book 6: Twelve Animals of Bhutan, whole book |
+| Information reader on the yak and yak herders across the year: the animal, wild against domestic yaks, the spring move up, yak hair, milk, butter and hard cheese, the October descent (item 81) | Bhutan — Class II Reader Book 8: Yak, printed pp.1–20 |
+| Information reader on birds: feathers, hollow bones, wings and feet compared, beaks that show what a bird eats, how birds fly, and how they raise chicks (item 120) | Bhutan — Class III Reader Book 3: Some Birds of Bhutan, printed pp.1–6 |
+| Bird-by-bird accounts: chickens and ducks; hornbills, egrets, mynahs, swifts, eagles, hoopoes, sparrows, cuckoos, Black-Necked Cranes and ravens (item 121) | Bhutan — Class III Reader Book 3: Some Birds of Bhutan, printed pp.7–29 |
+| The cat of the first shared reader: 'Is this Dechen? Is this Dorji? No. It is Dechen's cat' (item 23, part) | Bhutan — Class PP Big Book: Dechen and Dorji, printed pp.1–14 |
+| The farm animal set of the father's-house big book: three horses and two cows, eight hens and four goats, a mother pig with seven piglets, a calf — counted and coloured (item 24, part) | Bhutan — Class PP Big Book: Dechen and Dorji's Father, printed pp.1–14 |
+| TEACHER EVIDENCE — after-reading work on what animals eat and where they live (habitat matching in Workbook B) in the emergent reading method (item 31, part) | Bhutan — Class PP Teacher's Guide (teacher evidence), Unit 4 plans, printed pp.92–94 (PDF pp.150–151) |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

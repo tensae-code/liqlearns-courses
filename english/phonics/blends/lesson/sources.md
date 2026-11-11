@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Bhutan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -134,7 +134,7 @@ pictures).
 | Blends And Consonant Clusters — Orally produce two-syllable words by blending sounds | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.5.1, PDF p.119 (curriculum evidence) |
 | Blends And Consonant Clusters — Orally produce three-syllable words by blending | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.5.1, PDF p.195 (curriculum evidence) |
 
-**Acceptance count: taught in 23 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge).
+**Acceptance count: taught in 24 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Bhutan).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge).
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -630,3 +630,26 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is counted** — the pupil-book rows below rest on Bhutanese student books, readers and workbooks; the rows marked TEACHER EVIDENCE rest on a teacher's guide or the SSP assessment pack and are evidence of that kind, never a substitute for the pupil-book rows. Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Phonics Workbook* — Class I (student workbook) — Bhutan, 51 pp. Printed page = PDF page − 4 approx.; pages cited are printed pages.
+
+**Book 2:** *Phonics Workbook* — Class II (student spelling workbook; PLD / Hear Hear for Bhutan, 'Sound Out As You Write', Reprint 2024) — Bhutan, 36 pp. Image-only; read from page renders. Printed page = PDF page − 3; pages cited are printed pages.
+
+**Book 3:** *Anthology of Songs, Rhymes, Poems and Short Stories* — Class III (student book) — Bhutan, 44 pp. Printed page = PDF page − 4; pages cited are printed pages. Its contents page misprints 'Two Unforgetable Days' and 'Aknowledgement' — noted, and taught corrected.
+
+**Book 4:** *English Curriculum Guide for Teachers, Class I* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 277 pp. Pages cited are the guide's printed pages. The guide's overview proves the Class I reader series and its order — including Reader Book 2, *What Time Is It, Momo?*, as the main text of Unit 2 Weeks 2–4; the file held under that title is byte-identical to Book 1 (md5 0ef2a9534fdb27efc77805e8f7ef03dd), so the genuine Book 2 is not in hand and nothing is cited from it (flag F2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Four-letter word shapes: CCVC words sounded and written sound-by-sound in alternating colours, and CVCC words (fist, tent, belt, pond, nest, milk, sand, vest, gift) (item 49) | Bhutan — Class I Phonics Workbook, printed pp.32–36 |
+| The book's spelling method, one sound per week, weeks 1–11: final clusters and -ck/-nk; -er endings; ar/or; three-letter blends thr/shr/squ and wr; spr/str/spl/scr and mixed three-letter blends with final clusters; double l, double s, double z and double f (item 86) | Bhutan — Class II Phonics Workbook, printed pp.1, 4–11 |
+| Read-aloud initial-blend drill printed after 'A Watering Rhyme': fl-, fr-, gl-, gr- word rows (item 115) | Bhutan — Class III Anthology of Songs, Rhymes, Poems and Short Stories, printed p.23 |
+| TEACHER EVIDENCE — CCVC then CVCC in Unit 4 of the Class I phonics sequence (item 62, part) | Bhutan — Class I Teacher's Guide (teacher evidence), Overview Plan, printed pp.xlv–l |
+
+Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.

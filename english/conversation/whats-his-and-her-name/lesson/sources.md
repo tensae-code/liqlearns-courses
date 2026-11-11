@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia, Liechtenstein, Haiti
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia, Liechtenstein, Haiti, Bhutan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -374,3 +374,17 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs — **55 distinct books (56 files in hand; the 56th file is a byte-identical duplicate of Class I Reader Book 1, collapsed)**: the Class PP set (anthology of songs, rhymes and poems; CVC stories; phonics workbook; handwriting book; three big books; three photo readers; the teacher's guide), the Class I, II and III sets (anthologies, phonics workbooks, graded readers, the Class III workbook, the Class III SSP pack and the teacher's guides) and the Department of School Education *English Reading & Literature* anthologies for Classes IV–XII — **158 teaching items placed, 0 already in the course; all 158 are stocked in this merge.** **Counting for this lesson: Bhutan is EVIDENCE ONLY** — every Bhutan row below rests on a teacher's guide, the SSP assessment pack, or teacher-facing apparatus inside a pupil book, so Bhutan is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent). Read depth, as the placements declare it: every book read page by page — the anthologies' every contents page, headnote and text; the teacher's guides placed at overview level (their theme/genre maps, phonics sequences, appendices and writing programmes read in full; their day-by-day lesson scripts not itemised); the image-only Class II Phonics Workbook, the image-heavy Class III Phonics Workbook and the image-only PP Handwriting Book read from page renders. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (bhutan-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Curriculum Guide for Teachers, Class II* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Bhutan, 145 pp. Pages cited are the guide's printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| TEACHER EVIDENCE — the opening revision fortnight re-teaches the Class I conversation frame with family names: 'What is your / his / her name? My / his / her / your name is…', 'What is your father's / mother's name?', played as a bean-bag circle game (item 85) | Bhutan — Class II Teacher's Guide (teacher evidence), Week One plan, guide body start |
+
+Bhutan enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
