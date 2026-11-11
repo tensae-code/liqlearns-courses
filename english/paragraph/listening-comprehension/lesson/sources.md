@@ -1,6 +1,6 @@
 # Sources — Listening Comprehension
 
-countries: Ghana, Sierra Leone, South Sudan, Fiji, Papua New Guinea, Dominican Republic
+countries: Ghana, Sierra Leone, South Sudan, Fiji, Papua New Guinea, Dominican Republic, Poland
 
 Every part traces to its book and page.
 
@@ -152,3 +152,24 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Poland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Poland's whole in-hand English set from the PDF — **exactly 1 file, and it is an examination paper, not a textbook**: the *Egzamin ósmoklasisty* Grade 8 English paper (Centralna Komisja Egzaminacyjna, main session, 15 May 2025) — **30 items placed, 0 already in the course; all 30 are stocked in this merge.** **Counting for this lesson: Poland is EXAMINATION EVIDENCE ONLY** — the paper teaches nothing; it tests English learned elsewhere, so Poland is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent, applied to examination evidence: an exam paper is not a pupil's book and never substitutes for one). Read depth, as the placements declare it: full page-by-page read of all 20 PDF pages through the text layer. One inherent limit, declared in the placements and carried here: the recordings for the paper's listening tasks (Tasks 1–4) are **not in the file** — no audio and no printed transcripts — so the listening rows below rest on the printed questions, options, matching statements and note frames alone, and no recording content beyond them is claimed. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (poland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+Routing note: the expansion diff marks this topic “NEW LESSON NEEDED: listening comprehension — talks, interviews and reports”. The course already houses it — this lesson (built by the Ghana re-verification sweep merge) teaches listening itself, and its third sub lesson is listening to talk: dialogues, discussions and audio-visual texts — so Poland's items are stocked here instead of in a new lesson, exactly as Papua New Guinea's listening items were stocked here in its expansion merge.
+
+**Book 1:** *Egzamin ósmoklasisty — Język angielski* (Grade 8 school-leaving examination, main session, 15 May 2025) — Poland, Centralna Komisja Egzaminacyjna (CKE), paper OJAP-100-2505. EXAMINATION EVIDENCE ONLY: a national exam paper, not a textbook — Poland holds no English textbook in hand at all (0 student / 0 teacher); every row below cites a skill or content item the paper tests, never teaching from a pupil's book. 20 PDF pages (printed pp.1–18 plus 2 unnumbered answer-card sheets); printed page = PDF page; 2,698,507 bytes, byte-identical to the repo record (git blob SHA verified). Read in full, page by page, in the 2026-11-10 expansion read. Book errors: no material error was found in the paper's tested English content (placements E1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Listening for specific detail in five short recordings and choosing the right picture/answer — what was in a parcel, how Jack will get to school tomorrow, where a girl is calling from (Task 1.1–1.3) (item 1) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed pp.3–4 |
+| Listening for a speaker's purpose — whether a girl offers James help, asks him to agree to something, or invites him to a party (Task 1.4) (item 2; the function part is also stocked in inviting and making-offers) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed pp.3–4 |
+| Listening for the topic of a talk — whether a boy is talking about a film recommended to him, a play he saw, or a book he read for school (Task 1.5) (item 3) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.4 |
+| Listening and matching statements to speakers — four accounts of a visit to a zoo, matched to doing a written task at the zoo, enjoying a film shown at the zoo, being surprised by an animal's behaviour, not being able to see something of interest, being scared by a noise (Task 2) (item 4) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.4 |
+| Listening and choosing the fitting spoken response — four statements about reading books matched to responses: preferring historical novels; thanking for a liked book/gift; congratulating someone; thanking for praise; suggesting a detective story (Task 3) (item 5; the response part is also stocked in congratulating-and-wishing and making-suggestions) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.5 |
+| Listening and completing notes with exact information — a friends' conversation about a trip to a football match: where the boy's father wants to park, what they will have for lunch after the match, and the price in pounds of an under-16 ticket (Task 4) (item 6; the price part is also stocked in numbers and money-and-prices) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.5 |
+
+Poland enters this lesson as examination evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Poland's sole in-hand English file is an exam paper, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/poland-placements.md.

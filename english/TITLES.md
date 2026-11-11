@@ -556,8 +556,9 @@ checking-facts-online (added 2026-11-09 by the Indonesia
 re-verification sweep merge — **Unit 42, Reading Like a
 Detective**) · ways-to-read · reading-hypertexts (added
 2026-11-11 by the Andorra expansion merge — **Unit 42,
-Reading Like a Detective**) · exam-technique · translating-well ·
-other-ways-to-communicate · making-decisions ·
+Reading Like a Detective**) · exam-technique · translating-well · mediation (added
+2026-11-11 by the Poland expansion merge — **Unit 15,
+Reading Whole Texts**) · other-ways-to-communicate · making-decisions ·
 problem-solving-strategies-and-games (added 2026-11-11 by the
 Uruguay expansion merge — **Unit 42, Reading Like a
 Detective**) · thinking-skills (added 2026-11-11 by the

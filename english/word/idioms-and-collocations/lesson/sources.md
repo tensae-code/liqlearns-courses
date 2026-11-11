@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname, Nigeria, Papua New Guinea, Zimbabwe, Andorra, Moldova, Dominican Republic, Colombia, Iceland, Costa Rica, Bahamas
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname, Nigeria, Papua New Guinea, Zimbabwe, Andorra, Moldova, Dominican Republic, Colombia, Iceland, Costa Rica, Bahamas, Poland
 Every part traces to its book and page.
 
 **Book 1:** English for Libya, Grade 7 (Preparatory 1) Course Book and Grade 12 (Secondary 3, Literary) Course Book — Libya, Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the
@@ -767,3 +767,17 @@ The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDF
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.
+
+## Poland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Poland's whole in-hand English set from the PDF — **exactly 1 file, and it is an examination paper, not a textbook**: the *Egzamin ósmoklasisty* Grade 8 English paper (Centralna Komisja Egzaminacyjna, main session, 15 May 2025) — **30 items placed, 0 already in the course; all 30 are stocked in this merge.** **Counting for this lesson: Poland is EXAMINATION EVIDENCE ONLY** — the paper teaches nothing; it tests English learned elsewhere, so Poland is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent, applied to examination evidence: an exam paper is not a pupil's book and never substitutes for one). Read depth, as the placements declare it: full page-by-page read of all 20 PDF pages through the text layer. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (poland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Egzamin ósmoklasisty — Język angielski* (Grade 8 school-leaving examination, main session, 15 May 2025) — Poland, Centralna Komisja Egzaminacyjna (CKE), paper OJAP-100-2505. EXAMINATION EVIDENCE ONLY: a national exam paper, not a textbook — Poland holds no English textbook in hand at all (0 student / 0 teacher); every row below cites a skill or content item the paper tests, never teaching from a pupil's book. 20 PDF pages (printed pp.1–18 plus 2 unnumbered answer-card sheets); printed page = PDF page; 2,698,507 bytes, byte-identical to the repo record (git blob SHA verified). Read in full, page by page, in the 2026-11-10 expansion read. Book errors: no material error was found in the paper's tested English content (placements E1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The fixed phrase *at first* — “Quilling may be difficult ___, but with a little practice…”, choosing *at first* over *at all / at last* (Task 12.3) (item 25) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.15 |
+
+Poland enters this lesson as examination evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Poland's sole in-hand English file is an exam paper, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/poland-placements.md.

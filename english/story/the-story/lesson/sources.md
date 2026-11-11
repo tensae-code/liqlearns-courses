@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Canada, Singapore, Andorra, Zambia, Bhutan, Moldova, Dominican Republic, Colombia, Guyana, Iceland, Liberia, Costa Rica, Philippines, Honduras, Cuba, Bahamas
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Canada, Singapore, Andorra, Zambia, Bhutan, Moldova, Dominican Republic, Colombia, Guyana, Iceland, Liberia, Costa Rica, Philippines, Honduras, Cuba, Bahamas, Poland
 
 Every part traces to its book and page.
 
@@ -2327,3 +2327,17 @@ The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDF
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.
+
+## Poland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Poland's whole in-hand English set from the PDF — **exactly 1 file, and it is an examination paper, not a textbook**: the *Egzamin ósmoklasisty* Grade 8 English paper (Centralna Komisja Egzaminacyjna, main session, 15 May 2025) — **30 items placed, 0 already in the course; all 30 are stocked in this merge.** **Counting for this lesson: Poland is EXAMINATION EVIDENCE ONLY** — the paper teaches nothing; it tests English learned elsewhere, so Poland is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent, applied to examination evidence: an exam paper is not a pupil's book and never substitutes for one). Read depth, as the placements declare it: full page-by-page read of all 20 PDF pages through the text layer. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (poland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Egzamin ósmoklasisty — Język angielski* (Grade 8 school-leaving examination, main session, 15 May 2025) — Poland, Centralna Komisja Egzaminacyjna (CKE), paper OJAP-100-2505. EXAMINATION EVIDENCE ONLY: a national exam paper, not a textbook — Poland holds no English textbook in hand at all (0 student / 0 teacher); every row below cites a skill or content item the paper tests, never teaching from a pupil's book. 20 PDF pages (printed pp.1–18 plus 2 unnumbered answer-card sheets); printed page = PDF page; 2,698,507 bytes, byte-identical to the repo record (git blob SHA verified). Read in full, page by page, in the 2026-11-10 expansion read. Book errors: no material error was found in the paper's tested English content (placements E1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading a story with missing sentences and restoring coherence — “Discovery in a Chimney”: a builder renovating a house in Surrey finds a 70-year-old letter in an unused chimney, in which 7-year-old Tom asked Santa Claus for a few coloured pencils and a woollen hat; the builder posts the letter online, the now-old Tom recognises it, and the builder gives him the pencils and hat he never received as a child — Tom passes the pencils on to a poor boy and keeps the hat (Task 8; plot summary only, no story text transcribed) (item 17) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.10 |
+
+Poland enters this lesson as examination evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Poland's sole in-hand English file is an exam paper, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/poland-placements.md.

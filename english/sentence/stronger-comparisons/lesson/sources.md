@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Canada, El Salvador, Moldova, Dominican Republic, Colombia, Guyana, Costa Rica, Honduras, Cuba, Bahamas, Bahrain
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan, Libya, Tanzania, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Canada, El Salvador, Moldova, Dominican Republic, Colombia, Guyana, Costa Rica, Honduras, Cuba, Bahamas, Bahrain, Poland
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Comparative Phrases box, p.26, is among this book's citation-checked anchors).
@@ -1033,3 +1033,17 @@ The 2026-11-10 expansion read read Bahrain's whole in-hand English set — one f
 | Comparisons: comparative and superlative forms practised from the Bora Bora text and the islands listening (smaller, the most beautiful, cooler, most famous, more crowded, flatter, biggest, largest), and as … as / not as … as for sameness and difference, then describing and comparing two known places in a one-minute talk | Bahrain — student coursebook excerpt, Unit 5.1, printed p.39 |
 
 Bahrain is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Poland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Poland's whole in-hand English set from the PDF — **exactly 1 file, and it is an examination paper, not a textbook**: the *Egzamin ósmoklasisty* Grade 8 English paper (Centralna Komisja Egzaminacyjna, main session, 15 May 2025) — **30 items placed, 0 already in the course; all 30 are stocked in this merge.** **Counting for this lesson: Poland is EXAMINATION EVIDENCE ONLY** — the paper teaches nothing; it tests English learned elsewhere, so Poland is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent, applied to examination evidence: an exam paper is not a pupil's book and never substitutes for one). Read depth, as the placements declare it: full page-by-page read of all 20 PDF pages through the text layer. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (poland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Egzamin ósmoklasisty — Język angielski* (Grade 8 school-leaving examination, main session, 15 May 2025) — Poland, Centralna Komisja Egzaminacyjna (CKE), paper OJAP-100-2505. EXAMINATION EVIDENCE ONLY: a national exam paper, not a textbook — Poland holds no English textbook in hand at all (0 student / 0 teacher); every row below cites a skill or content item the paper tests, never teaching from a pupil's book. 20 PDF pages (printed pp.1–18 plus 2 unnumbered answer-card sheets); printed page = PDF page; 2,698,507 bytes, byte-identical to the repo record (git blob SHA verified). Read in full, page by page, in the 2026-11-10 expansion read. Book errors: no material error was found in the paper's tested English content (placements E1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Superlative adjective in a short reading text — “the ___ number of footballs caught by a dog in one minute” in “A Furry Champion” (Paris, a 12-year-old Beagle, Guinness World Record dog goalkeeper), choosing *largest* from a word box (Task 11.1) (item 20) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.14 |
+
+Poland enters this lesson as examination evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Poland's sole in-hand English file is an exam paper, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/poland-placements.md.

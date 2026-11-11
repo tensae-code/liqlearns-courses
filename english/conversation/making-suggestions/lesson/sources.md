@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan, Kuwait, Cyprus, Tunisia, Uruguay, Haiti, El Salvador, Bhutan, Moldova, Dominican Republic, Japan, Cuba, Bahrain
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan, Kuwait, Cyprus, Tunisia, Uruguay, Haiti, El Salvador, Bhutan, Moldova, Dominican Republic, Japan, Cuba, Bahrain, Poland
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -480,3 +480,18 @@ The 2026-11-10 expansion read read Bahrain's whole in-hand English set — one f
 | The meeting language inside the TV-show design task — running the planning meeting on your group's suggestions (the presentation side of the task is stocked in presentation-skills) | Bahrain — student coursebook excerpt, Unit 3.3, printed p.27 |
 
 Bahrain is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Poland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Poland's whole in-hand English set from the PDF — **exactly 1 file, and it is an examination paper, not a textbook**: the *Egzamin ósmoklasisty* Grade 8 English paper (Centralna Komisja Egzaminacyjna, main session, 15 May 2025) — **30 items placed, 0 already in the course; all 30 are stocked in this merge.** **Counting for this lesson: Poland is EXAMINATION EVIDENCE ONLY** — the paper teaches nothing; it tests English learned elsewhere, so Poland is named in the countries line and the rows but is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent, applied to examination evidence: an exam paper is not a pupil's book and never substitutes for one). Read depth, as the placements declare it: full page-by-page read of all 20 PDF pages through the text layer. The row(s) below that rest on the paper's listening tasks (Tasks 1–4) rest on the printed questions, options and frames alone: the recordings are **not in the file** (no audio, no printed transcripts), and no recording content beyond the printed material is claimed. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (poland-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Egzamin ósmoklasisty — Język angielski* (Grade 8 school-leaving examination, main session, 15 May 2025) — Poland, Centralna Komisja Egzaminacyjna (CKE), paper OJAP-100-2505. EXAMINATION EVIDENCE ONLY: a national exam paper, not a textbook — Poland holds no English textbook in hand at all (0 student / 0 teacher); every row below cites a skill or content item the paper tests, never teaching from a pupil's book. 20 PDF pages (printed pp.1–18 plus 2 unnumbered answer-card sheets); printed page = PDF page; 2,698,507 bytes, byte-identical to the repo record (git blob SHA verified). Read in full, page by page, in the 2026-11-10 expansion read. Book errors: no material error was found in the paper's tested English content (placements E1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The suggestion inside a listening response — matching a statement about reading books to the response that suggests a detective story (Task 3) (item 5, second home; the listening part is stocked in listening-comprehension) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed p.5 |
+| The proposal inside a written e-mail — proposing how you will spend the free time together when a friend met abroad visits you (Task 14) (item 29, second home; the e-mail itself is stocked in postcards-and-personal-letters) | Poland — *Egzamin ósmoklasisty* English exam paper (CKE, main session 2025) — examination evidence, printed pp.16–17 |
+
+Poland enters this lesson as examination evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Poland's sole in-hand English file is an exam paper, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/poland-placements.md.
