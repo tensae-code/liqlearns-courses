@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana
 
 Every part traces to its book and page.
 
@@ -85,6 +85,8 @@ english/books/mexico.md filing covers Grade 7 only; the
 Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
+**Book 16:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -111,6 +113,9 @@ differ only in cover wording and colophon; cited once.
 | The modal verbs reviewed whole — obligation, permission and prohibition in one general review | Mexico, Grade 7, Project 17 "Where Does Our Food Come From?", printed p. 158 |
 | Have to for obligations and responsibilities: “I have to make my bed” | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 134 |
 | Modal verbs in a general closing review — “Is This or the Other?” | Mexico, Grade 8, Project 18 "Is This or the Other?", printed p. 150 |
+| Modals — Use modals to express a variety of meanings: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.9.1, PDF p.69 (curriculum evidence) |
+| Modals — Use modals to express a variety of meanings: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.9.1, PDF p.142 (curriculum evidence) |
+| Modals — Use modals to express a variety of meanings | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.9.1, PDF p.216 (curriculum evidence) |
 
 **Acceptance count: taught in 10 countries (Cambodia,
 Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico).** Egypt prices the
@@ -137,3 +142,5 @@ Mauritania grades the modals in Grade 12 (may/might; the
 prediction shades) and charts the whole system — ability,
 deduction, requests, certainty — in Grade 13 (stocked
 2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

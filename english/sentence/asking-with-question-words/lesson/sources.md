@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana
 
 Every part traces to its book and page.
 
@@ -175,6 +175,14 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 62:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 63:** English Language Learners' Workbook, Lower Primary Level 2 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 64:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 65:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -312,6 +320,12 @@ verification sweep.
 | Past simple wh-questions (wh-word + did + subject + base verb), with “ago” for past time | Mexico, Grade 7, Project 16 "Indigenous and Afro-Mexican Communities: History and Contributions to the National Identity", printed p. 150 |
 | A questions poem read whole: "Why?" — a curious little boy is always asking why: why wood swims and lead sinks, why the sun shines, what makes the clouds, why flowers die | India — Marigold Book Four (Class 4), Unit 4, printed pp.59–72 |
 | Question words as named work: what, who, where, when, why, which, how, and what each asks about (actions/things, people, place, time…) | India — Honeycomb (Class 7), Working with Language in The Ashes unit pages, printed p.64 |
+| Changing Statements into Questions | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 6, PDF p.25 (teacher evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 12 (Decodable Stories) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 12, PDF p.28 (workbook evidence) |
+| Asking And Answering Questions — Use appropriate pronunciation and intonation in asking | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.8.1, PDF p.66 (curriculum evidence) |
+| Asking And Answering Questions — Ask and answer questions for clarifications about given topics | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.8.1, PDF p.98 (curriculum evidence) |
+| Asking And Answering Questions — Use appropriate pronunciation and intonation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.8.1, PDF p.35 (curriculum evidence) |
+| Asking And Answering Questions — Answer “Yes” or “No” questions correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.8.1, PDF p.186 (curriculum evidence) |
 **Acceptance count: taught in 35 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India).** India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
@@ -336,6 +350,8 @@ question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
 in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Ethiopia teaches the Wh-question words as a named lesson in Grade 1 — what, where, why, how, who, which, when — works who/what/how/why questions in its role-model unit, and returns to 'Wh…' questions in Grade 4 (printed p.63). South Africa stocks this lesson in full: its Grade 3 FAL Workbook 1 sets out the wh-question words in a table and has learners make their own questions, Grade 5 HL turns statements into questions with where, what and when and frames a news report with who, what, when, where, why, and Grade 6 FAL runs an alien interview on wh- questions. Syria works wh-questions in its Grade 5 senses unit, names question words in its Grade 5 jobs unit, and gives the family a whole unit at Grade 8 — question words as the Student's Book's grammar point and a full question-words table, who/whom included, in the Workbook. South Sudan joined 2026-11-03: its Primary 1 Teacher's Guide names the question words as a class with model questions, and its Primary 3 Pupil's Book works where-questions in the Payam unit. Nepal carries the question words in Grade 6's transformation and question-practice work, in Grade 8's question-formation grammar and Grade 9's wh-question grammar, and — as its own teaching — in the Grade 6 guide's whole wh-question unit; Armenia checks the question words as a set — How old / What colour / When / Where — in English 3, Part 1's Progress Check Units 1–3 (printed pp.94–99), and teaches wh-questions as a headed grammar lesson in English 6, Unit 2.2 (printed pp.35–39), worked again with statements in Unit 2.4 (printed pp.45–47). Kuwait works wh-questions with be in Grade 1, past-simple wh-questions and wh-questions with do/does in Grade 2, and past-simple questions again in Grade 4. Rwanda works the question words as frames from Primary 1 — what, what colour, how old and how many as whole dialogs — adds what time in Primary 2, how many and what/where over jobs in Primary 4, and how big / how many / what frames in Primary 6; no Rwanda book tables the family as a system, and none is claimed. Other closed countries join as their books are read
 (see READING-QUEUE.md). Mexico's Grade 7 book teaches wh-questions in the present, reviews the question words for asking about food, culture and identity, and builds past wh-questions with “ago” (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
 Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read

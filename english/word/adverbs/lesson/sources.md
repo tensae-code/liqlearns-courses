@@ -207,6 +207,10 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 66:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 67:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -338,6 +342,11 @@ verification sweep.
 | Frequency adverbs and their position: before ordinary verbs, after be, between auxiliary and main verb; how often…? | Mauritania, Study English, Grade 10, printed pp.38–40 |
 | Adverbs of manner (adjective + -ly) for describing people and actions | Mauritania, Study English, Grade 11, printed pp.21–23 |
 | Adverbs as named work: adjectives + -ly (completely, awfully, sorrowfully, nonchalantly…), found in the story and used in sentences | India — Beehive (Class 9), Thinking about Language in The Fun They Had, printed p.9 |
+| Adverbs of Time | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 12, PDF p.77 (teacher evidence) |
+| Adverbs of Place | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 14, PDF p.81 (teacher evidence) |
+| Adverbs of Manner | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 10, PDF p.111 (teacher evidence) |
+| Using Simple Prepositions — Use adverbs to talk about when and where | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.6.1, PDF p.88 (curriculum evidence) |
+| Use question marks, full stops and commas correctly in sentences | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.12.1, PDF p.218 (curriculum evidence) |
 **Acceptance count: taught in 34 countries (Bangladesh, Egypt,
 Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India).** India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the definition and the mime
@@ -360,6 +369,8 @@ Mauritania teaches adverbs across four books — frequency in
 Grade 7, -ly formation in Grades 9–10, position in Grade 10,
 manner in Grade 11 (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — South Africa builds the adverb kinds year by year in the HL strand. Grade 3 Workbook 2 teaches adverbs answering how, when and where (printed pp.27, 29). Grade 4 Workbook 2 names adverbs of manner (printed pp.7, 11), degree (printed p.97) and place (printed p.98), and sets adjective against adverb (printed p.110). Grade 5 Workbook 2 classifies adverbs of manner, place and time (printed pp.29, 66), and Grade 6 Workbook 2 sorts adverbs into manner, place, time and frequency together (printed p.66).
 

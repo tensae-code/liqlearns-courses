@@ -171,6 +171,12 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 59:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 60:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 61:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -297,6 +303,13 @@ verification sweep.
 | A page written (about three paragraphs) on a set topic — teaching someone a difficult idea / helping each other through difficult times / being unique vs one among billions | India — First Flight (Class 10), Writing in The Sermon at Benares, printed p.138 |
 | A paragraph of ~100 words written: arguing for or against studying three languages at school | India — Flamingo (Class 12), Writing after The Last Lesson, printed p.11 |
 | A paragraph of 200–250 words written on a paradox (e.g. bangle makers' misery vs the beauty of bangles), notes first | India — Flamingo (Class 12), Writing in Lost Spring, printed p.21 |
+| Informative/ Academic Writing | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 4 (Writing), standard B3.4.13.1, PDF p.117 (curriculum evidence) |
+| Paragraph Development | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.6.1, PDF p.149 (curriculum evidence) |
+| Creative/Free Writing — create texts on given topics | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.11.1, PDF p.229 (curriculum evidence) |
+| Expository /Informative Writing | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.13.2, PDF p.232 (curriculum evidence) |
+| Determine the central idea in paragraphs | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 2 (Reading), standard B8.2.2.1, PDF p.85 (curriculum evidence) |
+| Demonstrate understanding of how different paragraph forms are organised and expressed | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 4 (Writing), standard B8.4.1.1, PDF p.92 (curriculum evidence) |
+| Compose more complex paragraphs | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 4 (Writing), standard B9.4.1.2, PDF p.127 (curriculum evidence) |
 
 **Acceptance count: taught in 32 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
@@ -349,6 +362,8 @@ Pearls 7A names topic sentence, supporting details and
 concluding sentence for the two-paragraph report, while
 Skyline 4A builds paragraphs from a graphic organiser. Rwanda stocks the paragraph in part — guided paragraphs are set writing from P4 up, P5 plans a three-paragraph text, and P6 teaches composition structure (introduction / main body / conclusion) and analyses a speech paragraph by paragraph — but no read Rwanda book names the topic sentence, so Rwanda carries the paragraph as a written and structured unit, not as a named topic-sentence craft. Other closed countries join as their books are
 read (see READING-QUEUE.md).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

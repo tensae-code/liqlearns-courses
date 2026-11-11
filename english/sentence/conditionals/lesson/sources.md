@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
 
 Every part traces to its book and page.
 
@@ -157,6 +157,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 67:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -219,6 +221,8 @@ verification sweep.
 | Second conditional as a named system — "If clauses (Second Conditional)": If I were talented, I would…; If you went to Bamian, you would… — with a completion paragraph and discussion | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 3, Lesson 3, printed pp.29–30 |
 | First and second conditionals summarised together in the unit's Grammar Summary, with form-the-sentence cues | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 3, Lesson 4, printed pp.31–34 |
 | The third conditional, REVISION ONLY, filed as exactly that: it appears once in the whole set, inside the final book's Unit 10 Revision — if + past perfect … would have + past participle, framed as fact against imagined past ("It didn't sink, so they didn't die" → "If the boat had sunk, they would have died"), with a full form table. Grade 12 is a consolidation year and this is revision material, not a taught unit; no conditional is named or numbered anywhere in Grades 11–12 | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 10, Revision, printed pp.134–136 |
+| Use conditional sentences in communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.5, PDF p.54 (curriculum evidence) |
+| Use conditional sentences in communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.2, PDF p.120 (curriculum evidence) |
 
 | Conditional sentences built on the conditional clause with if and unless | South Africa — English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed p.85 |
 | A sentence-mood lesson using "If I were fitter…" | South Africa — English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed p.101 |
@@ -330,6 +334,8 @@ are read (see READING-QUEUE.md).
 Mauritania teaches the zero and first conditionals in its
 Grade 9 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary
 Schools, Book Four* (MoES/RIES, 2013; full read in

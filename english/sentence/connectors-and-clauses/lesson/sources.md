@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana
 
 Every part traces to its book and page.
 
@@ -93,6 +93,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 19:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -123,6 +125,7 @@ verification sweep.
 | Sentences with two clauses as named work: identifying the part that tells when/why/how long (subordinate clauses) | India — Beehive (Class 9), Thinking about Language in Reach for the Top, printed p.105 |
 | Transitions noticed: the chatty, rambling style — marking how one idea leads to the next (thematic coherence devices) | India — Flamingo (Class 12), Noticing transitions in Poets and Pancakes, printed p.66 |
 | Discourse linkers and signallers noticed: linkers joining stretches of text; signallers announcing topic shifts ("Which brings me to…", "But let me tell you…") | India — Flamingo (Class 12), Noticing discourse linkers and signallers in The Interview, printed pp.74–75 |
+| Use dependent and independent clauses | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.4, PDF p.53 (curriculum evidence) |
 
 **Acceptance count: taught in 8 countries (Bolivia,
 Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India).** India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
@@ -150,3 +153,5 @@ re-verification sweep merge).
 The sweep also stocked Mauritania's Grade 11 sentence
 connectors and Grade 13's FANBOYS conjunctions (stocked
 2026-11-09 by the Mauritania re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

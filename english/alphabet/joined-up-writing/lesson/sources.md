@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh
+countries: Barbados, Kuwait, Bangladesh, Ghana
 
 Every part traces to its book and page.
 
@@ -27,6 +27,10 @@ rewrite-in-cursive exercises are from the same filing's
 Class 5 section (FULLY READ + CITATION CHECK PASSED
 2026-10-26), cited at section level — no single page is
 pinned for them here.
+**Book 4:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 5:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,6 +45,8 @@ pinned for them here.
 | Cursive small letters q–z; picture words in cursive | Bangladesh — English for Today Class 4, Unit 11, printed pp.22–23 |
 | Write the days of the week in cursive in the correct order (Saturday first in the book's list) | Bangladesh — English for Today Class 4, Unit 12, printed pp.24–25 |
 | Cursive as an assessed writing style: correction exercises set to be rewritten in cursive handwriting, a partner checking | Bangladesh — English for Today Class 5, correction exercises (Class 5 filing, section level) |
+| Pre-Writing — 2. Model various objects of interest • Use papers to model an object as learners observe. • Let learners | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.1.1, PDF p.49 (curriculum evidence) |
+| Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 
 **Acceptance count: taught in 3 countries (Barbados, Kuwait, Bangladesh).**
 The three countries stock three different parts of the
@@ -54,3 +60,5 @@ training routine (trace the grey model, copy the solid
 model, on four-line guides) and is recorded exactly as
 filed: it teaches no joins, and none is claimed from it.
 Counts grow as other closed countries' books are read.
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

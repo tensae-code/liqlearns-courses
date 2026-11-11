@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
 
 Every part traces to its book and page.
 
@@ -154,6 +154,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 65:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -216,6 +218,8 @@ verification sweep.
 | The SIMPLE PRESENT PASSIVE for scientific statements — simple present active and passive taught together ("The earth moves round the sun" / "Water is heated…") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 5 "Earth and its neighbors," Grammar, printed pp.56–57 |
 | The PRESENT PERFECT PASSIVE revised in the final year — has/have been + participle, the Grade 11 system carried forward | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 6 "The Wonderful World of the Web," Revision, printed pp.77–78 |
 | The scope stated plainly: the passive is systematised in Grade 11 and EXTENDED in Grade 12, which adds the past perfect passive and the scientific present passive as new forms and revises the present perfect passive; passive sentences occur unexplained inside earlier readings (Grade 9's Eiffel Tower text, Grade 10's hospital text) and are not stocked | Afghanistan, the held set as filed in english/books/afghanistan.md (Grade 9, Grade 10, Grade 11 and Grade 12 sections) |
+| Use passive sentences for a range of functions | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.6, PDF p.55 (curriculum evidence) |
+| Use passive forms appropriately in speech | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.4, PDF p.121 (curriculum evidence) |
 
 | Active voice named alongside the passive | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.90 |
 | The set's one full passive lesson: the passive voice defined — "The action is done to the subject" — with active→passive conversions | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.95 |
@@ -315,6 +319,8 @@ books are read (see READING-QUEUE.md).
 Mauritania works the passive inside environment process
 instructions in its Grade 13 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary
 Schools, Book Four* (MoES/RIES, 2013; full read in

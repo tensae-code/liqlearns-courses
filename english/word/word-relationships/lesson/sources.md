@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana
 
 Every part traces to its book and page.
 
@@ -104,6 +104,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 18:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -136,6 +138,7 @@ verification sweep.
 | Homophones in the play's language work (too close / to close; present the present) checked in a dictionary; the unit also carries the heteronym exercise ("too close to the door to close it…") | India — First Flight (Class 10), Language in The Proposal, printed p.161 |
 | Common words worked in the Notes: different uses of "tell" and "take"; words for ways of walking; semantically related word groups (dictionary enrichment) — cited from the book's Notes | India — Hornbill (Class 11), Working with words in The Portrait of a Lady, printed p.10 (Notes) |
 | Words worked in About the Unit: synonyms chosen to reflect personal attitudes | India — Flamingo (Class 12), Working with words in The Rattrap, printed p.45 (About the Unit) |
+| Homophones II | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.42 (teacher evidence) |
 
 **Acceptance count: taught in 9 countries (Barbados,
 Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India).** India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
@@ -157,3 +160,5 @@ their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 teacher guide names synonyms and antonyms
 as taught content (teacher evidence; stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

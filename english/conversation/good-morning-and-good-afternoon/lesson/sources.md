@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -54,6 +54,10 @@ verification sweep.
 | "Good afternoon" as its own unit's greeting dialogue, one unit later — the afternoon greeting taught as its own exchange, not folded into the morning one | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Two, printed p.22 |
 | "Good evening" completes the day's greeting set in the next unit | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Three, printed p.31 |
 | Morning and afternoon greetings exchanged together in the book's final review dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fifteen (Review), printed p.137 |
+| Conversation – Talking About Oneself, Family, People, Places, Greeting | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 1 (Oral Language), standard B1.1.6.1, PDF p.31 (curriculum evidence) |
+| Conversation - Talking About Oneself, Family, People, Places, Greeting — Dramatise and role-play stories heard and read | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.5.1, PDF p.93 (curriculum evidence) |
+| Conversation — Talking About Oneself, Family, People, Places, Greeting | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.6.1, PDF p.95 (curriculum evidence) |
+| Conversation — Talking About Oneself, Family, People, Places, Greeting | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.6.2, PDF p.96 (curriculum evidence) |
 
 | "Good morning. Welcome to class." among the classroom-English routines that open Grade 2's Term 1 book | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Introduction: Classroom English, printed p.2 |
 | Greetings sorted by time of day in the All about me unit's vocabulary | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 2, printed pp.9–19 |
@@ -111,6 +115,8 @@ Armenia joined 2026-11-03 with guide-only partial stock, recorded plainly as suc
 Mauritania teaches the time-of-day greetings as one set in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
 Textbook · English (Grade 3 starting point), Grade 3 Volume 1* —
@@ -356,3 +362,7 @@ is recorded.
 **Uzbekistan added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Fly High 5's All about me unit teaches its greetings sorted by time of day, as vocabulary; the country filing prints no morning or afternoon greeting dialogue, so Uzbekistan is stocked at vocabulary level only, for both halves as one set. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
 
 **Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the greeting words stand inside Grade 7 Lesson 1's greetings set, but no guide prints a morning/afternoon greeting dialogue of its own or teaches the two as a pair — the one full greetings script in the set (Grade 10, Lesson 1) opens with "Good morning" inside a general introductions exchange and is filed under the hello-and-your-name lesson. Venezuela is therefore stocked at vocabulary level only, not in full — unlike the countries whose books teach the morning and afternoon exchanges as their own lessons.
+
+**Ghana books stocked 2026-11-10 (re-verification sweep merge):**
+
+**Book:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.

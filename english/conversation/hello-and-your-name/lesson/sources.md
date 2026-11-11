@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -45,6 +45,10 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 9:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 10:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -129,6 +133,13 @@ verification sweep.
 | The name dialogue in three speech-bubble scenes — asking someone's name, the boy answering "My name is Juan," and "Nice to meet you!" | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 3, printed p.22 |
 | The course opener itself: greetings Hello / Hi / Good-bye, introducing yourself and others, and asking and spelling names — "What's your name? / My name's…" — with a hello song | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed pp.4–9 (song printed p.6) |
 | Self-introduction with contracted be — name and role ("I'm your English teacher / I'm a student"), with "What's his/her name?" beside it | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
+| Conversation And Talking About Oneself, Family, People, Places, Custom | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.6.1, PDF p.63 (curriculum evidence) |
+| Conversation - Talking About Oneself, Family, People, Customs, — Describe/talk about objects, events, dates | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.6.1, PDF p.30 (curriculum evidence) |
+| Conversation - Talking About Oneself, Family, People, Customs, — Describe/talk about names of regions/places in the acc | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.6.1, PDF p.101 (curriculum evidence) |
+| Conversation — Talking About Oneself, Family, People, Customs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.6.3, PDF p.104 (curriculum evidence) |
+| Conversation - Talking About Oneself, Family, People, Customs, — Describe/talk about objects/personalities/ events | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.6.1, PDF p.181 (curriculum evidence) |
+| Conversation — Talking About Oneself, Family, People, Customs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.6.2, PDF p.182 (curriculum evidence) |
+| Conversation — Talking About Oneself, Family, People, Customs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.6.3, PDF p.183 (curriculum evidence) |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -256,6 +267,8 @@ Armenia joined 2026-11-03: its Grade 3 book opens on meeting and naming — Star
 Mauritania's Grade 7 book opens with the greeting exchange and
 the talking-about-yourself frame (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Egypt KG2 added 2026-10-25** (same country, the recall layer):
 English KG2 Term 1, book p.2 — a page headed "Greetings — Listen,

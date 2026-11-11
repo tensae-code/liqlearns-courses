@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -47,6 +47,102 @@ verification sweep.
 | Phoneme blends in CVC, CCVC, CVCV and CCV words, as the mapped phonics strand of the opening block (mapped partial — scheme-of-work evidence only, no pupil's-book page claimed) | Malaysia, Year 2 Scheme of Work (KSSR), Introduction + Free Time block, Lessons 1–30, headers at printed pp.24–86 |
 | The short a sound in a rhyming caption (a fat rat in a black bag) | Malaysia, *Super Minds* Student's Book 1, Year 1, printed p.15 |
 | Sound work: listen for the 'b' sound (boy, bee, baby chicks cheep-cheep) | India — Marigold Book Four (Class 4), Unit 1 sound work, printed pp.1–16 |
+| Letter aA (its name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 1, PDF p.15 (teacher evidence) |
+| Letter sS (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 2, PDF p.17 (teacher evidence) |
+| elephant | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 3, PDF p.19 (teacher evidence) |
+| Letter tT (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 5, PDF p.23 (teacher evidence) |
+| Letter rR (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 10, PDF p.60 (teacher evidence) |
+| Letter yY (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 12, PDF p.64 (teacher evidence) |
+| The letter vV (its name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 13, PDF p.66 (teacher evidence) |
+| Letter yY (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 14, PDF p.68 (teacher evidence) |
+| Decodable sentences | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 3, PDF p.50 (teacher evidence) |
+| nN (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 4, PDF p.51 (teacher evidence) |
+| lL (name and sound) lemon | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 8, PDF p.57 (teacher evidence) |
+| The Letter wW (its name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 2, PDF p.75 (teacher evidence) |
+| queen | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 3, PDF p.75 (teacher evidence) |
+| The Letters zZ and its sound | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 4, PDF p.79 (teacher evidence) |
+| The Letters xX and its sound | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 5, PDF p.81 (teacher evidence) |
+| The Letters uU and its sound | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 6, PDF p.81 (teacher evidence) |
+| Decodable Sentences | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 7, PDF p.85 (teacher evidence) |
+| Vocabulary | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 8, PDF p.87 (teacher evidence) |
+| Decodable Stories | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 12, PDF p.36 (teacher evidence) |
+| Decodable Story | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.40 (teacher evidence) |
+| Decodable Sentences | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 5, PDF p.23 (teacher evidence) |
+| Decodable Sentences | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 9, PDF p.31 (teacher evidence) |
+| Sight Words/ High Frequency Words: is, are, was, the, to | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 11, PDF p.92 (teacher evidence) |
+| Decodable Stories | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 4, PDF p.79 (teacher evidence) |
+| Special Sound Pattern g – /g/ and /ʤ/ | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 7, PDF p.57 (teacher evidence) |
+| Reading Comprehension | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 8, PDF p.59 (teacher evidence) |
+| Letter aA (its name and sound) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 1, PDF p.15 (teacher evidence) |
+| cockerel | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 10, PDF p.39 (teacher evidence) |
+| The Letters rR, vV, yY (their names and sounds) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 11, PDF p.42 (teacher evidence) |
+| The Letters wW, qQ (their names and their sounds) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 12, PDF p.44 (teacher evidence) |
+| The Letters zZ, xX, uU and their sounds | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 13, PDF p.46 (teacher evidence) |
+| Vocabulary | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.48 (teacher evidence) |
+| The Letter sS, eE (their names and sounds) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 2, PDF p.18 (teacher evidence) |
+| Letters mM, tT (their names and sounds) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 3, PDF p.21 (teacher evidence) |
+| ink | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 4, PDF p.23 (teacher evidence) |
+| ball | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 5, PDF p.25 (teacher evidence) |
+| Letters oO, gG, jJ ( their names and sounds) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 6, PDF p.28 (teacher evidence) |
+| Sight Words/High Frequency Words: a, and, are, the, he, she | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 7, PDF p.31 (teacher evidence) |
+| Decodable Sentences | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 8, PDF p.33 (teacher evidence) |
+| Letters nN, hH, dD (their names and sounds) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 9, PDF p.36 (teacher evidence) |
+| Decodable Story- Mansa’s Pet is Lost and Found | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 10, PDF p.73 (teacher evidence) |
+| Special spelling pattern ch - k as in chorus, Christmas | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 12, PDF p.109 (teacher evidence) |
+| The special spelling pattern o as in okro, open u as in union, unity, university | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 14, PDF p.113 (teacher evidence) |
+| Special Sound Pattern g – /g/ and /ʤ/ | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 2 Lesson 7, PDF p.57 (teacher evidence) |
+| Mosquito or Elephant? | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 2 Lesson 8, PDF p.59 (teacher evidence) |
+| Workbook practice: the letter ‘aA’ and its sound. Now do the following activities. TASK ONE | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 1, PDF p.6 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 10 (Letters bB (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 10, PDF p.21 (workbook evidence) |
+| Workbook practice: the sound ‘Ss’. Now, let us continue to do the exercises. TASK ONE From the less | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 2, PDF p.7 (workbook evidence) |
+| Workbook practice: the sound ‘eE’. Now, let us do the activities that follow. TASK ONE From the les | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 3, PDF p.8 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 5 (Letter tT (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 5, PDF p.12 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 7 (Letters iI (names and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 7, PDF p.15 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 10 (Letter rR (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 10, PDF p.47 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 11 (Letter vV (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 11, PDF p.49 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 12 (Letter yY (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 12, PDF p.51 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 13 (The letter vV (its name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 13, PDF p.53 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 14 (Letter yY (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 14, PDF p.55 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 3 (Decodable sentences) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 3, PDF p.34 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 4 (nN (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 4, PDF p.36 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 6 (kK (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 6, PDF p.39 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 8 (lL (name and sound) lemon) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 8, PDF p.43 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 3 Lesson 1 (Revision of Term 2 lessons) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 1, PDF p.58 (workbook evidence) |
+| Workbook practice: the sound ‘zZ’. TASK ONE Circle the ‘zZ’ sound in the following words. 1. Zinc 2 | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 4, PDF p.63 (workbook evidence) |
+| Workbook practice: the sound ‘xX’. TASK ONE Circle the words with ‘xX’ sound in the following words | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 5, PDF p.65 (workbook evidence) |
+| Workbook practice: the sound ‘uU’. TASK ONE Look at the pictures, say what it is and then write | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 6, PDF p.66 (workbook evidence) |
+| Workbook practice: decodable sentences. TASK ONE Complete the following sentences with the right | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 7, PDF p.68 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 1 (Revision of the names and sounds of the letters of the alphabets) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 1, PDF p.6 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 14 (Decodable Story) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 14, PDF p.33 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 9 (Decodable Sentences) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 9, PDF p.23 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 2 Lesson 1 (Revision) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 2 Lesson 1, PDF p.36 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 2 Lesson 14 (Spelling pattern sh) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 2 Lesson 14, PDF p.57 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 1 (Revision lesson) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 1, PDF p.60 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 10 (Special Spelling Pattern o as in okro, open, onion and u as in universe, union) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 10, PDF p.77 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 11 (Sight Words/ High Frequency Words: is, are, was, the, to) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 11, PDF p.79 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 2 (Special Spelling Pattern ng as sing, ring, king, ring) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 2, PDF p.62 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 3 (Special Spelling Pattern nk as ink, sink,) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 3, PDF p.64 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 4 (Decodable Stories) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 4, PDF p.66 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 7 (Special Spelling Pattern gh-f as laugh, rough; and ph as in photo, phone) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 7, PDF p.72 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 9 (Special Spelling Pattern ch (∫) as in Chicago, chicken, cheese) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 9, PDF p.75 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 1 (Revision of the names and sounds of the letters of the alphabet) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 1, PDF p.6 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 10 (Special spelling pattern ir as an alternative to er) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 10, PDF p.23 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 12 (Special sound pattern ear as an alternative to er as in earth, earn) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 12, PDF p.25 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 7 (Special spelling patterns ui and ue as alternatives to oo as in fruit, chew and blue) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 7, PDF p.18 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 2 Lesson 10 (Special Spelling pattern gh-f and ph-f as in laugh, rough, photo, phone, tough) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 2 Lesson 10, PDF p.49 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 2 Lesson 8 (Reading Comprehension) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 2 Lesson 8, PDF p.45 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 2 Lesson 9 (Special sound pattern c - /k/ and /s/) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 2 Lesson 9, PDF p.47 (workbook evidence) |
+| Phonics | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 2 (Reading), standard B2.2.2.1, PDF p.71 (curriculum evidence) |
+| Spelling — use phonics knowledge to spell words with irregular letter patterns | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 5 (Grammar Usage), standard B2.5.10.1, PDF p.88 (curriculum evidence) |
+| Writing /Copying Letters – Small And Capital — Use letter-sound relationships to represent most letters | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 4 (Writing), standard B3.4.3.1, PDF p.110 (curriculum evidence) |
+| Phonics | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.10.3, PDF p.41 (curriculum evidence) |
+| Phonics | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.10.3, PDF p.115 (curriculum evidence) |
+| Phonics | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.2.1, PDF p.116 (curriculum evidence) |
+| Phonics — Read words with ending sounds like "sure" | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.2.1, PDF p.192 (curriculum evidence) |
+| Descriptive Writing — Use descriptive words/sound devices/ figurative Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.12.1, PDF p.230 (curriculum evidence) |
+| Produce pure vowel sounds (short vowels) in context | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 1 (Oral Language), standard B7.1.3.1, PDF p.42 (curriculum evidence) |
+| Produce consonant sounds in context (plosives) | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 1 (Oral Language), standard B8.1.3.1, PDF p.78 (curriculum evidence) |
+| Produce /r/ and /l/ sounds in different positions | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 1 (Oral Language), standard B9.1.3.1, PDF p.109 (curriculum evidence) |
 
 **Acceptance count: taught in 15 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India).** India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
@@ -80,6 +176,8 @@ is claimed here.
 Kuwait joined 2026-11-04 in part only: its Grade 1 phonics lessons are named "Let's blend and read" and blend by rime family, each family read in a cumulative build-up text. No phoneme segmenting or blending system is taught anywhere in Kuwait's held set.
 Counts grow as other closed countries' books are read.
 Nepal joined 2026-11-03 on its Grade 1 teacher's guide alone, recorded exactly as filed: the guide teaches blending inside its own programme — blending/segmenting activities in its opening activity bank (printed pp.1–49) and blending checkpoints at Lessons 25, 36, 47 and 58 of its Alphabet sequence (printed pp.97–278) — but it is the guide to a different, unheld workbook, and the held Nepal student's books teach no blending and no systematic phonics at all.
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 first-sound layer): *English — Primary 2 — Term 1* (MoE Egypt with
@@ -264,3 +362,27 @@ only, exactly as filed.
 **Afghanistan checked 2026-11-04 — not stocked.** Afghanistan has real phonics — Grade 7's short and long vowel rules with soft/hard c and g, Grade 9's diphthongs, schwa and syllables — but no book teaches blending: no sounding-out or building a word from its sounds as a procedure. Grade 7's Unit 4 word-building is consonant completion, and primary spelling work means naming letters aloud (f-i-s-h). The phonics stock that does exist is filed under Two-Letter Sounds (in part) and Blends. Nothing is stocked here.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 1 further Malaysia book stocks this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: the short a sound in a rhyming caption (a fat rat in a black bag) (p.15). The direct reads also correct the mapped picture of Malaysian phonics: phonics is not wholly teacher-side — *Super Minds* 1 carries a phonics-focus caption in the pupil's book itself, and this lesson's Malaysian phonics is now stocked from that caption directly.
+
+**Ghana books stocked 2026-11-10 (re-verification sweep merge):**
+
+**Book:** English Language Teachers Guide for Lower Primary, Level 1 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Lower Primary, Level 2 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Lower Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Upper Primary, Level 1 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Upper Primary, Level 2 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Learners' Workbook, Lower Primary Level 1 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book:** English Language Learners' Workbook, Lower Primary Level 2 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book:** English Language Learners' Workbook, Lower Primary Level 3 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.

@@ -111,6 +111,16 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 30:** English Language Learners' Workbook, Lower Primary Level 1 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 31:** English Language Learners' Workbook, Lower Primary Level 2 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 32:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 33:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 34:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -167,6 +177,14 @@ verification sweep.
 | The different meaning of "round" in the story; words generally associated with trees used differently in a paragraph | India — Honeysuckle (Class 6), Working with Language in The Banyan Tree, printed p.133 |
 | Words matched to meanings (fainted, wounded, awoke, forgive, faithful, pity, beds, return) and three used in sentences | India — Honeycomb (Class 7), Working with Language in Three Questions, printed p.15 |
 | Words/phrases matched to meanings (slaving, chaos, rummage, scrape out, stumble over, accomplish, uncanny, a row) and used in a paragraph | India — Beehive (Class 9), Thinking about Language in Packing, printed p.88 |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 2 (Sight Words) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 2, PDF p.32 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 11 (The High Frequency / Sight Words (go, for, have, all, come, both)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 11, PDF p.26 (workbook evidence) |
+| Vocabulary — Read level-appropriate sight words, understand and use many | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 2 (Reading), standard B2.2.6.1, PDF p.73 (curriculum evidence) |
+| Vocabulary | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.6.3, PDF p.49 (curriculum evidence) |
+| Vocabulary | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.6.4, PDF p.50 (curriculum evidence) |
+| Vocabulary — Recognise how words are formed through | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.6.4, PDF p.198 (curriculum evidence) |
+| Apply vocabulary appropriately in specific contexts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.3.1, PDF p.58 (curriculum evidence) |
+| Use vocabulary appropriately in speaking and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.3.1, PDF p.91 (curriculum evidence) |
 
 **Acceptance count: taught in 22 countries (Bangladesh,
 Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
@@ -200,6 +218,8 @@ and to guessing from context in Units 6 and 10, and
 its Grade 4 teacher's guide carries a guessing-meanings
 lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8); South Sudan joined 2026-11-03: it stocks the guessing in part — its Primary 3 Teacher's Guide's Introduction names the strategies for getting unstuck on a word (re-read, context clues, infer meaning, locate key words, predictions, word attack, printed pp.iv–x) — but that teaching sits in the guide's Introduction only, and no read South Sudan pupil's book practises guessing a word's meaning from its context as a lesson (the definition-and-matching vocabulary work elsewhere in the series is not this lesson). Tanzania joined 2026-11-04 in part: it teaches the word-relationship stock outright — synonyms named as synonyms (until/till; opponent, rival, enemy; buy/purchase; hate/dislike; speak/talk), opposites worked in dialogue, and one word's two meanings (mouse) talked apart — the very stock other countries' methods spend on unknown words, but it teaches no guessing from context anywhere, so the context ladder rests on the other countries. Other closed countries join as their
 books are read (see READING-QUEUE.md). Mexico's Grade 9 book listens for two coined words — “infodemic” and “infocracy” — and works them out from their context (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — two books stock this lesson: *English Home Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The stock is the lesson's guessing-from-context part: the Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113), and the First Additional Language book teaches working out word meanings as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8).
 

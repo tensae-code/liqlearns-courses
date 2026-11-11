@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -71,6 +71,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 14:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -100,6 +102,7 @@ verification sweep.
 | The discussion text met at its unit's opening — the two-sided kind itself (its structure pages are cited in the row above) | Indonesia, Life Today Grade 12, Unit 4, printed p.160 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The compendium project: an argumentative text for a Compendium of Stories, Sayings, and Proverbs in Spanish and an Indigenous language | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 60 |
 | Argumentative writing as an essay kind: argue for or against keeping pets only by those committed to their care (or on snake charmers continuing in their profession) | India — Beehive (Class 9), Writing in The Bond of Love, printed p.121 |
+| Text Types and Purposes | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 4 (Writing), standard B7.4.2.2, PDF p.65 (curriculum evidence) |
 
 **Acceptance count: taught in 7 countries (Bolivia,
 Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
@@ -111,3 +114,5 @@ essay's four characteristics; Indonesia gives three
 kinds labelled structures of their own; Sierra Leone
 builds the five-paragraph essay and lessons for its
 kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

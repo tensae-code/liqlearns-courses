@@ -220,6 +220,18 @@ verification sweep.
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 65:** English Language Teachers Guide for Lower Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 66:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 67:** English Language Learners' Workbook, Lower Primary Level 3 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 68:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 69:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 70:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -395,6 +407,56 @@ verification sweep.
 | A reading read and answered from: "Glimpses of India" II — "Coorg" (Lokesh Abrol): Coorg (Kodagu), coffee country between Mysore and Mangalore — its people, martial traditions, wildlife and adventure sports (topic summary only) | India — First Flight (Class 10), printed p.85 |
 | A reading read and answered from: "Glimpses of India" III — "Tea from Assam" (Arup Kumar Datta): Rajvir and Pranjol's train journey to Assam's tea gardens; legends and history of tea (topic summary only) | India — First Flight (Class 10), printed p.85 |
 | A text read and answered from: "Discovering Tut: the Saga Continues" (A. R. Williams) — the CT scan of Tutankhamun's mummy in 2005 and what forensic science found about the boy king's death (topic summary only) | India — Hornbill (Class 11), printed p.22 |
+| Reading Comprehension | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 14, PDF p.102 (teacher evidence) |
+| At Home | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 1, PDF p.15 (teacher evidence) |
+| The Clever Monkey | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 11, PDF p.36 (teacher evidence) |
+| A story I have read | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 12, PDF p.38 (teacher evidence) |
+| At The Beach | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 13, PDF p.40 (teacher evidence) |
+| Travelling on the Amazon River | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 15, PDF p.44 (teacher evidence) |
+| Travelling on the Amazon River | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 16, PDF p.45 (teacher evidence) |
+| At School | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 3, PDF p.19 (teacher evidence) |
+| On the Farm | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 5, PDF p.23 (teacher evidence) |
+| A Football Match | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 7, PDF p.27 (teacher evidence) |
+| Animals at Home | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 9, PDF p.32 (teacher evidence) |
+| Travelling on the Amazon River | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 1, PDF p.47 (teacher evidence) |
+| The Mango Tree | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 11, PDF p.75 (teacher evidence) |
+| The Old Man from the Sea | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 13, PDF p.79 (teacher evidence) |
+| Mother Teresa of Calcutta | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 16, PDF p.84 (teacher evidence) |
+| Cinderella | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 3, PDF p.52 (teacher evidence) |
+| How Asameni Captured Christiansborg Castle | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 9, PDF p.70 (teacher evidence) |
+| Mother Teresa of Calcutta | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 1, PDF p.86 (teacher evidence) |
+| Malaria | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 11, PDF p.113 (teacher evidence) |
+| Modern Olympics | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 13, PDF p.118 (teacher evidence) |
+| The Watery Planet | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 3, PDF p.92 (teacher evidence) |
+| Facts About Oceans | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 5, PDF p.97 (teacher evidence) |
+| A small fish’s story | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 9, PDF p.108 (teacher evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 14 (A Visit to the Dentist) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 14, PDF p.28 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 9 (The Lazy Frog) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 9, PDF p.21 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 14 (Reading Comprehension) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 14, PDF p.80 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 7 (Reading Comprehension) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 7, PDF p.69 (workbook evidence) |
+| Listening Comprehension | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 1 (Oral Language), standard B1.1.7.1, PDF p.33 (curriculum evidence) |
+| Listening Comprehension | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.6.2, PDF p.64 (curriculum evidence) |
+| Listening Comprehension | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.7.1, PDF p.65 (curriculum evidence) |
+| Comprehension — demonstrate understanding of a text read (its purpose and features) | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 2 (Reading), standard B2.2.7.2, PDF p.75 (curriculum evidence) |
+| Fluency — Read texts/stories/passages with good pace, accuracy | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 2 (Reading), standard B2.2.9.1, PDF p.76 (curriculum evidence) |
+| Listening Comprehension — listen to and interact actively with information heard (the teacher reads and pauses so learners share what they have heard) | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.7.1, PDF p.97 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 2 (Reading), standard B3.2.6.1, PDF p.106 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 2 (Reading), standard B3.2.7.1, PDF p.107 (curriculum evidence) |
+| Comprehension — demonstrate understanding of a text read (its purpose and features) | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 2 (Reading), standard B3.2.7.2, PDF p.108 (curriculum evidence) |
+| Listening Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.6.3, PDF p.33 (curriculum evidence) |
+| Listening Comprehension — Construct meaning from texts based on knowledge | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.7.1, PDF p.33 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.7.1, PDF p.52 (curriculum evidence) |
+| Comprehension — Determine the contextual meaning of words and an understanding of the phrases use of words and phrases | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.7.3, PDF p.53 (curriculum evidence) |
+| Listening Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.7.1, PDF p.107 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.6.4, PDF p.123 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.7.1, PDF p.124 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.7.2, PDF p.125 (curriculum evidence) |
+| Listening Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.7.1, PDF p.185 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.7.1, PDF p.200 (curriculum evidence) |
+| Comprehension | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.7.2, PDF p.201 (curriculum evidence) |
+| Comprehension — Demonstrate (e.g. introduction, body, conclusion) understanding of the • Guide learners systematically using given | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.7.3, PDF p.201 (curriculum evidence) |
+| Fluency — Read grade-level text with meaning | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.9.1, PDF p.202 (curriculum evidence) |
+| Cite the textual evidence that supports an analysis of a text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 2 (Reading), standard B9.2.2.1, PDF p.117 (curriculum evidence) |
 **Acceptance count: taught in 33 countries (Egypt, Ghana,
 India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico).** India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
@@ -444,6 +506,8 @@ questions on every reading, and Pearls 9B sends pupils
 to find the evidence in the text in its cause-and-effect
 linker work. Rwanda answers from the text as its standing comprehension work from P1 up — passages, stories, graphs and sample papers all closed by questions on the text itself — with skimming and scanning named as reading skills in P5 and P6, but no not-given answering shape in any read book. Tanzania answers from the text as its one book's fixed cycle — every unit's story, passage or poem closed by fill-in-the-blanks, short-answer questions and a word-bank completion drawn from the text itself, two questions per unit stepping out to the pupil's own life — with no named scanning or not-given answering strategy in the book, so that naming rests on the other countries. Other closed countries join as their
 books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 3 Workbook 1*, *English First Additional Language, Grade 3 Workbook 1* and *English Home Language, Grade 4 Workbook 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. Comprehension questions answered in writing from the text run through the whole set: the Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage; the Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23); and the Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1). South Africa's comprehension is literal-level — inference appears only as occasional "Why do you think…?" questions.
 

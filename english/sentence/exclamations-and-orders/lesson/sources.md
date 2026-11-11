@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana
 
 Every part traces to its book and page.
 
@@ -72,6 +72,10 @@ and Educational System Reform, National Pedagogic Institute
 (IPN), 2025 printing. Re-read page by page in the 2026-11-08
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
+**Book 22:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 23:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -101,6 +105,11 @@ covers the 6th Year book only).
 | Classroom instructions: imperatives and negative imperatives (don't + verb) | Mauritania, Study English, Grade 7, printed pp.27–29 |
 | Expressing admiration: What a…!, How…!, superlative + I have ever seen, never…such a (the book's vocabulary box at printed p.42 defines admiration as gratitude — wrong; taught corrected) | Mauritania, Study English, Grade 8, printed pp.40–42 |
 | Expressing admiration: What a…!, such a…!, the cheapest bike I have ever bought | Mauritania, Study English, Grade 10, printed pp.30–32 |
+| Giving And Responding To Commands/Instructions And Making Requests | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 1 (Oral Language), standard B1.1.9.1, PDF p.36 (curriculum evidence) |
+| Giving And Responding To Commands, Instructions, Directions And Making | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.9.1, PDF p.68 (curriculum evidence) |
+| Giving And Responding To Commands/Instructions/Directions And Making R — Give and respond to commands, instructions | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.9.1, PDF p.99 (curriculum evidence) |
+| Giving And Following Commands/ Instructions/Directions And — Give and respond to commands, instructions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.9.1, PDF p.37 (curriculum evidence) |
+| Giving And Following Commands/ Instructions/Directions — Give and respond to commands, instructions; give | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.9.1, PDF p.109 (curriculum evidence) |
 
 **Acceptance count: taught in 8 countries (Bolivia,
 Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania).** A plan-anchor
@@ -132,3 +141,5 @@ sweep merge).
 Mauritania gives classroom orders in Grade 7 and the
 admiration exclamations in Grades 8 and 10 (stocked 2026-11-09
 by the Mauritania re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

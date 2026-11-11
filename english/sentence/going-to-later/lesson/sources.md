@@ -207,14 +207,18 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 68:** English Language Learners' Workbook, Lower Primary Level 1 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 69:** English Language Learners' Workbook, Lower Primary Level 3 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
 
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
 | The will note — will for spontaneous decisions made at the speaking moment (and assumptions) | Bolivia compendium, the will grammar section (as filed) |
 | The WILL box — will/won't + base verb for the future, with its uses | Mongolia, English VI, Unit 8 "Seasons and Weather" will section (as filed) |
-| SCHEDULED FUTURE actions in the simple present ("The bus leaves early tomorrow") and future possibilities | Ghana, NaCCA JHS curriculum, Strand 5 (as filed) |
-| Future-form questions worked over real school futures ("Will you come to school…") in the JHS speaking strands | Ghana, NaCCA JHS curriculum (as filed) |
+| SCHEDULED FUTURE actions in the simple present ("The bus leaves early tomorrow") and future possibilities | Ghana, NaCCA B4–B6 curriculum, Basic 6, Strand 3 (Grammar Usage) (citation corrected 2026-11-10 by the re-verification sweep merge — the anchor sits in the B4–B6 document, not the JHS one) |
+| Future-form questions worked over real school futures ("Will you come to school…") in the B6 speaking strand | Ghana, NaCCA B4–B6 curriculum, Basic 6, Strand 1 (Oral Language) (citation corrected 2026-11-10 by the re-verification sweep merge) |
 | Will for plans and promises — "We'll go to the Great Wall," "What will you do for your mum? — I'll cook / make a card / sing to her," a party invitation's string of you-will promises, and a month-by-month vacation plan | China, English Grade 5 Volume 2, Unit 3, pp.27, 29, 31 |
 | BE GOING TO taught as a system with its time words — this morning / afternoon / evening, tonight, tomorrow, next week — through What / Where / When questions, a plan table and sentence-building tiles; the diary then sets will beside be going to in the book's own two-column table | China, English Grade 6 Volume 1, Unit 3, pp.24–26, 28–30 |
 | Looking ahead at the school gate — "What do you hope to do in the future? I hope to get a business degree and become a manager. I'm looking forward to going to senior high school. I think I'll have to study much harder for exams. I'm going to join the school volleyball team" (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 14, printed pp.108–109 |
@@ -337,6 +341,10 @@ verification sweep.
 | Will against going to, the differences reviewed | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 144 |
 | Will for decisions made at the moment of speaking against going to for plans made before | Mexico, Grade 9, Project 11 "I Guess, Then I Make Decisions", printed p. 100 |
 | The FUTURE in four forms as named work: the book takes five sentences from the two Great Stone Face parts and states the verbs are in four different forms denoting four important ways of expressing future time; naturalness choices and a dialogue completed with WILL or GOING TO | India — Honeydew (Class 8), Working with Language in The Great Stone Face, Unit 10 |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 12 (Letters gG (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 12, PDF p.25 (workbook evidence) |
+| Workbook practice: the sound 'mM' | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 4, PDF p.10 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 2 (The Letter sS, eE (their names and sounds)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 2, PDF p.8 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 6 (Consonant Blend Practice) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 6, PDF p.16 (workbook evidence) |
 **Acceptance count: taught in 32 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India).** India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
@@ -362,6 +370,8 @@ Mauritania plans in Grade 8, futures with will/shall in Grade
 9, plans again in Grade 10, and sets will against going to in
 Grade 12 (stocked 2026-11-09 by the Mauritania re-verification
 sweep merge). Mexico contrasts will and going to in every grade: predictions and decisions (Grade 7), the full uses of will and two difference reviews (Grade 8), and decisions made at the moment of speaking against plans made before (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
 Schools, Book Two* (MoES/RIES; full read in

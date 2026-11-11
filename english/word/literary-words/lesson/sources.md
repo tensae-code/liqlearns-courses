@@ -49,13 +49,15 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 12:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
 | 'The Many Kinds of Literature': the five kinds — novels, poetry, drama, folktales, essays — taken one by one; literature collocations (express ideas, argue a point, think deeply) | Egypt, Secondary 11 Term 1, Unit 11, Lesson 1 (as filed in EGYPT-BOOK-MAP.md) |
 | The year's novel bound into the same book and examined in its own Chapter Questions (the Novel block, printed pp.93–165) | Egypt, Secondary 11 Term 1, the Novel (as filed in EGYPT-BOOK-MAP.md) |
 | Written literature analysed by PLOT, SETTING, CHARACTERS, compared across two texts; common themes analysed | Ghana, NaCCA JHS curriculum, Written Literature strand (curriculum evidence, as filed in ghana.md) |
-| Literary devices in use: metaphor, simile, personification, alliteration, assonance, consonance; at Basic 8, imagery as the device set (personification, simile, metaphors, idiomatic expressions) | Ghana, NaCCA JHS curriculum, Basic 7–8 (curriculum evidence, as filed in ghana.md) |
+| Literary devices in use: metaphor, simile, personification, alliteration, assonance, consonance; at Basic 8 the device set grows by euphemism, hyperbole and onomatopoeia; imagery as the device set (personification, simile, metaphors, idiomatic expressions) sits at Basic 9 (corrected 2026-11-10 by the re-verification sweep merge — the re-read seats imagery at Basic 9, standard B9.5.1.14; the earlier filing placed it at Basic 8) | Ghana, NaCCA JHS curriculum, Basic 7–9 (curriculum evidence, as filed in ghana.md) |
 | Figures of speech introduced: metaphor compared with simile — metaphor does not use 'like/as' | Sierra Leone, Creative Writing lesson, L25 (as filed) |
 | Figures of Speech: irony, euphemism and repetition, after the earlier simile, metaphor and personification | Sierra Leone, JSS3 handbook, L98, p.98 (as filed) |
 | The set poem 'Pretty Words' by Elinor Morton Wylie — favourite words as pets — with poetic devices and metaphor work (Active Reading: understanding metaphors) | Jordan, Grade 12 Student's Book, Semester 2, Unit 7, Lesson 3A, pp.20–21 |
@@ -70,8 +72,12 @@ verification sweep.
 | Language work in the Notes: Latin expressions commonly used in English; connotations; literal vs figurative meanings — cited from the book's Notes | India — Hornbill (Class 11), Language work in The Ailing Planet, printed p.49 (Notes) |
 | Literary devices identified in phrases from the text: hyperbole, metaphor, simile | India — Flamingo (Class 12), Thinking about language in Lost Spring, printed p.20 |
 | Words worked in About the Unit: metaphorical expressions | India — Flamingo (Class 12), Working with words in Going Places, printed p.88 (About the Unit) |
+| Demonstrate understanding of oral literature | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 5 (Literature), standard B7.5.1.1, PDF p.71 (curriculum evidence) |
+| Identify the main text features of non-fiction texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 2 (Reading), standard B8.2.1.2, PDF p.81 (curriculum evidence) |
 
 **Acceptance count: taught in 9 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India).** India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

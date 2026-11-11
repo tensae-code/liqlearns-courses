@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana
 
 Every part traces to its book and page.
 
@@ -65,6 +65,10 @@ and Educational System Reform, National Pedagogic Institute
 (IPN), 2025 printing. Re-read page by page in the 2026-11-08
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
+**Book 13:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 14:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -82,6 +86,12 @@ covers the 6th Year book only).
 | Tag questions — the compendium's tag-question table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 111 |
 | Tag questions in talk: the lesson's Listening & Speaking work, with the lesson's See Also tag questions beside it | Iran, Vision 3 (Grade 12), Lesson 1, Listening & Speaking, printed pp.31–32 |
 | Question tags revised in a mining context, with mining-equipment working vocabulary (draglines, rotary drill rigs, wheel loaders) | Mauritania, Study English, Grade 13, printed pp.23–24 |
+| Asking And Answering Questions — Use positive tags, negative tags and auxiliaries | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.8.2, PDF p.36 (curriculum evidence) |
+| Asking And Answering Questions/ Question Tags — Use the various forms of “do”, “be”, “have” | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.8.1, PDF p.108 (curriculum evidence) |
+| Asking And Answering Questions/ Question Tags — Identify and use Digital Literacy • Play a recorded dialogue containing positiv / | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.8.2, PDF p.108 (curriculum evidence) |
+| Asking And Answering Questions — Use positive tags, negative tags | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.8.2, PDF p.186 (curriculum evidence) |
+| Use question tags accurately | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.7, PDF p.56 (curriculum evidence) |
+| Demonstrate command of question tags | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.6, PDF p.89 (curriculum evidence) |
 
 **Acceptance count: taught in 9 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
@@ -103,3 +113,5 @@ with a HAVE chart for a student book not held in full.
 The sweep also stocked Mauritania's Grade 13 tag revision in
 its mining context (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

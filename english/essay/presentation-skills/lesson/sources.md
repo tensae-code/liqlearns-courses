@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana
 
 Every part traces to its book and page.
 
@@ -62,6 +62,10 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 12:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 13:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -79,6 +83,19 @@ verification sweep.
 | The Traditions speaking task: choose a photographed cultural tradition and present it to the class | Mexico, Grade 9, Project 3 "Traditions", printed p. 26 |
 | The Chemical Reactions project: experiments demonstrating chemical reactions, presented with dissemination posters | Mexico, Grade 9, Project 17 "Chemical Reactions: Transforming Humankind and the World", printed p. 154 |
 | How a debate works, in the teacher notes: proposition, preparing an outline of points, 4–5 minute limit, addressing the chair, submitting/questioning/concluding arguments — the note itself names the taught point | India — Beehive (Class 9), Speaking in The Fun They Had (Notes for the Teacher, Units 1–3), printed pp.1–4 (unit notes) |
+| Presentation — Identify audience and purpose of presentation Reading and Writing Skills present information | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 1 (Oral Language), standard B1.1.10.1, PDF p.37 (curriculum evidence) |
+| Presentation — Handle books appropriately Reading and Writing Skills text works for reading • H | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 2 (Reading), standard B1.2.1.1, PDF p.38 (curriculum evidence) |
+| Presentation — Speak with confidence before different audiences | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.10.1, PDF p.69 (curriculum evidence) |
+| Presentation — Present ideas logically | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.10.1, PDF p.101 (curriculum evidence) |
+| Presentation — Demonstrate awareness of the features of spoken | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.10.1, PDF p.38 (curriculum evidence) |
+| Presentation — Speak clearly and fluently, using the appropriate voice | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.10.2, PDF p.39 (curriculum evidence) |
+| Expository/Informative Writing — write about an event of the day and make radio/TV presentations | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 4 (Writing), standard B4.4.14.2, PDF p.81 (curriculum evidence) |
+| Presentation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.10.1, PDF p.111 (curriculum evidence) |
+| Presentation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.10.2, PDF p.112 (curriculum evidence) |
+| Informative/Expository Writing — write about an event witnessed and make radio/TV 'event of the day' presentations | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.14.2, PDF p.160 (curriculum evidence) |
+| Presentation — Demonstrate awareness of the features of spoken Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.1, PDF p.188 (curriculum evidence) |
+| Presentation — Speak at a good pace and with expression | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.2, PDF p.189 (curriculum evidence) |
+| Presentation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.3, PDF p.191 (curriculum evidence) |
 
 **Acceptance count: taught in 7 countries (Syria,
 Indonesia, Bolivia, Cambodia, China, Mexico, India).** India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
@@ -91,3 +108,5 @@ child's school-life PPT picked over for mistakes in
 Grade 6, and the learner's own graduation speech at
 Grade 9 (stocked 2026-11-08 by the re-verification
 sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

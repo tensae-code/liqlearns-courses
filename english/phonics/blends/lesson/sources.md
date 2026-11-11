@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -66,6 +66,69 @@ pictures).
 | Initial blends taught as named sets across the whole book — bl, br; cl, cr; fl, fr; dr, tr in Unit 1 and gl, gr; pl, pr; sc, sk; sl, sp in Unit 2 — each with four picture words and a chant | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Phonics, printed pp.16–23, 34–41 |
 | Three-letter and final blends — sm, sn; st; sw, tw; scr, str; then spl, spr, squ; and the final sets ct, ft; nd, nt; nk, mp | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Phonics, printed pp.54–61, 72–79 |
 | Consonant clusters defined at the top level — groups of two or more consonant sounds together with no vowel between, the "Bl" cluster in "blue" and the "Str" cluster in "strong," with listen-and-repeat cluster cards (CLIMB, GREEN, SPOON, START, SPRING, STRENGTH, STREET…) | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 6, printed pp.41–43 |
+| Letters bB (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 10, PDF p.33 (teacher evidence) |
+| Letters oO (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 11, PDF p.35 (teacher evidence) |
+| Letters gG (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 12, PDF p.37 (teacher evidence) |
+| Letters jJ (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 13, PDF p.39 (teacher evidence) |
+| Blending (aA, sS, eE, mM, tT, pP, iI, Ff, Bb, Oo, gG, jJ) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.41 (teacher evidence) |
+| Letters mM (names and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 4, PDF p.21 (teacher evidence) |
+| Letters pP (names and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 6, PDF p.25 (teacher evidence) |
+| Letters iI (names and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 7, PDF p.27 (teacher evidence) |
+| monkey | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 8, PDF p.29 (teacher evidence) |
+| Letters fF (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 1 Lesson 9, PDF p.31 (teacher evidence) |
+| hospital | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 1, PDF p.46 (teacher evidence) |
+| Letter vV (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 11, PDF p.62 (teacher evidence) |
+| Letter hH (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 5, PDF p.53 (teacher evidence) |
+| kK (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 6, PDF p.54 (teacher evidence) |
+| cC (name and sound) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 7, PDF p.55 (teacher evidence) |
+| Blending (kK, cC, lL) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 9, PDF p.58 (teacher evidence) |
+| Consonant Clusters cl, pl | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 10, PDF p.91 (teacher evidence) |
+| Consonant Clusters br, cr | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 11, PDF p.93 (teacher evidence) |
+| Consonant Clusters cr, pr | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 12, PDF p.95 (teacher evidence) |
+| Consonant Clusters fr | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 13, PDF p.97 (teacher evidence) |
+| Consonant Clusters ld | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 14, PDF p.97 (teacher evidence) |
+| Consonant Clusters bl, gl | Ghana, Distance Learning Teachers Guide, Lower Primary Level 1 (MoE/GES, November 2020), Term 3 Lesson 9, PDF p.89 (teacher evidence) |
+| Blending (sS, aA, tT, pP, nNJ) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 2, PDF p.17 (teacher evidence) |
+| Blending (bB, dD, eE, gG, hH, kK, lL, mM ,oO, rR) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 3, PDF p.19 (teacher evidence) |
+| Consonant Clusters nk, st, lk (final position) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 12, PDF p.94 (teacher evidence) |
+| Consonant Clusters sk, sp,dr (medial position) | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 13, PDF p.96 (teacher evidence) |
+| Consonant Blend Practice | Ghana, Distance Learning Teachers Guide, Lower Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 14, PDF p.98 (teacher evidence) |
+| The Consonant Clusters br, gr, cr, pr, fr at the initial position | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 2, PDF p.57 (teacher evidence) |
+| The Consonant Cluster ld at the final position | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 3, PDF p.59 (teacher evidence) |
+| Sight Words | Ghana, Distance Learning Teachers Guide, Upper Primary Level 1 (MoE/GES, November 2020), Term 2 Lesson 4, PDF p.61 (teacher evidence) |
+| Consonant blends sk and sp (medial position) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 5, PDF p.22 (teacher evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 11 (Letters oO (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 11, PDF p.23 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 14 (Blending (aA, sS, eE, mM, tT, pP, iI, Ff, Bb, Oo, gG, jJ)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 14, PDF p.28 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 6 (Letters pP (names and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 6, PDF p.14 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 8 (monkey) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 8, PDF p.17 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 1 Lesson 9 (Letters fF (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 1 Lesson 9, PDF p.19 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 1 (hospital) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 1, PDF p.30 (workbook evidence) |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 7 (cC (name and sound)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 7, PDF p.41 (workbook evidence) |
+| Workbook practice: Consonant Clusters ‘cl’, ‘pl’. TASK ONE Write out words with consonant clusters | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 10, PDF p.74 (workbook evidence) |
+| Workbook practice: the consonant clusters ‘br’, ‘cr’. TASK ONE Look at the pictures, say what they | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 11, PDF p.76 (workbook evidence) |
+| Workbook practice: the consonant cluster ‘pr’ TASK ONE Write out five (5) words with consonant clus | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 12, PDF p.79 (workbook evidence) |
+| Workbook practice: consonant cluster ‘fr’. TASK ONE Look at the pictures, say what they are and com | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 13, PDF p.81 (workbook evidence) |
+| Workbook practice: Consonant Cluster ‘ld’. TASK ONE Write out five (5) words with consonant cluster | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 14, PDF p.83 (workbook evidence) |
+| Workbook practice: vocabulary building. TASK ONE Blend these sounds into words: | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 8, PDF p.70 (workbook evidence) |
+| Workbook practice: consonant clusters ‘bl’, ‘gl’. TASK ONE Identify and write out words with conson | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 3 Lesson 9, PDF p.72 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 10 (Consonant Blends practise) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 10, PDF p.24 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 13 (Consonant blends sk, sp, dr, ck (initial position / final position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 13, PDF p.31 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 3 (Blending (bB, dD, eE, gG, hH, kK, lL, mM ,oO, rR)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 3, PDF p.10 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 5 (Decodable Sentences) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 5, PDF p.15 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 6 (Consonant blends bl, cl, fl, gl (initial position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 6, PDF p.17 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 7 (Consonant blends nk, st, lk, nd (final position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 7, PDF p.19 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 8 (Consonant blends sk, sp, dr (initial position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 8, PDF p.21 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 12 (Consonant Clusters nk, st, lk (final position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 12, PDF p.81 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 13 (Consonant Clusters sk, sp,dr (medial position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 13, PDF p.83 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 3 Lesson 14 (Consonant Blend Practice) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 3 Lesson 14, PDF p.85 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 3 (Consonant blends bl,cl, f l, gl (initial position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 3, PDF p.10 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 4 (Consonant blends nk, st, lk (final position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 4, PDF p.12 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 1 Lesson 5 (Consonant blends sk, sp, dr (medial position)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 1 Lesson 5, PDF p.14 (workbook evidence) |
+| Blends And Consonant Clusters — Use diphthongs to build words | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 2 (Reading), standard B3.2.4.1, PDF p.104 (curriculum evidence) |
+| Blends And Consonant Clusters — Use consonant blends to build words | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 2 (Reading), standard B3.2.5.1, PDF p.104 (curriculum evidence) |
+| Blends And Consonant Clusters | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.5.1, PDF p.46 (curriculum evidence) |
+| Blends And Consonant Clusters — Orally produce two-syllable words by blending sounds | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.5.1, PDF p.119 (curriculum evidence) |
+| Blends And Consonant Clusters — Orally produce three-syllable words by blending | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.5.1, PDF p.195 (curriculum evidence) |
 
 **Acceptance count: taught in 18 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador).**
 China joins with blends taught two at a time on Let's spell
@@ -97,6 +160,8 @@ in its Workbook's Revision 2.
 Kuwait joined 2026-11-04 in part only: a single workbook micro-skill page blends the initial clusters str- and spr- from a ten-word bank. The matching Student's Book has no pronunciation strand, and Kuwait's Skyline primary books teach no consonant blends.
 Counts grow as other closed countries' books are read.
 Nepal joined 2026-11-03 with consonant clusters as named work at the top of its course: Grade 11 works the clusters /sk/ /sp/ /st/ inside its travel unit (Unit 19, printed pp.172–180), Grade 12 works consonant clusters again in its final unit (Unit 20, printed pp.170–179), and Grade 3 carries a teacher note on consonant clusters at printed p.46 — clusters named as their own set, not an opening-blend phonics strand, and recorded on those terms.
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
 Phonics Focus "Three-Consonant Clusters" (p.105): "Words that begin
@@ -325,3 +390,23 @@ into gr/sl/cr/br jars.
 **Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. **Book:** *English — Superior Sublevel: Student Text for Curricular Transition* (one book issued under Grade 9 and 10 covers; read and cited once, from the Grade 9 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-41-5. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's blend stock is the A1.1 book's whole phonics strand — the only Starship book whose phonics is consonant blends rather than vowels — with the Superior text's cluster definition and cards on top.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 2 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 2: the letter sound h in a rhyming caption (Harry's hall is full of hats) (p.75); the sp and st sounds in a rhyming caption (six spiders stop for sandwiches on the stairs) (p.87); the letter sound g in a rhyming caption (Greg's got a big bag and a green go-kart) (p.99); Get Smart Plus 3: consonant blends (l-blends, r-blends, s-blends) in the back-of-book Phonics section (pp.105–107). The direct reads also correct the mapped picture of Malaysian phonics: phonics is not wholly teacher-side — *Super Minds* 1 carries one phonics-focus caption per unit in the pupil's book, and *Get Smart Plus 3* carries a full ten-page Phonics section (printed pp.105–114); this lesson's blends are now stocked from those pupil's-book pages directly.
+
+**Ghana books stocked 2026-11-10 (re-verification sweep merge):**
+
+**Book:** English Language Teachers Guide for Lower Primary, Level 1 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Lower Primary, Level 2 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Upper Primary, Level 1 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Teachers Guide for Upper Primary, Level 2 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book:** English Language Learners' Workbook, Lower Primary Level 1 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book:** English Language Learners' Workbook, Lower Primary Level 2 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book:** English Language Learners' Workbook, Lower Primary Level 3 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.

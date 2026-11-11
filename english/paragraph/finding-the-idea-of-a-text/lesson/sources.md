@@ -149,6 +149,8 @@ english/books/mexico.md filing covers Grade 7 only; the
 Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
+**Book 45:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -234,6 +236,7 @@ differ only in cover wording and colophon; cited once.
 | Reading short texts and titling them — family texts in the home unit, a strongman's day in the routine unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 3, printed pp.20–30; Unit 8, printed pp.71–80 |
 | Finding the idea of a text as a taught procedure — the scanning and skimming steps printed in full in the guide ("read it quickly to get a general idea; go over it quickly trying to find a specific piece of information; read it again in detail"), then a titled reading worked for its main idea, its topic and its topic sentence, with the Keep in mind note: "The topic sentence expresses the main idea of the paragraph" | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 15, guide printed pp.88–92 |
 | Popular-science texts against news articles: their purposes, and facts against opinions, beliefs and evidence | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed pp. 11–13 |
+| Determine and analyse central and supporting ideas in a text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 2 (Reading), standard B7.2.2.2, PDF p.47 (curriculum evidence) |
 
 **Acceptance count: taught in 28 countries (Bangladesh,
 Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico).** Ghana names the weighing (main idea vs supporting
@@ -281,6 +284,8 @@ work, and Workbook 12B — workbook only — completes a
 main-idea/supporting-ideas table for an article on Venus.
 Rwanda stocks the hunt in part — no read Rwanda book names the main idea, and none works gist, headings or paragraph titles, but skimming and scanning are explained as reading skills in P5 and P6, each with its own extract, and P5's Reading unit test sets skimming, scanning and summarising tasks on a story — the fast hunt for what a text carries, without the idea ever being named. Other closed countries join as their books are
 read (see READING-QUEUE.md). Mexico's Grade 8 book teaches learners to tell popular-science texts from news articles — their purposes, and facts against opinions, beliefs and evidence (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English First Additional Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 5 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa uses "main idea" by name: the Home Language Grade 5 Workbook 1's Pelé worksheet works the main character, the main idea and a summary, alongside the topic-sentence definition (printed p.20); the First Additional Language Grade 5 Workbook 1's spine names topic sentences and main ideas; and the First Additional Language Grade 5 Workbook 2 works the main idea with note-taking (Theme 8).
 

@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana
 
 Every part traces to its book and page.
 
@@ -64,6 +64,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 14:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -80,6 +82,9 @@ verification sweep.
 | Articles a / an as the grocery chapter's named grammar — "Use articles (a/an)" | Indonesia, English for Nusantara Grade 7, Chapter 2, printed p.74 |
 | ARTICLES TAUGHT BY NAME: "A, an and the are called articles" — a/an for no particular person or thing, the for a particular one | India — Marigold Book Five (Class 5), Unit 8 language work |
 | Articles as a named language point in the teacher notes: "a" for a singular countable noun mentioned first, "the" when referred to again; "the" before adjectives like poor/rich for a whole class (the poor, the rich) — the note itself names the taught point | India — Honeycomb (Class 7), Language point in The Ashes unit (Notes for the Teacher, Units 4–7), printed pp.50–54 (unit notes) |
+| Determiners — identify and use the definite and indefinite articles 'a' and 'an' | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.2.1, PDF p.60 (curriculum evidence) |
+| Determiners | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.2.1, PDF p.134 (curriculum evidence) |
+| Expository /Informative Writing — Write articles on varied topics event of the day | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.14.2, PDF p.232 (curriculum evidence) |
 
 **Acceptance count: taught in 10 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
@@ -95,3 +100,5 @@ NO articles system and is cited nowhere in this
 lesson, as required. Indonesia names a/an as its Grade 7
 grocery chapter's grammar (stocked 2026-11-09 by the
 re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

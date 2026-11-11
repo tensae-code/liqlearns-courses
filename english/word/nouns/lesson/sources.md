@@ -170,6 +170,16 @@ verification sweep.
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 58:** English Language Teachers Guide for Lower Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 59:** English Language Teachers Guide for Upper Primary, Level 2 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 60:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 61:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 62:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -306,6 +316,24 @@ verification sweep.
 | Singular to plural as word work: bench, brush, glass, box, bus, tomato, deer, sheep | India — Marigold Book Two (Class 2), Unit 8 word work, printed pp.122–140 |
 | Opposites matched (downward/upward, slowly/fast, little/big, slender/fat, mighty/weak, day/night) and One and Many columns (carrot/carrots, turnip/turnips, potato/potatoes, tomato/tomatoes, onion/onions) | India — Marigold Book Three (Class 3), Unit 3 word work, printed pp.25–32 |
 | Collective nouns taught as a set — a herd of cows, fleet of ships, brood of chicks, bundle of sticks, bunch of flowers, pack of wolves, flock of sheep, school of fish | India — Honeysuckle (Class 6), Working with Language in How the Dog Found Himself a New Master!, printed p.22 |
+| A Visit to the Dentist | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.40 (teacher evidence) |
+| The Lazy Frog | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 9, PDF p.30 (teacher evidence) |
+| Reading for comprehension | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 14, PDF p.40 (teacher evidence) |
+| Reading Comprehension | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 1 Lesson 9, PDF p.30 (teacher evidence) |
+| Plurals of regular nouns (adding‘s’) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 10, PDF p.34 (teacher evidence) |
+| Masculine and Feminine Gender Nouns | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 14, PDF p.120 (teacher evidence) |
+| Nouns | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.1.1, PDF p.59 (curriculum evidence) |
+| Pronouns — Identify and use different types of pronouns: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.3.1, PDF p.62 (curriculum evidence) |
+| Nouns — Apply knowledge of different | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.1.1, PDF p.132 (curriculum evidence) |
+| Pronouns — Identify and use indefinite pronouns e.g. someone, anyone | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.3.1, PDF p.135 (curriculum evidence) |
+| Pronouns — Use comparatives forms of regular and irregular adjectives | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.4.1, PDF p.135 (curriculum evidence) |
+| Naming Words/Nouns | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.3.1, PDF p.166 (curriculum evidence) |
+| Pronouns — Identify | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.3.1, PDF p.208 (curriculum evidence) |
+| Using Action Words — use '-ing' nouns to refer to activities | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.3.1, PDF p.236 (curriculum evidence) |
+| Demonstrate command and application of nouns | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.1, PDF p.48 (curriculum evidence) |
+| Use cohesive devices (pronouns, punctuations | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 4 (Writing), standard B7.4.1.1, PDF p.60 (curriculum evidence) |
+| Singular and plural forms — use an increasing range of singular and plural forms in sentences | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.1, PDF p.86 (curriculum evidence) |
+| Use noun phrases accurately in context | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.1, PDF p.118 (curriculum evidence) |
 **Acceptance count: taught in 34 countries (Bangladesh, Egypt,
 Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
 Egypt and Bangladesh carry the definition itself,
@@ -323,6 +351,8 @@ Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes s
 countries join as their books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries the plural spellings -s/-es and the irregular plurals in Grade 4 (Units 3 and 8), countable against uncountable with how many/how much in Grade 7 (Unit 2), and the noun inside a named word-classes opening in Grade 11 (Unit 1), with irregular plurals again in that book's Unit 13.
 Armenia joined 2026-11-03: it carries plurals beginning inside the first letter lessons in Grade 3 (Unit 1.4), nouns that refuse the singular/plural split as a named set in Grade 7 (Unit 4, printed p.103), and the noun system as reference in the Grade 7 appendix (printed pp.148–149).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
 Schools, Book Two* (MoES/RIES; full read in

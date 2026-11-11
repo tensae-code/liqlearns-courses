@@ -313,6 +313,12 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 90:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 91:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 92:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -591,6 +597,14 @@ verification sweep.
 | "Lost Spring" (Anees Jung): stories of stolen childhood — Saheb the ragpicker of Seemapuri and Mukesh the bangle-maker's son of Firozabad who dreams of being a motor mechanic (child labour, poverty; plot summary only) | India — Flamingo (Class 12), printed pp.13–22 |
 | "The Rattrap" (Selma Lagerlöf — the book's prelims print "Selma Lagelerofs", a book slip, taught corrected): a peddler who sees the world as a rattrap steals a crofter's money, is sheltered by an ironmaster's daughter Edla, and is redeemed by her kindness (plot summary only) | India — Flamingo (Class 12), printed pp.32–45 |
 | "Going Places" (A. R. Barton — the book's prelims print "A.C. Barton", a book slip, taught corrected): Sophie, a school-leaver in a working-class family, fantasises about meeting footballer Danny Casey; her brother Geoff and Jansie ground the dream in reality (plot summary only) | India — Flamingo (Class 12), printed pp.77–87 |
+| Story Telling | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 1 (Oral Language), standard B1.1.4.1, PDF p.28 (curriculum evidence) |
+| Story Telling — Identify characters in a story and relate them to real life situations | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.4.1, PDF p.61 (curriculum evidence) |
+| Story Telling — Respond to and ask questions based on stories heard | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 1 (Oral Language), standard B3.1.4.1, PDF p.92 (curriculum evidence) |
+| Story Telling — Retell stories sequentially, including key details | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.4.1, PDF p.28 (curriculum evidence) |
+| Story Telling — Make connections between texts or stories | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.4.1, PDF p.178 (curriculum evidence) |
+| Write personal narratives using effective techniques | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 4 (Writing), standard B7.4.2.1, PDF p.62 (curriculum evidence) |
+| Write personal narratives using effective techniques | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 4 (Writing), standard B8.4.2.1, PDF p.94 (curriculum evidence) |
+| Analyse the types of characters in texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 5 (Literature), standard B8.5.1.1, PDF p.103 (curriculum evidence) |
 **Acceptance count: taught in 34 countries (Bangladesh,
 Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India).** India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
@@ -646,6 +660,8 @@ and its favourite-story organiser works character, events
 in first/then/finally order and lesson on a model paragraph
 about Alice in Wonderland before the pupil's own story. Rwanda stocks the story in part — complete stories are read whole from P1 up, stories and fables are named topics in P2 and P5, Telling Stories is a named topic in P4, and story writing is set work through the set (narrations and alternative endings in P4, plan–draft–revise story work in P5, set-title stories in P6) — but no read Rwanda book names the story's furniture (setting, characters, plot) as a taught set, so that naming rests on the other countries. Tanzania stocks the story in part — one whole Standard One reading book of complete short stories (The wrong fish, The foolish rats, The magic tree, The Hen and the Kite among them), its Introduction naming story-telling as the course's own aim — but no read Tanzania book names the story's furniture (setting, characters, plot) as such, so that naming rests on the other countries. Other closed countries join as their books are read (see
 READING-QUEUE.md). Mexico stocks story at project scale: its Grade 7 book's literary festival and the complete tale “The Kindness Princess”, and its Grade 8 book's La Llorona artistic proposal (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and ends with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129); the First Additional Language Grade 6 Workbook 2 analyses story elements (worksheet 83, printed p.58); and the Home Language Grade 4 Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4).
 

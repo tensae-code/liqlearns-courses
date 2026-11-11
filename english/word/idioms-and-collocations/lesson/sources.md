@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana
 
 Every part traces to its book and page.
 
@@ -66,6 +66,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 18:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -92,5 +94,9 @@ verification sweep.
 | Phrases from a box used in sentences (out of luck, mystery, true to his word, chores, semester, between you and me, look up) — unknown words looked up in a dictionary | India — Honeysuckle (Class 6), Working with Language in Who Did Patrick's Homework?, printed p.11 |
 | Reading sentences for what they show — fear, pride in appearance, humour (idiomatic lines like "I was turned to stone") | India — Beehive (Class 9), Thinking about Language in The Snake and the Mirror, printed p.59 |
 | Words worked in About the Unit: borrowings enriching English; idiomatic/figurative expressions | India — Flamingo (Class 12), Working with words in The Last Lesson, printed pp.11–12 (About the Unit) |
+| Idiomatic Expressions — Identify, explain and use idiomatic expressions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.7.1, PDF p.140 (curriculum evidence) |
+| Idiomatic Expressions — identify, explain and use idiomatic expressions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.7.1, PDF p.214 (curriculum evidence) |
 
 **Acceptance count: taught in 9 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India).** India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

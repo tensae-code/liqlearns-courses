@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana
 
 Every part traces to its book and page.
 
@@ -119,6 +119,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 21:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -147,6 +149,7 @@ verification sweep.
 | The reported-speech backshift table reviewed whole: present → past, past → past perfect, present perfect → past perfect — “going back one tense” | Mexico, Grade 9, Project 18 "Reliable Information", printed p. 170 |
 | Reported suggestions taught beside the statements: reporting verbs suggested, proposed, recommended + that…, -ing or to-infinitive (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 16 "Fake News and Post-Truth", printed p. 142 |
 | Reported speech as named work: what comic-book characters say in speech bubbles must be put into reported speech to repeat it | India — Honeycomb (Class 7), Working with Language in Gopal and the Hilsa Fish, printed p.42 |
+| Direct And Reported Speech — Form and use reported speech appropriately | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.13.1, PDF p.219 (curriculum evidence) |
 
 **Acceptance count: taught in 12 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
@@ -176,3 +179,5 @@ The sweep also stocked Mauritania's Grade 11 backshift chart
 and present-reporting-verb lesson, and Grade 13's advanced
 table (stocked 2026-11-09 by the Mauritania re-verification
 sweep merge). Mexico's Grade 9 book teaches direct speech against reported speech, and closes the course with the whole backshift table (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

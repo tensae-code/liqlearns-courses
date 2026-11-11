@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -127,6 +127,14 @@ and Educational System Reform, National Pedagogic Institute
 (IPN), 2025 printing. Re-read page by page in the 2026-11-08
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
+**Book 30:** English Language Learners' Workbook, Lower Primary Level 1 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 31:** English Language Learners' Workbook, Lower Primary Level 2 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 32:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 33:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -373,6 +381,12 @@ sound is learned.
 | The alphabet and subject personal pronouns: spelling surnames (“How do you spell it?”), subject pronouns, the conjunctions and/or box, capital letters for proper nouns and “I”. Book error noted: the unit title misprints “PRONUONS” for pronouns | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.11–12 |
 | The alphabet and spelling names (the ABC song) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.9 |
 | The alphabet, capital and small letters A–Z | Mauritania, Study English, Grade 7, printed p.14 |
+| Workbook practice paired with the Level 1 guide's Term 2 Lesson 9 (Blending (kK, cC, lL)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 1 (MoE/GES, 2020), Term 2 Lesson 9, PDF p.45 (workbook evidence) |
+| Workbook practice paired with the Level 2 guide's Term 1 Lesson 2 (Blending (sS, aA, tT, pP, nNJ)) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 1 Lesson 2, PDF p.8 (workbook evidence) |
+| Penmanship — Copy letters of the alphabet clearly Reading and Writing Skills Copy | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.2.1, PDF p.50 (curriculum evidence) |
+| Writing Letters – Small And Capital — Match lower and upper case letters Reading and Writing Skills general skills | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.3.1, PDF p.51 (curriculum evidence) |
+| Writing Letters – Small And Capital | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 4 (Writing), standard B2.4.3.1, PDF p.78 (curriculum evidence) |
+| Letter Writing — write letters to friends about events, using the letter format | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.15.1, PDF p.161 (curriculum evidence) |
 **Acceptance count: taught in 30 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
@@ -406,6 +420,8 @@ Nepal joined 2026-11-03 in two layers: its held Grade 1 student's book gives the
 Mauritania prints the full alphabet, capitals and small
 letters, in its Grade 7 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
 Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in

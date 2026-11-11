@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana
 
 Every part traces to its book and page.
 
@@ -156,6 +156,10 @@ Class V — India, NCERT, 2019-2020 printing in this scan.
 Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
+**Book 54:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 55:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -276,6 +280,8 @@ re-verification sweep.
 | Prepositions in / under at work — "Where is the pencil? It is in the pencil case" | Indonesia, English for Nusantara Kids Grade 3, Chapter 5, printed p.116 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Describing things: size/colour/shape adjectives (adjectives never take -s), the possessive pronouns mine/yours/his/her/its/ours/theirs, what colour is…, what's it like | Mauritania, Study English, Grade 7, printed pp.35–36 |
 | Similes opened out as a system: "as cold as ice" explained, then as white as snow, as slow as a tortoise, as sweet as honey — and learners coin their own | India — Marigold Book Five (Class 5), Unit 7 language work |
+| Descriptive Writing | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 4 (Writing), standard B3.4.10.1, PDF p.116 (curriculum evidence) |
+| Descriptive Writing — Use descriptive Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.12.1, PDF p.157 (curriculum evidence) |
 **Acceptance count: taught in 34 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India).** India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
@@ -302,6 +308,8 @@ Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives an
 Mauritania describes things — size, colour, shape and the
 possessive pronouns — in its Grade 7 book (stocked 2026-11-09
 by the Mauritania re-verification sweep merge).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
 Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read

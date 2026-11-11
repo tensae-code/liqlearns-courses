@@ -72,6 +72,10 @@ english/books/mexico.md filing covers Grade 7 only; the
 Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
+**Book 10:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 11:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -91,6 +95,12 @@ differ only in cover wording and colophon; cited once.
 | The poetry-reading project: how poetry and literary forms play with words, prepared and performed | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed p. 78 |
 | Two short texts studied whole: the prose piece “The Versatility of Hands” and José Juan Tablada's shape poem “The Dagger” (summaries only) | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed pp. 78–79 |
 | Poetry and art vocabulary matched word to meaning: painter, contemplate, sensations, imagination, poetry, heart, peace | Mexico, Grade 8, Project 7 "A Poet With the Wings of a Painter", printed p. 56 |
+| The Weather | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 5, PDF p.58 (teacher evidence) |
+| The Sea | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 7, PDF p.102 (teacher evidence) |
+| Poems — Recite poems with stress, rhythm and actions and interpret | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.3.1, PDF p.27 (curriculum evidence) |
+| Poems | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.3.1, PDF p.97 (curriculum evidence) |
+| Poems — Demonstrate understanding of lessons in stories | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.4.1, PDF p.98 (curriculum evidence) |
+| Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 
 **Acceptance count: taught in 7 countries (Barbados,
 Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico).** Barbados's syllabus names
@@ -111,3 +121,5 @@ Pleasure reader's Ghazali, Dickinson and Neruda (added
 poems in both secondary books — a simple poem in Grade 8
 and poem creation as the writing step in Grade 9
 (stocked 2026-11-09 by the re-verification sweep merge). Mexico plays with words in Grade 7 — a poetry reading prepared and performed, a prose piece and a shape poem studied whole — and matches poetry and art vocabulary in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

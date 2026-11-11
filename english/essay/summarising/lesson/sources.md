@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -36,6 +36,10 @@ Malaysia, Macmillan Education / ITBM for the Ministry of
 Education Malaysia, ISBN 978-967-460-874-3. Filed in
 english/books/malaysia.md (FULLY READ + CITATION CHECK
 PASSED 2026-11-06).
+**Book 6:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 7:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,6 +51,11 @@ PASSED 2026-11-06).
 | Set summary lengths as unit work: a summary of not more than 100 words (Unit 1); summary writing of about 100 words (Units 4 and 8) | South Sudan, Primary English 6 Pupil's Book, Units 1, 4 and 8 (as filed) |
 | Summarising a story in one sentence per heading (character / want / problem / solution / resolution), joined into a paragraph of not more than 120 words | South Sudan, Primary English 6 Pupil's Book, Unit 7 "Short Stories", printed pp.88–100 |
 | Story-summary writing with the Someone–Wanted–So–But–Then frame | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 8 "Tell me a story", printed pp.102–103 (pupil's-book read; the Year 6 Scheme of Work maps the same unit) |
+| Summarising — Summarise level-appropriate passages/texts orally | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.10.1, PDF p.56 (curriculum evidence) |
+| Summarising | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.8.1, PDF p.56 (curriculum evidence) |
+| Summarising — Summarise level-appropriate texts/passages orally | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.10.1, PDF p.128 (curriculum evidence) |
+| Summarizing — Summarise level-appropriate passages/text orally | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.10.1, PDF p.203 (curriculum evidence) |
+| Use summarising to understand key ideas in a range | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 2 (Reading), standard B7.2.2.1, PDF p.47 (curriculum evidence) |
 
 **Acceptance count: taught in 5 countries (India,
 Mauritania, Sudan, South Sudan, Malaysia).** India
@@ -56,3 +65,5 @@ label; Sudan works the 30-word model and states the four
 rules; South Sudan sets summaries by length and by story
 headings; Malaysia teaches the Someone–Wanted–So–But–
 Then story frame.
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

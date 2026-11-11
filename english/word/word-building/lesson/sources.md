@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana
 
 Every part traces to its book and page.
 
@@ -78,6 +78,18 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 16:** English Language Teachers Guide for Lower Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 17:** English Language Teachers Guide for Upper Primary, Level 2 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 18:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 19:** English Language Learners' Workbook, Lower Primary Level 2 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 20:** English Language Learners' Workbook, Lower Primary Level 3 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
+
+**Book 21:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -97,6 +109,23 @@ verification sweep.
 | Words used both as nouns and verbs (play, etc.) used appropriately in sentences | India — Honeysuckle (Class 6), Working with Language in A Game of Chance, printed p.104 |
 | A named language point in the teacher notes: forming nouns by adding -ness and -ity, and adverbs by adding -ly to adjectives — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 8–10 (Notes for the Teacher), printed pp.107–108 (unit notes) |
 | A spelling rule worked: "i" before "e" except after "c" — completing words with ie/ei (believe, receive, weird, seize, reign, grief, pierce…) and testing the rule | India — Beehive (Class 9), Thinking about Language in The Bond of Love, printed p.117 |
+| Spelling Rules Regarding Plural Endings army – armies; baby – babies | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 2, PDF p.78 (teacher evidence) |
+| Reading Comprehension | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 7, PDF p.88 (teacher evidence) |
+| Introducing suffixes | Ghana, Distance Learning Teachers Guide, Lower Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 8, PDF p.90 (teacher evidence) |
+| Spelling Rules Regarding Plural Endings army – armies; baby – babies | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 2, PDF p.78 (teacher evidence) |
+| Reading Comprehension | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 7, PDF p.88 (teacher evidence) |
+| Introducing suffixes | Ghana, Distance Learning Teachers Guide, Upper Primary Level 2 (MoE/GES, November 2020), Term 3 Lesson 8, PDF p.90 (teacher evidence) |
+| Abbreviations | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 2, PDF p.89 (teacher evidence) |
+| Workbook practice paired with the Level 2 guide's Term 2 Lesson 7 (Spelling pattern oo) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 2 (MoE/GES, 2020), Term 2 Lesson 7, PDF p.46 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 2 Lesson 7 (Special Sound Pattern g – /g/ and /ʤ/) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 2 Lesson 7, PDF p.43 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 1 (Spelling Rules) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 1, PDF p.57 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 10 (Spelling patterns igh and y ending as in high, buy, try) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 10, PDF p.75 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 11 (The spelling pattern oa as in load, boat) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 11, PDF p.77 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 2 (Spelling Rules Regarding Plural Endings army – armies; baby – babies) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 2, PDF p.59 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 4 (Special Spelling Pattern -ing as in plant – planting) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 4, PDF p.63 (workbook evidence) |
+| Workbook practice paired with the Level 3 guide's Term 3 Lesson 8 (Introducing suffixes) | Ghana, Distance Learning Learners' Workbook, Lower Primary Level 3 (MoE/GES, 2020), Term 3 Lesson 8, PDF p.72 (workbook evidence) |
+| Phonics — recognise and read words using a variety of cues (word beginnings, word structure, prefixes) | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.2.2, PDF p.42 (curriculum evidence) |
+| Comprehension — Demonstrate texts (e.g. introduction, body, conclusion) | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.7.3, PDF p.125 (curriculum evidence) |
 
 **Acceptance count: taught in 8 countries (Barbados,
 Cambodia, Malaysia, Nepal, South Africa, China, Iran, India).** India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
@@ -117,3 +146,5 @@ stocked this lesson was false until the re-verification
 sweep stocked it, 2026-11-08 — flag 7 of the sweep's
 China diff). Other closed countries join as their books
 are read (see READING-QUEUE.md).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

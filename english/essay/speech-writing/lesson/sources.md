@@ -54,6 +54,8 @@ only; the Grade 9 book was never filed there). The
 Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
+**Book 9:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -68,6 +70,10 @@ colophon; cited once.
 | Preparing a speech / dissertation — target identification, choice of theme, research, message structuring, essay writing (introduction, development, conclusion), with advice (key words, formal language, main topic in the first paragraph, conclusion in the last, use connectors and quotes) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 52 |
 | Reading a speech: the principal's graduation speech at No. 3 Junior High School, with a strategy box on identifying text type and purpose | China — English ("Go for it!") Grade 9, Unit 14, printed pp.110–111 |
 | The human-rights forums project: analysing community problems and presenting proposals in two forums for participation and human rights | Mexico, Grade 9, Project 8 "Human Rights Promoters", printed p. 70 |
+| Argumentative/Persuasive Writing — Use descriptive words/expressions to describe places | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 4 (Writing), standard B4.4.12.1, PDF p.79 (curriculum evidence) |
+| Persuasive/Argumentative Writing — Write explanations to support opinions Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.13.1, PDF p.158 (curriculum evidence) |
+| Persuasive/Argumentative Writing | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.13.2, PDF p.159 (curriculum evidence) |
+| Argumentative/Persuasive Writing — Write explanations and examples to support opinions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.13.1, PDF p.231 (curriculum evidence) |
 
 **Acceptance count: taught in 8 countries (Egypt, Ghana,
 Nepal, Greece, Bangladesh, Bolivia, China, Mexico).** Egypt sets the speech for or against an
@@ -82,3 +88,5 @@ History unit (added 2026-11-08 by the re-verification
 sweep). China joins with a principal's graduation speech
 read with a strategy box on text type and purpose
 (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

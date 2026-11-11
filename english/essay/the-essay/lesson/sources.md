@@ -171,6 +171,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 48:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -267,6 +269,7 @@ verification sweep.
 | How to write an essay — the steps and a labelled model essay, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 123 |
 | Writing: "How I've Changed!" — a two-paragraph composition (paragraph 1 general changes; paragraph 2 the most important change and how it happened) | China — English ("Go for it!") Grade 9, Unit 4, printed p.32 |
 | An essay written in five paragraphs: recounting overcoming a fear in an activity | India — Flamingo (Class 12), Writing after Deep Water, printed p.30 |
+| Expository/Informative Writing — Write words giving information about family | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 4 (Writing), standard B4.4.14.1, PDF p.81 (curriculum evidence) |
 
 **Acceptance count: taught in 23 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India).** India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
@@ -325,6 +328,8 @@ most important change and how it happened) (stocked
 2026-11-08 by the re-verification sweep). Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — five books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 5 Workbook 2*, *English Home Language, Grade 6 Workbook 1*, *English First Additional Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 1 plans and writes a four-paragraph essay about an animal (printed pp.32–33); Workbook 2 writes a three-paragraph myth (printed pp.134–136); the Grade 6 Workbook 1 builds a persuasive argument with two supporting arguments and a concluding recommendation (printed pp.48–49); the First Additional Language Grade 5 Workbook 2's final worksheet is a three-paragraph hobby essay; and the First Additional Language Grade 6 Workbook 2 writes a descriptive essay with the past progressive (worksheet 104).
 

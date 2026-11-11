@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana
 
 Every part traces to its book and page.
 
@@ -53,6 +53,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 9:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -64,6 +66,8 @@ verification sweep.
 | Short forms and their full forms: Don't = Do not, I'm = I am, I'll = I will, Can't, It's, Isn't, What's, That's, He's, She's, You're, We're | India — Marigold Book Three (Class 3), Unit 9 word building, printed pp.89–90 |
 | Contractions taught formally: the apostrophe is named and defined in print ("The mark (') is an apostrophe which shows where the letters are left out") — we'll, can't, we've, and full forms for weren't, she'll, wasn't | India — Marigold Book Five (Class 5), Unit 2 language work |
 | Form noticed: direct speech inside narration — why the author quotes; comma use when a subordinate clause precedes/follows the main clause | India — Flamingo (Class 12), Noticing form in Indigo, printed p.55 |
+| Direct Speech | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 4, PDF p.95 (teacher evidence) |
+| Travelling by Water | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 6, PDF p.100 (teacher evidence) |
 
 **Acceptance count: taught in 5 countries (Malaysia,
 Rwanda, South Africa, Indonesia, India).** India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
@@ -87,3 +91,5 @@ by the re-verification sweep merge).
 No other closed country's filing teaches direct-speech
 punctuation as a named system; the lesson does not claim
 them.
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

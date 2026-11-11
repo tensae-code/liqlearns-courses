@@ -90,6 +90,10 @@ India, NCERT, 2020-21 printing (chapter footers stamped
 2019-20). Filed in english/books/india.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-26); re-read page by page in
 the 2026-11-08 re-verification sweep.
+**Book 14:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 15:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -109,6 +113,11 @@ the 2026-11-08 re-verification sweep.
 | A play in three scenes: "My Elder Brother" (adapted from Munshi Premchand's Hindi story Bade Bhai Sahab) — Bhaiya, five years older, keeps repeating classes yet scolds; Munna tops his class; Bhaiya's printed study timetable | India — Marigold Book Five (Class 5), Unit 4, printed p.64 |
 | A one-act play read whole: "If I Were You" (Douglas James) — playwright Gerrard outwits an intruder who plans to kill him and steal his identity | India — Beehive (Class 9), printed p.138 |
 | A one-act play read whole: "The Browning Version" (Terence Rattigan) — schoolmaster Crocker-Harris, dry and feared, is mocked by pupil Taplow, yet shows unexpected feeling at his leaving (extract; plot summary only) | India — Hornbill (Class 11), printed p.50 |
+| Conversation And Talking About Oneself, Family, People, Places, Custom — Dramatise/role-play stories heard or read | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 1 (Oral Language), standard B2.1.5.1, PDF p.62 (curriculum evidence) |
+| Dramatisation And Role Play — Role-play a story/play | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.5.1, PDF p.29 (curriculum evidence) |
+| Dramatisation And Role Play — Talk about key real life situations issues in stories/sketches • Have learners discuss the character | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.5.2, PDF p.29 (curriculum evidence) |
+| Dramatization And Role Play — Appreciate key | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.5.2, PDF p.100 (curriculum evidence) |
+| Dramatisation And Role Play | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.5.2, PDF p.180 (curriculum evidence) |
 
 **Acceptance count: taught in 6 countries (Malaysia,
 Ghana, Barbados, India, Bangladesh, Mexico).** India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
@@ -120,3 +129,5 @@ Class 1; India prints a full one-act play and sets the
 prose-to-script conversion. Bangladesh prints the same
 Chekhov play in its senior book's Reading for Pleasure
 reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

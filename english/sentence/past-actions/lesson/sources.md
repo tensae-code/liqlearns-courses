@@ -184,13 +184,15 @@ Class III — India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 65:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
 
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
 | The past paradigm whole: affirmative (subject + verb -d/-ed + complement), negative (didn't + base verb), interrogative (Did + subject + base verb) | Bolivia compendium, the past-tense grammar section (as filed) |
 | was/were paradigm; "1.3 yes/no questions" over the past of be | Bolivia compendium, the was/were grammar section (as filed) |
-| The SIMPLE PAST opened in the strand (with the past continuous beside it: "use simple past and the past continuous forms…") — the past as the tense of narratives and recounts | Ghana, NaCCA B4–B6 curriculum, Strand 5 (as filed) |
+| The SIMPLE PAST opened in the strand (with the past continuous beside it: "use simple past and the past continuous forms…") — the past as the tense of narratives and recounts | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 (Grammar Usage) (citation corrected 2026-11-10 by the re-verification sweep merge — the strand opening sits at Basic 3 in the B1–B3 document) |
 | The past staged in two units: the regular -ed set first, with its formation table and time ladder, then the irregular set (rode, hurt, fell, ate, took, bought, went, saw) with a 54-pair reference table behind it | China, English Grade 6 Volume 2, Unit 2, pp.12–21 (table p.20, ladder p.17); Unit 3, pp.22–31 (table p.69) |
 | was/were + could/couldn't for past states and change — "there was/were (no)…", "… years ago", before/now change talk | China, English Grade 6 Volume 2, Unit 4, pp.32–41 |
 | The first full past-tense story text — Zac the squirrel sings for the Monkey King, is thrown out of the tree, and his hurt tail turns bushy (lived, liked, sang, was, shouted, threw) (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 6 Volume 1, Unit 3, printed p.45 |
@@ -311,6 +313,7 @@ verification sweep.
 | Twelve pictured past statements with 'Yesterday' and 'Last Friday/Saturday/...' time markers, then 'Where were you yesterday? What did you do?' conversation practice | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 8, printed pp.54-56 |
 | The unit's Language summary: was/were, 'What did you do ...?', 'Did you ...? - Yes, I did. / No, I didn't.' | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 8, Language summary, printed p.62 |
 | Grade 8 completes the form: the past simple introduced through its negative ('didn't' statements) before the full affirmative/negative system is summarised | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 2, printed p.6; Language summary, printed p.16 |
+| Past Tense of Regular Verbs | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 8, PDF p.30 (teacher evidence) |
 
 
 | The past tense mapped as arriving in Unit 5 Yesterday and Today — "What time did you get up yesterday? Yesterday, I got up at …" with got up, ate, came, did, took, went — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 5 Yesterday and Today, Syllabus-mapped |
@@ -376,6 +379,8 @@ are read (see READING-QUEUE.md).
 Mauritania teaches the simple past in Grade 9 and its spelling
 system in Grade 11 (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's past spine starts in Grade 7 (regular verbs, then regular and irregular together) and continues in Grade 8 with there was/were + could, past time expressions, and was/were for feelings and situations (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

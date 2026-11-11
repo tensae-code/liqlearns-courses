@@ -28,6 +28,8 @@ re-read page by page in the 2026-11-08 re-verification
 sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
+**Book 8:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,5 +41,11 @@ cited once.
 | Reference words: using the words a text points back with, as the lesson's reading strategy | Iran, Vision 2 (Grade 11), Lesson 3, Reading strategy, printed pp.81–107 |
 | Note-taking: taking notes on a reading as the lesson's named strategy | Iran, Vision 3 (Grade 12), Lesson 3, Reading strategy, printed pp.71–99 |
 | The essay “Is That Reading?!” by María de Jesús Prado Vite — what counts as reading and how people read (topic summary only) | Mexico, Grade 7, Project 7 "Is That Reading?!", printed p. 64 |
+| Read and understand a range of texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 2 (Reading), standard B7.2.1.1, PDF p.43 (curriculum evidence) |
+| Use monitoring and mental visualisation to engage with texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 2 (Reading), standard B8.2.1.1, PDF p.80 (curriculum evidence) |
+| Read a variety of grade level texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 2 (Reading), standard B9.2.1.1, PDF p.111 (curriculum evidence) |
+| Read given text, within a specific time | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 2 (Reading), standard B9.2.1.2, PDF p.112 (curriculum evidence) |
 
 **Acceptance count: taught in 6 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.

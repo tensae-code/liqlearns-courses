@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -203,6 +203,22 @@ Literary Course Book — Libya, Ministry of Education
 | Poem read whole: "A Thing of Beauty" (John Keats, from Endymion) — a thing of beauty is a joy forever: daffodils, streams, the grandeur of the dead | India — Flamingo (Class 12), printed p.98 |
 | Poem read whole: "A Roadside Stand" (Robert Frost) — poor country folk set up a stand hoping city money will change their lives; the city passes by | India — Flamingo (Class 12), printed p.100 |
 | Poem read whole: "Aunt Jennifer's Tigers" (Adrienne Rich) — Aunt Jennifer embroiders prancing, fearless tigers while her own hands tremble under the weight of marriage | India — Flamingo (Class 12), printed p.103 |
+| Fluency | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 2 (Reading), standard B1.2.7.2, PDF p.48 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Identify and spell simple words correctly Reading and Writing Skills phonics | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 5 (Grammar Usage), standard B1.5.10.1, PDF p.58 (curriculum evidence) |
+| Building The Love And Culture Of Reading — read a variety of age-appropriate books and texts from print and other sources | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 6 (Extensive Reading), standard B1.6.1.1, PDF p.58 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Read a variety of age and level-appropriate books and texts | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 6 (Extensive Reading), standard B2.6.1.1, PDF p.89 (curriculum evidence) |
+| Fluency — Read long texts with good pace, accuracy and expression | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 2 (Reading), standard B3.2.9.1, PDF p.109 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Spell phonically irregular words correctly | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 5 (Grammar Usage), standard B3.5.10.1, PDF p.123 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Read a variety of age and level-appropriate books | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 6 (Extensive Reading), standard B3.6.1.1, PDF p.123 (curriculum evidence) |
+| Fluency — Read grade- level texts at good pace | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.9.1, PDF p.55 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Read a variety of age- and level appropriate Reading skills for pleasure | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 6 (Extensive Reading), standard B4.6.1.1, PDF p.93 (curriculum evidence) |
+| Silent Reading — Infer meaning from level-appropriate texts | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.8.1, PDF p.126 (curriculum evidence) |
+| Fluency — Read grade-level texts with good speed and accuracy | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.9.1, PDF p.127 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Use phonics knowledge to spell words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.10.1, PDF p.174 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Read a variety of age- and level appropriate books | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 6 (Extensive Reading), standard B5.6.1.1, PDF p.174 (curriculum evidence) |
+| Fluency | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.8.1, PDF p.202 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Check pieces of literary work for spelling | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.10.1, PDF p.244 (curriculum evidence) |
+| Building The Love And Culture Of Reading — Read and critique a variety of age- and level appropriate | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 6 (Extensive Reading), standard B6.6.1.1, PDF p.244 (curriculum evidence) |
 
 **Acceptance count: taught in 11 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India)** — the
 first five are the countries whose schoolbooks carry a complete book-length
@@ -219,6 +235,8 @@ abridged, in five episodes reaching the story's end — a
 graded retelling, not the original text, with no questions
 on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Bolivia joins the same way Bangladesh does (2026-11-08, re-verification sweep): its schoolbooks carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — 31 lesson-length readings and songs (seventeen in the student books, fourteen in the teacher compendium), filed as plot summaries only. China joins the same way (2026-11-08, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — fifteen sustained readings, poems and a song across Grades 5–9, filed as plot summaries only. Indonesia joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is talking about your favourite book in Grade 5 and one sustained narrative read whole in Grade 12 — "The Breakers of Limitations from Gurung Mali," filed as a plot summary only. Mexico joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its sustained-reading ladder — seven lesson-length readings across Grades 7–8: folk dances and music read as identity, a coral-reef dream story, a Shakespeare biography paragraph, the Masferrer fragment, the ancient-Mexico agriculture text, the War of the Worlds broadcast account and the Naica Mine crystals, filed as summaries only. India joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its big-reading ladder — 103 poems, songs and sustained readings across Classes 1–12, from the first Marigold poems to Flamingo's six senior poems, filed as summaries only. Other closed countries join as their
 books are read (see READING-QUEUE.md).
+
+**Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly and exactly: Grade 12's Unit 13 (printed pp.97–144) prints John Steinbeck's novella *The Pearl* COMPLETE, Chapters 1–6, inside the textbook — a complete book-length text bound into the schoolbook, like Libya's readers. But it is the ORIGINAL novella text, not a graded retelling, and Pakistan has no graded readers.
 
@@ -273,3 +291,9 @@ summaries only; no text is transcribed. The sweep's diff routed
 these items to this lesson under the everything-goes-in ruling
 (2026-11-06); they are stocked with the distinction stated, not
 smoothed over.
+
+**Ghana books stocked 2026-11-10 (re-verification sweep merge):**
+
+**Book:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.

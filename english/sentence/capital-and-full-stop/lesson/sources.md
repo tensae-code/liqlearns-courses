@@ -112,6 +112,10 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 46:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 47:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -187,6 +191,14 @@ verification sweep.
 | Capital letters as an explicit learning outcome — Lesson 2's plan prints the capital-letter set inside its wordcard answers (I, I'm, Mr, Mrs, Miss, Miss, Sammy, June), so the capitalised forms themselves are the teacher's printed material | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 2, guide printed pp.10–15 |
 | Spelling names aloud; capital letters for proper names and sentence starts; contractions of be and have; the possessive adjective my | Mauritania, Study English, Grade 7, printed p.15 |
 | A named language point in the teacher notes: punctuation in writing sentences is an important teaching point — group versions of sentences, only one grammatically acceptable — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 1–3 (Notes for the Teacher), printed pp.1–8 (unit notes) |
+| Punctuation marks: Question mark (?) and exclamation mark (!) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 2, PDF p.18 (teacher evidence) |
+| Punctuation - The Difference in use between Apostrophe (’) and comma (,) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 1 Lesson 4, PDF p.21 (teacher evidence) |
+| Using Punctuation — write to friends about personal experiences using appropriate punctuation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 4 (Writing), standard B4.4.15.1, PDF p.82 (curriculum evidence) |
+| Using Punctuation — Use the comma: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.2.1, PDF p.82 (curriculum evidence) |
+| Using Capitalisation — Follow appropriate mechanical convention | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.1.1, PDF p.162 (curriculum evidence) |
+| Using Punctuation — Use punctuations: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.2.1, PDF p.163 (curriculum evidence) |
+| Using Capitalisation — Write to friends to express their views on given | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.15.1, PDF p.233 (curriculum evidence) |
+| Using Punctuation — use the colon | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.2.1, PDF p.234 (curriculum evidence) |
 
 **Acceptance count: taught in 26 countries (Bangladesh,
 Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India).** India joins with punctuation in writing sentences, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana states the rules as curriculum strands;
@@ -212,6 +224,8 @@ their books are read (see READING-QUEUE.md).
 Mauritania teaches name-spelling and the capital-letter rules
 in its Grade 7 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria teaches the pair outright: **sentences rewritten with capital letters and full stops in Grade 3 Workbook 3** (Unit 7, printed pp.21–23; Revision 2, printed pp.30–32; bare sentences given capital letter / ? / . in Revision 3, printed pp.45–47), **capital-letter rules in Grade 6 Pupil's Book 6** (Unit 6, printed pp.32–35), **capitals and full stops as the writing point of Grade 8, Unit 1** (printed pp.6–11), and the **punctuation rules stated whole in the Grade 12 Workbook's Appendix II** (Appendixes, printed pp.100–104).
 

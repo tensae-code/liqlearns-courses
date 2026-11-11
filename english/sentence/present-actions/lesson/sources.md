@@ -205,6 +205,8 @@ India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 72:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -336,6 +338,7 @@ verification sweep.
 | The continuous tenses across present/past/future gathered in one review table | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Language review 3, printed p.34 |
 | The set's first real grammar contrast, in the book's own words: Simple Present is for things that happen regularly — "like a habit," model "I play with my toys every day" — and Present Continuous is for things happening right now — "like a snapshot," model "I am playing with my toys" — with examples drawn from the book's story (habitual go/work/help; ongoing are feeling / are taking) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed pp.23–24 |
 | Ten fill-in exercises in labelled sets — Simple Present, then Present Continuous, then mixed — whose answers require the full form (e.g. "is playing") | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed p.24 |
+| Using Action Words | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 5 (Grammar Usage), standard B1.5.1.1, PDF p.56 (curriculum evidence) |
 
 
 | The present progressive as the unit's frame — "Where's (Jake)? He can't (come). He's (cycling). He's helping his brother. (Our friends) are (laughing)." | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 5 Friends, Actions, Things, printed p.36 |
@@ -414,6 +417,8 @@ Mauritania builds the whole present-tense base in its Grade 7
 book — be, the full simple-present paradigm, live/have, and
 the daily-routine present (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico's Grade 7 book carries the present system as its spine — the simple present, frequency adverbs, the progressive, and the habit-against-now contrast — and its Grade 8 book adds percentage frequency adverbs and a present-against-progressive review (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

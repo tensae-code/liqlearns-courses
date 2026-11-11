@@ -223,6 +223,12 @@ India, NCERT, 2020-21 printing (chapter footers stamped
 2019-20). Filed in english/books/india.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-26); re-read page by page in
 the 2026-11-08 re-verification sweep.
+**Book 74:** English Language Teachers Guide for Upper Primary, Level 3 (Differentiated Learning) — Ghana, Ministry of Education / Ghana Education Service (November 2020). Distance-learning teacher guide; teacher evidence only. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep (the old filing held this set record-only; the sweep read it in full).
+
+**Book 75:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 76:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -391,6 +397,17 @@ the 2026-11-08 re-verification sweep.
 | Describing words written for pictures from a list (beautiful, black, red, happy, tall, fat — a ___ woman, a ___ rose, a ___ peacock), beside th- say-aloud sets | India — Marigold Book Three (Class 3), Unit 2 Say aloud / Word building, printed pp.14–21 |
 | Describing words chosen for a person (thoughtful, hardworking, loving, honest, considerate, trustworthy, kind) | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
 | Language work in the Notes: picturesque phrases; uncommon adjectives; the predominant active voice in narration; guessing meanings of foreign words from context — cited from the book's Notes | India — Hornbill (Class 11), Language work in Silk Road, printed p.84 (Notes) |
+| Comparative and Superlative Forms of Single Adjectives - I | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 2, PDF p.50 (teacher evidence) |
+| Comparative and Superlative Forms of Adjectives - II | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 4, PDF p.55 (teacher evidence) |
+| Forming New Adjectives | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 6, PDF p.61 (teacher evidence) |
+| Making New Adjectives (Continuation) | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 2 Lesson 8, PDF p.67 (teacher evidence) |
+| Adjectives | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 8, PDF p.105 (teacher evidence) |
+| Using Qualifying Words – Adverbs — Identify and use adjectives in short sentences to describe | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 5 (Grammar Usage), standard B3.5.5.1, PDF p.121 (curriculum evidence) |
+| Using Qualifying Words – Adjectives — Use adjectives to make comparisons | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.5.1, PDF p.87 (curriculum evidence) |
+| Using Qualifying Words-Adjectives — Use comparative forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.5.1, PDF p.169 (curriculum evidence) |
+| Adverb Phrases — Form and use adjective phrases correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.11.1, PDF p.218 (curriculum evidence) |
+| Adjectives — Use comparatives forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.4.1, PDF p.209 (curriculum evidence) |
+| Using Qualifying Words-Adjectives — Use superlative forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.5.1, PDF p.239 (curriculum evidence) |
 **Acceptance count: taught in 35 countries (Bangladesh, Egypt,
 Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
 Libya carries the definition twice and the
@@ -410,6 +427,8 @@ closed countries join as their books are read (see
 READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries adjectives with their opposites as a whole Grade 2 unit (Unit 8), classroom adjective lists in Grade 3 (Unit 8), and adjectives named as a unit's grammar with comparison in Grade 9 (Unit 18).
 Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart — in Grade 3 (Unit 1.2, printed p.11; Unit 1.3, printed p.14), comparison taught as forms and then used on real places in Grade 4 (Unit 1.4, printed pp.23–25), and -ed against -ing adjectives as a named contrast in Grade 7 (Unit 1, printed p.13).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — South Africa teaches adjectives as describing words in sets through Grade 3 HL Workbook 1 (printed pp.80, 92, 118). Grade 4 HL Workbook 1 uses adjectives describing nouns (printed pp.74–75) and teaches the comparative and superlative degrees with -er/-est and more/most (printed pp.84–85) — filed here as Ethiopia's degrees rows are filed, as part of the book's adjective stock. Grade 6 HL Workbook 2 teaches the adjective in its two positions — "The small dog" against "The dog is small" (printed p.48) — and Grade 3 FAL Workbook 2 teaches degrees of comparison on hot/hotter/hottest and fast/faster/fastest (printed pp.44–45).
 

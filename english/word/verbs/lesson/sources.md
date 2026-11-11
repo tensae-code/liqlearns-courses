@@ -151,6 +151,10 @@ Class III — India, NCERT, 2020-21 printing. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
+**Book 55:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+**Book 56:** English Language Curriculum for JHS 1–3, Common Core Programme — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2021). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -269,6 +273,10 @@ verification sweep.
 | An action verbs list (to visit, go, eat, drink, take, buy, come, travel, fly, climb, dance, run) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p.78 |
 | Action words found inside a poem read whole: "How Creatures Move" — the lion walks, the squirrel leaps, flies crawl, seals dive and swim, the worm wiggles, the monkey swings; the poem's action words are underlined in the book | India — Marigold Book Three (Class 3), Unit 10, printed pp.97–108 |
 | Creatures matched to their movement words (lions walk, squirrels leap, flies crawl, seals dive, worms wiggle, monkeys swing, birds hop) and movement words arranged from slow to fast (walk…run) | India — Marigold Book Three (Class 3), Unit 10 word work, printed pp.97–108 |
+| Verbs — apply knowledge of verbs in sentences | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.5.1, PDF p.66 (curriculum evidence) |
+| Verbs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.5.1, PDF p.139 (curriculum evidence) |
+| Using Action Words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.4.1, PDF p.168 (curriculum evidence) |
+| Explore the use of proverbs to enrich communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.4.1, PDF p.59 (curriculum evidence) |
 **Acceptance count: taught in 34 countries (Bangladesh, Egypt,
 Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the formal definition;
@@ -286,6 +294,8 @@ Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, 
 are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries action verbs inside first-book doing frames (Grade 1, Unit 8), the verb inside a named word-classes opening in Grade 11 (Unit 1) with transitive, intransitive and linking verbs as that book's Unit 7 grammar, and transitive/intransitive verbs again as Grade 9's Unit 11 Extra bit.
 Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system's memory page in Grade 5 (copy B, printed pp.146–147) and again closing the Grade 8 book (printed pp.153–154), and verb tenses tabulated as a system, with the irregular verbs listed after, in the Grade 7 appendix (printed pp.156, 162–163).
+
+**Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — South Africa teaches the verb as an action word from Grade 2 HL Workbook 2, where learners pick out and circle the action words (printed pp.59, 93, 122). Grade 4 HL Workbook 1 treats verbs as doing words with tense-switching work (printed pp.92–93), then names finite verbs (printed p.109) and sets stative verbs against action verbs (printed p.115) — the same action/state split Iran, Jordan and Greece carry, here inside one primary book. Grade 5 HL Workbook 1 names the infinitive (printed p.27) and finite verbs again (printed p.29).
 
