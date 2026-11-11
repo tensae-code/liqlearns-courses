@@ -300,6 +300,10 @@ Every part traces to its book and page.
 
 **Book 224:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 225:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 226:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 227:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 228:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2010. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 229:** *Mathematics, Grade 2 teacher guide, new series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-24-1 (companion to the Grade 2 student book, …-23-4), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -360,6 +364,15 @@ Every part traces to its book and page.
 | Calculating with 3 numbers | Laos, Grade 1 student book (new series), ch. 10, printed p. 90 |
 | Adding 2-digit numbers without and with regrouping, vertical layout; 3-digit addition by place value | Laos, Grade 2 student book (new series), ch. 2, printed p. 12; ch. 9, printed p. 90 |
 | Adding whole numbers and decimals, including kip money problems | Laos, Grade 5 student book, L5, printed pp. 16–29 |
+| Splitting a number into two parts (the splitting idea inside addition, before the crossing-10 use of it) | Laos, Grade 1 student book (new series), ch. 4, printed p. 25 |
+| Word problems on addition and subtraction (first word-problem chapter) | Laos, Grade 2 student book (new series), ch. 6, printed p. 68 |
+| Word problems on addition and subtraction (continued) | Laos, Grade 2 student book (new series), ch. 14, printed p. 184 |
+| Addition (the old-series Grade 3 book's own addition lesson) | Laos, Grade 3 student book (old series), L8, printed p. 32 |
+| Addition technique | Laos, Grade 3 student book (old series), L9, printed p. 34 |
+| Calculating | Laos, Grade 3 student book (old series), L12, printed p. 42 |
+| Whole-number addition inside the old-series Grade 4 book's operations sequence (the four operations and their techniques) | Laos, Grade 4 student book (old series), L1–L36 (contents-level range in the 2026-11-08 re-verification sweep's placements; per-lesson pages are fixed only at the book's body-cited anchors) |
+| Addition and subtraction of natural numbers | Laos, Grade 6 student book, L3, printed p. 17 |
+| Teacher-guide evidence for the Grade 2 book's addition and subtraction teaching | Laos, Grade 2 teacher guide (new series), 2020 — teacher evidence (companion to the Grade 2 student book) |
 | Addition within 10, vertical addition, addition facts | Yemen, Grade 1 Part 1, Unit 3, lessons 3-2–3-6, printed pp. 68–78 |
 | Addition within 20 by counting on and on the number line; within 100 without regrouping | Yemen, Grade 1 Part 2, Unit 7, lessons 7-1–7-3, printed pp. 36–42; Unit 9, lessons 9-1–9-3, printed pp. 94–100 |
 | Addition within 1000 with carrying; estimating addition results | Yemen, Grade 2 Part 2, Unit 7, lessons 1st–4th, printed pp. 26–36 |

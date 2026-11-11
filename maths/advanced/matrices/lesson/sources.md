@@ -73,6 +73,7 @@ Every part traces to its book and page.
 **Book 45:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 1 — Business Track* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-788-1 (Arabic). Workbook evidence: practice companion to the Grade 12 Business Track student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 46:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 47:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 48:** *Mathematics, Grade 12 teacher guide (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (companion to the Grade 12 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -90,6 +91,7 @@ Every part traces to its book and page.
 | Equations, inequations, systems, matrices | Mauritania, 6AS-D, Chapter II, p.19 |
 | Linear systems and matrices (Gauss method, determinants and systems) | Mauritania, 7AS-C, Chapter 1, p.7 |
 | Matrices and their properties; determinants and inverse matrices; linear systems, solving linear systems, linear programming | Laos, Grade 12 student book, L7–L11, printed pp. 47–119 |
+| Teacher-guide evidence for the Grade 12 book's matrices and determinants teaching (Part 3) | Laos, Grade 12 teacher guide, 2016 — teacher evidence (companion to the Grade 12 student book) |
 | Matrices, operations on matrices, determinants, solving a system of first-degree equations | Yemen, Grade 11 literary, Unit 3, lessons 3-1–3-4, printed pp. 49–79 |
 | Matrices, special matrices, addition, subtraction and multiplication, determinants, the matrix inverse, solving first-degree equations | Yemen, Grade 11 science Part 2, Unit 6, lessons 6-1–6-7, printed pp. 7–42 |
 | Concept, types, equality, addition, subtraction, multiplication, determinant and inverse — stops at determinant and inverse (no solving linear systems by matrices as a named topic, no eigenvalues) | Indonesia, Grade 11 Tingkat Lanjut, Bab 3, printed pp. 121–174 |

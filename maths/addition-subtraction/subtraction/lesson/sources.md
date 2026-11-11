@@ -283,6 +283,9 @@ Every part traces to its book and page.
 
 **Book 209:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 210:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 211:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 212:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 213:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2010. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -326,6 +329,14 @@ Every part traces to its book and page.
 | Subtraction crossing 10 by splitting to 10 | Laos, Grade 1 student book (new series), ch. 14, printed p. 115 |
 | Subtracting 2-digit numbers without and with borrowing; 3-digit subtraction by place value | Laos, Grade 2 student book (new series), ch. 3, printed p. 24; ch. 9, printed p. 90 |
 | Subtracting whole numbers and decimals, including kip money problems | Laos, Grade 5 student book, L5, printed pp. 16–29 |
+| Word problems on addition and subtraction (first word-problem chapter) | Laos, Grade 2 student book (new series), ch. 6, printed p. 68 |
+| Word problems on addition and subtraction (continued) | Laos, Grade 2 student book (new series), ch. 14, printed p. 184 |
+| Transfer/regrouping for subtraction (contents title uncertain in the Lao text layer) | Laos, Grade 3 student book (old series), L29, printed p. 100 |
+| Subtraction | Laos, Grade 3 student book (old series), L30, printed p. 102 |
+| Subtraction without and with borrowing | Laos, Grade 3 student book (old series), L32, printed p. 108 |
+| Subtraction technique | Laos, Grade 3 student book (old series), L34, printed p. 116 |
+| Whole-number subtraction inside the old-series Grade 4 book's operations sequence (the four operations and their techniques) | Laos, Grade 4 student book (old series), L1–L36 (contents-level range in the 2026-11-08 re-verification sweep's placements; per-lesson pages are fixed only at the book's body-cited anchors) |
+| Addition and subtraction of natural numbers | Laos, Grade 6 student book, L3, printed p. 17 |
 | Subtraction within 10, subtraction facts | Yemen, Grade 1 Part 1, Unit 4, lessons 4-2–4-5, printed pp. 94–104 |
 | Subtraction within 20 by counting back and on the number line; within 100 without borrowing | Yemen, Grade 1 Part 2, Unit 7, lessons 7-4–7-6, printed pp. 44–50; Unit 9, lessons 9-4–9-6, printed pp. 102–108 |
 | Subtraction within 1000 with borrowing; estimating subtraction results | Yemen, Grade 2 Part 2, Unit 8, lessons 1st–4th, printed pp. 46–54 |

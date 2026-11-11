@@ -450,6 +450,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 236:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 237:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 238:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 239:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -490,6 +491,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter and area of rectangles (P = 2(L+l), A = L × l), squares (P = 4c, A = c × c), triangles (A = (b × h)/2), parallelograms (A = b × h), trapezoids (A = ((large base + small base)/2) × height); area units m²–mm² plus ha/a/ca | Laos, Grade 5 student book, L36–L40, printed pp. 90–99; L57, printed pp. 140–143 |
 | Circle circumference c = πd = 2πr and circle area A = πr², π ≈ 3.14 — correct value 78.5 cm² for r = 5 cm; the book prints 87,5 cm² (p. 143, digits transposed; the Grade 5 guide's answers give 78.5), and the correct value is taught here | Laos, Grade 5 student book, L58, printed pp. 140–143 |
 | Perimeter and area of rectangles, rhombuses, squares, parallelograms, triangles and trapezoids by dissection | Laos, Grade 7 student book, L34–L35, printed pp. 123–170 |
+| Perimeter | Laos, Grade 4 student book (old series), L51 (contents-level range in the 2026-11-08 re-verification sweep's placements) |
+| Area | Laos, Grade 4 student book (old series), L52–L53 (contents-level range in the 2026-11-08 re-verification sweep's placements) |
 | Perimeter and area | Yemen, Grade 3 Part 2, Unit 8, lessons 8-5–8-6, printed pp. 68–70 |
 | Perimeter of shapes, rectangle and square; area and its units; area of the rectangle and the square | Yemen, Grade 4 Part 2, Unit 8, lessons 2:8–5:8, printed pp. 122–134 |
 | Area of the parallelogram, the triangle and the rhombus | Yemen, Grade 5 Part 2, Unit 7, lessons 7-7–7-9, printed pp. 124–131 |

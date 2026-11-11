@@ -327,6 +327,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 174:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 175:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 176:** *Mathematics, Grade 4 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009 (companion to the Grade 4 old-series student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -350,6 +351,8 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Mauritania's honest limit (stated, not forced): no decimals before Grade 5 | Mauritania, Grade 1–4 student books: no decimals — filed in maths/books/mauritania.md (Bands A–B). Mauritania's decimal teaching used here is Grade 5, decimal numbers concept and parts p.15, ordering p.38; Grade 6, decimals reading/ordering p.33, multiplication/division p.41, multiplying/dividing by 10, 100, 1000 p.45, decimal fractions p.72 |
 | Decimal numbers through litres (0.5 L, 1.25 L), tenths and hundredths on a number line; whole-number, decimal and fraction links (1/2 = 0.5, 1/4 = 0.25) | Laos, Grade 4 student book (new series), ch. 7, printed p. 64; ch. 10, printed p. 100 |
 | Tenths, hundredths, thousandths; decimal order; adding, subtracting and multiplying decimals by whole numbers | Laos, Grade 4 student book (old series), L38–L49, printed pp. 106–134 |
+| Fractions: tenths — the fraction lesson that opens the old-series Grade 4 book's fraction/decimal sequence (L37, before the L38–L49 rows above) | Laos, Grade 4 student book (old series), L37 (contents-level range in the 2026-11-08 re-verification sweep's placements) |
+| Teacher-guide evidence for the Grade 4 old-series book's fractions and decimals teaching | Laos, Grade 4 teacher guide (old series), 2009 — teacher evidence (companion to the Grade 4 old-series student book) |
 | Whole-number and decimal calculation, division giving a decimal quotient, rounding quotients, converting between fractions and decimals, mixed numbers, decimal ÷ decimal | Laos, Grade 5 student book, L5–L6, printed pp. 16–29; L21–L22 and L26, printed pp. 56–75; L55–L56, printed pp. 136–139 |
 | The decimal fraction (1/10 = 0.1), comparing and ordering, adding and subtracting decimals | Yemen, Grade 4 Part 2, Unit 6, lessons 1:6–4:6, printed pp. 54–73 |
 | Reading and writing decimals, rounding decimals, all four operations, converting an ordinary fraction to a decimal (5/8 = 0.625) | Yemen, Grade 5 Part 2, Unit 6, lessons 6-1–6-7, printed pp. 52–87 |

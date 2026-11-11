@@ -188,6 +188,7 @@ Every part traces to its book and page.
 **Book 137:** *Mathematics, Grade 2, Term 1 student book* — Kuwait, Ministry of Education, Second Edition 1448H / 2026–2027, ISBN 978-9921-33-083-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 138:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 139:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 140:** *Mathematics, Grade 6 teacher guide (secondary year 1)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2010 (companion to the Grade 6 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -205,6 +206,8 @@ Every part traces to its book and page.
 | Multiples and factors | Laos, Grade 4 student book (new series), ch. 13, printed p. 116 |
 | Primes (list to 19), multiples and divisors, divisibility rules for 2, 3, 5, 9, 10 | Laos, Grade 5 student book, L16–L17, printed pp. 44–49 |
 | Common multiples, common divisors, primes, sieve to 100, prime factorisation, GCD by the Euclidean algorithm, LCM and GCD from factorisations, coprime numbers | Laos, Grade 6 student book, L7, printed pp. 46–55 |
+| Number-pattern properties — the chapter whose body carries the multiples-and-factors work stocked in the ch. 13 row above (the chapter itself is the patterns chapter, stocked in the sequences-and-series lesson) | Laos, Grade 4 student book (new series), ch. 12, printed p. 110 |
+| Teacher-guide evidence for the Grade 6 book's GCD/LCM and primes teaching | Laos, Grade 6 teacher guide, 2010 — teacher evidence (companion to the Grade 6 student book) |
 | Divisibility rules for 10, 5, 2 and 3 | Yemen, Grade 4 Part 1, Unit 4, lessons 1:4–2:4, printed pp. 104–108 |
 | Factors, prime numbers (1 is non-prime), factorising into prime factors | Yemen, Grade 5 Part 1, Unit 4, lessons 4-1–4-3, printed pp. 96–102 |
 | Greatest common divisor and least common multiple | Yemen, Grade 5 Part 1, Unit 4, lessons 4-7–4-8, printed pp. 114–118 |

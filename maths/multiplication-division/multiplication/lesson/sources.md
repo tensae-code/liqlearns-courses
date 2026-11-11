@@ -275,6 +275,8 @@ Every part traces to its book and page.
 **Book 205:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 206:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 207:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 208:** *Mathematics, Grade 3 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009 (companion to the Grade 3 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -307,6 +309,13 @@ Every part traces to its book and page.
 | Multiplication as repeated addition; ×5, ×2, ×3, ×4 tables, then ×6, ×7, ×8, ×9 tables | Laos, Grade 2 student book (new series), ch. 11, printed p. 120; ch. 12, printed p. 148 |
 | Multiplication tables to ×10 | Laos, Grade 2 teacher guide (old series), L39–L43, printed pp. 129–139 (teacher evidence) |
 | Multiplication with carrying (16 × 7 by area grid; 57 × 4 = 228; 143 × 6 = 858); multiplying by 10 and 100 | Laos, Grade 3 student book, L16, printed p. 54; L45, printed p. 152 |
+| Multiplication without carrying | Laos, Grade 3 student book (old series), L15, printed p. 50 |
+| Multiplication lesson (contents title uncertain in the Lao text layer) | Laos, Grade 3 student book (old series), L19, printed p. 64 |
+| Multiplication | Laos, Grade 3 student book (old series), L21, printed p. 70 |
+| Multiplication technique | Laos, Grade 3 student book (old series), L22, printed p. 74 |
+| Multiplying by 10, 100, 1000 | Laos, Grade 3 student book (old series), L24, printed p. 80 |
+| Whole-number multiplication inside the old-series Grade 4 book's operations sequence (the four operations and their techniques) | Laos, Grade 4 student book (old series), L1–L36 (contents-level range in the 2026-11-08 re-verification sweep's placements; per-lesson pages are fixed only at the book's body-cited anchors) |
+| Teacher-guide evidence for the Grade 3 book's multiplication teaching | Laos, Grade 3 teacher guide (old series), 2009 — teacher evidence (companion to the Grade 3 student book) |
 | Multiplication as repeated addition; ×2, ×5, ×3, ×4 facts (in that order) and commutativity | Yemen, Grade 2 Part 2, Unit 9, lessons 1st–6th, printed pp. 70–80 |
 | ×0 and ×1, then the new ×6, ×7, ×8 and ×9 facts | Yemen, Grade 3 Part 1, Unit 5, lessons 5-2–5-6, printed pp. 110–118 |
 | Multiplying by 10, 100, 1000 and by multiples of ten; two-digit × one-digit | Yemen, Grade 3 Part 2, Unit 7, lessons 7-2–7-4, printed pp. 34–42 |

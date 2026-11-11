@@ -403,6 +403,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angles: kinds (zero, right, straight, full, acute, obtuse), protractor use, vertical angles, angle sums on a straight line | Laos, Grade 6 student book, L18, printed pp. 136–146 |
 | Interior and exterior angles of triangles (cut-out angles to 180°, exterior = sum of the two remote interiors); angles of quadrilaterals (angle sum 360°) | Laos, Grade 7 student book, L36–L37, printed pp. 123–170 |
 | Angles of triangles and parallelograms; inscribed and central angles | Laos, Grade 8 student book, L8, printed pp. 53–77; L24, printed pp. 179–196 |
+| Right angles, parallels and quadrilaterals (the angle face of the chapter) | Laos, Grade 4 student book (new series), ch. 9, printed p. 84 |
 | The angle defined (two rays meeting at one point) | Yemen, Grade 3 Part 1, Unit 4, lesson 4-7, printed p. 94 |
 | Types of angles | Yemen, Grade 4 Part 2, Unit 7, lesson 1:7, printed p. 87 |
 | Measuring angles; adjacent angles and vertically opposite angles | Yemen, Grade 5 Part 2, Unit 7, lessons 7-1–7-2, printed pp. 99–103 |

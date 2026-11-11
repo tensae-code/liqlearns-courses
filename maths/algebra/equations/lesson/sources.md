@@ -328,6 +328,7 @@ Every part traces to its book and page.
 | Simple equations: x + (−7) = 15, (−8) − x = 2, and multiplication/division forms 6 × x = 42, 60 ÷ x = 5 | Laos, Grade 6 student book, L4, printed pp. 25–32; L5, printed pp. 33–37 |
 | First-degree equations with one unknown, balance-scale model, testing candidates, word problems as equations, product-zero forms | Laos, Grade 7 student book, L20–L22, printed pp. 81–122 |
 | Rational equations: domain, extraneous roots | Laos, Grade 9 student book, L5, printed p. 22 |
+| Part 1 lesson between polynomial division (L3) and rational equations (L5); contents title uncertain in the Lao text layer | Laos, Grade 9 student book, Part 1, L4, printed pp. 1–67 (part range) |
 | The open sentence, the equation, first-degree equation in one variable | Yemen, Grade 7, Unit 4, lessons 4-1–4-3, printed pp. 122–130 |
 | First-degree equation in one variable; second-degree equations | Yemen, Grade 8 Part 1, Unit 4, lessons 4-1 and 4-3, printed pp. 111 and 122 |
 | First-degree equation in two variables; second-degree equations in one variable | Yemen, Grade 9 Part 1, Unit 3, lessons 3-1 and 3-3, printed pp. 113 and 141 |

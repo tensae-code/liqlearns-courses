@@ -248,6 +248,8 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 154:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 155:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 156:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 157:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 158:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021 (no ISBN printed — the imprint's ISBN field is blank). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -267,6 +269,8 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Number patterns; number sequences; geometric patterns; number sequences and equations | South Africa, Grade 9 Book 1, Term 3, WS65 Number patterns; WS66 Number sequences; WS67 More number sequences; WS68 Geometric patterns; WS69 Number sequences and equations, pp.2–59 |
 | Number sequences, balance puzzles and grid directions | Laos, Grade 5 student book, L19–L20, printed pp. 50–55 |
 | Sequences, arithmetic and geometric sequences, limits and sums of sequences, applications of sequences | Laos, Grade 12 student book, L3–L6, printed pp. 13–46 |
+| Number patterns | Laos, Grade 4 student book (old series), L19, L20, L27 (contents-level, inside the book's whole-number sequence) |
+| Number-pattern properties (the patterns chapter; the multiples-and-factors body of the same chapter is stocked in the factors-multiples-and-primes lesson) | Laos, Grade 4 student book (new series), ch. 12, printed p. 110 |
 | The symbol Σ, its meaning and properties | Yemen, Grade 10 Part 2, Unit 10, lesson 10-1, printed p. 114 |
 | Sequences, arithmetic sequences, sum of the first n terms of an arithmetic sequence, geometric sequences and their sums | Yemen, Grade 11 literary, Unit 1, lessons 1-1–1-5, printed pp. 7–25 |
 | Sequences, the arithmetic sequence, the geometric sequence (sums folded into the sequence lessons) | Yemen, Grade 11 science Part 1, Unit 3, lessons 3-1–3-3, printed pp. 61–84 |

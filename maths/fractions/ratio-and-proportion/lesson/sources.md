@@ -277,6 +277,7 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 147:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 148:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 149:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 150:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -305,6 +306,7 @@ CITATION CHECK PASSED 2026-11-04).
 | Direct proportion in tables; inverse proportion (14 workers in 25 days, how long for 35 workers) | Laos, Grade 5 student book, L43–L45, printed pp. 100–111 |
 | Ratio as a quotient a/b; direct proportion with coefficient k; the fourth proportional by cross products; inverse proportion with constant product | Laos, Grade 6 student book, L27–L29 and L31, printed pp. 206–232 and 239–244 |
 | Ordered pairs, direct proportion (y = kx) and inverse proportion (y = k/x), percentages, scale | Laos, Grade 7 student book, L39–L43, printed pp. 171–202 |
+| Ratio situations | Laos, Grade 4 student book (old series), L54–L55 (contents-level range in the 2026-11-08 re-verification sweep's placements) |
 | Ratio and its properties | Yemen, Grade 6 Part 1, Unit 4, lesson 4-1, printed p. 119 |
 | Proportion as equality of two ratios, extremes and means; enlargement and reduction; scale drawing | Yemen, Grade 6 Part 2, Unit 5, lessons 5-1, 5-3–5-4, printed pp. 8, 17–23 |
 | Proportional division, including inheritance as proportional division | Yemen, Grade 6 Part 2, Unit 5, lessons 5-6–5-7, printed pp. 40–43 |

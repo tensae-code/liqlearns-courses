@@ -256,6 +256,7 @@ Every part traces to its book and page.
 **Book 188:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 189:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 190:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -281,6 +282,10 @@ Every part traces to its book and page.
 | Dividing, including the long-division model 462 ÷ 22 = 21 — the book's summary line misprints the divisor as 3 (printed p. 150); the panels computing 462 ÷ 22 = 21 are correct, and the correct value is taught here | Laos, Grade 3 student book, L44, printed p. 148 |
 | Division with remainder, checking by multiplication; longer division with 2-digit divisors | Laos, Grade 4 student book (new series), ch. 4, printed p. 32; ch. 8, printed p. 78 |
 | Whole-number division, estimating the quotient's digits; exact division, quotient and remainder; dividing decimals by whole numbers and by decimals | Laos, Grade 5 student book, L7, printed pp. 16–29; L16, printed pp. 44–49; L55–L56, printed pp. 136–139 |
+| Dividing into groups (the old-series Grade 3 book's first division lesson) | Laos, Grade 3 student book (old series), L17, printed p. 58 |
+| Division technique | Laos, Grade 3 student book (old series), L49, printed p. 164 |
+| Whole-number division inside the old-series Grade 4 book's operations sequence (division with checking and estimation, L12–L13, among the four operations and their techniques) | Laos, Grade 4 student book (old series), L1–L36 (contents-level range in the 2026-11-08 re-verification sweep's placements; per-lesson pages are fixed only at the book's body-cited anchors) |
+| Review of division technique (kept as a teaching lesson in this book) | Laos, Grade 5 student book, Part 4, L18, printed pp. 44–49 (part range) |
 | Division as sharing and grouping; ÷2, ÷5, ÷3 and ÷4; fact families | Yemen, Grade 2 Part 2, Unit 9, lessons 8th–12th, printed pp. 84–92 |
 | ÷6, ÷7, ÷8, ÷9 with the long-division bracket; division by one and by the number itself; two-digit ÷ one-digit | Yemen, Grade 3 Part 2, Unit 6, lessons 6-2–6-5, printed pp. 12–18; Unit 7, lessons 7-5–7-6, printed pp. 46–48 |
 | Division within six digits, by one- and two-digit divisors, estimating by rounding | Yemen, Grade 4 Part 1, Unit 4, lessons 4:4–8:4, printed pp. 112–129; Grade 5 Part 1, Unit 3, lessons 3-7–3-9, printed pp. 76–86; Grade 6 Part 1, Unit 1, lesson 1-4, printed p. 20 |

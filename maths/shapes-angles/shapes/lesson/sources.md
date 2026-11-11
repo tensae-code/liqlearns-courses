@@ -490,6 +490,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 305:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 306:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 307:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -525,6 +526,13 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Polygons (regular vs general), quadrilaterals and their properties, rectangles and rhombuses, triangles by sides and angles, constructing figures with ruler and compass; solids and their nets | Laos, Grade 5 student book, L11–L15, printed pp. 30–43; L59–L61, printed pp. 144–155 |
 | Points, lines, segments and rays; intersecting, parallel and perpendicular lines; constructing parallelograms | Laos, Grade 6 student book, L11–L13, printed pp. 81–100 |
 | Parallelograms, rectangles, rhombuses, squares, trapezoids, triangles and circles | Laos, Grade 7 student book, L28–L31 and L38, printed pp. 123–170 |
+| Straight and curved lines | Laos, Grade 3 student book (old series), L13, printed p. 44 |
+| Shapes lesson (contents title uncertain in the Lao text layer) | Laos, Grade 3 student book (old series), L14, printed p. 46 |
+| Lines and points | Laos, Grade 3 student book (old series), L31, printed p. 106 |
+| Right angles, parallels and quadrilaterals | Laos, Grade 4 student book (new series), ch. 9, printed p. 84 |
+| Geometry, the opening lessons of Part 3 (before the construction lessons L11–L15 stocked above) | Laos, Grade 5 student book, Part 3, L9–L10, printed pp. 30–43 (part range) |
+| The triangles lesson inside Part 5 (quadrilaterals, triangles, circles) that no row above names | Laos, Grade 7 student book, Part 5, L32, printed pp. 123–170 (part range) |
+| Closing lesson of Part 2 (triangles, quadrilaterals, circles) | Laos, Grade 8 student book, Part 2, L10, printed pp. 53–77 (part range) |
 | Solids and plane shapes | Yemen, Grade 1 Part 1, Unit 5, lessons 5-1–5-2, printed pp. 118–122 |
 | Solids (cube and cuboid) and polygons, named by number of sides | Yemen, Grade 3 Part 1, Unit 4, lessons 4-2–4-3, printed pp. 82–86 |
 | Rectangle and square, with drawing; triangles and their types | Yemen, Grade 4 Part 2, Unit 7, lessons 4:7–6:7, printed pp. 100–106 |

@@ -327,6 +327,9 @@ Every part traces to its book and page.
 **Book 240:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 241:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 242:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 243:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021 (no ISBN printed — the imprint's ISBN field is blank). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 244:** *Mathematics, Grade 4 teacher guide, new series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021 (companion to the Grade 4 new-series student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -353,6 +356,13 @@ Every part traces to its book and page.
 | Place value to hundreds with sticks and bundles | Laos, Grade 2 student book (new series), ch. 5, printed p. 48 |
 | Expanded forms (59264 = 50000 + 9000 + 200 + 60 + 4), place value and reading numbers to 100000 | Laos, Grade 3 student book, L10, printed p. 38; L26, printed p. 88 |
 | Place value to millions and billions, powers of 10, digit, power-of-ten and expanded forms | Laos, Grade 5 student book, ch. 1, printed pp. 6–15 |
+| Numbers 1–1000 (place value to thousands) | Laos, Grade 3 student book (old series), L3, printed p. 14 |
+| Grouping numbers | Laos, Grade 3 student book (old series), L4, printed p. 18 |
+| Numbers in daily life | Laos, Grade 3 student book (old series), L5, printed p. 22 |
+| Numbers 1000–10000 | Laos, Grade 3 student book (old series), L6, printed p. 26 |
+| Numbers by powers of ten inside the old-series Grade 4 book's whole-number sequence (no separate big-number lesson title in this book) | Laos, Grade 4 student book (old series), L1–L36 (contents-level range in the 2026-11-08 re-verification sweep's placements; per-lesson pages are fixed only at the book's body-cited anchors) |
+| Numbers greater than 10,000 | Laos, Grade 4 student book (new series), ch. 1, printed p. 6 |
+| Teacher-guide evidence for the Grade 4 new-series book's number teaching | Laos, Grade 4 teacher guide (new series), 2021 — teacher evidence (companion to the Grade 4 new-series student book) |
 | Ones and tens within 20, then tens to 100 | Yemen, Grade 1 Part 2, Unit 8, lessons 8-2–8-3, printed pp. 70–72 |
 | Place value within 1000, expanded form (256 = 200 + 50 + 6) | Yemen, Grade 2 Part 2, Unit 6, 4th lesson, printed p. 14 |
 | Expanded form within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lesson 1-3, printed p. 12 |

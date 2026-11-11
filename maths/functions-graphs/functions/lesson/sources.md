@@ -241,6 +241,7 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 155:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 156:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 157:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 158:** *Mathematics, Grade 9 teacher guide (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013 (companion to the Grade 9 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -272,6 +273,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Relations and functions: vertical-line test, even, odd and periodic functions, increasing and decreasing; constant, linear (including sign and floor functions and absolute-value functions), quadratic, cubic and square-root and cube-root functions | Laos, Grade 10 student book, L8–L15, printed pp. 63–165 |
 | Rational functions with limits and asymptotes; exponential and logarithmic functions with graphs, equations, inequalities, maximum and minimum and domain and range | Laos, Grade 11 student book, L11–L26, printed pp. 41–168 |
 | Trigonometric functions (properties, graphs, domain and range), hyperbolic functions, inverse functions including inverse trigonometric and inverse hyperbolic | Laos, Grade 12 student book, L17–L25, printed pp. 189–251 |
+| Teacher-guide evidence for the Grade 9 book's functions teaching (Part 2, quadratic functions and equations) | Laos, Grade 9 teacher guide, 2013 — teacher evidence (companion to the Grade 9 student book) |
 | Function (a relation where no domain element has two images); the linear function, with a graph | Yemen, Grade 9 Part 1, Unit 1, lessons 1-5 and 1-7, printed pp. 32 and 48 |
 | Mappings, including composition of mappings (lesson 2-5, printed p. 44) — composition is taught here under the mappings name | Yemen, Grade 10 Part 1, Unit 2, lessons 2-1–2-5, printed pp. 27–44 |
 | Real functions, types of functions and their graphs, monotonicity | Yemen, Grade 11 science Part 1, Unit 2, lessons 2-1–2-3, printed pp. 28–53 |

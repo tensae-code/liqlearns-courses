@@ -275,6 +275,7 @@ textbook.
 **Book 172:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 173:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 174:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 175:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -296,6 +297,7 @@ textbook.
 | Reading and drawing step and line graphs; enlarging and reducing shapes by coordinates | Laos, Grade 5 student book, L41–L42, printed pp. 100–111; L54, printed pp. 130–135 |
 | Ordered pairs; direct proportion graphs (y = kx) and inverse proportion graphs (y = k/x) | Laos, Grade 7 student book, L39–L41, printed pp. 171–202 |
 | Coordinates of points and distance, midpoint; straight lines, slope, parallel and perpendicular lines, distance from a point to a line | Laos, Grade 8 student book, L17–L20, printed pp. 126–150 |
+| Positions on a grid; closing lessons | Laos, Grade 4 student book (old series), L58–L60 (contents-level range in the 2026-11-08 re-verification sweep's placements) |
 | The coordinate system | Yemen, Grade 7, Unit 5, lesson 5-8, printed p. 205 |
 | Distance between two points and midpoint of a segment on a line parallel to one of the axes | Yemen, Grade 8 Part 1, Unit 5, lessons 5-1–5-2, printed pp. 136–143 |
 | Distance between two points in general (using Pythagoras); bisecting a straight-line segment | Yemen, Grade 9 Part 2, Unit 6, lessons 6-1–6-2, printed pp. 65–69 |

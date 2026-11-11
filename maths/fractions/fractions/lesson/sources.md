@@ -406,6 +406,9 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 **Book 231:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 232:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 233:** *Mathematics, Grade 1 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 8th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 234:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 235:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 236:** *Mathematics, Grade 7 teacher guide (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2010 (companion to the Grade 7 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -436,6 +439,9 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Relationship of whole numbers, decimals and fractions; equivalent fractions, same-denominator addition and subtraction | Laos, Grade 4 student book (new series), ch. 10, printed p. 100; ch. 14, printed p. 128 |
 | Equivalent fractions, fraction strips and the number line, ordering and comparing decimals and fractions, improper fractions and mixed numbers | Laos, Grade 5 student book, L23 and L26–L28, printed pp. 56–75 |
 | Fractions and rational numbers: simplifying, expanding, comparing, and fractions as decimals, including repeating decimals → fractions and irrationals | Laos, Grade 7 student book, L1–L11, printed pp. 1–42 |
+| Fractions: tenths (the first fraction lesson of the old-series Grade 4 book; its sibling lessons L38–L40 carry tenths, hundredths and thousandths and are stocked in the decimals lesson) | Laos, Grade 4 student book (old series), L37 (contents-level range in the 2026-11-08 re-verification sweep's placements) |
+| Rational and irrational numbers (the opening lesson of Part 1) | Laos, Grade 9 student book, Part 1, L1, printed pp. 1–4 |
+| Teacher-guide evidence for the Grade 7 book's fractions and rational-numbers teaching (Part 1) | Laos, Grade 7 teacher guide, 2010 — teacher evidence (companion to the Grade 7 student book) |
 | One half and one quarter of a shape, the symbols ١/٢ and ١/٤ printed | Yemen, Grade 1 Part 1, Unit 5, lessons 5-5–5-6, printed pp. 130–132 |
 | Reading and writing fractions, equivalent fractions, comparing and ordering | Yemen, Grade 3 Part 2, Unit 9, lessons 9-2–9-4, printed pp. 84–88 |
 | Numerator and denominator, equivalent fractions, simplifying, comparing, ordering, improper fractions and mixed numbers | Yemen, Grade 4 Part 2, Unit 5, lessons 1:5–6:5, printed pp. 8–26 |

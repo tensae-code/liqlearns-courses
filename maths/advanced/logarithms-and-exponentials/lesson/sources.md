@@ -119,6 +119,7 @@ Every part traces to its book and page.
 **Book 80:** *Mathematics, Grade 11, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-654-9 (Arabic). Workbook evidence: practice companion to the Grade 11 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 81:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 83:** *Mathematics, Grade 11 teacher guide (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015 (companion to the Grade 11 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -145,6 +146,7 @@ Every part traces to its book and page.
 | Logarithm and exponential functions | Mauritania, 7AS-D, Chapter 4, p.48 |
 | Exponential functions: graphs and properties, equations and inequalities, maximum and minimum via quadratic reduction, domain and range | Laos, Grade 11 student book, L15–L20, printed pp. 68–124 |
 | Logarithmic functions: definition and properties of logarithms, graphs, equations and inequalities, maximum and minimum via quadratic reduction, domain and range | Laos, Grade 11 student book, L21–L26, printed pp. 125–168 |
+| Teacher-guide evidence for the Grade 11 book's logarithmic-functions teaching (Part 5) | Laos, Grade 11 teacher guide, 2015 — teacher evidence (companion to the Grade 11 student book) |
 | Powers and roots as background | Yemen, Grade 10 Part 1, Unit 3, lessons 3-1–3-2, printed pp. 48–54 |
 | The concept of the logarithm, rules of logarithms, common and natural logarithms, applications | Yemen, Grade 11 literary, Unit 2, lessons 2-1–2-5, printed pp. 28–45 |
 | The exponential function; logarithms and their properties; the logarithmic function; common and natural logarithms; simplification using logarithms | Yemen, Grade 11 science Part 1, Unit 4, lessons 4-1–4-6, printed pp. 96–116 |

@@ -42,6 +42,7 @@ Every part traces to its book and page.
 **Book 26:** *Mathematics, Grade 7, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2012, ISBN 978-7-107-24620-3. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Volume 1 (Chapters 1–4) is not held, and no Grade 8 book is in hand.
 **Book 27:** *Mathematics, Grade 2* (Zhakupova set, Parts 1–4) — Kazakhstan, Zhakupova, Lebedeva, Orekhova, Ushakova, NIS, Nur-Sultan 2022. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 28:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 29:** *Mathematics, Grade 10 teacher guide (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (companion to the Grade 10 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,6 +53,7 @@ Every part traces to its book and page.
 | Equivalence, De Morgan, contrapositive | Laos, Grade 10, Ch.I L2, p.14; Cambodia, Grade 10 Part 1, Ch.1, De Morgan p.17; Yemen, Grade 10 Part 1, Unit 1 §1-3, p.16; Armenia, Grade 12 logic book, §§2–3, pp.14, 19 |
 | Tautology and contradiction | Laos, Grade 10, Ch.I L2, pp.14–19 |
 | Open sentences, quantifiers and their negations | Laos, Grade 10, Ch.I L3, p.20; Iraq, Grade 10 Scientific, Ch.1 §1-7, pp.4–20; Iran, Statistics and Probability Grade 11, Ch.1, pp.11, 13; Yemen, Grade 10 Part 1, Unit 1 §1-5, p.22 |
+| Teacher-guide evidence for the Grade 10 book's logic teaching (Part I) | Laos, Grade 10 teacher guide, 2014 — teacher evidence (companion to the Grade 10 student book) |
 | Definition, axiom, theorem; converse and opposite | Armenia, Grade 12 logic book, §4, p.24; §6, p.36 |
 | Equivalence, chain rule and validity of arguments | Sierra Leone, SSS 2 Term 1, L46, p.118; L48, p.124 |
 | Statements (true/false) and logic problems in primary school | Kazakhstan, Grade 1 (Zhakupova series), pp.124–144 and glossary |

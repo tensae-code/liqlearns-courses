@@ -186,6 +186,7 @@ Every part traces to its book and page.
 | Square/cube roots and radical manipulation in the Grade 9 summary | Vietnam, Grade 9, Toán 9 |
 | Square roots: square area a² → side a, √a² = a (a ≥ 0), √a × √b = √(ab), √(a/b) = √a/√b | Laos, Grade 8 student book, L4, printed pp. 1–52 |
 | nth roots, operations with radicals, conjugates, rationalising denominators including cube roots, nested radicals, radical equations | Laos, Grade 9 student book, L9–L11, printed pp. 45–61 |
+| Part 1 lesson between percent/interest (L7) and roots (L9–L11); contents title uncertain in the Lao text layer | Laos, Grade 9 student book, Part 1, L8, printed pp. 1–67 (part range) |
 | Square-root and cube-root functions: y = √x and y = ∛x, domain, reflections, translations, scaling, solving radical equations graphically | Laos, Grade 10 student book, L15, printed p. 152 |
 | Square root and cube root at whole-number level (√16 = 4, √36 = 6) | Yemen, Grade 5 Part 1, Unit 4, lessons 4-4–4-5, printed pp. 105–108 |
 | Square root and cube root, including √(5⁶) = 5³ = 125 and ∛(7⁶) = 7² = 49 | Yemen, Grade 6 Part 1, Unit 1, lesson 1-8, printed pp. 36–38 |

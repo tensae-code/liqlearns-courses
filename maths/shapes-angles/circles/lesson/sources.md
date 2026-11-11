@@ -333,6 +333,7 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 179:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 180:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 181:** *Toán 9, Tập Một* (Mathematics 9, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39236-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 182:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -377,6 +378,8 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circles and discs: centre, radius, diameter, chord, arc, tangent line, interior and exterior points, disc vs circle | Laos, Grade 7 student book, L38, printed pp. 123–170 |
 | Inscribed and central angles: inscribed angle subtending an arc, central angle at the centre O | Laos, Grade 8 student book, L24, printed pp. 179–196 |
 | Circle equations: centre at the origin x² + y² = a², centre (h, k) (x − h)² + (y − k)² = a², general form with its degenerate warnings | Laos, Grade 10 student book, L26, printed p. 291 |
+| Circles inside the old-series Grade 4 book's whole-number and geometry sequence | Laos, Grade 4 student book (old series), L33 (contents-level, inside the L1–L36 sequence) |
+| Closing lesson of Part 2 (triangles, quadrilaterals, circles) | Laos, Grade 8 student book, Part 2, L10, printed pp. 53–77 (part range) |
 | The circle, radius defined; circumference and area (C/d ≈ 3.14 = π = 22/7) | Yemen, Grade 6 Part 2, Unit 6, lesson 6-4, printed p. 67; Unit 7, lesson 7-3, printed p. 98 |
 | The circle, chords, central angle and arcs, circular segment, inscribed angle, cyclic quadrilateral, tangent, relative positions of two circles | Yemen, Grade 9 Part 2, Unit 5, lessons 5-1–5-9, printed pp. 7–52 |
 | Equation of the circle, line and circle, equation of the tangent, length of the tangent | Yemen, Grade 11 science Part 2, Unit 7, lessons 7-1–7-4, printed pp. 48–63 |

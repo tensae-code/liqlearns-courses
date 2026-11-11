@@ -113,6 +113,7 @@ Every part traces to its book and page.
 
 **Book 86:** *Foundations of Statistics (أساسيات الإحصاء), Grade 12* (student book; third year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 87:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 88:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -132,6 +133,7 @@ Every part traces to its book and page.
 | Teaching guidance and full worked answer keys for counting rules — the filling-slots rule, permutations and combinations (teacher evidence) | Indonesia, Grade 12 Revisi teacher guide, Bab 3, printed pp. 167–220 (teacher evidence) |
 | Systematic listing: 4 teams, every pair plays once, 6 matches | China, Grade 3 Volume 2, Unit 8, printed pp. 101–105 |
 | The combinations lesson in the counting chapter | Laos, Grade 11, Ch.6 L27, printed p. 169 |
+| Counting (the whole of Part III of the Grade 10 book) | Laos, Grade 10 student book, Part III, printed p. 53 |
 | Arrangements and permutations (§2), combinations (§3) in the Grade 12 course plan (teacher evidence) | Armenia, Grade 12 teacher's guide, Ch.2 §§2–3 (teacher evidence — student book not held) |
 | Counting-and-probability chapter | Mauritania, 3AS, Ch.13, printed p. 255 |
 | Dénombrement (counting) chapters in the streamed books | Mauritania, 5AS-M, Ch.14, printed p. 155; 5AS-D, Ch.11, printed p. 89; 6AS-M, Ch.12, printed p. 171; 6AS-C, Ch.13, printed p. 192; 6AS-D, Ch.VIII, printed p. 147 (set language, urn-draw model); 6AS-LM, Ch.4, printed p. 67; 7AS-LM, Ch.6, printed p. 81 |

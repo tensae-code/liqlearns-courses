@@ -443,6 +443,7 @@ Every part traces to its book and page.
 
 **Book 319:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35079-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 320:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 321:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -491,6 +492,7 @@ Every part traces to its book and page.
 | Data collection and frequency tables; bar charts; pie charts (sectors from frequencies, summing to 360°) | Laos, Grade 7 student book, L49–L51, printed pp. 227–248 |
 | Data tables, frequencies and cumulative frequency, grouped bar charts | Laos, Grade 8 student book, L21–L23, printed pp. 151–178 |
 | Data types (qualitative and quantitative, discrete and continuous, class intervals, frequency tables) | Laos, Grade 9 student book, L40, printed p. 221 |
+| Tables and graphs | Laos, Grade 4 student book (old series), L28 (contents-level, inside the book's whole-number sequence) |
 | Sorting, pictorial representation, tally tables, bar representation and reading bar data | Yemen, Grade 2 Part 2, Unit 11, lessons 1st–5th, printed pp. 140–150 |
 | Collecting and organising data, pictorial representation, bar representation | Yemen, Grade 3 Part 2, Unit 10, lessons 10-2–10-4, printed pp. 104–114 |
 | Collecting and organising data; presenting data in pictures, columns, lines and pie sectors | Yemen, Grade 6 Part 2, Unit 8, lessons 8-1–8-6, printed pp. 141–159 |
