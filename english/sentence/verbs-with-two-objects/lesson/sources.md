@@ -1,6 +1,6 @@
 # Sources — Verbs with two objects
 
-countries: Cambodia, Mongolia, India, Pakistan, Venezuela
+countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -35,8 +35,8 @@ verification sweep.
 | A named language point in the teacher notes: transitive and intransitive verbs — underline the direct object (He brought me a colourful umbrella; I will write a letter to him; give yourself a chance) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 | Transitive and intransitive verbs in the grammar system (with action, linking and helping verbs) | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 5 countries (Cambodia,
-Mongolia, India, Pakistan, Venezuela).** India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
+**Acceptance count: taught in 6 countries (Cambodia,
+Mongolia, India, Pakistan, Venezuela, Yemen).** Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
 half — verbs with two objects, direct vs indirect
 objects — evidenced by the Grade 11 Teacher's Book's
 spreads, the student's book not being held. Mongolia
@@ -61,3 +61,13 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Verbs with two objects — verbs that carry a person and a thing together | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 17, student printed pp.136–143 (guide plan printed p.109) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Verbs with two objects — “Let's buy Nadia a ring / buy a ring for Nadia”; “Peter gave us these comics” (Language summary) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.29 |

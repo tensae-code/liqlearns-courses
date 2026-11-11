@@ -1,6 +1,6 @@
 # Sources — Stative verbs
 
-countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine
+countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen
 
 Every part traces to its book and page.
 
@@ -23,7 +23,7 @@ Every part traces to its book and page.
 | Stative verbs — senses and emotions verbs take simple forms — in the Grand Canyon lesson | Nicaragua, Inglés Grade 10, Lesson 12, p.94 |
 | "Stative verbs in the continuous form" and "Linking verbs" — the Grammar box pairing this lesson follows: the stative question and the linking-verb system in one box | Vietnam, Tiếng Anh 11, Unit 3 "Cities of the future", Grammar box heading, printed p.30 (unit pp.28–37) |
 
-**Acceptance count: taught in 6 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine).**
+**Acceptance count: taught in 7 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen).** Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge).
 
 Vietnam's box heading is quoted exactly as filed — "Stative verbs in the continuous form" — because the filing gives the heading, not a rule in the opposite sense; this lesson takes the not-continuous RULE from Egypt's full statement and Cambodia's rule-plus-error-correction, and stocks Vietnam for the pairing of the stative question with linking verbs, as its filing presents it.
 
@@ -36,3 +36,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Stative verbs | Palestine, Grade 12, Unit 1, printed pp.8–10 |
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). Inside items counted as stocked, the sweep also named sub-points that carried no Yemen citation anywhere; this lesson's share of those named sub-points is stocked below, from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+Named sub-points (inside items already counted as stocked; the sweep named them as carrying no Yemen citation):
+
+| Sense verbs + object + verb (Language review 3) and sense verbs + object + -ing vs infinitive — continuous vs completed action (Language review 9) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed pp.12, 36 |

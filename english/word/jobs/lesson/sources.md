@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -179,8 +179,8 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 17 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 18 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen).** Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -304,3 +304,26 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Careers and occupations — the Grade 10 entry into the jobs set | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 1, student printed pp.8–15 (guide plan printed p.9) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The jobs word set — builder, painter, policeman, housewife, shopkeeper, secretary, carpenter, potter, dressmaker, baker, doctor, dentist, nurse, bus-driver, pilot, taxi-driver, farmer, fisherman | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.68–69 |
+| The jobs song “What can I be?” — jobs and wanting to be | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.71 |
+| Job-description puzzles — “What's my job?” (painter, air-hostess, fisherman, carpenter) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.76 |
+| Jobs that help others — recruitment advertisements; “I want to be… / I'd like to be…”; “have to” + infinitive (Unit 6) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.46 |
+| Airport jobs and what they do — air-hostess, booking clerk, check-in clerk, chef, engineer, pilot | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.8 |
+| Travellers at the airport — talking about people: job, destination, purpose (“Kate is a teacher and is going to Australia on business”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.35 |
+| Four services: reading about public-service jobs — traffic policeman, immigration officer, helicopter pilot, fireman — and what their jobs involve | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.7 |
+| It's all part of the job — what firemen do besides fires (prevention advice, rescues, fire drills) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.11 |

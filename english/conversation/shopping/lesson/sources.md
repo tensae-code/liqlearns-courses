@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -98,8 +98,8 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 13 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 14 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen).** Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -164,3 +164,14 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Shopping situations — 'How much is it?' and prices. The guide's plan keys this lesson's audio to student pp.98–103, pages that belong to Lesson 10's listening set; the plan's own error is recorded here, not followed | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 12, student printed pp.98–105 (guide plan printed p.75) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shopping words — a pair of glasses/earrings/shorts/sandals, bracelet, necklace, tie, ring, box of paints, paintbrush, comic, some paper; “Where can I buy a ring? At the jewellery shop” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.13 |
+| Shopping quantities in conversation — “I'd like some butter, please. How much? Half a kilo. How many pencils? Five” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.72–73 |

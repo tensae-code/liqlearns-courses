@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -111,9 +111,9 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 16 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
+**Acceptance count: taught in 17 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
 China, Iran, Indonesia, Greece, Nicaragua, Pakistan,
-Palestine, Rwanda, Sudan, Venezuela).** Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+Palestine, Rwanda, Sudan, Venezuela, Yemen).** Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -239,3 +239,13 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | The sound of ch — /k/ in 'school' and 'chorus' — and the silent l, pronunciation taught inside the abilities lesson | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 7, student printed pp.58–65 (guide plan printed p.47) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Workbook 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word stress — saying job words with the stressed syllables underlined (ex. 3.1: career, require, qualification, application), listening and underlining stressed syllables in longer job words (ex. 3.7: ambitious, successful, available, selected, inadequate), and choosing between word pairs by stress (ex. 3.9) | Yemen — *English Course for Yemen*, Workbook 6 (Grade 12), printed pp.29, 35, 38 |

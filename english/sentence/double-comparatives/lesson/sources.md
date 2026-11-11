@@ -1,6 +1,6 @@
 # Sources — Double comparatives
 
-countries: Greece, Vietnam, China, Mongolia
+countries: Greece, Vietnam, China, Mongolia, Yemen
 
 Every part traces to its book and page.
 
@@ -26,6 +26,17 @@ Every part traces to its book and page.
 | USE ONLY — the shape in dialogue, never taught: "The more you read, the faster you'll be" (Unit 1); "the more I get to know Julie, the more …" (Unit 11) | China, Grade 9, Unit 1, pp.1–8; Unit 11 (as filed in english/books/china.md) |
 | Less / least, and double comparatives (more and more; the more…, the more…) | Mongolia, English XII, Unit 10, printed pp.182–183 |
 
-**Acceptance count: taught in 4 countries (Greece, Vietnam, China, Mongolia).** Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Greece, Vietnam, China, Mongolia, Yemen).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 China is counted as a use witness only: its Grade 9 book carries the locked shape inside dialogues and teaches no rule for it — the filing shows use, and this lesson words China as use only, exactly as filed. Pakistan is NOT counted: its Grade 12 "very better" is an error-to-correct item, not a teaching, and it appears in this lesson only as the corrected error.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Emphasis by repeating comparatives — “faster and faster, more and more worried” (Language review 2) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.7 |
+| Double comparatives with “the…the…” — “The deeper the water, the greater the pressure” (Language review 8) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.31 |

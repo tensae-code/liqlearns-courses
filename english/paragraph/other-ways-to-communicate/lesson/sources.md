@@ -1,6 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -37,8 +37,8 @@ cited once.
 | Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
 | Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 8 countries (Afghanistan, Ecuador, India, Mexico, Mongolia,
-Sierra Leone, South Sudan, Sudan).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Afghanistan, Ecuador, India, Mexico, Mongolia,
+Sierra Leone, South Sudan, Sudan, Yemen).** Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -103,3 +103,24 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Signs and messages (airport signs): “This means that…”; imperatives in instructions; have (got) to for obligation (Unit 7) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.55 |
+| Ways of sending messages through history — six factual texts; time adverbials (“In the tenth century…”, Unit 7) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed pp.59–60 |
+| What's on: TV programme listings and planning an outing (“Let's go out / I'd rather stay in and watch TV”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.29 |
+| English — a world language: facts about English worldwide | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.24 |
+| Getting the message across — communication before modern machines (Arts reader 14) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.55 |
+| Calligraphy — the Greek origin of the word; Islamic calligraphy (Arts reader 8) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.60 |

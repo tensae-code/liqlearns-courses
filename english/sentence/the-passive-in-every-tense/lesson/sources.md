@@ -26,11 +26,14 @@ Every part traces to its book and page.
 
 **Book 11:** *English Grammar & Composition 9–10* — Pakistan, Punjab Textbook Board, Lahore, March 2014 printing (4th edition; cover dated 2014-15), no ISBN printed. One of the two Punjab books the old filing left UNREAD under the 2026-11-03 ruling; read in the 2026-11-08 re-verification sweep (contents read in full + contact-sheet pass), whose placements are its read record.
 
+**Book 12:** *English Course for Yemen*, Pupil's Book 4 (Grade 10) — Yemen, Ministry of Education (the Crescent English Course family). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep. Added 2026-11-11 under sweep flag 4: the full every-tense passive chart is this book's, not Book 5's.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Passive Voice — Present Continuous, Past Continuous and Present Perfect only (are being installed / were being built / have been made), with conversion and free-production tasks | Kuwait, Pearls 9B, Learning Unit 6, Lesson 6 Grammar, p.38 |
 | The present/modal passive as the book's passive set | Kuwait, Pearls 7A (grammar spine, as filed in english/books/kuwait.md) |
-| The passive extended: present-perfect, modal and future passive | Yemen, English Course for Yemen Book 5 (Grade 11), grammar spine (as filed in english/books/yemen.md) |
+| The passive in every tense — the full chart: present/past simple, present/past continuous, present/past perfect, future and modal passives (“patients are treated / were treated / are being treated / were being treated / have been treated / had been treated / will be treated / should be treated”) | Yemen, English Course for Yemen, Pupil's Book 4 (Grade 10), Language review 5, printed p.56 (corrected 2026-11-11, sweep flag 4: the chart was earlier carried under Book 5's name; it is Book 4's, and is also cited correctly under the-passive) |
+| The passive extended: present-perfect, modal and future passive | Yemen, English Course for Yemen, Pupil's Book 5 (Grade 11), Language review 2, printed p.23 (the extension only — Book 5 teaches no wider every-tense chart) |
 | The passive in full: all common tenses, gerund/infinitive/modal passives; the get-passive in the Grammar Reference; no passive for the future continuous or the perfect continuous tenses | Malaysia, Form 5 textbook, Unit 7 (as filed, §4 honest summary) |
 | The passive — impersonal and personal structures (It is believed that… / He is believed to…) | Malaysia, Form 5 textbook, Unit 7, Grammar 2, p.89 |
 | The basic passive spread this lesson deepens (They use cameras in shops… → Cameras are used in shops…) — cited as the neighbour, not retaught | Malaysia, Form 3 Close-Up B1, Unit 9, printed p.113 |

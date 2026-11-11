@@ -1,6 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -90,8 +90,8 @@ verification sweep.
 | The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
 | Reported questions (wh- and if/whether) | Mongolia, English XII, Unit 9, printed p.164 |
 
-**Acceptance count: taught in 13 countries (Cambodia,
-China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela).** Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Cambodia,
+China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela, Yemen).** Yemen joins with indirect questions in shops and in reviews, and reported questions in a policewoman interview, across its Grades 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.
@@ -147,3 +147,22 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Reported questions — questions reported, the question form folded into the report | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 20, student printed pp.160–167 (guide plan printed p.123) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, plus the named sub-points the sweep listed inside already-stocked items, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indirect questions in a department store — “Excuse me, can you tell me where I can buy some sheets? I'd like to know where the Pharmacy is” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.18 |
+| Indirect questions at the bakery — “Can you tell me what those are made of? I'd like to know what those are made of” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.22 |
+| Direct vs indirect questions reviewed (Language review 2) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.26 |
+| Reported questions and answers in an interview with a policewoman | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.10 |
+
+Named sub-points (inside items already counted as stocked; the sweep named them as carrying no Yemen citation):
+
+| Indirect questions inside the review of direct vs indirect questions with question words (Language review 1) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.15 |

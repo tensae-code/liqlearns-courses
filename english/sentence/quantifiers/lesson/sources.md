@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 16 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
+**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
 Mongolia, Nepal, China, Mauritania, Greece, Nicaragua,
-Pakistan, Palestine, Sierra Leone, Sudan).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+Pakistan, Palestine, Sierra Leone, Sudan, Yemen).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -205,3 +205,18 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| some and any — “There is some cheese in the fridge / There are some olives”; “There isn't any bread / aren't any eggs” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.17–18 |
+| Shopping quantities — “How much? Half a kilo. How many pencils? Five” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.72–73 |
+| Too much / too many inside the balanced-diet lesson — “don't eat too much bread / too many sweets; eat less salt / fewer eggs” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.46 |
+| Expressing quantity — too much/less + uncountable; too many/fewer + countable (Language review 5) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.56 |

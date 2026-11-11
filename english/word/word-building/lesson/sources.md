@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -148,9 +148,9 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 17 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
+**Acceptance count: taught in 18 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
 China, Iran, India, Greece, Mongolia, Nicaragua,
-Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -328,3 +328,20 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | The know word family — know, knowledge, knowledgeable, known, unknown — one root growing its family | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 14, student printed pp.112–119 (guide plan printed p.86) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Workbook 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Workbook 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word building: job nouns from verbs — paint→painter, bake→baker, drive→driver, keep→keeper (ex. 7.6) | Yemen — *English Course for Yemen*, Workbook 2 (Grade 8), printed p.95 |
+| Word building in the Workbook: prefixes dis- and un- for opposites (disobey, unfasten) | Yemen — *English Course for Yemen*, Workbook 5 (Grade 11), printed p.9 |
+| Adjective→noun quality words — polite→politeness, patient→patience, able→ability | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.21 |
+| Words and more words — how new English words are made: borrowing (algebra, zero, sugar, cotton, coffee from Arabic), prefixes/suffixes (re-, un-, mis-; -able, -less), conversion (milk noun→verb; up preposition→verb) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.29 |

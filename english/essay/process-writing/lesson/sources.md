@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -93,9 +93,9 @@ verification sweep.
 | Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
 | A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 15 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
+**Acceptance count: taught in 16 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China,
 India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda,
-Sierra Leone, South Sudan, Sudan).** Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+Sierra Leone, South Sudan, Sudan, Yemen).** Yemen joins with sending a letter, a falafel recipe, a fish-curry recipe, frozen peas and how a hospital works (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -170,3 +170,21 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing a process in writing — how a letter is sent (present simple, Unit 7) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.56 |
+| A recipe as process writing — how to make falafel: ingredients and sequenced method verbs (soak, crush, chop finely, mix, leave, form, fry, serve) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.23 |
+| Learning to cook — a fish-curry conversation: ingredients and sequenced method | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.26 |
+| Frozen peas — a process description (present simple passive throughout: peas are processed / are chosen / are washed / are packed), turned into a flowchart | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.32 |
+| How a hospital works — writing a process in the present simple (the casualty two-track system: reception, nurse, priority, doctors, X-ray) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.45 |

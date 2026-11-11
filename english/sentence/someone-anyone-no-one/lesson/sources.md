@@ -1,6 +1,6 @@
 # Sources — Someone, anyone, no one
 
-countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone
+countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen
 
 Every part traces to its book and page.
 
@@ -49,8 +49,8 @@ lesson is reproduced.
 | Indefinite pronouns in full — the some-/any-/no-/every- × -body/-one/-thing/-where grid; they take a singular verb | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 47 |
 | Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 118 |
 
-**Acceptance count: taught in 6 countries (Albania, Bolivia,
-Cambodia, Mongolia, South Africa, Sierra Leone).** Albania — teacher-guide
+**Acceptance count: taught in 7 countries (Albania, Bolivia,
+Cambodia, Mongolia, South Africa, Sierra Leone, Yemen).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the grid's place row, the -where words,
 inside its travel chapter. Bolivia boxes the
 some/any choice for people outright, with its
@@ -78,3 +78,13 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The somebody/someone/somewhere/something series (Unit 5) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), Unit 5, step 10 (Workbook 3, printed pp.82–83) |

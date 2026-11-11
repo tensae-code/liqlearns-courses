@@ -87,7 +87,7 @@ verification sweep.
 | Past Perfect with "before" and "after" — form table, sequencing tasks, a "My Achievement" writing task | Kuwait, English Pearls 9B, L2 Grammar, p.21 |
 | Time for Tenses: the past perfect — the "Too Late" story and the "had + past participle" rule box | Sudan, SPINE 5, Chapter 6 |
 | Past perfect stated in the three-page Grammar Section (printed pp.151–153) | Uzbekistan, English Matters 8, Grammar Section, p.153 |
-| The past perfect in narrative in Book 3, with explicit teaching carried in Workbook 4 | Yemen, English Course for Yemen, Pupil's Book 3; Workbook 4 (as filed) |
+| The past perfect in narrative in Book 3, with explicit teaching carried in Workbook 4 | Yemen, English Course for Yemen, Pupil's Book 3, Unit 4 (past perfect, in the air-travel text), printed p.28, and Unit 8 (“What went wrong?” — past simple and past perfect), printed p.68; Workbook 4, past-perfect language-study box (pages supplied 2026-11-11 from the 2026-11-08 re-verification sweep, sweep flag 8: the citation as first written named no page for either book) |
 | The past perfect — had + past participle, for the earlier of two past actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 52–53 |
 | The past perfect — the compendium's past perfect table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 105 |
 | The past perfect in talk: the lesson's Listening & Speaking work | Iran, Vision 3 (Grade 12), Lesson 3, Listening & Speaking, printed p.89 |

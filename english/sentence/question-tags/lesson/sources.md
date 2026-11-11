@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -106,9 +106,9 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 13 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
+**Acceptance count: taught in 14 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
 Venezuela, Bolivia, Iran, Greece, Palestine,
-Sierra Leone, Sudan).** Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+Sierra Leone, Sudan, Yemen).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -220,3 +220,14 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
 This section also settles the sweep's flag on this lesson: the course previously cited only Lesson 21's perfect-tense tags for Venezuela; the main presentation (Lessons 19–20) is now stocked above.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Question tags in a holiday conversation — “That's Kenya, isn't it? They're nomads, aren't they? You didn't bring one back, did you?” | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.27 |
+| Question tags reviewed — form and use, including positive tags for interest (Language review 3) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.31 |

@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -199,10 +199,10 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 20 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 21 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
 Bolivia, China, Iran, Indonesia, India, Greece,
 Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda,
-Sierra Leone, South Sudan, Sudan, Venezuela).** Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -394,3 +394,28 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Climate change and global warming — the environment words of the Grade 11 lesson | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 12, student printed pp.96–103 (guide plan printed p.75) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Camping and map/nature words — river, lake, mountains, road, path, farm, wood, village, camp; map scale | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.45–47 |
+| Towards a greener land — an article on forestation and desertification in Yemen | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.36 |
+| The world — Earth facts and figures (Arts reader 5) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.46 |
+| The world — the identical Earth-facts text printed a second time, as Science reader 5 (a book duplication, noted in the sweep placements: one text, two printings; stocked once as a text) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.62 |
+| The movements of the Earth — rotation and orbit (Science reader 6) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.63 |
+| The polar regions — Arctic and Antarctic (Science reader 10) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.67 |
+| Oil (Science reader 11; the contents title prints “I!O” for Oil) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.68 |
+| Energy sources of the future (Science reader 12) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.69 |
+| Sun, sea and land (Science reader 13) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.70 |
+| Man — the destroyer: environment damage (Science reader 14) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.71 |
+| The countryside — countryside words (stream, mountain, farmland, river, coastline, valley, desert, hill) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.5 |
+| Natural disasters word set — forest fire, drought, flood, flash flood, epidemic, volcano/eruption, famine, hurricane, earthquake/fault line/plates/crust | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.13 |

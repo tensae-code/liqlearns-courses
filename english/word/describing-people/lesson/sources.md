@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -166,9 +166,9 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
+**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran,
 Indonesia, Mauritania, Mexico, India, Greece, Nicaragua,
-North Macedonia, Pakistan, South Sudan, Sudan).** North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+North Macedonia, Pakistan, South Sudan, Sudan, Yemen).** Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -282,3 +282,25 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Describing family members — big/small, short/tall in the poem “My family and me” | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.15 |
+| Describing people in a street scene — position, activity and clothing together (“There is a boy in front of the Post Office; he is wearing…; two women are talking”) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.50 |
+| Describing people's physical appearance and clothing — slim, fair, dark, weigh, metre (Unit 2) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.5 |
+| Describing a street scene — There is/are…; describing people; present continuous (“The woman in the yellow dress is getting into her car”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed pp.2–3 |
+| Describing objects by shape (round, rectangular, square, cylindrical), size, material (wood, metal, cloth, plastic, rubber) and use; a “What's my job?” yes/no guessing game | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.4 |
+| Describing things: shapes (rectangular, round, curved, square, triangular, straight), animal coverings (hair, feathers, skin, fur, scales, wool) and materials (wood, glass, paper, plastic, metal, cloth) — “A window is made of glass” | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.1 |
+| Describing a picture from furthest to nearest — “In the distance…; Nearer us…; In the foreground…” (a lucky escape) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.42 |

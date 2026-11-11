@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -75,8 +75,8 @@ verification sweep.
 | Punctuation and quotation marks in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Quotation marks in the book's closing grammar stretch (with simple, compound and complex sentences) | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 8 countries (Malaysia,
-Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan).** India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
+**Acceptance count: taught in 9 countries (Malaysia,
+Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
 6 Scheme of Work — a teacher planning document, not a
 pupil's textbook — and is worded as mapped coverage
 throughout: Unit 1 of the map sets direct speech
@@ -124,3 +124,16 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Workbook 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Speech marks punctuation (in the serial story “The snake”, episode 1) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.14 |
+| The semi-colon — a language-study box on using “;” to join closely related statements, with punctuation practice (“Punctuate these statements. Use a semi-colon if you can.”) | Yemen — *English Course for Yemen*, Workbook 5 (Grade 11), printed p.88 |

@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -95,9 +95,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 13 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 14 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan, Venezuela).** Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -234,3 +234,22 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Agreeing and disagreeing — stating agreement and disagreement in the sports-culture lesson's own discussion | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 10, student printed pp.80–87 (guide plan printed p.69) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rejecting suggestions — “Let's watch TV / How about going to…? No…” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.14 |
+| Opinion letters to the newspaper — agreeing and disagreeing in writing (“I totally agree…; I totally disagree…”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.30 |
+| Public opinion: street interviews — agreeing and disagreeing with reasons (“I don't agree. You're wrong…; The truth is…; Take it or leave it”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.31 |
+| For and against — a town newspaper page on a factory closing and a new supermarket (“I'm in favour of it; I'm completely against it”) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.18 |
+| For and against a tradition — a TV interview about the cheese-rolling race | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.20 |
+| What's your opinion? — a family discussion for and against tourism in Yemen | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.33 |

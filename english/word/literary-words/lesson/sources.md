@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen
 
 Every part traces to its book and page.
 
@@ -102,9 +102,9 @@ verification sweep.
 | Personification named and defined as a poetic literary device — "Personification is a poetic literary device" | Pakistan, *English 7*, Unit 9, printed p.79 |
 | Literary devices as the unit's grammar work (the key to its spot-the-error exercise is printed on the same page) | Pakistan, *English 12*, Unit 9, printed p.71 |
 
-**Acceptance count: taught in 15 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
+**Acceptance count: taught in 16 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
 Mauritania, Mexico, India, Greece, Nicaragua, Pakistan,
-Rwanda, South Sudan, Sudan).** Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+Rwanda, South Sudan, Sudan, Yemen).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge).
@@ -225,3 +225,21 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Famous writers in English — Shaw, Dickens… (Arts reader 9) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.50 |
+| Mathematics — geometry definitions, stocked as a word set (Science reader 7) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.64 |
+| A famous play by Shakespeare — the literary stock of the reader text (Arts reader 4) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.54 |
+| Acids and alkalis — science definitions, stocked as a word set (Science reader 1) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.65 |
+| States of matter — science definitions (Science reader 2) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.66 |
+| Light — science definitions (Science reader 3) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.67 |
+| Sound — sound waves; science definitions (Science reader 4) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.68 |

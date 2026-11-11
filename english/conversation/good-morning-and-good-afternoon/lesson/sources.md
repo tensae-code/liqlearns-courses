@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -69,7 +69,7 @@ verification sweep.
 | Greetings by time of day — good morning / afternoon / evening, good night — with nice to meet you (too) | Mauritania, Study English, Grade 7, printed pp.11–12 |
 | The greeting taught from the year's first poem: "Good Morning" (Fannie R. Buchanan) — the child greets sky, sun, winds, birds, trees, grass and bees on waking; talk time: "In the morning I say Good morning, at night Good night", and saying Good morning in your own language | India — Marigold Book Three (Class 3), Unit 1, printed pp.1–10 |
 
-**Acceptance count: taught in 27 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 28 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen).** Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -352,7 +352,7 @@ is recorded.
 
 **Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the Friends starter topic (Lessons 1–17, headers at printed pp.26–60) has pupils learn to greet, say goodbye and thank you. Worded plainly: the map's greeting stock is the year's opening greeting set; no Form (secondary) book teaches basic greetings — they assume them.
 
-**Yemen checked 2026-11-04 - not stocked.** Neither 'Good morning' nor 'Good afternoon' is printed as a greeting anywhere in the 13 held books (checked across english/books/yemen.md). Yemen's greeting stock - hello and leave-taking - sits under Hello and Your Name, so nothing is stocked.
+**Yemen checked 2026-11-04 — corrected 2026-11-11 (sweep flag 1).** The earlier note here said neither 'Good morning' nor 'Good afternoon' is printed as a greeting anywhere in Yemen's 13 held books. That was wrong for 'Good morning': the 2026-11-08 re-verification sweep's fresh read found Pupil's Book 1 (Grade 7), printed p.3 printing the exchange "Hello. / Hello. / Good morning. / Good morning. / Goodbye. / Bye." — now stocked in the Yemen section of this file. The 'Good afternoon' half stands: no instance was found in the fresh read of any of the 13 books.
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks both halves of this lesson in full from its first book: Grade 4 gives "Good morning", "Good afternoon" and "Good evening" one unit each as the greeting dialogue of the unit, then exchanges morning and afternoon together in its final review. Few sets in the pool teach the afternoon greeting as its own exchange; this one does.
@@ -366,3 +366,13 @@ is recorded.
 **Ghana books stocked 2026-11-10 (re-verification sweep merge):**
 
 **Book:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “Good morning” printed as a greeting exchange — “Hello. / Hello. / Good morning. / Good morning. / Goodbye. / Bye.” (sweep flag 1: this file's earlier “not stocked” note was wrong for Good morning and is corrected in place) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.3 |

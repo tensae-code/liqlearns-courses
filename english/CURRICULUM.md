@@ -244,6 +244,11 @@ about the other person, and close the talk.*
   and peoples, conflict and its way out, the Millennium
   Development Goals, diversity and rights, measurements,
   the media, unequal work, independence, and the state)
+- **Sweep additions (2026-11-11, Yemen re-verification sweep
+  merge):** law-and-crime-words ✅ (1 lesson — the law
+  vocabulary of Yemen's Grade 11 Arts readers: the court set
+  with the book's definitions, the Doctor Crippen story, and
+  young people and the law, which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -1247,6 +1252,53 @@ state-and-constitution-words (Unit 7), borrow-and-lend
 (Unit 10) and dummy-subject-it (Unit 18). **Venezuela:
 5 of 5 re-read.** The English course now stands at
 **244 lessons across 44 units**.
+
+**Stocked by Yemen (all 13 books):** the *English Course
+for Yemen* runs Grades 7–12 — six Pupil's Books, six
+Workbooks and the Grade 9 Teacher's Book (the other five
+Teacher's Books are exact links only, not held). The old
+merge had stocked the word sets and the core grammar spine
+into 44 lessons; the sweep stocked the rest — the
+functional language (offers, inviting, advice, opinions,
+polite requests), the writing genres, the whole Grade 11
+and 12 Arts and Science readers, and the grammar points
+that had never landed (reported speech, indirect
+questions, question tags, the past and perfect continuous
+tenses, causatives) — into 82 lessons, and built 1 new
+lesson (law-and-crime-words, Unit 7). Of the sweep's 8
+flags, 6 were fixed in the lesson files: two false
+"not stocked" verdicts (Good morning IS printed, Pupil's
+Book 1 p.3; What's his name IS printed, p.12), the
+reflexive-pronouns wrong book (Pupil's Book 3, not 5), the
+every-tense passive chart's book (Pupil's Book 4, Language
+review 5, p.56), the word-list wording in
+using-the-dictionary, and the past-perfect citation's
+pages, now supplied. Two flags are filing-side (the
+books/yemen.md header's minimal-pairs claim and its
+citation-check completeness claim) and are reported, not
+edited. All 13 held books were read page by page in the
+2026-11-08 re-verification sweep and every one of their
+377 distinct teaching items is stocked (187 already in,
+190 stocked by the 2026-11-11 sweep merge, 0 excluded),
+with the sweep's 14 named sub-points stocked on top.
+**Yemen: 13 of 13 read.** The English course now stands
+at **245 lessons across 44 units**.
+
+**Recount note (2026-11-11):** a count of lesson
+directories under english/ alone reads 242 after this
+merge (241 at the Venezuela merge) — 3 lower than the
+course totals — because Unit 1's three Pencil and Lines
+lessons (holding-a-pencil, drawing-lines,
+drawing-patterns) live in the shared top-level
+pencil-and-lines/ tree, exactly as this file's Unit 1
+section states, and have always been counted in the
+English path (when the sweep was written the path's 161
+lessons were 159 under english/ + 2 of these). Counted
+the same way throughout — the english/ directories plus
+the 3 pencil lessons — the previous total of 244 was
+exact, and 245 is exact now. No registered title lacks a
+directory; the apparent 3-lesson drift was the counting
+method, not the course.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -152,9 +152,9 @@ differ only in cover wording and colophon; cited once.
 | Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 | Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 19 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
+**Acceptance count: taught in 20 countries (Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia,
 China, Iran, Indonesia, Mauritania, Mexico, Greece,
-Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela).** Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+Mongolia, Nicaragua, Rwanda, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with advice with should, recommendations, an advice page and careers advice across its Grades 9 to 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's should and need to grammar points (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -282,3 +282,24 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Giving advice with should — advice about older people's health | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 20, student printed pp.160–167 (guide plan printed p.123) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving advice with “should” + infinitive — dangers in the home (Unit 5) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.37 |
+| Identifying dangers in a house picture; should/shouldn't (Unit 5) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), Unit 5, step 8 (Workbook 3, printed p.80) |
+| Recommendations — “I'd like to go climbing. You should go to the Lake District; Why not go fishing in Wales?” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.38 |
+| Health posters as advice — prevention, hygiene, smoking and diet slogans | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.45 |
+| Opportunities — a magazine advice page: jobs in tourism; imperative advice; “learn how to…” | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.37 |
+| Getting careers advice — asking for, giving, accepting and turning down advice (“I need your advice; If I were you, I would…; If I were in your shoes…; That's not a very good idea; I'm hopeless at it”) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.19 |

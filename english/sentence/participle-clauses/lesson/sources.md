@@ -1,6 +1,6 @@
 # Sources — Participle clauses
 
-countries: Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine
+countries: Armenia, Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen
 
 Every part traces to its book and page.
 
@@ -51,8 +51,8 @@ verification sweep.
 | The reduced relative forms in full: past participle for a passive clause ("the car stolen last night"), present participle for an active clause ("the man talking to my father") — closing the relative-clause line opened in Secondary 11 | Egypt, Secondary 12 Term 2, Unit 10, Lesson 3 (as filed in EGYPT-BOOK-MAP.md) |
 | Form noticed: present participles indicating simultaneous action ("…wishing Danny would…") — analyse examples, find five more | India — Flamingo (Class 12), Noticing form in Going Places, printed pp.86–87 |
 
-**Acceptance count: taught in 7 countries (Armenia,
-Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine).** India joins with present participles indicating simultaneous action, noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches
+**Acceptance count: taught in 8 countries (Armenia,
+Egypt, Ethiopia, Pakistan, Vietnam, India, Palestine, Yemen).** Yemen joins with present-participle joining in its Grade 11 review and -ing joining in its Grade 12 review (stocked 2026-11-11 by the re-verification sweep merge). India joins with present participles indicating simultaneous action, noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches
 participle clauses for reason with the perfect
 participle inside the same presentation. Egypt states
 the reduced relatives as a clean pair — present
@@ -76,3 +76,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | "Reduced" relative clauses with active or passive meanings | Palestine, Grade 12, Unit 5, printed p.54 |
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Joining ideas with the present participle — “'I'll answer it,' he said, picking up the phone; My father came in, smiling” (Language review 3) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.31 |
+| Joining sentences with the -ing form (Language review 2) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.7 |

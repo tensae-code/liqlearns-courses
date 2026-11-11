@@ -1,6 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen
 
 Every part traces to its book and page.
 
@@ -30,7 +30,7 @@ Every part traces to its book and page.
 | Participle adjectives, -ed and -ing (bored/boring, fascinated/fascinating) | Mongolia, English XII, Unit 10, printed pp.179–180 |
 | -ed / -ing adjectives — bored against boring, in the emotions lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 4, printed p.13 |
 
-**Acceptance count: taught in 7 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine).**
+**Acceptance count: taught in 8 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen).** Yemen joins with participle adjectives in its Grade 12 fish-curry lesson (stocked 2026-11-11 by the re-verification sweep merge).
 
 Albania's entry is teacher's-guide evidence and is worded as such everywhere it is used; the guide filing also records the chapter vocabulary list's misprints ("don't warry"; "clam" for calm) — neither misprint is taught in this lesson.
 
@@ -52,3 +52,13 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Participle adjectives — -ing/-ed pairs (amazing/amazed, boring/bored …) | Palestine, Grade 10 Part 1, Unit 4, printed p.53 |
 | -ing forms and participles as adjectives | Palestine, Grade 12, Unit 5, printed pp.52–53 |
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Participle adjectives — “peeled and chopped tomatoes, crushed garlic” (the fish-curry lesson) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.26 |

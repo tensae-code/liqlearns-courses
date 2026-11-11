@@ -412,3 +412,13 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Household chores vocabulary — the work of the house named as a word set | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 16, student printed pp.130–137 (guide plan printed p.104) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of place in / on / under — “Where is it? It is on the table” | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed pp.8–9 |

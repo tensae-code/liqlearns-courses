@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -176,9 +176,9 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 18 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran,
+**Acceptance count: taught in 19 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran,
 Mauritania, Mexico, India, Greece, Mongolia, Nicaragua,
-Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -324,3 +324,17 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Synonyms — words of like meaning, taught as its own topic with the lesson's health words (the same tools row appears in reading-between-the-lines, where the lesson's diversity content lives) | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 21, student printed pp.168–175 (guide plan printed p.136) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Opposite adjectives for character — lazy/hard-working and their pairs (Unit 2) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.6 |
+| Adjective + noun matching and a crossword of opposites (Unit 8) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), Unit 8, step 10 (Workbook 3, printed p.135) |
+| Word sets: learning words in sets — furniture; travelling by sea (mast, sail, deck, cabin, horizon, bow, stern, oar…) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.33 |

@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -58,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 17 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone).**
+**Acceptance count: taught in 18 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen).** Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -241,7 +241,7 @@ Libya's wording.
 
 **Malaysia added 2026-11-04** — 2 files stock this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. **Book:** *KSSR English Language Scheme of Work, Primary Year 3 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Get Smart plus 3* (MM Publications) SB pp.5–102+, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the Let's Play! topic (Superminds 1 Unit 2, Lessons 48–78, headers at printed pp.125–189) teaches possessives and pronouns his/her, and the Pet Show topic (Superminds 1 Unit 3, Lessons 79–116) adds "…'s favourite animal is a …". The Year 3 Scheme of Work's Unit 1 "Welcome" (SOW Lessons 1–16, mapped over Get Smart plus 3 SB pp.5–14) likewise maps possessive his/her and 's — its Lesson 1 grammar focus (printed p.29) is possessive his/her + name + 's.
 
-**Yemen checked 2026-11-04 - not stocked.** The question 'What's his/her name?' is never printed in any held book. The nearest material is Workbook 1's gap work on His/Her name statements for Tom and Anne (Unit 3, printed p.14), which practises the answer form only, never the question - under the house bar (the frame must be printed) nothing is stocked.
+**Yemen checked 2026-11-04 — corrected 2026-11-11 (sweep flag 2).** The earlier note here said the question 'What's his/her name?' is never printed in any held book. That was wrong: the 2026-11-08 re-verification sweep's fresh read found Pupil's Book 1 (Grade 7), printed p.12 printing "What's his name?" (with "His name is Bill / Her name is Anne"), and printed p.13 printing "What's your name? How old are you? Where are you from?" — the question is now stocked in the Yemen section of this file.
 
 **Afghanistan checked 2026-11-04 — not stocked.** The frame "What's his/her name?" is printed nowhere in the nine books. Grade 4's family unit practises his/her over family members ("This is Habib. Halima is his wife.", Unit Thirteen, printed pp.119–120) and its review asks "What do we call the woman's child?", but no book asks a third person's name. Nothing is stocked.
 
@@ -285,3 +285,13 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The question “What's his name?” printed, with “His name is Bill / Her name is Anne” (sweep flag 2: this file's earlier “never printed” note was wrong and is corrected in place) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.12 |

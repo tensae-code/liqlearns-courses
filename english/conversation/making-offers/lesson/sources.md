@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -68,8 +68,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 9 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
-Mauritania, Sudan, Venezuela).** Syria opens the lesson
+**Acceptance count: taught in 10 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan, Venezuela, Yemen).** Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -130,3 +130,20 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Promises and the borrow frame — 'Can I borrow your eraser?' — asking to borrow inside the promises lesson | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 5, student printed pp.40–47 (guide plan printed p.34) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Offers with countable nouns — “Do you want a date / an apple / an orange? Yes, please / No, thanks” | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.22 |
+| Offers and requests with uncountable nouns and some — “Do you want some meat?”; “Can I have some water, please?” (the Workbook 1 mirror exercises print “an apple juice / an orange juice”, Workbook 1 ex. 8.4 printed p.75 and ex. 8.10A printed p.81 — a book error: juice is taught corrected, as non-count) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.24 |
+| Making, accepting and refusing offers — “Do you want to play football? Yes, please / No, thanks”; like / don't like + -ing | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.40 |
+| “What would you like?” — wants and orders from a take-away menu (“I'd like a cheese sandwich / a Pepsi, please”) | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.10 |
+| Offers of help with will — “Who'll help? I will. I'll bring some Pepsis / make some sandwiches” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed p.20 |
+| Making offers of help — “Can I help you? I can't reach/carry/push it” | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.30–32 |

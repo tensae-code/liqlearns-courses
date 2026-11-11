@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 5 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela).** Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 6 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen).** Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -110,3 +110,16 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Promises made after an apology — the promise that closes the apology exchange | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 17, student printed pp.136–143 (guide plan printed p.104) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). Inside items counted as stocked, the sweep also named sub-points that carried no Yemen citation anywhere; this lesson's share of those named sub-points is stocked below, from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+Named sub-points (inside items already counted as stocked; the sweep named them as carrying no Yemen citation):
+
+| Apologising — “Oh, I'm sorry” (in the cartoon story “Tom, Anne and Bill”) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed pp.60–61 |

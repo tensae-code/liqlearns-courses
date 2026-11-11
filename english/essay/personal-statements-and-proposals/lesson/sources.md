@@ -1,6 +1,6 @@
 # Sources — Personal statements and proposals
 
-countries: Jordan, Greece, Egypt, Palestine
+countries: Jordan, Greece, Egypt, Palestine, Yemen
 
 Every part traces to its book and page.
 
@@ -33,8 +33,8 @@ still owed).
 | A formal proposal as a taught genre: 130–180 words, with register teaching, in the senior book's writing spine | Greece, Αγγλικά 2, Grades 11–12, Unit 6, Writing (unit printed pp.81–100; the proposal in the unit's writing work, as filed) |
 | The personal statement/objective as a named CV section of 2–3 sentences — the statement's seed inside the CV | Egypt, Secondary 10 Term 1, Unit 6, Lesson 5 (as filed in EGYPT-BOOK-MAP.md) |
 
-**Acceptance count: taught in 4 countries (Jordan,
-Greece, Egypt, Palestine).** Jordan teaches both pieces with full
+**Acceptance count: taught in 5 countries (Jordan,
+Greece, Egypt, Palestine, Yemen).** Yemen joins with writing about your own future in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Jordan teaches both pieces with full
 models — the statement at Grade 10 with its tips box, the
 proposal at Grade 12 in its three named sections; Greece
 teaches the formal proposal at a counted length with
@@ -51,3 +51,13 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Personal statements — reading and assessing one; planning and drafting your own | Palestine, Grade 12, Unit 2, printed pp.21–23 |
 | Writing samples — model application and personal statement, essay, business letter and summary, with a personal-statement plan | Palestine, Grade 12, appendices, printed pp.139–143 |
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tourism and the future — a magazine article's language of interests, ambition, hopes, wants and beliefs (“His ambition is to have…; he hopes he will…; he doesn't want to…; he believes…”), then writing about your own future | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.49 |

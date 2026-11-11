@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -150,10 +150,10 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 20 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
+**Acceptance count: taught in 21 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
 China, Iran, Indonesia, Mauritania, Mexico, India,
 Greece, Mongolia, Nicaragua, North Macedonia, Pakistan,
-Sierra Leone, South Sudan, Sudan, Venezuela).** North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -315,3 +315,31 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Healthy habits — the habits list of the Grade 11 health lesson | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 20, student printed pp.160–167 (guide plan printed p.123) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 3 — Grade 9 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Course for Yemen*, Pupil's Book 6 — Grade 12 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| People who need help — four illustrated texts, with discussion (Unit 6) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.48 |
+| Health posters — prevention, hygiene, smoking and diet slogans (“Take my advice!”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.45 |
+| A balanced diet — proteins, fats, carbohydrates, vitamins; “Eat less salt / fewer eggs; don't eat too much bread / too many sweets” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.46 |
+| How fit are you? — three fitness-test exercises with instructions | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.47 |
+| Smoking: the facts — posters and a radio interview with a doctor about stopping smoking | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed pp.48–49 |
+| A day in the life of a London doctor — surgery, house calls and phone advice dialogues (“What's the matter with you? I've got a pain in my stomach; you must take your medicine”) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.52 |
+| The casualty unit — hospital emergency dialogues and treatment words (bandage, sling, X-ray, stitch, safety pin) | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed p.53 |
+| The human skeleton word set — rib, skull, vertebra, joints (Science reader 2) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.59 |
+| An athlete's training — the health side (Science reader 3) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.60 |
+| Tobacco — smoking shortens life (Science reader 4) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.61 |
+| Malaria — cause, carrier, history, future (Science reader 9) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.66 |
+| A surgeon's life story — the health strand of the Libyan health-care article | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.47 |
+| Vaccinations — Jenner, Pasteur, AIDS vaccine research (Science reader 6) | Yemen — *English Course for Yemen*, Pupil's Book 6 (Grade 12), printed p.70 |

@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen
 
 Every part traces to its book and page.
 
@@ -89,9 +89,9 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 16 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
+**Acceptance count: taught in 17 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
 Mauritania, Mongolia, Nicaragua, Pakistan, Palestine,
-Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela).** Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -219,3 +219,22 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | can for polite requests — 'Can I go to the library?' — the Grade 10 return to the form | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 23, student printed pp.184–191 (guide plan printed p.146) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Course for Yemen*, Pupil's Book 2 — Grade 8 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Course for Yemen*, Pupil's Book 4 — Grade 10 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Course for Yemen*, Pupil's Book 5 — Grade 11 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Requests with some — “Can I have some water, please?” (with the offers of the same spread) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.24 |
+| Offers of help asked politely — “Can I help you?” with reach/carry/push/hold | Yemen — *English Course for Yemen*, Pupil's Book 2 (Grade 8), printed pp.30–32 |
+| Polite requests on board a plane — “Would you mind closing the blind? May I have an apple juice, please?” | Yemen — *English Course for Yemen*, Pupil's Book 4 (Grade 10), printed pp.10–12 |
+| Being polite — rude vs polite versions of an airport interview (“Excuse me; I'm afraid I can't read…; Can you spell that, please?; I'm sorry, sir, but…; What's the reason for your visit?”) | Yemen — *English Course for Yemen*, Pupil's Book 5 (Grade 11), printed p.9 |

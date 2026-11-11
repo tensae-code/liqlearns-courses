@@ -1,6 +1,6 @@
 # Sources — There Is and There Are
 
-countries: Bolivia, Nicaragua
+countries: Bolivia, Nicaragua, Yemen
 
 Every part traces to its book and page.
 
@@ -30,10 +30,20 @@ Every part traces to its book and page.
 | Describing where you live — there is/are with prepositions of place | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed p.9 |
 | There is / there are (review) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4A |
 
-**Acceptance count: taught in 2 country (Bolivia, Nicaragua).**
+**Acceptance count: taught in 3 countries (Bolivia, Nicaragua, Yemen).** Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found there is/are taught in four places with no full lesson of their own (the course's Introductory There, from Bangladesh, covers only the introductory use). Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the full system. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
 Searchable tag: the books' own name for this part is “there is / there are” (Secundaria 1 and 2; compendium Years 1–2).
 
 Nicaragua joins with the Multigrado book's named "Grammar Check" (There is/are, printed p.44; "How many… are there?", p.45), Activity Book 3's set with error-spotting (printed pp.45–47), the Grade 8 book's describing-where-you-live lesson (Lesson 3, printed p.9), and the Grade 10 module's review (Unit 4A) (stocked 2026-11-11 by the re-verification sweep merge).
+
+## Yemen added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English books page by page (377 teaching items placed; 187 already in the course, 190 missing, 8 claims flagged). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/yemen-placements.md). Book N = Grade N+6 throughout the series.
+
+**Book 1:** *English Course for Yemen*, Pupil's Book 1 — Grade 7 — Yemen, Ministry of Education (the Crescent English Course family; prepared by Terry O'Neill and Peter Snow through Garnet Publishing). Filed in english/books/yemen.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| There is / There are with place prepositions — “There is a boy in front of the Post Office” (reading text “This is my room”, and the Language summary) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.47 (and Language summary, printed p.52) |

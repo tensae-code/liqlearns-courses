@@ -162,7 +162,10 @@ its own subtitle folder with its own lesson + questions):
   history-and-independence-words ·
   state-and-constitution-words (added 2026-11-11 by the
   Venezuela re-verification sweep merge — **Unit 7, Words
-  for the World**)
+  for the World**) ·
+  law-and-crime-words (added 2026-11-11 by the Yemen
+  re-verification sweep merge — **Unit 7, Words for the
+  World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
