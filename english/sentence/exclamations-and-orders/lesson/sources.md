@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador
 Every part traces to its book and page.
 
 **Book 1:** English Primary 3, Term 2 — Egypt, Ministry
@@ -135,7 +135,7 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 27 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 28 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ecuador).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -508,3 +508,18 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Negative orders with reasons: “Don't get on the bus — it's moving”; “Don't eat it — it's stale” | Nepal, *My English Book Grade 4* (Grade 4), printed p.7 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English — Superior Sublevel: Student Text for Curricular Transition* (one book issued under Grade 9 and 10 covers; read and cited once, from the Grade 9 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-41-5. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom commands: sit down, stand up, clap your hands, open/close the door/window, look at, pay attention, raise your hand, put your hands up (the worksheet's own divider misprints its title “CLASSROOM COMANDS” — taught corrected) | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 2, printed p.14 |
+| Following classroom instructions: a teacher–students conversation about class rules, completed as a listening cloze | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 2, printed p.12 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.

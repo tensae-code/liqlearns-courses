@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen, Nepal
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 5 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -71,3 +71,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Expressing preferences (prefer, would rather) — the same unit's model CV (printed p.128) is stocked in cv-and-cover-letter, as the sweep verified | Nepal, *English Grade 10* (Grade 10), Unit 11, printed p.119 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes with activity verbs: “I like ice-skating / skateboarding / swimming” | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 6, printed p.100 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.

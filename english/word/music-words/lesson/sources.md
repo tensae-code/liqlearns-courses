@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -9,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the Grade 8 book's music unit — genres and instruments as one word set — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 8 (Secundaria 2) student book named above.
 
@@ -81,3 +81,15 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Music words; describing and contrasting trends — “The new look of music” (project) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 7, printed p.83 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Musical instruments (piano, violin, guitar, drums, recorder, triangle, hand bell, kazoo, tambourine, cymbals, xylophone, harmonica) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 4, printed p.62 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.

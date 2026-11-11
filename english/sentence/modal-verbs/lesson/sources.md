@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 8 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the obligation modals compared as a family in two places — the Grade 11 student book's SHOULD/MUST unit and the compendium's starred Year 5 comparison — while the course taught them only scattered inside other lessons. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the comparison itself. The compendium's comparison is carried in its own wording, including its statement that have to is “not a modal verb”, so the claim is checkable against the cited page. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -159,3 +159,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Grammar: modal verbs (the family unit) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.9 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Superior Sublevel: Student Text for Curricular Transition* (one book issued under Grade 9 and 10 covers; read and cited once, from the Grade 9 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-41-5. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modal verbs for rules and norms: should, must, have to, need to, can and ought to for necessity, obligation and permission, with rule examples (the same point is also stocked in obligation-must-have-to-need-to-ought-to-shall) | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 2, printed p.15 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.

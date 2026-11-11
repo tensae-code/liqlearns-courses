@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Colour-and-shape phrases — a white star, a red heart, a blue triangle, a green square, a pink circle — with "What colour is your triangle? — Pink!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 1, pupil printed p.12 |
 | Shapes in the real world, adding the rectangle to the shape set — "Shapes in our world! What colour is your triangle?" (Activity Book "Going for CLIL" 2, Maths; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 2 key and instructions, Teacher's Book pp.125(T)–126(T) |
 
-**Acceptance count: taught in 4 countries (Bolivia, North Macedonia, South Africa, Laos).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the shapes taught in the Grade 2 student book with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 2 (Primaria 2) student book named above.
 
@@ -57,3 +57,17 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Naming shapes seen in a painting (the colour half of the point is stocked in colours) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.33 |
+| Shapes: circle, rectangle, triangle, square, star, diamond, heart, and “What shape is it?” (Learn more, Units 3–4) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, printed p.70 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.

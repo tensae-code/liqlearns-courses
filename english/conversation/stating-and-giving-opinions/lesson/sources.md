@@ -1,6 +1,6 @@
 # Sources — Stating and Giving Opinions
 
-countries: Indonesia, Mauritania, Nepal
+countries: Indonesia, Mauritania, Nepal, Ecuador
 
 Every part traces to its book and page.
 
@@ -36,7 +36,7 @@ covers the 6th Year book only).
 | Asking for and giving opinions: in my opinion, according to…, how do you feel about…? | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Asking for and giving opinions: what do you think about…, what's your opinion, how do you feel about…; in my opinion/view, as far as I'm concerned, it seems to me… | Mauritania, Study English, Grade 13, printed pp.14–16 |
 
-**Acceptance count: taught in 3 countries (Indonesia, Mauritania, Nepal).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
+**Acceptance count: taught in 4 countries (Indonesia, Mauritania, Nepal, Ecuador).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
 Mauritania asks for and gives opinions in Grade 11 and again,
 with the full frame set, in Grade 13 (stocked 2026-11-09 by
 the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
@@ -56,3 +56,15 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Speaking: giving opinion and asking for opinion (the road accidents unit) | Nepal, *English Grade 8* (Grade 8), printed p.226 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Superior Sublevel: Student Text for Curricular Transition* (one book issued under Grade 9 and 10 covers; read and cited once, from the Grade 9 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-41-5. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Social norms: judging statements about norms true/false, correcting the false ones, and sharing opinions and personal experiences of following or challenging norms | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 2, printed pp.13–15 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.

@@ -2249,3 +2249,41 @@ page by page from its text layer, with the cover, title page, imprint,
 introduction, printed p.43 and back cover also read as rendered pages.
 **Tanzania: 1 of 1 in-hand books re-read.** The English course now
 stands at **267 lessons across 44 units**.
+
+**Stocked by Ecuador (2026-11-11, the re-verification sweep merge):** the
+2026-11-08 re-verification sweep re-read Ecuador's English set from the
+files: 9 files verified in hand, holding 6 distinct books — the Grade 1
+Preparatory and Grade 2 Elementary transition texts, *Starship English*
+Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file),
+each with its Activity Book bound in, and two sublevel transition texts
+each issued under several grade covers (Medium under Grades 5, 6 and 7;
+Superior under Grades 9 and 10), counted once each. No Grade 8 English
+book exists in any record; no English teacher's guide is in hand; the
+BGU books sit outside the record. The sweep placed 120 teaching items
+fresh from the books: 67 were already in the course and 53 were missing.
+52 of the 53 are stocked here — 58 provenance rows into 41 lessons (five
+items dual-homed where the placements name two lessons: the Grade 2
+traditional-clothing worksheet, the Grade 2 classmate-writing point, the
+Grade 2 painting colours/shapes point, the Grade 4 Unit 6 phonics block,
+and the Superior modals-for-rules point; plus one row beyond the 53 —
+the Superior global-warming text stocked in nature-and-the-environment,
+the home its placements name, the sweep having counted that text in
+course only through its extreme-weather effects list in
+weather-and-seasons). One item is deliberately NOT stocked: the Grade 1
+book's "How old are you?" (printed p.22) — the book answers it with
+"I'm fine" and never gives an age (printed p.23), a defect in the book;
+how-old-are-you's existing refusal to cite the Grade 1 book stands
+verified by the sweep. Flag 1 (the sweep's only Ecuador flag) is FIXED:
+the blends lesson's "whole phonics strand" claim is corrected in place
+and the A1.1 Units 5–6 phonics are stocked (blends and silent-letters).
+Book errors are carried taught-corrected where rows touch them: the
+Grade 1 worksheet divider "CLASSROOM COMANDS" (printed p.14), the
+Grade 2 Letter U spread repeating the "Letter A" sub-heading and its
+"baloon" caption (the Medium book's KNOWLEDGE filed under silent 'B'
+already stands corrected in silent-letters; the Superior Worksheet 6
+objectives' promised "th" sound is taught nowhere in that book —
+verified, and the stress-and-intonation note stands). Ecuador is newly
+counted in 27 lessons and completes its stock in 14 more. No new
+lessons were built — every missing item targeted an existing lesson.
+**Ecuador: 6 of 6 distinct in-hand books re-read (9 files).** The
+English course now stands at **267 lessons across 44 units**.

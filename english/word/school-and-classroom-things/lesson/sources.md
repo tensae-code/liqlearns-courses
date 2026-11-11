@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal
+countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador
 
 Every part traces to its book and page.
 
@@ -38,7 +38,7 @@ Every part traces to its book and page.
 | The school things word set — a schoolbag, a sharpener, a pen, a ruler, a book, a rubber, a pencil case, a pencil — with "What's this? — It's a pen!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
 | Project frame "In my schoolbag there is …", listing a pen, a book, a pencil case | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 6, pupil printed p.25 |
 
-**Acceptance count: taught in 12 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal, Ecuador).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -166,3 +166,18 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | this/these, that/those: “This is a nail / These are nails” | Nepal, *My English Book Grade 1* (Grade 1), printed p.25 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Ecuador added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Ecuador's English set from the files: 9 files verified in hand, holding 6 distinct books — the Grade 1 Preparatory and Grade 2 Elementary transition texts, *Starship English* Level Pre A1.2 (Grade 3 file) and Level A1.1 Children (Grade 4 file) with their Activity Books bound in, and two sublevel transition texts each issued under several grade covers (Medium under Grades 5, 6 and 7; Superior under Grades 9 and 10), counted once each. No Grade 8 English book exists in any record, no English teacher's guide is in hand, and the BGU books sit outside the record. The sweep placed 120 teaching items fresh from the books: 67 were already in the course and 53 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md). Method: all six books were read page by page from their full text layers; the Grade 1 book is picture-led, so its word sets come from the labelled picture spreads themselves. Stories and readings are stocked as plot summaries only. Ecuador is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom vocabulary: classroom objects and people (desk, chair, board, marker, chalk, notebook, book, pencil, eraser, sharpener, window, door, wall, teacher, boy, girl) and the action words sit/stand/clap/hands/up/down | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), printed p.6 |
+| Places in a school (office, gym, library, lunch room, art/music/science/computer rooms, washroom, classroom) and locating them by floor: “Where's the art room? It's on the third floor” | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.10 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
