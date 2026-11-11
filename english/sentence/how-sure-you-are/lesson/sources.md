@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia, Uruguay
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia, Uruguay, Liechtenstein
 
 Every part traces to its book and page.
 
@@ -140,7 +140,7 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 28 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with may/might for possibility (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 29 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia, Uruguay, Liechtenstein).** Liechtenstein joins with the “What is it?” ambiguous-picture work of its LinGo 4.5 handouts (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with may/might for possibility (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -513,3 +513,16 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Liechtenstein added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the PDFs: **16 files = 16 distinct books**, all of them Liechtenstein's OWN domestic books published by Liechtenstein Languages (LieLa) — *A Good Start!* for Grade 1 (1 student booklet + 1 teacher's handbook) and *LinGo 4* units 4.0–4.5 for Grade 4 (14 teacher volumes: handbooks, handouts and descriptions). No Swiss book is in the set: Liechtenstein's secondary borrowing of Swiss series is documented on paper (153 borrowed rows) with file coverage 0 of 153, and no *Open World*, *New Inspiration* or *Young World* file exists in any record (flags F1–F3) — this read serves Liechtenstein only and must not be credited to Switzerland. Every file was verified before reading: byte size and SHA-256 exactly equal to the staging record, pdfinfo page count equal, cover/title page identified from the PDF itself (GitHub release mid-size-books-6 assets; the student booklet came from the record's own source on 21.liela.li). 113 teaching items were placed fresh from the books; Liechtenstein had no presence in the course before, so all 113 were missing. Evidence kinds are labelled as what they are: the one student booklet is the pupil's own book; the handbooks and handouts print the pupil-facing materials themselves (card lists, picture dictionaries, handouts, posters, board games), so rows resting on them rest on the materials pupils learn from, held in teacher volumes; the five Descriptions volumes are teacher procedure, and the few rows resting on them say so. Read depth, as the placements declare it: full page-by-page reads of the student booklet (from rendered pages — it is image-only), the Grade 1 handbook, and the LinGo handbooks, handouts and floormap volume; the five Descriptions volumes at declared structural depth (contents and section structure in full, representative sections in full, and every section promising language not printed in the handbooks read in full — the source of the rows credited to them). The set's own gaps are confirmed in every record: unit 4.4 has a Handbook only (no Descriptions, no Handouts volume) and unit 4.1 has no Handouts volume. The placements' named exclusions (access apparatus and digital-access/QR pages, the Descriptions' remaining delivery procedures, printed answer keys, the story BOOKS behind the picture dictionaries — only their blurbs are in hand, flag F4 — blank drawing frames, sheet-music pages) stand as declared and are stocked nowhere. Stories are stocked as plot summaries of the printed blurbs only. The rows below are this lesson's share, stocked from the expansion placements.
+
+*LinGo 4.5 Are We There Yet?* — Handouts (Grade 4) (handouts volume) — Liechtenstein, Liechtenstein Languages (LieLa). Cited by PDF page with the handout codes. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “What is it?” — saying what an ambiguous picture could be (optical-illusion jokes: a cyclist wearing a big hat, a car from underneath, a train going through a tunnel, a ship arriving too late to save a witch) | Liechtenstein, LinGo 4.5 *Are We There Yet?* Handouts, handout HO8 (Handouts PDF pp.12–13) |
+
+Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.

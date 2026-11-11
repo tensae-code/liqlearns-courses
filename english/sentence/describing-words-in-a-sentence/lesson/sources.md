@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana, Nicaragua, Libya, Barbados, Fiji, Sri Lanka
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana, Nicaragua, Libya, Barbados, Fiji, Sri Lanka, Liechtenstein
 
 Every part traces to its book and page.
 
@@ -285,9 +285,9 @@ re-verification sweep.
 | Similes opened out as a system: "as cold as ice" explained, then as white as snow, as slow as a tortoise, as sweet as honey — and learners coin their own | India — Marigold Book Five (Class 5), Unit 7 language work |
 | Descriptive Writing | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 4 (Writing), standard B3.4.10.1, PDF p.116 (curriculum evidence) |
 | Descriptive Writing — Use descriptive Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.12.1, PDF p.157 (curriculum evidence) |
-**Acceptance count: taught in 37 countries (Bangladesh,
+**Acceptance count: taught in 38 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Nicaragua, Libya, Fiji).** Libya joins with “I have a green …” — have + colour adjective (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Nicaragua, Libya, Fiji, Liechtenstein).** Liechtenstein joins with the sense sentences and the shape-picture descriptions of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). Libya joins with “I have a green …” — have + colour adjective (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -622,3 +622,20 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Liechtenstein added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the PDFs: **16 files = 16 distinct books**, all of them Liechtenstein's OWN domestic books published by Liechtenstein Languages (LieLa) — *A Good Start!* for Grade 1 (1 student booklet + 1 teacher's handbook) and *LinGo 4* units 4.0–4.5 for Grade 4 (14 teacher volumes: handbooks, handouts and descriptions). No Swiss book is in the set: Liechtenstein's secondary borrowing of Swiss series is documented on paper (153 borrowed rows) with file coverage 0 of 153, and no *Open World*, *New Inspiration* or *Young World* file exists in any record (flags F1–F3) — this read serves Liechtenstein only and must not be credited to Switzerland. Every file was verified before reading: byte size and SHA-256 exactly equal to the staging record, pdfinfo page count equal, cover/title page identified from the PDF itself (GitHub release mid-size-books-6 assets; the student booklet came from the record's own source on 21.liela.li). 113 teaching items were placed fresh from the books; Liechtenstein had no presence in the course before, so all 113 were missing. Evidence kinds are labelled as what they are: the one student booklet is the pupil's own book; the handbooks and handouts print the pupil-facing materials themselves (card lists, picture dictionaries, handouts, posters, board games), so rows resting on them rest on the materials pupils learn from, held in teacher volumes; the five Descriptions volumes are teacher procedure, and the few rows resting on them say so. Read depth, as the placements declare it: full page-by-page reads of the student booklet (from rendered pages — it is image-only), the Grade 1 handbook, and the LinGo handbooks, handouts and floormap volume; the five Descriptions volumes at declared structural depth (contents and section structure in full, representative sections in full, and every section promising language not printed in the handbooks read in full — the source of the rows credited to them). The set's own gaps are confirmed in every record: unit 4.4 has a Handbook only (no Descriptions, no Handouts volume) and unit 4.1 has no Handouts volume. The placements' named exclusions (access apparatus and digital-access/QR pages, the Descriptions' remaining delivery procedures, printed answer keys, the story BOOKS behind the picture dictionaries — only their blurbs are in hand, flag F4 — blank drawing frames, sheet-music pages) stand as declared and are stocked nowhere. Stories are stocked as plot summaries of the printed blurbs only. The rows below are this lesson's share, stocked from the expansion placements.
+
+*LinGo 4.1 Five Sensational Senses* — Teacher's Handbook (Grade 4) (teacher's handbook) — Liechtenstein, Liechtenstein Languages (LieLa). Prints the pupil-facing materials (card lists, picture dictionaries, handouts, posters). Cited by PDF page with the book's own codes. Read in the 2026-11-10 expansion read.
+
+*LinGo 4.3 A World of Colour* — Teacher's Handbook (Grade 4) (teacher's handbook) — Liechtenstein, Liechtenstein Languages (LieLa). Prints the pupil-facing materials (card lists, picture dictionaries, handouts, posters, board game). Cited by PDF page with the book's own codes. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sense sentences with adjective + noun (dominoes): “I taste aromatic Thai green curry”, “I smell bad black smoke”, “I see a colourful rainbow”, “I hear loud music”, “I feel a sticky toffee apple”, “I see low hills / high mountains” | Liechtenstein, LinGo 4.1 *Five Sensational Senses* Teacher's Handbook, picture dictionary PD5 (Handbook PDF pp.4, 17–18) |
+| Describing a thing by all five senses to guess it: “It looks …, it smells …, it sounds …, it feels …, it tastes …” (worked example: a dandelion — the frame is placed, not the text) | Liechtenstein, LinGo 4.1 *Five Sensational Senses* Teacher's Handbook, handouts HO14, HO11–HO13 (Handbook PDF pp.38–41) |
+| Describing shape pictures in words: draw a shape picture and tell your partner about it; colour shapes to match a describing word (a warm orange triangle; cold, dark, dull, light, bright, multi-coloured); design a flag from shapes and show a partner | Liechtenstein, LinGo 4.3 *A World of Colour* Teacher's Handbook, handouts HO8–HO10 (Handbook PDF pp.33–35) |
+
+Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.

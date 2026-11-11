@@ -107,7 +107,9 @@ its own subtitle folder with its own lesson + questions):
   friendships-and-relationships (added 2026-11-11 by the
   Tunisia expansion merge — **Unit 5, Conversation**) ·
   group-discussion-skills (added 2026-11-11 by the
-  Samoa expansion merge — **Unit 5, Conversation**)
+  Samoa expansion merge — **Unit 5, Conversation**) ·
+  travel-dialogues (added 2026-11-11 by the Liechtenstein
+  expansion merge — **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -218,6 +220,9 @@ its own subtitle folder with its own lesson + questions):
   **Unit 7, Words for the World**) ·
   life-stages (added 2026-11-11 by the Suriname
   expansion merge — **Unit 7, Words for the World**) ·
+  famous-paintings-and-artists · optical-illusions
+  (added 2026-11-11 by the Liechtenstein expansion
+  merge — **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -230,6 +235,9 @@ its own subtitle folder with its own lesson + questions):
   Sentence**) ·
   have-and-has (added 2026-11-11 by the Nicaragua
   re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
+  have-and-has-for-parts (added 2026-11-11 by the
+  Liechtenstein expansion merge — **Unit 10, Building a
   Sentence**) ·
   the-colon (added 2026-11-11 by the Barbados
   re-verification sweep merge — **Unit 10, Building a

@@ -1,6 +1,6 @@
 # Sources — Prepositions of Movement
 
-countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa
+countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions of movement and place — around, into, out of, through | Albania, Akelius A2 Guide, Chapter 38 "Nature," grammar focus, printed p.48 (PDF 51) |
 | The movement words at work in the chapter's own example: "walking through the forest" | Albania, Chapter 38, printed p.48 (PDF 51) |
 
-**Acceptance count: taught in 7 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa).** Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein).** Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -139,3 +139,17 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Liechtenstein added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the PDFs: **16 files = 16 distinct books**, all of them Liechtenstein's OWN domestic books published by Liechtenstein Languages (LieLa) — *A Good Start!* for Grade 1 (1 student booklet + 1 teacher's handbook) and *LinGo 4* units 4.0–4.5 for Grade 4 (14 teacher volumes: handbooks, handouts and descriptions). No Swiss book is in the set: Liechtenstein's secondary borrowing of Swiss series is documented on paper (153 borrowed rows) with file coverage 0 of 153, and no *Open World*, *New Inspiration* or *Young World* file exists in any record (flags F1–F3) — this read serves Liechtenstein only and must not be credited to Switzerland. Every file was verified before reading: byte size and SHA-256 exactly equal to the staging record, pdfinfo page count equal, cover/title page identified from the PDF itself (GitHub release mid-size-books-6 assets; the student booklet came from the record's own source on 21.liela.li). 113 teaching items were placed fresh from the books; Liechtenstein had no presence in the course before, so all 113 were missing. Evidence kinds are labelled as what they are: the one student booklet is the pupil's own book; the handbooks and handouts print the pupil-facing materials themselves (card lists, picture dictionaries, handouts, posters, board games), so rows resting on them rest on the materials pupils learn from, held in teacher volumes; the five Descriptions volumes are teacher procedure, and the few rows resting on them say so. Read depth, as the placements declare it: full page-by-page reads of the student booklet (from rendered pages — it is image-only), the Grade 1 handbook, and the LinGo handbooks, handouts and floormap volume; the five Descriptions volumes at declared structural depth (contents and section structure in full, representative sections in full, and every section promising language not printed in the handbooks read in full — the source of the rows credited to them). The set's own gaps are confirmed in every record: unit 4.4 has a Handbook only (no Descriptions, no Handouts volume) and unit 4.1 has no Handouts volume. The placements' named exclusions (access apparatus and digital-access/QR pages, the Descriptions' remaining delivery procedures, printed answer keys, the story BOOKS behind the picture dictionaries — only their blurbs are in hand, flag F4 — blank drawing frames, sheet-music pages) stand as declared and are stocked nowhere. Stories are stocked as plot summaries of the printed blurbs only. The rows below are this lesson's share, stocked from the expansion placements.
+
+*LinGo 4.5 Are We There Yet?* — Teacher's Handbook (Grade 4) (teacher's handbook) — Liechtenstein, Liechtenstein Languages (LieLa). Prints the pupil-facing materials (card lists, picture dictionaries, posters). Cited by PDF page with the book's own codes. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Movement prepositions set 1, each in a travel sentence: along, by, down, on, over, past, up, to, in (“I like to walk along the river”, “The balloon ride takes you over the Alps”, “He walks past the church on his way to school”) | Liechtenstein, LinGo 4.5 *Are We There Yet?* Teacher's Handbook, card list C6 + picture dictionary PD6 + poster P2 mountain diagram (Handbook PDF pp.3, 17, 31) |
+| Position and movement prepositions set 2: across, around, behind, between, in front of, inside, next to, outside, through, under | Liechtenstein, LinGo 4.5 *Are We There Yet?* Teacher's Handbook, picture dictionary PD11 (Handbook PDF p.4) |
+
+Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
