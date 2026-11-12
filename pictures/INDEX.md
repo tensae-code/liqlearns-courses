@@ -5732,3 +5732,21 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 24706 | pictures/24706.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — long-run-equilibrium-why-profits-are-competed-away |
 | 24707 | pictures/24707.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — measuring-gdp-value-added-at-every-stage |
 | 24708 | pictures/24708.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — the-circular-flow-of-income |
+| 32100 | Seven-unit course map, strands colour-coded (shape item) | science/science-skills/what-science-is |
+| 32101 | Sealed cube, hidden bottom face — evidence and inference | science/science-skills/what-science-is |
+| 32102 | Branching diagram: life, physical and earth science, with border subjects | science/science-skills/the-branches-of-science |
+| 32103 | Two malaria routes: clinic vs elder — two kinds of knowledge | science/science-skills/two-kinds-of-knowledge |
+| 32104 | Science and technology contrast chart with bulb timeline | science/science-skills/science-and-technology |
+| 32105 | Six Ethiopian scientists panel, one-line contribution each | science/science-skills/doing-science-honestly |
+| 32106 | Seven fundamental quantities as tiles (Grade 7 growth) | science/science-skills/units-of-mass-length-and-time |
+| 32107 | Prefix staircase femto to peta, kilo highlighted | science/science-skills/scalars-vectors-and-prefixes |
+| 32108 | Hand span vs ruler on the same book (Grade 7 growth) | science/science-skills/measuring-traditional-and-modern-measures |
+| 32109 | Beam balance, unknown vs 1 kg standard (Grade 7 growth) | science/science-skills/making-and-using-a-balance |
+| 32110 | GIF: a beam tipping then settling level as weights are added | science/science-skills/making-and-using-a-balance |
+| 32111 | Stick sundial with hourly marks | science/science-skills/measuring-time-from-shadows-to-clocks |
+| 32112 | GIF: a shadow sweeping across the sundial marks in order | science/science-skills/measuring-time-from-shadows-to-clocks |
+| 32113 | Four groups' boiling readings vs the 100 °C line — accuracy and precision | science/science-skills/accuracy-and-precision |
+| 32114 | Ten laboratory safety rules as callout cards | science/science-skills/laboratory-safety-the-ten-rules |
+| 32115 | Ten hazard signs grid with meanings | science/science-skills/hazard-signs-and-protective-equipment |
+| 32116 | Thirteen laboratory tools labelled panel | science/science-skills/laboratory-equipment-names-uses-and-making-your-own |
+| 32117 | Model laboratory report page, seven headings | science/science-skills/writing-a-laboratory-report |

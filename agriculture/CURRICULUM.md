@@ -44,7 +44,7 @@ ethiopia-2026-11-11/build-logs/.
   Grade 12 Syllabus lessons in Farm Business and Technology.
   The guide's unit pedagogy summaries fold into the student
   lessons' sources as labelled evidence rows. Pictures/GIFs
-  in 26600–26799 (drawn, looked at / frame-checked).
+  pictures 26600–26691 and GIFs 26692–26702 (drawn PIL, all looked at / frame-checked).
 - **Band C — Grade 11 Units 9–12** (29 lessons, 348 questions):
   the dairy unit in Livestock (11 — breeds, feeding, the
   lactation cycle, milk hygiene, cottage cheese and ghee, the

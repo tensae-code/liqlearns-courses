@@ -13,6 +13,16 @@ Now the experiment that teaches mass. Take **two bottles of the same kind**: fil
 
 [GIF 13407 — the balance tipping as the heavier bottle side goes down]
 
+## Grade 7 growth — measuring mass: balances traditional and scientific
+
+Grade 7 names what the home-made balance does. **Mass is the amount of matter in a body**, measured in **kilograms** — with **grams, milligrams, quintals and tons** for smaller and larger scales. Ethiopia's traditional measures stand beside the scientific ones: the **kuna** and the **tassa**, and the **beam balance** itself. The scientific beam balance works exactly as the tin balance built earlier in this lesson: the **unknown mass against known standard masses, added until the beam levels** — the level beam is the reading, and the total of the standards is the mass.
+
+[Picture 32109 — the beam balance: unknown against a 1 kg standard]
+
+[GIF 32110 — the beam tipping, then settling level as weights are added]
+
+The class work: **estimate first, then measure** — a textbook, a chalk stick, a duster — estimates written before the balance speaks. And the closing puzzle, left honestly open: how would you weigh a **single grain**, or a **single teff seed**? Too light for the beam alone — the puzzle is the doorway to finer instruments.
+
 ## Say it to your companion
 Walk your companion through the build — tins, string, beam, stand — then the bottle test: which side falls, and what that fall proves about mass.
 

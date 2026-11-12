@@ -33,6 +33,7 @@ Your own arm and feet; a stick for a shadow; a simple balance if the class has o
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13405] — a picture of the old measures in four panels — arm-measures, footsteps, the shadow clock and the balance — the student names which quantity each one measures
+- IMAGE [Picture 32108] — a hand-span measure and a ruler measuring the same book, results differing vs agreeing → the student says which result a stranger could trust, and why
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

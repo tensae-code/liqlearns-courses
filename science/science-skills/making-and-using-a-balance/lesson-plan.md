@@ -35,6 +35,8 @@ Two shoe-polish tins, string, a straight piece of wood for the beam and a stand;
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13406] — a picture of the home-made balance — two shoe-polish tins on strings from a wooden beam — the student names every part and its job
 - GIF [GIF 13407] — a GIF of the balance tipping as the heavier, water-filled side goes down — the student says which side holds more matter, and why
+- IMAGE [Picture 32109] — a beam balance levelling with a 1 kg standard against an unknown object → the student says what the level beam announces
+- GIF [GIF 32110] — a GIF of a beam tipping then settling level as weights are added → the student says why the settling, not the tipping, is the reading
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

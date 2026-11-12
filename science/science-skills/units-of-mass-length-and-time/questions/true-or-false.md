@@ -11,3 +11,8 @@ Say if each one is true or false.
 **3. The span, cubit and step differ from person to person.**
 **Answer: True**
 
+**4. Velocity (m/s) is a fundamental quantity.**
+**Answer: False** — it is derived from length and time.
+
+**5. Amount of substance is measured in moles (mol).**
+**Answer: True**

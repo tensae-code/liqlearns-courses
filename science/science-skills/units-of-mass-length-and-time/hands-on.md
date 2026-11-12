@@ -8,3 +8,5 @@ Run the book's class activity in full: every pupil's mass and height measured an
 ## Unit ladders
 Draw the three ladders — g→kg, mm→cm→m→km, s→min→h→day — on one sheet, with the joining numbers on the rungs. Climb each ladder aloud.
 
+## The derivation bench (Grade 7 growth)
+Take a book: measure its length and width, derive its cover's area unit by unit (m × m = m²). Then a water bottle: mass and volume measured, density derived (kg/m³). Every derived number must show the fundamentals it was built from.

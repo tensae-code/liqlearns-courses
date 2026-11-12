@@ -10,3 +10,7 @@ Footsteps and shoe-lengths for the road.
 The **shadow** told the time. The cock crowed the dawn.
 The **balance** weighed mass.
 But my arm is not your arm — so modern instruments came, one measure for everyone.
+
+Grade 7 growth: the same book, two measures.
+A **span** says "about." A **ruler** says **24 centimetres** — for you, for me, for a stranger.
+Measurement is comparison against a **standard** that anyone can reproduce.

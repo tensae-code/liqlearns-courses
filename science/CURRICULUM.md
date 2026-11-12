@@ -92,6 +92,30 @@ book — guide material is syllabus-level teacher
 evidence only. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSD-science-g7-u4.md`.
 
+Band GS-A (Grade 7, Unit 1 — Basic Concepts of
+Science): 12 new lessons in Science Skills plus 3 grown
+lessons, 170 questions written (152 in new lessons, 18
+added by growths), 18 media filed (pictures/GIFs
+32100–32117) — what science is (with the course-shape
+map), the branches of science, two kinds of knowledge,
+science and technology, doing science honestly, the
+measuring lessons grown (quantities and units, length,
+mass by balance), scalars/vectors/prefixes, measuring
+time with a sundial build, accuracy and precision,
+laboratory safety and hazard signs, laboratory
+equipment, and one guide-only lesson (writing a
+laboratory report — the seven-part report, teacher
+evidence only, acceptance 0; the Grade 9 Chemistry
+namesake is named as its deeper partner, not edited).
+Student items 7–12 stand on the STUDENT BOOK ALONE —
+the guide has no measurement section — and their
+sources say so. Pairing carried exactly: the Grade 7
+guide is an Addis Ababa bureau book, NOT
+edition-matched to the Amhara student book — guide
+material is syllabus-level teacher evidence only.
+Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSA-science-g7-u1.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -319,6 +343,18 @@ evidence only. Build log:
 7. **Measuring: temperature, thermometers and the Celsius scale** (`science-skills/temperature-thermometers-and-the-celsius-scale`) — temperature is the measure of a body's hotness or coldness and it decides the body's state; it is measured with a thermometer; the world unit is th…
 8. **Measuring: units of mass, length and time** (`science-skills/units-of-mass-length-and-time`) — the standard units join by fixed relations — 1 kg = 1000 g; 1 m = 100 cm = 1000 mm; 1 km = 1000 m; 1 day = 24 hours, 1 hour = 60 minutes, 1 minute …
 9. **Measuring: volume and displacement** (`science-skills/volume-and-displacement`) — volume (ይዘት/ምድገት) — how much space a body takes — is measured by displacement: lower the body into water and read how far the level rises in a grad…
+10. **What science is — evidence, inference and tentative knowledge** (`science-skills/what-science-is`) — science is knowledge built on evidence: we observe, we infer, we hold what we know as tentative — ready to change when better evidence comes (Grade 7 General Science)
+11. **The branches of science** (`science-skills/the-branches-of-science`) — science splits into branches by what it studies: life, physical and earth science — and above them, natural science studies nature while social science studies people (Grade 7 General Science)
+12. **Two kinds of knowledge — conventional science and indigenous knowledge** (`science-skills/two-kinds-of-knowledge`) — conventional knowledge — tentative, evidence-tested, written down — and indigenous knowledge — built by experience over generations and woven into a culture (Grade 7 General Science)
+13. **Science and technology — how they differ and feed each other** (`science-skills/science-and-technology`) — science explores and discovers; technology applies knowledge and invents — each feeds the other, and technology can help or harm (Grade 7 General Science)
+14. **Doing science honestly — ethics and Ethiopian scientists** (`science-skills/doing-science-honestly`) — science has an ethics — honesty in reporting, care in analysis, credit where due — and Ethiopia's own scientists show that ethics at work (Grade 7 General Science)
+15. **Measurement — scalars, vectors and prefixes** (`science-skills/scalars-vectors-and-prefixes`) — some quantities need only a size (scalars), others need size and direction (vectors) — and SI prefixes shrink or stretch units by powers of ten, from femto to peta (Grade 7 General Science)
+16. **Measuring time — from shadows to clocks** (`science-skills/measuring-time-from-shadows-to-clocks`) — time was first read from the sun — shadows, the sun's position, birdsong at dawn — and clocks made it exact; building a sundial joins the two (Grade 7 General Science)
+17. **Measurement — accuracy and precision** (`science-skills/accuracy-and-precision`) — accuracy is closeness to the true value; precision is closeness of repeated readings to each other — and readings can be precise yet inaccurate (Grade 7 General Science)
+18. **Laboratory safety — the ten rules** (`science-skills/laboratory-safety-the-ten-rules`) — laboratories hold hazardous, poisonous, flammable and explosive materials, and most accidents come from carelessness, impatience and unauthorised experiments — the ten rules are the guard (Grade 7 General Science)
+19. **Laboratory safety — hazard signs and protective equipment** (`science-skills/hazard-signs-and-protective-equipment`) — ten hazard signs warn by sight — corrosive, flammable, toxic and the rest — and protective equipment reduces harm without removing the hazard (Grade 7 General Science)
+20. **Laboratory equipment — names, uses, and making your own** (`science-skills/laboratory-equipment-names-uses-and-making-your-own`) — thirteen common tools, each with its job — and when the school has no kit, the same tools are made from local materials (Grade 7 General Science)
+21. **Writing a laboratory report** (`science-skills/writing-a-laboratory-report`) — an experiment is written up in seven parts — Title, Aim, Theory, Materials, Data/Observation, Result and Discussion, Conclusion — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
 
 ## Unit 16 — Biology
 

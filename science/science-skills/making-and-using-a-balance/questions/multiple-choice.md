@@ -22,3 +22,18 @@ a) different sizes  b) the same kind and size  c) both full of water
 a) size  b) colour  c) the amount of matter
 **Answer: c) the amount of matter**
 
+**6. The beam balance finds an unknown mass by —**
+a) guessing  b) adding known standards until the beam levels  c) counting swings
+**Answer: b) adding known standards until the beam levels**
+
+**7. Kuna and tassa are —**
+a) SI units  b) traditional Ethiopian measures of mass  c) kinds of beam
+**Answer: b) traditional Ethiopian measures of mass**
+
+**8. In the class work, pupils first — and then measure.**
+a) estimate  b) copy  c) decorate
+**Answer: a) estimate**
+
+**9. For very large masses the lesson's scale reaches the —**
+a) milligram  b) quintal and ton  c) millimetre
+**Answer: b) quintal and ton**

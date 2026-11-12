@@ -22,3 +22,18 @@ a) they are slow  b) they differ from person to person  c) they are old
 a) the size of a body  b) the amount of particles (matter) in a body  c) the colour of a body
 **Answer: b) the amount of particles (matter) in a body**
 
+**6. Measurement is comparison against —**
+a) any stick  b) a well-defined, reproducible standard  c) the tallest pupil
+**Answer: b) a well-defined, reproducible standard**
+
+**7. For the thickness of a wire, the fitting unit is the —**
+a) kilometre  b) metre  c) millimetre
+**Answer: c) millimetre**
+
+**8. In the class test, each thing is measured by —**
+a) one measurer once  b) three measurers, both ways  c) the teacher only
+**Answer: b) three measurers, both ways**
+
+**9. Vernier calipers and micrometers are trusted because they —**
+a) are old  b) carry standard units that do not vary person to person  c) are wooden
+**Answer: b) carry standard units that do not vary person to person**

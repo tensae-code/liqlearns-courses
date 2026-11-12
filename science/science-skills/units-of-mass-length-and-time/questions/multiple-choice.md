@@ -22,3 +22,18 @@ a) 24 min  b) 100 min  c) 60 min
 a) 50 m  b) 5 m  c) 1 km
 **Answer: a) 50 m**
 
+**6. A physical quantity carries —**
+a) magnitude only  b) magnitude plus unit  c) a direction only
+**Answer: b) magnitude plus unit**
+
+**7. How many fundamental quantities are there?**
+a) three  b) five  c) seven
+**Answer: c) seven**
+
+**8. Which of these is a DERIVED quantity?**
+a) mass  b) force (the newton)  c) time
+**Answer: b) force (the newton)**
+
+**9. The SI unit of temperature is the —**
+a) degree Celsius only  b) kelvin (K)  c) joule
+**Answer: b) kelvin (K)**

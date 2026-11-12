@@ -33,6 +33,7 @@ A ruler or metre measure, a balance or scale, and a watch or clock; a 50-metre s
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13408] — a picture of the three unit families — mass, length and time with their relations — the student reads each relation aloud and points to its family
+- IMAGE [Picture 32106] — the seven fundamental quantities as seven labelled tiles, derived quantities shown as combinations → the student names the seven and builds one derived unit aloud
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

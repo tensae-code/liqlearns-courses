@@ -14,6 +14,14 @@ The book sets the class to work: **measure and compare** — pupils' **mass**, t
 ## Standard units (teacher guide — evidence)
 The Grade 5 teacher guide carries the same teaching one grade up (teacher guide — evidence): people once measured length with the **span (ስንዝር)**, the **cubit (ክንድ)** and the **step (እርምጃ)**, but these are not fully accurate because they differ from place to place and person to person; the modern method uses the world's standard units, which are exact — and pupils do their own measuring tasks with the units.
 
+## Grade 7 growth — fundamental and derived quantities
+
+A **physical quantity** carries two things: a **magnitude** (how much) plus a **unit** (of what). Grade 7 sorts quantities into two families. **Fundamental quantities** are measured **directly** — there are seven: **length (metre, m), time (second, s), mass (kilogram, kg), temperature (kelvin, K), electric current (ampere, A), amount of substance (mole, mol) and luminous intensity (candela, cd)**.
+
+[Picture 32106 — the seven fundamental quantities as tiles]
+
+**Derived quantities** are built by combining fundamentals: **velocity** in metres per second (m/s), **acceleration** in m/s², **force** in the unit named the **newton**, **work** in the unit named the **joule**. And you can derive more yourself: **area** (length × length, m²), **volume** (m³), **density** (mass ÷ volume, kg/m³) and **power** from the fundamentals you already hold. The relations learned earlier in this lesson — kg and g, m and km, hours and seconds — are the family ties inside the fundamental three you use most.
+
 ## Say it to your companion
 Recite the families to your companion — mass, length, time — each with its relations, then tell them the three things the class activity measures.
 
