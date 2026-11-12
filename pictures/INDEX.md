@@ -1005,3 +1005,61 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9059 | pictures/9059.webp | extensive reading: one book, a 14-day calendar, the 10–15-mark test | Amharic — Study Skills |
 | 9060 | pictures/9060.gif | an extensive-reading calendar filling day by day | Amharic — Study Skills |
 | 9061 | pictures/9061.webp | the seven listening strategies, numbered | Amharic — Study Skills |
+| 9850 | pictures/9850.webp | the whole Qubee alphabet chart | Afan Oromo — Letters |
+| 9851 | pictures/9851.webp | the vowel chart, short and long | Afan Oromo — Letters |
+| 9852 | pictures/9852.webp | double-letter cards | Afan Oromo — Letters |
+| 9853 | pictures/9853.webp | letters in sequence with a gap to mend | Afan Oromo — Letters |
+| 9854 | pictures/9854.webp | letter, picture and word cards A-G | Afan Oromo — Letters |
+| 9855 | pictures/9855.webp | C + a blocks joining into Ca | Afan Oromo — Letters |
+| 9856 | pictures/9856.webp | syllable chart, short and long | Afan Oromo — Reading |
+| 9857 | pictures/9857.webp | mala in two beats | Afan Oromo — Reading |
+| 9858 | pictures/9858.webp | words read whole — buna, mana | Afan Oromo — Reading |
+| 9859 | pictures/9859.webp | mended words — harka, quba | Afan Oromo — Reading |
+| 9860 | pictures/9860.webp | words joining and their beat counts | Afan Oromo — Reading |
+| 9861 | pictures/9861.webp | words sorted by letter count | Afan Oromo — Reading |
+| 9862 | pictures/9862.webp | the rainbow and its colours | Afan Oromo — Reading |
+| 9863 | pictures/9863.webp | ways of travelling | Afan Oromo — Reading |
+| 9864 | pictures/9864.webp | children arriving at the school gate | Afan Oromo — Reading |
+| 9865 | pictures/9865.webp | number-word chart 1-20 | Afan Oromo — Word |
+| 9866 | pictures/9866.webp | decade stairs to dhibba | Afan Oromo — Word |
+| 9867 | pictures/9867.webp | colour cards | Afan Oromo — Word |
+| 9868 | pictures/9868.webp | the week calendar | Afan Oromo — Word |
+| 9869 | pictures/9869.webp | the month wheel of the year song | Afan Oromo — Word |
+| 9870 | pictures/9870.webp | the four seasons | Afan Oromo — Word |
+| 9871 | pictures/9871.webp | times of the day | Afan Oromo — Word |
+| 9872 | pictures/9872.webp | a furnished room | Afan Oromo — Word |
+| 9873 | pictures/9873.webp | kinds of houses | Afan Oromo — Word |
+| 9874 | pictures/9874.webp | the family members | Afan Oromo — Word |
+| 9875 | pictures/9875.webp | jobs people do | Afan Oromo — Word |
+| 9876 | pictures/9876.webp | good and bad character columns | Afan Oromo — Word |
+| 9877 | pictures/9877.webp | foods on the mesob | Afan Oromo — Word |
+| 9878 | pictures/9878.webp | vegetables in a garden row | Afan Oromo — Word |
+| 9879 | pictures/9879.webp | farmyard animals | Afan Oromo — Word |
+| 9880 | pictures/9880.webp | wild animals among trees | Afan Oromo — Word |
+| 9881 | pictures/9881.webp | the fifteen body parts, numbered | Afan Oromo — Word |
+| 9882 | pictures/9882.webp | the five senses | Afan Oromo — Word |
+| 9883 | pictures/9883.webp | opposite pairs | Afan Oromo — Word |
+| 9884 | pictures/9884.webp | meaning groups joining | Afan Oromo — Word |
+| 9885 | pictures/9885.webp | colour-and-thing phrases | Afan Oromo — Word |
+| 9886 | pictures/9886.webp | the school word-web | Afan Oromo — Reading |
+| 9887 | pictures/9887.webp | everyday hygiene actions | Afan Oromo — Word |
+| 9888 | pictures/9888.webp | lake, boats and water creatures | Afan Oromo — Reading |
+| 9889 | pictures/9889.webp | a volunteering scene | Afan Oromo — Reading |
+| 9890 | pictures/9890.webp | hero fact cards | Afan Oromo — Reading |
+| 9891 | pictures/9891.webp | a cigarette and a bottle under a no-sign | Afan Oromo — Reading |
+| 9892 | pictures/9892.webp | a scientist in the sorghum field | Afan Oromo — Reading |
+| 9893 | pictures/9893.webp | four everyday things with their key sentences | Afan Oromo — Reading |
+| 9894 | pictures/9894.webp | family and friends around the mesob | Afan Oromo — Word |
+| 9895 | pictures/9895.webp | people at work cards | Afan Oromo — Reading |
+| 9896 | pictures/9896.webp | dhugaa tick card and soba cross card | Afan Oromo — Reading |
+| 9897 | pictures/9897.gif | the letter B written stroke by stroke | Afan Oromo — Letters |
+| 9898 | pictures/9898.gif | Ca stretching to Caa | Afan Oromo — Letters |
+| 9899 | pictures/9899.gif | c and h sliding together into ch | Afan Oromo — Letters |
+| 9900 | pictures/9900.gif | C and a blocks sliding together into Ca | Afan Oromo — Reading |
+| 9901 | pictures/9901.gif | mala splitting into ma + la and rejoining | Afan Oromo — Reading |
+| 9902 | pictures/9902.gif | the missing letter drops into A_a to make Ala | Afan Oromo — Reading |
+| 9903 | pictures/9903.gif | rainbow bands appearing one by one | Afan Oromo — Word |
+| 9904 | pictures/9904.gif | counting stones 1-10 with number words | Afan Oromo — Word |
+| 9905 | pictures/9905.gif | a white flower filling with yellow | Afan Oromo — Word |
+| 9906 | pictures/9906.gif | days lighting up across the week | Afan Oromo — Word |
+| 9907 | pictures/9907.gif | boat, train and plane each moving in their own band | Afan Oromo — Reading |
