@@ -235,3 +235,22 @@ Social Networks — Connecting in Virtual Communities · Facebook
 Wi-Fi and Mobile Internet · LinkedIn, YouTube and Twitter ·
 Benefits of Social Networks · Risks of Social Networks — and
 Using Them Properly.
+
+**Networks** (band C2, from Ethiopia Grade 9): What a Computer
+Network Is · The Four Elements Every Network Needs · End
+Devices — Where Messages Start and End · The Network Interface
+Card · Repeaters — Boosting a Fading Signal · Switches —
+Sending Packets Only Where They Belong · Routers — Joining
+Networks and Picking the Route · Wireless Access Points ·
+Protocols — the Rules Devices Share · Wired and Wireless Media
+· Drawing a Network Diagram — and Inspecting the School Network
+· Four Ways to Sort Networks · Wired Networks · Wireless
+Networks · PAN — the One-Person Network · LAN — a Building's
+Network · MAN — a City's Network · WAN — Country- and
+World-Sized Networks · Bus Topology · Mesh Topology · Star
+Topology · Ring Topology — and the Four Shapes Compared ·
+Peer-to-Peer Networks · Client-Server Networks — and
+Peer-to-Peer Compared · What Networks Are Good For · The Costs
+and Risks of Networks · Investigating Ethio-telecom and INSA ·
+Project: Set Up a Small Peer-to-Peer Network (teacher-guide
+evidence only).

@@ -86,3 +86,12 @@ exact twelve steps) and the Computers in Society title opened
 (6, social networks and their benefits and risks). **Grade 8
 now stands complete: 76 lessons across its six units.** The
 course now stands at 135 lessons.
+
+**Band C2 (Grade 9, Unit 2) — BUILT 2026-11-12:** 28 lessons
+(27 from the student book + 1 project lesson standing on
+teacher-guide evidence only, labelled, counted nowhere), 316
+questions, 40 media filed (pictures/GIFs 12900–12939) — the
+Networks title opened: devices, media, the four network kinds,
+the four topologies, peer-to-peer against client-server, and
+the Ethio-telecom and INSA investigation. The course now
+stands at 163 lessons.
