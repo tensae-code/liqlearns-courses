@@ -1,6 +1,6 @@
 # Sources — Experiments, models and theories
 
-countries: Ethiopia, Malaysia, Bhutan
+countries: Ethiopia, Malaysia, Bhutan, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,15 +8,22 @@ countries: Ethiopia, Malaysia, Bhutan
 
 **Book 3:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 4:** *فیزیک (۱), پایۀ دهم, رشتۀ علوم تجربی — Physics (1), Grade 10, Experimental Sciences (book code 110214)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 11,117,877 (matches record) · PDF pages: 136 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint pages and full TOC verified; chapter openers and sections read from the text layer). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 5:** *فیزیک (۱), پایۀ دهم, رشتۀ ریاضی و فیزیک — Physics (1), Grade 10, Mathematical Sciences (book code 110209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 13,270,934 (matches record) · PDF pages: 160 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified against the Experimental twin; Chapters 1–3 identical in titles and printed pagination to the Experimental book, Ch. 4 adds §4-6 and a whole extra Ch. 5 Thermodynamics exists only in this branch). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How physics knowledge grows — inquiry and theory | Grade 11 Student Textbook, printed pp. 6–7 |
 | Ch. 1 Measurement, §1.2 Scientific Investigation (Malaysia) | Malaysia, *Physics Form 4*, Ch. 1, §1.2 Scientific Investigation — printed p. 10 — the scientific method is a taught section of the physics book itself, Malaysia's own opening way |
 
 | Ch. 0: methods in physics — printed p. 5 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 0: methods in physics — printed p. 5 |
+| §1-2, Modelling in physics — modelling given its own named section (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §1-2 — printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Bhutan, Iran).**
 
 In the student book, figure numbering restarts oddly in Unit 1's current-status section (Figures 9–16); no figure numbers are relied on in these lessons.
 
-Searchable tags: physics, grade 11, physics and human society, experiments, models and theories, experience
+Searchable tags: physics, grade 11, physics and human society, experiments, models and theories, experience, iran

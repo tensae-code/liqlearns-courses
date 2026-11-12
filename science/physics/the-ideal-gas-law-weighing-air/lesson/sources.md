@@ -1,6 +1,6 @@
 # Sources — The ideal gas law — weighing air
 
-countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India
+countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), 
 
 **Book 14:** *Physics Part–II, Textbook for Class XI, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. ISBN 81-7450-566-0 (Part II). Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-keph2. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World in Part I, later chapters +1; this Part II is numbered Ch. 9–15 in the older printing) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 15:** *فیزیک (۱), پایۀ دهم, رشتۀ ریاضی و فیزیک — Physics (1), Grade 10, Mathematical Sciences (book code 110209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 13,270,934 (matches record) · PDF pages: 160 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified against the Experimental twin; Chapters 1–3 identical in titles and printed pagination to the Experimental book, Ch. 4 adds §4-6 and a whole extra Ch. 5 Thermodynamics exists only in this branch). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ideal-gas equation in a fluids unit | Grade 12 Student Textbook, printed pp. 80–82 |
@@ -49,7 +51,8 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), 
 | Ch. 19 The Kinetic Theory of Gases: ideal gas, molecular speeds — printed p. 549 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 19 The Kinetic Theory of Gases: ideal gas, molecular speeds — printed p. 549 |
 | Ch. I, Temas 6–7 (also cited here): the equation of state of an ideal gas (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Temas 6–7 (also cited here): the equation of state of an ideal gas — printed pp. 20–22 |
 | Ch. 10, §10.4 Ideal-gas equation and absolute temperature — printed p. 203 (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 10, §10.4 Ideal-gas equation and absolute temperature — printed p. 203 |
+| §5-1, Equation of state and quasi-static thermodynamic processes (Iran, Grade 10, Mathematical branch) | Iran, *Physics (1), Grade 10, Mathematical Sciences* (Iran, book code 110209 — Mathematical branch only), §5-1 — printed p. 128 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Palestine, Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 14 countries (Ethiopia, Palestine, Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
-Searchable tags: physics, grade 12, fluid mechanics, the ideal gas law — weighing air, temperature, palestine, egypt, yemen
+Searchable tags: physics, grade 12, fluid mechanics, the ideal gas law — weighing air, temperature, palestine, egypt, yemen, iran

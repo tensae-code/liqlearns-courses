@@ -1,6 +1,6 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India
+countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -23,6 +23,12 @@ countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhu
 
 **Book 10:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 11:** *فیزیک (۲), پایۀ یازدهم, رشتۀ علوم تجربی — Physics (2), Grade 11, Experimental Sciences (book code 111244)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 15,927,226 (matches record) · PDF pages: 119 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; full text read). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 12:** *فیزیک (۲), پایۀ یازدهم, رشتۀ ریاضی و فیزیک — Physics (2), Grade 11, Mathematical Sciences (book code 111209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 21,167,675 (matches record) · PDF pages: 144 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; the Mathematical branch splits Magnetism and Electromagnetic induction into two chapters where the Experimental book combines them). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
@@ -38,7 +44,8 @@ countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhu
 
 | Ch. 30 Induction and Inductance: Faraday's law and Lenz's law — printed p. 864 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 30 Induction and Inductance: Faraday's law and Lenz's law — printed p. 864 |
 | Ch. 6 Electromagnetic Induction — Faraday's laws, Lenz's law, induced EMF, eddy currents, inductance (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 6 Electromagnetic Induction — Faraday's laws, Lenz's law, induced EMF, eddy currents, inductance |
+| §3-8–3-9, Faraday's law of electromagnetic induction; Lenz's law (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-8–3-9 — printed pp. 87, 91 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India).**
+**Acceptance count: taught in 11 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran).**
 
-Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq
+Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran

@@ -1,6 +1,6 @@
 # Sources — Motors and generators
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 
 **Book 12:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 13:** *فیزیک (۲), پایۀ یازدهم, رشتۀ ریاضی و فیزیک — Physics (2), Grade 11, Mathematical Sciences (book code 111209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 21,167,675 (matches record) · PDF pages: 144 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; the Mathematical branch splits Magnetism and Electromagnetic induction into two chapters where the Experimental book combines them). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relays and the electric bell | Grade 12 Student Textbook, printed pp. 134–137 |
@@ -43,7 +45,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 | Ch.3 The AC dynamo (generator) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.3 The AC dynamo (generator) — printed p. 72 |
 | Ch. III, Temas 37–39: field acting on a current frame (the motor principle); electric motors; lab: study a DC motor model (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. III, Temas 37–39: field acting on a current frame (the motor principle); electric motors; lab: study a DC motor model — printed pp. 89–92 |
 | Ch. 6 — the AC generator closes the induction chapter (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 6 — the AC generator closes the induction chapter |
+| Ch. 4, Electromagnetic induction and alternating current — the generator inside the induction/AC sequence | Iran, *Physics (2), Grade 11, Mathematical Sciences* (Iran, book code 111209 — Mathematical branch only), Ch. 4 — printed pp. 110–122 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India, Iran).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
-Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator, uganda, egypt
+Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator, uganda, egypt, iran

@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 **Book 9:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 10:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ ریاضی و فیزیک — Physics (3), Grade 12, Mathematical Sciences (book code 112209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 12,821,822 (matches record) · PDF pages: 176 · Offset: printed p. = PDF p. − 10. Verdict: COMPLETE (title/imprint/TOC verified; the Experimental book's four strands expanded and split into 6 chapters). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
@@ -33,9 +35,10 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 | Ch. 43 Energy from the Nucleus — printed p. 1309 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 43 Energy from the Nucleus — printed p. 1309 |
 | Ch. 13 — fusion and stellar energy (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 13 — fusion and stellar energy |
+| §6-4, Nuclear fusion (گداخت هسته‌ای) — Mathematical branch only | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §6-4 — printed p. 152 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India).**
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya
+Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran

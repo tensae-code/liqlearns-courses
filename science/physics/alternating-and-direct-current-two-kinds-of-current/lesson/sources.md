@@ -1,19 +1,26 @@
 # Sources — Alternating and direct current — two kinds of current
 
-countries: Bhutan, Uzbekistan
+countries: Bhutan, Uzbekistan, Iran
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
 **Book 2:** *ФИЗИКА 8 (Fizika 8)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition, translator T. Asilov; imprint: 160 pp. bibliographic, contents end printed p. 158; print run 25,500). Grade: 8 · Student book (Russian-medium edition) · Repo path: grade-08/gov/uzbekistan/physics/full-year.pdf. Byte size: 62,348,665. PDF pages: 161. Offset: printed p. N = PDF p. N+3 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; the complete contents (printed pp. 157–158) were read and every chapter's opening and closing-summary pages were read and matched against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
+**Book 3:** *فیزیک (۲), پایۀ یازدهم, رشتۀ علوم تجربی — Physics (2), Grade 11, Experimental Sciences (book code 111244)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 15,927,226 (matches record) · PDF pages: 119 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; full text read). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 4:** *فیزیک (۲), پایۀ یازدهم, رشتۀ ریاضی و فیزیک — Physics (2), Grade 11, Mathematical Sciences (book code 111209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 21,167,675 (matches record) · PDF pages: 144 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; the Mathematical branch splits Magnetism and Electromagnetic induction into two chapters where the Experimental book combines them). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Bhutan, Ch. 4: defining and explaining a.c. and d.c. — printed p. 96 |
 | Do it first; key ideas; Do It Yourself | Bhutan, as cited in the rows above |
 | Ch. IV, Tema 42: the induction generator and how an AC generator works (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. IV, Tema 42: the induction generator and how an AC generator works — printed p. 102 |
+| §3-11, Alternating current — a short survey section closing the combined chapter; the Mathematical branch gives AC a fuller treatment in its Ch. 4 (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-11 — printed p. 97 |
 
-**Acceptance count: taught in 2 countries (Bhutan, Uzbekistan).**
+**Acceptance count: taught in 3 countries (Bhutan, Uzbekistan, Iran).**
 
 Placement choice, on the record: this NEW LESSON was built for the Bhutan placement “Alternating and direct current — a.c. and d.c. as two kinds of current” — bhutan-placements.md, Book 1 (Class IX), Ch. 4 — printed p. 96. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: alternating current, direct current, a.c., d.c., rectifier, mains, bhutan, grade 9
+Searchable tags: alternating current, direct current, a.c., d.c., rectifier, mains, bhutan, grade 9, iran

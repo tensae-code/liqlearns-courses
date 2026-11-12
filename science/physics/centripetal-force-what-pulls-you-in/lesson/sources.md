@@ -1,6 +1,6 @@
 # Sources — Centripetal force — what pulls you in
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen
+countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 
 **Book 13:** *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)* (student textbook) — Yemen, Yemen MoE, same series/design as Grade 10. Grade: 11 · Student book · Repo: release `mid-size-books-2`, asset `grade-11-gov-yemen-physics-student-full-year.pdf` — 79,982,972 bytes. PDF pages: 274. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 10 evaluation at printed p. 270 closes the contents; closing pages present). Structure: 10 units — equilibrium of rigid bodies; periodic motions; sound waves; sound tones & resonance; light & vision devices; thermodynamics; heat engines; direct current; magnetism & magnetic effects of current; electrical measurements. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 14:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ ریاضی و فیزیک — Physics (3), Grade 12, Mathematical Sciences (book code 112209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 12,821,822 (matches record) · PDF pages: 176 · Offset: printed p. = PDF p. − 10. Verdict: COMPLETE (title/imprint/TOC verified; the Experimental book's four strands expanded and split into 6 chapters). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal force | Grade 11 Student Textbook, printed pp. 86–89 |
@@ -46,11 +48,12 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 | Ch 2: case examples and applications of circular motion (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 2: case examples and applications of circular motion — printed p. 47 |
 | Unit 3, Ch.4 Laws of circular motion: the centripetal force, demonstrated by experiment (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Unit 3, Ch.4 Laws of circular motion: the centripetal force, demonstrated by experiment — printed p. 79 |
 | U2 Periodic motions: uniform circular motion and centripetal force (Yemen, Grade 11) | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U2 Periodic motions: uniform circular motion and centripetal force — printed p. 39 |
+| §2-4, Uniform circular motion — centripetal force | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §2-4 — printed p. 48 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen, Iran).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka, kenya, egypt, yemen
+Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka, kenya, egypt, yemen, iran

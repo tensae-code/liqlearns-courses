@@ -1,6 +1,6 @@
 # Sources — Why ships float
 
-countries: Ethiopia, Slovenia, Belarus, Bhutan
+countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,6 +10,12 @@ countries: Ethiopia, Slovenia, Belarus, Bhutan
 
 **Book 4:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 5:** *فیزیک (۱), پایۀ دهم, رشتۀ علوم تجربی — Physics (1), Grade 10, Experimental Sciences (book code 110214)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 11,117,877 (matches record) · PDF pages: 136 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint pages and full TOC verified; chapter openers and sections read from the text layer). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 6:** *فیزیک (۱), پایۀ دهم, رشتۀ ریاضی و فیزیک — Physics (1), Grade 10, Mathematical Sciences (book code 110209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 13,270,934 (matches record) · PDF pages: 160 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified against the Experimental twin; Chapters 1–3 identical in titles and printed pagination to the Experimental book, Ch. 4 adds §4-6 and a whole extra Ch. 5 Thermodynamics exists only in this branch). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sinking, floating, and big ships | Grade 12 Student Textbook, printed pp. 98–102 |
@@ -18,7 +24,8 @@ countries: Ethiopia, Slovenia, Belarus, Bhutan
 | §38 Sailing of ships; aeronautics (extra reading) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §38 Sailing of ships; aeronautics (extra reading) — printed p. 152 |
 
 | Ch. 2: principle of floatation — floating bodies, equilibrium of floating bodies, volume submerged — printed p. 56 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 2: principle of floatation — floating bodies, equilibrium of floating bodies, volume submerged — printed p. 56 |
+| §2-4, Buoyancy (شناوری) — why ships float (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-4 — printed p. 40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Belarus, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran).**
 
-Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement
+Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran

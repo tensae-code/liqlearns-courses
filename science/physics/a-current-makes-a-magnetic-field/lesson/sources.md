@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -37,6 +37,12 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 
 **Book 17:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 18:** *فیزیک (۲), پایۀ یازدهم, رشتۀ علوم تجربی — Physics (2), Grade 11, Experimental Sciences (book code 111244)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 15,927,226 (matches record) · PDF pages: 119 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; full text read). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 19:** *فیزیک (۲), پایۀ یازدهم, رشتۀ ریاضی و فیزیک — Physics (2), Grade 11, Mathematical Sciences (book code 111209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 21,167,675 (matches record) · PDF pages: 144 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; the Mathematical branch splits Magnetism and Electromagnetic induction into two chapters where the Experimental book combines them). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -60,7 +66,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 | Ch. 29 Magnetic Fields Due to Currents — printed p. 836 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 29 Magnetic Fields Due to Currents — printed p. 836 |
 | Ch. III, Temas 31–32: field of a straight current; field of a coil with current (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. III, Temas 31–32: field of a straight current; field of a coil with current — printed pp. 78–80 |
 | Ch. 4 — Oersted's discovery opens the chapter; Biot–Savart and Ampère's laws follow (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 4 — Oersted's discovery opens the chapter; Biot–Savart and Ampère's laws follow |
+| §3-5, Magnetic field produced by an electric current — straight wire, loop and solenoid fields (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-5 — printed p. 76 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India).**
+**Acceptance count: taught in 17 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran).**
 
-Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen
+Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen, iran

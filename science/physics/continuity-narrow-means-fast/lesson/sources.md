@@ -1,6 +1,6 @@
 # Sources — Continuity — narrow means fast
 
-countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India
+countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -21,6 +21,12 @@ countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India
 
 **Book 9:** *Physics Part–II, Textbook for Class XI, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. ISBN 81-7450-566-0 (Part II). Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-keph2. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World in Part I, later chapters +1; this Part II is numbered Ch. 9–15 in the older printing) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 10:** *فیزیک (۱), پایۀ دهم, رشتۀ علوم تجربی — Physics (1), Grade 10, Experimental Sciences (book code 110214)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 11,117,877 (matches record) · PDF pages: 136 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint pages and full TOC verified; chapter openers and sections read from the text layer). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 11:** *فیزیک (۱), پایۀ دهم, رشتۀ ریاضی و فیزیک — Physics (1), Grade 10, Mathematical Sciences (book code 110209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 13,270,934 (matches record) · PDF pages: 160 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified against the Experimental twin; Chapters 1–3 identical in titles and printed pagination to the Experimental book, Ch. 4 adds §4-6 and a whole extra Ch. 5 Thermodynamics exists only in this branch). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equation of continuity | Grade 12 Student Textbook, printed pp. 105–106 |
@@ -35,7 +41,8 @@ countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India
 
 | Ch. 14 Fluids — printed p. 386 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 14 Fluids — printed p. 386 |
 | Ch. 9 — streamline flow and the equation of continuity (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 9 — streamline flow and the equation of continuity |
+| §2-5, Fluid in motion and Bernoulli's principle — continuity as Bernoulli's companion (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-5 — printed p. 43 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India).**
+**Acceptance count: taught in 10 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran).**
 
-Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt
+Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt, iran

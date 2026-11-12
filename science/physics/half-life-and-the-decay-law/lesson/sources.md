@@ -1,6 +1,6 @@
 # Sources — Half-life and the decay law
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -28,6 +28,12 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, B
 
 **Book 13:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 14:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ علوم تجربی — Physics (3), Grade 12, Experimental Sciences (book code 112244)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 10,573,860 (matches record) · PDF pages: 143 · Offset: printed p. = PDF p. − 9. Verdict: COMPLETE (title/imprint/TOC verified; full text read). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 15:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ ریاضی و فیزیک — Physics (3), Grade 12, Mathematical Sciences (book code 112209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 12,821,822 (matches record) · PDF pages: 176 · Offset: printed p. = PDF p. − 10. Verdict: COMPLETE (title/imprint/TOC verified; the Experimental book's four strands expanded and split into 6 chapters). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The decay law and half-life | Grade 11 Student Textbook, printed pp. 312–316 |
@@ -46,9 +52,10 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, B
 
 | Ch. 42 Nuclear Physics — printed p. 1276 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 42 Nuclear Physics — printed p. 1276 |
 | Ch. 13 — radioactive decay law (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 13 — radioactive decay law |
+| §4-6, Natural radioactivity and half-life — the decay law (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §4-6 — printed p. 115 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India, Iran).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, half-life and the decay law, half-life, uganda, kenya
+Searchable tags: physics, grade 11, nuclear physics, half-life and the decay law, half-life, uganda, kenya, iran

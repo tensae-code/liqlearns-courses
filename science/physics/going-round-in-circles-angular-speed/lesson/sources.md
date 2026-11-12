@@ -1,6 +1,6 @@
 # Sources — Going round in circles — angular speed
 
-countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India
+countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India
 
 **Book 6:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 7:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ ریاضی و فیزیک — Physics (3), Grade 12, Mathematical Sciences (book code 112209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 12,821,822 (matches record) · PDF pages: 176 · Offset: printed p. = PDF p. − 10. Verdict: COMPLETE (title/imprint/TOC verified; the Experimental book's four strands expanded and split into 6 chapters). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Uniform circular motion — angular quantities | Grade 11 Student Textbook, printed pp. 79–83 |
@@ -22,9 +24,10 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India
 | Ch.4 Tangential velocity and the factors centripetal force depends on (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.4 Tangential velocity and the factors centripetal force depends on — printed p. 85 |
 | Ch. 1 — the relation between circular motion and SHM (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 1 — printed p. 15 — the relation between circular motion and SHM |
 | Ch. 3, uniform circular motion section (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 3, uniform circular motion section |
+| §2-4, Uniform circular motion — angular speed | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §2-4 — printed p. 48 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India).**
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, going round in circles — angular speed, displacement, ecuador, bolivia, egypt
+Searchable tags: physics, grade 11, motion in one and two dimensions, going round in circles — angular speed, displacement, ecuador, bolivia, egypt, iran

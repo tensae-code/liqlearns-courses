@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus
 
 **Book 7:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
+**Book 8:** *فیزیک (۱), پایۀ دهم, رشتۀ علوم تجربی — Physics (1), Grade 10, Experimental Sciences (book code 110214)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 11,117,877 (matches record) · PDF pages: 136 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint pages and full TOC verified; chapter openers and sections read from the text layer). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 9:** *فیزیک (۱), پایۀ دهم, رشتۀ ریاضی و فیزیک — Physics (1), Grade 10, Mathematical Sciences (book code 110209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 13,270,934 (matches record) · PDF pages: 160 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified against the Experimental twin; Chapters 1–3 identical in titles and printed pagination to the Experimental book, Ch. 4 adds §4-6 and a whole extra Ch. 5 Thermodynamics exists only in this branch). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The convection loop: warmed fluid expands, lightens, rises; cool fluid sinks; the sawdust beaker (Activity 7.19) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
@@ -29,9 +35,10 @@ countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus
 | Ch. 4 — heat transfer by convection (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 4 — printed p. 93 — heat transfer by convection (کانوکشن named in the TOC) |
 
 | §5 Convection (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §5 Convection — printed p. 20 |
+| §4-5, Methods of heat transfer — convection (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-5 — printed p. 111 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: convection, convection current, fluids, sawdust loop, two-bottle test, Ethiopia Grade 8 General Science Unit 7, uganda, kenya
+Searchable tags: convection, convection current, fluids, sawdust loop, two-bottle test, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran

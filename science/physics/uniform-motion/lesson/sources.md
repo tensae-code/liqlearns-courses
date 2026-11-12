@@ -1,6 +1,6 @@
 # Sources — Uniform motion
 
-countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus
+countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, Iran
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -20,6 +20,12 @@ countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus
 
 **Book 9:** *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 7)* (student textbook) — Belarus, Isachenkava L. A. & Liashchynski Yu. Dz., ed. Isachenkava; Minsk, «Народная асвета», 2009; ISBN 978-985-03-1200-6; approved by the Ministry of Education of the Republic of Belarus; Belarusian-language edition (transl. from Russian by T. R. Siarzhant). Grade: 7 · Student book · Repo: release `mid-size-books-7`, asset `grade-07-gov-belarus-physics-student-full-year.pdf` — 23,443,492 bytes (matched asset; archive.org source copy identical). PDF pages: 184. Printed page ≈ PDF page (contents printed pp. 180–181 inside the PDF; §1 folio 6 verified). Verdict: COMPLETE (Ch.4 Laboratory experiment, 3 appendices, answers to exercises at printed p. 178, contents and colophon present). Structure: Ch.1 Motion and forces (§§1–15); Ch.2 Work and energy, simple mechanisms (§§16–26); Ch.3 Pressure (§§27–38); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
+**Book 10:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ علوم تجربی — Physics (3), Grade 12, Experimental Sciences (book code 112244)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-experimental-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-experimental-sciences.pdf · Byte size: 10,573,860 (matches record) · PDF pages: 143 · Offset: printed p. = PDF p. − 9. Verdict: COMPLETE (title/imprint/TOC verified; full text read). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+**Book 11:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ ریاضی و فیزیک — Physics (3), Grade 12, Mathematical Sciences (book code 112209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 12,821,822 (matches record) · PDF pages: 176 · Offset: printed p. = PDF p. − 10. Verdict: COMPLETE (title/imprint/TOC verified; the Experimental book's four strands expanded and split into 6 chapters). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
+
+Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Uniform motion | Ethiopia, *Grade 9 Student Textbook*, printed pp. 52 |
@@ -33,9 +39,10 @@ countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus
 | §2.1 Жигд хөдөлгөөн (Uniform motion) (Mongolia, Grade 8) | Mongolia, *Физик VIII*, §2.1 Жигд хөдөлгөөн (Uniform motion) — printed p. 46 |
 
 | §3 Uniform motion, speed; §5 Non-uniform motion, average speed (printed p. 22) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §3 Uniform motion, speed; §5 Non-uniform motion, average speed (printed p. 22) — printed p. 12 |
+| §1-2, Motion with constant velocity (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §1-2 — printed p. 13 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus).**
+**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, Iran).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: uniform motion, grade 9 physics, unit 3, uniform motion means constant velocity in a straight line., equal displacements happen in equal times., position marks every second sit evenly spaced., cambodia
+Searchable tags: uniform motion, grade 9 physics, unit 3, uniform motion means constant velocity in a straight line., equal displacements happen in equal times., position marks every second sit evenly spaced., cambodia, iran
