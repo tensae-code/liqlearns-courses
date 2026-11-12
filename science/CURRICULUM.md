@@ -138,6 +138,24 @@ Amhara student book — guide material is syllabus-level
 teacher evidence only. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSE-science-g7-u5.md`.
 
+Band GS-I (Grade 8, Unit 2 — Composition of Matter):
+4 new lessons in Materials, 48 questions, 6 media
+filed (pictures/GIFs 33700–33705) — early ideas of the
+atom (Democritus against Aristotle, with the guide's
+foil-cutting as teacher evidence), inside the atom,
+isotopes and why atomic masses are not whole numbers,
+and molecules. All four are new: no existing lesson
+covers atomic structure or isotopes. The isotopes
+lesson rests on the STUDENT BOOK ALONE — the Grade 8
+guide has no isotopes section — and its sources say
+so in plain words; the guide's item 6 is filed there
+as the pacing warning, exactly as placed. Pairing
+carried exactly: the Grade 8 guide is a federal
+new-syllabus book, NOT edition-matched to the Amhara
+student book — guide material is syllabus-level
+teacher evidence only. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSI-science-g8-u2.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -227,6 +245,10 @@ teacher evidence only. Build log:
 35. **Separating mixtures — the separatory funnel** (`materials/separating-the-separatory-funnel`) — two liquids that refuse to mix are parted in a stoppered funnel: settle into layers, then drain the lower layer through the stopcock and stop exactly at the boundary (Grade 7 General Science)
 36. **Separating mixtures — distillation** (`materials/separating-distillation`) — a liquid mixture is parted by boiling point: the lower-boiling part vaporises first, condenses, and is collected as distillate — the way of the laboratory still and of the local araki still alike (Grade 7 General Science)
 37. **Separating mixtures — local methods** (`materials/separating-local-methods`) — the community's own separation kit — sieving, winnowing, decanting coffee in the jebena, clarifying tella and tej, and the local still — is the laboratory's methods in home dress (Grade 7 General Science)
+38. **Early ideas of the atom — Democritus against Aristotle** (`materials/early-ideas-of-the-atom-democritus-against-aristotle`) — matter was pictured two rival ways in ancient Greece — Democritus: built of indivisible atoms with empty space between; Aristotle and Plato: endlessly divisible — and Dalton's atomic theory later settled the argument on evidence (Grade 8 General Science)
+39. **Inside the atom — protons, neutrons, electrons** (`materials/inside-the-atom-protons-neutrons-electrons`) — an atom holds protons and neutrons in a nucleus with electrons around it; Z counts the protons, A counts protons plus neutrons, and the amu is 1/12 of a carbon-12 atom (Grade 8 General Science)
+40. **Isotopes — and why atomic masses are not whole numbers** (`materials/isotopes-and-why-atomic-masses-are-not-whole-numbers`) — atoms of the same element can carry different numbers of neutrons — isotopes — and an element's printed atomic mass is the weighted average of its isotopes, which is why it is not a whole number (Grade 8 General Science)
+41. **Molecules — atoms joined** (`materials/molecules-atoms-joined`) — atoms join into molecules — monoatomic, diatomic or polyatomic — and the molecule is the smallest particle of a substance that still behaves as that substance (Grade 8 General Science)
 
 
 ## Unit 5 — Light
