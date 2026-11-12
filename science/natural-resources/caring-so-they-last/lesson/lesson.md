@@ -1,0 +1,24 @@
+# Caring so they last: looking after natural resources
+
+## Do it first
+The last lesson ended on a gullied hill. This one picks up a spade. The book's answer to loss is not sorrow; it is a programme: trees planted, terraces built, animals protected, clearing stopped — and a nursery in the schoolyard raising the repair. This lesson learns the programme and starts the nursery.
+
+## Harms, cares, and the nursery project
+
+First the harms, gathered: **soil washed away; fertility and yields falling; wild animals fleeing and vanishing; climate disturbed**. Loss is not one wound but four, and the book's field enquiry sends pupils to **ask farmers about erosion causes** — the harms verified at the field's edge.
+
+Then the care principle, in the book's spirit: **using nature without destroying it**. Its acts: **planting trees, building terraces, protecting wild animals, stopping forest clearing**.
+
+And its **project**, which this course adopts whole: **prepare a seedling bed at school, raise native tree seedlings, water and tend them, and plant them around the school and on bare land**. A learner who has raised a tree has read this chapter with their hands.
+
+[Picture 12177 — pupils watering seedlings in a school nursery bed]
+
+[GIF 12178 — a seedling being planted and watered]
+
+## Say it to your companion
+Set the harms and the cares facing each other for your companion: they name a harm, you answer with its care act — washed soil → terraces and trees; fleeing animals → protection; disturbed climate → planting. Finish by showing them your seedling bed's plan.
+
+## Do It Yourself
+1. Start the nursery: prepare the bed, sow native tree seed or set seedlings, label with species and date. The project is not done at planting — it is done at survival.
+2. Farmer enquiry: ask farmers about erosion causes on their land, the book's field task, and compare their list with the book's harms.
+3. Terrace study: visit or draw a terraced slope. Explain, stone by stone, how it holds what the bare slope lost.

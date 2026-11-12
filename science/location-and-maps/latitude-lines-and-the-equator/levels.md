@@ -1,0 +1,9 @@
+# Latitude Lines and the Equator — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number; the questions live in the type files, and this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Lines that run east–west and never meet
+Sub lesson 1 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Latitude lines run — (answer: east–west, parallel to the equator).
+
+## Sub lesson 2 — The equator, the starting line
+Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: The equator is the latitude line of — (answer: 0 degrees).

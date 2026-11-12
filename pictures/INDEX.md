@@ -1148,6 +1148,62 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 10562 | pictures/10562.gif | the procedure square | Computer Science and ICT — Defining and Running a LOGO Procedure |
 | 10563 | pictures/10563.gif | the guide's bent path | Computer Science and ICT — LOGO Drawing Commands |
 | 10564 | pictures/10564.gif | the 360-step circle | Computer Science and ICT — Defining and Running a LOGO Procedure |
+| 10900 | pictures/10900.webp | the five generations | Computer Science and ICT — Computer Generations |
+| 10901 | pictures/10901.webp | the Grade 8 road map — six units | Computer Science and ICT — Computer Generations |
+| 10902 | pictures/10902.webp | first generation — vacuum tubes (1940–1956) | Computer Science and ICT — First Generation — Vacuum Tubes |
+| 10903 | pictures/10903.webp | second generation — transistors (1956–1963) | Computer Science and ICT — Second Generation — Transistors |
+| 10904 | pictures/10904.webp | third generation — integrated circuits (1964–1971) | Computer Science and ICT — Third Generation — Integrated Circuits |
+| 10905 | pictures/10905.webp | fourth generation — microprocessors and the PC (1971–present) | Computer Science and ICT — Fourth Generation — Microprocessors and the PC |
+| 10906 | pictures/10906.webp | fifth generation — AI and parallel processing | Computer Science and ICT — Fifth Generation — AI and Parallel Processing |
+| 10907 | pictures/10907.gif | parallel streams finishing together | Computer Science and ICT — Fifth Generation — AI and Parallel Processing |
+| 10908 | pictures/10908.webp | the four functions of a computer | Computer Science and ICT — The Four Functions of a Computer — Input |
+| 10909 | pictures/10909.webp | processing — work done on data | Computer Science and ICT — Processing — the Computer Works on the Data |
+| 10910 | pictures/10910.webp | output — showing the result three ways | Computer Science and ICT — Output — Showing the Result |
+| 10911 | pictures/10911.webp | storage — and the four functions together | Computer Science and ICT — Storage — Keeping Data, and the Four Functions Together |
+| 10912 | pictures/10912.gif | data travelling the four functions | Computer Science and ICT — Storage — Keeping Data, and the Four Functions Together |
+| 10913 | pictures/10913.webp | by size: microcomputer — the two desktop forms | Computer Science and ICT — Types of Computer by Size — Microcomputers and Desktops |
+| 10914 | pictures/10914.webp | portable computers — a size line-up | Computer Science and ICT — Portable Computers |
+| 10915 | pictures/10915.webp | minicomputer and mainframe | Computer Science and ICT — Minicomputers and Mainframes |
+| 10916 | pictures/10916.webp | supercomputers — the fastest computers | Computer Science and ICT — Supercomputers — the Fastest Computers |
+| 10917 | pictures/10917.webp | analog computers — continuous data | Computer Science and ICT — Analog Computers — Continuous Data |
+| 10918 | pictures/10918.gif | the speedometer needle sweep | Computer Science and ICT — Analog Computers — Continuous Data |
+| 10919 | pictures/10919.webp | analog against digital (teacher guide table) | Computer Science and ICT — Digital Computers — Data as Digits |
+| 10920 | pictures/10920.webp | hybrid computers — the petrol pump | Computer Science and ICT — Hybrid Computers — Analog and Digital Together |
+| 10921 | pictures/10921.gif | the petrol-pump displays rising together | Computer Science and ICT — Hybrid Computers — Analog and Digital Together |
+| 10922 | pictures/10922.webp | special-purpose — built for one job | Computer Science and ICT — Special-Purpose Computers — Built for One Job |
+| 10923 | pictures/10923.webp | general-purpose — built for many jobs | Computer Science and ICT — General-Purpose Computers — Built for Many Jobs |
+| 10924 | pictures/10924.webp | characteristics of a computer — the first six | Computer Science and ICT — Characteristics of Computers |
+| 10925 | pictures/10925.webp | remembering — and what a computer has not got | Computer Science and ICT — What a Computer Cannot Do |
+| 10926 | pictures/10926.webp | hardware — four categories | Computer Science and ICT — Computer Hardware — Four Categories |
+| 10927 | pictures/10927.webp | the keyboard — ten groups of keys | Computer Science and ICT — The Keyboard — Ten Groups of Keys |
+| 10928 | pictures/10928.gif | the Windows key opening Start | Computer Science and ICT — The Keyboard — Ten Groups of Keys |
+| 10929 | pictures/10929.webp | the mouse — three buttons, two connections | Computer Science and ICT — The Mouse — Buttons and Connections |
+| 10930 | pictures/10930.gif | right-click properties menu | Computer Science and ICT — The Mouse — Buttons and Connections |
+| 10931 | pictures/10931.webp | scanner — paper into the computer | Computer Science and ICT — Scanner — Paper into the Computer |
+| 10932 | pictures/10932.gif | scanner light bar | Computer Science and ICT — Scanner — Paper into the Computer |
+| 10933 | pictures/10933.webp | optical recognition — OCR reads characters | Computer Science and ICT — Optical Recognition — OCR Reads Characters |
+| 10934 | pictures/10934.webp | OMR and the barcode reader | Computer Science and ICT — OMR Marks Exams — and Barcode Readers |
+| 10935 | pictures/10935.gif | barcode beam | Computer Science and ICT — OMR Marks Exams — and Barcode Readers |
+| 10936 | pictures/10936.webp | speech recognition — data in by talking | Computer Science and ICT — Speech Recognition — Entering Data by Talking |
+| 10937 | pictures/10937.gif | speech becoming text | Computer Science and ICT — Speech Recognition — Entering Data by Talking |
+| 10938 | pictures/10938.webp | light pen and touch screen | Computer Science and ICT — Light Pen and Touch Screen |
+| 10939 | pictures/10939.gif | touch-screen tap | Computer Science and ICT — Light Pen and Touch Screen |
+| 10940 | pictures/10940.webp | joystick — direction and amount of push | Computer Science and ICT — Joystick — Direction and Amount of Push |
+| 10941 | pictures/10941.gif | joystick deflection | Computer Science and ICT — Joystick — Direction and Amount of Push |
+| 10942 | pictures/10942.webp | processing devices — the CPU | Computer Science and ICT — Processing Devices — the CPU |
+| 10943 | pictures/10943.webp | inside the CPU — CU, ALU, registers | Computer Science and ICT — Inside the CPU — CU, ALU and Registers |
+| 10944 | pictures/10944.gif | instruction travelling register to ALU | Computer Science and ICT — Inside the CPU — CU, ALU and Registers |
+| 10945 | pictures/10945.webp | primary storage — RAM and ROM | Computer Science and ICT — Primary Storage — RAM and ROM |
+| 10946 | pictures/10946.gif | RAM vanishing at power-off | Computer Science and ICT — Primary Storage — RAM and ROM |
+| 10947 | pictures/10947.webp | CMOS — and secondary storage | Computer Science and ICT — CMOS — and Secondary Storage |
+| 10948 | pictures/10948.webp | magnetic tape and magnetic disk | Computer Science and ICT — Magnetic Tape and Magnetic Disk — the Hard Disk |
+| 10949 | pictures/10949.webp | optical disks — pits, lands and the three CDs | Computer Science and ICT — Optical Disks — Pits, Lands and the Three CDs |
+| 10950 | pictures/10950.gif | laser writing a pit | Computer Science and ICT — Optical Disks — Pits, Lands and the Three CDs |
+| 10951 | pictures/10951.webp | CD against DVD | Computer Science and ICT — DVD — a CD That Holds Much More |
+| 10952 | pictures/10952.webp | output devices — CRT and LCD monitors | Computer Science and ICT — Output Devices — CRT and LCD Monitors |
+| 10953 | pictures/10953.webp | LED and gas plasma monitors | Computer Science and ICT — LED and Gas Plasma Monitors |
+| 10954 | pictures/10954.webp | printers — and plotters | Computer Science and ICT — Printers — and Plotters |
+| 10955 | pictures/10955.gif | printer feeding a page | Computer Science and ICT — Printers — and Plotters |
 | 9925 | pictures/9925.webp | the pronoun chart | Afan Oromo — Sentence |
 | 9926 | pictures/9926.gif | clock hands moving to a named time (9:00) | Afan Oromo — Listening |
 | 9927 | pictures/9927.webp | the weather report and its clothes | Afan Oromo — Listening |
@@ -1287,3 +1343,137 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11161 | pictures/11161.gif | rain washing soil off a bare slope | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
 | 11162 | pictures/11162.gif | one storm carrying the topsoil away | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
 | 11163 | pictures/11163.gif | the tree line retreats as houses multiply | Social Studies — People and Resources — Resource Depletion in Ethiopia |
+| 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
+| 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
+| 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
+| 12003 | pictures/12003.webp | a child's home between the school and a neighbouring kebele | Science — Where My Home Is |
+| 12004 | pictures/12004.webp | a child's hand-drawn sketch map: home, neighbours, school | Science — My Neighbours and My First Sketch Map |
+| 12005 | pictures/12005.webp | a simple woreda sketch map with kebeles marked | Science — Kebele and Woreda — Reading a Sketch Map |
+| 12006 | pictures/12006.webp | a woreda map with neighbours labelled on four sides | Science — Our Woreda's Neighbours |
+| 12007 | pictures/12007.webp | kebele → woreda → zone nesting diagram | Science — Kebele, Woreda and Zone |
+| 12008 | pictures/12008.webp | a zone map with neighbours labelled in all directions | Science — Relative Location — Where a Place Lies |
+| 12009 | pictures/12009.webp | globe with equator and latitude lines | Science — Latitude Lines and the Equator |
+| 12010 | pictures/12010.webp | globe with longitude lines at the poles | Science — Longitude Lines and the Greenwich Meridian |
+| 12011 | pictures/12011.webp | a map edge with degree/minute markings and a ruler | Science — Absolute Location — A Place's Exact Position |
+| 12012 | pictures/12012.webp | a family at home, each member doing a different task | Science — Family — Who Is in a Family and What Each One Does |
+| 12013 | pictures/12013.webp | a meal, weather clothes and three different houses | Science — Family Needs — Food, Clothes and a Home |
+| 12014 | pictures/12014.webp | a school compound with its people at their posts | Science — Our School — The People of Our School |
+| 12015 | pictures/12015.webp | pupils in uniform arriving at the school gate | Science — Our School — Rules We Keep |
+| 12016 | pictures/12016.webp | pupils sweeping the compound and washing hands at a tap | Science — Our School — A Clean School and Safe Latrine Use |
+| 12017 | pictures/12017.webp | a health station, a bank, a police station and a school | Science — Our Community — Places That Help Us |
+| 12018 | pictures/12018.webp | a potter, a weaver and a blacksmith at work | Science — Our Community — People Young and Old; People's Jobs |
+| 12019 | pictures/12019.webp | a busy market day | Science — Our Community — Market, Clinic and Play Places |
+| 12020 | pictures/12020.webp | two children studying together at one desk | Science — Friends — Playing and Learning Together |
+| 12021 | pictures/12021.webp | the Abbay river and the Renaissance Dam | Science — Our Country — the Abbay River and the Renaissance Dam |
+| 12022 | pictures/12022.webp | a Saturday market, farmers and townspeople trading | Science — Culture — How Our People Live |
+| 12023 | pictures/12023.webp | a festival, neighbours of different languages and faiths | Science — Culture — Many Cultures Side by Side |
+| 12024 | pictures/12024.webp | elders mediating, and dancers in traditional dress | Science — Culture — Good Customs We Keep |
+| 12025 | pictures/12025.webp | a girl staying in school with books | Science — Culture — Harmful Customs We Must Stop |
+| 12026 | pictures/12026.webp | stone terraces on a hillside farm | Science — Culture — Our Elders' Ways of Caring for Land and Water |
+| 12027 | pictures/12027.webp | a camel in the hot lowland beside a horse in the cool highland | Science — Culture and Climate — How the Weather Shapes Our Way of Life |
+| 12028 | pictures/12028.webp | a farm with cereal fields and cattle, sheep and chickens | Science — Work and Livelihood — Farming: Crops and Animals |
+| 12029 | pictures/12029.webp | an overgrazed, eroding field | Science — Work and Livelihood — When Our Work Hurts Nature |
+| 12030 | pictures/12030.webp | a weaver at a loom beside a textile factory | Science — Work and Livelihood — Making Things: By Hand and by Factory |
+| 12031 | pictures/12031.webp | a farmer selling grain, buying oil and clothes | Science — Work and Livelihood — Buying and Selling |
+| 12032 | pictures/12032.webp | a loaded camel and a loaded truck on the same road | Science — Work and Livelihood — Trade That Harms Nature; Ways of Travelling |
+| 12035 | pictures/12035.gif | sun rising one side of a house, setting on the other | Science — Directions — Right, Left and the Four Directions |
+| 12036 | pictures/12036.gif | a sketch map drawn step by step | Science — My Neighbours and My First Sketch Map |
+| 12037 | pictures/12037.gif | zooming out house, kebele, woreda, zone | Science — Kebele, Woreda and Zone |
+| 12038 | pictures/12038.gif | a short traditional dance step sequence | Science — Culture — Good Customs We Keep |
+| 12039 | pictures/12039.gif | a weaving shuttle passing back and forth | Science — Work and Livelihood — Making Things: By Hand and by Factory |
+| 12040 | pictures/12040.gif | water flowing through a dam, a bulb lighting up | Science — Our Country — the Abbay River and the Renaissance Dam |
+| 12041 | pictures/12041.gif | a ball in, on, under, next to a box | Science — What Location Means |
+| 12042 | pictures/12042.gif | a child turning: front, right, back, left | Science — Directions — Right, Left and the Four Directions |
+| 12043 | pictures/12043.gif | zooming out village → kebele → woreda | Science — Kebele and Woreda — Reading a Sketch Map |
+| 12044 | pictures/12044.gif | a potter shaping clay on a turning wheel | Science — Our Community — People Young and Old; People's Jobs |
+| 12045 | pictures/12045.gif | latitude lines appearing one by one on a globe | Science — Latitude Lines and the Equator |
+| 12046 | pictures/12046.gif | longitude lines sweeping pole to pole on a globe | Science — Longitude Lines and the Greenwich Meridian |
+| 12100 | pictures/12100.webp | body | Science — Parts of the body and the five senses |
+| 12101 | pictures/12101.webp | senses | Science — Parts of the body and the five senses |
+| 12102 | pictures/12102.webp | wash | Science — Keeping our bodies clean |
+| 12103 | pictures/12103.gif | handwash | Science — Keeping our bodies clean |
+| 12104 | pictures/12104.webp | pests | Science — Keeping our bodies clean |
+| 12105 | pictures/12105.webp | wash | Science — Keeping our bodies clean |
+| 12106 | pictures/12106.webp | sick | Science — What disease is, and how it spreads |
+| 12107 | pictures/12107.webp | fly | Science — What disease is, and how it spreads |
+| 12108 | pictures/12108.webp | fly | Science — What disease is, and how it spreads |
+| 12109 | pictures/12109.webp | food | Science — Healthy food and spoiled food |
+| 12110 | pictures/12110.webp | food | Science — Healthy food and spoiled food |
+| 12111 | pictures/12111.webp | exercise | Science — Moving our bodies and sleep on time |
+| 12112 | pictures/12112.gif | skip | Science — Moving our bodies and sleep on time |
+| 12113 | pictures/12113.webp | sleep | Science — Moving our bodies and sleep on time |
+| 12114 | pictures/12114.webp | hiv | Science — HIV and AIDS: how it spreads and how it does not |
+| 12115 | pictures/12115.webp | road | Science — Traffic accidents and the rules of the road |
+| 12116 | pictures/12116.webp | road | Science — Traffic accidents and the rules of the road |
+| 12117 | pictures/12117.gif | crossing | Science — Traffic accidents and the rules of the road |
+| 12118 | pictures/12118.webp | lights | Science — Signs, lights and crossing rules |
+| 12119 | pictures/12119.gif | trafficlight | Science — Signs, lights and crossing rules |
+| 12120 | pictures/12120.webp | materials | Science — Describing things: matter and its properties |
+| 12121 | pictures/12121.webp | breakable | Science — How materials behave: stretchy, breakable, shapable |
+| 12122 | pictures/12122.webp | stretch | Science — How materials behave: stretchy, breakable, shapable |
+| 12123 | pictures/12123.gif | rubberband | Science — How materials behave: stretchy, breakable, shapable |
+| 12124 | pictures/12124.webp | shapable | Science — How materials behave: stretchy, breakable, shapable |
+| 12125 | pictures/12125.webp | solids | Science — Solids, liquids and gases |
+| 12126 | pictures/12126.webp | liquids | Science — Solids, liquids and gases |
+| 12127 | pictures/12127.gif | pour | Science — Solids, liquids and gases |
+| 12128 | pictures/12128.webp | gas | Science — Solids, liquids and gases |
+| 12129 | pictures/12129.gif | balloon | Science — Solids, liquids and gases |
+| 12130 | pictures/12130.webp | states | Science — Solids, liquids and gases |
+| 12131 | pictures/12131.gif | states | Science — Solids, liquids and gases |
+| 12132 | pictures/12132.webp | lightdark | Science — Light and dark: what light is |
+| 12133 | pictures/12133.gif | lamp | Science — Light and dark: what light is |
+| 12134 | pictures/12134.webp | passthrough | Science — Things light passes through |
+| 12135 | pictures/12135.gif | torch | Science — Things light passes through |
+| 12136 | pictures/12136.webp | shadow | Science — Things that block light, and shadows |
+| 12137 | pictures/12137.gif | shadow | Science — Things that block light, and shadows |
+| 12138 | pictures/12138.webp | lamps | Science — Sources of light: lamps people make and light from nature |
+| 12139 | pictures/12139.webp | daynight | Science — Sources of light: lamps people make and light from nature |
+| 12140 | pictures/12140.gif | daynight | Science — Sources of light: lamps people make and light from nature |
+| 12141 | pictures/12141.webp | sunchain | Science — Sunlight keeps everything alive, and what light is used for |
+| 12142 | pictures/12142.gif | seedlinglight | Science — Sunlight keeps everything alive, and what light is used for |
+| 12143 | pictures/12143.webp | sunuses | Science — Sunlight keeps everything alive, and what light is used for |
+| 12144 | pictures/12144.webp | weather | Science — Today's weather |
+| 12145 | pictures/12145.gif | raincloud | Science — Today's weather |
+| 12146 | pictures/12146.webp | climate | Science — Weather and climate |
+| 12147 | pictures/12147.webp | elements | Science — Weather and climate |
+| 12148 | pictures/12148.webp | daynight | Science — Day and night, rainbow and flood |
+| 12149 | pictures/12149.gif | sunset | Science — Day and night, rainbow and flood |
+| 12150 | pictures/12150.webp | flood | Science — Day and night, rainbow and flood |
+| 12151 | pictures/12151.webp | zones | Science — Seasons and climate zones of our country |
+| 12152 | pictures/12152.webp | mountain | Science — Seasons and climate zones of our country |
+| 12153 | pictures/12153.webp | plantparts | Science — Kinds of plants and their parts |
+| 12154 | pictures/12154.webp | fourtins | Science — What a plant needs to grow |
+| 12155 | pictures/12155.gif | sprout | Science — What a plant needs to grow |
+| 12156 | pictures/12156.webp | plantgifts | Science — Plants give us things and food |
+| 12157 | pictures/12157.webp | heal | Science — Plants that heal |
+| 12158 | pictures/12158.webp | soilplants | Science — Fallen leaves feed the soil; plants hold the soil |
+| 12159 | pictures/12159.gif | erosion | Science — Fallen leaves feed the soil; plants hold the soil |
+| 12160 | pictures/12160.webp | tamewild | Science — Tame animals and wild animals |
+| 12161 | pictures/12161.webp | movement | Science — Grouping animals: by young, by movement, by food and by body |
+| 12162 | pictures/12162.gif | movement | Science — Grouping animals: by young, by movement, by food and by body |
+| 12163 | pictures/12163.webp | groups | Science — Grouping animals: by young, by movement, by food and by body |
+| 12164 | pictures/12164.gif | sorting | Science — Grouping animals: by young, by movement, by food and by body |
+| 12165 | pictures/12165.webp | atwork | Science — What animals need, and animals at work for people |
+| 12166 | pictures/12166.webp | care | Science — Looking after our animals |
+| 12167 | pictures/12167.webp | living | Science — Living and non-living things |
+| 12168 | pictures/12168.gif | alive | Science — Living and non-living things |
+| 12169 | pictures/12169.webp | resources | Science — Water, soil and air around us |
+| 12170 | pictures/12170.webp | soil | Science — Water, soil and air around us |
+| 12171 | pictures/12171.webp | water | Science — Water, soil and air around us |
+| 12172 | pictures/12172.webp | air | Science — Water, soil and air around us |
+| 12173 | pictures/12173.webp | minerals | Science — Minerals from the ground |
+| 12174 | pictures/12174.webp | leafpage | Science — Plants and wild animals as resources |
+| 12175 | pictures/12175.webp | ibex | Science — Plants and wild animals as resources |
+| 12176 | pictures/12176.webp | barehill | Science — How a rich place becomes bare |
+| 12177 | pictures/12177.webp | nursery | Science — Caring so they last: looking after natural resources |
+| 12178 | pictures/12178.gif | planting | Science — Caring so they last: looking after natural resources |
+| 12179 | pictures/12179.webp | protectedland | Science — Caring for our environment: soil, water and air |
+| 12180 | pictures/12180.webp | reuse | Science — Caring for our surroundings, and reusing what we throw away |
+| 12181 | pictures/12181.gif | bottlepot | Science — Caring for our surroundings, and reusing what we throw away |
+| 12182 | pictures/12182.webp | resourcesmap | Science — Resources around us, and why they matter |
+| 12183 | pictures/12183.webp | tourists | Science — Resources around us, and why they matter |
+| 12184 | pictures/12184.gif | rainslope | Science — Resources around us, and why they matter |
+| 12185 | pictures/12185.webp | drywaste | Science — Dry rubbish in its place |
+| 12186 | pictures/12186.gif | sorting | Science — Dry rubbish in its place |
+| 12187 | pictures/12187.webp | liquidwaste | Science — Dirty water and what it brings |
+| 12188 | pictures/12188.webp | shared | Science — Resources people make — and looking after them |

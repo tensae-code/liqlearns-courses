@@ -1,0 +1,16 @@
+# Solids, liquids and gases — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its SUB LESSONS (2026-11-08 restructure — README, "Units, Lessons and Sub Lessons"). Practice is tied to the learner's skill number, as before. The questions live in the type files; this file is the by-sub-lesson view. The sub lessons are the depths inside this one thing, in the books' own order, the youngest book's teaching first.
+
+## Sub lesson 1 — Solids keep their shape
+Sub lesson 1 questions from the type files. Pass mark: state the solid rule and defend it with a collected solid in two containers
+
+## Sub lesson 2 — Liquids take the container's shape — the pouring experiment
+Sub lesson 2 questions from the type files. Pass mark: perform the pouring experiment and state the liquid rule from what was seen
+
+## Sub lesson 3 — Gases spread out
+Sub lesson 3 questions from the type files. Pass mark: state the gas rule and give the balloon's two proofs — weight and space
+
+## Sub lesson 4 — Changes that make nothing new
+Sub lesson 4 questions from the type files. Pass mark: run water through its three states in order and state the physical-change rule
+

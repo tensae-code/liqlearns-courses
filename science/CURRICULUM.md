@@ -1,0 +1,156 @@
+# Science course — CURRICULUM (the path)
+
+Science is one world course, organised by **levels, not grades**:
+a learner climbs when they are ready, not when a school calendar
+says so. The school grades the books come from appear only in
+each lesson's sources (provenance), never as the course's
+organisation. The path climbs by the size of the thing (see
+TITLES.md): **First Steps → Location and Maps → The Human Body →
+Materials → Light → Weather and Seasons → Soil and Water →
+Plants → Animals → Natural Resources → Our Environment → Family,
+School and Community → Work and Heritage → Keeping Healthy →
+Science Skills**.
+
+**The first page (what learners are told):** everything in this
+course comes from government textbooks — the primary level from
+Ethiopia's Environmental Science books — except the **Tip
+boxes**: a tip in a box is from us, the people making LiqLearns.
+Tips are ours; the lessons are the books'. See ABOUT.md for the
+full book list and the acceptance reckoning.
+
+## Where the build stands
+
+**Band A (Environmental Science Grades 1–3, student books +
+teacher-guide evidence) — BUILT 2026-11-12:** 74 lessons, 810
+questions, 134 media filed (pictures/GIFs 12000–12188 after a
+coordinator renumber — see the build logs), a video script in
+every lesson. Two lessons rest on teacher-guide evidence only and
+say so in their sources (Where My Home Is; My Neighbours and My
+First Sketch Map); Grade 1 has no student book (see ABOUT.md).
+The books' own chapter Review sections were not built as lessons
+(standing exclusion). Three "Children's rights" placements from
+the G2/G3 books are assigned to Family, School and Community and
+land with Band B. Bands still to build: B (Grade 4), C (Grades
+5–6). Build logs:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/band-es-a1-social.md`
+and `band-es-a2-nature.md`.
+
+## Unit 1 — First Steps
+
+1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
+
+## Unit 2 — Location and Maps
+
+1. **Absolute Location — A Place's Exact Position** (`location-and-maps/absolute-location-a-places-exact-position`) — absolute location (ፍፁማዊ መገኛ) — a place's exact position, stated in latitude then longitude, in degrees and minutes.
+2. **Directions — Right, Left and the Four Directions** (`location-and-maps/directions-right-left-and-the-four-directions`) — the directions — right and left, front and back on your own body, and east, west, north and south found from the sun.
+3. **Kebele and Woreda — Reading a Sketch Map** (`location-and-maps/kebele-and-woreda-reading-a-sketch-map`) — how villages group into a kebele and kebeles into a woreda, and how to read — and draw — a woreda sketch map.
+4. **Kebele, Woreda and Zone** (`location-and-maps/kebele-woreda-and-zone`) — the next step up: a zone is a group of neighbouring woredas — and why knowing a place's location matters.
+5. **Latitude Lines and the Equator** (`location-and-maps/latitude-lines-and-the-equator`) — latitude lines (የኬክሮስ ዲግሪ) — the imaginary lines drawn east–west around the earth, and the equator, the 0° line they are measured from.
+6. **Longitude Lines and the Greenwich Meridian** (`location-and-maps/longitude-lines-and-the-greenwich-meridian`) — longitude lines (የኬንትሮስ ዲግሪ) — the imaginary lines drawn pole to pole, measured from the 0° Greenwich meridian.
+7. **My Neighbours and My First Sketch Map** (`location-and-maps/my-neighbours-and-my-first-sketch-map`) — naming the neighbours around your home, saying which side each lives on, and drawing your first sketch map (teacher-guide evidence only).
+8. **Our Woreda's Neighbours** (`location-and-maps/our-woredas-neighbours`) — the names and positions of the woredas around our own — neighbours at woreda scale.
+9. **Relative Location — Where a Place Lies** (`location-and-maps/relative-location-where-a-place-lies`) — relative location (አንጻራዊ መገኛ) — describing where a place lies by the things around it and by direction, from a market stall to a whole zone.
+10. **What Location Means** (`location-and-maps/what-location-means`) — what location (መገኛ) means — every thing and every place is somewhere, and we say where by pointing to what is near it.
+11. **Where My Home Is** (`location-and-maps/where-my-home-is`) — saying where your own home is — which side of the school it lies on, and how it stands compared with the woreda.
+
+## Unit 3 — The Human Body
+
+1. **Parts of the body and the five senses** (`the-human-body/parts-of-the-body-and-the-five-senses`) — the learner can name the outside parts of the body, name the five sense organs, and say what each part and each sense does
+
+## Unit 4 — Materials
+
+1. **Describing things: matter and its properties** (`materials/describing-things`) — everything around us is matter, and we tell things apart by their properties: colour, shape, size, taste, smell, soft or rough, heavy or light, swe…
+2. **How materials behave: stretchy, breakable, shapable** (`materials/how-materials-behave`) — when we pull, drop and beat materials, they behave in kinds: some stretch and spring back, some break, some can be drawn into wire or beaten into s…
+3. **Solids, liquids and gases** (`materials/solids-liquids-and-gases`) — matter exists in three states: solid keeps shape and volume; liquid keeps volume but takes the container's shape; gas has neither and spreads to fi…
+
+## Unit 5 — Light
+
+1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
+2. **Sources of light: lamps people make and light from nature** (`light/sources-of-light`) — light comes from two families of sources: natural — sun, moon and stars; and human-made — kuraz lamp, bulb, candle, torch, fanos — and the learner …
+3. **Sunlight keeps everything alive, and what light is used for** (`light/sunlight-keeps-everything-alive`) — the sun is our main light source: plants make their food with sunlight, animals eat plants, people eat both — without sunlight nothing lives; sunli…
+4. **Things light passes through** (`light/things-light-passes-through`) — some materials let light through — glass, water, air — and we test them the book's way, with a torch
+5. **Things that block light, and shadows** (`light/things-that-block-light-and-shadows`) — wall, wooden table and book block light; blocked light is why houses are dark at night and why you cast a shadow in the sun; leafy trees give shade
+
+## Unit 6 — Weather and Seasons
+
+1. **Day and night, rainbow and flood** (`weather-and-seasons/day-and-night-rainbow-and-flood`) — a natural event happens in nature outside human control; day and night are a natural cycle — 24 hours, 12 of sunlight and 12 without — and rainbow …
+2. **Seasons and climate zones of our country** (`weather-and-seasons/seasons-and-climate-zones-of-our-country`) — Ethiopia's seasons — bega the dry season, kiremt the rainy, farming season — and its five climate zones by altitude: berha, qolla, weyna dega, dega…
+3. **Today's weather** (`weather-and-seasons/todays-weather`) — weather is the air's condition now — sunny, rainy, cloudy, cold, hot, windy — changing hour by hour and morning to evening, and we observe and repo…
+4. **Weather and climate** (`weather-and-seasons/weather-and-climate`) — weather changes hour by hour; climate is the air's long pattern — the Grade 3 book says judging it needs at least 30 years of records — and its ele…
+
+## Unit 7 — Soil and Water
+
+Opens with a later band — no lessons built yet.
+
+## Unit 8 — Plants
+
+1. **Fallen leaves feed the soil; plants hold the soil** (`plants/fallen-leaves-feed-the-soil`) — fallen leaves and grass rot into the topsoil and raise its fertility; plants stop soil erosion, shelter wild animals and give recreation — and cutt…
+2. **Kinds of plants and their parts** (`plants/kinds-of-plants-and-their-parts`) — plants come in kinds — big trees, medium shrubs, small plants — and every plant has its parts: root, stem or trunk, leaf, flower (and fruit); our c…
+3. **Plants give us things and food** (`plants/plants-give-us-things-and-food`) — houses, clothes, chairs, tables and paper come from plants; plants feed people — cabbage, orange, maize — and animals, and bees and butterflies fee…
+4. **Plants that heal** (`plants/plants-that-heal`) — the local medicinal plants the Grade 3-level list names — garlic, tena adam, dama kese, haregresa, feto, grawa, moringa (shiferaw), kebericho, tosi…
+5. **What a plant needs to grow** (`plants/what-a-plant-needs-to-grow`) — a plant needs soil, water, air and sunlight — proved by the book's four-tin experiment: bean seeds sown the same day in an empty tin, soil only, wa…
+
+## Unit 9 — Animals
+
+1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…
+2. **Looking after our animals** (`animals/looking-after-our-animals`) — cared-for animals get enough food and water, a clean shelter, medical care when sick, and handling that does not hurt them — and cared-for animals …
+3. **Tame animals and wild animals** (`animals/tame-animals-and-wild-animals`) — domestic animals live under people's care; wild animals live in forest, grassland, caves and water — and domestic animals give people great service…
+4. **What animals need, and animals at work for people** (`animals/what-animals-need-and-animals-at-work`) — animals need food, shelter and water; they repay care with food (meat, milk, eggs, yoghurt, cheese, butter), transport (horse, donkey, mule, camel)…
+
+## Unit 10 — Natural Resources
+
+1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
+2. **How a rich place becomes bare** (`natural-resources/how-a-rich-place-becomes-bare`) — a printed memoir: a place once rich in native plants, wild animals and birdsong ('the monkeys' house', 1970 E.C.) found forty years later a barren,…
+3. **Minerals from the ground** (`natural-resources/minerals-from-the-ground`) — minerals are things dug from the ground or found on it — stone, gravel, sand, salt, iron, and in Grade 3 also coal, fuel/oil and gold; they are non…
+4. **Plants and wild animals as resources** (`natural-resources/plants-and-wild-animals-as-resources`) — plants keep the climate steady and serve food, industry and more; wild animals, not tamed and living wild, earn the country income through tourism …
+5. **Water, soil and air around us** (`natural-resources/water-soil-and-air-around-us`) — soil, water and air are natural resources: soil is the fertile top layer where roots reach, in black, red and brown; water comes from river, well, …
+
+## Unit 11 — Our Environment
+
+1. **Caring for our environment: soil, water and air** (`our-environment/caring-for-our-environment-soil-water-and-air`) — care, resource by resource: stopping soil erosion (eroded land against protected land), keeping water sources unpolluted, keeping the air clean — w…
+2. **Caring for our surroundings, and reusing what we throw away** (`our-environment/caring-for-our-surroundings-and-reusing`) — our resources are being badly damaged, so we protect them: planting and tending trees, disposing of waste properly, preventing forest fire, cleanli…
+3. **Dirty water and what it brings** (`our-environment/dirty-water-and-what-it-brings`) — liquid waste — urine, wash-water and effluent from homes and factories — brings bad smell, respiratory illness (colds, asthma), breeding places for…
+4. **Dry rubbish in its place** (`our-environment/dry-rubbish-in-its-place`) — dry waste — peelings (onion, potato, banana, orange), paper and plastic — goes into a waste container and then to a proper disposal place, or the h…
+5. **Resources around us, and why they matter** (`our-environment/resources-around-us-and-why-they-matter`) — natural resources are soil, water, plants, air and wild animals; man-made resources are monuments, bridges, houses of worship, government buildings…
+6. **Resources people make — and looking after them** (`our-environment/resources-people-make`) — things people create for use — dam, mosque, church, school, hospital — are human-made resources; as shared property they must be used and kept prop…
+
+## Unit 12 — Family, School and Community
+
+1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
+2. **Family Needs — Food, Clothes and a Home** (`family-school-and-community/family-needs-food-clothes-and-a-home`) — the family's three basic needs — food for growth, health and strength; clothing that protects and changes with the weather; and shelter that keeps …
+3. **Family — Who Is in a Family and What Each One Does** (`family-school-and-community/family-who-is-in-a-family`) — who is in a family — father, mother, children, sometimes grandparents, uncles and aunts — and that every member works for the family's living, with…
+4. **Friends — Playing and Learning Together** (`family-school-and-community/friends-playing-and-learning-together`) — good friendship at school — understanding and helping each other: studying together, doing homework together, and walking to and from school together.
+5. **Our Community — Market, Clinic and Play Places** (`family-school-and-community/market-clinic-and-play-places`) — the places the whole community shares — the market for buying and selling, the health station where mothers give birth and the sick are treated, an…
+6. **Our School — Rules We Keep** (`family-school-and-community/our-school-rules-we-keep`) — the school's rules — arriving on time, the uniform, homework, respect for teachers, and caring for school property — and how we care for what is ou…
+7. **Our Community — People Young and Old; People's Jobs** (`family-school-and-community/people-young-and-old-peoples-jobs`) — grouping the community by age — child, youth, adult, elder — and by work: the trades of the community and the product each trade makes.
+8. **Our Community — Places That Help Us** (`family-school-and-community/places-that-help-us`) — the places and institutions that serve a community — health station, church and mosque, bank, police station, school, iddir, court — what each one …
+9. **Our School — The People of Our School** (`family-school-and-community/the-people-of-our-school`) — the members of a school community — pupils, teachers, head, deputy, supervisor, guards, library and cleaning staff, secretaries — and the different…
+
+## Unit 13 — Work and Heritage
+
+1. **Work and Livelihood — Buying and Selling** (`work-and-heritage/buying-and-selling`) — trade — buying and selling between people: farmers sell farm products and buy industrial goods, while townspeople and traders supply those goods to…
+2. **Culture and Climate — How the Weather Shapes Our Way of Life** (`work-and-heritage/culture-and-climate`) — how climate shapes culture — why lowlanders wear white and highlanders dark, thick clothes; and how crops, animals, houses, dress and food all foll…
+3. **Culture — How Our People Live** (`work-and-heritage/culture-how-our-people-live`) — what culture is — a people's whole way of life: language, religion, song, work and customs, built up by people through history, not found in nature.
+4. **Culture — Our Elders' Ways of Caring for Land and Water** (`work-and-heritage/elders-ways-of-caring-for-land-and-water`) — the traditional ways of caring for natural resources — guarding fields, terracing, field drains, protecting rivers and springs, fallowing, contour …
+5. **Work and Livelihood — Farming: Crops and Animals** (`work-and-heritage/farming-crops-and-animals`) — agriculture, the country's backbone — what 'economy' means, and farming's two halves: crop production and animal rearing, with the crops and animal…
+6. **Culture — Good Customs We Keep** (`work-and-heritage/good-customs-we-keep`) — the useful traditional practices — honouring traditional dress, respecting elders, hospitality to guests, respecting work, elder mediation (ሽምግልና),…
+7. **Culture — Harmful Customs We Must Stop** (`work-and-heritage/harmful-customs-we-must-stop`) — the traditional practices the community does not accept and that must be stopped — early marriage, feasting beyond one's means, female circumcision…
+8. **Work and Livelihood — Making Things: By Hand and by Factory** (`work-and-heritage/making-things-by-hand-and-by-factory`) — industry — turning farm and mineral products into other useful things: cottage industry by hand and skill, and modern factory industry, with their …
+9. **Culture — Many Cultures Side by Side** (`work-and-heritage/many-cultures-side-by-side`) — cultural diversity — many cultures living in one community: different languages, religions, foods, marriages, songs and eating customs, side by side.
+10. **Our Country — the Abbay River and the Renaissance Dam** (`work-and-heritage/the-abbay-river-and-the-renaissance-dam`) — the Abbay (Blue Nile) — what the great river gives: drinking water, irrigation and fish — and the Grand Ethiopian Renaissance Dam, built with all E…
+11. **Work and Livelihood — Trade That Harms Nature; Ways of Travelling** (`work-and-heritage/trade-that-harms-nature-and-ways-of-travelling`) — the trade in firewood, charcoal, timber, sand and stone — and what it costs nature — plus transport: pack animals of old and the modern vehicles th…
+12. **Work and Livelihood — When Our Work Hurts Nature** (`work-and-heritage/when-our-work-hurts-nature`) — how economic activity can harm natural resources — growing demand for farmland and firewood, lacking energy alternatives, overgrazing and backward …
+
+## Unit 14 — Keeping Healthy
+
+1. **Healthy food and spoiled food** (`keeping-healthy/healthy-food-and-spoiled-food`) — telling healthy food from unhealthy and spoiled food — fresh, clean and not overloaded with sugar, salt and fat, against spoiled, unhygienic food
+2. **HIV and AIDS: how it spreads and how it does not** (`keeping-healthy/hiv-and-aids`) — AIDS is caused by the HIV virus; it spreads through blood and sometimes from mother to child — and it does NOT spread by touching, handshakes, shar…
+3. **Keeping our bodies clean** (`keeping-healthy/keeping-our-bodies-clean`) — keeping the whole body clean as a daily habit — washing, teeth, nails, hair and clothes — and knowing why it matters
+4. **Moving our bodies and sleep on time** (`keeping-healthy/moving-our-bodies-and-sleep-on-time`) — exercise and sport keep people active, strong and healthy; enough sleep, on time, keeps learning and work strong
+5. **Signs, lights and crossing rules** (`keeping-healthy/signs-lights-and-crossing-rules`) — the traffic signs and lights and what each colour commands, with the crossing rules gathered in one table
+6. **Traffic accidents and the rules of the road** (`keeping-healthy/traffic-accidents-and-the-rules-of-the-road`) — how children are hurt on roads, and the road rules that prevent it: keep left on the pedestrian way, cross only at the zebra, looking both ways
+7. **What disease is, and how it spreads** (`keeping-healthy/what-disease-is-and-how-it-spreads`) — what disease is, how sickness travels — germs, flies and mosquitoes, dirt — and how cleanliness stops it
+
+## Unit 15 — Science Skills
+
+1. **Living and non-living things** (`science-skills/living-and-non-living-things`) — living things have the characteristics of life; we sort the things around us into living and non-living — goat, tree, child against stone, river, c…

@@ -1,0 +1,24 @@
+# Latitude Lines and the Equator — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1) Latitude lines run —**
+a) pole to pole  b) east–west, parallel to the equator  c) only over Ethiopia
+**Answer: b) east–west, parallel to the equator** — Latitude lines circle east–west, parallel to the equator.
+
+**2. (Sub lesson 2) The equator is the latitude line of —**
+a) 90 degrees  b) 0 degrees  c) 10 degrees
+**Answer: b) 0 degrees** — The equator is the 0° starting line.
+
+**3. (Sub lesson 1) A place far north of the equator has —**
+a) a big latitude number  b) latitude zero  c) no latitude
+**Answer: a) a big latitude number** — Distance from the equator grows the number.
+
+**4. (Sub lesson 1) Which lines are parallel and never meet?**
+a) Longitude lines  b) Latitude lines  c) Roads
+**Answer: b) Latitude lines** — Latitude lines are parallel.
+
+**5. (Sub lesson 1) Degrees in location are written with the sign —**
+a) °  b) %  c) #
+**Answer: a) °** — Degrees use the ° sign.
+

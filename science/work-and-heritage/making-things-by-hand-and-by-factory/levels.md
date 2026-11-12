@@ -1,0 +1,12 @@
+# Work and Livelihood — Making Things: By Hand and by Factory — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number; the questions live in the type files, and this file is the by-sub-lesson view.
+
+## Sub lesson 1 — What industry is
+Sub lesson 1 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Industry means — (answer: turning products into other useful things).
+
+## Sub lesson 2 — Cottage industry — by hand and skill
+Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A mitad is a product of — (answer: cottage industry — pottery).
+
+## Sub lesson 3 — Modern industry — by factory
+Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A textile factory makes — (answer: clothes, sheets and blankets).
