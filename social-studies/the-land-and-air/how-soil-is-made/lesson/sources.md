@@ -12,9 +12,9 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
 | Sub lesson 2 — Ethiopia’s varied soils | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
-
 | Sub lesson — Soil — the working skin of the land (Grade 10) | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 66–67 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 3, guide printed pp. 43–64 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".

@@ -10,3 +10,6 @@ Vector data is geometry: points for wells, schools and airports; lines and polyl
 
 Every feature carries two kinds of data.
 
+The Grade 10 book builds vector from the ground: features are defined by sequential points, or vertices — points as single coordinates, lines as chains of vertices, and areas as closed polygons.
+
+Against vector, the Grade 10 book sets raster: grid cells, each classified by its most common attribute.

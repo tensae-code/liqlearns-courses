@@ -10,3 +10,4 @@ The ancient Greeks divided the world by latitude into Frigid, Temperate and Torr
 
 Empirical schemes classify by observed data, with set boundaries drawn from measured temperature and rainfall.
 
+The Grade 10 book frames its African treatment the same way: the world's climate types and regions are set out first, with the rival schemes for classifying them — the section's stated outcome is that pupils can name and weigh the schemes before a single African climate is drawn.

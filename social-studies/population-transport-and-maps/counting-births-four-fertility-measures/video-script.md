@@ -10,3 +10,4 @@ The total fertility rate is built from age-specific rates across the seven five-
 
 The general fertility rate counts births per 1,000 women aged 15 to 49.
 
+The Grade 10 book teaches the same measures from Africa's side.

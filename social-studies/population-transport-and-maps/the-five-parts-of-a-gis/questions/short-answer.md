@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** State the warning.
 **Answer:** The technology has limited value without the people who manage it.
+
+**4. (Sub lesson 4)** Name the five components, as both books give them.
+**Answer:** Hardware, software, data, people and methods (procedures).

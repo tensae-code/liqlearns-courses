@@ -15,9 +15,9 @@ countries: Ethiopia
 | Sub lesson 1 — The ratio | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 94–96 |
 | Sub lesson 2 — Active and inactive; the burden | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 94–96 |
 | Age dependency ratio defined, marking form (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, printed p. 114 |
-
 | Sub lesson — Dependency across Africa's regions | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 108–112 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 4, guide printed pp. 65–84 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Extension (Wave 4 Band D): the Grade 10 regional dependency treatment (printed pp. 108–112) was stacked under this lesson per the build brief; the same placement also stands, drawn as a chart, in the lesson "Dependency across Africa's regions" in People and Resources. The placements name the regions compared but print no regional figures in the placement text, so this part claims none.

@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files (3 items). Pass mark: answer its ques
 
 ## Sub lesson 3 — What decides the numbers
 Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 4 — Infant, maternal and life expectancy — Africa's set
+Sub lesson 4 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

@@ -18,6 +18,10 @@ Possibilism answers that the environment offers possibilities, not necessities; 
 
 The balance the book states: location still shapes population distribution, transport costs and market access — but it does not decide alone. Place loads the dice; people still throw them.
 
+## Sub lesson 4 — Determinism or possibilism? — the Grade 10 pair
+
+The Grade 10 book teaches the same pair in its interaction unit: determinism — the environment shapes human life — against possibilism — humans choose among the possibilities an environment offers, aided by technology and modernisation. Read with the Grade 11 debate above, the pair is the course's standing question: every later lesson, from adaptation to GIS, quietly answers it again.
+
 ## Say it to your companion
 
 Explain does geography decide? determinism versus possibilism to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

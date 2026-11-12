@@ -329,3 +329,18 @@ the guide's References (placement 25) — the sourcing shelf behind
 the book. The guide's pedagogy summaries and answer keys are
 marking evidence for their units, filed here; their content
 additions stand inside the lessons as labelled teacher evidence.
+
+## Ethiopia, Geography Grades 10–11 — the shape of the books and their word lists (guide evidence)
+
+**The Grade 11 course shape** (teacher guide): the book's own
+map of its units, with the geographer's questions and the period
+map — the frame the Grade 11 geography lessons hang on.
+
+**The Grade 10 apparatus** (teacher guide): the book's
+References, its Minimum Learning Competencies and syllabus —
+the sourcing shelf behind the Grade 10 book.
+
+**Geospatial words** (Grade 10/11 glossaries): the books' own
+word list for the GIS and data lessons. **Migration words**
+(Glossary): the books' own word list for the population and
+movement lessons.

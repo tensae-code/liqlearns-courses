@@ -17,3 +17,7 @@ a) long-term impact  b) short-term impact  c) remedy
 **4. (Sub lesson 3)** The lock on the trap is —
 a) forced sale of assets after each shock  b) high savings  c) good insurance
 **Answer: a) forced sale of assets after each shock**
+
+**5. (Sub lesson 4)** In the Grade 10 trap circle, low income leads first to —
+a) high productivity  b) rising income  c) low saving and low investment
+**Answer: c) low saving and low investment**

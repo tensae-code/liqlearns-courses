@@ -17,3 +17,7 @@ a) causes — air masses, circulation, fronts, radiation  b) observed data only 
 **4. (Sub lesson 3)** Empirical schemes classify by —
 a) observed data with set boundaries  b) latitude only  c) stories
 **Answer: a) observed data with set boundaries**
+
+**5. (Sub lesson 4)** The Grade 10 survey sets out, before Africa's climates —
+a) only Ethiopia's zones  b) only rainfall maps  c) the world's climate types, regions and rival classification schemes
+**Answer: c) the world's climate types, regions and rival classification schemes**

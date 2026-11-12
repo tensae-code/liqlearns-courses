@@ -10,3 +10,9 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** What two data kinds does every feature carry?
 **Answer:** Spatial (where) and attribute (what it is like).
+
+**4. (Sub lesson 4)** How does vector data represent shape?
+**Answer:** Accurately, by sequential points and vertices — points as coordinates, lines as vertex chains, areas as closed polygons.
+
+**5. (Sub lesson 5)** How is a raster cell classified?
+**Answer:** By its most common attribute.

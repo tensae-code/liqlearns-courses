@@ -10,3 +10,6 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** Köppen's system is an empirical scheme.
 **Answer: True**
+
+**4. (Sub lesson 4)** The Grade 10 book works world-first, then Africa.
+**Answer: True**

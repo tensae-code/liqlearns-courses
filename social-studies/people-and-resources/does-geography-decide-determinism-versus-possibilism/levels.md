@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files (3 items). Pass mark: answer its ques
 
 ## Sub lesson 3 — The modern balance
 Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 4 — Determinism or possibilism? — the Grade 10 pair
+Sub lesson 4 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

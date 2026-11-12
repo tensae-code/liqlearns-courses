@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** Whom does the GFR count births against?
 **Answer:** Women aged 15 to 49, per 1,000.
+
+**4. (Sub lesson 4)** What two fertility measures does the Grade 10 book compute?
+**Answer:** The total fertility rate and the crude birth rate.

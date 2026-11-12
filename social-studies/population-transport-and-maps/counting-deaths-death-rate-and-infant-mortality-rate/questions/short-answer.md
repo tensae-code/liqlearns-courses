@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** Name the determinants of mortality.
 **Answer:** Living standards, nutrition, medical services, hygiene and sanitation.
+
+**4. (Sub lesson 4)** Name the Grade 10 book's three-part mortality set.
+**Answer:** Infant mortality rate, maternal mortality rate and life expectancy.

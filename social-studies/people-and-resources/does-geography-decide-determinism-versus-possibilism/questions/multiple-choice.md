@@ -17,3 +17,7 @@ a) possibilism  b) determinism  c) the HDI
 **4. (Sub lesson 3)** In the modern balance, location shapes transport costs and —
 a) market access  b) nothing at all  c) the weather only
 **Answer: a) market access**
+
+**5. (Sub lesson 4)** In the Grade 10 statement, possibilism is aided by —
+a) climate alone  b) chance  c) technology and modernisation
+**Answer: c) technology and modernisation**

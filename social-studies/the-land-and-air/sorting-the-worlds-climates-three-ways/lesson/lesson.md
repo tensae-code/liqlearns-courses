@@ -18,6 +18,10 @@ The ancient Greeks divided the world by latitude into Frigid, Temperate and Torr
 
 Empirical schemes classify by observed data, with set boundaries drawn from measured temperature and rainfall. Köppen's and Trewartha's systems are the working examples — and Köppen's is the one the next lessons take apart.
 
+## Sub lesson 4 — The world's climates sorted — the Grade 10 survey
+
+The Grade 10 book frames its African treatment the same way: the world's climate types and regions are set out first, with the rival schemes for classifying them — the section's stated outcome is that pupils can name and weigh the schemes before a single African climate is drawn. World first, then Africa: the order is the method.
+
 ## Say it to your companion
 
 Explain sorting the world's climates — three ways to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

@@ -10,3 +10,6 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** Each shock leaves a trapped household stronger.
 **Answer: False**
+
+**4. (Sub lesson 4)** The trap circle has four stations and returns to low income.
+**Answer: True**

@@ -18,6 +18,10 @@ The total fertility rate is built from age-specific rates across the seven five-
 
 The general fertility rate counts births per 1,000 women aged 15 to 49. Each measure in the set sees what the others miss, which is why demographers carry all four.
 
+## Sub lesson 4 — Africa's fertility — the Grade 10 measures
+
+The Grade 10 book teaches the same measures from Africa's side. The total fertility rate is the children per woman across ages 15–49 at current rates; the crude birth rate is births per 1,000 mid-year population — and it prints Africa's figure: 33 births per 1,000 in mid-2020. Set beside the Grade 11 worked examples, the two books give the measures and the continent's own numbers in them.
+
 ## Say it to your companion
 
 Explain counting births — four fertility measures to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

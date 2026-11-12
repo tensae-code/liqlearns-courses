@@ -18,6 +18,10 @@ Data is a component in its own right, the subject of the next lesson. People spl
 
 Methods are each organisation's designed plan and rules for using its GIS. The book's warning closes the set: the technology has limited value without the people who manage it — four parts can be bought; the fifth must be grown.
 
+## Sub lesson 4 — The five parts in Grade 10's words
+
+The Grade 10 book names the same five components — hardware, software, data, people and methods — and spells out the people: administrators, managers, technicians, application experts, end users and consumers. Its verdict matches the Grade 11 warning exactly: a GIS is of limited value without the people to run and apply it.
+
 ## Say it to your companion
 
 Explain the five parts of a gis to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

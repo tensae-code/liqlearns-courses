@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** Explain the trap in one sentence.
 **Answer:** Assets sold to survive each shock leave the household unable to recover before the next one.
+
+**4. (Sub lesson 4)** Walk the trap circle once, station by station.
+**Answer:** Low income → low saving and investment → low productivity → low income again.

@@ -20,6 +20,14 @@ Vector data is geometry: points for wells, schools and airports; lines and polyl
 
 Every feature carries two kinds of data. Spatial: where it is. Attribute: what it is like — a lake's depth, quality and name are the book's example — the two linked at input.
 
+## Sub lesson 4 — Vector — drawing with points (the Grade 10 foundation)
+
+The Grade 10 book builds vector from the ground: features are defined by sequential points, or vertices — points as single coordinates, lines as chains of vertices, and areas as closed polygons. Drawn this way, a feature's shape is represented accurately, vertex by vertex.
+
+## Sub lesson 5 — Raster — drawing with squares (the Grade 10 foundation)
+
+Against vector, the Grade 10 book sets raster: grid cells, each classified by its most common attribute. A point is one cell; a line is a sequence of neighbouring cells; an area is a block of contiguous cells. The same river drawn both ways — vertex chain beside staircase of cells — is the comparison the whole data unit turns on.
+
 ## Say it to your companion
 
 Explain raster and vector — two ways to store the world to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

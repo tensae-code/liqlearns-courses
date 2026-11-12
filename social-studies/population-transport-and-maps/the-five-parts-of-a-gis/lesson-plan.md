@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Data and people**
 3. **Methods — and the warning**
 
+4. **The five parts in Grade 10's words**
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Answer, from the lesson alone, the questions of sub lesson 1 (Hardware and software).
 2. Answer, from the lesson alone, the questions of sub lesson 2 (Data and people).
 3. Answer, from the lesson alone, the questions of sub lesson 3 (Methods — and the warning).
+
+4. Answer, from the lesson alone, the questions of sub lesson 4 (The five parts in Grade 10's words).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

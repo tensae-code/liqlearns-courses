@@ -17,3 +17,7 @@ a) free GIS software  b) a printer  c) a database
 **4. (Sub lesson 3)** The component the book warns about is —
 a) people — technology has limited value without them  b) hardware  c) methods
 **Answer: a) people — technology has limited value without them**
+
+**5. (Sub lesson 4)** The Grade 10 people list includes —
+a) only programmers  b) only students  c) administrators, managers, technicians, application experts, end users and consumers
+**Answer: c) administrators, managers, technicians, application experts, end users and consumers**

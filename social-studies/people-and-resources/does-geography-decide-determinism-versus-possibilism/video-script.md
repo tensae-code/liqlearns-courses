@@ -10,3 +10,4 @@ Possibilism answers that the environment offers possibilities, not necessities; 
 
 The balance the book states: location still shapes population distribution, transport costs and market access — but it does not decide alone.
 
+The Grade 10 book teaches the same pair in its interaction unit: determinism — the environment shapes human life — against possibilism — humans choose among the possibilities an environment offers, aided by technology and modernisation.

@@ -10,3 +10,9 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** Raster cells each hold many values.
 **Answer: False**
+
+**4. (Sub lesson 4)** Vector points are stored as coordinates.
+**Answer: True**
+
+**5. (Sub lesson 5)** A raster point is a single grid cell.
+**Answer: True**

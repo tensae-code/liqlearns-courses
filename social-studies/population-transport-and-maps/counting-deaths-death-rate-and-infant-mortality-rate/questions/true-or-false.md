@@ -10,3 +10,6 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** Pupils calculate both measures for a fresh data set.
 **Answer: True**
+
+**4. (Sub lesson 4)** Maternal mortality counts deaths of mothers, and belongs to the Grade 10 mortality set.
+**Answer: True**

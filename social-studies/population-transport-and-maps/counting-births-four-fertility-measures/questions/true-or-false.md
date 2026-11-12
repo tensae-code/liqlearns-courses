@@ -10,3 +10,6 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** The crude birth rate is the most refined measure.
 **Answer: False**
+
+**4. (Sub lesson 4)** The Grade 10 book defines TFR as children per woman across ages 15–49 at current rates.
+**Answer: True**

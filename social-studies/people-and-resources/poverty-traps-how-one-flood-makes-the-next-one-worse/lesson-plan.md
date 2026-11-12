@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Short losses, long losses**
 3. **The trap itself**
 
+4. **The poverty-trap circle — the Grade 10 diagram**
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Answer, from the lesson alone, the questions of sub lesson 1 (Assets on the edge).
 2. Answer, from the lesson alone, the questions of sub lesson 2 (Short losses, long losses).
 3. Answer, from the lesson alone, the questions of sub lesson 3 (The trap itself).
+
+4. Answer, from the lesson alone, the questions of sub lesson 4 (The poverty-trap circle — the Grade 10 diagram).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.
@@ -42,6 +46,8 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 - IMAGE [Picture 27055] — a household asset staircase descending step by step, with each flood year marked
 - AUDIO — the lesson's key words and figures read aloud → the student listens and repeats. (Described slot only.)
 - VIDEO — the video-script filmed (made later) → the student watches and follows the walk-through.
+
+- GIF [GIF 21972] — an arrow travelling round the poverty-trap circle — low income, low saving, low productivity, low income (added in the Wave 4 Band D extension)
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

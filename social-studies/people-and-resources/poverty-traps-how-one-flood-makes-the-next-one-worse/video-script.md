@@ -10,3 +10,4 @@ The book's impact table separates them.
 
 Forced sale of assets after each shock is the lock on the trap: the ox sold to eat this year cannot plough next year.
 
+The Grade 10 book draws the trap as a circle of four stations: low income brings low saving and low investment; low investment brings low productivity; low productivity brings low income again.

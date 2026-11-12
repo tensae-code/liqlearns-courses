@@ -10,3 +10,4 @@ The infant mortality rate counts deaths under one year of age per 1,000 live bir
 
 Mortality's determinants are listed: living standards, nutrition, medical services, hygiene and sanitation.
 
+The Grade 10 book completes the mortality set from Africa's side: infant mortality and maternal mortality rates, and life expectancy — how long a newborn can expect to live.

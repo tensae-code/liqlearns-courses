@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** Name the two working empirical systems.
 **Answer:** Köppen's and Trewartha's.
+
+**4. (Sub lesson 4)** What is the Grade 10 section's stated outcome?
+**Answer:** That pupils can name and weigh the rival schemes for classifying the world's climates.

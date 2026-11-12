@@ -268,3 +268,27 @@ file of either stream was overwritten by the other, and both sets
 of INDEX rows stand. Build log + incident file:
 ethiopia-2026-11-11/build-logs/wave4-geo-A-g09-ethiopia.md and
 wave4-geo-A-g09-INCIDENT-picture-files-overwritten.txt.
+
+## Ethiopia Grades 10–11 Geography remainders — built 2026-11-12 (Wave 4 Geography Band D; pictures 21942–21980)
+
+27 lessons created and 10 extended (403 questions across the 37):
+the Grade 10 Unit 8 GIS-and-charts set (geospatial data, the
+geographer's toolkit, ArcMap, bar/line/pie charts, overlap
+diagrams), the landform/basin/soils/climate-gifts lessons, the
+Grade 10 population set (explosion, sex ratio, pyramid types,
+cities, migration kinds) and the unemployment trio — plus Grade 10
+depth stacked into ten standing lessons (counting births and
+deaths, dependency, poverty traps, raster and vector, GIS parts,
+climate sorting, soil). The band audited all 318 lessons in the
+four geography titles and verified every Grade 11 placement in
+them stands complete from Band C's build. NOTE: pictures
+21900–22197 were already in use by Wave 4 History lessons when
+this band arrived (a number collision between briefs) — the band
+used only the then-unused 21942–21980 and overwrote nothing; the
+History citations at those numbers stand as committed. Corrections
+carried: the optimum-population treatment is Grade 12 stock
+(printed pp. 162–168), not Grade 11 as this band's brief assumed —
+the Grade 7 lessons stand untouched for the Grade 12 band; ten
+brief names proved to be Grade 12 placements and pass to Band E.
+Build log: ethiopia-2026-11-11/build-logs/
+wave4-geo-D-g11-population-g10-rem.md.

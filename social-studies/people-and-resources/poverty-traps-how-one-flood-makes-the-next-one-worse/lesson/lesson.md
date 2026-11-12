@@ -18,6 +18,12 @@ The book's impact table separates them. Short-term: lost income, lost assets, sc
 
 Forced sale of assets after each shock is the lock on the trap: the ox sold to eat this year cannot plough next year. Women-headed households, slum dwellers, children and pastoralists are hit hardest.
 
+## Sub lesson 4 — The poverty-trap circle — the Grade 10 diagram
+
+The Grade 10 book draws the trap as a circle of four stations: low income brings low saving and low investment; low investment brings low productivity; low productivity brings low income again. The circle is the same trap this lesson's staircase descends — read it once round and you see why effort alone does not open it: every station hands the household to the next one poorer.
+
+[GIF 21972 — an arrow travelling round the poverty-trap circle — low income, low saving, low productivity, low income]
+
 ## Say it to your companion
 
 Explain poverty traps — how one flood makes the next one worse to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

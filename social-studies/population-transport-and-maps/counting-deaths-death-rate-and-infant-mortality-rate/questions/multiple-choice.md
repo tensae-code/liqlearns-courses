@@ -17,3 +17,7 @@ a) hygiene and sanitation  b) latitude  c) soil type
 **4. (Sub lesson 3)** The most sensitive measure, per the lesson, is —
 a) the infant mortality rate  b) the crude birth rate  c) the migration rate
 **Answer: a) the infant mortality rate**
+
+**5. (Sub lesson 4)** The Grade 10 mortality set adds which measure to the Grade 11 pair?
+a) crude birth rate  b) sex ratio  c) life expectancy
+**Answer: c) life expectancy**

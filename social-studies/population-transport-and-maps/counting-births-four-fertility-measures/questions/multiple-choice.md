@@ -17,3 +17,7 @@ a) 2 births per woman  b) 4.6  c) 1.0
 **4. (Sub lesson 3)** The GFR counts births per 1,000 women aged —
 a) 15–49  b) 25–64  c) 0–14
 **Answer: a) 15–49**
+
+**5. (Sub lesson 4)** Africa's crude birth rate in mid-2020, as printed, was —
+a) 2 per woman  b) 149 per 100  c) 33 per 1,000
+**Answer: c) 33 per 1,000**

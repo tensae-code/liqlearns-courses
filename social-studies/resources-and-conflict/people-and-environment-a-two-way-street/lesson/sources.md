@@ -12,9 +12,9 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — Dependence | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
 | Sub lesson 2 — Reshaping | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
-
 | Sub lesson — Dependence and modification — the Grade 10 statement | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 149–151 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 6, guide printed pp. 117–130 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Extension (Wave 4 Band D): the Grade 10 book's two-way-relationship section (printed pp. 149–151) was stacked into this lesson per the build brief. The Grade 10 book's related treatment also stands in the lesson "The two-way relationship" in People and Resources; the parts are cross-named here so neither hides the other.
