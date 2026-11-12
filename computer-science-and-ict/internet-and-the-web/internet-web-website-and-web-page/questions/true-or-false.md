@@ -16,3 +16,6 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 3)** In http://www.google.com, the resource name is http.
 **Answer: False — http is the protocol identifier; www.google.com is the resource name.**
+
+**6. (Sub lesson 4)** The Web is the only service of the internet.
+**Answer: False — it is the most popular service, among others such as email and file transfer (Grade 11 book, Unit 4).**

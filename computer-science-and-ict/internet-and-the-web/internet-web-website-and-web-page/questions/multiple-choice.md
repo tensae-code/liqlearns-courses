@@ -37,3 +37,13 @@ a) a web server  b) a printer  c) a keyboard  d) a flash disk only
 **9. (Sub lesson 3)** The two main components of a URL are —
 a) username and password  b) protocol identifier and resource name  c) sender and subject  d) request and response
 **Answer: b) protocol identifier and resource name**
+
+**10. (Sub lesson 4)** The Web was invented by —
+a) Tim Berners-Lee, at CERN in Switzerland, in 1989  b) a telephone company, in 1969  c) a browser company, in 2001
+d) no one — it grew by itself
+**Answer: a) Tim Berners-Lee, at CERN in Switzerland, in 1989** (Grade 11 book, Unit 4).
+
+**11. (Sub lesson 4)** Which list is the Web's four foundations?
+a) HTML, HTTP, a web server and a web browser  b) email, files, chat and games  c) a keyboard, a mouse, a screen and a printer
+d) a website, a web page, a home page and a link
+**Answer: a) HTML, HTTP, a web server and a web browser.**

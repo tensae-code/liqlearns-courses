@@ -535,3 +535,25 @@ Grown by band D1 (Grade 10 depth added, not duplicated): `files-and-folders/what
 - IT for entrepreneurship — starting an IT-based business — `computers-in-society/it-for-entrepreneurship-starting-an-it-based-business/`
 
 The first lesson also carries the Grade 11 book's own shape (student item 1: the six-unit road map, Picture 16100, and the course-intro video script) and teacher item 1 (the 105-period budget, lecture → demonstration → discussion rhythm, inclusion instructions) as labelled teacher evidence, noted for the course ABOUT.
+
+**Band E4 — Grade 11 Unit 4 (Web Development), 17 new lessons:**
+
+- Designing a website — audience, navigation, consistency, simplicity, accessibility — `internet-and-the-web/designing-a-website-audience-navigation-consistency-simplicity-accessibility/`
+- Designing vs building a website — `internet-and-the-web/designing-vs-building-a-website/`
+- HTML tags and elements — `internet-and-the-web/html-tags-and-elements/`
+- Void elements — br, img, hr — `internet-and-the-web/void-elements-br-img-hr/`
+- The structure of an HTML document — `internet-and-the-web/the-structure-of-an-html-document/`
+- HTML attributes — and the img element — `internet-and-the-web/html-attributes-and-the-img-element/`
+- Adding a video to a webpage — `internet-and-the-web/adding-a-video-to-a-webpage/`
+- HTML links — linking to other pages — `internet-and-the-web/html-links-linking-to-other-pages/`
+- Image links — and absolute vs relative URLs — `internet-and-the-web/image-links-and-absolute-vs-relative-urls/`
+- Links within a page — jumping to a section — `internet-and-the-web/links-within-a-page-jumping-to-a-section/`
+- HTML tables — `internet-and-the-web/html-tables/`
+- Merging table cells — colspan and rowspan — `internet-and-the-web/merging-table-cells-colspan-and-rowspan/`
+- Page layout with a table — `internet-and-the-web/page-layout-with-a-table/`
+- Ordered lists in HTML — `internet-and-the-web/ordered-lists-in-html/`
+- Unordered lists in HTML — `internet-and-the-web/unordered-lists-in-html/`
+- Nested lists — a list inside a list — `internet-and-the-web/nested-lists-a-list-inside-a-list/`
+- Description lists in HTML — `internet-and-the-web/description-lists-in-html/`
+
+Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/internet-web-website-and-web-page/` (+ Sub lesson 4, the Web's four foundations — HTML, HTTP, web server, web browser; Berners-Lee, CERN, 1989 as the Grade 11 book states it; the Grade 8 part of the same lesson gives 1991, each taught as its own book states).

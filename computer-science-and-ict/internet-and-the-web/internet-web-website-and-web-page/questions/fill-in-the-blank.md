@@ -16,3 +16,6 @@ Fill each blank with the right word.
 
 **5. (Sub lesson 3)** Web pages can be viewed through browsers such as Google Chrome, Internet Explorer and Mozilla _______.
 **Answer: Firefox**
+
+**Item. (Sub lesson 4)** HTTP is the set of ____ browsers and servers use to talk.
+**Answer: rules** — one of the Web's four foundations (Grade 11 book, Unit 4).

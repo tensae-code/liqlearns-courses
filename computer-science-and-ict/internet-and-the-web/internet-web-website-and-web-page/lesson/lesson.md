@@ -20,9 +20,22 @@ The Grade 8 book takes the same Web further. The **World Wide Web** is a **colle
 
 [Picture 11720 — pages, hyperlinks, a website and a two-part URL]
 
+## Sub lesson 4 — The Web's four foundations (Grade 11)
+
+The Grade 11 book takes the same Web one level deeper. The Web is **one service of the internet — the most popular one**, among others such as **email and file transfer**: a **collection of websites and webpages reached over the internet with a browser**. **Tim Berners-Lee invented it in 1989 at CERN in Switzerland**, and it was formed from **four foundations**:
+
+- **HTML** — the language webpages are written in.
+- **HTTP** — the rules browsers and servers use to talk.
+- **A web server** — software that stores webpages and answers browser requests.
+- **A web browser** — software users view webpages with.
+
+And its key word, one more time at this depth: a **website** is a **publicly accessible collection of interrelated webpages**, joined by **hypertext links** to pages, videos, images and more. The lessons after this one build real pages with the first foundation — HTML itself.
+
+[Picture 17300 — the Web's four foundations]
+
 ## Say it to your companion
 
-Tell your companion the four words sorted: internet, Web, website, web page — with the home page placed too — then split http://www.google.com into its two URL parts.
+Tell your companion the four words sorted: internet, Web, website, web page — with the home page placed too — then split http://www.google.com into its two URL parts. Then name the Web's four foundations and who invented the Web, where and when.
 
 ## Do It Yourself
 
@@ -30,3 +43,4 @@ Tell your companion the four words sorted: internet, Web, website, web page — 
 2. Draw the book model and label it.
 3. Give one real website and name its home page's job.
 4. Write a URL and label its protocol identifier and its resource name.
+5. Write the four foundations from memory and say what each one does.

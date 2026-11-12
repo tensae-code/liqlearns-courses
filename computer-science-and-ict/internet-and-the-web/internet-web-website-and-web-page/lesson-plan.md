@@ -15,6 +15,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 3. **The Web in depth — server, hyperlink, URL (Grade 8)** — the WWW as part of the internet (invented 1991, Tim Berners-Lee); pages stored on a web server, holding hyperlinks; the URL's two parts (Grade 8 growth, Wave 3 band B2)
 
+4. **The Web's four foundations (Grade 11)** — the Web as the internet's most popular service; Berners-Lee, CERN, 1989; HTML, HTTP, web server, web browser (Grade 11 growth, Wave 3 band E4)
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +27,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Define website, web page and home page.
 3. Say when all three page-words mean the same thing.
 4. Give three reasons people make web pages.
+5. Name the Web's four foundations and the Web's inventor, place and year.
 
 ## What you need
 Paper and a pencil.
@@ -33,6 +36,7 @@ Paper and a pencil.
 1. **Do it first** — the learner sorts four words — internet, Web, website, web page — by size, biggest first, before the definitions (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 11720]: a picture of pages joined by hyperlink threads into a website, one page carrying its two-part URL — the student traces a hyperlink and splits the URL aloud.
+   - ADD IMAGE [Picture 17300]: a picture of the Web's four foundations as four pillars — HTML, HTTP, web server, web browser — holding up a globe of linked pages — the student names each pillar and its job.
    - ADD IMAGE [Picture 10512]: a picture of a website drawn as a small book — cover is the home page, pages are web pages — the student points to cover and pages and names each one.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
@@ -41,6 +45,7 @@ Paper and a pencil.
 6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
 
 ## Add-ons for this lesson (the full list)
+- IMAGE [Picture 17300] — the Web's four foundations as four pillars holding up a globe of linked pages → the student names each foundation and its job.
 - IMAGE [Picture 10512] — a picture of a website drawn as a small book — cover is the home page, pages are web pages → the student points to cover and pages and names each one.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 

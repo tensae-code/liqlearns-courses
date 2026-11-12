@@ -285,3 +285,21 @@ corrected and named in sources: Unit 1 figures jump
 1.10 → 1.13, "Figureure 1.17" (p.19), the guide's
 contents omitting §1.4. The course now stands at 430
 lessons.
+
+**Band E4 (Grade 11, Unit 4) — BUILT 2026-11-12:** 17 new
+lessons + 1 grown, 208 questions, 25 media filed
+(pictures/GIFs 17300–17317, 17320–17326) — Web
+development in HTML with a text editor, as the book
+teaches: the Web's four foundations, design guidelines,
+design vs building, tags and elements, void elements,
+document structure, attributes, video, links (out, in
+image form, and within a page), tables, colspan/rowspan,
+table page layout, and all four list kinds — with the
+guide's worked models filed as verified expected
+outputs. Book errors taught corrected and named in
+sources: Unit 4's figure/caption disagreements and
+reused table numbers (no wrong number cited), the
+guide's "HMTL", "Got to Section…", Activity 4.9's
+.png/.jpg mismatch, and review model #4's nested head
+(its layout used, its head markup not). The course now
+stands at 447 lessons.

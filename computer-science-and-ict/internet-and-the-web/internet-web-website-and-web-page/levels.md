@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: sort the three words and 
 
 ## Sub lesson 3 — The Web in depth — server, hyperlink, URL (Grade 8)
 Sub lesson 3 questions from the type files. Pass mark: say where a page is stored, what a hyperlink is, who invented the WWW and when, and split a URL into protocol identifier and resource name.
+
+## Sub lesson 4 — The Web's four foundations (Grade 11)
+Sub lesson 4 questions from the type files. Pass mark: name the four foundations — HTML, HTTP, web server, web browser — say what each does, and give the Web's inventor, place and year (Tim Berners-Lee, CERN, 1989). (Grade 11 growth, Wave 3 band E4.)
