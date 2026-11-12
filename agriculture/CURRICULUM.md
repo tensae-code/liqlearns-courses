@@ -23,8 +23,19 @@ ethiopia-2026-11-11/build-logs/.
   pictures 26000–26027, GIFs 26028–26031 (drawn, looked at /
   frame-checked). Safety carried exactly as the books state it
   (silage exclusions, anthrax handling, veterinary guidance).
-- Bands A (G11 Units 1–4) and C (Units 9–12) register below;
-  Band D (Units 13–16 + guide) registers as it lands.
+- **Band D — Grade 11 Units 13–16** (19 lessons, 228
+  questions; pictures/GIFs 26400–26422, all present 1:1):
+  climate change in Soil and Land (what the words mean, what
+  it does, adapting Ethiopian farming, mitigation, the Gedeo
+  way) and Units 14–16 in Farm Business and Technology
+  (mechanisation and tools, human nutrition, diversified food
+  production). Coordinator-verified on disk — the band's
+  session ended before it wrote its build log, so this record
+  was compiled from the tree (full shape checked, questions
+  counted file by file, media verified); the G11 guide's
+  folds for these units ride in the lessons' sources as
+  labelled evidence. With this band, Grade 11 Agriculture is
+  stocked in full (Units 1–16, Bands A–D).
 - **Band E — Grade 12** (92 lessons, 1,380 questions; 15 per
   lesson): the whole Grade 12 book — placements 2–90 built as
   89 lessons (no two share a name, so nothing stacked), plus
