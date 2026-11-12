@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** A criterion close to the stored value, but not exactly it, will still match.
 **Answer: False** — it must match the stored data exactly.
+
+**4. (Sub lesson 3)** SELECT FullName, Sex FROM Student WHERE Sex = 'M'; shows every column of the male students.
+**Answer: False** — only the two named columns show.
+
+**5. (Sub lesson 3)** AND, OR and NOT are Boolean operators used in WHERE tests.
+**Answer: True** — they combine and negate the tests.

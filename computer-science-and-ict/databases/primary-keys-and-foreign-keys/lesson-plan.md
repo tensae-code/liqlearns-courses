@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Foreign keys — the matching field in the other table** — a foreign key is an attribute in one table that matches the primary key of a related table; tables are navigated and joined through foreign keys
 3. **The book-loan table — both keys at work** — the student ID and book ID inside the book-loan table link it to the student and book tables
 
+4. **Grade 12 — Sid in a five-table school database, and the popular RDBMSs** — Grade 12: the five-table school database; Sid unique as Students' primary key, repeating as MarkList's foreign key; the popular RDBMS list — with the guide's MongoDB listing corrected (NoSQL, not an RDBMS)
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -33,6 +35,7 @@ Paper and a pencil. Nothing else.
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16910]: a picture of three tables — Student, Book, Book_Loan — with key fields marked and linking lines drawn — the student traces one loan row to its student and its book.
    - ADD GIF [GIF 16911]: a loan row lighting up its student row and its book row through the foreign keys — the student names each key as it lights.
+   - ADD IMAGE [Picture 30503]: a picture of two tables joined by a highlighted shared key field, one side marked unique, the other many — the student says where Sid is unique and where it repeats.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -45,6 +48,8 @@ Paper and a pencil. Nothing else.
 - GIF [GIF 16911] — a loan row lighting up its student row and book row → the student names the foreign keys as they light.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 30503] — Sid on both sides of the link → the student names the key kind per side.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

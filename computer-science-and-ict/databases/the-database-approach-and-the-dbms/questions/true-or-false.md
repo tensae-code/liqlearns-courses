@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** Data independence means one database serves all users.
 **Answer: True** — the data is not tied inside one program.
+
+**4. (Sub lesson 4)** 'Database' and 'DBMS' name the same thing.
+**Answer: False** — the guide tells teachers to clear exactly this misconception.
+
+**5. (Sub lesson 4)** The unit's activities assume MS Access 2013 or later.
+**Answer: True** — the guide's stated prerequisite.

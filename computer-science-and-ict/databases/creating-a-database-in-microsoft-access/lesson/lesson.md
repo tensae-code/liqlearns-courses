@@ -34,6 +34,16 @@ Inside the new database, **a table must be created before the other objects** �
 
 The unit's running example **converts the student entity into a table, field by field, with a data type per field**: the student's **name as Text**, the **grade as Number**. The entity you modelled earlier in this title is becoming a real table — the next lesson builds it, keystroke by keystroke.
 
+## Sub lesson 4 — Grade 12 — checking Access, launching it, and the three ways to make a table
+
+**Grade 12 growth.** First **check Access is installed, and its version**: **Start → All apps → Microsoft Office → Access with its year**. **Launch it by typing “access” in the Search box**, and name the new database.
+
+Create the database either **from a template or blank** — the Grade 12 book **chooses blank, from scratch**. Inside it, a table can then be created **three ways — Design View, Datasheet View, or SQL** — and the Grade 12 unit teaches **the SQL way** (the CREATE TABLE lessons of this title).
+
+[Picture 30504 — the starting-Access strip]
+
+[GIF 30530 — launching Access and choosing Blank database]
+
 ## Say it to your companion
 
 Tell your companion the four steps in order, then answer their check questions: what is a database a container for? What must be created first inside it, and why?

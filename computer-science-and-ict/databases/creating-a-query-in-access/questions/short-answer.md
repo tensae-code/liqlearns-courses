@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** Name the book's two practice queries.
 **Answer:** Teacher name and specialisation; student name and grade level.
+
+**4. (Sub lesson 4)** Give the full click path to the SQL writing window.
+**Answer:** Create tab → Query Design → close Show Table → SQL View dropdown → SQL View.
+
+**5. (Sub lesson 4)** Name both ways to run a query.
+**Answer:** Design tab → Results group → Run; or double-click the saved query in the queries view.

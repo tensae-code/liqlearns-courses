@@ -13,3 +13,9 @@ One row — one student, complete. That row is a record. Its other name is a tup
 One column — one fact about everybody. That column is an attribute. Its other name is a field.
 
 And when the same attribute stands in two tables, the tables can join — country joins city, and one new table answers.
+
+Grade 12 says it fully: the RDBMS creates, maintains, and controls access.
+
+Column — field. Row — record. One value where they cross.
+
+A patient: name, address, date visited, blood pressure, age — each field with its type.

@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: perform the key-drag in t
 
 ## Sub lesson 3 — Pick fields from each table, save, view
 Sub lesson 3 questions from the type files. Pass mark: pick the example's four fields from their three tables, save the query named, and view combined results.
+
+## Sub lesson 4 — Grade 12 — selecting from two tables in SQL, and the six-step database project
+Sub lesson 4 questions from the type files. Pass mark: write a two-table SELECT with qualified names and the PK=FK equation, then narrow it with a second criterion.

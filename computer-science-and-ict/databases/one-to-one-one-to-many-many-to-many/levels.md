@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: state one-to-many with th
 
 ## Sub lesson 3 — Many-to-many
 Sub lesson 3 questions from the type files. Pass mark: state many-to-many with the employees–projects example, counted both ways.
+
+## Sub lesson 4 — Grade 12 — building relationships by dragging: the Relationships window
+Sub lesson 4 questions from the type files. Pass mark: build a one-to-many relationship by dragging and read its 1 and ∞ ends.

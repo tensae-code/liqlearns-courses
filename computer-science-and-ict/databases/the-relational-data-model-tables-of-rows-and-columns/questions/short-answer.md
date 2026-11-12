@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** What three things does the guide's worked answer do before printing the joined table? (teacher evidence)
 **Answer:** It identifies the linking attribute, gives the field count, and picks out the Kenyan cities.
+
+**4. (Sub lesson 4)** Name the patient's five typed fields.
+**Answer:** Name (text), address (text), date visited (date), blood pressure (real number), age (integer).
+
+**5. (Sub lesson 4)** A record in the guide's key is given as one full row of which table?
+**Answer:** The Student table — an ID, a name, an age.

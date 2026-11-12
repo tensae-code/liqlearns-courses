@@ -1,0 +1,52 @@
+# Lesson plan — DROP TABLE — and why it cannot be undone
+
+**Course:** Computer Science and ICT · **Title:** Databases · **Lesson:** DROP TABLE — and why it cannot be undone
+**Place in the curriculum:** Unit 3 — Database Management System (Ethiopia Grade 12 Information Technology), in the Databases title of the Computer Science and ICT course. The ladder is the recommended order, never a forced one.
+**The one thing this lesson teaches:** DROP TABLE deletes a whole table — structure and records together — and a dropped table that held records cannot be got back.
+**This lesson's own level:** it stands on CREATE and ALTER: the third DDL command is the destructive one, and it is taught last on purpose.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving or in steps — a GIF here is 2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **The command and its example** — DROP TABLE deletes a standing table entirely; the COURSE example (and the guide's create-then-drop School)
+2. **The caution — read it twice** — the caution: a dropped table holding records cannot be got back; the three questions before any DROP
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: ALTER TABLE — add, drop and change columns. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Drop a table with DROP TABLE.
+2. State that a dropped table with records cannot be recovered.
+3. Use the three questions before any drop.
+
+## What you need
+Paper and a pencil; Access only for a practice table you built to drop.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner separates emptying a drawer from burning it before the two commands are named (lesson/lesson.md).
+2. **The explanation** — the parts below, in order (lesson/lesson.md).
+   - ADD IMAGE [Picture 30515]: a picture of a table vanishing under a DROP command with a warning sign — the student reads the caution aloud.
+3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
+   - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
+   - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
+4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer — served at the learner's level (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE [Picture 30515] — the DROP warning → the student reads the caution aloud.
+- AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
+- VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+## If the learner is stuck
+- Confuses DROP with DELETE → DELETE (later lesson) removes records and leaves the table standing; DROP removes the table itself.
+- Treats DROP as tidy-up for filled tables → it is removal for good; practise it only on tables built to be dropped.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Ethiopia, Grade 12 Information Technology, Unit 3 — Database Management System). Doing-lessons in this course are marked by watching the doing, as the teacher guide directs, not by a written key alone. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

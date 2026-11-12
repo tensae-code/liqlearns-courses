@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Save, name — and set the primary key** — save and name the table; a primary key is set by selecting the field in Design view and clicking the Primary Key button
 3. **Enter the records — Datasheet View** — open the table in Datasheet View and type the values record by record; the practice builds the Student, Teacher and Grade tables in a database named after your school
 
+4. **Grade 12 — matching types to fields, and the Access SQL type set in detail** — Grade 12: every field needs a name and a data type, matched field by field (telephone as text); the Access SQL types in detail — CHAR, TEXT, INTEGER, DATETIME, CURRENCY, COUNTER, Yes/No with their limits
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -34,6 +36,7 @@ A computer with Microsoft Access (the book teaches Access 2010), and the databas
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16914]: a picture of a Design-view field list beside the same table filled in Datasheet view — the student matches each field name to its column.
    - ADD GIF [GIF 16915]: switching from Design view to Datasheet view and the first record being typed — the student performs the same switch.
+   - ADD IMAGE [Picture 30502]: a picture of the seven Access types as a reference chart with an example value each — the student finds the type for a date of birth and for a price.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -46,6 +49,8 @@ A computer with Microsoft Access (the book teaches Access 2010), and the databas
 - GIF [GIF 16915] — the Design → Datasheet switch and the first record typed → the student performs the same switch.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 30501] — fields tagged with types → the student matches three fields. IMAGE [Picture 30502] — the seven-type chart → the student looks up two types.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

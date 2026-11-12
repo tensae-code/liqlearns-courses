@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** The guide's joined Country–City table covers nine cities in four countries. (teacher evidence)
 **Answer: True** — nine cities across Ethiopia, Egypt, Kenya and Sudan.
+
+**4. (Sub lesson 4)** A record holds one data value per column.
+**Answer: True** — that is the row's definition in the Grade 12 frame.
+
+**5. (Sub lesson 4)** 'Cost of material in birr' is given as an example of a single field value.
+**Answer: True** — it is in the guide's example set.

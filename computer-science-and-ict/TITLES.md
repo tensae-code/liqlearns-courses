@@ -675,3 +675,21 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - Digital citizenship — active and thoughtful, not just careful — `computers-in-society/digital-citizenship-active-and-thoughtful/`
 - Raising a national voice online — the GERD campaign — `computers-in-society/raising-a-national-voice-online-the-gerd-campaign/`
 - Mobile health — care delivered by phone (guide-only, teacher evidence) — `computers-in-society/mobile-health-care-delivered-by-phone/`
+
+**Band F3 — Grade 12 Unit 3 (Database Management System), 14 new lessons + 9 grown:**
+
+- SQL — DDL, DML and DQL — `databases/sql-and-its-three-families/`
+- CREATE TABLE — building a table with SQL — `databases/create-table-syntax-and-rules/`
+- Creating two linked tables — DEPARTMENT and COURSE — `databases/creating-two-linked-tables-department-and-course/`
+- ALTER TABLE — add, drop and change columns — `databases/alter-table-add-drop-and-change-columns/`
+- Adding a foreign key with ALTER — `databases/adding-a-foreign-key-with-alter/`
+- DROP TABLE — and why it cannot be undone — `databases/drop-table-and-why-it-cannot-be-undone/`
+- INSERT — adding a record to a table — `databases/insert-adding-a-record/`
+- INSERT examples — full rows and partial rows — `databases/insert-examples-full-rows-and-partial-rows/`
+- UPDATE — change rows, and never forget WHERE — `databases/update-change-rows-and-never-forget-where/`
+- DELETE — removing records safely — `databases/delete-removing-records-safely/`
+- SELECT — the parts of a query — `databases/select-the-parts-of-a-query/`
+- SELECT * — getting a whole table — `databases/select-star-getting-a-whole-table/`
+- Filtering by date, AND, OR and BETWEEN — `databases/filtering-by-date-and-or-and-between/`
+- ORDER BY — ascending and descending results — `databases/order-by-ascending-and-descending-results/`
+- Grown with Grade 12 depth (new sub lessons): the relational data model; creating a table and entering records in Access; primary keys and foreign keys; the database approach and the DBMS; creating a database in Microsoft Access; creating a query in Access; one-to-one, one-to-many, many-to-many (the Relationships window); query criteria; queries across multiple tables (carries the guide's six-step database project checklist in its hands-on).

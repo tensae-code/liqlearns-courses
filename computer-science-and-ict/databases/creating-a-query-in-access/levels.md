@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: explain the Field row: on
 
 ## Sub lesson 3 — See the results — Datasheet View
 Sub lesson 3 questions from the type files. Pass mark: switch to Datasheet View and state the two practice queries.
+
+## Sub lesson 4 — Grade 12 — writing and running SQL in Access: SQL View and Run
+Sub lesson 4 questions from the type files. Pass mark: perform the click path unaided and run both a fresh and a saved query.

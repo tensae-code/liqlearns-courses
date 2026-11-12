@@ -33,6 +33,20 @@ The Field row is the choosing place: **only the chosen fields will show** in the
 
 The results are a live view of the table's data through your chosen fields — change the table, and the query's answer changes with it. The book's practice queries: display **teacher name and specialisation**, and **student name and grade level**.
 
+## Sub lesson 4 — Grade 12 — writing and running SQL in Access: SQL View and Run
+
+**Grade 12 growth.** The graphical query has a written twin. In the book's exact order:
+
+1. **Create tab → Query Design.** 2. **Close the Show Table dialog** that appears. 3. Open the **SQL View dropdown at the left and choose SQL View** — the window where SQL commands (**CREATE, SELECT, UPDATE, INSERT…**) are written.
+
+To **run** a written query: **Design tab → Results group → Run**. Or — **if the query was saved** — **double-click it in the queries view** (the book's example runs a saved query listing male students).
+
+**Access reports errors with a pop-up matched to the error type** — read the pop-up; it names the family of the fault, and the CREATE TABLE lesson's diagnosis drill tells you the shapes to hunt.
+
+[Picture 30505 — the Query Design → SQL View → Run strip]
+
+[GIF 30531 — the click path from Create tab to a running query]
+
 ## Say it to your companion
 
 Tell your companion the full order for creating a query, and what the Field row decides. Then have them name a question (“only the names and grades, please”) and state the fields you would pick.

@@ -31,6 +31,16 @@ The guide works the **Country** and **City** tables end to end: it **identifies 
 
 That joined table is what “retrieving across tables” means — and the last Access lesson in this title makes you build exactly this kind of join yourself, by dragging a key.
 
+## Sub lesson 4 — Grade 12 — the RDBMS frame, and fields and records in Ethiopian examples
+
+**Grade 12 growth.** The definition, in its fuller form: a **Relational Database Management System (RDBMS)** is **software used to create, maintain and provide controlled access to a relational database**, where data is stored in **two-dimensional tables** — **each column a field/attribute, each row a record/tuple holding one data value per column**.
+
+The frame example is a **student** entity described by the attributes **student id, name, age, grade level and sex** — five attributes, one row per student.
+
+Filled-in Ethiopian example sets (teacher guide — evidence) make the words concrete. Single field values across types: **a book title, an email address, a sales date, a body temperature, a weight, a cost of material in birr, an expiry date, an opening hour**. A **patient** described by typed fields: name (text), address (text), date visited (date), blood pressure (a real number), age (integer). Fields are listed for **Person, Book and Sales** entities, and a record is given as **one full row of a Student table — an ID, a name, an age**.
+
+[Picture 30500 — a relational table: one row a record, one column a field]
+
 ## Say it to your companion
 
 Tell your companion the two names for a row and the two names for a column. Then explain, with Country and City, what a linking attribute does (teacher evidence part).

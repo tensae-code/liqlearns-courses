@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** Convert the student entity to a table plan: name the two fields the book types, with their types.
 **Answer:** Name as Text, grade as Number.
+
+**4. (Sub lesson 4)** Write the launch-by-search steps in order.
+**Answer:** Type “access” in the Search box, launch Access, and name the new database.
+
+**5. (Sub lesson 4)** Name the three ways to create a table.
+**Answer:** Design View, Datasheet View, or SQL.

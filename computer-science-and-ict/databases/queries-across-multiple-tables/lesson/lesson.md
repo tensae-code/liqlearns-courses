@@ -31,6 +31,22 @@ That drag is the skill of this lesson. The line it draws is the foreign-key link
 
 The book's practice selects across **Student and Grade** — including the combined question with a criterion from the lesson before this one: **students scoring above 85 in all subjects**. One query, two tables, fields from each, a condition on top: that is the relational database's power, in your hands.
 
+## Sub lesson 4 — Grade 12 — selecting from two tables in SQL, and the six-step database project
+
+**Grade 12 growth.** A SELECT can draw on **two tables at once — if they are linked**; unlinked, the result is meaningless. Columns are written **qualified as table.column** to avoid name clashes, **both tables are listed in FROM**, and **WHERE equates the first table's primary key with the second's foreign key**:
+
+```sql
+SELECT COURSE.C_Name, CourseOffering.Semester
+FROM COURSE, CourseOffering
+WHERE COURSE.C_Code = CourseOffering.Code;
+```
+
+The worked example joins **COURSE with CourseOffering** to list courses offered — then adds a second criterion, **Semester = 'I'**, filtering the joined output to **first-semester courses only**: `AND CourseOffering.Semester = 'I'` in the WHERE.
+
+The **six-step database project** (teacher guide — evidence) is this title's capstone, filed in this lesson's hands-on: choose a real problem, identify entities and attributes, identify relationships, implement in Access, insert at least three records per table, modify a table by adding a column, and write queries to select records.
+
+[Picture 30506 — two tables, a join line, a combined result]
+
 ## Say it to your companion
 
 Walk your companion through the order without the computer: add, drag, pick, save, view. They stop you at the drag and ask: which field, from which table, onto what — and what does the line mean?

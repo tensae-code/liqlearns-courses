@@ -25,3 +25,9 @@ The plan is built. Now fill it. Switch to Datasheet View — the same table, now
 Design view builds. Datasheet view fills. That is the rhythm of every table you will ever make.
 
 Your practice: in the database named after your school, build three tables — Student, Teacher, Grade — design, key, and fill, each one the same way.
+
+Grade 12 types, in detail.
+
+CHAR holds short text. TEXT holds the long note. INTEGER holds whole numbers — a two-billion range.
+
+DATETIME for dates. CURRENCY for money that must calculate. COUNTER counts the records for you. Yes/No holds two values — one bit.

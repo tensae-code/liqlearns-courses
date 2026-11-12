@@ -31,6 +31,14 @@ One loan row, followed through its two foreign keys, lights up exactly one stude
 
 [GIF 16911 — a loan row lights up its student and its book]
 
+## Sub lesson 4 — Grade 12 — Sid in a five-table school database, and the popular RDBMSs
+
+**Grade 12 growth.** The keys at work in a **five-table school database — Students, MarkList, Subject, SubjectAssigned, Teachers**. **Sid is the primary key of Students** — **unique, never duplicated, identifying each record**. The **same Sid inside MarkList is a foreign key** — **not unique**, because **one student has many mark records** — used to create the relationship linking the tables. That key-field linking is how a relational database joins its tables.
+
+The popular RDBMSs named: **Microsoft Access, Oracle, Microsoft SQL Server, MySQL, SQLite, IBM DB2 and PostgreSQL**. (The teacher guide also lists **MongoDB** among RDBMS examples — that listing is a guide error: MongoDB is a **NoSQL** system, not a relational one, and this lesson does not count it.)
+
+[Picture 30503 — Sid: primary key in Students, foreign key in MarkList]
+
 ## Say it to your companion
 
 Tell your companion what makes a field fit to be a primary key, then trace one loan row through both of its foreign keys, naming the table each key matches.

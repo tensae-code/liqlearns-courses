@@ -11,3 +11,11 @@ A department. Its students. One department — many students. One-to-many.
 An employee works on many projects. A project has many employees. Many, and many. Many-to-many.
 
 Always count both ways. The two counts name the type.
+
+Grade 12: relationships by hand.
+
+Database Tools — Relationships. Add your tables. Close the list.
+
+Take the primary key. Drag it onto the foreign key. Let go.
+
+A line appears: 1 on one side — infinity on the many side. The relationship is built.

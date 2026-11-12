@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **The DBMS — the software in the middle** — DBMS software manages the database: it adds, modifies, deletes and retrieves data, and is the interface between the database and its users and programs; applications send queries and the DBMS returns the matching data
 3. **The four advantages over files** — data independence, data sharing, avoided redundancy, improved security
 
+4. **Grade 12 — database versus DBMS, and the NoSQL challenge (teacher guide — evidence)** — (teacher guide — evidence) the database/DBMS distinction stated outright; the tool landscape (MySQL, Oracle, SQL Server, MariaDB); the NoSQL challenge to the RDBMS's fixed schema; Access 2013+ as the unit prerequisite
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -33,6 +35,7 @@ Paper and a pencil. Nothing else.
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16901]: a picture of the three-layer stack — database at the bottom, DBMS in the middle, applications on top — with a query going down and results coming up — the student traces the round trip with a finger.
    - ADD GIF [GIF 16902]: a query travelling down the stack and the answer travelling back — the student says where the query is at each moment.
+   - ADD IMAGE [Picture 30508]: a picture of two labelled boxes — database (the stored, organised data) and DBMS (the software that runs it), with tool names around the second — the student points at each box as its definition is read.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -45,6 +48,8 @@ Paper and a pencil. Nothing else.
 - GIF [GIF 16902] — a query travelling down the stack and the answer travelling back → the student narrates the round trip.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 30508] — database vs DBMS boxes → the student matches definition to box.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

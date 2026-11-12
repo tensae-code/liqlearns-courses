@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Name it and click Create** — type the database name in the File Name box — a name that describes the stored data — then click Create; a new window opens where the objects can be built
 3. **What comes first inside — a table** — a table must be created before the other objects; the running example converts the student entity into a table, field by field, with a data type per field (name as Text, grade as Number)
 
+4. **Grade 12 — checking Access, launching it, and the three ways to make a table** — Grade 12: check Access installed and its version (Start → All apps → Microsoft Office → Access+year); launch by typing “access” in Search; template or blank — blank chosen; tables three ways (Design, Datasheet, SQL), the SQL way taught
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -33,6 +35,7 @@ A computer with Microsoft Access (the book teaches Access 2010) — this lesson 
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16912]: a picture of the four steps as a numbered strip ending at the new empty database window — the student ticks each step off as they do it.
    - ADD GIF [GIF 16913]: the Blank database → name → Create route being clicked through — the student clicks along in the same order.
+   - ADD GIF [GIF 30530]: the cursor launching Access and choosing Blank database — the student narrates each click as it happens. IMAGE [Picture 30504]: the Start-menu search and blank-database choice as a numbered strip — the student orders the steps.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -45,6 +48,8 @@ A computer with Microsoft Access (the book teaches Access 2010) — this lesson 
 - GIF [GIF 16913] — the Blank database → name → Create route clicked through → the student clicks along in the same order.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- GIF [GIF 30530] — launch and Blank database → the student narrates the clicks. IMAGE [Picture 30504] — the four-step strip → the student orders the steps.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

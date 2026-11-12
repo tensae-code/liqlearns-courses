@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: define foreign key as mat
 
 ## Sub lesson 3 — The book-loan table — both keys at work
 Sub lesson 3 questions from the type files. Pass mark: follow one Book_Loan row to its student and its book through the two foreign keys.
+
+## Sub lesson 4 — Grade 12 — Sid in a five-table school database, and the popular RDBMSs
+Sub lesson 4 questions from the type files. Pass mark: follow Sid across Students and MarkList saying which key it is in each, and name four popular RDBMSs.

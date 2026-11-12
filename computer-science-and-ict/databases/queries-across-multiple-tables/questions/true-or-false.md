@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** The practice includes students scoring above 85 in all subjects, selected across Student and Grade.
 **Answer: True.**
+
+**4. (Sub lesson 4)** Both tables of a two-table SELECT must be listed in FROM.
+**Answer: True** — FROM names every table the query draws on.
+
+**5. (Sub lesson 4)** The six-step project asks for at least three records in every table created.
+**Answer: True** — step 5 of the guide's project rubric.

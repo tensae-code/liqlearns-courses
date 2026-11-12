@@ -26,6 +26,20 @@ Before you type a criterion, ask: *how is this value actually stored?* Then type
 
 The book's practice includes building the **Female_Students** query — the same skill, turned the other way: the criterion that keeps only the female students, in the exact form your table stores it.
 
+## Sub lesson 3 — Grade 12 — chosen columns, and WHERE in SQL: operators and true-or-false tests
+
+**Grade 12 growth.** The criteria idea, in SQL. To show **only some columns**, name them as a **comma-separated list** after SELECT — and filter rows with an optional **WHERE** whose expression **evaluates to true, false or unknown** for each record:
+
+```sql
+SELECT FullName, Sex FROM Student WHERE Sex = 'M';
+```
+
+The worked example retrieves **the full names and sex of male students only** — two chosen columns, one true/false test per row.
+
+The tests are built from **comparison operators (=, >, >=, <, <=, !=)**, **Boolean operators (AND, OR, NOT)** or **special operators**; and by the SQL standard, **string literals go in single quotation marks** — 'M', not "M", in written SQL.
+
+[Picture 30507 — chosen columns, filtered rows]
+
 ## Say it to your companion
 
 Tell your companion where a criterion is typed and what the field above it decides. Then explain why “Male” can return nothing in a table that plainly has male students.

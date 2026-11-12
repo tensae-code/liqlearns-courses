@@ -11,3 +11,11 @@ The ID knows. No two students share an ID. A field that never repeats is the pri
 Now the loan table. It holds a student ID — not its own, the Student table's. A borrowed key is a foreign key.
 
 Follow the loan: this ID finds the student. That ID finds the book. Keys join the tables.
+
+Grade 12: one field, two jobs.
+
+In Students, Sid is the primary key — once per student, never twice.
+
+In MarkList, the same Sid repeats — one student, many marks. There, it is the foreign key.
+
+The repeating key is the bridge. That is how tables join.

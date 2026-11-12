@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** In a many-to-many relationship, only one side has many instances.
 **Answer: False** — both sides link to many.
+
+**4. (Sub lesson 4)** Ctrl lets you drag several fields at once in the Relationships window.
+**Answer: True** — the book's multi-field drag.
+
+**5. (Sub lesson 4)** Data may safely be added before relationships are set up, with no risk.
+**Answer: False** — the standing rule is relationships first.

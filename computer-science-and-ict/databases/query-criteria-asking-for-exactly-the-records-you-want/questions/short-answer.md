@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 2)** Build Female_Students: where does its criterion go, and in what form?
 **Answer:** In the Criteria row under Sex, in the exact form the table stores for female — the single character, if that is how it is stored.
+
+**4. (Sub lesson 3)** Write the worked query: full names and sex of male students only.
+**Answer:** SELECT FullName, Sex FROM Student WHERE Sex = 'M';
+
+**5. (Sub lesson 3)** Write a WHERE keeping students aged 18 or more.
+**Answer:** WHERE Age >= 18.

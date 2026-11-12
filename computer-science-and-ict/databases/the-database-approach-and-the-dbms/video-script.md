@@ -13,3 +13,9 @@ Above it sits the DBMS — the software that minds the database. It adds. It cha
 A program asks a question — a query. The DBMS finds the matching data and sends it back.
 
 One store. Shared. Not copied again and again. And only the people allowed in can change it.
+
+Grade 12, one confusion ended.
+
+The database is the stored, organised data. The DBMS is the software that runs it.
+
+And when data grows too wild for a fixed schema — that is where NoSQL answers.

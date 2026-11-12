@@ -21,3 +21,19 @@ a) ID, name, sex, grade, address  b) title, author, year  c) city, country, popu
 **5. (Sub lesson 3)** In the Country–City join (teacher evidence), the two tables are joined through —
 a) their colour  b) the linking (shared) attribute  c) the row count
 **Answer: b)** — the shared attribute is the bridge.
+
+**6. (Sub lesson 4)** An RDBMS is software used to —
+a) print tables only  b) create, maintain and provide controlled access to a relational database  c) draw ERDs only  d) store files
+**Answer: b) create, maintain and provide controlled access to a relational database** — the Grade 12 full definition.
+
+**7. (Sub lesson 4)** In a two-dimensional relational table, a row is —
+a) a field  b) an attribute  c) a record/tuple holding one value per column  d) the primary key
+**Answer: c) a record/tuple holding one value per column** — row = record, one value per column.
+
+**8. (Sub lesson 4)** Which is one of the student entity's five attributes in the frame example?
+a) salary  b) grade level  c) book title  d) opening hour
+**Answer: b) grade level** — id, name, age, grade level, sex.
+
+**9. (Sub lesson 4)** A patient's blood pressure field is typed as —
+a) text  b) a real number  c) date  d) integer only
+**Answer: b) a real number** — the guide's typed patient fields.

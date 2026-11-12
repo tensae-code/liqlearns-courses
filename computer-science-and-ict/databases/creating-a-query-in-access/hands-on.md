@@ -7,3 +7,6 @@ Build the book's two practice queries in your school database: teacher name and 
 
 ## Pick and predict
 For the Student table, pick three fields for a query, write down the columns you expect to see, then switch to Datasheet View and check your prediction.
+
+## Grade 12 — write it, run it, save it, run it again
+Follow the click path to SQL View. Type SELECT * FROM Student; (use any standing table). Run it. Save the query with a clear name, close it, and run it again by double-clicking it in the queries view. Then deliberately misspell the table name, run, and read the error pop-up aloud.

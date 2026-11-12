@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The Criteria row — M under Sex** — open Query Design, add the table, select the display fields, then type the condition in the Criteria row under the right field — entering M under Sex shows only male students
 2. **The exact-match warning — and the practice** — the criterion must match the stored data exactly: if sex is stored as a single character, typing the full word returns nothing; the practice includes the Female_Students query
 
+3. **Grade 12 — chosen columns, and WHERE in SQL: operators and true-or-false tests** — Grade 12: chosen columns as a comma-separated list; WHERE expressions evaluating true/false/unknown; comparison, Boolean and special operators; single quotes for string literals; the male-students worked example
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -32,6 +34,7 @@ A computer with Microsoft Access (the book teaches Access 2010), with the school
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16918]: a picture of a full class list narrowing to only the matching rows as a criterion is typed — the student predicts the surviving rows before checking.
    - ADD GIF [GIF 16919]: the result list shrinking as the criterion lands — the student names the record that disappears at each step.
+   - ADD IMAGE [Picture 30507]: a picture of a table with only named columns showing and only matching rows lit — the student names the shown columns and the kept rows.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -44,6 +47,8 @@ A computer with Microsoft Access (the book teaches Access 2010), with the school
 - GIF [GIF 16919] — the result list shrinking as the criterion lands → the student names each record that disappears.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 30507] — named columns, lit rows → the student names columns and kept rows.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

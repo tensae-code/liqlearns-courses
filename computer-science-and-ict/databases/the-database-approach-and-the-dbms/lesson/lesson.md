@@ -36,6 +36,16 @@ Against the file approach, the database approach brings four named advantages:
 
 > **Tip:** the next lessons open this stack up — first how the data inside is modelled (entities and attributes), then how it is stored as tables, and finally how to build it yourself in Access.
 
+## Sub lesson 4 — Grade 12 — database versus DBMS, and the NoSQL challenge (teacher guide — evidence)
+
+**Grade 12 growth (teacher guide — evidence).** Clear the standing confusion directly: **a database is the schema designed with a DBMS to store data; the DBMS is the software tool used to maintain it.** The data and the tool are not the same thing — one is the stored, organised collection, the other is the program that runs it.
+
+The wider tool landscape beyond Access: **MySQL, Oracle, MS SQL Server and MariaDB** are the guide's named RDBMS tools. The guide also lists **MongoDB** here — an error: MongoDB is a NoSQL system (flagged in sources).
+
+The challenge for strong pupils: the **general limitation of an RDBMS in the era of big data — its schema is not flexible enough** — and **other models, such as NoSQL, address exactly that**. The unit's practical prerequisite is also the guide's: a computer with **MS Access installed, 2013 or later** assumed for its activities.
+
+[Picture 30508 — database versus DBMS, and the NoSQL point]
+
 ## Say it to your companion
 
 Tell your companion what the DBMS does, all four jobs. Then trace one query: who sends it, who receives it, what travels back. Finish with the four advantages, one sentence each.

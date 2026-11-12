@@ -36,6 +36,24 @@ Design view builds the table; **Datasheet View** fills it:
 
 The book's practice: in a **database named after your school**, build the **Student**, **Teacher** and **Grade** tables this way — design each in Table Design, set its key, then enter its records.
 
+## Sub lesson 4 — Grade 12 — matching types to fields, and the Access SQL type set in detail
+
+**Grade 12 growth.** Every field gets a **name and a data type** — the kind of value it will store. The matching, worked field by field: a **residence id as a four-digit number**, a **first name as text**; and in the sample table — **age to integer, name to text, price to real/currency, date of birth to date, height to integer or real, grade level to integer, and telephone number to text**. A telephone number is text even though it is made of digits: you never add two phone numbers together, and its leading zero must survive.
+
+Access offers **text, integer, real, date, currency and yes/no** types when a table is created — and in SQL the common Access set in detail:
+
+- **CHAR** — text or text-and-number combinations not used in calculation, **up to 255 characters**; CHAR(20) limits to 20.
+- **TEXT** — lengthy text, up to **63,999 characters**.
+- **INTEGER / INT** — long integers, **−2,147,483,648 to 2,147,483,647**; no size is set by the user.
+- **DATETIME** — dates (**years 100–9999**, written dd-mm-yyyy or yyyy-mm-dd) and times (hh:mm or hh:mm:ss).
+- **CURRENCY** — monetary values used in calculations, 8 bytes.
+- **COUNTER** — a unique sequential or random number Access assigns to each new record, 4 bytes.
+- **Yes/No** — two-value fields (Yes/No, True/False, On/Off), 1 bit.
+
+[Picture 30501 — fields tagged with their data types]
+
+[Picture 30502 — the Access SQL data types chart]
+
 ## Say it to your companion
 
 Walk your companion through the whole rhythm without touching the computer: design, types, key, save, datasheet, records. They check your order against the lesson; then swap.

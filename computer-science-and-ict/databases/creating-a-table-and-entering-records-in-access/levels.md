@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: state the two field rules
 
 ## Sub lesson 3 — Enter the records — Datasheet View
 Sub lesson 3 questions from the type files. Pass mark: set a primary key in Design view and enter records in Datasheet view, in the book's order.
+
+## Sub lesson 4 — Grade 12 — matching types to fields, and the Access SQL type set in detail
+Sub lesson 4 questions from the type files. Pass mark: match the sample fields to their types (including telephone as text) and state the limits of CHAR, TEXT and INTEGER.

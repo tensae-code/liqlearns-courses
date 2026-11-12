@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** List the book example's four display fields with the table each comes from.
 **Answer:** Student name — Student; subject — Grade; grade — Grade; teacher name — Teacher.
+
+**4. (Sub lesson 4)** Write the join listing course names with their semesters.
+**Answer:** SELECT COURSE.C_Name, CourseOffering.Semester FROM COURSE, CourseOffering WHERE COURSE.C_Code = CourseOffering.Code;
+
+**5. (Sub lesson 4)** Name the six project steps briefly.
+**Answer:** Choose a real problem; identify entities and attributes; identify relationships; implement the tables in Access; insert at least three records per table; modify a table by adding a column — and write queries to select records.

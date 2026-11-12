@@ -27,3 +27,9 @@ Now view the results. Look at one row: a name from one table, a grade from anoth
 That is why the database is called relational. The tables relate — and through the relationships, they answer together.
 
 Your practice: Student and Grade, joined — and then the harder one: only the students scoring above 85 in all subjects.
+
+Grade 12 joins in writing.
+
+Two tables in FROM. Columns wearing their table's name. WHERE ties the key to the key.
+
+Add one more criterion — Semester equals I — and the joined answer narrows to the first semester only.

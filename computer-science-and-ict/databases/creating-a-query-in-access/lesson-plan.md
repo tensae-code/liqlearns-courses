@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Pick the fields for the Field row** — pick the fields for the Field row — only the chosen fields, such as name and sex, will show
 3. **See the results — Datasheet View** — switch to Datasheet View to see the results; practice queries display teacher name and specialisation, and student name and grade level
 
+4. **Grade 12 — writing and running SQL in Access: SQL View and Run** — Grade 12 (doing): Create tab → Query Design; close Show Table; SQL View dropdown → SQL View; run via Design → Results → Run, or double-click a saved query; error pop-ups matched to the error type
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -34,6 +36,7 @@ A computer with Microsoft Access (the book teaches Access 2010), with the school
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16916]: a picture of the Query Design grid above its Datasheet results — the student matches each picked field to its result column.
    - ADD GIF [GIF 16917]: fields being picked in the grid and the results appearing on switching view — the student performs the same switch after picking.
+   - ADD GIF [GIF 30531]: the click path Create tab → Query Design → SQL View → Run — the student follows the cursor and clicks along. IMAGE [Picture 30505]: the route as a numbered strip — the student recites the route before touching the mouse.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -46,6 +49,8 @@ A computer with Microsoft Access (the book teaches Access 2010), with the school
 - GIF [GIF 16917] — fields picked in the grid, results appearing on the view switch → the student picks, then switches.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- GIF [GIF 30531] — the click path to Run → the student clicks along. IMAGE [Picture 30505] — the numbered route strip → the student recites the route.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

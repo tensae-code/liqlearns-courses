@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** What is the difference between what Design view and Datasheet View are for?
 **Answer:** Design view builds the table (field names and data types); Datasheet View is where records are typed in, record by record.
+
+**4. (Sub lesson 4)** Which type fits a price that will be totalled?
+**Answer:** CURRENCY (money used in calculations).
+
+**5. (Sub lesson 4)** Date of birth: which type, and which years can it hold?
+**Answer:** DATETIME — years 100 to 9999.

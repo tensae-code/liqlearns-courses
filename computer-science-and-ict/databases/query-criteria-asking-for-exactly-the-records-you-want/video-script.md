@@ -11,3 +11,9 @@ Under the Sex field there is a row called Criteria. Type M.
 Run it. Only the matching records stay.
 
 But be careful: the criterion must match the stored data exactly. Stored as M? Type M. Type the full word, and the answer comes back empty.
+
+Grade 12 writes the criterion.
+
+Name the columns you want — no more. Then WHERE: a test every row must pass.
+
+True — the row shows. False — it does not. Strings wear single quotes.

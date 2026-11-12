@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Drag the key — establish the relationship** — establish the relationship by dragging the primary-key field of the parent table onto the matching field of the child table
 3. **Pick fields from each table, save, view** — select the display fields from each table (student name from Student, subject and grade from Grade, teacher name from Teacher); save the query with a name; view the combined results; practice includes students scoring above 85 in all subjects
 
+4. **Grade 12 — selecting from two tables in SQL, and the six-step database project** — Grade 12: SELECT across two linked tables; qualified table.column names; FROM lists both; WHERE equates PK to FK; COURSE+CourseOffering with the Semester='I' filter; (teacher guide — evidence) the six-step project, filed in hands-on
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -34,6 +36,7 @@ A computer with Microsoft Access (the book teaches Access 2010), with the school
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16920]: a picture of three tables joined by drag-lines in the design window, with one combined result below — the student names the source table of every result column.
    - ADD GIF [GIF 16921]: the primary key being dragged across to make the join line — the student performs the same drag, parent key onto matching child field.
+   - ADD IMAGE [Picture 30506]: a picture of two tables with a join line and a combined result table beneath — the student traces one result row back to both its tables.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -46,6 +49,8 @@ A computer with Microsoft Access (the book teaches Access 2010), with the school
 - GIF [GIF 16921] — the primary key dragged across to make the join line → the student performs the same drag.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 30506] — the join and combined result → the student traces a result row home.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

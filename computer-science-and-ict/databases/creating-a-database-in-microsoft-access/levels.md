@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: choose a describing name 
 
 ## Sub lesson 3 — What comes first inside — a table
 Sub lesson 3 questions from the type files. Pass mark: say why a table is built before forms, queries and reports, and give the student table's two typed fields.
+
+## Sub lesson 4 — Grade 12 — checking Access, launching it, and the three ways to make a table
+Sub lesson 4 questions from the type files. Pass mark: recite the check-and-launch route, state the blank choice, and name the three table-creation ways.

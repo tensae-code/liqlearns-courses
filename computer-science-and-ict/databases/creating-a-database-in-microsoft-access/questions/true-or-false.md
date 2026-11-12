@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** In the running example, the student's grade is given the Text data type.
 **Answer: False** — name is Text; grade is Number.
+
+**4. (Sub lesson 4)** Access is the default relational database program in the Microsoft Office package.
+**Answer: True** — the book's statement.
+
+**5. (Sub lesson 4)** Launching Access by typing “access” in the Search box is one of the book's routes.
+**Answer: True** — Search is the launch route taught.

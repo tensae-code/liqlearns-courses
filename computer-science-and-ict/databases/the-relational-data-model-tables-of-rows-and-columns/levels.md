@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: read the student relation
 
 ## Sub lesson 3 — The Country–City worked join (teacher guide — evidence)
 Sub lesson 3 questions from the type files. Pass mark: explain a join through a linking (shared) attribute, following the Country–City worked answer (teacher evidence).
+
+## Sub lesson 4 — Grade 12 — the RDBMS frame, and fields and records in Ethiopian examples
+Sub lesson 4 questions from the type files. Pass mark: define an RDBMS in the full form, and give one typed field set (the patient) and one full record (the Student row).

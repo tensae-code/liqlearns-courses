@@ -25,3 +25,11 @@ What goes in first? A table. Always a table first — queries, forms and reports
 Our first table will be the student: field by field, each field with its type. Name — Text. Grade — Number.
 
 That table is the next lesson. For now: open, Blank database, name, Create. Say it back to me — then go and do it.
+
+Grade 12 starts here.
+
+Check it is installed — Start, All apps, Microsoft Office, Access, and its year.
+
+Or type “access” in Search. Choose Blank database — from scratch.
+
+Three doors to a table: Design, Datasheet, SQL. This unit walks through the SQL door.

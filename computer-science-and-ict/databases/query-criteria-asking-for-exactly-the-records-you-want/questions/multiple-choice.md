@@ -17,3 +17,19 @@ a) all male students  b) nothing  c) the whole table
 **4. (Sub lesson 2)** The practice query named in the book is —
 a) Female_Students  b) All_Students  c) Teachers_Only
 **Answer: a)** — the Female_Students query.
+
+**5. (Sub lesson 3)** Chosen columns are named —
+a) in the WHERE clause  b) as a comma-separated list after SELECT  c) in FROM  d) one per statement
+**Answer: b) as a comma-separated list after SELECT** — SELECT FullName, Sex — the list chooses the columns.
+
+**6. (Sub lesson 3)** A WHERE expression evaluates, per record, to —
+a) a number only  b) true, false or unknown  c) a column name  d) the primary key
+**Answer: b) true, false or unknown** — three outcomes, and only true keeps the row in the standard reading.
+
+**7. (Sub lesson 3)** Which is a comparison operator set from the lesson?
+a) AND, OR, NOT  b) =, >, >=, <, <=, !=  c) SELECT, FROM  d) CHAR, TEXT
+**Answer: b) =, >, >=, <, <=, !=** — the comparison operators listed.
+
+**8. (Sub lesson 3)** By the SQL standard, a string literal is written —
+a) "M" in double quotes  b) 'M' in single quotation marks  c) M unquoted  d) (M) in brackets
+**Answer: b) 'M' in single quotation marks** — single quotation marks are the standard.

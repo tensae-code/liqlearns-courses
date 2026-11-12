@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: describe the DBMS's four 
 
 ## Sub lesson 3 — The four advantages over files
 Sub lesson 3 questions from the type files. Pass mark: name and explain the four advantages over the file approach.
+
+## Sub lesson 4 — Grade 12 — database versus DBMS, and the NoSQL challenge (teacher guide — evidence)
+Sub lesson 4 questions from the type files. Pass mark: state the database/DBMS distinction in one sentence and name the RDBMS limitation NoSQL answers.

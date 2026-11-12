@@ -10,3 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** Why are employees and projects many-to-many, not one-to-many?
 **Answer:** Because the count is many in both directions: an employee works on many projects, and a project has many employees.
+
+**4. (Sub lesson 4)** Give the click path to the Relationships window.
+**Answer:** Database Tools tab → Relationships group → Relationships.
+
+**5. (Sub lesson 4)** What two things must linked tables share for the drag to make a sound link?
+**Answer:** A common key item, with matching primary/foreign key data types.

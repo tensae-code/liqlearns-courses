@@ -437,3 +437,34 @@ the fuller health chain, the patent/trademark
 distinction, the three-way IP comparison table, the
 Ambassador competition. The course now stands at
 550 lessons.
+
+**Band F3 (Grade 12, Unit 3) — BUILT 2026-11-12:** 14 new
+lessons and 9 grown, 358 questions across the 23
+touched lessons (254 of them newly written), 29 media
+filed (pictures/GIFs 30500–30523, 30530–30534) — the
+Database Management System unit in the Databases
+title: a full SQL course inside Access. New: SQL and
+its three families, CREATE TABLE, the DEPARTMENT and
+COURSE worked example, ALTER TABLE, adding a foreign
+key with ALTER, DROP TABLE, INSERT in both forms and
+its worked examples, UPDATE with the WHERE warning,
+DELETE, SELECT and its clauses, SELECT *, filtering
+by date/AND/OR/BETWEEN, ORDER BY. Grown in the Grade
+11 files: the relational model, creating a table,
+keys, the database approach, creating a database,
+creating a query, relationship types (the
+Relationships window), query criteria, queries across
+tables. Book errors taught correct and named in
+sources: "DEPARTEMENT", "FORIGEN KEY", "SELECET",
+"ORDERE BY", and the BETWEEN example's impossible
+'30-02-2020' date. Guide errors NOT copied: MongoDB
+listed as an RDBMS, a trailing comma in its worked
+CREATE TABLE, a Grade table referencing a Course
+table never created, an answer deleting from a
+different table than it names; the review's wrong
+"HTML tables" question stem was not built into any
+question. Teacher evidence: the worked DDL/DML/DQL
+answer sets, Ethiopian example sets, and the six-step
+database project rubric (filed in the queries-across
+lessons' hands-on; ABOUT-worthy). The course now
+stands at 564 lessons.

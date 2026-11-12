@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** One loan row can be followed through its foreign keys to exactly one student row and one book row.
 **Answer: True** — each foreign key matches one primary-key value.
+
+**4. (Sub lesson 4)** Sid can appear many times in MarkList for one student.
+**Answer: True** — one student has many mark records.
+
+**5. (Sub lesson 4)** A foreign key must be unique in its table.
+**Answer: False** — the foreign key repeats; the primary key it matches is the unique one.

@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **The worked student relation — and linking relations** — the student relation lists ID, name, sex, grade and address; a whole model is a collection of relations, their attributes and their relationships, with a shared attribute placed in one relation to link it to another
 3. **The Country–City worked join (teacher guide — evidence)** — the guide fully works the join: the linking attribute identified, the fields counted, the Kenyan cities picked out, and a joined country–city–population table of nine cities across Ethiopia, Egypt, Kenya and Sudan
 
+4. **Grade 12 — the RDBMS frame, and fields and records in Ethiopian examples** — the Grade 12 frame: an RDBMS creates, maintains and controls access; a student entity's five attributes; (teacher guide — evidence) Ethiopian field/record example sets — patient fields, Person/Book/Sales fields, one full Student row, field values from a book title to a cost in birr
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -34,6 +36,7 @@ Paper and a pencil — draw the grids by hand first.
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16908]: a picture of one relation drawn as a grid with a row and a column highlighted and labelled record and attribute — the student points to a record and to a field in their own grid.
    - ADD IMAGE [Picture 16909]: a picture of the Country and City source tables and their joined table as a three-panel strip (teacher guide — evidence) — the student finds the linking attribute in all three panels.
+   - ADD IMAGE [Picture 30500]: a picture of a table grid with one column labelled field and one row labelled record — the student traces a row and a column and names each.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -46,6 +49,8 @@ Paper and a pencil — draw the grids by hand first.
 - IMAGE [Picture 16909] — the Country–City join in three panels (teacher guide — evidence) → the student traces the linking attribute through the join.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 30500] — field column, record row → the student traces and names both.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

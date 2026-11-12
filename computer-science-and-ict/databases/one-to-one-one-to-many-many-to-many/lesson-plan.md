@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **One-to-many** — one instance links to many on the other side — one department, many students
 3. **Many-to-many** — instances on both sides link to many on the other — an employee works on many projects, and a project has many employees
 
+4. **Grade 12 — building relationships by dragging: the Relationships window** — Grade 12 (doing): Database Tools → Relationships; Show Table add + Close; drag the primary key onto the foreign key (Ctrl for several); 1 and ∞ ends; matching types; no data before relationships
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -32,6 +34,7 @@ Paper and a pencil. Nothing else.
 1. **Do it first** — the learner takes one pair — a country and its capital — and asks both counting questions: how many capitals can one country have here, and how many countries can one capital belong to (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 16904]: a picture of three small diagrams, one per relationship type, with the book's own examples — the student names each type from its diagram.
+   - ADD GIF [GIF 30532]: a primary key field being dragged onto a foreign key field and the link line appearing — the student performs the same drag in Access. IMAGE [Picture 30509]: a relationships diagram with 1 and ∞ ends labelled — the student reads a diagram's type from its ends.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -43,6 +46,8 @@ Paper and a pencil. Nothing else.
 - IMAGE [Picture 16904] — three diagrams, one per type, with the book's examples → the student names each type and its counts.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- GIF [GIF 30532] — the key drag and link line → the student performs the drag. IMAGE [Picture 30509] — the 1/∞ diagram → the student reads the type.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
