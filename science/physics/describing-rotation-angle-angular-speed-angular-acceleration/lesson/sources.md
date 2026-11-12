@@ -1,6 +1,6 @@
 # Sources — Describing rotation — angle, angular speed, angular acceleration
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -11,17 +11,20 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji
 
 **Book 4:** *Physics for Year 13* (student textbook) — Fiji, Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018. Title as printed: Physics for Year 13 (Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018). Grade: 13 · Student book · Repo path: grade-13/gov/fiji/physics/student/full-year.pdf · Release: mid-size-books-7. Byte size: 12,431,417 (release asset; no size in record) · PDF pages: 221 · Offset: printed p. N ≈ PDF p. N+4 (front matter i–iv + reference pages). Verdict: COMPLETE — full text read (45,871 words); copyright/acknowledgement pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 5:** *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Eleventh edition, 2024 / 1446H. Grade: 11 · Student book (scientific track) · Repo: release `mid-size-books`, asset `grade-11-gov-iraq-physics-student-full-year.pdf` — 10,782,568 bytes (matched asset). PDF pages: 248. Image-only PDF (no text layer) — read from rendered pages. Printed page = PDF page (offset 0; folios 5, 10, 247, 248 verified on the page images). Verdict: COMPLETE (Ch.10 exercises run to printed p. 248, the last page). Structure: 10 chapters (contents, printed p. 4). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Rotational kinematics — angular displacement, velocity, acceleration | Grade 12 Student Textbook, printed pp. 39–41 |
 | §8.1 Rotational Motion — angular displacement/velocity/acceleration (solutions manual — evidence) | Bahrain, *فيز 217 (Physics 217) Term 2 — Solutions Manual for Glencoe Physics: Principles and Problems*, §8.1 (Ch. 8 Rotational Motion), solutions from PDF p. 84 |
 | Ch. 1, §§1.1–1.7 — angular displacement, angular velocity, rotational frequency, period, tangential velocity, ω–v relation, angular acceleration | Sri Lanka, *Science for Technology: Physics Part II*, printed pp. 3–8 |
 | Strand 1 §§1.4–1.5 Rotational kinematics and dynamics (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 1 §§1.4–1.5 Rotational kinematics and dynamics — printed p. 17 |
+| Ch.7 Circular and rotational motion §7-1 Rotational motion (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.7 Circular and rotational motion §7-1 Rotational motion — printed p. 131 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Fiji).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Fiji, Iraq).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 
-Searchable tags: physics, grade 12, two-dimensional motion, describing rotation — angle, angular speed, angular acceleration, acceleration, sri lanka
+Searchable tags: physics, grade 12, two-dimensional motion, describing rotation — angle, angular speed, angular acceleration, acceleration, sri lanka, iraq

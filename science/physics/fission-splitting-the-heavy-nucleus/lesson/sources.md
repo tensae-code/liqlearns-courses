@@ -1,6 +1,6 @@
 # Sources — Fission — splitting the heavy nucleus
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Barbados, Malaysia, Indonesia, Kenya
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Barbados, Malaysia, Indonesia, Kenya, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (cu
 
 **Book 8:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
+**Book 9:** *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Tenth edition, 2024 / 1446H. Grade: 12 · Student book (scientific track) · Repo: release `mid-size-books-2`, asset `grade-12-gov-iraq-physics-student-full-year.pdf` — 16,625,356 bytes (matched asset). PDF pages: 284. Printed page = PDF page (offset 0; contents table is printed on the last page, p. 284). Verdict: COMPLETE (contents on printed p. 284 lists all 9 chapters ending at p. 282). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fission | Grade 11 Student Textbook, printed pp. 316–322 |
@@ -30,9 +32,10 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (cu
 | Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) — guide p. 205 |
 
 | Ch 10: nuclear fission (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 10: nuclear fission — printed p. 183 |
+| Ch.9 Nuclear physics (fission/fusion strand of the chapter) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.9 Nuclear physics (fission/fusion strand of the chapter) — printed p. 255 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Malaysia, Indonesia, Kenya).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Malaysia, Indonesia, Kenya, Iraq).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, fission — splitting the heavy nucleus, chain reaction, kenya
+Searchable tags: physics, grade 11, nuclear physics, fission — splitting the heavy nucleus, chain reaction, kenya, iraq

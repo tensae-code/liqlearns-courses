@@ -1,6 +1,6 @@
 # Sources — Communication — radio, satellites and fiber optics
 
-countries: Ethiopia, Sudan, Indonesia, United States
+countries: Ethiopia, Sudan, Indonesia, United States, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,13 +10,16 @@ countries: Ethiopia, Sudan, Indonesia, United States
 
 **Book 4:** *Physics for Utah SEEd Standards, Revised 2025 — Utah State Board of Education OER Textbook* (student textbook) — United States, Utah State Board of Education (content © Utah State Board of Education 2025, CC BY-NC-SA; built on CK-12 Foundation material, CC BY-NC 3.0; printed May 2025). Title as printed: Physics for Utah SEEd Standards, Revised 2025 — Utah State Board of Education OER Textbook (content © Utah State Board of Education 2025, CC BY-NC-SA; built on CK-12 Foundation material, CC BY-NC 3.0; printed May 2025). Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/science/full-year.pdf. Byte size: 28,763,414 · PDF pages: 191 · Offset: printed p. N ≈ PDF p. N+2 (the PDF carries its own printed folios). Verdict: COMPLETE — full text read (32,125 words); title/credits pages prove identity; the book is organised by Utah SEEd standard, one chapter per standard. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 5:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Physics in communication | Grade 12 Student Textbook, printed pp. 20–23 |
 | Book 4: radio transmission and reception (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. 202 |
 | Bab 5, Subbab D Pemanfaatan GEM (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 5, Subbab D Pemanfaatan GEM — guide p. 125 — uses of EM waves |
 | Capture and transmission of waves — PHYS.4.5 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.4.5, printed p. 181 — capture and transmission of waves |
+| Ch.9 §§9-3–9-5 (wireless-wave propagation, the mobile phone, satellites) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.9 §§9-3–9-5 (wireless-wave propagation, the mobile phone, satellites) — printed p. 161 (opener list) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Indonesia, United States).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Indonesia, United States, Iraq).**
 
-Searchable tags: physics, grade 12, application of physics in other fields, communication — radio, satellites and fiber optics, magnet, united states
+Searchable tags: physics, grade 12, application of physics in other fields, communication — radio, satellites and fiber optics, magnet, united states, iraq

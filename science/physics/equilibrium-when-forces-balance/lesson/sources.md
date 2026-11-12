@@ -1,6 +1,6 @@
 # Sources — Equilibrium — when forces balance
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Morocco (teacher-guide evidence only), United States, Uganda
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Morocco (teacher-guide evidence only), United States, Uganda, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Sri Lanka, Syria, Sl
 
 **Book 10:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 11:** *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Eleventh edition, 2024 / 1446H. Grade: 11 · Student book (scientific track) · Repo: release `mid-size-books`, asset `grade-11-gov-iraq-physics-student-full-year.pdf` — 10,782,568 bytes (matched asset). PDF pages: 248. Image-only PDF (no text layer) — read from rendered pages. Printed page = PDF page (offset 0; folios 5, 10, 247, 248 verified on the page images). Verdict: COMPLETE (Ch.10 exercises run to printed p. 248, the last page). Structure: 10 chapters (contents, printed p. 4). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The first condition of equilibrium | Grade 11 Student Textbook, printed pp. 126–133 |
@@ -37,7 +39,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Sri Lanka, Syria, Sl
 | Ch. 9 Statics and Torque (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 9 Statics and Torque, printed p. 385 |
 
 | Ch 4: balanced and unbalanced forces (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 — printed p. 69 |
+| Ch.4 Torque and equilibrium §§4-1–4-2 (equilibrium concept; translational equilibrium condition ΣF=0) (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.4 Torque and equilibrium §§4-1–4-2 (equilibrium concept; translational equilibrium condition ΣF=0) — printed p. 74 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, Syria, Slovenia, Malaysia, United States, Uganda).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, Syria, Slovenia, Malaysia, United States, Uganda, Iraq).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
-Searchable tags: physics, grade 11, dynamics, equilibrium — when forces balance, equilibrium, sri lanka, united states, uganda
+Searchable tags: physics, grade 11, dynamics, equilibrium — when forces balance, equilibrium, sri lanka, united states, uganda, iraq

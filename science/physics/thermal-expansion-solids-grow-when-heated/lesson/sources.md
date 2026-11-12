@@ -1,6 +1,6 @@
 # Sources — Thermal expansion — solids grow when heated
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda
 
 **Book 4:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 5:** *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)* (student textbook) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Sixth revised edition, 2023 / 1445H (revised from the 2021 Grade-7 Science book). Grade: 7 · Student book · Repo: release `mid-size-books`, asset `grade-07-gov-iraq-physics-student-full-year.pdf` — 32,972,568 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0; contents and lesson starts align). Verdict: COMPLETE (ends with Ch.5 chapter test, printed p. 88). Structure: 5 chapters / 12 lessons, each lesson built on the 5-stage learning cycle (engage–explore–explain–evaluate–extend) stated in the preface. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Thermal expansion of solids | Grade 11 Student Textbook, printed pp. 190–195 |
@@ -17,7 +19,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda
 | U3 Expansion of bodies by heat (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U3 Expansion of bodies by heat — printed p. 120 |
 
 | Ch 7: expansion of solids (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 7 Expansion of solids, liquids and gases — printed p. 127 |
+| Ch.5 L1 Heat and the expansion of bodies (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.5 L1 Heat and the expansion of bodies — printed p. 75 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Syria, Uganda).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Uganda, Iraq).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda
+Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq

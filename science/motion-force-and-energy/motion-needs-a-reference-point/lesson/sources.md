@@ -1,6 +1,6 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum
 
 **Book 7:** *Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 9 (3ème année collégiale, 3AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-09/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,416,512 · PDF pages: 129 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and full activity lists for both semesters verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 8:** *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Eleventh edition, 2024 / 1446H. Grade: 11 · Student book (scientific track) · Repo: release `mid-size-books`, asset `grade-11-gov-iraq-physics-student-full-year.pdf` — 10,782,568 bytes (matched asset). PDF pages: 248. Image-only PDF (no text layer) — read from rendered pages. Printed page = PDF page (offset 0; folios 5, 10, 247, 248 verified on the page images). Verdict: COMPLETE (Ch.10 exercises run to printed p. 248, the last page). Structure: 10 chapters (contents, printed p. 4). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Motion and rest — the two-station puzzle and the definitions | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 172–173 |
@@ -27,9 +29,10 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum
 | Ch 2: motion and rest relative to a frame (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 11 |
 
 | Chapitre 8, Movement and rest — trajectory and frame of reference, translation, rotation (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 8, printed p. 76 |
+| Ch.2 Motion §§2-1–2-2 (motion description, kinematics vs dynamics, frame of reference) (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.2 Motion §§2-1–2-2 (motion description, kinematics vs dynamics, frame of reference) — printed p. 24 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Syria, Sudan).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Sudan, Iraq).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Placement: Student item 77 — g07-student-placements.md (Unit 7, printed pp. 172–199 of the student book). This lesson rests on the student book only. Cross-reference: the Materials title's Motion, distance and speed lesson treats relative motion at primary (Grade 5) depth; this is a NEW Grade 7-depth lesson in the new Motion, Force and Energy title, not a copy or growth of that file.
 
-Searchable tags: motion reference point reference frame rest grade 7 general science unit 7 ethiopia
+Searchable tags: motion reference point reference frame rest grade 7 general science unit 7 ethiopia, iraq

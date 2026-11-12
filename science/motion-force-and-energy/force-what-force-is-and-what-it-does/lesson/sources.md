@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia
 
 **Book 5:** *Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 9 (3ème année collégiale, 3AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-09/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,416,512 · PDF pages: 129 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and full activity lists for both semesters verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 6:** *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)* (student textbook) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Sixth revised edition, 2023 / 1445H (revised from the 2021 Grade-7 Science book). Grade: 7 · Student book · Repo: release `mid-size-books`, asset `grade-07-gov-iraq-physics-student-full-year.pdf` — 32,972,568 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0; contents and lesson starts align). Verdict: COMPLETE (ends with Ch.5 chapter test, printed p. 88). Structure: 5 chapters / 12 lessons, each lesson built on the 5-stage learning cycle (engage–explore–explain–evaluate–extend) stated in the preface. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Force as an interaction; throwing, holding, walking, cutting | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 182–184 |
@@ -22,9 +24,10 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia
 | Forces: Opis sil (Describing forces) (Slovenia) | Slovenia, *Fizika 8*, Forces: Opis sil (Describing forces) — printed p. 105 (unit folder 151) |
 
 | Chapitre 11, Notion of force — characteristics of a force, measuring its intensity (dynamometer), representing a force (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 11, printed p. 94 |
+| Ch.2 L2 Classifying force by its effect on bodies (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.2 L2 Classifying force by its effect on bodies — printed p. 33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Slovenia).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Slovenia, Iraq).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Placement: Student item 82 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. Cross-reference: the Materials title's Force, friction and gravity lesson treats force at primary depth; this is the Grade 7 treatment in the new title, not a copy of that file.
 
-Searchable tags: force contact non-contact gravity magnetism friction effects grade 7 unit 7 ethiopia, palestine
+Searchable tags: force contact non-contact gravity magnetism friction effects grade 7 unit 7 ethiopia, palestine, iraq

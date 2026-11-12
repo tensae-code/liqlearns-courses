@@ -1,6 +1,6 @@
 # Sources — Electromagnetic induction — making current with a magnet
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, H
 
 **Book 14:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
+**Book 15:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electromagnetic induction — the discovery | Grade 12 Student Textbook, printed pp. 126–127 |
@@ -50,7 +52,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, H
 | Chapter: Electromagnetic Induction (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electromagnetic Induction chapter — PDF p. 39 |
 
 | Ch 5: induced emf, Fleming's right-hand rule, mutual induction (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 5: induced emf, Fleming's right-hand rule, mutual induction — printed p. 86 |
+| Ch.6 §§6-6–6-7 (electromagnetic induction, induced EMF, applications) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.6 §§6-6–6-7 (electromagnetic induction, induced EMF, applications) — printed p. 111 (opener list) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
-Searchable tags: physics, grade 12, electromagnetism, electromagnetic induction — making current with a magnet, activity, current, sri lanka, united states, uganda, kenya
+Searchable tags: physics, grade 12, electromagnetism, electromagnetic induction — making current with a magnet, activity, current, sri lanka, united states, uganda, kenya, iraq

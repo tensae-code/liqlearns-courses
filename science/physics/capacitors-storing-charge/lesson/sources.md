@@ -1,6 +1,6 @@
 # Sources — Capacitors — storing charge
 
-countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia
+countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 
 **Book 7:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 8:** *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Tenth edition, 2024 / 1446H. Grade: 12 · Student book (scientific track) · Repo: release `mid-size-books-2`, asset `grade-12-gov-iraq-physics-student-full-year.pdf` — 16,625,356 bytes (matched asset). PDF pages: 284. Printed page = PDF page (offset 0; contents table is printed on the last page, p. 284). Verdict: COMPLETE (contents on printed p. 284 lists all 9 chapters ending at p. 282). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capacitors and capacitance | Grade 11 Student Textbook, printed pp. 270–273 |
@@ -26,9 +28,10 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 | Ch. 39 — conduction and capacitance (கொள்ளளவு) | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), printed p. 18 |
 | Strand 4 §4.2 Capacitors and Capacitance (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 4 §4.2 Capacitors and Capacitance — printed p. 106 |
 | Bab 1, Subbab D Kapasitor Keping Sejajar (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 1, Subbab D Kapasitor Keping Sejajar — guide p. 27 — parallel-plate capacitor with a demonstration circuit; capacitor networks follow (Gambar 1.4) |
+| Ch.1 Capacitors §§1-1–1-3 (the capacitor, parallel-plate capacitor, capacitance) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.1 Capacitors §§1-1–1-3 (the capacitor, parallel-plate capacitor, capacitance) — printed p. 5 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, capacitors — storing charge, capacitance, sri lanka
+Searchable tags: physics, grade 11, electrostatics and electric circuit, capacitors — storing charge, capacitance, sri lanka, iraq

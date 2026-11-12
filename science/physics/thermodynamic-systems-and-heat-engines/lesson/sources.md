@@ -1,8 +1,10 @@
 # Sources — Thermodynamic systems and the heat engine
 
-countries: Italy
+countries: Italy, Iraq
 
 **Book 1:** *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2020, ISBN 9788808938060. Title as printed: Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica. Grades 9–10 span of the liceo course (filed Grade 9) · Student book · New edition, Geneva preface February 2020 · Repo: release `mid-size-books-6`, asset `grade-09-gov-italy-physics-student-full-year.pdf` — 87,948,360 bytes (matched asset) · PDF pages: 553 · Offset: front matter is roman-numbered (index at printed pp. IV–X); placements cite printed (theory) pages as cited from the book's index. Verdict: COMPLETE (index closes with Ch. 11, “Verso l'esame” at printed p. 510 and the analytic index at p. 514). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
+
+**Book 2:** *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Eleventh edition, 2024 / 1446H. Grade: 11 · Student book (scientific track) · Repo: release `mid-size-books`, asset `grade-11-gov-iraq-physics-student-full-year.pdf` — 10,782,568 bytes (matched asset). PDF pages: 248. Image-only PDF (no text layer) — read from rendered pages. Printed page = PDF page (offset 0; folios 5, 10, 247, 248 verified on the page images). Verdict: COMPLETE (Ch.10 exercises run to printed p. 248, the last page). Structure: 10 chapters (contents, printed p. 4). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,9 +12,10 @@ countries: Italy
 | Sub lesson 2 — Transformations | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.10 Thermodynamic transformations and work (pp. 414–418), adiabatic transformations (p. 431); the specific heats of a perfect gas (p. 427) — printed p. 410 |
 | Sub lesson 3 — Heat engines, Carnot, the second law and entropy | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.11 Heat engines (p. 456), the second law (p. 459), Carnot's cycle (p. 464), entropy (p. 474) and its microscopic interpretation (p. 482) — printed p. 410 |
 | Do it first; key ideas; Do It Yourself | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, as cited in the rows above |
+| Ch.6 Thermodynamics (the heat engine) §6-1 The thermodynamic system — stocked into this existing shared lesson per the Iraq merge brief; the placements file tags it NEW LESSON NEEDED (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.6 Thermodynamics (the heat engine) §6-1 The thermodynamic system — stocked into this existing shared lesson per the Iraq merge brief; the placements file tags it NEW LESSON NEEDED — printed p. 119 |
 
-**Acceptance count: taught in 1 country (Italy).**
+**Acceptance count: taught in 2 countries (Italy, Iraq).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Thermodynamic systems and the heat engine” — italy-placements.md, Book 1, Ch.10 (printed p. 410) and Ch.11 — the standing thermodynamics gap in its fullest form in the whole expansion group. The existing lesson **Thermodynamics — the laws and heat engines** (`physics/thermodynamics-laws-and-heat-engines`, stocked from Ecuador) states the laws as a whole; this lesson is the fuller systems/internal-energy/transformations/Carnot treatment and cross-references it rather than duplicating it. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: thermodynamics, thermodynamic system, internal energy, first law, transformations, adiabatic, isothermal, heat engine, carnot, second law, entropy, italy, amaldi
+Searchable tags: thermodynamics, thermodynamic system, internal energy, first law, transformations, adiabatic, isothermal, heat engine, carnot, second law, entropy, italy, amaldi, iraq
