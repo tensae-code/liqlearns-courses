@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** When the word processor is clicked, a blank document window appears.
 **Answer: True** — that blank window is the new document.
+
+**5. (Sub lesson 5)** Method 1 starts by clicking Start on the taskbar.
+**Answer: True.**
+
+**6. (Sub lesson 5)** In Method 2 you click the Word icon in the search results.
+**Answer: True.**

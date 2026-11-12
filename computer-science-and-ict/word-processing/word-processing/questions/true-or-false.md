@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3.** Editing is part of word processing.
 **Answer: True** — create, edit, format, save.
+
+**4.** Word processing can insert illustrations and photographs from other software.
+**Answer: True** — inserting illustrations and photographs is a named function.
+
+**5.** Correcting spelling and grammar is part of word processing.
+**Answer: True.**

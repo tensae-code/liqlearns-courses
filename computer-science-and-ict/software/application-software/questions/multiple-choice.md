@@ -33,3 +33,11 @@ a) an operating system  b) application software  c) a utility  d) hardware
 **8. (Sub lesson 4)** Do traffic lights need software to work?
 a) No — they are only lamps and wires  b) Yes — the system runs on operating systems, storage and other software  c) Only at night  d) Only in cities
 **Answer: b) Yes — the system runs on operating systems, storage and other software.**
+
+**9. (Sub lesson 5)** A suite is —
+a) one single program  b) a larger set of related, independent programs sharing a common user interface  c) a kind of hardware  d) a printer setting
+**Answer: b) a larger set of related, independent programs sharing a common user interface** — the Microsoft Office Suite is the example.
+
+**10. (Sub lesson 5)** MS Notepad, for writing and editing simple text, is application software in the shape of —
+a) a suite  b) a package  c) a single program  d) an operating system
+**Answer: c) a single program.**

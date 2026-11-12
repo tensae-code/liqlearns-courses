@@ -13,6 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The top of the window** — title bar, menu bar / tabs and the Quick Access Toolbar
 2. **The working middle** — the Ribbon, the rulers and the document area
 3. **The bottom and the File tab** — view buttons, zoom control, status bar — and the File tab's list
+4. **The Grade 9 depth — the window in ten elements** — the ten-element table: Title Bar, Quick Access Toolbar (a pull-down adds more), File Tab, Ribbon (compressed on smaller monitors), Edit Window, Scroll Bar, Status Bar, Zoom Slide Control, Insertion Point/Cursor and I-beam Pointer
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -24,6 +25,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Name the three default Quick Access buttons: Save, Undo, Repeat.
 3. Name the five views: Print Layout, Full Screen Reading, Web Layout, Outline, Draft.
 4. List what the File tab holds: Save, Save As, Open, Close, Info, Recent, New, Print.
+5. Name the ten elements of the Grade 9 table and say the job of the two pointers: the blinking insertion point and the I-beam.
 
 ## What you need
 A computer with Word open — naming is learned by pointing at the real window.
@@ -32,6 +34,7 @@ A computer with Word open — naming is learned by pointing at the real window.
 1. **Do it first** — the learner opens Word and tries to guess what each part of the window is for, before the names are given (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10507]: a picture of a full Word window with every element labelled — the student points to each part on the picture and says its job.
+   - ADD IMAGE [Picture 13304]: a picture of a full Word window with all ten Grade 9 elements listed beside it — the student matches each name in the list to its place on the window.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -40,6 +43,8 @@ A computer with Word open — naming is learned by pointing at the real window.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10507] — a picture of a full Word window with every element labelled → the student points to each part on the picture and says its job.
+- IMAGE [Picture 13304] — a picture of a Word window with its ten Grade 9 elements listed → the student matches each name to its place.
+- AUDIO — a voice reading the ten element names aloud, in the table's order → the student points to each part as its name is read.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

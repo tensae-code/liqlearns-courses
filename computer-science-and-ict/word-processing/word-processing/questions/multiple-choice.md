@@ -25,3 +25,15 @@ a) deleting it  b) shaping how it looks  c) losing it  d) printing it twice
 **6.** Saving a document means —
 a) keeping it so it can be opened again  b) throwing it away  c) reading it aloud  d) closing the computer
 **Answer: a) keeping it so it can be opened again** — save keeps the work.
+
+**7.** Which of these is a word processor?
+a) MS Word  b) A printer  c) A scanner  d) A spreadsheet cell
+**Answer: a) MS Word** — MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer and Google Drive Document are named.
+
+**8.** Templates in word processing are for —
+a) repetitive tasks  b) printing photographs only  c) deleting text  d) switching the computer off
+**Answer: a) repetitive tasks.**
+
+**9.** A plain text editor such as Notepad handles —
+a) formatted documents  b) only unformatted text  c) tables and photographs  d) spelling checks
+**Answer: b) only unformatted text** — program source code and configuration files.

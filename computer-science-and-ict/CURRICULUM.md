@@ -95,3 +95,17 @@ Networks title opened: devices, media, the four network kinds,
 the four topologies, peer-to-peer against client-server, and
 the Ethio-telecom and INSA investigation. The course now
 stands at 163 lessons.
+
+**Band C3 (Grade 9, Unit 3 — the Word part) — BUILT
+2026-11-12:** 17 new lessons + 4 grown, 229 questions added,
+35 media filed (pictures/GIFs 13300–13348; another stream
+filed nine files inside the band's range mid-build — the
+band's own files on those numbers were moved up inside the
+range before any lesson cited them, and nothing was
+overwritten) — Word Processing taken to full depth:
+indentation four ways, alignment, lists at three levels,
+spacing, page breaks, page numbers, headers and footers. One
+lesson (Page Numbers That Change by Section) stands on
+teacher-guide evidence only, labelled, counted nowhere. The
+Excel and PowerPoint parts of Unit 3 are band C4. The course
+now stands at 180 lessons.

@@ -17,3 +17,8 @@ One more thing. Click — and a blank window stands open.
 That blank window is your new document.
 Its first name is not yours yet: DOCUMENT, and a number.
 Save it, and it can open again — even on another computer.
+
+Newer Word opens two ways.
+Way one: Start. The Word tile. Blank document.
+Way two: Start. Type: Word. Click the icon.
+Both end at the same blank page.

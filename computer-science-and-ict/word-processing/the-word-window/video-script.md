@@ -12,3 +12,10 @@ Bottom: the status bar. The views. The zoom.
 
 And the File tab — Save, Open, Print.
 Now you can name every part.
+
+Ten names for one window.
+Title Bar. Quick Access — pull it down for more.
+File Tab. Ribbon — it squeezes on a small screen.
+Edit Window. Scroll Bar. Status Bar. Zoom.
+The blinking line: text lands there.
+The I-beam: that is where your mouse is.

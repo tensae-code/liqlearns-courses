@@ -13,3 +13,6 @@ Sub lesson 3 questions from the type files. Pass mark: open Word from the deskto
 
 ## Sub lesson 4 — Creating a document — the blank page and its first name
 Sub lesson 4 questions from the type files. Pass mark: say that clicking the word processor opens a blank document window, give a new document's default name (DOCUMENT followed by a number), and say a saved document can later be opened on another computer.
+
+## Sub lesson 5 — The Grade 9 depth — Word 2016 or later, two ways
+Sub lesson 5 questions from the type files. Pass mark: open Word both Grade 9 ways in the book's order — Start then the Word tile then Blank document; Start then type "Word" then click the icon in the results.

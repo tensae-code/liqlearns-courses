@@ -16,3 +16,9 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 4)** An ATM works without any software.
 **Answer: False** — ATMs run on operating systems, storage and other software.
+
+**6. (Sub lesson 5)** LibreOffice is the free alternative used alongside MS Office.
+**Answer: True** — named as the free alternative.
+
+**7. (Sub lesson 5)** Application software is what the user works with directly; system software keeps the hardware working.
+**Answer: True** — that is the frame: hardware plus software, the user working with the applications.

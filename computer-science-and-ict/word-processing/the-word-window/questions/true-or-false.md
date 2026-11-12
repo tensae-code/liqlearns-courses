@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** The status bar is at the top of the window.
 **Answer: False** — it is the bottom bar, with document information.
+
+**4. (Sub lesson 4)** The I-beam Pointer shows where the mouse is.
+**Answer: True.**
+
+**5. (Sub lesson 4)** The File Tab's commands act on the document itself — New, Open, Save As, Print, Close.
+**Answer: True.**

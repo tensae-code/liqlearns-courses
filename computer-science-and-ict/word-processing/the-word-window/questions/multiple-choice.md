@@ -25,3 +25,15 @@ a) Three  b) Five  c) Two  d) Seven
 **6. (Sub lesson 3)** The File tab holds —
 a) only Print  b) Save, Save As, Open, Close, Info, Recent, New, Print  c) only games  d) the rulers
 **Answer: b) Save, Save As, Open, Close, Info, Recent, New, Print** — the whole file-handling list lives behind File.
+
+**7. (Sub lesson 4)** The Quick Access Toolbar holds by default —
+a) Save, Undo and Redo  b) Print, Close and Exit  c) the rulers  d) the zoom only
+**Answer: a) Save, Undo and Redo** — and a pull-down adds more.
+
+**8. (Sub lesson 4)** The blinking line where typed text lands is the —
+a) I-beam Pointer  b) Scroll Bar  c) Insertion Point (Cursor)  d) Status Bar
+**Answer: c) Insertion Point (Cursor).**
+
+**9. (Sub lesson 4)** On a smaller monitor, the Ribbon —
+a) disappears  b) compresses its arrangement  c) prints itself  d) moves to the bottom
+**Answer: b) compresses its arrangement.**

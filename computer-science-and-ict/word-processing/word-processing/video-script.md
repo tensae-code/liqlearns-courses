@@ -13,3 +13,14 @@ Add pictures. Add tables. Add charts.
 
 Clean text. Fewer errors.
 That is word processing.
+
+Five processors do this work.
+Word. WordPerfect. OpenOffice Writer.
+LibreOffice Writer. Google Drive Document.
+
+Copy. Paste. Move. Delete.
+Tables in. Pictures in. Spelling checked.
+Templates do the repeated work again and again.
+
+Notepad? Plain text only. No shaping.
+That border matters.

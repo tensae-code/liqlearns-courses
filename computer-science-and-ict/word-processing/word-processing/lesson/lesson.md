@@ -10,6 +10,16 @@ A word processor is a program that lets users **create, edit, format and save** 
 
 [Picture 10505 — word processing]
 
+## The fuller picture — processors, functions, and plain text
+
+Word processing is using a computer to **create, edit, save and print documents** — reports, letters, memos, newsletters, brochures. It needs a **word processor**, and the processors named are **MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer and Google Drive Document**.
+
+Its functions run wider than typing: creating, editing, saving and printing; **copying, pasting, moving and deleting text**; **formatting** — font type, bold, underline, italic; **making and editing tables**; **inserting illustrations and photographs** from other software; **correcting spelling and grammar**; and **templates** for repetitive tasks.
+
+[Picture 13301 — a letter, start to finish]
+
+One warning keeps the border clear: a **plain text editor** such as Notepad is not a word processor. It handles only **unformatted text** — program source code and configuration files live there. The moment text must be shaped, pictured, tabled or checked, you are doing word processing.
+
 ## Say it to your companion
 
 Tell your companion what a word processor lets you do, and two ways it beats pen-and-paper writing.

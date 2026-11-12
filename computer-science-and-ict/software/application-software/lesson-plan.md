@@ -14,6 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **The five kinds** — word processing, spreadsheets, database management, graphics and presentation software, each with the book's examples
 3. **More examples — activities and their programs** — the Grade 8 depth: manipulating text, numbers, audio, graphics or a combination; photo editing, an accounting application, a web browser, a media player, a flight simulator and games
 4. **Software inside everyday machines** — traffic lights and ATMs need software to work (teacher-guide discussion, keyed)
+5. **One program, a package, a suite** — the Grade 9 depth: application software may be a single program (MS Notepad), a package of programs working together on one task, or a suite — a larger set of related, independent programs sharing a common user interface, such as the Microsoft Office Suite; LibreOffice is the free alternative
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -27,6 +28,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 4. Match each kind to a job: letters, payrolls, records, buildings, slides.
 5. Name the six Grade 8 example activities and the kind of program each one uses.
 6. Answer, with reasons: do traffic lights and ATMs need software to work?
+7. Tell apart a single program, a package and a suite, and name the free alternative to MS Office.
 
 ## What you need
 Paper and a pencil; a computer with any of the named programs if you can look at one.
@@ -37,6 +39,7 @@ Paper and a pencil; a computer with any of the named programs if you can look at
    - ADD IMAGE [Picture 10503]: a picture of five panels, one for each kind of application software, each with its example job — the student matches each kind to the job it does.
    - ADD IMAGE [Picture 11314]: a picture of six application panels — photo editor, accounts, browser, media player, flight simulator, game — the student names the activity each program helps with.
    - ADD IMAGE [Picture 11315]: a picture of a traffic-light controller and an ATM side by side, each with a "software inside" callout — the student points to where the software sits in each machine.
+   - ADD IMAGE [Picture 13300]: a picture of one suite shown as a family of programs under one roof, with a single program and a package beside it — the student sorts the three shapes: single, package, suite.
    - ADD AUDIO: a voice reading the six example activities aloud — the student names each activity after the voice.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
@@ -48,6 +51,7 @@ Paper and a pencil; a computer with any of the named programs if you can look at
 - IMAGE [Picture 10503] — a picture of five panels, one for each kind of application software, each with its example job → the student matches each kind to the job it does.
 - IMAGE [Picture 11314] — a picture of six application panels, one per Grade 8 example → the student names each activity.
 - IMAGE [Picture 11315] — a picture of a traffic-light controller and an ATM, each marked "software inside" → the student explains why each machine needs software.
+- IMAGE [Picture 13300] — a picture of a suite as a family of programs under one roof → the student tells a single program from a package and a suite.
 - AUDIO — a voice reading the six example activities aloud → the student repeats each and names its program kind.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 

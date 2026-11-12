@@ -17,6 +17,8 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Say the four things a word processor lets you do: create, edit, format, save.
 2. Name three things you can add to a document: images, tables, charts.
 3. Give two advantages over pen-and-paper writing.
+4. Name five word processors, and six things word processing does with a document.
+5. Say why a plain text editor like Notepad is not a word processor.
 
 ## What you need
 Paper and a pencil; a computer with a word processor if you can use one.
@@ -25,6 +27,7 @@ Paper and a pencil; a computer with a word processor if you can use one.
 1. **Do it first** — the learner writes one sentence by hand, makes a deliberate mistake in it, and feels what fixing it costs on paper (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10505]: a picture of a messy handwritten page beside a clean word-processed page — the student compares the two pages and names three differences.
+   - ADD IMAGE [Picture 13301]: a picture of a letter being written, formatted, pictured and printed, in four panels — the student walks the four panels and names the job done in each.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -33,6 +36,8 @@ Paper and a pencil; a computer with a word processor if you can use one.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10505] — a picture of a messy handwritten page beside a clean word-processed page → the student compares the two pages and names three differences.
+- IMAGE [Picture 13301] — a picture of a letter written, shaped, pictured and printed in four panels → the student names the job in each panel.
+- AUDIO — a voice reading the function list aloud (create, edit, save, print; copy, paste, move, delete; format; tables; illustrations; spelling and grammar; templates) → the student does or mimes each one after the voice.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

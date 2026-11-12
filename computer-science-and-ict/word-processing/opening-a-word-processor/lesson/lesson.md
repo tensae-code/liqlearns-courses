@@ -26,6 +26,14 @@ What you have been opening has a name of its own. A word processor is software c
 
 [Picture 11318 — a new document and its default name]
 
+## Sub lesson 5 — The Grade 9 depth — Word 2016 or later, two ways
+
+For Word 2016 or later on Windows 10 or later, the routes are these, in the book's order. **Method 1:** click **Start** on the taskbar; click the **Microsoft Word tile** in the pop-up menu; then click **Blank document**. **Method 2:** click **Start**; type **"Word"**; and click the **Word icon** in the search results to open a new blank document. Both methods end where every route in this lesson ends: a new blank document, ready for text.
+
+[Picture 13302 — the two Grade 9 routes]
+
+[GIF 13340 — the Start search route]
+
 ## Say it to your companion
 
 Tell your companion the three routes to open Word, in the book's order, what opens at the end of each — and a new document's default name.

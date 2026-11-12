@@ -14,6 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Route 2 — through Search** — click Search, type 'word', choose Microsoft Word 2016 from the results
 3. **Route 3 — the desktop shortcut** — double-click the Word shortcut on the desktop; a blank document opens ready for text
 4. **Creating a document — the blank page and its first name** — the Grade 8 growth: clicking the word processor opens a blank document window; a new document's default name is DOCUMENT followed by a number; a saved document can later be opened on another computer
+5. **The Grade 9 depth — Word 2016 or later, two ways** — Method 1: Start, the Microsoft Word tile, then Blank document; Method 2: Start, type "Word", click the Word icon in the search results
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -26,6 +27,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Open Word by double-clicking the desktop shortcut.
 4. Say what appears when Word opens: a blank document ready for text.
 5. Say a new document's default name — DOCUMENT followed by a number — and that a saved document can later be opened on another computer.
+6. Open Word (2016 or later) both Grade 9 ways, in the book's order, and end at a blank document each time.
 
 ## What you need
 A computer with Microsoft Word 2016 — this lesson is learned by doing it.
@@ -36,6 +38,8 @@ A computer with Microsoft Word 2016 — this lesson is learned by doing it.
    - ADD IMAGE [Picture 10506]: a picture of the three opening routes as a numbered strip — the student traces each route with a finger, in the book's order.
    - ADD GIF [GIF 10550]: a picture of the cursor following route 1 through the menus — Start, All Programs, Microsoft Office, Word — the student follows the highlight as it moves, naming each click.
    - ADD IMAGE [Picture 11318]: a picture of a blank document window carrying its default name, DOCUMENT1 — the student reads the name and says when it changes (at the first save).
+   - ADD IMAGE [Picture 13302]: a picture of the two Grade 9 routes as a numbered strip — the student traces each route with a finger, in the book's order.
+   - ADD GIF [GIF 13340]: a picture of the Start search route — "Word" being typed and the Word icon clicked in the results — the student names each step as it happens.
    - ADD AUDIO: a voice reading the default name aloud, letter by letter — the student spells it back.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
@@ -47,6 +51,8 @@ A computer with Microsoft Word 2016 — this lesson is learned by doing it.
 - IMAGE [Picture 10506] — a picture of the three opening routes as a numbered strip → the student traces each route with a finger, in the book's order.
 - GIF [GIF 10550] — a picture of the cursor following route 1 through the menus — Start, All Programs, Microsoft Office, Word → the student follows the highlight as it moves, naming each click.
 - IMAGE [Picture 11318] — a picture of a blank document window titled DOCUMENT1 → the student reads the default name and says when a real name replaces it.
+- IMAGE [Picture 13302] — a picture of the two Grade 9 opening routes as a numbered strip → the student traces each route in order.
+- GIF [GIF 13340] — a picture of "Word" typed into Start search and the icon clicked → the student names each step as it happens.
 - AUDIO — a voice reading the default name aloud → the student spells it back.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 

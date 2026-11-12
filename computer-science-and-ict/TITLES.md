@@ -254,3 +254,20 @@ Peer-to-Peer Compared · What Networks Are Good For · The Costs
 and Risks of Networks · Investigating Ethio-telecom and INSA ·
 Project: Set Up a Small Peer-to-Peer Network (teacher-guide
 evidence only).
+
+**Word Processing** (band C3, from Ethiopia Grade 9): The
+Paragraph Group — a Map of Its Buttons · Indentation — Moving
+a Paragraph In from the Margin · Indent with the Tab Key ·
+Indent with the Ruler · Indent with the Increase/Decrease
+Buttons · Indent with the Paragraph Dialog Box · Aligning Text
+— Left, Right, Centre, Justified · Making a Bulleted List ·
+Making a Numbered List · Multilevel Lists — Outlines with
+Levels · Line and Paragraph Spacing · Inserting a Page Break ·
+Removing a Page Break · Adding Page Numbers · Adding a Header
+and Footer · Preset Headers and Footers — and Removing Them ·
+Page Numbers That Change by Section (teacher-guide evidence
+only). Grown in this band: Application Software (Sub lesson 5
+— one program, a package, a suite), Word Processing (the
+processors and functions in full), Opening a Word Processor
+(Sub lesson 5 — Word 2016 or later, two ways) and The Word
+Window (Sub lesson 4 — the window in ten elements).

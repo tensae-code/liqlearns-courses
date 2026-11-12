@@ -11,3 +11,7 @@ Look at any computer you can use and list the application programs on it. Beside
 ## Software inside
 
 Walk (in your mind or for real) past a traffic light and a cash machine. For each, write: the job it does, the software it needs to do it, and what would stop working if the software stopped. Compare your two lists: different machines, same lesson — software inside.
+
+## Sort the shapes
+
+List the programs on a computer you can use. Sort each one: does it stand alone as a single program, work as part of a package, or belong to a suite? For every suite program, write the suite's name beside it — and write what free alternative could do its job.

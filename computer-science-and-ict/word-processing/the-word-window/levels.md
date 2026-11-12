@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: point to the Ribbon, the 
 
 ## Sub lesson 3 — The bottom and the File tab
 Sub lesson 3 questions from the type files. Pass mark: name the five view buttons' home, the zoom and status bar, and five things in the File tab.
+
+## Sub lesson 4 — The Grade 9 depth — the window in ten elements
+Sub lesson 4 questions from the type files. Pass mark: name all ten elements in the table's order and say each one's job — including that the Quick Access Toolbar's pull-down adds more commands, that the Ribbon compresses on smaller monitors, and the difference between the insertion point and the I-beam pointer.

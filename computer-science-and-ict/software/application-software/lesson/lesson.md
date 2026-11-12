@@ -26,6 +26,12 @@ Do traffic lights and ATMs need software to work? **Yes.** A road traffic and sa
 
 [Picture 11315 — software inside: traffic lights and ATMs]
 
+## Sub lesson 5 — One program, a package, a suite
+
+Application software comes in three shapes. It may be a **single program** — MS Notepad, for writing and editing simple text. It may be a **package** — a set of programs working together on one task. Or it may be a **suite** — a larger set of related, independent programs sharing a **common user interface**, such as the **Microsoft Office Suite**. Working deeper still: the kinds named for revision are word processing, presentation, spreadsheet, **desktop publishing** and **database management** software — and the frame holding them all is that a computer system is hardware plus software: **application software is what the user works with directly**, while system software (operating system, utilities, device drivers) keeps the hardware working and provides the interface. Beside MS Office stands **LibreOffice**, the free alternative.
+
+[Picture 13300 — one suite, a family of programs]
+
 ## Say it to your companion
 
 Tell your companion the five kinds of application software, with one example program and one job for each kind — and then answer the traffic-light question for them, with the reasons.

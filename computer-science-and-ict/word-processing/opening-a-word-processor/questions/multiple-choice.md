@@ -33,3 +33,15 @@ a) LETTER followed by a date  b) DOCUMENT followed by a number  c) your own name
 **8. (Sub lesson 4)** A saved document can later be —
 a) opened only on the same computer  b) never opened again  c) opened on another computer when needed  d) printed only once
 **Answer: c) opened on another computer when needed.**
+
+**9. (Sub lesson 5)** In the Grade 9 Method 1, after clicking the Microsoft Word tile you click —
+a) Blank document  b) Print  c) Recycle Bin  d) Settings
+**Answer: a) Blank document** — Start, the Word tile, then Blank document.
+
+**10. (Sub lesson 5)** In Method 2, you type —
+a) "document"  b) "Word"  c) "microsoft office full"  d) your own name
+**Answer: b) "Word"** — then click the Word icon in the search results.
+
+**11. (Sub lesson 5)** Both Grade 9 methods end with —
+a) a printed page  b) a new blank document  c) the desktop only  d) an old file
+**Answer: b) a new blank document.**

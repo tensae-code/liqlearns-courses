@@ -16,3 +16,6 @@ Fill each blank with the right word.
 
 **5. (Sub lesson 4)** The vast majority of ATMs run a Microsoft ______ operating system.
 **Answer: Windows**
+
+**6. (Sub lesson 5)** A set of programs working together on one task is a ______.
+**Answer: package**

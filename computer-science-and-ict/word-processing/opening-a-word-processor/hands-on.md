@@ -14,3 +14,7 @@ While you practise, a teacher or partner watches the doing itself — opening is
 ## Name watcher
 
 Open the word processor and read the new document's default name aloud. Open a second new document without saving the first, and read its name. Write both names down and the rule you see: DOCUMENT, then the number rises.
+
+## The two newer ways
+
+Open Word by Method 1 (Start, tile, Blank document), close it, then open it by Method 2 (Start, type "Word", click the icon). Your partner reads the steps aloud from the picture strip and ticks each one as you do it.

@@ -13,3 +13,6 @@ Fill each blank with the right word.
 
 **4. (Sub lesson 4)** A word processor lets changes be made ______ in the document.
 **Answer: anywhere**
+
+**5. (Sub lesson 5)** Method 1: Start → Microsoft Word ______ → Blank document.
+**Answer: tile**

@@ -21,3 +21,9 @@ And look closer at the street.
 The traffic light runs on software.
 The cash machine runs on software.
 Software is inside the machines too.
+
+One program alone: Notepad.
+Programs together on one task: a package.
+A whole family under one roof, one face: a suite.
+Microsoft Office is a suite.
+LibreOffice does the same work — free.

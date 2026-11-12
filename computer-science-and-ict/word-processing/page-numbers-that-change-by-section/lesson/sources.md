@@ -1,0 +1,20 @@
+# Sources — Page numbers that change by section
+
+countries: Ethiopia
+
+**Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
+
+**Book 2:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 113 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — the three-part document (cover unnumbered, acknowledgements and contents in Roman numerals, main body in Arabic from 1); the two tricks (a Section Break – Next Page between each pair of sections; each footer unlinked); Show/Hide on; cursor at a section's end; Page Layout → Breaks → Next Page (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 47-49 |
+| Sub lesson 2 — unlinking: in the next section's footer, on the Header & Footer Tools Design tab, click the highlighted Link to Previous to unlink; repeat for the third section; Show/Hide off (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 47-49 |
+| Sub lesson 3 — numbering each section: insert each section's numbers using Page Number → Format Page Numbers to choose format and starting number (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 47-49 |
+| Unit 3 answer key used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+This lesson stands on teacher-guide evidence only: the different-numbering practical is the guide's addition (printed pp. 47-49) and has no student-book counterpart, so it is counted nowhere in the acceptance count. The guide's Unit 3 review answers print "Slide shorter view" for Slide Sorter view — a misprint in the guide's presentation answers, outside this lesson's Word content, taught as nothing. The guide also dates from 2022 while the student book in hand is the August 2023 printing; the guide is used as the companion for content and answers without assuming its pagination matches any other printing.
+
+Searchable tags: page numbers by section, section break, Next Page, Link to Previous, Format Page Numbers, Roman numerals, Arabic numerals, Header and Footer Tools, Grade 9 ICT Ethiopia

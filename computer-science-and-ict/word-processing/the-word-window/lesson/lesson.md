@@ -18,6 +18,12 @@ The **Ribbon** is the wide band of buttons, grouped in tabs by task — each tab
 
 At the bottom, the **status bar** shows document information and where the insertion point is. The **view buttons** switch how the page is shown: Print Layout, Full Screen Reading, Web Layout, Outline and Draft. The **zoom control** makes the page bigger or smaller on screen. Behind everything sits the **File tab** — the door to Save, Save As, Open, Close, Info, Recent, New and Print.
 
+## Sub lesson 4 — The Grade 9 depth — the window in ten elements
+
+The same window, named in ten. **Title Bar** — document name, program name, and Minimize, Restore and Close. **Quick Access Toolbar** — Save, Undo and Redo by default, and a **pull-down adds more**. **File Tab** — the commands that act on the document itself: New, Open, Save As, Print, Close. **Ribbon** — the work commands; on smaller monitors Word **compresses its arrangement**. **Edit Window** — where the document stands. **Scroll Bar** — for moving through it. **Status Bar**. **Zoom Slide Control**. And the two pointers: the **Insertion Point, or Cursor** — the blinking line where typed text lands — and the **I-beam Pointer**, which shows where the mouse is.
+
+[Picture 13304 — the ten elements]
+
 ## Say it to your companion
 
 Tell your companion the parts of the Word window from top to bottom, with one job for each part.
