@@ -32,6 +32,27 @@ are used. The books' own chapter Review sections were not built
 as lessons (standing exclusion). Build logs:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/band-es-*.md`.
 
+**General Science (Ethiopia, Grades 7–8) — BUILDING
+2026-11-12.** The integrated-science books stock into the
+ladder's existing titles at their own depth (and into new
+titles where the ladder has none — Earth and Space, Motion
+Force and Energy, Sound, Heat, Electricity and Magnetism).
+Band GS-C (Grade 7, Unit 3 — Elements, Compounds and
+Chemical Reactions): 14 new lessons in Materials, 168
+questions, 19 media filed (pictures/GIFs 32500–32518) —
+symbols, formulas, valence, criss-cross, naming, polyatomic
+ions, reactions and their five signs, conservation of mass,
+balancing by inspection and by LCM, chemistry in everyday
+life (with the guide's full tella process as teacher
+evidence), plus one guide-only lesson (seven kinds of
+reaction around the home, acceptance 0). Pairing carried
+exactly: the Grade 7 guide is an Addis Ababa bureau book,
+NOT edition-matched to the Amhara student book — guide
+material is syllabus-level teacher evidence only. Every
+formula and equation in the band was tally-checked; no
+unbalanced equation stands. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSC-science-g7-u3.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -89,6 +110,21 @@ as lessons (standing exclusion). Build logs:
 13. **Simple machines** (`materials/simple-machines`) — simple machines multiply force, multiply speed/distance, or change force's direction — but never multiply work; the six kinds are the lever (three …
 14. **Solids, liquids and gases** (`materials/solids-liquids-and-gases`) — matter exists in three states: solid keeps shape and volume; liquid keeps volume but takes the container's shape; gas has neither and spreads to fi…
 15. **Sound and vibration** (`materials/sound-and-vibration`) — sound is energy made when bodies vibrate; it travels only through matter, never through a vacuum; Experiment 5 finds what vibrates in six Ethiopian…
+16. **Symbols — writing the elements** (`materials/symbols-writing-the-elements`) — an element's symbol is a one- or two-letter shorthand, first letter capital, second small — most from English names, some from Latin (Fe, Cu, Au, K, Na), which is why Ca/Cu and He/Hg must not be confused (Grade 7 General Science)
+17. **Formulas — reading what a compound is made of** (`materials/formulas-reading-what-a-compound-is-made-of`) — a formula lists the element types and, by subscript, the atom counts; element molecules may be monoatomic, diatomic or polyatomic (Grade 7 General Science)
+18. **Formulas — valence, the combining power** (`materials/formulas-valence-the-combining-power`) — valence is how many partners an atom combines with, read off compounds; some elements vary — Fe is 2 in FeCl₂ but 3 in FeCl₃ (Grade 7 General Science)
+19. **Formulas — writing binary compounds (criss-cross)** (`materials/formulas-writing-binary-compounds-criss-cross`) — symbols side by side, valences on top, simplify, cross them down as subscripts — calcium nitride becomes Ca₃N₂ (Grade 7 General Science)
+20. **Formulas — naming binary compounds** (`materials/formulas-naming-binary-compounds`) — metal first, non-metal renamed with -ide; variable-valence metals carry a Roman numeral; non-metal pairs use Greek prefixes (Grade 7 General Science)
+21. **Formulas — polyatomic ions and their compounds** (`materials/formulas-polyatomic-ions-and-their-compounds`) — charged atom groups with memorised formulas criss-cross the same way, brackets where a group repeats — drilled by the book's 100-card ion game (Grade 7 General Science)
+22. **Formulas — the two meanings of a formula** (`materials/formulas-the-two-meanings-of-a-formula`) — qualitatively a formula names which elements are present; quantitatively its coefficients and subscripts count molecules and atoms (Grade 7 General Science)
+23. **Reactions — reactants become products** (`materials/reactions-reactants-become-products`) — a reaction converts reactants into products — word equation first, then symbols; magnesium ribbon burns to a new ash (Grade 7 General Science)
+24. **Reactions — five signs to look for** (`materials/reactions-five-signs-to-look-for`) — colour change, a solid forming, gas forming, texture change, energy change — and any one sign alone does not prove a reaction (Grade 7 General Science)
+25. **Reactions — conservation of mass** (`materials/reactions-conservation-of-mass`) — mass is neither created nor destroyed in a reaction; atom kinds and counts are unchanged (Grade 7 General Science)
+26. **Equations — balancing by inspection** (`materials/equations-balancing-by-inspection`) — equal atom counts each side, subscripts never changed; inspection balancing stepped through to 4K + O₂ → 2K₂O (Grade 7 General Science)
+27. **Equations — balancing by LCM, and modelling with circles** (`materials/equations-balancing-by-lcm-and-modelling-with-circles`) — the LCM method totals valence numbers and divides back into coefficients; coloured-circle models build the balance physically (Grade 7 General Science)
+28. **Reactions — chemistry in everyday life** (`materials/reactions-chemistry-in-everyday-life`) — burning, cooking, smelting, brewing — reactions as the basis of energy and culture; the guide's full tella-making process filed as teacher evidence (Grade 7 General Science)
+29. **Reactions — seven kinds of reaction around the home** (`materials/reactions-seven-kinds-of-reaction-around-the-home`) — combustion, double displacement, electrochemistry, digestion, acid–base, soap action, cooking changes — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+
 
 ## Unit 5 — Light
 
