@@ -1,10 +1,12 @@
 # Sources — Motion — distance and speed
 
-countries: Ethiopia, Zambia (teacher-module evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
 **Book 2:** *Physics Teaching Module — Form 1, Term 3* (teacher module — a TEACHING MODULE for teachers, NOT a student textbook) — Zambia, Form 1 (first secondary year), Term 3 · TEACHER module · Republic of Zambia, Ministry of Education, Directorate of Curriculum Development; © Curriculum Development Centre 2025; first published 2025 by Zambia Educational Publishing House, Lusaka · ISBN 978-9982-01-214-5. Repo path: grade-07/gov/zambia/physics/full-year.pdf (Contents API route). Bytes: 2,279,414 (Contents API meta = downloaded). PDF pages: 48. Offset: module printed p. 1 = Topic 5 opener (PDF p. ~9). COMPLETE for what it is — one term module covering Topic 5 only. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/zambia-placements.md.
+
+**Book 3:** *Guide du professeur Physique-Chimie, 8ème année* (teacher guide — a TEACHER GUIDE for Djibouti's combined Physique-Chimie course, in French, NOT a student textbook) — Djibouti, Grade 8 · Teacher guide · Title as printed: Guide du professeur Physique-Chimie, 8ème année (conçu et réalisé par Abdillahi Farah Wais; Ministère de l'Éducation Nationale, République de Djibouti). Repo path: grade-08/gov/djibouti/physics-chemistry/full-year.pdf. Byte size: 1,907,488 (no size in record). PDF pages: 79. Offset: printed p. N = PDF p. N+1 (printed p. 18 = PDF p. 19). COMPLETE — full text read (23,526 words); sommaire (Partie II Chimie listed after the electricity part) and chapter sequence prove identity; ends with Ch. 9 corrigés. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/djibouti-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,8 +14,9 @@ countries: Ethiopia, Zambia (teacher-module evidence only)
 | Distance, and average speed = total distance ÷ total time | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 175–178 |
 | Worked examples: 4,000 m in 50 s; the 40+20+40 m walk | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 175–178 |
 | Topic 5 Sub-topic: linear motion (teacher module — evidence) | Zambia, *Physics Teaching Module — Form 1, Term 3*, Topic 5 Sub-topic: linear motion, printed p. ~5 |
+| Ch. 8: Description du mouvement — speed and its units (km/h, m/s), movement-and-speed documentary activity (teacher guide — evidence) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année*, Ch. 8, printed p. 66 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count.
+**Acceptance count: taught in 1 country (Ethiopia).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 

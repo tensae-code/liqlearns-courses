@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa (curriculum evidence only)
+countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Samoa (curriculum evidence only)
 
 **Book 3:** *Student Learning Guide — Sāmoa Physics Curriculum, Years 12 and 13* (student learning guide — curriculum evidence; study guide + achievement objectives — NOT a content textbook, cited as it is) — Samoa, Samoa Physics Curriculum, MESC; title as printed: Student Learning Guide — Sāmoa Physics Curriculum, Years 12 and 13; prepared by Dr Brian Bennison, produced by Mahobe Resources NZ Ltd, funded by NZAID under the Sāmoa Official Development Assistance Programme, project contractor Auckland UniServices Ltd. Grade 12–13. Repo path: grade-12/gov/samoa/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 36,438,277. COMPLETE: 36 PDF pp. Printed p. N ≈ PDF p. N+2 (cover + contents first). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/samoa-placements.md.
 
+**Book 4:** *Guide de l'enseignant Physique-Chimie 6ème* (teacher guide — a TEACHER GUIDE for Djibouti's combined Physique-Chimie course, in French, NOT a student textbook) — Djibouti, Grade 6 · Teacher guide · Title as printed: Guide de l'enseignant Physique-Chimie 6ème (Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti). Repo path: grade-06/gov/djibouti/physics-chemistry/full-year.pdf. Byte size: 2,584,438 (no size in record). PDF pages: 71. Offset: printed p. N = PDF p. N+1 (printed p. 52 = PDF p. 53). COMPLETE — full text read (19,998 words); sommaire + avant-propos prove identity; guide runs Ch. 1 through Ch. 6 with corrigés and evaluation situations for each. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/djibouti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lighting the bulb: the open tinkering (Activity 7.24); static vs current electricity; the circuit and its three basic parts plus switch | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 209–212 (student placement 64) |
 | Sub lesson 2 — Open vs closed circuits; the burnt-out bulb as an open circuit (Figure 7.7; Activity 7.25); rival ideas judged (Activity 7.26); the ampere as one coulomb per second | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 209–212 (student placement 64) |
 | Circuits drawn two ways — real objects and symbols — with safe handling taught explicitly, and the unit-end parts list (cell or battery, bulb, switch, conductor) (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, printed pp. 128–129, 138 (teacher placement 23) — the guide's own project numbering for this build is tangled (its §7.5 text sends pupils to ‘Project 7.5’ while its answers key the circuit build as Project 7.4); the build itself, not the numbering, is filed here. |
 | Year 12, Strand 5: Electricity; Year 13, Strand 4: Electricity and Electromagnetism (learner's guide — curriculum evidence) | Samoa, *Student Learning Guide — Sāmoa Physics Curriculum, Years 12 and 13*, Year 12 printed p. 17; Year 13 printed p. 27 |
+| Ch. 5: Circuits électriques — circuit diagrams (schémas), open/closed switch states, two-switch circuits in the corrigés (teacher guide — evidence) | Djibouti, *Guide de l'enseignant Physique-Chimie 6ème*, Ch. 5, printed p. 55 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count.
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Djibouti is named as teacher-guide evidence only (Guide de l'enseignant Physique-Chimie 6ème — teacher guide), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only, including the guide's tangled project numbering for the circuit build exactly as the placements flag it (not silently renumbered). PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

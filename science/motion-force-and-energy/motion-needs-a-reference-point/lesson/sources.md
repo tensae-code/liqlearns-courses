@@ -1,15 +1,18 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia
+countries: Ethiopia, Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
+
+**Book 2:** *Guide du professeur Physique-Chimie, 8ème année* (teacher guide — a TEACHER GUIDE for Djibouti's combined Physique-Chimie course, in French, NOT a student textbook) — Djibouti, Grade 8 · Teacher guide · Title as printed: Guide du professeur Physique-Chimie, 8ème année (conçu et réalisé par Abdillahi Farah Wais; Ministère de l'Éducation Nationale, République de Djibouti). Repo path: grade-08/gov/djibouti/physics-chemistry/full-year.pdf. Byte size: 1,907,488 (no size in record). PDF pages: 79. Offset: printed p. N = PDF p. N+1 (printed p. 18 = PDF p. 19). COMPLETE — full text read (23,526 words); sommaire (Partie II Chimie listed after the electricity part) and chapter sequence prove identity; ends with Ch. 9 corrigés. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/djibouti-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Motion and rest — the two-station puzzle and the definitions | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 172–173 |
 | The bus passenger judged four ways | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 172–173 |
+| Ch. 8: Description du mouvement — motion described relative to an observer (the Mohamed/Ali corrigé: who is immobile depends on the reference) (teacher guide — evidence) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année*, Ch. 8, printed p. 64 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Placement: Student item 77 — g07-student-placements.md (Unit 7, printed pp. 172–199 of the student book). This lesson rests on the student book only. Cross-reference: the Materials title's Motion, distance and speed lesson treats relative motion at primary (Grade 5) depth; this is a NEW Grade 7-depth lesson in the new Motion, Force and Energy title, not a copy or growth of that file.
 
