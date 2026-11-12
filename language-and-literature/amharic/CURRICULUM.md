@@ -93,7 +93,7 @@ books. The fix build closed the audit in six bands: every
 not-stocked placement is now stocked — 882 into lessons and 46
 onto the course About page, where the audit aimed the front/back
 matter, the books' reference lists and the guides' own
-apparatus — and all 152 citations are fixed, 86 of them with the
+apparatus — and all 152 citations are fixed, 89 of them with the
 missing content taught as well. 35 new lessons were created
 (the Grade 3 and Grade 4 chapter lessons in Unit 7, the play
 strand, Wax and Gold, Figures of Speech, the essay forms,

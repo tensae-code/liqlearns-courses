@@ -416,7 +416,7 @@ The fix build closed the audit in six bands plus this page:
 **882 placements stocked into lessons and 46 carried on this
 About page** (front/back matter, reference lists, guide
 apparatus — the audit's own targets for them), and **all 152
-citation mismatches fixed**, 86 of them needing the missing
+citation mismatches fixed**, 89 of them needing the missing
 content taught as well as the citation row. New lessons
 created by the fix build: 35 (the Grade 3 and Grade 4 chapter
 lessons, the play strand, Wax and Gold, Figures of Speech, the
