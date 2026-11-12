@@ -1,0 +1,4 @@
+# Zeroth law of thermodynamics and temperature equilibrium — depth
+
+Whole-lesson pass mark: the learner states in their own words that heat flows from hotter to colder until temperatures match, names that state thermal equilibrium, states the zeroth law, and explains why a thermometer must settle before it is read — and answers the lesson's questions from the lesson text.
+This lesson has three sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — more pairs of bodies to judge (in equilibrium or not?), trickier cases such as a thermometer read too early, and the naming question itself: why the law is called "zeroth" (it was recognised after the first and second laws were already numbered, but it sits underneath both).
