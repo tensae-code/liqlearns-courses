@@ -1,6 +1,6 @@
 # Sources — Ohm's law
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador
 
 **Book 3:** *Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular* (student textbook) — Ecuador, Ministerio de Educación del Ecuador, Primera edición 2024. Title as printed: Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular. ISBN 978-9942-662-30-9. Grade 11 (1ro BGU). Student book. Repo path: grade-11/gov/ecuador/fisica/student/full-year.pdf. Release: mid-size-books-3. Byte size: 20,779,160. PDF pages: 274. Page rule: printed p. N ≈ PDF p. N+1. Verdict: COMPLETE — full text read (35,790 words) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/ecuador-placements.md.
 
+
+**Book 4:** *Intermediate Physics, Part V: Magnetism and Electricity* (student textbook) — Sri Lanka (Ceylon), C. J. Smith, translated and published in Ceylon by the Educational Publications Department by arrangement with Edward Arnold (Publishers) Ltd., London; first edition 1968; printed at the Ceylon Government Press. Title as printed: இடைநிலைப் பௌதிகவியல் — C. J. Smith, Part V: Magnetism and Electricity; copyright Edward Arnold (Publishers) Ltd., London. LIBRARY DEBT, named on the record: this book is ONLY Part V (Magnetism and Electricity) of Smith's five-part *Intermediate Physics* series, not the whole *Intermediate Physics*; Parts I–IV (Properties of Matter, Heat, Optics, Acoustics) are not in the library under this record. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/physics/textbook/intermediate-1968.pdf · Release: full-quality-oversized-books. Byte size: 173,466,674 (exact match to the release asset) · PDF pages: 620 · Offset: printed p. N = PDF p. N+20 (printed p. 1 = PDF p. 21). Verdict: COMPLETE as the record's book — identity proven by cover/title/copyright pages; full contents read (chapters 38–55, printed pp. 1–593 + answers p. 559, tables p. 593); chapter openings verified at Ch. 38 (electrostatics, printed p. 1), Ch. 48 (Ohm's law — the silver-deposition definition of the ampere, printed p. 244) and Ch. 52 (induction — tangent galvanometer experiment, printed p. 396). Read basis stated honestly: a 620-page scan cannot be line-read in this pass; placements rest on the complete contents + the author's own preface summary of Part V + verified chapter openings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Ohm's law — ohmic and non-ohmic conductors | Grade 11 Student Textbook, printed pp. 245–246 |
 | Ch. 2: Résistance électrique — resistance, the ohmmeter, resistor colour code (teacher guide — evidence) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année*, Ch. 2, printed p. 26 |
 | Ohm's law (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 10 Ley de Ohm, printed p. 134 |
+| Ch. 48 — Ohm's law and its applications (read at opening: current defined through the silver voltameter, 10 amp = 1 e.s.u. relations in cgs — the 1968 Ceylon way, pre-SI school treatment, taught as filed as Sri Lanka's own way) | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), printed p. 244 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Sri Lanka).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, ohm's law, voltage, ecuador
+Searchable tags: physics, grade 11, electrostatics and electric circuit, ohm's law, voltage, ecuador, sri lanka

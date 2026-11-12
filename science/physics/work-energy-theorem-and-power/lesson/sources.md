@@ -1,6 +1,6 @@
 # Sources — Work–energy theorem; power
 
-countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria (teacher-guide evidence only)
+countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria (teacher-guide evidence only), Sri Lanka
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria
 
 **Book 6:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press (Shaftesbury Road, Cambridge). Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1. Grade: SS1 (Grade 10) · Teacher's guide · Repo path: grade-10/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,147,437 (Contents API meta = downloaded) · PDF pages: 72 · Offset: guide printed p. 1 ≈ PDF p. 10. Verdict: COMPLETE as published — Introduction and scheme of work (printed pp. iv–vi), then Themes 1, 2, 4, 5 and 6 with every topic in its contents; Theme 3 is expressly "not included as per the NERDC curriculum" for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
+
+**Book 7:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening (rotation vs circular motion, Earth/fan/grindstone examples). Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The work–energy theorem | Grade 11 Student Textbook, printed pp. 140–147 |
@@ -23,9 +25,10 @@ countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria
 | Ch. 9 Energy, Work and Power — conservation of energy, efficiency, energy sources | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 9 Energy, Work and Power, printed p. 126 |
 | Theme: Travail et énergie — kinetic-energy theorem; work of weight in vertical fall, timed with a stopwatch (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Travail et énergie, PDF p. 5 |
 | Theme 2 Topic 1: work, energy and power (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1*, Theme 2 Topic 1, printed p. 23 |
+| §2.4 — power (வலு) | Sri Lanka, *Science for Technology: Physics Part II*, printed p. 38 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Barbados).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Barbados, Sri Lanka).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
 Honesty/evidence note: the demonstrations section stands on teacher-guide evidence only (Grade 11 Teacher Guide, printed p. 55 and unit body — placement #12); the theorem and power teaching itself is pupil-taught from the student book, so the acceptance count stays at 1 country. The placement's Unit 4 minimum-competency checklist is recorded in full in the sources of the companion energy lesson (kinetic-and-potential-energy).
 
-Searchable tags: physics, grade 11, dynamics, work–energy theorem; power, energy, ecuador
+Searchable tags: physics, grade 11, dynamics, work–energy theorem; power, energy, ecuador, sri lanka

@@ -1,16 +1,19 @@
 # Sources — Equilibrium — when forces balance
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only)
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Sri Lanka
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
 **Book 2:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press. Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2. Grade: SS2 (Grade 11) · Teacher's guide · Repo path: grade-11/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,350,466 (Contents API meta = downloaded) · PDF pages: 80 · Offset: guide printed p. 1 ≈ PDF p. 11. Verdict: COMPLETE as published — Introduction and scheme of work, then Themes 1, 2, 3, 5 and 6; Theme 4 is expressly not included per the NERDC curriculum for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
+
+**Book 3:** *Science for Technology: Physics Part I* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – I; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016 (preface dated 2016.05.18; introduction states the physics component is taught in Grade 12). Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-1.pdf · Release: mid-size-books-5. Byte size: 25,591,814 · PDF pages: 152 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening (measurements, scalars/vectors, linear vs circular scales); contents run to printed p. 119 + exercises within the 152-page PDF. Read basis: contents-anchored read with chapter-opening verification (image-only scan, no text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The first condition of equilibrium | Grade 11 Student Textbook, printed pp. 126–133 |
 | Theme 1 Topic 5: equilibrium of forces (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2*, Theme 1 Topic 5, printed p. 10 |
+| §3.4 — equilibrium of a point object (p. 116) and of rigid bodies (p. 119) | Sri Lanka, *Science for Technology: Physics Part I*, printed pp. 115–119 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Sri Lanka).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
-Searchable tags: physics, grade 11, dynamics, equilibrium — when forces balance, equilibrium
+Searchable tags: physics, grade 11, dynamics, equilibrium — when forces balance, equilibrium, sri lanka

@@ -1,6 +1,6 @@
 # Sources — Centripetal force — what pulls you in
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy
+countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 
 
 **Book 6:** *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2020, ISBN 9788808938060. Title as printed: Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica. Grades 9–10 span of the liceo course (filed Grade 9) · Student book · New edition, Geneva preface February 2020 · Repo: release `mid-size-books-6`, asset `grade-09-gov-italy-physics-student-full-year.pdf` — 87,948,360 bytes (matched asset) · PDF pages: 553 · Offset: front matter is roman-numbered (index at printed pp. IV–X); placements cite printed (theory) pages as cited from the book's index. Verdict: COMPLETE (index closes with Ch. 11, “Verso l'esame” at printed p. 510 and the analytic index at p. 514). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
+
+**Book 7:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening (rotation vs circular motion, Earth/fan/grindstone examples). Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal force | Grade 11 Student Textbook, printed pp. 86–89 |
@@ -23,11 +25,12 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 | Centripetal force (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §2.5 Fuerza centrípeta, printed p. 82 |
 | Circular motion — centripetal force (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | Centripetal force (Italy) | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.3 Centripetal force and apparent centrifugal force — printed p. 94 |
+| §§1.11–1.13 — centrifugal force (p. 16) presented before centripetal force (p. 17) and centripetal acceleration (p. 18) — Sri Lanka's ordering | Sri Lanka, *Science for Technology: Physics Part II*, printed pp. 16–18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Nicaragua, Italy).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration
+Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka

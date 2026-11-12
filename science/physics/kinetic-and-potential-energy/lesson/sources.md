@@ -1,6 +1,6 @@
 # Sources — Kinetic and potential energy
 
-countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicaragua
+countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicaragua, Sri Lanka
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicara
 
 **Book 5:** *Física — Módulo Autoformativo, Décimo grado* (student textbook) — Nicaragua, Ministerio de Educación (MINED). Title as printed: Física — Módulo Autoformativo, Décimo grado (Educación Secundaria a Distancia en el Campo); author Profesora Luz Marina Ortiz Narvaez; Ministerio de Educación (MINED), Nicaragua. Grade 10 (Décimo grado). Student book. Repo path: grade-10/gov/nicaragua/physics/student/full-year.pdf. Recorded size: 84,279,222 bytes (books.json). PDF pages: 184. Offset: printed p. = PDF p. − 9. Verdict: COMPLETE — full text read cover to the closing Ecuaciones/Bibliografía. Read in full from the recorded MINED source (https://www.mined.gob.ni/biblioteca/wp-content/uploads/2024/09/LISTO-Fisica-10-Grado.pdf), fetched whole at 84,279,222 bytes — an exact match to the recorded size — in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nicaragua-placements.md.
 
+
+**Book 6:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening (rotation vs circular motion, Earth/fan/grindstone examples). Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Kinetic and potential energy | Grade 11 Student Textbook, printed pp. 136–143 |
@@ -21,11 +23,12 @@ countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicara
 | Types of energy and mechanical energy (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §4.2.1–4.2.2 Tipos de energía y energía mecánica, printed p. 151 |
 | Kinetic energy (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §4.2.3 Energía cinética, printed p. 156 |
 | Gravitational potential energy (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §4.2.4 Energía potencial gravitatoria, printed p. 158 |
+| §§2.2–2.3 — kinetic energy; potential energy | Sri Lanka, *Science for Technology: Physics Part II*, printed pp. 30–33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Argentina, Nicaragua).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Argentina, Nicaragua, Sri Lanka).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
 Honesty/evidence note — minimum competency (teacher guide — evidence): the demonstrations section stands on teacher-guide evidence only (Grade 11 Teacher Guide, printed p. 55 and unit body — placement #12); the energy teaching itself is pupil-taught from the student book, so the acceptance count stays at 1 country. The same guide placement's Unit 4 minimum-competency checklist requires pupils, among other things, to restate Newton's second law in terms of momentum, define momentum / centre of mass / elastic and inelastic collision, use free-body diagrams, and derive and apply the work–energy theorem (guide printed p. 55 and unit body; worked answers for the unit run to printed pp. 82–86). That checklist is recorded here as the marking standard for this unit's lessons.
 
-Searchable tags: physics, grade 11, dynamics, kinetic and potential energy, potential
+Searchable tags: physics, grade 11, dynamics, kinetic and potential energy, potential, sri lanka
