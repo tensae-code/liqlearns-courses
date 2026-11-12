@@ -10,7 +10,7 @@ countries: Ethiopia
 |---|---|
 | Citizens' obligations | Ethiopia, *Citizenship Education, Student Textbook, Grade 10*, Unit 6, printed pp.132–133 |
 | State obligations — respect, protect, fulfil | Ethiopia, *Citizenship Education, Student Textbook, Grade 10*, Unit 6, printed pp.133–134 |
-| Three verbs as three doors a state must walk through, a citizen holding the last door open (teacher guide — evidence) | Ethiopia, *Citizenship Education, Teacher Guide, Grade 10*, Lesson 6.4, printed pp.111–116 |
+| Three verbs as three doors a state must walk through, a citizen holding the last door open (teacher guide — evidence) | Ethiopia, *Citizenship Education, Teacher Guide, Grade 10*, Lesson 6.2, printed pp.111–116 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

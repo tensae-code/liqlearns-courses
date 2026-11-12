@@ -16,6 +16,10 @@ A balance. On one pan: new schools, roads being built, institutions being reform
 
 Both sides are taught whole, as the books state them. A citizen who sees only one pan cannot work on either.
 
+## The guide's keyed table (teacher guide — evidence)
+
+The guide keys the same two sides as one table. **Opportunities:** reform optimism; expanding education; infrastructure and tourism investment. **Challenges:** extreme ethnicity; weak institutions; no viable alternative parties; poverty; unprofessional media. And the unit's activity sends you back to your own memory for the evidence: it recalls the **2013 E.C. national election** as the learners' own evidence base — weigh both sides of the table against what you yourself saw then.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: Ethiopia's democracy is helped by reform, education and connection — and held back by weak institutions, silence and poverty. Use the lesson's own case or example, not the book's sentences. Your companion asks one hard question; answer it from the lesson, or say honestly what you would check.
@@ -25,4 +29,5 @@ Explain this lesson's one thing to your companion in your own words: Ethiopia's 
 1. Practise this until you can do it without looking: list the opportunities honestly.
 2. Practise this until you can do it without looking: list the challenges honestly.
 3. Practise this until you can do it without looking: weigh both sides for one real institution.
-4. Write the lesson's one thing in one sentence of your own: Ethiopia's democracy is helped by reform, education and connection — and held back by weak institutions, silence and poverty. Keep the sentence; it is your proof you were here.
+4. Practise this until you can do it without looking: give the guide's keyed table — three opportunities, five challenges — and name the election the unit's activity recalls as your evidence.
+5. Write the lesson's one thing in one sentence of your own: Ethiopia's democracy is helped by reform, education and connection — and held back by weak institutions, silence and poverty. Keep the sentence; it is your proof you were here.

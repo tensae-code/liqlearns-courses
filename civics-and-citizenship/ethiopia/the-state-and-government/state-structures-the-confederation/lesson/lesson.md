@@ -14,6 +14,10 @@ A **confederation** is an alliance of states that keep full sovereignty and dele
 
 The book itself questions whether a confederation is a state structure at all, or rather a commonwealth association without the elements of a state. Teach that doubt with the lesson — it is part of the lesson. The European Union's functioning is given as the modern form of such an arrangement, and Ethiopia's own choice after 1991 — federation, not confederation — is debated against all three structures.
 
+## The guide's two historical cases (teacher guide — evidence)
+
+The **Swiss cantons**: sovereign cantons joined in a league whose centre they kept weak — members first, centre second, the classic confederation. And the **Confederate States of America of 1861–65**: states that claimed their sovereignty back and built a confederacy on it, with a centre that could not command them — the arrangement lived only as long as the members' agreement held. The guide sets these two beside the modern case above: the European Union is discussed there as an association of a similar kind, and these two are the historical proof of the form — sovereigns in alliance, a centre that serves and cannot rule.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: a confederation is an alliance of sovereign states delegating a little power to a weak shared centre. Use the lesson's own case or example, not the book's sentences. Your companion asks one hard question; answer it from the lesson, or say honestly what you would check.
@@ -23,4 +27,5 @@ Explain this lesson's one thing to your companion in your own words: a confedera
 1. Practise this until you can do it without looking: describe a confederation.
 2. Practise this until you can do it without looking: say why its centre is weak.
 3. Practise this until you can do it without looking: repeat the book's own doubt about whether it is a state structure at all.
-4. Write the lesson's one thing in one sentence of your own: a confederation is an alliance of sovereign states delegating a little power to a weak shared centre. Keep the sentence; it is your proof you were here.
+4. Practise this until you can do it without looking: name the guide's two historical cases — the Swiss cantons and the Confederate States of America, 1861–65 — and say what each one shows.
+5. Write the lesson's one thing in one sentence of your own: a confederation is an alliance of sovereign states delegating a little power to a weak shared centre. Keep the sentence; it is your proof you were here.

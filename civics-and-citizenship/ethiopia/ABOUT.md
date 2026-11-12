@@ -83,11 +83,11 @@ books' own shapes, walked in order):
   citizen grows a second storey — virtue, structures, democracy,
   the constitution, rights, peace, and solving problems."
 - *The eight units (Grades 9–10):* each book's eight units walked
-  in its own order — ethics, digital life, the constitution, home
-  knowledge, diversity, problem-solving, neighbours, and democracy
-  in the world (Grade 9); democracy in the making, digital life,
-  governing well, peace, federalism, rights, patriotism, and the
-  global world (Grade 10).
+  in its own order — ethical values, digital life, the constitution,
+  home knowledge, multiculturalism, national unity through
+  diversity, problem-solving, and foreign relations (Grade 9);
+  democracy in the making, digital life, governing well, peace,
+  federalism, rights, patriotism, and the global world (Grade 10).
 
 [Picture 29101 — the citizen's seven steps]
 [Picture 29102 — eight units, one citizen]
@@ -324,9 +324,21 @@ to be planned.
 
 **Citizenship Education, Grades 9–10 — the books' shapes**: each
 student book runs eight units. Grade 9 works values-first:
-ethical values, digital technology, the constitution, indigenous
-knowledge, diversity and multiculturalism, problem-solving,
-foreign relations. Grade 10 works rule-first: democracy and
+ethical values (Unit 1), the culture of using digital technology
+(Unit 2), the constitution and constitutionalism (Unit 3),
+indigenous knowledge and its social institutions (Unit 4),
+multiculturalism (Unit 5) and national unity through diversity
+(Unit 6) — two separate units, living with many cultures first,
+then the unity built on it — problem-solving taught as a named
+life skill (Unit 7), and Ethiopia's foreign relations in East
+Africa (Unit 8). Grade 9's pedagogy is uniform and is itself the
+method: no concept is stated before pupils have brainstormed it
+from their own lives, worked an activity in pairs or groups and
+judged a named case study; only then does the book state the
+concept, and a "Remember" box fixes it — and community fieldwork
+is built in throughout: pupils interview elders, visit
+government offices, observe local crafts and survey their own
+neighbourhood. Grade 10 works rule-first: democracy and
 democratization, digital technology again at depth, good
 governance and corruption, peace and indigenous conflict
 resolution, federalism, human rights and their obligations,
@@ -335,7 +347,11 @@ one Hawassa lesson machine — brainstorming openers keyed to the
 student books' numbered activities, case studies named and
 glossed, unit review keys — and one standing inclusion
 instruction: every lesson is planned so every learner can take
-part. The eight-step course maps are [Picture 29102].
+part. The Grade 10 guide's introduction adds its own craft notes,
+a more experienced teacher's voice than Grade 9's: brainstorming
+capped at five minutes, group tasks rotated, facilitation over
+lecturing, and minimum competency treated as a floor, not the
+goal. The eight-step course maps are [Picture 29102].
 
 **Syllabi and lesson-plan furniture** *(teacher-guide evidence)*:
 the Moral guides close with their full syllabi — Grade 1
@@ -346,8 +362,9 @@ content, strategies and assessment. The Grade 4 syllabus's Unit 2
 content list is the syllabus-level proof of that grade's civics
 strand; the Grade 5 syllabus carries the chapter period totals
 (19, 20, 20, 19, 19, 20) that disagree with its contents for
-Chapters 5 and 6; the Grade 6 syllabus confirms the strand split
-this build uses, including Unit 2's problem list. These are
+Chapters 5 and 6; the Grade 6 syllabus carries its own unit
+period allocations (19, 20, 20, 19, 19, 19) and confirms the
+strand split this build uses, including Unit 2's problem list. These are
 recorded here as the guides' own pacing records, not as lessons.
 
 ## The older generation — Civics and Ethical Education, Grade 11 (2002 E.C.)

@@ -10,7 +10,8 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — Popular sovereignty; supremacy of the constitution (FDRE Article 9/1); citizen participation; the Mota town meeting case | Book 1: Citizenship Education, Student Text Book, Grade 8, printed pp.91–94 |
 | Sub lesson 2 — Separation of powers; secularism (Article 11); accountability and transparency; free, fair and periodic elections; respect for human rights; multi-party system; the rule of law; the country X case | Book 1: Citizenship Education, Student Text Book, Grade 8, printed pp.95–99 |
-| The guide's ten fundamental principles across two identically titled lessons (teacher guide — evidence) | Book 2: Citizenship Education, Teachers Guide, Grade 8, printed pp.86–92 |
+| The guide's ten fundamental principles — first part (its Lesson 2): the first half of the ten, each explained and exemplified, constitutional supremacy keyed to Article 9(1) (teacher guide — evidence) | Book 2: Citizenship Education, Teachers Guide, Grade 8, Lesson 2, printed pp.86–89 |
+| The guide's ten fundamental principles — second part (its Lesson 3): the remaining principles, completing the set learners must be able to apply (teacher guide — evidence) | Book 2: Citizenship Education, Teachers Guide, Grade 8, Lesson 3, printed pp.90–92 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

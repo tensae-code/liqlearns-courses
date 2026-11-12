@@ -8,7 +8,7 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Chapter Three | Ethiopia, *Citizenship Education, Student Textbook, Grade 10*, Unit 6, printed p.131; the guide's own list of the FDRE Constitution's rights is keyed at Ethiopia, *Citizenship Education, Teacher Guide, Grade 10*, Lesson 6.3, printed pp.107–110 — listed at Generations of Human Rights and cross-noted here without re-counting (teacher guide — evidence) |
+| Chapter Three | Ethiopia, *Citizenship Education, Student Textbook, Grade 10*, Unit 6, printed p.131; the guide's own list of the FDRE Constitution's rights is keyed at Ethiopia, *Citizenship Education, Teacher Guide, Grade 10*, Lesson 6.1, printed pp.107–110 — listed at Generations of Human Rights and cross-noted here without re-counting (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -9,7 +9,7 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Three generations in historical order | Ethiopia, *Citizenship Education, Student Textbook, Grade 10*, Unit 6, printed pp.129–130 |
-| A three-generation family portrait labelled with the three generations of rights, a constitution in the grandfather's hands (teacher guide — evidence) | Ethiopia, *Citizenship Education, Teacher Guide, Grade 10*, Lesson 6.3, printed pp.107–110 |
+| A three-generation family portrait labelled with the three generations of rights, a constitution in the grandfather's hands (teacher guide — evidence) | Ethiopia, *Citizenship Education, Teacher Guide, Grade 10*, Lesson 6.1, printed pp.107–110 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
