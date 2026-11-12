@@ -10,3 +10,8 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1) Wild animals create jobs through tourism.**
 **Answer: True**
+**4. (Sub lesson 3) Care keeps wild animals' benefits continuing.**
+**Answer: True**
+
+**5. (Sub lesson 4) Wildfire is one of the threats to wild animals.**
+**Answer: True**

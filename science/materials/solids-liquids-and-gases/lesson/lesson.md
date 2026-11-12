@@ -33,6 +33,16 @@ Heat and force can change a state without changing the substance. **Breaking woo
 
 [GIF 12131 — ice melting and water boiling into steam in sequence]
 
+## Sub lesson 5 — Boiling, melting and the candle — the Grade 4 depth
+
+The Grade 4 book defines the change-points through water itself. **Boiling** is the state-change the book names at the **boiling point**; **melting** at the **melting point** — and through it all, **ice (solid), water (liquid) and steam (gas) are one material in three states**.
+
+Its second example is a candle: the **candle melts and re-solidifies** — out of the flame it is solid wax, in the flame liquid, and solid again when it cools. No new material appears at any step.
+
+And the book measures: pupils **measure the local boiling point of water with a thermometer** — a real number, for their own place, taken with **adult help, because fire is the adult's work** (fire safety, printed with the task).
+
+[Picture 13212 — ice, water and steam in a row, all labelled "water", with a candle melting beside them]
+
 ## Say it to your companion
 Teach your companion the three rules with the three proofs: the stone that keeps its shape, the water that takes the bowl's shape, the balloon that fills with air. Your companion must state each rule back before you show the next proof.
 

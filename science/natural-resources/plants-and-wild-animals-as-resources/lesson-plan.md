@@ -13,6 +13,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Plants at work everywhere** — the Grade 3 book's plant resources: climate steadied, food, industry — with the leaf collection
 2. **Wild animals and the visitors who come to see them** — not tamed, living wild; tourism income and jobs; the rare ones saved
 
+3. **Grade 4: protecting wild animals and their homes** — the care list and the three protected-area kinds: national parks, strict wildlife reserves, controlled hunting areas
+4. **Grade 4: what threatens wild animals** — habitat destruction, pollution, foreign species, illegal hunting, wildfire — checked against the family's own memory
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +27,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Say how wild animals differ from domestic ones, and how they earn: tourism income and jobs.
 3. Name the rare/endemic animals pictured — the Walia ibex among them — and say how their decline can be saved.
 
+4. Name the Grade 4 care for wild animals — habitat kept fit, community taught, illegal hunting stopped, shelter guarded, farming and grazing kept out, habitat water kept clean — and the three protected-area kinds: national parks, strict reserves, controlled hunting areas.
+5. Name what threatens wild animals: habitat destruction, pollution, foreign species, illegal hunting, wildfire — and ask at home whether local numbers are rising or falling.
 ## What you need
 Leaves to collect (fallen ones serve), paste and paper for the collection page; pictures of the Walia ibex.
 
@@ -32,6 +37,7 @@ Leaves to collect (fallen ones serve), paste and paper for the collection page; 
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12174]: a picture of a leaf-collection page with local leaves pasted and labelled — the student names each leaf and one use of its plant.
    - ADD IMAGE [Picture 12175]: a picture of a Walia ibex on a rocky peak with visitors watching from a distance — the student says what the visitors came for and why the ibex must stay wild.
+   - ADD IMAGE [Picture 13234]: a picture of a national-park gate with a ranger and ibex inside — the student names which protected-area kind the picture shows, and one care rule the ranger keeps.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -43,6 +49,7 @@ Leaves to collect (fallen ones serve), paste and paper for the collection page; 
 - IMAGE [Picture 12175] — a picture of a Walia ibex on a rocky peak with visitors watching from a distance → the student says what the visitors came for and why the ibex must stay wild.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13234] — a picture of a national-park gate with a ranger and ibex inside → the student names which protected-area kind the picture shows, and one care rule the ranger keeps.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

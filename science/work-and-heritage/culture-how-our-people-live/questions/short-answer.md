@@ -8,3 +8,8 @@ Answer in a sentence or two, in your own words.
 **2. (Sub lesson 2) From the reading, name two things farmers buy back at the market.**
 **Answer:** Sugar, oil, shoes, clothes, corrugated iron, nails (any two).
 
+**3. (Sub lesson 3) Name four communities that live in the Amhara Region.**
+**Answer:** Any four of: Amhara, Agew, Qimant, Oromo, Argobba.
+
+**4. (Sub lesson 4) Why does naming a neighbour's language and culture with respect matter?**
+**Answer:** Because the region's peoples live side by side in one shared life; respect keeps that life peaceful.

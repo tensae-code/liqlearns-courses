@@ -11,3 +11,7 @@ By hand and skill: cottage industry — potter, weaver, smith.
 By factory: modern industry — sugar, paper, cloth for a whole country.
 
 Industry is the changing.
+
+የጎጆ ኢንዱስትሪ — cottage industry: hand tools, small scale, thousands of years old.
+
+Modern industry: machines, much made in a short time — light industry from the farm, heavy industry from minerals.

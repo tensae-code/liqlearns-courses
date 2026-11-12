@@ -13,3 +13,10 @@ a) shaking hands  b) a shared razor  c) eating together
 **3. A person living with HIV at your table —**
 a) must eat alone  b) can eat and drink with you safely  c) must not be touched
 **Answer: b) can eat and drink with you safely**
+**4. In HIV, the letter V stands for —**
+a) Virus  b) Village  c) Victory
+**Answer: a) Virus**
+
+**5. A person carrying HIV —**
+a) always looks very sick at once  b) can look healthy for many years yet pass it on  c) cannot pass it to anyone
+**Answer: b) can look healthy for many years yet pass it on**

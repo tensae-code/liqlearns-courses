@@ -14,6 +14,14 @@ Culture is a people's whole way of life: their experience and creativity, their 
 
 The chapter's reading pictures one town (summary only): its people are Christian, Muslim and others, speaking different languages, living by farming and trade. On Saturday the market fills: farmers sell teff, wheat, maize, peas, lentils, beans, goats, sheep, oxen, horses, honey and butter — and buy back sugar, oil, shoes, clothes, corrugated iron and nails. That whole picture — faiths, languages, work and market — is the town's culture at work.
 
+## Sub lesson 3 — The peoples of the Amhara Region and what culture is
+
+Grade 4 counts the region's people: about 80.5% live in the countryside and 19.5% in towns, and about 40% are children and youth. Amhara, Agew, Qimant, Oromo, Argobba and other communities live together, sharing a common 'tuba' culture. And culture itself is defined again, deeper: a society's way of life — dress, food, beauty, conflict-resolution customs — handed down, growing and changing across generations.
+
+## Sub lesson 4 — The different cultures and languages of our region (teacher guide — evidence)
+
+The teacher guides widen the same picture (teacher guide — evidence): each region holds different cultures side by side, and the SNNP guide adds the languages spoken in the region as its own topic — many tongues, one shared life. Naming a neighbour's culture and language with respect is part of living together.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: what culture is — a people's whole way of life: language, religion, song, work and customs, built up by people through history, not found in nature. Then answer one question they ask you about it.

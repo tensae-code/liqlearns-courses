@@ -11,3 +11,6 @@ Find five blockers at school and five at home. For each, name what is in its sha
 ## Torch shadow play
 In a dark room, make shadow animals with your hands in a torch beam. Every animal is blocked light shaped by your hands — say so to your audience.
 
+
+## Experiment 5, the book's way (adult-led flame, or a torch)
+With an adult in charge of the candle — or a torch in its place — stand an opaque card 5 cm before the light. Find the dark place behind it. Move the card closer and farther: the shadow wedge obeys. That dark place is the lesson.

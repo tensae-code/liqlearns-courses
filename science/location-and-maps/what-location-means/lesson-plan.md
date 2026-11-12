@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Places we know, in pictures** — pictures of familiar places teach the word: a house, a church and a mosque — every one of them is somewhere, and we say where by pointing to what is near it.
 3. **Locating the school's rooms (teacher guide — evidence)** — at school we also locate the school's own rooms and the places that serve us, and we learn to say where our school, our home and our neighbours are, each one compared with the others.
 
+4. **What a map is** — location described against other places, and the map as the tool that shows it (Grade 4 student pp.3–5; SNNP TG p.17 and Oromia TG p.20, teacher guide — evidence).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +26,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "Where things are, inside and around us" teaches, in their own words.
 2. Say and use what the part "Places we know, in pictures" teaches, in their own words.
 3. Say and use what the part "Locating the school's rooms (teacher guide — evidence)" teaches, in their own words.
+4. Say and use what the part "What a map is" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -33,6 +36,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12001]: a picture of a house, a church and a mosque in one village scene — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12041]: a drawn GIF of a ball placed in, on, under and next to a box as the position word changes — the student watches the motion, then does or describes the movement themselves.
+   - ADD IMAGE [Picture 12214]: a picture of a simple sketch map beside the real place it shows — the student matches three features on the map to the real place.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -44,6 +48,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - GIF [GIF 12041] — a ball placed in, on, under and next to a box → the student watches, then does or describes the movement.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE [Picture 12214] — a simple sketch map beside the real place it shows → the student matches features between the place and its map.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

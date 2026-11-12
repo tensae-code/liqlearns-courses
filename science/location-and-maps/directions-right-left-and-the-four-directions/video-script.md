@@ -13,3 +13,7 @@ Evening comes. The sun sets in the west.
 East. West. North. South. Four directions.
 
 And on your own body: right, left, front, back.
+
+North. East. South. West. Four directions.
+
+Now the helpers: north-east, south-east, south-west, north-west. Eight directions — and Alemnesh's whole day can be told with them.

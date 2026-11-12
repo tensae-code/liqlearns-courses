@@ -22,3 +22,18 @@ a) Grain to town; cloth back to farm  b) Rain up; sun down  c) Seeds in; seeds o
 a) giving goods for money or value  b) keeping goods  c) growing goods
 **Answer: a) giving goods for money or value** — Selling exchanges goods for value.
 
+**6. (Sub lesson 3) A farmer sells at the market —**
+a) everything the family grows  b) the surplus left after family use  c) nothing
+**Answer: b) the surplus left after family use** — Family use comes first; the rest is sold.
+
+**7. (Sub lesson 3) Which is NOT one of the region's market kinds?**
+a) the crop market  b) the animal-products market  c) the moon market
+**Answer: c) the moon market** — The markets are crops, animal products, vegetables and fruit, and industrial products.
+
+**8. (Sub lesson 4) Legal trade in natural resources —**
+a) takes without right  b) follows the rules and keeps the resource for the future  c) is forbidden
+**Answer: b) follows the rules and keeps the resource for the future** — Legal trade protects the resource it sells.
+
+**9. (Sub lesson 4) Illegal trade in natural resources harms —**
+a) no one  b) only the buyer  c) the resource and the community's future
+**Answer: c) the resource and the community's future** — Taking without right eats next year's resource too.

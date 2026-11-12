@@ -15,3 +15,7 @@ Use a bookmark to hold your place.
 If a page tears, mend it.
 
 Care for your book — and your book will teach you all year.
+
+And in the Grade 4 book, the same message stands at the front.
+
+Cover it. Keep it dry. Use a bookmark. Never tear. Repair. Hand it over carefully.

@@ -26,3 +26,26 @@ a) pulses among the crops  b) animals  c) minerals
 a) It is hard  b) Most people live by it — the country stands on it  c) It is old
 **Answer: b) Most people live by it — the country stands on it** — 82% live by it.
 
+**7. (Sub lesson 4) Mixed farming (ቅይጥ ግብርና) means —**
+a) only crops  b) crops and animals together  c) only animals
+**Answer: b) crops and animals together** — The two halves of farming on one farm.
+
+**8. (Sub lesson 4) About how many Ethiopians live by farming?**
+a) about 20%  b) about half  c) about 80%
+**Answer: c) about 80%** — Farming is the backbone for most of the country.
+
+**9. (Sub lesson 5) Which family does the chickpea belong to?**
+a) cereals  b) pulses  c) oilseeds
+**Answer: b) pulses** — Faba bean, lentil and chickpea are pulses.
+
+**10. (Sub lesson 5) The three ways crops get their water are —**
+a) meher, belg and irrigation  b) rivers only  c) dew only
+**Answer: a) meher, belg and irrigation** — Main season, belg rains, and irrigation.
+
+**11. (Sub lesson 6) A dairy cow gives —**
+a) honey  b) milk  c) wool only
+**Answer: b) milk** — Dairy cattle are kept for milk.
+
+**12. (Sub lesson 6) Which animal is kept in a hive?**
+a) the goat  b) the bee  c) the donkey
+**Answer: b) the bee** — Bees are kept for honey.

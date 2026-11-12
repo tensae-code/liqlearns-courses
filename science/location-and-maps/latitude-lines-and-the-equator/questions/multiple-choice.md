@@ -22,3 +22,10 @@ a) Longitude lines  b) Latitude lines  c) Roads
 a) °  b) %  c) #
 **Answer: a) °** — Degrees use the ° sign.
 
+**6. (Sub lesson 3) Latitude lines run from the equator at 0° to —**
+a) 90° at the poles  b) 360°  c) 10°
+**Answer: a) 90° at the poles** — Latitude is measured from equator to pole.
+
+**7. (Sub lesson 3) Longitude is measured from —**
+a) the equator  b) the prime meridian  c) Lake Tana
+**Answer: b) the prime meridian** — Longitude's starting line is the prime meridian.

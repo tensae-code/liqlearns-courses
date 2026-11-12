@@ -17,3 +17,10 @@ a) the midday sun  b) the low evening sun  c) no sun
 **4. At midday, shadows are —**
 a) longest  b) shortest  c) gone forever
 **Answer: b) shortest**
+**5. An opaque body (ብርሃን ከል) is —**
+a) a body light passes through freely  b) a body that blocks light  c) a light source
+**Answer: b) a body that blocks light**
+
+**6. In Experiment 5, a shadow is —**
+a) the lightless place made where an opaque body blocks light's path  b) a kind of candle  c) the flame's reflection
+**Answer: a) the lightless place made where an opaque body blocks light's path**

@@ -8,3 +8,9 @@ Sub lesson 1 questions from the type files. Pass mark: complete the plant-uses w
 ## Sub lesson 2 — Wild animals and the visitors who come to see them
 Sub lesson 2 questions from the type files. Pass mark: say how wild animals differ from domestic ones, how they earn, and how the rare ones are saved
 
+
+## Sub lesson 3 — Grade 4: protecting wild animals and their homes
+Pass mark: the learner can state why care matters (benefits continue; animals do not leave, sicken or shrink), name the care list, and name the three protected-area kinds with the Simien Mountains, Alatish and Menz Guassa as the book's national parks — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).
+
+## Sub lesson 4 — Grade 4: what threatens wild animals
+Pass mark: the learner can name the five threats — habitat destruction, pollution, foreign species, illegal hunting, wildfire — and report a family's answer on whether local animal numbers rise or fall — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).

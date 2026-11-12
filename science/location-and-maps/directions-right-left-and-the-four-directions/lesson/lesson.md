@@ -22,6 +22,14 @@ The four directions are found from the sun. In the morning the sun rises — tha
 
 Facing the sunrise with arms spread, we name all four: east where the sun rises, west where it sets, and north and south to the sides. We use them with real places: the school stands on one side of the road and the police station on the other; one kebele lies across the river from another.
 
+## Sub lesson 4 — The eight directions
+
+Now the four main directions gain four helpers. Between north and east lies north-east; between north and west, north-west; between south and east, south-east; between south and west, south-west. Eight directions in all. Follow one schoolgirl, Alemnesh, through her whole day on a pictured map — home as the starting point, every move she makes named with one of the eight directions — and you can name any direction of travel, not only the four main ones.
+
+[Picture 12200 — a compass rose with the eight directions labelled]
+
+[GIF 12220 — the eight direction labels appearing one by one around a turning child]
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: the directions — right and left, front and back on your own body, and east, west, north and south found from the sun. Then answer one question they ask you about it.

@@ -7,3 +7,9 @@ Sub lesson 1 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 2 — The two-way road of trade
 Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: At market, a farmer typically — (answer: sells farm products and buys industrial goods).
+
+## Sub lesson 3 — Markets — how countryside and town feed each other
+Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A farmer sells at market — (answer: the surplus left after family use).
+
+## Sub lesson 4 — Bringing natural resources to market — legal and illegal trade (teacher guide — evidence)
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Illegal trade in natural resources — (answer: takes without right and harms the resource's future).

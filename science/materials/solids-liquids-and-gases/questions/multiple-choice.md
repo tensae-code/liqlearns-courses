@@ -17,3 +17,10 @@ a) fixed shape  b) no fixed shape or volume — it spreads to fill its container
 **4. (Sub lesson 4) When ice melts, what happens?**
 a) new matter is created  b) the state changes but no new matter is created  c) the water disappears forever
 **Answer: b) the state changes but no new matter is created**
+**5. (Sub lesson 5) Boiling point is —**
+a) the temperature at which a liquid boils  b) the size of a pot  c) the colour of steam
+**Answer: a) the temperature at which a liquid boils**
+
+**6. (Sub lesson 5) The candle in the flame melts and then —**
+a) vanishes  b) re-solidifies as it cools  c) becomes water
+**Answer: b) re-solidifies as it cools**

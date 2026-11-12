@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — Your sub-city, described both ways (teacher guide — evidence)
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A sub-city's relative location is told by — (answer: the sub-cities and landmarks around it).
+
+## Sub lesson 4 — Two ways of fixing a place — the Grade 4 definitions
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Relative location fixes a place — (answer: against its neighbours); absolute location fixes it by — (answer: latitude and longitude numbers).

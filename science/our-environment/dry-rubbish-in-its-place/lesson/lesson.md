@@ -13,6 +13,20 @@ The book then turns investigators loose: **how is the school compound's waste ha
 
 [GIF 12186 — dry waste items being sorted into a container, one by one]
 
+## Grade 4 — sorting waste where it is made, and compost
+
+At Grade 4 the rule grows a system. **Proper disposal** means removing waste **in a way that harms no living thing and is useful** — and it begins **at the source**: waste producers — **homes, industries, businesses, government offices** — store their waste in **at least three kinds**: **usable at once; can rot; cannot rot**.
+
+The rotting kind — **leftover food, animal dung, dead animals, fallen leaves** — becomes **compost**, which can even be **sold**. Burning kinds and convertible kinds (**plastics, scrap metal**) are separated too. And the book prints its safety note with the sorting: **sort without exposing yourself to harm**. The guides carry the same lesson as good and bad disposal practices side by side (teacher guide — evidence).
+
+[Picture 13238 — three labelled bins: use again, can rot, cannot rot — at a house door]
+
+## Grade 4 — five ways to dispose of waste safely, and the school waste-site project
+
+The five safe ways, the book's list: **reuse it; feed it to small animals; rot it biologically (composting); burn it — in a pit or barrel, not on open ground; or bury it in a waste pit.**
+
+Then the book turns the school into the demonstration: pupils **interview a health or environment expert** on scientific disposal, then **build a model school waste-disposal place with the head teacher**, **run it on a weekly two-pupil rota for a month**, and **report** — and then **teach the method at home**. Sorting learned, system built, method taught: disposal at Grade 4 is a whole practice, not a slogan.
+
 ## Say it to your companion
 Follow a peel through your companion's telling: hand, container, disposal place. Interrupt any telling where the peel touches the ground 'just this once' — the book allows no once.
 

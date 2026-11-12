@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Lines that run east–west and never meet** — latitude lines (የኬክሮስ ዲግሪ ልኬት) are imaginary lines drawn east–west around the earth, parallel to the equator.
 2. **The equator, the starting line** — the equator is the great 0° line around the earth's middle.
 
+3. **Latitude and longitude together — the Grade 4 grid** — latitude 0°–90° from the equator and longitude from the prime meridian, 360° around, working together (Grade 4 student pp.5–10; SNNP TG pp.18–20, teacher guide — evidence).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Say and use what the part "Lines that run east–west and never meet" teaches, in their own words.
 2. Say and use what the part "The equator, the starting line" teaches, in their own words.
+3. Say and use what the part "Latitude and longitude together — the Grade 4 grid" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -31,6 +34,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12009]: a picture of a globe with the equator and parallel latitude lines marked — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12045]: a drawn GIF of latitude lines appearing one by one on a globe, the equator first — the student watches the motion, then does or describes the movement themselves.
+   - ADD IMAGE [Picture 12215]: a picture of a globe with the equator, latitude lines and the prime meridian marked — the student points to the equator and the prime meridian and says each one's number.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -42,6 +46,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - GIF [GIF 12045] — latitude lines appearing one by one on a globe → the student watches, then does or describes the movement.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE [Picture 12215] — a globe with the equator, latitude lines and the prime meridian marked → the student names the two starting lines and their numbers.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

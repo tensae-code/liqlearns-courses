@@ -7,3 +7,5 @@ Say whether each sentence is true or false.
 
 **2. A donkey is a domestic animal.**
 **Answer: True**
+**3. Skins and parts of wild animals are used for ornaments.**
+**Answer: True**

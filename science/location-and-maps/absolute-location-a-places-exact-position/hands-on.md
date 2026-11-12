@@ -7,3 +7,6 @@ In pairs, lay a ruler along a map's degree edge and read off a marked place's po
 
 ## Two ways treasure hunt
 Describe one classroom object two ways: relatively ('beside the window') and by a class grid square — feel the difference.
+
+## Fix a lake, fix a region
+On a gridded map of a lake or a region, read the top, bottom, left and right edge numbers and write the place's absolute location in the full form: latitude range first, then longitude.

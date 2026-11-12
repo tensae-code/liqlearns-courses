@@ -11,3 +11,6 @@ With a partner, act the schoolyard scene: a new child arrives and a rumour says 
 ## Sharp-things audit
 At home, count the sharp personal things — razors, needles, nail cutters. Each one: whose is it? Is it ever shared? Fix what needs fixing.
 
+
+## The two lists, taught at home
+Teach the two lists at home exactly as the book prints them: how HIV passes (three roads) and how it does not (the long kind list). Teaching both lists together is the community's protection — against the virus, and against fear of neighbours.

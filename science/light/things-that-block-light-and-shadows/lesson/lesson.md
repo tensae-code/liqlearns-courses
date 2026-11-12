@@ -15,6 +15,16 @@ The sun moving makes the shadow move and lengthen: morning's long shadow shorten
 
 [GIF 12137 — the sun moving across the sky and a child's shadow lengthening]
 
+## Grade 4 — the shadow experiment: the dark place behind the blocker
+
+The Grade 4 book proves the shadow with an experiment. An **opaque body (ብርሃን ከል)** — a body light cannot pass through — is placed **5 cm before a candle**, and behind it there is a **dark place**: the shadow.
+
+So the definition grows exact: **a shadow is the lightless place made where an opaque body blocks light's straight path**. No blocker, no shadow; no light, nothing to block. The book's Experiment 5 is your own shadow, done with a candle and a card.
+
+The regional teacher guides carry the same teaching — shadow formation (ጥላ አፈጣጠር) — with the tree's shadow at morning and at noon as their picture of it (teacher guide — evidence).
+
+[Picture 13217 — a candle, an opaque card and the shadow wedge behind it]
+
 ## Say it to your companion
 Teach your companion: stand them in sunlight, point to their shadow, and say what made it. Then hold up a book to a torch beam and show the same thing small: blocked light, dark behind.
 

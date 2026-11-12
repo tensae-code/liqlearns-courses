@@ -17,3 +17,10 @@ a) stone  b) fuel/oil  c) gravel
 **4. Minerals are —**
 a) renewable  b) non-renewable  c) alive
 **Answer: b) non-renewable**
+**5. Which mineral joins the list at Grade 4?**
+a) opal  b) plastic  c) rubber
+**Answer: a) opal**
+
+**6. One use of minerals in the Grade 4 book is —**
+a) export income  b) making rain  c) growing crops directly
+**Answer: a) export income**

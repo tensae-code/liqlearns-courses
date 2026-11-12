@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — The four main directions, and places beside the road
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: How many main directions are there? (answer: Four).
+
+## Sub lesson 4 — The eight directions
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Between north and east lies — (answer: north-east).

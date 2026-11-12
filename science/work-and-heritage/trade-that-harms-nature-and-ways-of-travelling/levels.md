@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 2 — Transport — the camel and the truck
 Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: 'The ship of the desert' is — (answer: the camel).
+
+## Sub lesson 3 — Transport — the blood vessel of the country
+Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Transport is called — (answer: the blood vessel of a country).

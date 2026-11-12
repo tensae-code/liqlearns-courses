@@ -9,3 +9,9 @@ Charcoal feeds a town — and thins a forest.
 Trade must not eat its own source.
 
 And everything moves: the camel, ship of the desert; the truck; the train; the plane.
+
+Transport — the blood vessel of a country.
+
+Donkey, horse, mule, camel, tankwa, cart — the old vessels.
+
+Land, air and water — the modern vessels. Fast or slow, they join the maker to the user.

@@ -13,6 +13,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What absolute location is (teacher guide — evidence)** — absolute location (ፍፁማዊ መገኛ, fṣumawi megeña) is a place's exact, fixed location — it does not depend on the things around it.
 2. **Stating it: latitude first, then longitude** — an absolute location is stated in latitude first, then longitude, in degrees and minutes, read off the map's edges with a ruler.
 
+3. **Worked example — Lake Tana's absolute location** — Lake Tana's coordinates found step by step from the grid (Grade 4 student pp.10–12).
+4. **The Amhara Region's absolute location** — the whole region fixed by one coordinate box (Grade 4 student pp.10–12).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +25,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Say and use what the part "What absolute location is (teacher guide — evidence)" teaches, in their own words.
 2. Say and use what the part "Stating it: latitude first, then longitude" teaches, in their own words.
+3. Say and use what the part "Worked example — Lake Tana's absolute location" teaches, in their own words.
+4. Say and use what the part "The Amhara Region's absolute location" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -30,6 +35,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 1. **Do it first** — You can say 'the school is beside the market' — but markets move. Can you give a position that never depends on what is around? That is today's idea. Read on. (lesson/lesson.md).
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12011]: a picture of a map edge with degree and minute markings and a ruler — the student studies the picture and names what it shows in the lesson's own words.
+   - ADD GIF [GIF 12222]: the grid lines closing in on Lake Tana on a map — the student reads the four edge numbers as the lines close in.
+   - ADD IMAGE: a picture map of Ethiopia with the Amhara coordinate box outlined — the student reads the region's four edge numbers.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -40,6 +47,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - IMAGE [Picture 12011] — a picture of a map edge with degree and minute markings and a ruler → the student studies it and names what it shows.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- GIF [GIF 12222] — the grid lines closing in on Lake Tana → the student reads the lake's edge numbers.
+- IMAGE (described) — a map of Ethiopia with the Amhara coordinate box outlined → the student reads the region's edge numbers.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

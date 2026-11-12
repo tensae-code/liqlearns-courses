@@ -8,3 +8,5 @@ Answer in a sentence or two, in your own words.
 **2. (Sub lesson 3) How do cottage and modern industry differ?**
 **Answer:** Cottage industry works by hand and skill; modern industry works in factories at large scale.
 
+**3. (Sub lesson 4) Name the three towns where the region's metal factories stand.**
+**Answer:** Bahir Dar, Kombolcha and Debre Berhan.

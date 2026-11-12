@@ -19,6 +19,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 3. Add the Grade 3 list: sand, stone, coal, iron, fuel/oil, gold — solid and liquid forms.
 4. Say what non-renewable means here: minerals are used once and gone; they earn the country income, so they are spent with thought.
 
+5. Add the Grade 4 list (limestone, granite, opal, copper join the earlier names) and name the uses: jewellery, technology goods, building factories, household goods, energy, export income, factory raw material — gathered on a field trip by asking local people.
 ## What you need
 Local mineral things to collect or visit: a stone, sand, gravel, salt — the Grade 3 book's own field activity.
 
@@ -26,6 +27,7 @@ Local mineral things to collect or visit: a stone, sand, gravel, salt — the Gr
 1. **Do it first** — the learner holds a stone in one hand and a pinch of salt in the other and is asked where each was 'made', before minerals are defined as dug and found, not grown (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12173]: a picture of stone, sand and salt piles beside a ring, wire, a silver cross and coins — the student draws the line from each pile to the thing made from it.
+   - ADD IMAGE [Picture 13231]: a picture of a quarry and a goldsmith's bench — the student names the mineral at work in each place.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -36,6 +38,7 @@ Local mineral things to collect or visit: a stone, sand, gravel, salt — the Gr
 - IMAGE [Picture 12173] — a picture of stone, sand and salt piles beside a ring, wire, a silver cross and coins → the student draws the line from each pile to the thing made from it.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13231] — a picture of a quarry and a goldsmith's bench → the student names the mineral at work in each place.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

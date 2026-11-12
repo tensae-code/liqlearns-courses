@@ -16,6 +16,10 @@ Cover the book — with plastic, or with old newspaper — so the cover does not
 
 Use a bookmark to hold your place instead of folding a page corner. If a page tears, repair it — a mended page can still be read. Treat the book gently every day, and it will teach you all year.
 
+## Sub lesson 3 — The same message in the Grade 4 book
+
+The Grade 4 book opens with the same care message, word for word in spirit: cover the book, keep it dry and clean, use a bookmark, never tear pages or pictures, repair torn pages, and hand the book over carefully to the next pupil. Older pupils are trusted to keep the whole list without being reminded.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: how to care for your school book so it stays clean, whole and readable all year. Then answer one question they ask you about it.

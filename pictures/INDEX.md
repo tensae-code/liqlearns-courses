@@ -1886,3 +1886,72 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11982 | pictures/11982.webp | commercial cleaning scenes | Career and Technical Education — Food, Cleaning and Events — Commercial Cleaning Services |
 | 11983 | pictures/11983.webp | the cleaner's kit | Career and Technical Education — Food, Cleaning and Events — Cleaning Equipment |
 | 11984 | pictures/11984.webp | seven cleaning agents and their jobs | Career and Technical Education — Food, Cleaning and Events — Cleaning Agents |
+| 12200 | pictures/12200.webp | compass rose, eight directions labelled | Science — Directions — Right, Left and the Four Directions |
+| 12201 | pictures/12201.webp | Amhara Region map, neighbours labelled per side | Science — Neighbours — and Measuring a Bearing |
+| 12202 | pictures/12202.webp | protractor on Bahir Dar, line to Seqota, 45° | Science — Neighbours — and Measuring a Bearing |
+| 12203 | pictures/12203.webp | culture exhibition hall, woreda stalls | Science — Presenting Our Woreda — a Culture Exhibition |
+| 12204 | pictures/12204.webp | mesob with injera, wots, genfo, chechebsa | Science — The Region's Food and Dress |
+| 12205 | pictures/12205.webp | five regional dress styles row | Science — The Region's Food and Dress |
+| 12206 | pictures/12206.webp | elders under a big tree hearing two neighbours | Science — Settling Quarrels — and the Warka Tree Mediation |
+| 12207 | pictures/12207.webp | three graduates' divided fields (4 panels) | Science — Three Young Farmers Review Their Business |
+| 12208 | pictures/12208.webp | labelled crop-sample board, 3 rows | Science — Work and Livelihood — Farming: Crops and Animals |
+| 12209 | pictures/12209.webp | weaver at loom beside factory floor | Science — Work and Livelihood — Making Things: By Hand and by Factory |
+| 12210 | pictures/12210.webp | market day, four market kinds | Science — Work and Livelihood — Buying and Selling |
+| 12211 | pictures/12211.webp | donkey with sacks beside a lorry | Science — Work and Livelihood — Trade That Harms Nature; Ways of Travelling |
+| 12212 | pictures/12212.webp | heritage triptych: Lalibela / Gondar / Simien | Science — Our Heritage — Lalibela, Gondar and the Simien Mountains |
+| 12213 | pictures/12213.webp | rights kept vs rights broken (school bag vs heavy load) | Science — Children's Rights |
+| 12214 | pictures/12214.webp | a real place beside its map, features matched | Science — What Location Means |
+| 12215 | pictures/12215.webp | globe with equator, latitude lines, prime meridian | Science — Latitude Lines and the Equator |
+| 12216 | pictures/12216.webp | Amhara zones map, capitals dotted, Bahir Dar starred | Science — The Amhara Region — Where It Sits and Its Zones |
+| 12220 | pictures/12220.gif | eight direction labels appearing one by one around a turning child | Science — Directions — Right, Left and the Four Directions |
+| 12221 | pictures/12221.gif | sister lifts the stone off her brother's shoulder; stone set down; siblings step together | Science — Settling Quarrels — and the Warka Tree Mediation |
+| 12222 | pictures/12222.gif | grid box closing in on Lake Tana, coordinates below | Science — Absolute Location — A Place's Exact Position |
+| 13200 | pictures/13200.webp | digestive tube | Science — The digestive system |
+| 13201 | pictures/13201.gif | food travelling down the tube | Science — The digestive system |
+| 13202 | pictures/13202.webp | child feeling heartbeat | Science — The heart |
+| 13203 | pictures/13203.gif | heart squeezing and relaxing | Science — The heart |
+| 13204 | pictures/13204.webp | brain inside skull | Science — The brain |
+| 13205 | pictures/13205.webp | lungs either side of heart | Science — The lungs and breathing |
+| 13206 | pictures/13206.gif | lungs swelling and shrinking | Science — The lungs and breathing |
+| 13207 | pictures/13207.webp | two bean-shaped kidneys | Science — The kidneys |
+| 13208 | pictures/13208.webp | liver under right ribs | Science — The liver |
+| 13209 | pictures/13209.webp | pencil properties labelled | Science — Properties that identify a thing |
+| 13210 | pictures/13210.webp | density bucket | Science — Density: why things sink or float |
+| 13211 | pictures/13211.gif | ball sinks, sponge floats | Science — Density: why things sink or float |
+| 13212 | pictures/13212.webp | ice/water/steam + candle | Science — Solids, liquids and gases |
+| 13213 | pictures/13213.webp | balloon bottle inflated | Science — Chemical change: burning and gas-making |
+| 13214 | pictures/13214.gif | balloon slowly inflating | Science — Chemical change: burning and gas-making |
+| 13215 | pictures/13215.webp | straight/bent tube and candle | Science — Light travels in straight lines |
+| 13216 | pictures/13216.gif | ray straight, then blocked at bend | Science — Light travels in straight lines |
+| 13217 | pictures/13217.webp | candle, opaque card, shadow wedge | Science — Things that block light, and shadows |
+| 13218 | pictures/13218.webp | one town in sun/rain/cold | Science — Weather and climate |
+| 13219 | pictures/13219.webp | wind vane ዊንድቬን and rain gauge ሬንጌጅ | Science — Measuring temperature, rain and wind |
+| 13220 | pictures/13220.gif | wind vane swinging and settling | Science — Measuring temperature, rain and wind |
+| 13221 | pictures/13221.webp | three-station rain chart | Science — Reading climate tables and averaging |
+| 13222 | pictures/13222.webp | highland mist / lowland sun | Science — What controls a place's climate |
+| 13223 | pictures/13223.webp | soil pit and roots | Science — What soil is and what is in it |
+| 13224 | pictures/13224.webp | squeeze test, three results | Science — Loam, clay and sand — the squeeze test |
+| 13225 | pictures/13225.gif | clay ball forms, sand falls apart | Science — Loam, clay and sand — the squeeze test |
+| 13226 | pictures/13226.webp | erosion: bare fine vs grassed coarse | Science — Soil fertility, erosion, and why soil matters |
+| 13227 | pictures/13227.webp | Hidase dam powering a town | Science — Water: why every living thing needs it |
+| 13228 | pictures/13228.webp | cracked earth / terraced and planted | Science — Drought: what it is and how we hold it back |
+| 13229 | pictures/13229.webp | full grain store / empty field | Science — Famine, and how it differs from drought |
+| 13230 | pictures/13230.webp | resources collage | Science — What counts as a natural resource |
+| 13231 | pictures/13231.webp | quarry and goldsmith | Science — Minerals from the ground |
+| 13232 | pictures/13232.webp | pond refills / barrel empties | Science — Ones that come back and ones that finish |
+| 13233 | pictures/13233.webp | ibex, red fox, birds | Science — Tame animals and wild animals |
+| 13234 | pictures/13234.webp | national-park gate, ranger, ibex | Science — Plants and wild animals as resources |
+| 13235 | pictures/13235.webp | terraces with seedlings | Science — Caring so they last: looking after natural resources |
+| 13236 | pictures/13236.webp | church forest | Science — Forests and what they give |
+| 13237 | pictures/13237.webp | waste in three states | Science — What waste is and its three kinds |
+| 13238 | pictures/13238.webp | three sorting bins | Science — Dry rubbish in its place |
+| 13239 | pictures/13239.webp | fly germ path | Science — Waste, flies, germs and trachoma |
+| 13240 | pictures/13240.webp | sterile single-use packet | Science — HIV and AIDS: how it spreads and how it does not |
+| 13241 | pictures/13241.webp | chemicals on a high shelf | Science — Chemicals in the house and the six safety rules |
+| 13242 | pictures/13242.webp | home hazards | Science — Accidents and staying safe |
+| 13243 | pictures/13243.webp | keep-away: chat, tobacco, alcohol | Science — Chat, tobacco and alcohol: stimulants and their harm |
+| 13244 | pictures/13244.webp | dose measured by health worker | Science — Using medicines properly |
+| 13245 | pictures/13245.webp | spoon-and-candle set-up | Science — Experiment 1: melting ice and boiling water |
+| 13246 | pictures/13246.gif | ice shrinking to water on the spoon | Science — Experiment 1: melting ice and boiling water |
+| 13247 | pictures/13247.webp | pupils fixing the wind vane | Science — Making a wind vane and rain gauge |
+| 13248 | pictures/13248.webp | two debaters and a class | Science — Debating change: new foods or old ways? |

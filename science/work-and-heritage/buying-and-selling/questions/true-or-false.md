@@ -8,3 +8,8 @@ Say whether each sentence is true or false, and why.
 **2. (Sub lesson 2) Traders supply industrial goods to both farmers and townspeople.**
 **Answer: True** — Traders stand between makers and users.
 
+**3. (Sub lesson 3) Trade links countryside and town because neither side makes everything it needs.**
+**Answer: True** — Each side buys what the other has.
+
+**4. (Sub lesson 4) The teacher guides teach that natural resources brought to market should be traded legally.**
+**Answer: True** — Both guides carry the legal/illegal distinction (teacher guide — evidence).

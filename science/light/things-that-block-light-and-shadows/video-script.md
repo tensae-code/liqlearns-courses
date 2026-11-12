@@ -9,3 +9,5 @@ Behind every blocker: shadow.
 Your body blocks the sun — that dark shape is your shadow.
 Leaves block. Trees give shade.
 Block the light, and you have made the dark.
+
+An **opaque** body — ብርሃን ከል — stands before the candle. Behind it: a **dark place**. That lightless place is the **shadow**.

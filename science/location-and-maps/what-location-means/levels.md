@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — Locating the school's rooms (teacher guide — evidence)
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Which of these can we locate at school? (answer: The school's service rooms).
+
+## Sub lesson 4 — What a map is
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A map is — (answer: the tool that shows where places sit, drawn small).

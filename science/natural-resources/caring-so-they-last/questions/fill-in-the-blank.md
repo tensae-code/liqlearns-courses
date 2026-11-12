@@ -7,3 +7,5 @@ Fill in each blank with the right word.
 
 **2. The nursery raises ___ tree seedlings.**
 **Answer: native**
+**3. Ploughing sloping land ___ the slope is a traditional protection method.**
+**Answer: across**

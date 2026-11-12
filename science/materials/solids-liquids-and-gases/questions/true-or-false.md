@@ -13,3 +13,5 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4) Breaking wood is a change of shape, not a new substance.**
 **Answer: True**
+**5. (Sub lesson 5) Ice, water and steam are one material in three states.**
+**Answer: True**

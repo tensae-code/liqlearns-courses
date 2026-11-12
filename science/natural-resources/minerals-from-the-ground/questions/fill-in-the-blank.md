@@ -7,3 +7,5 @@ Fill in each blank with the right word.
 
 **2. An electric ___ is a product made from minerals.**
 **Answer: wire**
+**3. Gold is worked into ___ at the goldsmith's bench.**
+**Answer: jewellery**

@@ -11,3 +11,9 @@ But these numbers never change: latitude first, then longitude.
 South Gondar: 11 degrees 20 to 12 degrees 30 north; 37 degrees 30 to 38 degrees 40 east.
 
 That is absolute location — ፍፁማዊ መገኛ.
+
+Lake Tana, fixed step by step: eleven degrees twenty, to twelve degrees seventeen, north.
+
+Thirty-seven, to thirty-seven degrees thirty-six, east.
+
+And the whole Amhara Region sits in one box of numbers.

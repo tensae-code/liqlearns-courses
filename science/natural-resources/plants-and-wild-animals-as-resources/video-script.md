@@ -8,3 +8,5 @@ Plants: climate steady, food flowing, industry fed.
 Wild animals: no milk, no plough — and worth a country's income alive.
 Collect the leaves. Label them. Learn the living wealth.
 What lives can keep earning — if it is kept alive.
+
+**Protect** them, and their benefits continue. Parks, reserves, guarded shelters — and keep the hunting **legal or not at all**. But settlement, fire and the illegal hunter still threaten. Ask at home: are our animals **more, or fewer**, than before?

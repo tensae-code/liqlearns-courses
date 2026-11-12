@@ -6,6 +6,12 @@ countries: Ethiopia
 
 **Book 6:** *Grade 3 Environmental Science Teacher Guide* (አካባቢ ሳይንስ የመምህር መምሪያ ሦስተኛ ክፍል) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau (title-page year not legible in the read; not claimed). TRUNCATED scan: the file holds printed pp. 1–66 — Units 1–2 complete, Unit 3 partial, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-teacher-placements.md.
 
+**Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
+
+**Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
+
+**Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Solids keep their shape | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, solids, printed p. 28 |
@@ -17,8 +23,14 @@ countries: Ethiopia
 | Changes that make nothing new | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, physical change and the states of matter, printed p. 27 |
 | Changes that make nothing new (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide (Addis Ababa Bureau)*, §2.4, exercise answers on boiling and change of state (teacher guide — evidence), printed pp. 36–40 |
 
+| Boiling, melting and the candle — the Grade 4 depth | Ethiopia, *Grade 4 Student Textbook*, §2.5, printed pp. 53–56 |
+| Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.3, printed pp. 58–61 |
+| Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — Oromia edition*, §1.5, printed pp. 10–13 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
-Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour
+Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. The fire-safety framing of the boiling-point measurement (adult help) is carried as the placement gives it.
+
+Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting

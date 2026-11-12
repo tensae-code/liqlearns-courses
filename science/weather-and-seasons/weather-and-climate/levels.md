@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: state both definitions, t
 ## Sub lesson 2 — The elements, and the air itself
 Sub lesson 2 questions from the type files. Pass mark: list the elements, pick out rain and temperature as key, and state what air is with the breath proof
 
+
+## Sub lesson 3 — Grade 4: the long average, worked at Debre Berhan
+Pass mark: the learner can state the Grade 4 definition — the long-term average of wind, temperature, rainfall and cloud recorded over many years — name the Debre Berhan 25-year average as its worked example, and describe a climate as hot or cold, wet or dry — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).

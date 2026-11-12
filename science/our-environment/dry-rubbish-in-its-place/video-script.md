@@ -8,3 +8,5 @@ Peelings, paper, plastic — **dry waste**.
 Into the container. Then to the proper place.
 Ground is not a container. Street is not a place.
 Clean compound, healthy people. The road is two steps long.
+
+Now sort at the source: **use again — can rot — cannot rot**. Rot becomes **compost**. Five safe roads for waste: reuse, feed, rot, burn in a pit, bury in a pit. Build the school's place, run it a month, **teach it at home**.

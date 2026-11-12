@@ -8,3 +8,5 @@ Answer in a sentence or two, in your own words.
 **2. (Sub lesson 2) How can you find east without any instrument?**
 **Answer:** Watch where the sun rises in the morning — that side is east.
 
+**3. (Sub lesson 4) Name the four sub-directions.**
+**Answer:** North-east, north-west, south-east and south-west.

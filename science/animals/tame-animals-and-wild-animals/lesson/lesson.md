@@ -11,6 +11,14 @@ Why do people keep domestic animals? The Grade 1 guide lists their **great servi
 
 [Picture 12160 — a donkey and a hen at a house, beside a hyena at the forest edge]
 
+## Grade 4 — wild animals and what they give us
+
+The Grade 4 book returns to the wild side of the line and asks what wild animals give. It sorts them first — **birds, mammals, and crawling and creeping animals** — pictured in its pages as a **walia ibex, a red fox and birds in a mountain park**.
+
+Their **uses**: **food; scientific study; tourism income; and skins and parts for ornaments**. The wild animals are not only dangers or wonders in this book — they are working members of the country's wealth, which is exactly why the protection lessons follow this one.
+
+[Picture 13233 — a walia ibex, a red fox and birds in a mountain park]
+
 ## Say it to your companion
 Take your companion through ten animal names. For each: domestic or wild — and the proof (where does it live? who cares for it?). Then the services: let them name what the donkey, the cow and the dog do for people.
 

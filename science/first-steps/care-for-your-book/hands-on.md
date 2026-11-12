@@ -7,3 +7,6 @@ With an older person's help, wrap your book's cover in plastic or newspaper, fol
 
 ## Bookmark making
 Cut a strip of card, draw a picture on it, and use it every time you stop reading.
+
+## Hand it over carefully
+Practise the last rule: wrap your book, check it page by page, and hand it to a partner with two hands, the way you would hand over something borrowed and precious. Your partner checks it and hands it back the same way.

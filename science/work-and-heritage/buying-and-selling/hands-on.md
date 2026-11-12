@@ -7,3 +7,6 @@ Class market: farmers bring (drawn) produce, traders bring (drawn) goods; everyo
 
 ## Who made it?
 Take five home objects; for each, say who made it and how trade brought it to you.
+
+## Walk a market in your mind
+List everything sold at your nearest market. Sort your list into the four market kinds. Then pick one natural-resource good and write how it can be traded legally, so the resource lasts.

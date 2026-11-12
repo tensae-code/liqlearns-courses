@@ -22,3 +22,10 @@ a) In a wet place  b) In a clean, dry place  c) On the ground outside
 a) Only the teacher  b) You, the pupil who uses it  c) Nobody
 **Answer: b) You, the pupil who uses it** — The book-care message is spoken to the pupil.
 
+**6. (Sub lesson 3) The Grade 4 book's care message tells pupils to —**
+a) tear out hard pages  b) cover the book and keep it dry and clean  c) write on every page
+**Answer: b) cover the book and keep it dry and clean** — The message opens the Grade 4 book too, at printed page ii.
+
+**7. (Sub lesson 3) If a page tears, the message says to —**
+a) hide the book  b) tear out the page  c) repair the torn page
+**Answer: c) repair the torn page** — A mended page can still be read.

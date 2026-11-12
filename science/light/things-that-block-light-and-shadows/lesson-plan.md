@@ -18,6 +18,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 2. Say why a house is dark inside at night: its walls and roof block light, and no light is being made inside.
 3. Say what a shadow is: the dark shape where your body blocks the sunlight, and why leafy trees give shade.
 
+4. Do the book's Experiment 5 in words: an opaque body (ብርሃን ከል) 5 cm before a candle leaves a dark place behind it — and define a shadow as that lightless place (Grade 4 depth).
 ## What you need
 Sunshine and your own body — the shadow needs nothing else; a torch and a book for the indoor proof.
 
@@ -26,6 +27,7 @@ Sunshine and your own body — the shadow needs nothing else; a torch and a book
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12136]: a picture of a child standing in sunlight with her shadow on the ground — the student points to the blocker, the light and the shadow — the three parts of every shadow.
    - ADD GIF [GIF 12137]: a picture of the sun moving across the sky and a child's shadow lengthening — the student calls out when the shadow is shortest and when it is longest.
+   - ADD IMAGE [Picture 13217]: a picture of a candle, an opaque card and the shadow wedge behind it — the student points to the light, the blocker and the lightless place.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -37,6 +39,7 @@ Sunshine and your own body — the shadow needs nothing else; a torch and a book
 - GIF [GIF 12137] — a picture of the sun moving across the sky and a child's shadow lengthening → the student calls out when the shadow is shortest and when it is longest.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13217] — a picture of a candle, an opaque card and the shadow wedge behind it → the student points to the light, the blocker and the lightless place.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

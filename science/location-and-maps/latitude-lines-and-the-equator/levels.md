@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 2 — The equator, the starting line
 Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: The equator is the latitude line of — (answer: 0 degrees).
+
+## Sub lesson 3 — Latitude and longitude together — the Grade 4 grid
+Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Latitude runs from the equator 0° to — (answer: 90° at the poles).

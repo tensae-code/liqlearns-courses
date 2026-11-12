@@ -11,3 +11,5 @@ Say whether each sentence is true or false, and why.
 **3. (Sub lesson 3) Our home and our school each have a location we can describe.**
 **Answer: True** — We locate school, home and neighbours relative to each other.
 
+**4. (Sub lesson 4) A map and the real place it shows have nothing in common.**
+**Answer: False** — The map shows the same features, matched one to one.

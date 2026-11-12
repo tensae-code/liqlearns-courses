@@ -22,6 +22,12 @@ Pictures of familiar places teach the word: a house, a church and a mosque — e
 
 At school we also locate the school's own rooms and the places that serve us, and we learn to say where our school, our home and our neighbours are, each one compared with the others.
 
+## Sub lesson 4 — What a map is
+
+A map is the tool that shows location. Where a body or a place sits is described against other bodies and places — and a map draws that 'where' on paper, small enough to hold, so we can see the whole place at once. The Grade 4 teacher guides teach the same idea (teacher guide — evidence): a real place and its map show the same features, matched one to one.
+
+[Picture 12214 — a simple sketch map beside the real place it shows]
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: what location (መገኛ) means — every thing and every place is somewhere, and we say where by pointing to what is near it. Then answer one question they ask you about it.

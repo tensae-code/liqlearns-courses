@@ -21,3 +21,10 @@ a) nothing at all  b) a mixture of gases that occupies space and has weight  c) 
 **5. (Sub lesson 1) Which helps a farmer most for choosing sowing time?**
 a) one day's weather  b) the climate pattern  c) a single cloud
 **Answer: b) the climate pattern**
+**6. (Sub lesson 3) In the Grade 4 book, climate is —**
+a) today's state of the air  b) the long-term average of wind, temperature, rainfall and cloud over many years  c) a single rainy season
+**Answer: b) the long-term average of wind, temperature, rainfall and cloud over many years**
+
+**7. (Sub lesson 3) The book's worked example uses a station average for —**
+a) Debre Berhan, over 25 years  b) one school, over one week  c) the capital, over one day
+**Answer: a) Debre Berhan, over 25 years**

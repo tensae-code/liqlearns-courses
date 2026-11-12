@@ -22,3 +22,18 @@ a) A ruler  b) A spoon  c) A rope only
 a) relative  b) absolute  c) a story
 **Answer: b) absolute** — Degrees give the absolute location.
 
+**6. (Sub lesson 3) Lake Tana's latitude range is —**
+a) 8°40′–14°50′ N  b) 11°20′–12°17′ N  c) 37°–37°36′ E
+**Answer: b) 11°20′–12°17′ N** — Latitude is read first, from the map's side scale.
+
+**7. (Sub lesson 3) In an absolute location, we state —**
+a) longitude first, then latitude  b) latitude first, then longitude  c) only the name
+**Answer: b) latitude first, then longitude** — The order is latitude, then longitude.
+
+**8. (Sub lesson 4) The Amhara Region's longitude range is —**
+a) 35°10′–40°20′ E  b) 8°40′–14°50′ E  c) 11°20′–12°17′ E
+**Answer: a) 35°10′–40°20′ E** — The region runs from 35°10′ to 40°20′ east.
+
+**9. (Sub lesson 4) The Amhara Region's latitude range is —**
+a) 35°10′–40°20′ N  b) 8°40′–14°50′ N  c) 0°–90° N
+**Answer: b) 8°40′–14°50′ N** — From 8°40′ north to 14°50′ north.

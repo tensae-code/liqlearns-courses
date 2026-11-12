@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Our zone's relative location** — at zone scale we do the same with whole neighbours.
 3. **Your sub-city, described both ways (teacher guide — evidence)** — in the city the same skill applies to a sub-city: pupils describe their own sub-city's location by the sub-cities and landmarks around it, before they meet its fixed, absolute location in the next lesson.
 
+4. **Two ways of fixing a place — the Grade 4 definitions** — relative vs absolute location defined side by side (Grade 4 student pp.5–10; SNNP TG pp.20–23 and Oromia TG pp.23–27, teacher guide — evidence).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +26,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "What relative location is (teacher guide — evidence)" teaches, in their own words.
 2. Say and use what the part "Our zone's relative location" teaches, in their own words.
 3. Say and use what the part "Your sub-city, described both ways (teacher guide — evidence)" teaches, in their own words.
+4. Say and use what the part "Two ways of fixing a place — the Grade 4 definitions" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -32,6 +35,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 1. **Do it first** — Tell someone where your school is without using a map. You will name things near it — 'beside the market', 'across from the clinic'. That way of telling is today's lesson. Try it first. (lesson/lesson.md).
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12008]: a picture of a zone map with neighbours labelled in all directions — the student studies the picture and names what it shows in the lesson's own words.
+   - ADD IMAGE: a picture of the same town fixed two ways — 'north of the river' and by its coordinates — the student says which fixing is relative and which is absolute.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -42,6 +46,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - IMAGE [Picture 12008] — a picture of a zone map with neighbours labelled in all directions → the student studies it and names what it shows.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE (described) — the same town fixed two ways, by neighbours and by coordinates → the student sorts the two fixings.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

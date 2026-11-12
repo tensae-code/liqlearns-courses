@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Weather is short; climate is long** — the definitions stacked: Grade 2's pattern, Grade 3's 30 years and the farmer, the guides' city seasons
 2. **The elements, and the air itself** — temperature, rain, wind, humidity, pressure, cloud, dew, frost, snow, sunshine, fog — and what air is
 
+3. **Grade 4: the long average, worked at Debre Berhan** — climate as the long-term average of wind, temperature, rainfall and cloud over many years; a climate can be hot or cold, wet or dry
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +27,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 4. Say what air is, from the Grade 2 guide: a mixture of gases that occupies space and has weight; living things breathe because air exists.
 5. Compare the same street in the rainy season and the dry season — the Grade 3 guide's city picture of climate.
 
+6. State the Grade 4 definition: climate is the long-term average of wind, temperature, rainfall and cloud over many years — the book's worked example is a 25-year Debre Berhan station average.
 ## What you need
 Your seven-day weather record from the last lesson; a farmer or elder to ask about sowing times.
 
@@ -33,6 +36,7 @@ Your seven-day weather record from the last lesson; a farmer or elder to ask abo
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12146]: a picture of the same farm in the rainy season and the dry season — the student says which picture shows weather and which pair together shows climate.
    - ADD IMAGE [Picture 12147]: a picture of a strip of rain, wind-bent trees, frost and sunshine — the student names each element shown.
+   - ADD IMAGE [Picture 13218]: a picture of one town shown in sun, rain and cold under one "climate" label — the student says which parts are weather and which single word covers them all.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -44,6 +48,7 @@ Your seven-day weather record from the last lesson; a farmer or elder to ask abo
 - IMAGE [Picture 12147] — a picture of a strip of rain, wind-bent trees, frost and sunshine → the student names each element shown.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13218] — a picture of one town shown in sun, rain and cold under one "climate" label → the student says which parts are weather and which single word covers them all.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

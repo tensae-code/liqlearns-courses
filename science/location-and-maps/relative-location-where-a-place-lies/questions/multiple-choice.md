@@ -26,3 +26,10 @@ a) known landmarks  b) a telescope  c) silent places
 a) only a house  b) a lake like Lake Tana  c) nothing big
 **Answer: b) a lake like Lake Tana** — Big natural features anchor zone descriptions.
 
+**7. (Sub lesson 4) Absolute location fixes a place by —**
+a) its neighbours  b) latitude and longitude numbers  c) its age
+**Answer: b) latitude and longitude numbers** — Those numbers never change.
+
+**8. (Sub lesson 4) 'North of the river' is an example of —**
+a) absolute location  b) relative location  c) a coordinate
+**Answer: b) relative location** — It fixes the place against a neighbour.

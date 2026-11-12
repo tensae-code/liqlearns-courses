@@ -11,3 +11,9 @@ And our country's backbone is farming — eighty-two in every hundred live by it
 Crops: teff, wheat, maize, barley. Animals: cattle, sheep, goats, chickens.
 
 Two halves. One farming life.
+
+Eighty of every hundred Ethiopians live by farming.
+
+Crops and animals together — that is mixed farming, ቅይጥ ግብርና.
+
+Cereals, pulses, oilseeds — and three seasons to grow them in.

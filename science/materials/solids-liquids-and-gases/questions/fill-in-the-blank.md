@@ -7,3 +7,5 @@ Fill in each blank with the right word.
 
 **2. (Sub lesson 3) There are three states of matter: solid, liquid and ___.**
 **Answer: gas**
+**3. (Sub lesson 5) Pupils measure the local boiling point of water with a ___, with adult help.**
+**Answer: thermometer**

@@ -7,3 +7,8 @@ Fill in each blank with the right word.
 
 **2. (Sub lesson 1) The Walia ___ lives on rocky peaks.**
 **Answer: ibex**
+**3. (Sub lesson 3) The Simien Mountains, Alatish and Menz Guassa are named as national ___.**
+**Answer: parks**
+
+**4. (Sub lesson 4) Mixing with ___ species is one of the threats.**
+**Answer: foreign**

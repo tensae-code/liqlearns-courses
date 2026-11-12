@@ -22,3 +22,10 @@ a) Aeroplane  b) Donkey carrying loads  c) Train
 a) move people and products  b) stop goods moving  c) hide goods
 **Answer: a) move people and products** — Transport moves people and products.
 
+**6. (Sub lesson 3) Transport is called —**
+a) the blood vessel of a country  b) the roof of a country  c) a market
+**Answer: a) the blood vessel of a country** — It carries goods and people the way blood carries life.
+
+**7. (Sub lesson 3) Which of these is traditional transport?**
+a) aeroplane  b) tankwa boat  c) train
+**Answer: b) tankwa boat** — The tankwa is the traditional reed boat.

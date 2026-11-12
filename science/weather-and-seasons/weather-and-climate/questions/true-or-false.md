@@ -10,3 +10,5 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1) Climate is the long-term average weather of a wide area.**
 **Answer: True**
+**4. (Sub lesson 3) A place's climate can be hot or cold, wet or dry.**
+**Answer: True**

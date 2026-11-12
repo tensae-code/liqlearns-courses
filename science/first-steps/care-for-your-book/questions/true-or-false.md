@@ -8,3 +8,5 @@ Say whether each sentence is true or false, and why.
 **2. (Sub lesson 2) If a page tears, you should throw the book away.**
 **Answer: False** — A torn page can be repaired — the book can still be read.
 
+**3. (Sub lesson 3) The book-care rules change completely in Grade 4.**
+**Answer: False** — The same message stands at the front of the Grade 4 book.

@@ -11,3 +11,5 @@ Say whether each sentence is true or false, and why.
 **3. (Sub lesson 3) Standing facing the sunrise, the sunset is behind you.**
 **Answer: True** — West, where the sun sets, lies opposite east.
 
+**4. (Sub lesson 4) South-west lies between south and west.**
+**Answer: True** — Each sub-direction sits between two main directions.

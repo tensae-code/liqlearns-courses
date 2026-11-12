@@ -18,6 +18,10 @@ At zone scale we do the same with whole neighbours. Our worked example is South 
 
 In the city the same skill applies to a sub-city: pupils describe their own sub-city's location by the sub-cities and landmarks around it, before they meet its fixed, absolute location in the next lesson.
 
+## Sub lesson 4 — Two ways of fixing a place — the Grade 4 definitions
+
+In Grade 4 the two ways are named side by side and defined formally. Relative location fixes a place against its neighbours — the way this lesson began. Absolute location fixes it by latitude and longitude numbers that never change. The Grade 4 teacher guides give the same formal definitions (teacher guide — evidence). Hold both: neighbours for everyday finding, numbers for a fixing that never moves.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: relative location (አንጻራዊ መገኛ) — describing where a place lies by the things around it and by direction, from a market stall to a whole zone. Then answer one question they ask you about it.

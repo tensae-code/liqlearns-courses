@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Cottage industry — by hand and skill** — cottage industry works by hand and skill: blacksmithing, pottery, leather work and weaving.
 3. **Modern industry — by factory** — modern industry works in factories: sugar, paper, goods and textile factories, making clothes, shoes, sheets, blankets, bags, oil and sugar for the whole country at once.
 
+4. **Cottage and modern industry — the Grade 4 picture** — cottage industry (የጎጆ ኢንዱስትሪ) and its thousand-year tools; light and heavy modern industry; the region's metal-factory towns (Grade 4 student pp.116–118).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +26,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "What industry is" teaches, in their own words.
 2. Say and use what the part "Cottage industry — by hand and skill" teaches, in their own words.
 3. Say and use what the part "Modern industry — by factory" teaches, in their own words.
+4. Say and use what the part "Cottage and modern industry — the Grade 4 picture" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -33,6 +36,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12030]: a picture of a weaver at a loom beside a textile factory — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12039]: a drawn GIF of a weaving shuttle passing back and forth — the student watches the motion, then does or describes the movement themselves.
+   - ADD IMAGE [Picture 12209]: a picture of a weaver at a loom beside a factory floor — the student says which side is cottage industry and which is modern, and why.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -44,6 +48,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - GIF [GIF 12039] — a weaving shuttle passing back and forth → the student watches, then does or describes the movement.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE [Picture 12209] — a weaver at a loom beside a factory floor → the student sorts the two kinds of industry.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

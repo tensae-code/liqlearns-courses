@@ -17,6 +17,22 @@ Set this beside the domestic ledger of the Animals title: the cow earns by servi
 
 [Picture 12175 — a Walia ibex on a rocky peak with visitors watching from a distance]
 
+## Sub lesson 3 — Grade 4: protecting wild animals and their homes
+
+Why protect them? The Grade 4 book's answer is continuation: **care keeps their benefits continuing**, and stops the animals **leaving, dying of disease, or shrinking in number**.
+
+The care list is practical: **keep the habitat fit; teach the community; stop illegal hunting; guard forest and cave shelter; keep farming and grazing out of the habitat; keep the habitat's water clean.**
+
+And the book names the **three kinds of protected area**: **national parks** — the Simien Mountains, Alatish and Menz Guassa are named; **strict wildlife reserves**; and **controlled hunting areas**, where only **aged animals** are taken, so the young multiply.
+
+[Picture 13234 — a national-park gate with a ranger and ibex inside]
+
+## Sub lesson 4 — Grade 4: what threatens wild animals
+
+Against the care stands the threat list: **habitat destruction** — settlement, free grazing, deforestation, town growth, farm expansion; **pollution**; **mixing with foreign species**; **illegal hunting** — for teeth, skin and meat; and **wildfire**.
+
+The book sends the question home: **ask your parents whether local animal numbers are rising or falling, and why**. The threat list is not only read; it is checked against the family's own memory.
+
 ## Say it to your companion
 Build the plant-uses web aloud for your companion: they call 'another!' until the web has climate, food, industry and the uses from the Plants title. Then the ibex question: let them argue its worth before you give tourism and jobs.
 

@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The book-care message** — every book in this course opens with the same message to you, the pupil: this book is yours to learn from, and it will only stay good if you care for it.
 2. **Using the book kindly** — use a bookmark to hold your place instead of folding a page corner.
 
+3. **The same message in the Grade 4 book** — the Grade 4 book-care message (printed ii) — the same ten rules, now the older pupil's own responsibility.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Say and use what the part "The book-care message" teaches, in their own words.
 2. Say and use what the part "Using the book kindly" teaches, in their own words.
+3. Say and use what the part "The same message in the Grade 4 book" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -31,6 +34,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12000]: a picture of a pupil covering a book to protect it — the student studies the picture and names what it shows in the lesson's own words.
    - ADD AUDIO: a voice reading the book-care message aloud, slowly — the student listens and joins in.
+   - ADD IMAGE: a picture of an older pupil handing a clean, covered book carefully to a younger pupil — the student says what careful handing-over looks like.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -42,6 +46,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - AUDIO — a voice reading the book-care message aloud, slowly → the student listens and joins in.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE (described) — an older pupil handing a covered book carefully to a younger pupil → the student names the care rules it shows.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

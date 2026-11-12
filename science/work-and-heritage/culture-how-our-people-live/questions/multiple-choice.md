@@ -22,3 +22,18 @@ a) teff, wheat, honey and butter  b) only cars  c) nothing
 a) in one day  b) through history, accumulated by people  c) under the ground
 **Answer: b) through history, accumulated by people** — Culture accumulates through history.
 
+**6. (Sub lesson 3) About how much of the Amhara Region's people live in the countryside?**
+a) 19.5%  b) 40%  c) 80.5%
+**Answer: c) 80.5%** — Most of the region lives in the countryside; 19.5% live in towns.
+
+**7. (Sub lesson 3) The communities of the region share —**
+a) a common 'tuba' culture  b) nothing  c) one language only
+**Answer: a) a common 'tuba' culture** — Many communities, one shared tuba culture.
+
+**8. (Sub lesson 4) The SNNP teacher guide adds which topic of its own?**
+a) the languages spoken in the region  b) the moon's phases  c) sea fish
+**Answer: a) the languages spoken in the region** — Languages are the SNNP guide's own subtopic (teacher guide — evidence).
+
+**9. (Sub lesson 4) Different cultures in one region live —**
+a) far apart, never meeting  b) side by side  c) only in books
+**Answer: b) side by side** — Side by side, in one shared life.

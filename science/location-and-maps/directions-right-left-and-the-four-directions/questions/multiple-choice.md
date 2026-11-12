@@ -26,3 +26,10 @@ a) East and north  b) East and west  c) North and west
 a) along the sun's path, opposite your right hand  b) to the ground  c) behind you only
 **Answer: a) along the sun's path, opposite your right hand** — With arms spread facing the sunrise, right and left point along the sun's path.
 
+**7. (Sub lesson 4) The direction between north and east is —**
+a) south-west  b) north-east  c) west
+**Answer: b) north-east** — The sub-directions sit between the main ones.
+
+**8. (Sub lesson 4) How many directions are there in all, with the sub-directions?**
+a) four  b) six  c) eight
+**Answer: c) eight** — Four main directions plus four sub-directions make eight.

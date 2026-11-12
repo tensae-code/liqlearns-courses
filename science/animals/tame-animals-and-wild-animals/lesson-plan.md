@@ -18,6 +18,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 2. Name the services of domestic animals, from the guide: food and milk, making clothes, transport, entertainment.
 3. Say when animals breed, from the guide: most breed when there is enough food and favourable weather.
 
+4. Add the Grade 4 account of wild animals: their kinds (birds, mammals, crawling and creeping animals) and what they give us — food, scientific study, tourism income, skins and parts for ornaments.
 ## What you need
 The animals of your own home and street to classify; a walk where wild signs might be seen or only named.
 
@@ -25,6 +26,7 @@ The animals of your own home and street to classify; a walk where wild signs mig
 1. **Do it first** — the learner names every animal they have touched this week and every animal they would never touch, and is asked what divides the two lists, before domestic and wild are defined (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12160]: a picture of a donkey and a hen at a house, beside a hyena at the forest edge — the student says on which side of the line each animal stands and why.
+   - ADD IMAGE [Picture 13233]: a picture of a walia ibex, a red fox and birds in a mountain park — the student names each animal's kind: bird, mammal, or crawling kind.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -35,6 +37,7 @@ The animals of your own home and street to classify; a walk where wild signs mig
 - IMAGE [Picture 12160] — a picture of a donkey and a hen at a house, beside a hyena at the forest edge → the student says on which side of the line each animal stands and why.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13233] — a picture of a walia ibex, a red fox and birds in a mountain park → the student names each animal's kind: bird, mammal, or crawling kind.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

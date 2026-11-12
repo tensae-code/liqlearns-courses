@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **When trade strips nature** — selling firewood and charcoal, timber, sand, stone and gravel earns money — and strips forests, disturbs the climate, dries rivers, drives wild animals away and erodes the soil.
 2. **Transport — the camel and the truck** — transport moves people and products — without it, no trade.
 
+3. **Transport — the blood vessel of the country** — transport as 'the blood vessel of a country'; traditional kinds and modern land/air/water kinds, compared by speed and load (Grade 4 student pp.125–126; SNNP TG pp.102–104 and Oromia TG pp.69–72, teacher guide — evidence).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Say and use what the part "When trade strips nature" teaches, in their own words.
 2. Say and use what the part "Transport — the camel and the truck" teaches, in their own words.
+3. Say and use what the part "Transport — the blood vessel of the country" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -30,6 +33,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 1. **Do it first** — A truck of charcoal leaves a forest that is thinner than last year. Trade fed a town — and thinned a forest. Hold both truths, then read. (lesson/lesson.md).
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12032]: a picture of a loaded camel and a loaded truck on the same road — the student studies the picture and names what it shows in the lesson's own words.
+   - ADD IMAGE [Picture 12211]: a picture of a donkey carrying sacks on a track beside a lorry on a road — the student compares their speed and load.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -40,6 +44,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - IMAGE [Picture 12032] — a picture of a loaded camel and a loaded truck on the same road → the student studies it and names what it shows.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE [Picture 12211] — a donkey carrying sacks beside a lorry on a road → the student compares speed and load.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

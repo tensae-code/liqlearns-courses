@@ -7,3 +7,5 @@ Fill in each blank with the right word.
 
 **2. A leopard is a ___ animal.**
 **Answer: wild**
+**3. The walia ___ and the red fox are pictured wild animals of the mountain park.**
+**Answer: ibex**

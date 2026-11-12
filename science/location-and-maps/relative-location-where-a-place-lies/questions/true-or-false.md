@@ -11,3 +11,5 @@ Say whether each sentence is true or false, and why.
 **3. (Sub lesson 3) Relative location changes if the landmarks around a place change.**
 **Answer: True** — It depends on what is around the place — that is what 'relative' means.
 
+**4. (Sub lesson 4) Relative and absolute location are the same way of fixing a place.**
+**Answer: False** — One uses neighbours; the other uses numbers that never change.

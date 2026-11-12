@@ -16,6 +16,12 @@ Latitude lines (የኬክሮስ ዲግሪ ልኬት) are imaginary lines drawn e
 
 The equator is the great 0° line around the earth's middle. Latitude tells how far north or south of the equator a place is: a place's latitude is its distance from that starting line, in degrees.
 
+## Sub lesson 3 — Latitude and longitude together — the Grade 4 grid
+
+Grade 4 draws the whole grid. Latitude lines (ኬክሮስ, kekros) run from the equator at 0° to 90° at the poles. Longitude lines (ኬንትሮስ, kentros) run from the prime meridian, all the way around the earth — 360° of them. Together, one latitude number and one longitude number give any place's absolute location. The SNNP teacher guide teaches the same pair (teacher guide — evidence).
+
+[Picture 12215 — a globe with the equator, latitude lines and the prime meridian marked]
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: latitude lines (የኬክሮስ ዲግሪ) — the imaginary lines drawn east–west around the earth, and the equator, the 0° line they are measured from. Then answer one question they ask you about it.

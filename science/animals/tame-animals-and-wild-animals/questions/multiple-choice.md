@@ -17,3 +17,10 @@ a) in houses  b) in forest, grassland, caves and water  c) in school
 **4. Animals breed most when —**
 a) food is scarce  b) there is enough food and favourable weather  c) the weather is worst
 **Answer: b) there is enough food and favourable weather**
+**5. Wild animals in the book are sorted as —**
+a) birds, mammals, and crawling and creeping animals  b) big and small only  c) flying only
+**Answer: a) birds, mammals, and crawling and creeping animals**
+
+**6. One thing wild animals give us in the book is —**
+a) tourism income  b) homework  c) rain
+**Answer: a) tourism income**

@@ -7,3 +7,6 @@ Watch weaving (live or in the lesson GIF): follow the shuttle carrying thread ba
 
 ## Hand vs factory sorting
 Sort product cards into 'by hand' and 'by factory', defending each sort with how the thing is made.
+
+## Sort the making
+List ten made things you use this week. Sort them: made by cottage industry, by modern industry, or by both together — and say what told you.

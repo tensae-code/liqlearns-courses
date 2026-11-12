@@ -8,3 +8,5 @@ Answer in a sentence or two, in your own words.
 **2. (Sub lesson 1) What is the Amharic word for location?**
 **Answer:** መገኛ (megeña).
 
+**3. (Sub lesson 4) Explain in one sentence what a map does.**
+**Answer:** A map draws where places sit, small on paper, so we can see a whole place and find where things are.

@@ -11,3 +11,5 @@ Say whether each sentence is true or false, and why.
 **3. (Sub lesson 3) Cottage and modern industry both transform products; they differ in hand vs factory.**
 **Answer: True** — That contrast is the lesson.
 
+**4. (Sub lesson 4) Heavy industry makes production tools themselves.**
+**Answer: True** — Heavy industry works minerals with complex machines to make the tools of production.

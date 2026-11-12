@@ -7,3 +7,6 @@ Lay string around a globe at the equator, then lay parallel strings above and be
 
 ## North or south?
 The teacher names places on a map; pupils call 'north of the equator!' or 'south!' for each.
+
+## Draw the whole grid
+On a ball or a drawn circle-earth, draw the equator, three latitude lines, the prime meridian and three longitude lines. Label 0° twice — once for each starting line.

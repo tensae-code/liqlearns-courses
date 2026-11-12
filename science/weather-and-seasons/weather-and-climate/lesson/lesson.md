@@ -21,6 +21,16 @@ Under them all lies **air itself**. The Grade 2 guide teaches it before weather:
 
 [Picture 12147 — a strip of rain, wind-bent trees, frost and sunshine]
 
+## Sub lesson 3 — Grade 4: the long average, worked at Debre Berhan
+
+The Grade 4 book gives the climate definition its working shape: **climate is the long-term average of wind, temperature, rainfall and cloud, recorded over many years** — worked in the book with a **25-year station average for Debre Berhan**.
+
+Set the pair side by side one more time, in the Grade 4 words: **weather is the short-term state** of the air; **climate is the settled pattern** — the average the years agree on. And a place's climate can be named by its character: it can be **hot or cold, wet or dry**.
+
+The two regional teacher guides teach the same difference — weather against climate — as the opening of their climate units (teacher guide — evidence).
+
+[Picture 13218 — one town shown in sun, rain and cold under one "climate" label]
+
 ## Say it to your companion
 Teach your companion the difference with one example of each from your own place: today's rain (weather) against the rainy season that always comes (climate). Then list the elements and let them catch the two key ones.
 

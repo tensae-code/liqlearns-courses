@@ -19,6 +19,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 3. Say how it does NOT spread: touching, shaking hands, sharing a latrine, eating and drinking together, breathing.
 4. Say why it matters to the community, and name prevention: never share the sharp things.
 
+5. Add the Grade 4 fullness: unpack HIV and AIDS letter by letter; say a carrier can look healthy for years yet pass the virus on; name the three transmission roads and the printed preventions, including the mother's medicine and care; and keep the does-not-pass list complete — workplaces, toilets, sneezing, handshakes, one table, insect bites, one glass.
 ## What you need
 Nothing but care in speaking: this lesson is taught kindly, the way the books teach it — a person with HIV is a neighbour, not a danger at the table.
 
@@ -26,6 +27,7 @@ Nothing but care in speaking: this lesson is taught kindly, the way the books te
 1. **Do it first** — the learner lists ways they think sickness travels, gathered from the earlier lesson, and the lesson then sorts which of those ways are true for this one sickness (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12114]: a picture of a razor and a needle marked 'do not share', beside children eating together safely — the student sorts the picture's two scenes into SPREADS and DOES NOT SPREAD.
+   - ADD IMAGE [Picture 13240]: a picture of a health worker showing a sterile single-use needle packet — the student says which printed prevention the picture keeps.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -36,6 +38,7 @@ Nothing but care in speaking: this lesson is taught kindly, the way the books te
 - IMAGE [Picture 12114] — a picture of a razor and a needle marked 'do not share', beside children eating together safely → the student sorts the picture's two scenes into SPREADS and DOES NOT SPREAD.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13240] — a picture of a health worker showing a sterile single-use needle packet → the student says which printed prevention the picture keeps.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

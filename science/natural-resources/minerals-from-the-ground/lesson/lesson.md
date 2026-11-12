@@ -11,6 +11,14 @@ The Grade 3 book widens the list and deepens the warning. Its minerals: **sand, 
 
 [Picture 12173 — stone, sand and salt piles beside a ring, wire, a silver cross and coins]
 
+## Grade 4 — minerals at work: the fuller list and its uses
+
+The Grade 4 book widens the mineral list again — **sand, stone, coal, limestone, granite, opal, oil, gold, copper** — and this time it follows the minerals to work. Their **uses**: **jewellery, technology goods, building factories, household goods, energy, export income, and factory raw material**.
+
+And the book's method widens too: the list and the uses are **gathered on a field trip, by asking local people** — the quarry worker and the goldsmith are the lesson's second teachers. A mineral is not finished when it is named; it is finished when its use is known.
+
+[Picture 13231 — a quarry and a goldsmith's bench]
+
 ## Say it to your companion
 Lay the mineral collection before your companion: let them sort dug-from-ground against found-on-it, then match each raw mineral to a made product — iron to wire, silver to cross, metal to coin.
 

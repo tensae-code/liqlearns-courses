@@ -7,3 +7,5 @@ Fill in each blank with the right word.
 
 **2. AIDS is caused by the ___ virus.**
 **Answer: HIV**
+**3. AIDS is the stage when the body's ___ has failed and companion diseases begin.**
+**Answer: defence**

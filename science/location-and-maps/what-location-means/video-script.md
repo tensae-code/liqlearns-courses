@@ -13,3 +13,7 @@ Every thing is somewhere. That 'where' is its location.
 In Amharic: መገኛ — megeña.
 
 Now you: where is your bag? Say what is near it.
+
+Where is a place? We say it against the places around it.
+
+And a map? A map draws that 'where' small, on paper, so your eyes can see the whole place at once.

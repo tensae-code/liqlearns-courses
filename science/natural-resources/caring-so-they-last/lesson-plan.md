@@ -19,6 +19,8 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 3. Name the care acts: planting trees, building terraces, protecting wild animals, stopping forest clearing — and ask farmers about erosion causes, the book's field enquiry.
 4. Run the nursery project: prepare a seedling bed at school, raise native tree seedlings, water and tend them, plant them around the school and on bare land.
 
+5. Count the Grade 4 causes of depletion — population's farm-land expansion, wood demand, forest clearing and burning, degradation, pollution, climate change, drought and flood, desert spread, species loss, poverty, erosion — and the protection methods that answer them.
+6. Name the traditional conservation methods — rotation, intercropping, dung and compost, fallow, terracing, contour ploughing, stopping free grazing, fenced no-cut areas — and prepare a care plan for one local resource, the book's project.
 ## What you need
 Seedling bed space at school or home, native tree seed or seedlings, water, a slope that needs a terrace's example to look at.
 
@@ -27,6 +29,7 @@ Seedling bed space at school or home, native tree seed or seedlings, water, a sl
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12177]: a picture of pupils watering seedlings in a school nursery bed — the student names each project step the picture has reached.
    - ADD GIF [GIF 12178]: a picture of a seedling being planted and watered — the student narrates the planting as it happens, step by step.
+   - ADD IMAGE [Picture 13235]: a picture of terraced hillsides with new seedlings — the student names two protection methods the picture shows at once.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -38,6 +41,7 @@ Seedling bed space at school or home, native tree seed or seedlings, water, a sl
 - GIF [GIF 12178] — a picture of a seedling being planted and watered → the student narrates the planting as it happens, step by step.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13235] — a picture of terraced hillsides with new seedlings → the student names two protection methods the picture shows at once.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

@@ -9,3 +9,5 @@ Water takes the bowl's shape. Liquid.
 Air fills the whole balloon. Gas.
 Melt the ice — water. Boil the water — steam. Nothing new was made.
 Three states. Three rules. Now pour, and prove them.
+
+Boiling point. Melting point. Ice, water, steam — **one material, three states**. The candle melts, and sets again. Nothing new is made.

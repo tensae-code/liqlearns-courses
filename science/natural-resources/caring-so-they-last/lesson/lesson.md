@@ -15,6 +15,20 @@ And its **project**, which this course adopts whole: **prepare a seedling bed at
 
 [GIF 12178 — a seedling being planted and watered]
 
+## Grade 4 — why our resources are running down
+
+The Grade 4 book counts the causes plainly: **farm-land expansion for a growing population; rising wood demand for fuel and building; forest clearing and burning for settlement and towns; land degradation and fertility loss; water pollution; climate change and rainfall failure; repeated drought and flood; rising land temperature and desert spread; species loss; poverty and soil erosion.**
+
+And it answers with the protection methods: **plant trees and shrubs; prevent forest fire and cutting; terrace sloping land; replant many seedlings for every tree cut.** The guides carry the same teaching — why conservation is necessary, with the region's own traditional methods beside it (teacher guide — evidence).
+
+## Grade 4 — our own traditional ways of protecting soil and water
+
+Long before the textbook, the region protected its land. The book lists the indigenous, customary methods: **rotating crops; sowing crops together (intercropping); using dung and compost to enrich the soil; resting farm land (fallow); terracing; ploughing sloping land across the slope; stopping free grazing; and fencing off areas where trees are not cut.**
+
+The pupil's work is to **interview parents, community members or agriculture experts** about these ways — and **prepare a care plan for one local resource**. The oldest knowledge in the course is gathered from the oldest people in it.
+
+[Picture 13235 — terraced hillsides with new seedlings]
+
 ## Say it to your companion
 Set the harms and the cares facing each other for your companion: they name a harm, you answer with its care act — washed soil → terraces and trees; fleeing animals → protection; disturbed climate → planting. Finish by showing them your seedling bed's plan.
 

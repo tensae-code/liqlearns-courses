@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — Modern industry — by factory
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A textile factory makes — (answer: clothes, sheets and blankets).
+
+## Sub lesson 4 — Cottage and modern industry — the Grade 4 picture
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Cottage industry works with — (answer: simple hand tools and traditional methods, at small scale).

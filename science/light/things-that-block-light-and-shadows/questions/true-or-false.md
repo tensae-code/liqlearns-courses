@@ -7,3 +7,5 @@ Say whether each sentence is true or false.
 
 **2. A book held to a torch beam makes a dark patch behind it.**
 **Answer: True**
+**3. In the book's experiment the opaque body is placed 5 cm before the candle.**
+**Answer: True**

@@ -26,3 +26,10 @@ a) a crop  b) a modern-industry product  c) a mineral
 a) metal into tools  b) cotton into cloth  c) clay into pots
 **Answer: a) metal into tools** — Blacksmithing works metal.
 
+**7. (Sub lesson 4) Cottage industry (የጎጆ ኢንዱስትሪ) uses —**
+a) complex machines  b) simple hand tools and traditional methods  c) only electricity
+**Answer: b) simple hand tools and traditional methods** — Small scale, by hand and skill.
+
+**8. (Sub lesson 4) Light industry uses as its raw material —**
+a) farm products  b) minerals only  c) imported tools
+**Answer: a) farm products** — Food, textile, sugar, paper and drinks factories work on farm produce.

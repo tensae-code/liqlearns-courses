@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Finding east and west from the sun (teacher guide — evidence)** — the four directions are found from the sun.
 3. **The four main directions, and places beside the road** — facing the sunrise with arms spread, we name all four: east where the sun rises, west where it sets, and north and south to the sides.
 
+4. **The eight directions** — the four sub-directions (NE, NW, SE, SW) added to the four main ones, traced through Alemnesh's day of movements from her house (Grade 4 student pp.1–3).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +26,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "Right and left, front and back, on your own body" teaches, in their own words.
 2. Say and use what the part "Finding east and west from the sun (teacher guide — evidence)" teaches, in their own words.
 3. Say and use what the part "The four main directions, and places beside the road" teaches, in their own words.
+4. Say and use what the part "The eight directions" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -34,6 +37,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
    - ADD IMAGE [Picture 12002]: a picture of a child facing the sunrise with arms spread, directions around — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12035]: a drawn GIF of the sun rising on one side of a house and setting on the other — the student watches the motion, then does or describes the movement themselves.
    - ADD GIF [GIF 12042]: a drawn GIF of a child turning — front, right side, back, left side — in sequence — the student watches the motion, then does or describes the movement themselves.
+   - ADD IMAGE [Picture 12200]: a picture of a compass rose with the eight directions labelled — the student names all eight in order around the rose.
+   - ADD GIF [GIF 12220]: the eight direction labels appearing one by one around a turning child — the student says each label as it appears.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -46,6 +51,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - GIF [GIF 12042] — a child turning: front, right side, back, left side → the student watches, then does or describes the movement.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
+- IMAGE [Picture 12200] — a compass rose with the eight directions labelled → the student names all eight around the rose.
+- GIF [GIF 12220] — the eight direction labels appearing one by one around a turning child → the student says each label as it appears.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

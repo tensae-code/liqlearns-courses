@@ -13,6 +13,18 @@ It does **NOT** spread by touching, by shaking hands, by sharing a latrine, by e
 
 [Picture 12114 — a razor and a needle marked 'do not share', beside children eating together safely]
 
+## Grade 4 — HIV and AIDS in full: the letters, the roads, the walls
+
+The Grade 4 book unpacks the letters. **HIV**: **Human** (found in people), **Immuno-deficiency** (it weakens the body's defence), **Virus**. **AIDS**: **Acquired, Immune, Deficiency, Syndrome** — a set of disease signs together. A person carrying the virus **can look healthy for many years yet pass it on**; **AIDS is the stage when defence has failed** and companion diseases begin.
+
+**How HIV passes**, as the book prints it: **(1)** from mother to child — **in pregnancy, at birth and in breastfeeding**; **(2)** through **unsterilised instruments used on many people** — injection needles, surgical blades, in surgery, circumcision and tattooing; **(3)** through **untested blood products**.
+
+**Prevention**, as printed: the **pregnant mother takes the given medicine and follows medical care**; an **infected mother does not breastfeed**; **instruments confirmed virus-free by health professionals**; **no untested blood products**.
+
+**How HIV does NOT pass**: sharing **workplaces, toilets and washrooms**; **sneezing and coughing**; **handshakes and touching**; **eating together at one table**; **insect bites**; **drinking from one glass**. The two regional guides teach the same transmission and prevention in their cross-cutting units (teacher guide — evidence).
+
+[Picture 13240 — a health worker showing a sterile single-use needle packet]
+
 ## Say it to your companion
 Tell your companion: how HIV spreads, and five ways it does not. Your companion checks you against the picture of the razor and needle marked 'do not share', beside children eating together safely.
 

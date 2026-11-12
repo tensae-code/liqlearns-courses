@@ -9,3 +9,9 @@ Where is the school? Beside the market. Across from the clinic.
 That is relative location — አንጻራዊ መገኛ.
 
 A village, a woreda, a zone: all can be told this way, by what lies around them.
+
+Two ways to fix a place.
+
+By its neighbours — that is relative.
+
+By numbers that never change — latitude and longitude. That is absolute.

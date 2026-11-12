@@ -26,3 +26,10 @@ a) What colour is it?  b) Where is the book?  c) How old is it?
 a) places near it  b) nothing at all  c) only its colour
 **Answer: a) places near it** — We locate a place by what is near it.
 
+**7. (Sub lesson 4) A map is —**
+a) a song about a place  b) a tool that shows where places sit, drawn small  c) a kind of house
+**Answer: b) a tool that shows where places sit, drawn small** — A map shows location on paper.
+
+**8. (Sub lesson 4) Where a place sits is described —**
+a) against other bodies and places  b) by its colour  c) by guessing
+**Answer: a) against other bodies and places** — Location is always told against what is around.

@@ -11,3 +11,6 @@ The book's own task: collect solids from outside the classroom and group them by
 ## State-change watch
 With an adult, watch a kettle or a pot come to the boil. Name each state you see, in order, and say the moment steam appears.
 
+
+## The candle watch (adult-led)
+An adult lights a candle; pupils watch the wax melt near the flame and set again at the edge of the melt pool — the book's second example, seen with their own eyes. Fire belongs to the adult throughout.

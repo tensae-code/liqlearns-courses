@@ -18,6 +18,8 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 2. State the rule: into a waste container, then to a proper disposal place.
 3. Say the consequence of failure: a dirty home and neighbourhood, and people falling sick; and ask, as the book does, how the school compound's waste is handled and how a health worker chooses a disposal site.
 
+4. Add the Grade 4 sorting system: store waste at the source in at least three kinds — usable at once, can rot, cannot rot — with compost from the rotting kind, and the printed safety note: sort without exposing yourself to harm.
+5. Name the five ways of disposing of waste safely — reuse, feed to small animals, compost, burn in a pit or barrel (not open ground), bury in a waste pit — and tell the school waste-site project: build it with the head teacher, run it on a weekly two-pupil rota for a month, report, and teach it at home.
 ## What you need
 A waste container to place or find; the school compound's own waste system to inspect.
 
@@ -26,6 +28,7 @@ A waste container to place or find; the school compound's own waste system to in
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12185]: a picture of peelings being put into a waste basket instead of onto the ground — the student points to the wrong road and the right road in the picture.
    - ADD GIF [GIF 12186]: a picture of dry waste items being sorted into a container, one by one — the student names each item's family as it lands.
+   - ADD IMAGE [Picture 13238]: a picture of three labelled bins — use again, can rot, cannot rot — at a house door — the student sorts five named wastes into the bins.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
@@ -37,6 +40,7 @@ A waste container to place or find; the school compound's own waste system to in
 - GIF [GIF 12186] — a picture of dry waste items being sorted into a container, one by one → the student names each item's family as it lands.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13238] — a picture of three labelled bins — use again, can rot, cannot rot — at a house door → the student sorts five named wastes into the bins.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

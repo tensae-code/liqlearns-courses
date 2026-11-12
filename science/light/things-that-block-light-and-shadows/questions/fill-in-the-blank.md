@@ -7,3 +7,5 @@ Fill in each blank with the right word.
 
 **2. Trees give shade because ___ block the light.**
 **Answer: leaves**
+**3. A ___ is the dark, lightless place behind an opaque body that blocks light.**
+**Answer: shadow**

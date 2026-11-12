@@ -74,3 +74,7 @@ only — those are counted nowhere, and say so.
 Built 2026-11-12, Ethiopia Wave 2, from the placements at
 `liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/`.
 Band records are added to CURRICULUM.md as each band lands.
+Band B (Grade 4) added the Grade 4 books' own framing: the
+student book's introduction and the two regional guides' course
+structure, whose syllabus and answer-key stock is carried in the
+lessons' sources rather than built as lessons.
