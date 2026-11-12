@@ -5944,3 +5944,97 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 34524 | GIF: the giant planets turning, Saturn's rings tilted | science/earth-and-space/the-giant-planets |
 | 34525 | GIF: a comet's tail always pointing away from the Sun | science/earth-and-space/small-bodies-asteroids-comets-and-shooting-stars |
 | 34526 | GIF: a planet sweeping equal areas in equal times on its ellipse | science/earth-and-space/planetary-motion-ellipses-and-keplers-laws |
+| 34100 | The body's seven systems working together | science/the-human-body/the-human-body-systems-working-together |
+| 34101 | Skin — three layers: epidermis, dermis, subcutaneous fat | science/the-human-body/skin-the-integumentary-system |
+| 34102 | Skin care and hair insulation (teacher evidence) | science/the-human-body/skin-the-integumentary-system |
+| 34103 | Muscles pulling in pairs — flexor and extensor | science/the-human-body/muscles-how-movement-happens |
+| 34104 | The skeleton — axial and appendicular parts | science/the-human-body/the-skeleton-frame-joints-and-fractures |
+| 34105 | Joints, ligaments and fracture kinds | science/the-human-body/the-skeleton-frame-joints-and-fractures |
+| 34106 | The digestive system — the food tube (Grade 8 growth) | science/the-human-body/the-digestive-system |
+| 34107 | The lungs and breathing — alveoli close-up (Grade 8 growth) | science/the-human-body/the-lungs-and-breathing |
+| 34108 | The heart — double circulation loop (Grade 8 growth) | science/the-human-body/the-heart |
+| 34109 | Reproduction, puberty and staying safe | science/the-human-body/reproduction-puberty-and-staying-safe |
+| 34120 | GIF: a muscle contracting — thickening as it shortens | science/the-human-body/muscles-how-movement-happens |
+| 34121 | GIF: peristalsis — squeeze ring travelling behind the food bolus | science/the-human-body/the-digestive-system |
+| 34122 | GIF: the bottle-lung model — diaphragm down, lung balloons filling | science/the-human-body/the-lungs-and-breathing |
+| 34123 | GIF: blood dot travelling the double circulation loop | science/the-human-body/the-heart |
+| 25233 | pictures/25233.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — what-gdp-misses |
+| 25234 | pictures/25234.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — seigniorage-the-inflation-tax |
+| 25235 | pictures/25235.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — types-of-unemployment |
+| 25236 | pictures/25236.gif | drawn diagram for the lesson (see the build log media table) | Social Studies — the-business-cycle |
+| 25237 | pictures/25237.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — why-the-short-run-supply-curve-slopes-up |
+| 25238 | pictures/25238.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — market-failure-types-and-remedies |
+| 25239 | pictures/25239.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — public-goods-and-the-free-rider |
+| 25240 | pictures/25240.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — pigouvian-taxes-subsidies-and-the-coase-theorem |
+| 25241 | pictures/25241.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — asymmetric-information-adverse-selection-and-moral-hazard |
+| 25242 | pictures/25242.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — signalling-and-screening |
+| 25243 | pictures/25243.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — consumer-protection-proclamation-no-813-2013 |
+| 25244 | pictures/25244.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — fiscal-policy-the-governments-budget-as-a-lever |
+| 25245 | pictures/25245.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — expansionary-fiscal-policy |
+| 25246 | pictures/25246.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — contractionary-fiscal-policy |
+| 25247 | pictures/25247.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — monetary-policy-the-central-banks-lever |
+| 25248 | pictures/25248.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — open-market-operations |
+| 25249 | pictures/25249.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-discount-rate |
+| 25250 | pictures/25250.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-reserve-requirement |
+| 25251 | pictures/25251.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — expansionary-monetary-policy |
+| 25252 | pictures/25252.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — contractionary-monetary-policy |
+| 25253 | pictures/25253.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — income-policy-wage-and-price-controls |
+| 25254 | pictures/25254.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-minimum-wage |
+| 25255 | pictures/25255.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-foreign-exchange-market |
+| 25256 | pictures/25256.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — fixed-exchange-rates |
+| 25257 | pictures/25257.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — floating-exchange-rates-appreciation-and-depreciation |
+| 25258 | pictures/25258.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — depreciation-devaluation-and-the-trade-balance |
+| 25259 | pictures/25259.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — what-moves-exchange-rates |
+| 25260 | pictures/25260.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — fixed-or-floating-comparing-regimes |
+| 25261 | pictures/25261.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — ethiopias-exchange-rate-reforms-auctions-and-the-interbank-market |
+| 25262 | pictures/25262.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — devaluation-and-inflation-ethiopia-2010-and-2017 |
+| 25263 | pictures/25263.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — what-a-tax-is |
+| 25264 | pictures/25264.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — tax-rate-base-impact-incidence-effect |
+| 25265 | pictures/25265.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-objectives-of-taxation |
+| 25266 | pictures/25266.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — adam-smiths-canons-of-taxation |
+| 25267 | pictures/25267.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — what-makes-a-good-tax-system |
+| 25268 | pictures/25268.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — direct-and-indirect-taxes |
+| 25269 | pictures/25269.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — tax-systems-around-the-world |
+| 25270 | pictures/25270.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — tax-equity-the-benefits-approach |
+| 25271 | pictures/25271.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — tax-equity-ability-to-pay |
+| 25272 | pictures/25272.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — ethiopias-tax-system-federal-and-regional |
+| 25273 | pictures/25273.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — ethiopias-tax-schedules-a-e |
+| 25274 | pictures/25274.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — turnover-tax-excise-and-surtax-in-ethiopia |
+| 25275 | pictures/25275.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — withholding-stamp-duty-customs-and-pension-contributions |
+| 25276 | pictures/25276.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — tax-accounting |
+| 25277 | pictures/25277.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — tax-avoidance-evasion-and-ethiopias-compliance-problem |
+| 25278 | pictures/25278.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — what-poverty-is-the-voices-of-the-poor |
+| 25279 | pictures/25279.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — absolute-and-relative-poverty |
+| 25280 | pictures/25280.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-multidimensional-poverty-index |
+| 25281 | pictures/25281.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — sens-capability-approach |
+| 25282 | pictures/25282.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — functional-and-personal-income-distribution |
+| 25283 | pictures/25283.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — global-poverty-and-sdg-1 |
+| 25284 | pictures/25284.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — women-and-poverty |
+| 25285 | pictures/25285.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — poverty-in-ethiopia-extent-and-measurement |
+| 25286 | pictures/25286.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — idir-ethiopias-burial-societies |
+| 25287 | pictures/25287.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — cottage-industries-and-cooperatives-against-poverty |
+| 25288 | pictures/25288.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — ethiopias-first-five-year-plan-1957-1961 |
+| 25289 | pictures/25289.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — imperial-plans-two-and-three-growth-without-land-reform |
+| 25290 | pictures/25290.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-dergs-socialist-economy-1974-1991 |
+| 25291 | pictures/25291.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — adli-agricultural-development-led-industrialization |
+| 25292 | pictures/25292.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — sdprp-ethiopias-first-poverty-reduction-programme |
+| 25293 | pictures/25293.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — pasdep-the-second-poverty-reduction-strategy |
+| 25294 | pictures/25294.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — gtp-i-growth-and-transformation-plan-i |
+| 25295 | pictures/25295.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — gtp-ii-growth-and-transformation-plan-ii |
+| 25296 | pictures/25296.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — gtp-performance-poverty-jobs-and-the-challenges |
+| 25297 | pictures/25297.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — the-ten-year-development-plan-2021-2030 |
+| 25298 | pictures/25298.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — home-grown-economic-reform-the-macroeconomic-front |
+| 25299 | pictures/25299.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — home-grown-economic-reform-sectoral-and-structural-fronts |
+| 25300 | pictures/25300.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — fiscal-decentralization-and-equalization |
+| 25301 | pictures/25301.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — decentralization-the-disadvantages |
+| 25302 | pictures/25302.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — decentralization-the-advantages |
+| 25303 | pictures/25303.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — renewable-and-non-renewable-resources |
+| 25304 | pictures/25304.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — rural-development-and-environmental-damage |
+| 25305 | pictures/25305.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — cities-and-the-environment |
+| 25306 | pictures/25306.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — population-pressure-on-resources |
+| 25307 | pictures/25307.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — signs-of-a-changing-climate |
+| 25308 | pictures/25308.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — impacts-of-climate-change |
+| 25309 | pictures/25309.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — vulnerability-and-adaptive-capacity |
+| 25310 | pictures/25310.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — mitigation-reducing-emissions |
+| 25311 | pictures/25311.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — adaptation-adjusting-to-climate-change |
+| 25312 | pictures/25312.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — green-economy-and-green-growth |

@@ -395,13 +395,21 @@ here as they land; counts are per band from the build logs.
   ceiling/floor drawn on the wrong sides, swapped labour
   labels, struck-through captions, clipped axis labels) and
   filed the 33 media files. Coverage: 35 of 115 placements.
-  **80 placements were never built** — the full list by number
-  stands in the build log (wave4-econ-E-g12.md); they remain
-  owed as a follow-up build (Band E2), including placement 81
-  (Idir), which gets only comparative treatment inside a
-  standing lesson. Economics therefore closes this wave at
-  492 of 572 placements stocked, with the G12 remainder named,
-  not hidden.
+- **Band E2 — Grade 12 remainder, CLOSED**: the 80 placements
+  named in Band E's record were found already written in the
+  tree (77 as their own lessons, 3 stacked) by the original
+  session's later work; the E2 pass verified all 80 in full —
+  shape, question marks, and every Grade 12 provenance row's
+  printed pages matching its placement exactly, 80/80 — and
+  built the missing media pass: pictures 25233–25311 and GIF
+  25236 (80 files, looked at / frame-checked), markers wired
+  into each lesson. Band total across the 80 lessons: 1,151
+  questions. Placement 81 (Idir) stands as its own lesson in
+  People and Resources. One pre-existing flaw flagged, not
+  silently fixed: what-gdp-misses carries two "Sub lesson 4"
+  headings (the G11 and G12 stacks). Economics is complete:
+  572 of 572 placements, Bands A–F + E2. Build logs:
+  wave4-econ-E-g12.md and wave4-econ-E2-g12-remainder.md.
 
 ## Ethiopia History Grade 11 + Grade 10 placements — built 2026-11-12 (Wave 4 History Band C; pictures 23100–23131 range)
 
