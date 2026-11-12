@@ -1,6 +1,6 @@
 # Sources — Pressure under water — deeper means stronger
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,13 +10,16 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria
 
 **Book 4:** *الفيزياء والكيمياء للصف السابع الأساسي (Physics & Chemistry, Grade 7 Basic)* (student textbook) — Syria, Syrian Arab Republic, Ministry of Education; NCCD developed-curriculum edition, first printed 2017–2018 (title page). Combined physics-and-chemistry book. Grade: 7 · Student book · Release: mid-size-books-4 · Asset: grade-07-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 67,265,164 (matched asset) · PDF pages: 168, with a text layer · Offset: printed page = PDF page − 1 (printed folio 165 on PDF p. 166). Verdict: COMPLETE (final project, the thermal insulating flask, runs to the last pages). Structure (physics): U1 Motion & dynamics; U2 Pressure & Archimedes' thrust; U3 Matter & heat; U4 Matter & energy (atom/sound mixed unit). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
+**Book 5:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pressure grows with depth | Grade 12 Student Textbook, printed pp. 87–90 |
 | p = ρgh derived and applied (swimming-pool problem) | Palestine, *Physics for Grade 10*, Unit 2: Fluids — Statics, printed p. 68 |
 | C. Fluids and pressure in a liquid (programme evidence) | Haiti, *Programme détaillé NS, Physique 1re année*, C. Fluides et pression dans un liquide, printed p. 51 (PDF p. 51) |
 | U2 Pressure in liquids (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U2 Pressure in liquids — printed p. 78 |
+| Density, pressure and buoyancy: Tlak v tekočinah (Pressure in liquids); Tlak zaradi teže tekočine (Pressure caused by the weight of a liquid) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Tlak v tekočinah (Pressure in liquids) — printed p. 212 (unit folder 163); Tlak zaradi teže tekočine (Pressure caused by the weight of a liquid) — printed p. 220 (unit folder 220) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Syria).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Syria, Slovenia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine

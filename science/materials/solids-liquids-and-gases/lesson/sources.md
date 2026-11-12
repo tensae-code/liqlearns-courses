@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia
+countries: Ethiopia, Slovenia
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
+**Book 13:** *FIZIKA 9 — i-učbenik za fiziko v 9. razredu osnovne šole (interactive textbook for Physics in Grade 9 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Robert Repnik, Milan Svetec, Maja Jug, Tomaž Ahčin, Goran Bezjak, Zvonko Jagličič & Marko Gosak; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0199-8; approved by the Expert Council for General Education, 19.6.2014. Grade: 9 · Student (interactive textbook) · Repo path: grade-09/gov/slovenia/fizika-9-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-09-gov-slovenia-fizika-9-iucbenik.zip) · Bytes: 221,315,735 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Premo enakomerno gibanje) to p. 233 (closing tasks) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (433 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Solids keep their shape | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, solids, printed p. 28 |
@@ -24,6 +26,7 @@ countries: Ethiopia
 | Gases spread out (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide (Addis Ababa Bureau)*, §2.4, the states of matter (teacher guide — evidence), printed pp. 36–40 |
 | Changes that make nothing new | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, physical change and the states of matter, printed p. 27 |
 | Changes that make nothing new (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide (Addis Ababa Bureau)*, §2.4, exercise answers on boiling and change of state (teacher guide — evidence), printed pp. 36–40 |
+| Heat and internal energy: Zgradba trdnin, kapljevin in plinov (Structure of solids, liquids and gases) (Slovenia) | Slovenia, *Fizika 9*, Heat and internal energy: Zgradba trdnin, kapljevin in plinov (Structure of solids, liquids and gases) — printed p. 98 (unit folder 182) |
 
 | Boiling, melting and the candle — the Grade 4 depth | Ethiopia, *Grade 4 Student Textbook*, §2.5, printed pp. 53–56 |
 | Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.3, printed pp. 58–61 |
@@ -31,7 +34,7 @@ countries: Ethiopia
 
 | Grade 6 — particles, sublimation, and Experiment 4 | Ethiopia, *Grade 6 Student Textbook*, printed pp. 70–74 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Slovenia).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

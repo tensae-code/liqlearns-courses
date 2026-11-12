@@ -1,13 +1,16 @@
 # Sources — Why ships float
 
-countries: Ethiopia
+countries: Ethiopia, Slovenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
+
+**Book 2:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sinking, floating, and big ships | Grade 12 Student Textbook, printed pp. 98–102 |
+| Also cited — Density, pressure and buoyancy: Vzgon in plavanje (Buoyancy and floating); Plavanje v vodi in zraku (Floating in water and in air) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Vzgon in plavanje (Buoyancy and floating) — printed p. 241 (unit folder 164); Plavanje v vodi in zraku (Floating in water and in air) — printed p. 251 (unit folder 165) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Slovenia).**
 
 Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement

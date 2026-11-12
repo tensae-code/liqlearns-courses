@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -12,9 +12,12 @@ countries: Ethiopia, Gabon (teacher-guide evidence only)
 
 **Book 10:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
+**Book 11:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Wall, table, book — and every shadow | Ethiopia, *Grade 2 Student Textbook*, Chapter 2, materials that block light; shadows and shade, printed pp. 23–25 |
+| Also cited — Light: Svetloba — shadows (Slovenia) | Slovenia, *Fizika 8*, Light: Svetloba — propagation of light and shadows — printed p. 24 (unit folder 141) |
 
 | Grade 4 — the shadow experiment: the dark place behind the blocker | Ethiopia, *Grade 4 Student Textbook*, §2.6 (Experiment 5), printed pp. 60–61 |
 | Grade 4 — the shadow experiment: the dark place behind the blocker (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.4, printed pp. 61–63 |
@@ -24,7 +27,7 @@ countries: Ethiopia, Gabon (teacher-guide evidence only)
 
 | Light and shadow (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 5: Lumière et ombre, printed p. 54 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Slovenia).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
 
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. Teacher-guide rows are evidence and never count as pupil-taught.
 

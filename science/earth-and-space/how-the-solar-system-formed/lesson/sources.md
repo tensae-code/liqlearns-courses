@@ -1,6 +1,6 @@
 # Sources — How the solar system formed — from cloud to Sun
 
-countries: Ethiopia, Ecuador, Finland (teacher-training evidence only)
+countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Ecuador, Finland (teacher-training evidence only)
 
 **Book 3:** *Pieniä digiprojekteja yläkouluun (Small digital projects for lower secondary school)* (teacher-training project booklet — recorded student; in substance a teacher-training booklet) — Finland, Grade 7, Helka Huusko, produced for a teacher pedagogical digital-skills course. Repo path: grade-07/gov/finland/physics/student/finland-g07-aoe2077-digi-ideoita-ylakoulun-matemaattisiin-aineisiin.pdf. Bytes: 3,246,500 (exact match). PDF pages: 21. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 21 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
+**Book 4:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The nebula: the solar system defined, its 4.5-billion-year age, the nebula's makeup, gravity's collapse and the flattening, faster-spinning disk | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 154–156 |
 | Sub lesson 2 — Fusion lights the Sun: the core reaching about 10 million °C and hydrogen fusing into helium | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 154–156 |
 | The Milky Way — our galaxy as a school tema (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 17 La Vía Láctea, printed p. 217 |
 | Galaxies and presenting a chosen planet — pupil video topics (teacher-training evidence) | Finland, *Pieniä digiprojekteja yläkouluun*, Physics project, pupil video topics, PDF pp. 4–6 |
+| Universe: Objekti v vesolju in našem osončju (Objects in space and our Solar System) (Slovenia) | Slovenia, *Fizika 8*, Universe: Objekti v vesolju in našem osončju (Objects in space and our Solar System) — printed p. 60 (unit folder 145) |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Slovenia).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
 
 No book errors attach to this item. The layered-observation opening activity of the unit (look, look closer, uncover, open) is reflected in this lesson's Do-it-first.
 

@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only)
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -8,16 +8,19 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-gui
 
 **Book 3:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
+**Book 4:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravity at every position of a falling ball | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
 | Weight W = mg, g = 9.8; weight varies where gravity varies | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
 | The newton meter — spring, hook, support, scale; the 100/200/300 g practical | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
 | Weight depends on gravity (the Moon comparison) while mass stays the same (instructor pack — evidence) | Finland, *Fysiikkaa: Tutkitaan ilmaa ja lämpöä*, Lesson 3 discussion, weight vs mass, PDF p. 9 |
+| Also cited — Forces: Teža in težišče (Weight and centre of gravity) (Slovenia) | Slovenia, *Fizika 8*, Forces: Teža in težišče (Weight and centre of gravity) — printed p. 125 (unit folder 153) |
 
 | Gravity — why things fall, opening the Earth thread (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 3: La gravité, printed p. 28 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Slovenia).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
 
 Placement: Student item 83 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK NOTE: the student book's contents lists §7.4.2 twice (gravity, then measuring force; the second should be §7.4.3) — a contents misprint only; the body sections are taught here in their true order.
 
