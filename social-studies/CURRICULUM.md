@@ -421,3 +421,25 @@ wave4-hist-E-g12-guide-evidence.md.
   created (the titles are new), guide content folded as
   labelled evidence, guide-only lessons on the 0-countries
   line. Worked answers checked before teaching.
+
+## Ethiopia Grade 12 Geography remainder — built 2026-11-12 (Wave 4 Geography Band F; pictures/GIFs 22400–22469)
+
+50 lessons, 600 questions (coordinator-verified on disk — the
+band's session ended before it wrote its build log, so this
+record was compiled from the tree itself: every lesson checked
+for the full standard shape, questions counted file by file,
+media verified 1:1). Units 1, 3, 4 and 5 of the G12 book: the
+physical-geography stock in The Land and Air (plate boundaries,
+folding, faulting, weathering, mass wasting — the lesson names
+Band C's book did not carry arrive here from the G12 book), the
+population stock in Population, Transport and Maps (Malthus,
+neo-Malthusians, Boserup and Simon, Bucharest to Cairo, the
+optimum-population depth at printed pp. 162–168), poverty and
+resource-governance stock in People and Resources / Resources
+and Conflict — including "Ethiopia's own ways of making peace
+— Gadaa, Shimagle, Mada'a, T'eer", the lesson Band A could not
+build for want of a G9 placement, which stands here on its G12
+placement. Three guide-evidence lessons carry the 0-countries
+line (Ethiopia/Horn land-wildlife-soils, Ethiopia's population
+policy, Ethiopia's economy and the PASDEP plan). With this
+band, Geography is complete: 459 placements, Bands A–F.
