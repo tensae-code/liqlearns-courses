@@ -226,6 +226,33 @@ guide material is syllabus-level teacher evidence
 only. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSJ-science-g8-u3.md`.
 
+Band GS-G (Grade 7, Unit 7 — Force, Motion and
+Energy): 16 new lessons, 192 questions, 23 media filed
+(pictures/GIFs 33300–33322). Fourteen open the NEW
+title Motion, Force and Energy (TITLES entry 20; Unit
+20 below) — reference points, the four kinds of
+motion, distance and speed, displacement and velocity,
+acceleration, force and its families, gravity, weight
+and the newton meter (W = mg), Newton's three laws as
+separate experiment-led lessons, kinetic and potential
+energy with back-calculation, energy forms and
+conversions, sources and using energy wisely, and the
+unit problem set. Every worked number was checked as
+written. The Materials title's primary-depth treatments
+of this ground are cross-referenced, not grown or
+copied — the Grade 7 unit is a different, deeper
+treatment. Two guide-only lessons stand in Our
+Environment (resource depletion; environmental
+degradation), teacher evidence only, acceptance 0.
+Book errors taught corrected and flagged in sources:
+§7.3.1's Given block (30 s against its own 50 s
+working — 50 s used), the duplicated energy-conservation
+paragraph (taught once), the contents' double §7.4.2
+(contents misprint only). Pairing carried exactly: the
+Grade 7 guide is an Addis Ababa bureau book, NOT
+edition-matched to the Amhara student book. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSG-science-g7-u7.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -418,6 +445,8 @@ only. Build log:
 9. **What waste is and its three kinds** (`our-environment/what-waste-is-and-its-three-kinds`) — waste is what is left over after things are used — leftover food and products, human and animal waste — and it comes in three states: solid waste, …
 10. **Cycles — the carbon cycle** (`our-environment/cycles-the-carbon-cycle`) — carbon travels in a loop — released into the air by respiration and burning, taken in by plants for photosynthesis, passed to animals that eat the plants, returned by death and decomposition, and stored away in fossil fuels until burning releases it again (Grade 7 General Science)
 11. **Cycles — the water cycle** (`our-environment/cycles-the-water-cycle`) — water travels in an endless loop — evaporation and transpiration rise, condensation gathers the vapour into clouds, precipitation returns it as rain, and flow carries it back to the water bodies (Grade 7 General Science)
+12. **Energy resources — resource depletion and its drivers** (`our-environment/energy-resources-resource-depletion-and-its-drivers`) — resource depletion is using a resource faster than it can be replenished until it is exhausted — driven by seven named drivers — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+13. **Energy resources — environmental degradation and its effects** (`our-environment/energy-resources-environmental-degradation-and-its-effects`) — environmental degradation is the environment's deterioration, chiefly through resource depletion — and its effects fall in five families: human health, biodiversity and more — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
 
 ## Unit 12 — Family, School and Community
 
@@ -1416,3 +1445,21 @@ only. Build log:
 4. **The Earth — four spheres, one system** (`earth-and-space/the-earths-four-spheres`) — the Earth works as four joined spheres — lithosphere, hydrosphere, biosphere and atmosphere — so interdependent that a change in any one of them changes the others (Grade 7 General Science)
 5. **The Earth — the atmosphere and its five layers** (`earth-and-space/the-atmosphere-and-its-five-layers`) — the atmosphere known two ways: by what it is made of (mostly nitrogen, then oxygen, with argon, carbon dioxide and the rare gases) and by its five stacked layers, from the troposphere to the exosphere — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
 6. **Measuring the too-big and the too-small** (`earth-and-space/measuring-the-too-big-and-the-too-small`) — some quantities cannot be measured directly — the Earth is too big to wrap a tape around, and continental drift is too slow to watch — so science measures them indirectly — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+
+
+## Unit 20 — Motion, Force and Energy
+
+1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
+2. **Motion — four kinds of motion** (`motion-force-and-energy/motion-four-kinds-of-motion`) — motions sort by their path into four kinds — linear, oscillatory, curvilinear and rotational (Grade 7 General Science)
+3. **Motion — distance and speed** (`motion-force-and-energy/motion-distance-and-speed`) — distance is the total length of the path travelled, and average speed = total distance ÷ total time — measured for real in the ball-rolling practical (Grade 7 General Science)
+4. **Motion — displacement and velocity** (`motion-force-and-energy/motion-displacement-and-velocity`) — displacement is distance travelled in a specified direction — the straight change from start to finish — and velocity = change of displacement ÷ time (Grade 7 General Science)
+5. **Motion — acceleration** (`motion-force-and-energy/motion-acceleration`) — acceleration is the rate of change of velocity — a = Δv/Δt — positive when speeding up, negative when slowing down, zero at steady velocity (Grade 7 General Science)
+6. **Force — what force is and what it does** (`motion-force-and-energy/force-what-force-is-and-what-it-does`) — a force is an interaction between bodies that acts by contact (push, pull) or across a gap without contact (gravity, magnetism, electric force) (Grade 7 General Science)
+7. **Force — gravity, weight and the newton meter** (`motion-force-and-energy/force-gravity-weight-and-the-newton-meter`) — weight is gravity's force on a mass — W = mg with g = 9.8 — and force is measured with the newton meter, whose spring stretches in proportion to the force (Grade 7 General Science)
+8. **Force and motion — Newton's first law** (`motion-force-and-energy/force-and-motion-newtons-first-law`) — a body at rest stays at rest, and a body in motion keeps constant velocity, unless a net external force acts on it; inertia is the name of that resistance (Grade 7 General Science)
+9. **Force and motion — Newton's second law** (`motion-force-and-energy/force-and-motion-newtons-second-law`) — read off the cart experiment: acceleration is proportional to the net force, inversely proportional to the mass, and in the force's direction (Grade 7 General Science)
+10. **Force and motion — Newton's third law** (`motion-force-and-energy/force-and-motion-newtons-third-law`) — every action has an equal and opposite reaction, and the pair never cancels because the two forces act on two different bodies (Grade 7 General Science)
+11. **Energy — kinetic and potential energy** (`motion-force-and-energy/energy-kinetic-and-potential-energy`) — energy is the ability to cause change — measured in joules — kinetic energy KE = ½mv², the energy of moving, and potential energy, the energy of position (Grade 7 General Science)
+12. **Energy — forms and conversions** (`motion-force-and-energy/energy-forms-and-conversions`) — energy wears eight named forms — electrical, thermal, sound, radiant, chemical, nuclear, gravitational and mechanical — and its story is conversion from form to form (Grade 7 General Science)
+13. **Energy — sources, and using energy wisely** (`motion-force-and-energy/energy-sources-and-using-energy-wisely`) — energy sources split into non-renewable (finite) and renewable (endless) — and because the finite ones run out, energy must be used wisely (Grade 7 General Science)
+14. **Force, motion and energy — problem set** (`motion-force-and-energy/force-motion-and-energy-problem-set`) — the unit's review problems worked as one set — reading a speed–time graph, gravity on a falling ball, kinetic energy calculated backwards (Grade 7 General Science)
