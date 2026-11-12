@@ -1,0 +1,53 @@
+# Lesson plan — VSEPR — the shapes of molecules
+
+**Course:** Science · **Title:** Chemistry · **Lesson:** VSEPR — the shapes of molecules
+**Place in the curriculum:** Unit 2 — Chemical Bonding (Grade 11 Chemistry).
+**The one thing this lesson teaches:** VSEPR theory: electron pairs around a central atom repel each other and arrange themselves as far apart as possible — the arrangement fixes the molecule's shape.
+**This lesson's own level:** it stands on the Grade 11 Chemistry lessons before it in Unit 2 — Chemical Bonding — and on the learner's earlier chemistry. It needs nothing else.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide.
+
+## Sub lessons
+1. **Repulsion decides the shape** — VSEPR theory: electron pairs around a central atom repel each other and arrange themselves as far apart as possible — the arrangement fixes the molecule's shape.
+2. **The classic shapes and angles** — The classic shapes: linear (180°), trigonal planar (120°), tetrahedral (109.
+3. **Lone pairs squeeze** — Lone pairs repel more strongly than bonding pairs, so they squeeze bond angles — water's pairs give it a bent shape, ammonia a pyramidal one.
+4. **Shape and the polar molecule** — Shape plus bond polarity decides whether the molecule itself is polar.
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: the earlier Grade 11 Chemistry lessons, especially the lessons of Unit 2 before this one. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Answer, in their own words: what does VSEPR stand on?
+2. Answer, in their own words: what is the tetrahedral bond angle?
+3. Answer, in their own words: which repels more, lone or bonding pairs?
+4. Answer, in their own words: what shape is water?
+
+## What you need
+Paper and a pencil. Any practical work named in this lesson belongs in a supervised school laboratory, following the book's own safety teaching — see hands-on.md.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner attempts the opening task in lesson/lesson.md before any explanation.
+2. **The explanation** — the lesson text in lesson/lesson.md, in the book's own order.
+   - ADD IMAGE [Picture 21640]: a picture of five shapes, fixed by repulsion. — the student studies it and names each labelled part aloud.
+   - ADD GIF [GIF 21641]: a lone pair squeezing bond angles — the student watches the motion and says what changes and what stays the same.
+   - ADD AUDIO: a voice reading the lesson text aloud — the student listens and follows the text (described slot only; no audio file is made in this build).
+3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
+   - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
+4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE [Picture 21640] — a picture of five shapes, fixed by repulsion. → the student names each labelled part aloud.
+- GIF [GIF 21641] — a lone pair squeezing bond angles → the student watches and describes the change.
+- AUDIO — a voice reading the lesson text aloud (described slot only) → the student listens and follows.
+- VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
+
+## If the learner is stuck
+- Send them back to the Do it first task and let them re-attempt it with the explanation open beside it.
+- Ask which of the lesson's key ideas the stuck point belongs to, and re-read only that part together.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
