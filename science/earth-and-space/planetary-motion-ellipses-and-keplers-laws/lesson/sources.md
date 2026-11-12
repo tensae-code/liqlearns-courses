@@ -1,0 +1,23 @@
+# Sources — Planetary motion — ellipses and Kepler's laws
+
+countries: Ethiopia
+
+**Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
+
+**Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp (141 printed pp). Printed page = PDF page. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Activity 6.9's marble sky: fixed stars, month-by-month sight-lines, retrograde drift | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 171–172 |
+| Sub lesson 2 — Kepler's three laws and Activity 6.10's ellipse drawing with eccentricity | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 172–174 |
+| Ethiopia in space — ESSTI, Ethiopia's two satellites and the Entoto Observatory (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 6, printed pp. 103–107 (teacher evidence; pairing warning in this file) |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
+
+GUIDE KEY ERRORS, corrected before use: the guide's Exercises 6.2/6.4 answer keys print the WRONG planet order (Mercury, Mars, Earth, Venus…); the guide's own end-of-unit key (printed p. 114) gives the correct order — Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune — and that correct order is used everywhere in this build. The guide keys' moon counts (Jupiter 67, Saturn 62) are dated, and the student book's printed moon counts (Jupiter 16, Saturn 31, Uranus 21, Neptune 11) are also dated: where moon counts appear, they are taught as the book's figures, flagged as of the book, never presented as current.
+
+The ellipse-construction craft and the ESSTI / Ethiopian satellites material in Sub lesson 2 come from the teacher guide (guide item 19, printed pp. 103–107) and are labelled teacher evidence wherever they appear; the guide's Venus-watch project (Project 6.1) is carried in hands-on.md.
+
+Searchable tags: Kepler's laws, ellipse, eccentricity, foci, retrograde marble model, ESSTI, Entoto Observatory, Ethiopia satellites, Ethiopia Grade 8 General Science Unit 6

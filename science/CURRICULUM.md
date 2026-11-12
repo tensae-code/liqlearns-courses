@@ -253,6 +253,34 @@ Grade 7 guide is an Addis Ababa bureau book, NOT
 edition-matched to the Amhara student book. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSG-science-g7-u7.md`.
 
+Band GS-M (Grade 8, Unit 6 — The Solar System): 13
+new lessons in Earth and Space, 156 questions, 20
+media filed (pictures 34500–34512, GIFs 34520–34526)
+— how the solar system formed, the two families of
+planets, Earth-centred or Sun-centred, the Sun,
+terrestrial against giant planets, the rocky planets,
+the giant planets, planets by the numbers, small
+bodies, planetary motion and Kepler's laws, and the
+unit review; plus two guide-only lessons (comparing
+the planets by model; Earth suited for life),
+acceptance 0. Guide item 19 (ESSTI and Ethiopian
+satellites) is filed as labelled teacher evidence
+inside the Kepler and review lessons. Disposition of
+the errors, exactly: the guide's wrong planet order
+in Exercises 6.2/6.4 was NOT used — the guide's own
+end-of-unit key (p. 114) is correct and was followed;
+moon counts on both sides are dated — the student
+book's figures are taught as the book's figures,
+flagged; Activity 6.7's Sun-distances are taught
+CORRECTED (Mars and the outer planets), with the
+corrected figures listed in sources; Pluto is taught
+with its 2006 demotion, and the book's spelling
+misprints were never reproduced. Pairing carried
+exactly: the Grade 8 guide is a federal new-syllabus
+book, NOT edition-matched to the Amhara student book.
+Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSM-science-g8-u6.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -1445,6 +1473,19 @@ edition-matched to the Amhara student book. Build log:
 4. **The Earth — four spheres, one system** (`earth-and-space/the-earths-four-spheres`) — the Earth works as four joined spheres — lithosphere, hydrosphere, biosphere and atmosphere — so interdependent that a change in any one of them changes the others (Grade 7 General Science)
 5. **The Earth — the atmosphere and its five layers** (`earth-and-space/the-atmosphere-and-its-five-layers`) — the atmosphere known two ways: by what it is made of (mostly nitrogen, then oxygen, with argon, carbon dioxide and the rare gases) and by its five stacked layers, from the troposphere to the exosphere — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
 6. **Measuring the too-big and the too-small** (`earth-and-space/measuring-the-too-big-and-the-too-small`) — some quantities cannot be measured directly — the Earth is too big to wrap a tape around, and continental drift is too slow to watch — so science measures them indirectly — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+7. **How the solar system formed — from cloud to Sun** (`earth-and-space/how-the-solar-system-formed`) — the solar system formed about 4.5 billion years ago from part of a nebula — a huge rotating cloud of gas and dust — whose densest part collapsed (Grade 8 General Science)
+8. **Two families of planets — rocky inside, giants outside** (`earth-and-space/two-families-of-planets`) — the young Sun's heat sorted the planets: small rocky planets near the Sun, huge giants far out (Grade 8 General Science)
+9. **Earth-centred or Sun-centred? — judging two models** (`earth-and-space/earth-centred-or-sun-centred`) — two models of the heavens — Earth at the centre, or the Sun at the centre — are judged on evidence, and the Sun-centred model wins (Grade 8 General Science)
+10. **The Sun — its scale, layers, spots and storms** (`earth-and-space/the-sun-scale-layers-spots-and-storms`) — the Sun is 108 Earth-diameters wide and holds 98% of the system's mass; its air layers run photosphere, chromosphere, corona — and its face carries spots and storms (Grade 8 General Science)
+11. **Terrestrial planets vs gas giants — the twelve-row contrast** (`earth-and-space/terrestrial-planets-vs-gas-giants`) — the two planet families differ on twelve rows at once — distance, spacing, mass, radius, composition, surface, density, rotation, moons, rings, atmosphere and more (Grade 8 General Science)
+12. **The rocky planets — Mercury, Venus, Earth and Mars** (`earth-and-space/the-rocky-planets`) — the four terrestrial planets one by one: cratered Mercury, cloud-hidden Venus baked by its own greenhouse, water-bearing Earth, and Mars (Grade 8 General Science)
+13. **The giant planets — Jupiter, Saturn, Uranus and Neptune** (`earth-and-space/the-giant-planets`) — the four giants one by one: Jupiter with its four great moons, ringed Saturn and its moon Titan, sideways-rolling Uranus, and deep-blue Neptune (Grade 8 General Science)
+14. **Planets by the numbers — the data-table investigation** (`earth-and-space/planets-by-the-numbers`) — one table — density, diameter, Sun-distance, day length and year length for all eight planets — is interrogated until it gives up the two families; the Sun-distances are taught corrected (Grade 8 General Science)
+15. **Small bodies — asteroids, comets, and shooting stars that land** (`earth-and-space/small-bodies-asteroids-comets-and-shooting-stars`) — Pluto, reclassified a dwarf planet in 2006; the asteroid belt between Mars and Jupiter; comets whose tails always point away from the Sun (Grade 8 General Science)
+16. **Planetary motion — ellipses and Kepler's laws** (`earth-and-space/planetary-motion-ellipses-and-keplers-laws`) — planets wander against the fixed stars — stated in Kepler's three laws: elliptical orbits with the Sun at one focus, equal areas in equal times, and the period–distance law (Grade 8 General Science)
+17. **The solar system — review and concept map** (`earth-and-space/the-solar-system-review-and-concept-map`) — the whole unit, gathered: ordering Moon, Saturn, Earth, star and Sun by size, and comparing every planet against the rest (Grade 8 General Science)
+18. **Comparing the planets — a model of distance, size and behaviour** (`earth-and-space/comparing-the-planets-model`) — the guide teaches planet comparison as model-building — one scaled model, built on the playground or with string and a bead — teacher-guide evidence only, acceptance 0 (Grade 8 General Science)
+19. **Earth — the planet suited for life** (`earth-and-space/earth-the-planet-suited-for-life`) — the guide's nine reasons Earth can hold life — liquid water, the right distance, the right temperature, the right moon and more — teacher-guide evidence only, acceptance 0 (Grade 8 General Science)
 
 
 ## Unit 20 — Motion, Force and Energy
