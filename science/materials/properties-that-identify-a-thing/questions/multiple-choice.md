@@ -33,3 +33,18 @@ a) 100 °C  b) 78 °C  c) 0 °C
 a) physical property  b) chemical property  c) measurement
 **Answer: b) chemical property**
 
+**9. (Sub lesson 1)** In Experiment 2.3, which two substances dissolve in water?
+a) oil and sand  b) salt and sugar  c) sand and salt
+**Answer: b) salt and sugar** — they vanish into the water.
+
+**10. (Sub lesson 1)** Which is a physical property?
+a) flammability  b) solubility  c) reaction with acid
+**Answer: b) solubility** — seen without changing the substance.
+
+**11. (Sub lesson 2)** Lemon juice curdling milk shows a —
+a) physical property  b) chemical property
+**Answer: b) chemical property** — a new substance forms.
+
+**12. (Sub lesson 2)** A nail heated in a flame —
+a) becomes a new substance  b) only heats; it stays a nail
+**Answer: b) only heats; it stays a nail** — unlike paper, which burns.

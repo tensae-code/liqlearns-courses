@@ -21,3 +21,8 @@ Say whether each sentence is true or false.
 **7. The deodorant in Experiment 4 stayed in its corner.**
 **Answer: False**
 
+**8. (Sub lesson 6)** A liquid keeps its own shape in any container.
+**Answer: False** — a liquid takes the container's shape; it keeps only its volume.
+
+**9. (Sub lesson 6)** Gas particles are far apart and weakly attracted.
+**Answer: True** — Table 2.1.

@@ -22,6 +22,13 @@ The Grade 5 book sets the two change kinds side by side. In a **physical change*
 
 [Picture 13447 — the state-change cross and the two-column comparison of changes]
 
+
+## Sub lesson 3 — Grade 7: crushed chalk against chalk in vinegar
+
+The Grade 7 book carries the whole distinction in one spoon. **Crush chalk**: the pieces are smaller, but every piece is **still chalk** — a **physical change** alters form or appearance only, forms **nothing new**, and is **easily reversed**. Now drop chalk into **vinegar**: it **fizzes** — a gas forms, the chalk is eaten away into new substances. That is a **chemical change**: it **forms new substances with new properties**, is **hard to reverse**, and **involves an energy change**. The book's Table 2.3 fixes the contrast in those three rows: what forms, how easily it reverses, and the energy that moves.
+
+[GIF 32312 — vinegar dropped on chalk powder, fizzing]
+
 ## Say it to your companion
 Tell your companion both experiments from memory: what was done, what was seen, and why each one proves a chemical change — a new body made.
 

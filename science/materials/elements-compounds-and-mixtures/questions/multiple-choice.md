@@ -26,3 +26,18 @@ a) a thought  b) salt  c) air in a balloon
 a) liquid metal exception  b) only metalloid  c) a compound
 **Answer: a) liquid metal exception**
 
+**7.** How many elements are known (Grade 7 book)?
+a) 92  b) 118  c) 200
+**Answer: b) 118** — 92 of them are natural.
+
+**8.** The liquid metal is —
+a) bromine  b) mercury  c) lead
+**Answer: b) mercury** — the exception among metals.
+
+**9.** Boron, silicon and germanium are —
+a) metals  b) non-metals  c) metalloids
+**Answer: c) metalloids** — between the two.
+
+**10.** In Experiment 2.4, copper is known by its —
+a) smell  b) reddish-brown colour  c) lightness
+**Answer: b) reddish-brown colour** — diagnostic on sight.

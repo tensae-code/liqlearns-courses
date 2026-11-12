@@ -49,3 +49,8 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+Grade 7 sections added to lesson/lesson.md (no new sub lessons — the growth deepens Sub lesson 1, physical properties, with Experiment 2.3, and Sub lesson 2, chemical properties, with the Grade 7 examples): the full physical-property list used for identification; lemon curdling milk; paper vs nail; flammability and reaction with acids, water and air.
+- ADD IMAGE [Picture 32308]: a picture of the four Experiment 2.3 substances in water — the student says which dissolved and how they know the salt is still there.
+- ADD IMAGE [Picture 32309]: a picture of paper burning beside a nail only glowing — the student says which one shows a chemical property.

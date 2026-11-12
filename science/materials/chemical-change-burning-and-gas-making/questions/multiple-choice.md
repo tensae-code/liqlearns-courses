@@ -33,3 +33,14 @@ a) a precipitate forms  b) the thing gets bigger only  c) it is moved
 a) yes, by cooling  b) no, never  c) only by freezing
 **Answer: b) no, never**
 
+**9. (Sub lesson 3)** Crushed chalk is still chalk, so crushing is a —
+a) chemical change  b) physical change
+**Answer: b) physical change** — form only; nothing new forms.
+
+**10. (Sub lesson 3)** Chalk fizzing in vinegar shows a chemical change because —
+a) it gets wet  b) a gas forms and new substances appear  c) it changes shape
+**Answer: b) a gas forms and new substances appear**
+
+**11. (Sub lesson 3)** Which change is hard to reverse?
+a) a physical change  b) a chemical change
+**Answer: b) a chemical change** — Table 2.3.

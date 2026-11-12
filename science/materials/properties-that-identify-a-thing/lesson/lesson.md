@@ -20,6 +20,19 @@ The Grade 5 book splits properties by what testing does to the thing. **Physical
 
 [Picture 13446 — two glasses — sugar vanishing, sand sitting — and the boiling-point set-up]
 
+
+## Grade 7 — physical properties at the bench: Experiment 2.3
+
+The Grade 7 book widens the identity card. A **physical property** is observable **without changing the substance**: colour, taste, texture, odour, state, density, hardness, solubility, conductivity, melting and boiling points, and magnetism — and substances are **identified** by them. **Experiment 2.3** tests salt, oil, sand and sugar for state, colour and solubility in water: the salt and sugar vanish into the water (they dissolve); the oil floats; the sand sits at the bottom. The vanishing is a physical change — taste or evaporation proves the salt is still itself.
+
+[Picture 32308 — the four Experiment 2.3 substances in water: two dissolved, oil floating, sand sunk]
+
+## Grade 7 — chemical properties: seen only in change
+
+A **chemical property** shows itself **only when a substance becomes something new**: lemon juice curdling milk; paper burning where a nail merely heats and stays a nail. The book's named chemical properties are **flammability** and **reaction with acids, with water and with air** — wood burning to water and carbon dioxide anchors the idea: you cannot see flammability in the wood until the change happens.
+
+[Picture 32309 — paper aflame beside a nail merely glowing at its tip]
+
 ## Say it to your companion
 Give your companion a thing's property list — no name — and let them guess the thing. Then explain the two families: physical (the thing unchanged) and chemical (a new thing made).
 

@@ -8,3 +8,5 @@ Fill each blank with the right word.
 **2. In a solution the dissolver is the ______ (አሟሚ).**
 **Answer: solvent**
 
+**3.** Separation ______ the components of a mixture.
+**Answer: purifies**

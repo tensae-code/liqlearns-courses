@@ -9,3 +9,6 @@ Pass mark: the learner can describe, predict, burn with tongs (adult), compare: 
 Pass mark: the learner can lemon juice and yeast make gas; the balloon over the bottle's neck inflates — gas forming is a chemical change — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).
 
 Grade 5 depth (added 2026-11-12): the pass mark grows — the learner also names the four state changes with their Amharic arrow labels, recites the seven signs, and separates the two change kinds on Table 3.2's four rows.
+
+## Sub lesson 3 — Grade 7: crushed chalk against chalk in vinegar
+Sub lesson 3 questions from the type files. Pass mark: tell the two chalk treatments apart, and state Table 2.3's contrast — new substances or not, ease of reversing, energy change.

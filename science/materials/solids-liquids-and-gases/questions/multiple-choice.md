@@ -40,3 +40,18 @@ a) shape  b) volume  c) temperature always
 a) melting  b) deposition  c) boiling
 **Answer: b) deposition**
 
+**11. (Sub lesson 6)** In Experiment 2.2, which syringe compresses easily?
+a) the powder  b) the water  c) the air
+**Answer: c) the air** — only a gas has wide spaces to squeeze away.
+
+**12. (Sub lesson 6)** A sun-heated balloon bursts sooner because heated particles —
+a) shrink  b) push harder  c) vanish
+**Answer: b) push harder** — heat speeds particles and raises pressure.
+
+**13. (Sub lesson 6)** Sublimation (teacher guide — evidence) is —
+a) solid to liquid  b) solid straight to gas  c) gas to liquid
+**Answer: b) solid straight to gas** — no liquid stage between.
+
+**14. (Sub lesson 6)** Deposition (teacher guide — evidence) is —
+a) gas straight to solid  b) liquid to gas  c) solid to liquid
+**Answer: a) gas straight to solid** — sublimation's opposite.

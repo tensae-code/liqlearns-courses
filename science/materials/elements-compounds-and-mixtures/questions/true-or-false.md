@@ -11,3 +11,5 @@ Say if each one is true or false.
 **3. About 115 elements are known.**
 **Answer: True**
 
+**4.** A pure substance has a fixed composition.
+**Answer: True** — a mixture does not.

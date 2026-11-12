@@ -10,3 +10,5 @@ Fill in each blank with the right word.
 **3. Liquid → gas is ______ (ፈሳሽ→ጋዝ).**
 **Answer: evaporation**
 
+**4. (Sub lesson 3)** The fizz when vinegar meets chalk is a ______ forming.
+**Answer: gas**

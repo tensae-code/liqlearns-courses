@@ -11,3 +11,5 @@ Say if each one is true or false.
 **3. Distillation uses evaporation and then condensation.**
 **Answer: True**
 
+**4.** A mixture has a fixed ratio of its parts.
+**Answer: False** — no fixed ratio — that is a compound's mark.

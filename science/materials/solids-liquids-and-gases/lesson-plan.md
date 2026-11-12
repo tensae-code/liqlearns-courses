@@ -71,3 +71,11 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+6. **Grade 7: the three states compared, compression, and the two changes the pupil book omits** — Table 2.1's full comparison; Experiment 2.2's three syringes (only gas compresses); the sun-heated balloon; sublimation and deposition added as labelled teacher-guide evidence (the pupil book omits them).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+- ADD IMAGE [Picture 32304]: a picture of the three states as particle diagrams — the student says which state compresses and why.
+- ADD GIF [GIF 32305]: ice melting then water steaming — the student names both changes.
+- ADD IMAGE [Picture 32307]: a picture of the six-arrow state-change diagram — the student points out the two new arrows.
+- ADD GIF [GIF 32306]: a solid vanishing straight into vapour — the student names sublimation (teacher guide — evidence).

@@ -12,3 +12,8 @@ Fill in each blank with the right word.
 **4. Iodine and solid carbon dioxide change by ______ (ዝልትነት).**
 **Answer: sublimation**
 
+**5. (Sub lesson 6)** Of the three states, only ______ compresses easily.
+**Answer: gas** — Experiment 2.2.
+
+**6. (Sub lesson 6)** A gas changing straight into a solid is ______ (teacher guide — evidence).
+**Answer: deposition**

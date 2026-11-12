@@ -44,3 +44,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+A Grade 7 section added to lesson/lesson.md (the lesson keeps its one-whole-lesson shape): pure substances and fixed composition; 118 elements, 92 natural; metals / non-metals / metalloids with the mercury and bromine exceptions; Experiment 2.4's six elements; compounds in fixed ratio, written by formula.
+- ADD IMAGE [Picture 32310]: a picture of the six Experiment 2.4 elements with their labels — the student identifies one element from its colour alone and defends the identification.

@@ -40,3 +40,15 @@ Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE (printed pp. 1–177).
 
 Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+
+**Grade 7 Student Textbook:** *General Science Student Textbook, Grade 7* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed; PDF 207 pp, printed = PDF − 8, COMPLETE.
+**Grade 7 Teacher Guide:** *General Science Teacher's Guide, Grade 7* — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023, authors Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede; PDF 236 pp, printed = PDF − 15, COMPLETE. PAIRING WARNING: this guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus/unit order, different activity numbering; guide material is syllabus-level teacher evidence, never a page-key to the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 7: Table 2.1 comparison of the three states; Experiment 2.2 syringe compression; sun-heated balloon | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 34–37 |
+| Sublimation and deposition — the two state changes the student book omits (teacher guide — evidence) | Ethiopia, *General Science Teacher's Guide, Grade 7*, Unit 2, printed pp. 18–20 |
+
+Acceptance count unchanged: taught in 1 country (Ethiopia) — the guide rows are teacher evidence and never count as pupil-taught.

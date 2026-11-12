@@ -16,3 +16,5 @@ Say whether each sentence is true or false.
 **5. A chemical property can be seen without the matter reacting.**
 **Answer: False**
 
+**6. (Sub lesson 1)** Substances can be identified by their physical properties.
+**Answer: True** — that is Experiment 2.3's work.

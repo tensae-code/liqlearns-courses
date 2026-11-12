@@ -53,6 +53,25 @@ formula and equation in the band was tally-checked; no
 unbalanced equation stands. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSC-science-g7-u3.md`.
 
+Band GS-B (Grade 7, Unit 2 — Matter in Our
+Surroundings): 8 new lessons in Materials plus 5 grown
+lessons, 128 questions, 23 media filed (pictures/GIFs
+32300–32322) — the particle theory (with Democritus as
+teacher evidence), diffusion, the three states grown with
+sublimation and deposition as labelled guide-sourced
+parts (the student book omits them), properties,
+elements/compounds/mixtures and choosing a separation
+method grown, useful and harmful changes, and the
+separation lessons in the book's own experiment order —
+magnet and evaporation, settling/pouring/filtering, the
+separatory funnel, distillation (the local araki still
+first, as printed) and local methods. Pairing carried
+exactly: the Grade 7 guide is an Addis Ababa bureau
+book, NOT edition-matched to the Amhara student book —
+guide material is syllabus-level teacher evidence only.
+Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSB-science-g7-u2.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -124,6 +143,14 @@ unbalanced equation stands. Build log:
 27. **Equations — balancing by LCM, and modelling with circles** (`materials/equations-balancing-by-lcm-and-modelling-with-circles`) — the LCM method totals valence numbers and divides back into coefficients; coloured-circle models build the balance physically (Grade 7 General Science)
 28. **Reactions — chemistry in everyday life** (`materials/reactions-chemistry-in-everyday-life`) — burning, cooking, smelting, brewing — reactions as the basis of energy and culture; the guide's full tella-making process filed as teacher evidence (Grade 7 General Science)
 29. **Reactions — seven kinds of reaction around the home** (`materials/reactions-seven-kinds-of-reaction-around-the-home`) — combustion, double displacement, electrochemistry, digestion, acid–base, soap action, cooking changes — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+30. **Matter — the particle theory** (`materials/matter-the-particle-theory`) — matter occupies space and has mass, and everything is made of tiny particles that attract each other, have spaces between them, always move, and move faster when heated; Democritus filed as teacher evidence (Grade 7 General Science)
+31. **Matter — diffusion** (`materials/matter-diffusion`) — particles spread from where they are crowded to where they are spread out — fast in gases, slower in liquids, essentially not at all in solids (Grade 7 General Science)
+32. **Changes — useful and harmful changes in daily life** (`materials/changes-useful-and-harmful`) — the changes of daily life sort into useful and harmful — and most useful ones are worked on purpose, at home, every day (Grade 7 General Science)
+33. **Separating mixtures — magnet and evaporation** (`materials/separating-magnet-and-evaporation`) — two separations worked by hand: a magnet lifts iron out of a mixture, and heating drives water off a solution leaving the solid behind (Grade 7 General Science)
+34. **Separating mixtures — settling, pouring off and filtering** (`materials/separating-settling-pouring-and-filtering`) — muddy water is cleaned in stages: let the solid settle, pour the clear layer off, then filter what remains through paper (Grade 7 General Science)
+35. **Separating mixtures — the separatory funnel** (`materials/separating-the-separatory-funnel`) — two liquids that refuse to mix are parted in a stoppered funnel: settle into layers, then drain the lower layer through the stopcock and stop exactly at the boundary (Grade 7 General Science)
+36. **Separating mixtures — distillation** (`materials/separating-distillation`) — a liquid mixture is parted by boiling point: the lower-boiling part vaporises first, condenses, and is collected as distillate — the way of the laboratory still and of the local araki still alike (Grade 7 General Science)
+37. **Separating mixtures — local methods** (`materials/separating-local-methods`) — the community's own separation kit — sieving, winnowing, decanting coffee in the jebena, clarifying tella and tej, and the local still — is the laboratory's methods in home dress (Grade 7 General Science)
 
 
 ## Unit 5 — Light

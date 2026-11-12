@@ -16,6 +16,19 @@ One experiment, four physical methods. **(a) Filtration** — muddy water throug
 ## Experiment 2 — what dissolving changes (teacher guide — evidence)
 Dissolving changes a liquid's behaviour: pupils dissolve salt in water and compare the solution against pure water — its **boiling point measured**, and a **freezing race** run in a fridge; the whole test is then repeated with a sugar solution and the results compared. The Grade 6 teacher guide ties mixtures to the body itself (teacher guide — evidence): "Why does the amount of carbon dioxide increase when we exhale? Because the oxygen we breathed in, meeting food and giving energy, produces extra carbon dioxide."
 
+
+## Grade 7 — the two kinds in depth (Table 2.2)
+
+The Grade 7 book fixes the contrast in its Table 2.2. A mixture is **physically mixed**, keeps **each component's own properties**, and has **no fixed ratio**. A **heterogeneous** mixture shows its parts — soil; salt-and-sand; blood and milk, as the book classes them. A **homogeneous** mixture is **uniform, a single phase, a solution** whose parts cannot be seen — sugar or salt solution, alcohol-and-water, clean air. Composition, phases and visibility: those are the three tests.
+
+[Picture 32311 — a glass of salt solution beside oil-and-water: uniform against layered]
+
+## Grade 7 — choosing the method by the differing property
+
+Separation **purifies** the components, and the method is chosen by the **one physical property in which the parts differ**: magnetism, solubility, density, or boiling point. The book opens with the home proofs: **filtering tea**, **churning butter from milk**, and **ginning cotton seed from fibre** — each one a property difference put to work. The doing-lessons of this title (magnet and evaporation; settling, pouring off and filtering; the separatory funnel; distillation; local methods) each take one row of this chart and work it by hand.
+
+[Picture 32314 — the decision chart: mixture, differing property, method]
+
 ## Say it to your companion
 Tell your companion the two kinds with two examples each, then the four separations in the book's order — filtration, funnel, evaporation, distillation — and which mixture each one saves.
 

@@ -18,3 +18,13 @@ countries: Ethiopia
 Both student books are COMPLETE (Grade 5: 178 printed pp.; Grade 6: 177 printed pp.). The Grade 6 book's element classes and its fixed-ratio openers (builders 4:1, tella makers 2:1) are carried as the placements record them.
 
 Searchable tags: matter atoms, elements metals non-metals metalloids, compounds fixed ratio, mixtures, H2O
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+
+**Grade 7 Student Textbook:** *General Science Student Textbook, Grade 7* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed; PDF 207 pp, printed = PDF − 8, COMPLETE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 7 pure substances; elements (118 known, 92 natural); metals, non-metals, metalloids; mercury and bromine exceptions; Experiment 2.4; compounds in fixed ratio | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 40–44 |
+
+Acceptance count unchanged: taught in 1 country (Ethiopia).

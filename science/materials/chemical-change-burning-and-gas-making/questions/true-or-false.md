@@ -16,3 +16,8 @@ Say whether each sentence is true or false.
 **5. Souring is a physical change.**
 **Answer: False**
 
+**6. (Sub lesson 3)** A physical change forms a new substance.
+**Answer: False** — it alters form or appearance only.
+
+**7. (Sub lesson 3)** Chemical changes involve an energy change.
+**Answer: True** — Table 2.3.

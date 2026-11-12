@@ -8,3 +8,5 @@ Fill each blank with the right word.
 **2. Feelings and thoughts take no space and have no ______.**
 **Answer: mass**
 
+**3.** A compound joins elements chemically in a ______ ratio.
+**Answer: fixed** — written by its formula.

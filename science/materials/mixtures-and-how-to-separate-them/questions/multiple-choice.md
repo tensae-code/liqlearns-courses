@@ -26,3 +26,18 @@ a) evaporation  b) the separating funnel  c) freezing it solid
 a) yes, easily  b) no — it has no layers  c) only when frozen
 **Answer: b) no — it has no layers**
 
+**7.** A homogeneous mixture is —
+a) layered, parts visible  b) uniform, single-phase, parts unseen  c) always a solid
+**Answer: b) uniform, single-phase, parts unseen** — Table 2.2.
+
+**8.** Which is heterogeneous in the Grade 7 book?
+a) clean air  b) salt solution  c) soil
+**Answer: c) soil** — its parts show.
+
+**9.** The method for separating a mixture is chosen by —
+a) the colour of the container  b) a differing physical property  c) chance
+**Answer: b) a differing physical property** — magnetism, solubility, density or boiling point.
+
+**10.** Filtering tea works because the leaves and the liquid differ in —
+a) state/size against the liquid — the leaves are caught, the liquid passes  b) boiling point
+**Answer: a) state/size against the liquid — the leaves are caught, the liquid passes**

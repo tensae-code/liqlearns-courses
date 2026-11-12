@@ -26,3 +26,13 @@ The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regiona
 Grade 5 extension (2026-11-12): the Grade 5 student book is COMPLETE. Burning in Experiment 3.4 is carried as the book's adult-watched bench work (paper in tongs); no new burning task is added.
 
 Searchable tags: chemical change, burning, rusting, gas forming, paper and ash, lemon yeast balloon, chemical change burning and gas-making
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+
+**Grade 7 Student Textbook:** *General Science Student Textbook, Grade 7* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed; PDF 207 pp, printed = PDF − 8, COMPLETE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 7 physical vs chemical change — crushed chalk vs chalk in vinegar; Table 2.3 contrast | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 46–47 |
+
+Acceptance count unchanged: taught in 1 country (Ethiopia).

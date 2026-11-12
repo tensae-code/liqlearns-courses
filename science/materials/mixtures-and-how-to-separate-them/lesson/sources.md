@@ -20,3 +20,14 @@ The Grade 6 student book is COMPLETE (printed pp. 1–177). Ayalech's story is p
 The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) are held; Units 4–5 (printed pp. 64–end, to at least p. 105) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: mixtures heterogeneous ልይ ዘር homogeneous ዋህድ ዘር, solute ሟሚ solvent አሟሚ, filtration separating funnel evaporation distillation ንጥረት
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+
+**Grade 7 Student Textbook:** *General Science Student Textbook, Grade 7* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed; PDF 207 pp, printed = PDF − 8, COMPLETE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 7 mixtures in depth — Table 2.2: composition, phases, visibility; homogeneous/heterogeneous examples | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 44–46 |
+| Grade 7 choosing the method — separation purifies; method follows the differing property; tea, butter, cotton-ginning openings | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed p. 50 |
+
+Acceptance count unchanged: taught in 1 country (Ethiopia).

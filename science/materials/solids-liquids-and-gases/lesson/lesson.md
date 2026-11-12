@@ -48,6 +48,19 @@ The Grade 6 book explains the states by their **particles**. In a **solid** they
 
 [Picture 13445 — three particle diagrams under ice, water and steam, plus the sublimation jump]
 
+
+## Sub lesson 6 — Grade 7: the three states compared, compression, and the two changes the pupil book omits
+
+The Grade 7 book sets the three states side by side (its Table 2.1): a **solid** keeps shape and volume, its particles strongly attracted, tightly packed, only vibrating; a **liquid** keeps volume but takes the container's shape, its particles less tightly held and able to slide; a **gas** keeps neither shape nor volume, its particles weakly attracted, far apart and free. **Experiment 2.2** proves the sharpest difference: three syringes — powder, water, air — are pressed, and **only the gas compresses easily**, because only the gas has wide spaces to squeeze away. Heat explains pressure too: a balloon left in the sun bursts before a cold one, because heated particles push harder.
+
+[Picture 32304 — the three states as particle diagrams: tight lattice, loose cluster, scattered]
+[GIF 32305 — ice melting, then water steaming]
+
+The pupil book names four state changes. The teacher guide adds the two it omits (teacher guide — evidence): **sublimation** — a solid changes **straight into a gas** with no liquid between — and **deposition** — a gas changes **straight into a solid**, sublimation's opposite. With them, the set is six: melting, freezing, evaporation, condensation, sublimation, deposition.
+
+[Picture 32307 — the six-arrow state-change diagram, the two new arrows highlighted]
+[GIF 32306 — a solid vanishing straight into vapour: sublimation (teacher guide — evidence)]
+
 ## Say it to your companion
 Teach your companion the three rules with the three proofs: the stone that keeps its shape, the water that takes the bowl's shape, the balloon that fills with air. Your companion must state each rule back before you show the next proof.
 

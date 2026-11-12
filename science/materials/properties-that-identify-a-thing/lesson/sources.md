@@ -25,3 +25,14 @@ The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regiona
 Grade 5 extension (2026-11-12): the Grade 5 student book is COMPLETE. Lamp experiments are carried as adult-led demonstrations/practicals in the book's own safety framing.
 
 Searchable tags: properties, physical properties, chemical properties, pencil, colour length hardness shape, properties that identify a thing
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+
+**Grade 7 Student Textbook:** *General Science Student Textbook, Grade 7* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed; PDF 207 pp, printed = PDF − 8, COMPLETE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grade 7 physical properties — the full list and identifying substances; Experiment 2.3 (salt, oil, sand, sugar) | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 38–39 |
+| Grade 7 chemical properties — lemon curdling milk, paper vs nail, flammability, reaction with acids/water/air | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed p. 40 |
+
+Acceptance count unchanged: taught in 1 country (Ethiopia).

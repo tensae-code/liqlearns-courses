@@ -10,3 +10,5 @@ Fill in each blank with the right word.
 **3. Solute + solvent = ______.**
 **Answer: solution**
 
+**4. (Sub lesson 2)** ______ is a chemical property: how a substance burns.
+**Answer: Flammability**

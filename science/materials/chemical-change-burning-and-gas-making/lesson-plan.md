@@ -51,3 +51,8 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+3. **Grade 7: crushed chalk against chalk in vinegar** — the spoon experiment that carries the whole distinction; Table 2.3's three-row contrast (what forms / reversibility / energy change).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+- ADD GIF [GIF 32312]: vinegar fizzing on chalk powder — the student names the sign that proves a chemical change.

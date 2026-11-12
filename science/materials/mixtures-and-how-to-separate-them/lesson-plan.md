@@ -45,3 +45,8 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 7 growth (2026-11-12, Band GS-B)
+Two Grade 7 sections added to lesson/lesson.md (the lesson keeps its one-whole-lesson shape): Table 2.2's three tests (composition, phases, visibility) with the book's own examples, and the choosing-the-method section — separation purifies; the method follows the differing property (magnetism, solubility, density, boiling point); tea, butter-churning and cotton-ginning as the home openings.
+- ADD IMAGE [Picture 32311]: a picture of salt solution beside oil-and-water — the student applies the three tests to both glasses.
+- ADD IMAGE [Picture 32314]: a picture of the decision chart — the student chooses a method for a named mixture and names the property used.
