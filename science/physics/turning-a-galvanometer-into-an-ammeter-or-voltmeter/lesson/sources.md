@@ -1,6 +1,6 @@
 # Sources — Turning a galvanometer into an ammeter or voltmeter
 
-countries: Ethiopia, Uganda, Egypt, Afghanistan
+countries: Ethiopia, Uganda, Egypt, Afghanistan, India
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Uganda, Egypt, Afghanistan
 
 **Book 4:** *فزیک — صنف نهم (Physics — Grade 9)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف نهم (Physics — Grade 9; the book spells the subject فزیک), Ministry of Education, Kabul. Grade: 9 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul (cover and book-data page read from the secured file itself; book-data page gives subject فزیک, grade نهم, language Dari, publisher the ministry's curriculum directorate). Repo path (record): grade-09/gov/afghanistan/فیزیک_صنف_نهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy, recovered via the pusher-token GitHub route: migrated release asset grade-09-gov-afghanistan-c50fc67530.pdf in release mid-size-books-7 (asset id 703601239), 12,068,089 bytes, 81 PDF pages. Verdict: COMPLETE — full contents with printed pages read; body read across all four chapters. Printed ↔ PDF offset: printed p. 1 = PDF p. 8 (7 pages of front matter); printed pp. run 1–74 plus chapter questions. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 5:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A shunt makes an ammeter | Grade 11 Student Textbook, printed pp. 255–257 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Uganda, Egypt, Afghanistan
 | Chapter: meter conversion (shunts and multipliers) (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Ammeters, Voltmeters and Galvanometers chapter — PDF p. 15 |
 | Ch.2 The sensitive moving-coil galvanometer, its sensitivity, shunts and multipliers (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.2 The sensitive moving-coil galvanometer, its sensitivity, shunts and multipliers — printed p. 45 |
 | Ch. 4 — the galvanometer (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 — printed p. 66 — the galvanometer as its own section |
+| Ch. 4 — galvanometer conversion sections (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 4 — galvanometer conversion sections |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Egypt, Afghanistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Egypt, Afghanistan, India).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

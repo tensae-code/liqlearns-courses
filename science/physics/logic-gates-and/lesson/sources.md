@@ -1,6 +1,6 @@
 # Sources — Logic gates — AND
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Indonesia, Egypt
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Indonesia, Egypt, India
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 
 **Book 5:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 6:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The AND gate | Grade 12 Student Textbook, printed pp. 166–167 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 | Simple electronic control circuits and AND/NOT/OR/NOR/NAND gates (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv (skills strand) |
 | Bab 6, Subbab B Gerbang Logika (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 6, Subbab B Gerbang Logika — guide p. 142 — logic gates, with a gate-building project (Subbab C, p. 146) |
 | Ch.8 Digital electronics and the logic gates (AND, OR, NOT, NAND, NOR treated as one family) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 Digital electronics and the logic gates (AND, OR, NOT, NAND, NOR treated as one family) — printed p. 190 |
+| Ch. 14 — logic gates close the book (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 — logic gates close the book |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Egypt).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Egypt, India).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

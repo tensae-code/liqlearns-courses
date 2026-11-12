@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only)
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 
 **Book 5:** *PISA Sample Test — Physics Grade 8 (Student)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School, 2026; school-produced, aligned to PISA standards per its preface. Grade 8 · Student version. Repo path: grade-08/gov/cambodia/physics/pisa-physics-sample-test-student.pdf. Byte size: 8,424,218 (no size recorded; Contents API). PDF pages: 101. Offset: printed p. = PDF p. − 8. Verdict: COMPLETE structural read — full contents list read; PISA-format stimulus + questions throughout. Library debt, carried on the record: the library holds no MoEYS textbook for Grades 7–8 — only these private booklets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 6:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Seeing the field: filings over one magnet, two unlike-facing, two like-facing (Activity 7.36); field lines — closed loops, never crossing, N to S outside, crowded where strong | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 220–223 (student placement 68) |
@@ -22,8 +24,9 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 
 | Ch 1: the Earth's magnetic field (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 1: the Earth's magnetic field — printed p. ~12 |
 | Ch. 5 Lesson 1: magnetism, compasses, the maglev train (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 5 Lesson 1 — printed p. 56 |
+| Ch. 5 — magnetic properties of materials and magnetisation close the chapter (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 5 — magnetic properties of materials and magnetisation close the chapter |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kenya).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Kenya, India).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Book cross-reference taught corrected: §7.5.2's text (printed p. 222) points to “Figure 7.9” for the magnetic field lines between bar magnets, but Figure 7.9 is the book's parallel-circuit diagram; the filings pattern is Figure 7.10. The lesson teaches the filings patterns without the wrong figure number, and the error is flagged here, never reproduced.
 

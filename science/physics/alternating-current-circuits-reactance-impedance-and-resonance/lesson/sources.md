@@ -1,6 +1,6 @@
 # Sources — Alternating-current circuits — reactance, impedance and resonance
 
-countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait, Bulgaria, Yemen, Afghanistan, Bhutan
+countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait, Bulgaria, Yemen, Afghanistan, Bhutan, India
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
@@ -31,6 +31,8 @@ countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwa
 
 **Book 14:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 15:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.27 (alternator and AC circuits strand of the induction chapter) — PDF p. 60 |
@@ -51,8 +53,9 @@ countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwa
 | Ch. 9 — RL, RC and LC circuits (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 9 — printed p. 229 — RL circuits p. 229, RC and LC circuits pp. 231–232 |
 
 | Alternating-current circuits — LC oscillations, reactance and resonance — Ch. 31 Electromagnetic Oscillations and Alternating Current — printed p. 903 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 31 Electromagnetic Oscillations and Alternating Current — printed p. 903 |
+| Ch. 7 Alternating Current — AC circuits with R, L, C, phasor diagrams, resonance, power factor, transformers and transmission (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 7 Alternating Current — AC circuits with R, L, C, phasor diagrams, resonance, power factor, transformers and transmission |
 
-**Acceptance count: taught in 13 countries (Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait, Bulgaria, Yemen, Afghanistan, Bhutan).**
+**Acceptance count: taught in 14 countries (Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait, Bulgaria, Yemen, Afghanistan, Bhutan, India).**
 
 Placement note, on the record: Indonesia's Grade 12 student placement was filed in the read as NEW LESSON NEEDED — “Alternating current — AC equations, RLC circuits and resonance” (indonesia-placements.md, Book 3, Bab 4 Arus Bolak-Balik — guide p. 95); under the Indonesia merge ruling it is stocked into this existing lesson instead of a new one being built — this lesson covers AC equations, RLC circuits and resonance.
 

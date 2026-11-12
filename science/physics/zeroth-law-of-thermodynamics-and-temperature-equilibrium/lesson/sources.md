@@ -1,10 +1,12 @@
 # Sources — Zeroth law of thermodynamics and temperature equilibrium
 
-countries: Brazil, Palestine (also cited — zeroth-law part only; counted in physics/thermodynamics-laws-and-heat-engines)
+countries: Brazil, Palestine (also cited — zeroth-law part only; counted in physics/thermodynamics-laws-and-heat-engines), India
 
 **Book 1:** *Física — Ensino Médio, Livro Didático Público* (student textbook) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Governo do Estado do Paraná. Title as printed: Física — Ensino Médio, Livro Didático Público — a state public textbook, recorded for Brazil as it is. Grade 10 (Ensino Médio). Student book. Release: mid-size-books, asset grade-10-gov-brazil-physics-student-full-year.pdf. Byte size: 6,449,200. PDF pages: 232. Page rule: printed p. N ≈ PDF p. N. Verdict: COMPLETE — read in full (72,833 words) in the 2026-11-12 Physics expansion read; ends with epilogue references at printed p. 232. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/brazil-placements.md.
 
 **Book 2:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
+
+**Book 3:** *Physics Part–II, Textbook for Class XI, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. ISBN 81-7450-566-0 (Part II). Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-keph2. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World in Part I, later chapters +1; this Part II is numbered Ch. 9–15 in the older printing) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,7 +15,8 @@ countries: Brazil, Palestine (also cited — zeroth-law part only; counted in ph
 | Sub lesson 3 — The zeroth law and why thermometers work | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Termodinâmica, Ch. 4 Lei Zero da Termodinâmica, printed p. 65 |
 | Do it first; key ideas; Do It Yourself | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Termodinâmica, Ch. 4 Lei Zero da Termodinâmica, printed p. 65 |
 | The zeroth law by activity (also-cited — the zeroth-law part of Palestine's thermodynamics chapter; Palestine is counted for this placement in physics/thermodynamics-laws-and-heat-engines) | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 118 |
+| Ch. 11 Thermodynamics — printed p. 226 — thermal equilibrium (p. 227), zeroth law (p. 228) (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 11 Thermodynamics — printed p. 226 — thermal equilibrium (p. 227), zeroth law (p. 228) |
 
-**Acceptance count: taught in 1 country (Brazil).** Palestine is also cited here for the zeroth-law part of its Grade 10 thermodynamics chapter (printed p. 118), counted in physics/thermodynamics-laws-and-heat-engines, not added to this count.
+**Acceptance count: taught in 2 countries (Brazil, India).** Palestine is also cited here for the zeroth-law part of its Grade 10 thermodynamics chapter (printed p. 118), counted in physics/thermodynamics-laws-and-heat-engines, not added to this count.
 
 Searchable tags: zeroth law, thermodynamics, thermal equilibrium, temperature, thermometer, lei zero da termodinâmica, brazil, seed-pr, palestine

@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria
+countries: Ethiopia, Barbados, Bulgaria, India
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Barbados, Bulgaria
 
 **Book 3:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 4:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two words, two judgements (the four groups and the 100 °C true value) | Ethiopia, *General Science Student Textbook, Grade 7*, printed p. 19 |
 | Ch. 2 Precision, Accuracy and Significance — errors, limits of error, spreading error | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 2 Precision, Accuracy and Significance, printed p. 10 |
 | L3 Physical measurements and processing of experimental results (laboratory lesson); L4 Measuring current and voltage (laboratory, printed p. 14) (Bulgaria, Grade 7) | Bulgaria, *Физика и астрономия за 7. клас (Педагог 6, 2024)*, L3 Physical measurements and processing of experimental results (laboratory lesson); L4 Measuring current and voltage (laboratory, printed p. 14) — printed p. 12 |
+| Ch. 1, §1.6 (older §2.6) Accuracy, precision and errors in measurement (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 1, §1.6 (older §2.6) Accuracy, precision and errors in measurement |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Bulgaria).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Bulgaria, India).**
 
 Pairing note for this lesson: the teacher guide's Unit 1 has NO scientific-measurement section — this lesson stands on the STUDENT BOOK ALONE, and the guide carries no counterpart for it.
 

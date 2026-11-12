@@ -1,6 +1,6 @@
 # Sources — Planetary motion — ellipses and Kepler's laws
 
-countries: Ethiopia, Malaysia, Kuwait
+countries: Ethiopia, Malaysia, Kuwait, India
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia, Kuwait
 
 **Book 4:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 5:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Activity 6.9's marble sky: fixed stars, month-by-month sight-lines, retrograde drift | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 171–172 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Malaysia, Kuwait
 | Ethiopia in space — ESSTI, Ethiopia's two satellites and the Entoto Observatory (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 6, printed pp. 103–107 (teacher evidence; pairing warning in this file) |
 | Ch. 3 Gravitation, §3.2 Kepler's Laws (Malaysia) | Malaysia, *Physics Form 4*, Ch. 3, §3.2 Kepler's Laws — printed p. 96 |
 | Activity 7 "Elliptical Trajectory" (for lesson 4-2, satellites) (Kuwait, Grade 11 Term 1 applications workbook) | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, printed p. 27 |
+| Ch. 7 Gravitation, §7.2 Kepler's Laws — printed p. 128 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 7 Gravitation, §7.2 Kepler's Laws — printed p. 128 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Kuwait).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Kuwait, India).**
 
 PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

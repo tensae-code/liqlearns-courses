@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, 
 
 **Book 13:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 14:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The prism splits white light: the seven colours (VIBGYOR), violet bending most; sunlight as a mixture; the rainbow as nature's dispersion | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 189–190 (student placement 54) |
@@ -46,8 +48,9 @@ countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, 
 
 | Ch. 5: dispersion of white light into its constituent colours — printed p. 127 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 5: dispersion of white light into its constituent colours — printed p. 127 |
 | Ch. V, Tema 50 + Lab Tema 52: prism decomposition, Newton 1666, spectrum, RGB mixing, why objects have colour; prism lab (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. V, Tema 50 + Lab Tema 52: prism decomposition, Newton 1666, spectrum, RGB mixing, why objects have colour; prism lab — printed pp. 132, 135 |
+| Ch. 9 — prism dispersion and scattering of light (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 9 — prism dispersion and scattering of light |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan, India).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: the primary lesson's disc is painted in three colours (blue, red, green) at primary depth; this item teaches the full seven-colour VIBGYOR fan with differential refraction and the seven-segment disc, so it is built whole here.
 

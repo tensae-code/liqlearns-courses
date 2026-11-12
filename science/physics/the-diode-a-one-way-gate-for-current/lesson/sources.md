@@ -1,6 +1,6 @@
 # Sources — The diode — a one-way gate for current
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan
+countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 
 **Book 9:** *ФИЗИКА 8 (Fizika 8)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition, translator T. Asilov; imprint: 160 pp. bibliographic, contents end printed p. 158; print run 25,500). Grade: 8 · Student book (Russian-medium edition) · Repo path: grade-08/gov/uzbekistan/physics/full-year.pdf. Byte size: 62,348,665. PDF pages: 161. Offset: printed p. N = PDF p. N+3 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; the complete contents (printed pp. 157–158) were read and every chapter's opening and closing-summary pages were read and matched against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 10:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The p-n junction diode | Grade 12 Student Textbook, printed pp. 147–148 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 | Ch.8 The p–n junction, forward/reverse bias (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The p–n junction, forward/reverse bias — printed p. 176 |
 | U3 The PN junction; using the junction in AC rectification (printed p. 70) (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U3 The PN junction; using the junction in AC rectification (printed p. 70) — printed p. 67 |
 | Ch. V, Temas 50–52: the p–n junction; the semiconductor diode; lab: rectifying current with a diode (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. V, Temas 50–52: the p–n junction; the semiconductor diode; lab: rectifying current with a diode — printed pp. 124–127 |
+| Ch. 14 — p–n junction diode, LED, photodiode, solar cell, Zener diode (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 — p–n junction diode, LED, photodiode, solar cell, Zener diode |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 9 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

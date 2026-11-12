@@ -1,6 +1,6 @@
 # Sources — The ideal gas law — weighing air
 
-countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan
+countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), 
 
 **Book 13:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 14:** *Physics Part–II, Textbook for Class XI, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. ISBN 81-7450-566-0 (Part II). Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-keph2. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World in Part I, later chapters +1; this Part II is numbered Ch. 9–15 in the older printing) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ideal-gas equation in a fluids unit | Grade 12 Student Textbook, printed pp. 80–82 |
@@ -46,7 +48,8 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), 
 
 | Ch. 19 The Kinetic Theory of Gases: ideal gas, molecular speeds — printed p. 549 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 19 The Kinetic Theory of Gases: ideal gas, molecular speeds — printed p. 549 |
 | Ch. I, Temas 6–7 (also cited here): the equation of state of an ideal gas (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Temas 6–7 (also cited here): the equation of state of an ideal gas — printed pp. 20–22 |
+| Ch. 10, §10.4 Ideal-gas equation and absolute temperature — printed p. 203 (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 10, §10.4 Ideal-gas equation and absolute temperature — printed p. 203 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 13 countries (Ethiopia, Palestine, Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, the ideal gas law — weighing air, temperature, palestine, egypt, yemen
