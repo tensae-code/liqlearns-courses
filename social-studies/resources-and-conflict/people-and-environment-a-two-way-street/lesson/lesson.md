@@ -14,6 +14,10 @@ Humans depend on the environment for all materials: the book’s worked example 
 
 In turn, humans reshape the environment they draw from — farming it, building on it, extracting from it. The relationship is two-way and neither side is isolable: study people without their environment, or the environment without its people, and both accounts fail.
 
+## Sub lesson 3 — Dependence and modification — the Grade 10 statement
+
+The Grade 10 book states the same street in its own words: the environment is the multidimensional surroundings of external factors, and humans interact with it to satisfy their growing needs — in a two-way, reciprocal relationship. Dependence runs one way, modification runs back the other; neither direction exists without the other.
+
 ## Say it to your companion
 
 Tell your companion the two-way relationship, tracing one real object as your proof.

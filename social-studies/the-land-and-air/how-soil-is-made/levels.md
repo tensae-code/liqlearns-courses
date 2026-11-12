@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files (5 items). Pass mark: name the five f
 ## Sub lesson 2 — Ethiopia’s varied soils
 Sub lesson 2 questions from the type files (5 items). Pass mark: say why Ethiopia’s soils vary.
 
+
+## Sub lesson 3 — Soil — the working skin of the land (Grade 10)
+Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

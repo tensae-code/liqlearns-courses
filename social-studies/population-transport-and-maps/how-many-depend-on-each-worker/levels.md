@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files (5 items). Pass mark: define the rati
 ## Sub lesson 2 — Active and inactive; the burden
 Sub lesson 2 questions from the type files (5 items). Pass mark: name the burden’s three fronts.
 
+
+## Sub lesson 3 — Dependency across Africa's regions
+Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

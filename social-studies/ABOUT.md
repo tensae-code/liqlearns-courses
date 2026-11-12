@@ -315,3 +315,17 @@ all — the book's own weighting, filed here as structure evidence.
 opening with de By (2001), *Principles of Geographic Information
 Systems* — the sourcing shelf for the maps-and-GIS title, recorded
 here as provenance.
+
+## Ethiopia, Geography Grade 9 — the glossary and the guide's apparatus (teacher evidence)
+
+**The Grade 9 glossary** (student book, PDF pp. 235–237): the
+book's own word list, filed here as the reference shelf for the
+Ethiopia geography titles.
+
+**The Grade 9 guide's apparatus** (teacher guide): its lesson
+machine — the fixed way each unit is taught (placement 1); the
+Minimum Learning Competencies and syllabus (placement 30); and
+the guide's References (placement 25) — the sourcing shelf behind
+the book. The guide's pedagogy summaries and answer keys are
+marking evidence for their units, filed here; their content
+additions stand inside the lessons as labelled teacher evidence.

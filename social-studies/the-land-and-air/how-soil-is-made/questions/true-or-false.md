@@ -8,3 +8,5 @@ Say whether each sentence is true or false.
 **2. (Sub lesson 2)** Reading a place’s factors half explains its soil.
 **Answer: True**
 
+**3. (Sub lesson 3)** Soil stores and buffers water and pollutants.
+**Answer: True**

@@ -2932,137 +2932,6 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 14017 | pictures/14017.gif | Ball in a Box pass down the line then run | Physical Education — Games for Communication and Cooperation |
 | 14018 | pictures/14018.gif | Dragon Snake line turns to shield its tail | Physical Education — World Games — Dragon Snake and Stocking |
 | 21003 | pictures/21003.gif | the enclosing circle shrinking onto Ethiopia’s outline | Social Studies — Shapes countries come in — and Ethiopia’s compact shape |
-| 21013 | pictures/21013.webp | a Rift cross-section with lakes sitting on the valley floor | Social Studies — Inside the Rift — the lakes section |
-| 21014 | pictures/21014.webp | a map tracing the Rift’s southern arm to Chew Bahir | Social Studies — The Chew Bahir Rift |
-| 21015 | pictures/21015.webp | a sea advancing over a land outline, layers settling beneath it | Social Studies — When the sea covered Ethiopia — sedimentary rocks |
-| 21016 | pictures/21016.gif | the shoreline advancing then retreating, leaving layers behind | Social Studies — When the sea covered Ethiopia — sedimentary rocks |
-| 21017 | pictures/21017.webp | a basement rock outcrop with a planed surface line | Social Studies — Ethiopia’s oldest rocks and the great planing |
-| 21018 | pictures/21018.webp | a dome rising, lava spreading, then a rift dropping between faults | Social Studies — Uplift, lava floods and the splitting Rift |
-| 21019 | pictures/21019.gif | the dome cracking and the rift floor dropping | Social Studies — Uplift, lava floods and the splitting Rift |
-| 21020 | pictures/21020.webp | a drainage map with three arrow colours leaving the highlands | Social Studies — Three ways Ethiopia’s water drains |
-| 21021 | pictures/21021.webp | the Abbay, Tekeze and Baro rivers traced from highlands to border | Social Studies — The Nile-bound rivers — Abbay, Tekeze, Baro |
-| 21022 | pictures/21022.webp | the Shebelle, Genale, Awash and Omo rivers traced, each ending marked | Social Studies — Shebelle, Genale, Awash and Omo |
-| 21023 | pictures/21023.webp | a lakes map with Tana and the Rift chain highlighted | Social Studies — Ethiopia’s lakes — highland and Rift |
-| 21024 | pictures/21024.webp | a gorge river in flood and in dry season, side by side | Social Studies — What Ethiopian rivers are like |
-| 21025 | pictures/21025.webp | a year wheel with the three seasons and ITCZ arrows | Social Studies — Kiremt, Bega and Belg — Ethiopia’s seasons |
-| 21026 | pictures/21026.gif | the ITCZ band sliding north then south over Ethiopia | Social Studies — Kiremt, Bega and Belg — Ethiopia’s seasons |
-| 21027 | pictures/21027.webp | a rainfall map with the three timing regions in three colours | Social Studies — Where and when Ethiopia’s rain falls |
-| 21028 | pictures/21028.webp | a temperature map from red lowlands to blue peaks | Social Studies — Ethiopia’s temperature pattern |
-| 21029 | pictures/21029.webp | an altitude staircase with the five zones and their crops | Social Studies — Ethiopia’s five climate zones — Bereha to Wurch |
-| 21030 | pictures/21030.webp | the five traditional zones as a farming staircase with crops and homes | Social Studies — Ethiopia’s five traditional climate zones |
-| 21031 | pictures/21031.webp | a mountain transect with vegetation belts stacked by altitude | Social Studies — Why vegetation changes with the land |
-| 21032 | pictures/21032.webp | a soils map beside profile strips of each main type | Social Studies — Ethiopia’s main soils |
-| 21033 | pictures/21033.webp | a ten-soil name strip beside the student book’s shorter list | Social Studies — Major soil types of Ethiopia |
-| 21034 | pictures/21034.webp | a rising population growth curve with doubling-time markers | Social Studies — How Ethiopia’s population grew |
-| 21035 | pictures/21035.gif | the growth curve steepening decade by decade | Social Studies — How Ethiopia’s population grew |
-| 21036 | pictures/21036.webp | a population-density map | Social Studies — Where Ethiopians live — and why there |
-| 21037 | pictures/21037.webp | altitude bands beside matching population bars | Social Studies — Altitude decides settlement |
-| 21038 | pictures/21038.webp | a malaria-risk altitude band map | Social Studies — Disease follows altitude and water |
-| 21039 | pictures/21039.webp | arrows from crowded highland farms to towns and farm schemes | Social Studies — Why people move inside Ethiopia |
-| 21040 | pictures/21040.webp | a road map radiating from Addis Ababa, with a donkey cart inset | Social Studies — Getting around — roads first |
-| 21041 | pictures/21041.webp | the Addis Ababa to Djibouti corridor drawn across a Horn of Africa map | Social Studies — What landlocked costs — Ethiopia’s road to the sea |
-| 21042 | pictures/21042.webp | a mineral distribution map with a symbol per mineral | Social Studies — Ethiopia’s minerals — what is where |
-| 21043 | pictures/21043.webp | three bars | Social Studies — Why agriculture runs Ethiopia’s economy |
-| 21044 | pictures/21044.webp | an eroded, fragmented hillside farm | Social Studies — What holds Ethiopian farming back |
-| 21045 | pictures/21045.webp | four panels | Social Studies — Primary work in Ethiopia |
-| 21046 | pictures/21046.webp | a weaver beside a textile factory line | Social Studies — Making things — craft and factory |
-| 21047 | pictures/21047.webp | two cargo stacks | Social Studies — What Ethiopia buys and sells |
-| 21048 | pictures/21048.webp | a language map of Ethiopia in many colours | Social Studies — Ethiopia’s many languages |
-| 21049 | pictures/21049.webp | a pie chart of the census religion shares | Social Studies — Ethiopia’s religions in numbers |
-| 21050 | pictures/21050.webp | coffee cherries beside an export-share chart | Social Studies — Cash crops and coffee’s crown |
-| 21051 | pictures/21051.webp | a five-step activity chain with the fifth step marked guide-only | Social Studies — The fifth sector — quinary activities (teacher-guide extension) |
-| 21052 | pictures/21052.webp | a forest-cover shrinking chart, 1950s to 1980s to now | Social Studies — Forests under pressure — and how Ethiopia answers |
-| 21053 | pictures/21053.webp | a community forest boundary with guards and a notice | Social Studies — Saving Ethiopia’s forests |
-| 21054 | pictures/21054.webp | rows of pupils planting seedlings on a hillside | Social Studies — Green Legacy — planting a country green |
-| 21055 | pictures/21055.gif | a seedling being planted and watered | Social Studies — Green Legacy — planting a country green |
-| 21056 | pictures/21056.webp | a Green Legacy component wheel | Social Studies — The Green Legacy movement |
-| 21057 | pictures/21057.webp | the CRGE vision as two pillars under one roof | Social Studies — Ethiopia’s green economy — the CRGE pillars |
-| 21058 | pictures/21058.webp | a climate-smart farm | Social Studies — Ethiopia’s green-economy plan |
-| 21059 | pictures/21059.webp | a Horn of Africa map with the six neighbours and the Red Sea labelled | Social Studies — Ethiopia among its neighbours |
-| 21060 | pictures/21060.webp | the four named endemics in their habitats | Social Studies — Ethiopia’s wildlife and its endemics |
-| 21061 | pictures/21061.webp | a steep farmed slope with rills becoming gullies | Social Studies — Why Ethiopia’s soil is degrading |
-| 21062 | pictures/21062.webp | a field group with leader, register and meeting point marked | Social Studies — Fieldwork safety — supervision and responsibility |
-| 21063 | pictures/21063.webp | a four-terrain hazard strip | Social Studies — Staying safe in mountains, water, bogs and dig sites |
-| 21064 | pictures/21064.webp | a pupil with an introduction letter interviewing a farmer | Social Studies — Asking people properly — field questionnaires and interviews |
-| 21065 | pictures/21065.webp | the earth with Geo + Graphos = writing the earth labelled | Social Studies — What geography is |
-| 21066 | pictures/21066.webp | a five-layer diagram of the spheres around the earth | Social Studies — How wide geography reaches — the five spheres |
-| 21067 | pictures/21067.webp | a landscape split into labelled natural features, one per sub-branch | Social Studies — Physical geography — the nature side |
-| 21068 | pictures/21068.webp | a town scene with population, farming, trade and transport labelled | Social Studies — Human geography — the people side |
-| 21069 | pictures/21069.webp | one town pinned by coordinates and by neighbour labels | Social Studies — Two ways to say where a place is |
-| 21070 | pictures/21070.webp | centre-to-border arrows on compact versus elongated outlines | Social Studies — What size and shape do to a country |
-| 21071 | pictures/21071.webp | a geological time column with Ethiopia’s rocks marked | Social Studies — Reading deep time — eras and periods |
-| 21072 | pictures/21072.webp | a cross-section showing uplift and faulting inside, rain and wind wearing the surface | Social Studies — Forces from inside and outside the earth |
-| 21073 | pictures/21073.gif | a fault block sinking to form a valley | Social Studies — Forces from inside and outside the earth |
-| 21074 | pictures/21074.webp | one day’s storm beside a 30-year rainfall chart for the same town | Social Studies — Weather today, climate in general |
-| 21075 | pictures/21075.webp | seven element icons around a weather station | Social Studies — The elements we measure |
-| 21076 | pictures/21076.webp | a mountain profile with temperatures falling as altitude rises | Social Studies — Latitude and altitude — the two big controls |
-| 21077 | pictures/21077.gif | a thermometer dropping as a marker climbs a mountain profile | Social Studies — Latitude and altitude — the two big controls |
-| 21078 | pictures/21078.webp | moist air rising, raining, then descending dry over a range | Social Studies — Rain shadows and why seasons move |
-| 21079 | pictures/21079.gif | air flowing over the range, cloud forming then clearing | Social Studies — Rain shadows and why seasons move |
-| 21080 | pictures/21080.webp | a coastal versus inland temperature pair with a current arrow offshore | Social Studies — Sea’s moderation and ocean currents |
-| 21081 | pictures/21081.webp | a rain gauge and a maximum-minimum thermometer labelled | Social Studies — Measuring temperature and rainfall |
-| 21082 | pictures/21082.gif | rain filling a gauge and the reading being taken | Social Studies — Measuring temperature and rainfall |
-| 21083 | pictures/21083.webp | a school weather station with all five instruments labelled | Social Studies — The rest of the weather station |
-| 21084 | pictures/21084.gif | anemometer cups spinning faster as the wind rises | Social Studies — The rest of the weather station |
-| 21085 | pictures/21085.webp | a resource wall | Social Studies — What counts as a natural resource |
-| 21086 | pictures/21086.webp | a cross-section of rain soaking to an aquifer, with a well | Social Studies — Water underground |
-| 21087 | pictures/21087.webp | five factor icons feeding one soil profile | Social Studies — How soil is made |
-| 21088 | pictures/21088.webp | giant lobelia moorland above a juniper forest edge | Social Studies — Vegetation of the high mountains |
-| 21089 | pictures/21089.webp | three panels | Social Studies — Rainforest, woodland and savanna |
-| 21090 | pictures/21090.webp | sparse thorn scrub beside a green river strip | Social Studies — Plants of the dry lands and riverbanks |
-| 21091 | pictures/21091.webp | a census enumerator at a doorway with a form | Social Studies — Counting people — censuses and surveys |
-| 21092 | pictures/21092.webp | Ethiopia’s population pyramid with the young base highlighted | Social Studies — Reading a population pyramid |
-| 21093 | pictures/21093.webp | 100 worker figures carrying 77 dependent figures | Social Studies — How many depend on each worker |
-| 21094 | pictures/21094.webp | three aerial-style settlement patterns | Social Studies — Rural settlement patterns |
-| 21095 | pictures/21095.webp | a pastoral camp beside a small town street | Social Studies — Temporary homes, and what makes a town |
-| 21096 | pictures/21096.webp | queues at a clinic, a school and a shrinking fuelwood pile | Social Studies — When growth outruns services |
-| 21097 | pictures/21097.webp | a four-step chain from farm to factory to shop to office | Social Studies — Four kinds of work |
-| 21098 | pictures/21098.webp | a forest with fuel, poles, bees and a protected spring marked | Social Studies — What forests do for the economy |
-| 21099 | pictures/21099.webp | a mixed smallholder farm | Social Studies — Subsistence farming — feeding the nation |
-| 21100 | pictures/21100.webp | an electric train and an Ethiopian Airlines jet over a route map | Social Studies — Trains, planes and boats |
-| 21101 | pictures/21101.webp | a junction scene with the four cause factors labelled | Social Studies — Road safety — causes and prevention |
-| 21102 | pictures/21102.webp | Konso-style terraces as a cultural-landscape panorama | Social Studies — Cultural landscapes — land shaped by people |
-| 21103 | pictures/21103.webp | Lalibela and Simien panels with a visitor | Social Studies — Tourism — selling the landscape |
-| 21104 | pictures/21104.webp | arrows both ways between a village and its land, water and forest | Social Studies — People and environment — a two-way street |
-| 21105 | pictures/21105.webp | a before-and-after hillside | Social Studies — How people change the land — and pollute it |
-| 21106 | pictures/21106.gif | trees clearing and a gully deepening on a hillside | Social Studies — How people change the land — and pollute it |
-| 21107 | pictures/21107.webp | a balance scale tipping to the people side | Social Studies — Over-population — too many for the resources |
-| 21108 | pictures/21108.webp | a balance scale tipping to the resources side, an idle mine and farm | Social Studies — Under-population — too few to use the resources |
-| 21109 | pictures/21109.webp | a river carrying waste past a washing point | Social Studies — Polluting air and water |
-| 21110 | pictures/21110.webp | a soil profile thinning, roots exposed | Social Studies — Losing the topsoil |
-| 21111 | pictures/21111.gif | rain washing a topsoil layer away | Social Studies — Losing the topsoil |
-| 21112 | pictures/21112.webp | terraces and a closed, regreening hillside | Social Studies — Holding the soil — conservation toolkit |
-| 21113 | pictures/21113.webp | a queue at a protected spring versus a drying unprotected source | Social Studies — Why clean water runs short |
-| 21114 | pictures/21114.webp | a forest-cover shrinking chart from the 1950s to the 1980s and beyond | Social Studies — Growth eating the forest |
-| 21115 | pictures/21115.gif | the green forest area shrinking on a map of Ethiopia | Social Studies — Growth eating the forest |
-| 21116 | pictures/21116.webp | a real garden photographed from above beside its map | Social Studies — What a map is |
-| 21117 | pictures/21117.gif | the view tilting from ground level to bird’s-eye | Social Studies — What a map is |
-| 21118 | pictures/21118.webp | a sketch route map beside a modern topographic sheet | Social Studies — Maps through history |
-| 21119 | pictures/21119.webp | one map used four ways, in four panels | Social Studies — Four things maps let you do |
-| 21120 | pictures/21120.webp | a full map with all components labelled around its margins | Social Studies — Parts every map must have |
-| 21121 | pictures/21121.webp | the same town at three scales | Social Studies — Scale — how much smaller the map is |
-| 21122 | pictures/21122.gif | zooming out through the three scales | Social Studies — Scale — how much smaller the map is |
-| 21123 | pictures/21123.webp | one scale shown as words, fraction and bar together | Social Studies — Saying scale three ways — and converting |
-| 21124 | pictures/21124.webp | a ruler laid between two towns on a map | Social Studies — Measuring straight distances on a map |
-| 21125 | pictures/21125.webp | a string laid along a winding river, then straightened against a ruler | Social Studies — Measuring winding distances — string method |
-| 21126 | pictures/21126.gif | the string tracing the curve, then lifting straight | Social Studies — Measuring winding distances — string method |
-| 21127 | pictures/21127.webp | a rectangular field on a map with its sides measured | Social Studies — Areas of regular shapes on maps |
-| 21128 | pictures/21128.webp | a lake under a grid, squares being counted and shaded | Social Studies — Areas of irregular shapes — counting squares |
-| 21129 | pictures/21129.gif | squares filling the lake shape one by one | Social Studies — Areas of irregular shapes — counting squares |
-| 21130 | pictures/21130.webp | a graticule with one point’s two lines highlighted | Social Studies — Locating by latitude and longitude |
-| 21131 | pictures/21131.webp | a grid square highlighted by its easting and northing pair | Social Studies — Four-figure grid references |
-| 21132 | pictures/21132.gif | the reading finger moving right along the corridor, then up | Social Studies — Four-figure grid references |
-| 21133 | pictures/21133.webp | one grid square magnified into tenths with a point pinned | Social Studies — Six-figure grid references |
-| 21134 | pictures/21134.webp | a sixteen-point compass rose over a map | Social Studies — Compass points — direction on a map |
-| 21135 | pictures/21135.webp | three north arrows fanning from one point, slightly apart | Social Studies — True, magnetic and grid north — and bearings |
-| 21136 | pictures/21136.webp | a hand-drawn school-compound sketch beside the real compound plan | Social Studies — Drawing a sketch map |
-| 21137 | pictures/21137.gif | a sketch map being drawn feature by feature | Social Studies — Drawing a sketch map |
-| 21138 | pictures/21138.webp | a symbol sheet | Social Studies — Reading map symbols |
-| 21139 | pictures/21139.webp | a contour map beside the hills it describes | Social Studies — Reading a landscape from its map |
-| 21140 | pictures/21140.webp | a table becoming a line graph | Social Studies — Drawing line graphs |
-| 21141 | pictures/21141.gif | points plotting, then joining into a line | Social Studies — Drawing line graphs |
-| 21142 | pictures/21142.webp | Kokosa’s rainfall bars beside an export pie chart | Social Studies — Bar graphs and pie charts |
-| 21143 | pictures/21143.gif | rainfall bars growing month by month | Social Studies — Bar graphs and pie charts |
 | 22000 | pictures/22000.webp | split scene | Physics — Physics in everyday life and society (drawn render: panels) |
 | 22001 | pictures/22001.webp | society meeting/conference scene with the EPS | Physics — Physics communities |
 | 22002 | pictures/22002.webp | panels | Physics — Where physics knowledge comes from (drawn render: panels) |
@@ -3798,3 +3667,237 @@ and lift; step 4's hold never opens while the pencil tilts back).
 - 18115 — 18115.webp — "A simple program — input, process, print" — lesson programming/writing-a-simple-python-program-input-process-print
 - 18116 — 18116.gif — the Radius: prompt waiting, 3 being typed, then Area: 28.26 and Circumference: 18.84 printing (teacher guide item 25's input-typing GIF) — lesson programming/writing-a-simple-python-program-input-process-print — frame-checked
 - 18117 — 18117.webp — "Comments — notes inside code (never run)" — lesson programming/python-comments-notes-inside-code (teacher evidence)
+| 21013 | pictures/21013.webp | a Rift cross-section with lakes sitting on the valley floor | Social Studies — Inside the Rift — the lakes section |
+| 21014 | pictures/21014.webp | a map tracing the Rift’s southern arm to Chew Bahir | Social Studies — The Chew Bahir Rift |
+| 21015 | pictures/21015.webp | a sea advancing over a land outline, layers settling beneath it | Social Studies — When the sea covered Ethiopia — sedimentary rocks |
+| 21016 | pictures/21016.gif | the shoreline advancing then retreating, leaving layers behind | Social Studies — When the sea covered Ethiopia — sedimentary rocks |
+| 21017 | pictures/21017.webp | a basement rock outcrop with a planed surface line | Social Studies — Ethiopia’s oldest rocks and the great planing |
+| 21018 | pictures/21018.webp | a dome rising, lava spreading, then a rift dropping between faults | Social Studies — Uplift, lava floods and the splitting Rift |
+| 21019 | pictures/21019.gif | the dome cracking and the rift floor dropping | Social Studies — Uplift, lava floods and the splitting Rift |
+| 21020 | pictures/21020.webp | a drainage map with three arrow colours leaving the highlands | Social Studies — Three ways Ethiopia’s water drains |
+| 21021 | pictures/21021.webp | the Abbay, Tekeze and Baro rivers traced from highlands to border | Social Studies — The Nile-bound rivers — Abbay, Tekeze, Baro |
+| 21022 | pictures/21022.webp | the Shebelle, Genale, Awash and Omo rivers traced, each ending marked | Social Studies — Shebelle, Genale, Awash and Omo |
+| 21023 | pictures/21023.webp | a lakes map with Tana and the Rift chain highlighted | Social Studies — Ethiopia’s lakes — highland and Rift |
+| 21024 | pictures/21024.webp | a gorge river in flood and in dry season, side by side | Social Studies — What Ethiopian rivers are like |
+| 21025 | pictures/21025.webp | a year wheel with the three seasons and ITCZ arrows | Social Studies — Kiremt, Bega and Belg — Ethiopia’s seasons |
+| 21026 | pictures/21026.gif | the ITCZ band sliding north then south over Ethiopia | Social Studies — Kiremt, Bega and Belg — Ethiopia’s seasons |
+| 21027 | pictures/21027.webp | a rainfall map with the three timing regions in three colours | Social Studies — Where and when Ethiopia’s rain falls |
+| 21028 | pictures/21028.webp | a temperature map from red lowlands to blue peaks | Social Studies — Ethiopia’s temperature pattern |
+| 21029 | pictures/21029.webp | an altitude staircase with the five zones and their crops | Social Studies — Ethiopia’s five climate zones — Bereha to Wurch |
+| 21030 | pictures/21030.webp | the five traditional zones as a farming staircase with crops and homes | Social Studies — Ethiopia’s five traditional climate zones |
+| 21031 | pictures/21031.webp | a mountain transect with vegetation belts stacked by altitude | Social Studies — Why vegetation changes with the land |
+| 21032 | pictures/21032.webp | a soils map beside profile strips of each main type | Social Studies — Ethiopia’s main soils |
+| 21033 | pictures/21033.webp | a ten-soil name strip beside the student book’s shorter list | Social Studies — Major soil types of Ethiopia |
+| 21034 | pictures/21034.webp | a rising population growth curve with doubling-time markers | Social Studies — How Ethiopia’s population grew |
+| 21035 | pictures/21035.gif | the growth curve steepening decade by decade | Social Studies — How Ethiopia’s population grew |
+| 21036 | pictures/21036.webp | a population-density map | Social Studies — Where Ethiopians live — and why there |
+| 21037 | pictures/21037.webp | altitude bands beside matching population bars | Social Studies — Altitude decides settlement |
+| 21038 | pictures/21038.webp | a malaria-risk altitude band map | Social Studies — Disease follows altitude and water |
+| 21039 | pictures/21039.webp | arrows from crowded highland farms to towns and farm schemes | Social Studies — Why people move inside Ethiopia |
+| 21040 | pictures/21040.webp | a road map radiating from Addis Ababa, with a donkey cart inset | Social Studies — Getting around — roads first |
+| 21041 | pictures/21041.webp | the Addis Ababa to Djibouti corridor drawn across a Horn of Africa map | Social Studies — What landlocked costs — Ethiopia’s road to the sea |
+| 21042 | pictures/21042.webp | a mineral distribution map with a symbol per mineral | Social Studies — Ethiopia’s minerals — what is where |
+| 21043 | pictures/21043.webp | three bars | Social Studies — Why agriculture runs Ethiopia’s economy |
+| 21044 | pictures/21044.webp | an eroded, fragmented hillside farm | Social Studies — What holds Ethiopian farming back |
+| 21045 | pictures/21045.webp | four panels | Social Studies — Primary work in Ethiopia |
+| 21046 | pictures/21046.webp | a weaver beside a textile factory line | Social Studies — Making things — craft and factory |
+| 21047 | pictures/21047.webp | two cargo stacks | Social Studies — What Ethiopia buys and sells |
+| 21048 | pictures/21048.webp | a language map of Ethiopia in many colours | Social Studies — Ethiopia’s many languages |
+| 21049 | pictures/21049.webp | a pie chart of the census religion shares | Social Studies — Ethiopia’s religions in numbers |
+| 21050 | pictures/21050.webp | coffee cherries beside an export-share chart | Social Studies — Cash crops and coffee’s crown |
+| 21051 | pictures/21051.webp | a five-step activity chain with the fifth step marked guide-only | Social Studies — The fifth sector — quinary activities (teacher-guide extension) |
+| 21052 | pictures/21052.webp | a forest-cover shrinking chart, 1950s to 1980s to now | Social Studies — Forests under pressure — and how Ethiopia answers |
+| 21053 | pictures/21053.webp | a community forest boundary with guards and a notice | Social Studies — Saving Ethiopia’s forests |
+| 21054 | pictures/21054.webp | rows of pupils planting seedlings on a hillside | Social Studies — Green Legacy — planting a country green |
+| 21055 | pictures/21055.gif | a seedling being planted and watered | Social Studies — Green Legacy — planting a country green |
+| 21056 | pictures/21056.webp | a Green Legacy component wheel | Social Studies — The Green Legacy movement |
+| 21057 | pictures/21057.webp | the CRGE vision as two pillars under one roof | Social Studies — Ethiopia’s green economy — the CRGE pillars |
+| 21058 | pictures/21058.webp | a climate-smart farm | Social Studies — Ethiopia’s green-economy plan |
+| 21059 | pictures/21059.webp | a Horn of Africa map with the six neighbours and the Red Sea labelled | Social Studies — Ethiopia among its neighbours |
+| 21060 | pictures/21060.webp | the four named endemics in their habitats | Social Studies — Ethiopia’s wildlife and its endemics |
+| 21061 | pictures/21061.webp | a steep farmed slope with rills becoming gullies | Social Studies — Why Ethiopia’s soil is degrading |
+| 21062 | pictures/21062.webp | a field group with leader, register and meeting point marked | Social Studies — Fieldwork safety — supervision and responsibility |
+| 21063 | pictures/21063.webp | a four-terrain hazard strip | Social Studies — Staying safe in mountains, water, bogs and dig sites |
+| 21064 | pictures/21064.webp | a pupil with an introduction letter interviewing a farmer | Social Studies — Asking people properly — field questionnaires and interviews |
+| 21065 | pictures/21065.webp | the earth with Geo + Graphos = writing the earth labelled | Social Studies — What geography is |
+| 21066 | pictures/21066.webp | a five-layer diagram of the spheres around the earth | Social Studies — How wide geography reaches — the five spheres |
+| 21067 | pictures/21067.webp | a landscape split into labelled natural features, one per sub-branch | Social Studies — Physical geography — the nature side |
+| 21068 | pictures/21068.webp | a town scene with population, farming, trade and transport labelled | Social Studies — Human geography — the people side |
+| 21069 | pictures/21069.webp | one town pinned by coordinates and by neighbour labels | Social Studies — Two ways to say where a place is |
+| 21070 | pictures/21070.webp | centre-to-border arrows on compact versus elongated outlines | Social Studies — What size and shape do to a country |
+| 21071 | pictures/21071.webp | a geological time column with Ethiopia’s rocks marked | Social Studies — Reading deep time — eras and periods |
+| 21072 | pictures/21072.webp | a cross-section showing uplift and faulting inside, rain and wind wearing the surface | Social Studies — Forces from inside and outside the earth |
+| 21073 | pictures/21073.gif | a fault block sinking to form a valley | Social Studies — Forces from inside and outside the earth |
+| 21074 | pictures/21074.webp | one day’s storm beside a 30-year rainfall chart for the same town | Social Studies — Weather today, climate in general |
+| 21075 | pictures/21075.webp | seven element icons around a weather station | Social Studies — The elements we measure |
+| 21076 | pictures/21076.webp | a mountain profile with temperatures falling as altitude rises | Social Studies — Latitude and altitude — the two big controls |
+| 21077 | pictures/21077.gif | a thermometer dropping as a marker climbs a mountain profile | Social Studies — Latitude and altitude — the two big controls |
+| 21078 | pictures/21078.webp | moist air rising, raining, then descending dry over a range | Social Studies — Rain shadows and why seasons move |
+| 21079 | pictures/21079.gif | air flowing over the range, cloud forming then clearing | Social Studies — Rain shadows and why seasons move |
+| 21080 | pictures/21080.webp | a coastal versus inland temperature pair with a current arrow offshore | Social Studies — Sea’s moderation and ocean currents |
+| 21081 | pictures/21081.webp | a rain gauge and a maximum-minimum thermometer labelled | Social Studies — Measuring temperature and rainfall |
+| 21082 | pictures/21082.gif | rain filling a gauge and the reading being taken | Social Studies — Measuring temperature and rainfall |
+| 21083 | pictures/21083.webp | a school weather station with all five instruments labelled | Social Studies — The rest of the weather station |
+| 21084 | pictures/21084.gif | anemometer cups spinning faster as the wind rises | Social Studies — The rest of the weather station |
+| 21085 | pictures/21085.webp | a resource wall | Social Studies — What counts as a natural resource |
+| 21086 | pictures/21086.webp | a cross-section of rain soaking to an aquifer, with a well | Social Studies — Water underground |
+| 21087 | pictures/21087.webp | five factor icons feeding one soil profile | Social Studies — How soil is made |
+| 21088 | pictures/21088.webp | giant lobelia moorland above a juniper forest edge | Social Studies — Vegetation of the high mountains |
+| 21089 | pictures/21089.webp | three panels | Social Studies — Rainforest, woodland and savanna |
+| 21090 | pictures/21090.webp | sparse thorn scrub beside a green river strip | Social Studies — Plants of the dry lands and riverbanks |
+| 21091 | pictures/21091.webp | a census enumerator at a doorway with a form | Social Studies — Counting people — censuses and surveys |
+| 21092 | pictures/21092.webp | Ethiopia’s population pyramid with the young base highlighted | Social Studies — Reading a population pyramid |
+| 21093 | pictures/21093.webp | 100 worker figures carrying 77 dependent figures | Social Studies — How many depend on each worker |
+| 21094 | pictures/21094.webp | three aerial-style settlement patterns | Social Studies — Rural settlement patterns |
+| 21095 | pictures/21095.webp | a pastoral camp beside a small town street | Social Studies — Temporary homes, and what makes a town |
+| 21096 | pictures/21096.webp | queues at a clinic, a school and a shrinking fuelwood pile | Social Studies — When growth outruns services |
+| 21097 | pictures/21097.webp | a four-step chain from farm to factory to shop to office | Social Studies — Four kinds of work |
+| 21098 | pictures/21098.webp | a forest with fuel, poles, bees and a protected spring marked | Social Studies — What forests do for the economy |
+| 21099 | pictures/21099.webp | a mixed smallholder farm | Social Studies — Subsistence farming — feeding the nation |
+| 21100 | pictures/21100.webp | an electric train and an Ethiopian Airlines jet over a route map | Social Studies — Trains, planes and boats |
+| 21101 | pictures/21101.webp | a junction scene with the four cause factors labelled | Social Studies — Road safety — causes and prevention |
+| 21102 | pictures/21102.webp | Konso-style terraces as a cultural-landscape panorama | Social Studies — Cultural landscapes — land shaped by people |
+| 21103 | pictures/21103.webp | Lalibela and Simien panels with a visitor | Social Studies — Tourism — selling the landscape |
+| 21104 | pictures/21104.webp | arrows both ways between a village and its land, water and forest | Social Studies — People and environment — a two-way street |
+| 21105 | pictures/21105.webp | a before-and-after hillside | Social Studies — How people change the land — and pollute it |
+| 21106 | pictures/21106.gif | trees clearing and a gully deepening on a hillside | Social Studies — How people change the land — and pollute it |
+| 21107 | pictures/21107.webp | a balance scale tipping to the people side | Social Studies — Over-population — too many for the resources |
+| 21108 | pictures/21108.webp | a balance scale tipping to the resources side, an idle mine and farm | Social Studies — Under-population — too few to use the resources |
+| 21109 | pictures/21109.webp | a river carrying waste past a washing point | Social Studies — Polluting air and water |
+| 21110 | pictures/21110.webp | a soil profile thinning, roots exposed | Social Studies — Losing the topsoil |
+| 21111 | pictures/21111.gif | rain washing a topsoil layer away | Social Studies — Losing the topsoil |
+| 21112 | pictures/21112.webp | terraces and a closed, regreening hillside | Social Studies — Holding the soil — conservation toolkit |
+| 21113 | pictures/21113.webp | a queue at a protected spring versus a drying unprotected source | Social Studies — Why clean water runs short |
+| 21114 | pictures/21114.webp | a forest-cover shrinking chart from the 1950s to the 1980s and beyond | Social Studies — Growth eating the forest |
+| 21115 | pictures/21115.gif | the green forest area shrinking on a map of Ethiopia | Social Studies — Growth eating the forest |
+| 21116 | pictures/21116.webp | a real garden photographed from above beside its map | Social Studies — What a map is |
+| 21117 | pictures/21117.gif | the view tilting from ground level to bird’s-eye | Social Studies — What a map is |
+| 21118 | pictures/21118.webp | a sketch route map beside a modern topographic sheet | Social Studies — Maps through history |
+| 21119 | pictures/21119.webp | one map used four ways, in four panels | Social Studies — Four things maps let you do |
+| 21120 | pictures/21120.webp | a full map with all components labelled around its margins | Social Studies — Parts every map must have |
+| 21121 | pictures/21121.webp | the same town at three scales | Social Studies — Scale — how much smaller the map is |
+| 21122 | pictures/21122.gif | zooming out through the three scales | Social Studies — Scale — how much smaller the map is |
+| 21123 | pictures/21123.webp | one scale shown as words, fraction and bar together | Social Studies — Saying scale three ways — and converting |
+| 21124 | pictures/21124.webp | a ruler laid between two towns on a map | Social Studies — Measuring straight distances on a map |
+| 21125 | pictures/21125.webp | a string laid along a winding river, then straightened against a ruler | Social Studies — Measuring winding distances — string method |
+| 21126 | pictures/21126.gif | the string tracing the curve, then lifting straight | Social Studies — Measuring winding distances — string method |
+| 21127 | pictures/21127.webp | a rectangular field on a map with its sides measured | Social Studies — Areas of regular shapes on maps |
+| 21128 | pictures/21128.webp | a lake under a grid, squares being counted and shaded | Social Studies — Areas of irregular shapes — counting squares |
+| 21129 | pictures/21129.gif | squares filling the lake shape one by one | Social Studies — Areas of irregular shapes — counting squares |
+| 21130 | pictures/21130.webp | a graticule with one point’s two lines highlighted | Social Studies — Locating by latitude and longitude |
+| 21131 | pictures/21131.webp | a grid square highlighted by its easting and northing pair | Social Studies — Four-figure grid references |
+| 21132 | pictures/21132.gif | the reading finger moving right along the corridor, then up | Social Studies — Four-figure grid references |
+| 21133 | pictures/21133.webp | one grid square magnified into tenths with a point pinned | Social Studies — Six-figure grid references |
+| 21134 | pictures/21134.webp | a sixteen-point compass rose over a map | Social Studies — Compass points — direction on a map |
+| 21135 | pictures/21135.webp | three north arrows fanning from one point, slightly apart | Social Studies — True, magnetic and grid north — and bearings |
+| 21136 | pictures/21136.webp | a hand-drawn school-compound sketch beside the real compound plan | Social Studies — Drawing a sketch map |
+| 21137 | pictures/21137.gif | a sketch map being drawn feature by feature | Social Studies — Drawing a sketch map |
+| 21138 | pictures/21138.webp | a symbol sheet | Social Studies — Reading map symbols |
+| 21139 | pictures/21139.webp | a contour map beside the hills it describes | Social Studies — Reading a landscape from its map |
+| 21140 | pictures/21140.webp | a table becoming a line graph | Social Studies — Drawing line graphs |
+| 21141 | pictures/21141.gif | points plotting, then joining into a line | Social Studies — Drawing line graphs |
+| 21142 | pictures/21142.webp | Kokosa’s rainfall bars beside an export pie chart | Social Studies — Bar graphs and pie charts |
+| 21143 | pictures/21143.gif | rainfall bars growing month by month | Social Studies — Bar graphs and pie charts |
+
+## Computer Science and ICT — Grade 11 Unit 5 Troubleshooting and Maintenance band (Ethiopia Wave 3, E5)
+
+- 17700 — 17700.webp — "Start with the simple checks" (dead computer + four-check tick-list) — lesson hardware/troubleshooting-start-with-the-simple-checks
+- 17701 — 17701.gif — the POST checks ticking off in sequence during start-up — lesson hardware/post-the-computer-checks-itself-at-start-up — frame-checked
+- 17702 — 17702.webp — "POST — the start-up self-check" — lesson hardware/post-the-computer-checks-itself-at-start-up
+- 17703 — 17703.webp — "Beep codes — short and long beeps" — lesson hardware/beep-codes-what-the-start-up-sounds-mean
+- 17704 — 17704.webp — "BIOS — the bridge at start-up" — lesson hardware/bios-the-program-that-starts-the-computer
+- 17705 — 17705.webp — "CMOS battery — replace with the same" — lesson hardware/cmos-errors-when-the-battery-needs-replacing
+- 17706 — 17706.webp — "Event Viewer — the Windows error log" — lesson hardware/event-viewer-reading-the-error-log
+- 17707 — 17707.webp — "Device Manager — four problem signs" — lesson hardware/device-manager-finding-problem-hardware
+- 17708 — 17708.gif — the right-click → Properties → Driver → Update Driver click path for a yellow-flagged device (teacher guide item 21 — evidence) — lesson hardware/device-manager-finding-problem-hardware — frame-checked
+- 17709 — 17709.webp — "Performance — CPU, memory, disk, network" — lesson hardware/watching-performance-task-manager
+- 17710 — 17710.webp — "Resource Monitor — find the heavy app" — lesson hardware/resource-monitor-finding-what-is-slowing-the-computer
+- 17711 — 17711.webp — "Cleaning dust — three ways" — lesson hardware/preventive-maintenance-keeping-dust-out
+- 17712 — 17712.gif — compressed air blowing dust particles out of a case vent — lesson hardware/preventive-maintenance-keeping-dust-out — frame-checked
+- 17713 — 17713.webp — "Antivirus — install it, scan regularly" — lesson hardware/antivirus-installing-it-and-scanning-regularly
+- 17714 — 17714.webp — "Backup — copy your work first" — lesson hardware/backups-copy-your-work-before-anything-goes-wrong
+- 17715 — 17715.webp — "Fragmentation — scattered, then gathered" — lesson hardware/defragmenting-putting-a-files-pieces-back-together
+- 17716 — 17716.gif — twelve scattered file blocks sliding together into one ordered continuous block (defragmentation; teacher guide item 22 — evidence) — lesson hardware/defragmenting-putting-a-files-pieces-back-together — frame-checked
+- 17717 — 17717.webp — "Power protection — four devices" — lesson hardware/protecting-a-computer-from-power-problems
+- 17718 — 17718.webp — "End the session the right way" (save → close → shut down strip) — lesson hardware/shut-down-properly-or-hibernate
+
+## Computer Science and ICT — Grade 11 Unit 1 Information Systems band (Ethiopia Wave 3, E1)
+
+- 16100 — 16100.webp — "Grade 11 IT — the six-unit road map" — lesson computers-in-society/data-raw-facts-with-no-meaning-yet-grade-11
+- 16101 — 16101.webp — "Data — one fact, three forms" — lesson computers-in-society/data-raw-facts-with-no-meaning-yet-grade-11
+- 16102 — 16102.webp — "From data to information — loose numbers into a weekly bar graph" — lesson computers-in-society/information-processed-data-with-meaning
+- 16103 — 16103.gif — loose numbers sorting themselves into a weekly bar graph — lesson computers-in-society/information-processed-data-with-meaning — frame-checked
+- 16104 — 16104.webp — "The processing ladder (teacher guide — evidence)" — lesson computers-in-society/information-processed-data-with-meaning
+- 16105 — 16105.webp — "Knowledge — told how, then riding" — lesson computers-in-society/knowledge-information-put-into-action
+- 16106 — 16106.webp — "Two kinds of knowledge — explicit and tacit (teacher guide — evidence)" — lesson computers-in-society/knowledge-information-put-into-action
+- 16107 — 16107.webp — "Wisdom — pause, think, choose the wise course" — lesson computers-in-society/wisdom-using-knowledge-well
+- 16108 — 16108.webp — "The DIKW pyramid — value rises" — lesson computers-in-society/data-information-knowledge-wisdom-the-pyramid
+- 16109 — 16109.gif — a token climbing the DIKW pyramid, data at the wide base to wisdom at the tip — lesson computers-in-society/data-information-knowledge-wisdom-the-pyramid — frame-checked
+- 16110 — 16110.webp — "Telling the four apart — five-row comparison (teacher guide — evidence)" — lesson computers-in-society/data-information-knowledge-wisdom-the-pyramid
+- 16111 — 16111.webp — "What an information system is — marks in, reports out" — lesson computers-in-society/what-an-information-system-is
+- 16112 — 16112.webp — "The five components around a central database" — lesson computers-in-society/the-five-components-of-an-information-system
+- 16113 — 16113.webp — "Our school as an information system (teacher guide — evidence)" — lesson computers-in-society/the-five-components-of-an-information-system
+- 16114 — 16114.webp — "HRIS — an employee record with the four software kinds" — lesson computers-in-society/an-information-system-at-work-hris
+- 16115 — 16115.webp — "E-government — one portal door, many services" — lesson computers-in-society/e-government-public-services-online
+- 16116 — 16116.webp — "Paying a bill by phone (teacher guide — evidence)" — lesson computers-in-society/e-government-public-services-online
+- 16117 — 16117.webp — "E-banking — the branch queue beside the phone" — lesson computers-in-society/e-banking-services-benefits-and-challenges
+- 16118 — 16118.webp — "E-learning — a learner at home, learners far away" — lesson computers-in-society/e-learning-learning-through-digital-devices
+- 16119 — 16119.webp — "E-commerce — buyer, merchant, bank, transporter in one circle" — lesson computers-in-society/e-commerce-buying-and-selling-online
+- 16120 — 16120.gif — an order travelling buyer → merchant → bank → transporter → back to buyer, delivered — lesson computers-in-society/e-commerce-buying-and-selling-online — frame-checked
+- 16121 — 16121.webp — "Telemedicine — a rural patient, a doctor on screen, home readings" — lesson computers-in-society/telemedicine-a-doctor-at-a-distance
+- 16122 — 16122.webp — "Teleconferencing — the same meeting twice: phones only, then faces" — lesson computers-in-society/teleconferencing-audio-and-video-meetings
+- 16123 — 16123.webp — "IT for entrepreneurship — a founder, a laptop, four business icons" — lesson computers-in-society/it-for-entrepreneurship-starting-an-it-based-business
+- 16124 — 16124.webp — "Two ways to start — rented shop vs phone catalogue (teacher guide — evidence)" — lesson computers-in-society/it-for-entrepreneurship-starting-an-it-based-business
+
+## Computer Science and ICT — Grade 11 Unit 4 Web Development band (Ethiopia Wave 3, E4)
+
+- 17300 — 17300.webp — "The World Wide Web — four foundations" — lesson internet-and-the-web/internet-web-website-and-web-page (grown)
+- 17301 — 17301.webp — "Designing a website — five guidelines" — lesson internet-and-the-web/designing-a-website-audience-navigation-consistency-simplicity-accessibility
+- 17302 — 17302.webp — "Designing vs building a website" — lesson internet-and-the-web/designing-vs-building-a-website
+- 17303 — 17303.webp — "HTML tags and elements" — lesson internet-and-the-web/html-tags-and-elements
+- 17304 — 17304.webp — "Void elements — br, img, hr" — lesson internet-and-the-web/void-elements-br-img-hr
+- 17305 — 17305.webp — "The structure of an HTML document" — lesson internet-and-the-web/the-structure-of-an-html-document
+- 17306 — 17306.webp — "Attributes — and the img element" — lesson internet-and-the-web/html-attributes-and-the-img-element
+- 17307 — 17307.webp — "Adding a video to a webpage" — lesson internet-and-the-web/adding-a-video-to-a-webpage
+- 17308 — 17308.webp — "HTML links — linking to other pages" — lesson internet-and-the-web/html-links-linking-to-other-pages
+- 17309 — 17309.webp — "Image links — absolute vs relative URLs" — lesson internet-and-the-web/image-links-and-absolute-vs-relative-urls
+- 17310 — 17310.webp — "Links within a page — jumping to a section" — lesson internet-and-the-web/links-within-a-page-jumping-to-a-section
+- 17311 — 17311.webp — "HTML tables — mountains of Ethiopia" — lesson internet-and-the-web/html-tables
+- 17312 — 17312.webp — "Merging cells — colspan and rowspan" — lesson internet-and-the-web/merging-table-cells-colspan-and-rowspan
+- 17313 — 17313.webp — "Page layout with a table" — lesson internet-and-the-web/page-layout-with-a-table
+- 17314 — 17314.webp — "Ordered lists in HTML" — lesson internet-and-the-web/ordered-lists-in-html
+- 17315 — 17315.webp — "Unordered lists in HTML" — lesson internet-and-the-web/unordered-lists-in-html
+- 17316 — 17316.webp — "Nested lists — a list inside a list" — lesson internet-and-the-web/nested-lists-a-list-inside-a-list
+- 17317 — 17317.webp — "Description lists in HTML" — lesson internet-and-the-web/description-lists-in-html
+- 17320 — 17320.gif — code lines typing into an editor, then "Hello!" rendering in the browser pane (teacher guide — evidence) — lesson internet-and-the-web/html-tags-and-elements — frame-checked
+- 17321 — 17321.gif — a paragraph's text sliding from left-aligned to right-aligned as align="right" is typed — lesson internet-and-the-web/html-attributes-and-the-img-element — frame-checked
+- 17322 — 17322.gif — a cursor moving onto the Ethiopian Airlines link, clicking, and the linked page loading — lesson internet-and-the-web/html-links-linking-to-other-pages — frame-checked
+- 17323 — 17323.gif — a cursor clicking a logo image and the linked site opening (teacher guide — evidence) — lesson internet-and-the-web/image-links-and-absolute-vs-relative-urls — frame-checked
+- 17324 — 17324.gif — a long page scrolling itself down until Section 3, the named spot, lands in view — lesson internet-and-the-web/links-within-a-page-jumping-to-a-section — frame-checked
+- 17325 — 17325.gif — the "Cases" header cell stretching from one column to two as colspan grows — lesson internet-and-the-web/merging-table-cells-colspan-and-rowspan — frame-checked
+- 17326 — 17326.gif — an ordered list's numbering swapping numerals → Roman numerals → letters as the type value changes — lesson internet-and-the-web/ordered-lists-in-html — frame-checked
+
+## Computer Science and ICT — Grade 11 Unit 3 Database Management band (Ethiopia Wave 3, E3)
+
+- 16900 — 16900.webp — "One employee — two files, two addresses" — lesson databases/file-based-data-management-separate-files-duplicated-data
+- 16901 — 16901.webp — "The database approach — one stack" — lesson databases/the-database-approach-and-the-dbms
+- 16902 — 16902.gif — a query travelling down the applications → DBMS → database stack and matching data travelling back — lesson databases/the-database-approach-and-the-dbms — frame-checked
+- 16903 — 16903.webp — "Entity, attributes, relationship" — lesson databases/entities-attributes-and-relationships
+- 16904 — 16904.webp — "The three relationship types" — lesson databases/one-to-one-one-to-many-many-to-many
+- 16905 — 16905.webp — "ERD — student borrows book" — lesson databases/drawing-an-erd
+- 16906 — 16906.gif — an ERD building itself: rectangle, ellipses, second entity, labelled joining line — lesson databases/drawing-an-erd — frame-checked
+- 16907 — 16907.webp — "Solved case — Product · Customer · Order (teacher guide)" — lesson databases/drawing-an-erd
+- 16908 — 16908.webp — "A relation — the Student table" — lesson databases/the-relational-data-model-tables-of-rows-and-columns
+- 16909 — 16909.webp — "Joining Country and City (teacher guide)" — lesson databases/the-relational-data-model-tables-of-rows-and-columns
+- 16910 — 16910.webp — "Primary keys and foreign keys" — lesson databases/primary-keys-and-foreign-keys
+- 16911 — 16911.gif — a Book_Loan row lighting up its student row, then its book row, through the two foreign keys — lesson databases/primary-keys-and-foreign-keys — frame-checked
+- 16912 — 16912.webp — "Creating a database in Access — the book's order" — lesson databases/creating-a-database-in-microsoft-access
+- 16913 — 16913.gif — the four creation steps highlighted in order: open Access, Blank database, type the name, Create — lesson databases/creating-a-database-in-microsoft-access — frame-checked
+- 16914 — 16914.webp — "Design view builds — Datasheet view fills" — lesson databases/creating-a-table-and-entering-records-in-access
+- 16915 — 16915.gif — Design view's field/type list, then the switch to Datasheet view with records appearing cell by cell — lesson databases/creating-a-table-and-entering-records-in-access — frame-checked
+- 16916 — 16916.webp — "A query — design grid above, results below" — lesson databases/creating-a-query-in-access
+- 16917 — 16917.gif — fields being picked in the query grid (Name, Sex), then the Datasheet results showing only those fields — lesson databases/creating-a-query-in-access — frame-checked
+- 16918 — 16918.webp — "Criteria — the list narrows to the matching rows" — lesson databases/query-criteria-asking-for-exactly-the-records-you-want
+- 16919 — 16919.gif — M typed in the Criteria box, then the female records disappearing one by one until only the matches remain — lesson databases/query-criteria-asking-for-exactly-the-records-you-want — frame-checked
+- 16920 — 16920.webp — "One query across three tables" — lesson databases/queries-across-multiple-tables
+- 16921 — 16921.gif — the Student table's primary key dragged across onto Grade's matching Student ID field, the join line forming — lesson databases/queries-across-multiple-tables — frame-checked

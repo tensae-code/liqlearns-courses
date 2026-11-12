@@ -8,3 +8,5 @@ Soil has a recipe of five.
 Parent rock. Climate. Organisms. Relief. Time.
 Change any one, and the soil changes.
 That is why one country holds so many soils.
+
+The Grade 10 book defines the finished product the five factors make: soil is a mixture of weathered minerals, organic and inorganic matter, organisms, air and water, significant to one to two metres over the parent material.

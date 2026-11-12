@@ -14,6 +14,10 @@ Soil forms under five factors: the parent rock it weathers from, the climate tha
 
 Ethiopian soils vary because the factors vary: different basement, sedimentary and volcanic parent rocks; climates from Bereha to Wurch; relief from plateau to gorge. Read the factors of a place, and its soil is half explained before you dig.
 
+## Sub lesson 3 — Soil — the working skin of the land (Grade 10)
+
+The Grade 10 book defines the finished product the five factors make: soil is a mixture of weathered minerals, organic and inorganic matter, organisms, air and water, significant to one to two metres over the parent material. Its functions are listed — feeding plants, storing and buffering water and pollutants, growing food, fibre and timber, giving habitat, and controlling floods — and Africa's diverse soils are limited in many areas by shallowness, wetness, dryness or nutrient poverty, driven mainly by climate variation.
+
 ## Say it to your companion
 
 Tell your companion the five soil-forming factors, and read one place’s soil from them.

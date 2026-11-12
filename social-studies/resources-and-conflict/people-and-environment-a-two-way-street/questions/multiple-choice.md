@@ -18,3 +18,6 @@ a) two-way  b) one-way  c) imaginary
 a) only farming  b) wishing  c) farming, building and extracting
 **Answer: c) farming, building and extracting**
 
+**5. (Sub lesson 3)** The Grade 10 book defines the environment as —
+a) only forests and rivers  b) what humans build  c) the multidimensional surroundings of external factors
+**Answer: c) the multidimensional surroundings of external factors**

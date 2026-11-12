@@ -18,3 +18,6 @@ a) those not earning — dependents  b) all adults  c) only the retired
 a) rainfall  b) land  c) savings
 **Answer: c) savings**
 
+**5. (Sub lesson 3)** Regional dependency figures compare —
+a) only two villages  b) Europe and Asia only  c) Sub-Saharan Africa, Northern Africa and the sub-regions
+**Answer: c) Sub-Saharan Africa, Northern Africa and the sub-regions**

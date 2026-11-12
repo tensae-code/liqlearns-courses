@@ -8,3 +8,5 @@ Answer in a short sentence.
 **2. (Sub lesson 2)** Name three parent-rock families of Ethiopia.
 **Answer: Basement, sedimentary and volcanic rocks.**
 
+**3. (Sub lesson 3)** What is soil a mixture of?
+**Answer:** Weathered minerals, organic and inorganic matter, organisms, air and water.

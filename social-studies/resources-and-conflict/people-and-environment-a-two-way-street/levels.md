@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files (5 items). Pass mark: state the depen
 ## Sub lesson 2 — Reshaping
 Sub lesson 2 questions from the type files (5 items). Pass mark: state the two-way verdict.
 
+
+## Sub lesson 3 — Dependence and modification — the Grade 10 statement
+Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

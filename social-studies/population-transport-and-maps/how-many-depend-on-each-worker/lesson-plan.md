@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The ratio** — 76.8 per 100 in 2020
 2. **Active and inactive; the burden** — what the ratio does
 
+3. **Dependency across Africa's regions**
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Define the dependency ratio.
 2. Give the 2020 figure.
 3. Name the burden’s three fronts.
+
+3. Answer, from the lesson alone, the questions of sub lesson 3 (Dependency across Africa's regions).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

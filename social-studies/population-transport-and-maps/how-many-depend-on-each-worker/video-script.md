@@ -8,3 +8,5 @@ Count the dependents. Count the workers. Divide.
 Ethiopia, 2020: about 77 dependents per 100 of working age.
 That number presses on wages, on services, on savings.
 A young country carries a heavy, hopeful load.
+
+The Grade 10 book carries the ratio across the continent: regional dependency figures for Sub-Saharan Africa, Northern Africa and the sub-regions quantify how many dependants each working-age group carries.

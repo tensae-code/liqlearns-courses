@@ -14,6 +14,10 @@ The age dependency ratio counts dependents — the young and the old — against
 
 The population splits into the economically active and the inactive. A high dependency ratio burdens all three: workers carry more mouths per wage; services — schools, clinics — must serve more non-earners; and savings thin, because earnings are spent on dependents rather than stored.
 
+## Sub lesson 3 — Dependency across Africa's regions
+
+The Grade 10 book carries the ratio across the continent: regional dependency figures for Sub-Saharan Africa, Northern Africa and the sub-regions quantify how many dependants each working-age group carries. The regions differ because their age structures differ — a young region loads its workers with children; the dependency lesson and the pyramid lesson are the same fact read two ways.
+
 ## Say it to your companion
 
 Tell your companion what the dependency ratio is, Ethiopia’s figure, and where the burden falls.

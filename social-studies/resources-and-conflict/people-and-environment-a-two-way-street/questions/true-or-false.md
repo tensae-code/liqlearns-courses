@@ -8,3 +8,5 @@ Say whether each sentence is true or false.
 **2. (Sub lesson 2)** Neither side can be understood in isolation.
 **Answer: True**
 
+**3. (Sub lesson 3)** Humans interact with the environment to satisfy growing needs.
+**Answer: True**

@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Dependence** — everything from the environment
 2. **Reshaping** — the return arrow
 
+3. **Dependence and modification — the Grade 10 statement**
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. State the dependence claim.
 2. Trace one object to the environment.
 3. State the two-way verdict.
+
+3. Answer, from the lesson alone, the questions of sub lesson 3 (Dependence and modification — the Grade 10 statement).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

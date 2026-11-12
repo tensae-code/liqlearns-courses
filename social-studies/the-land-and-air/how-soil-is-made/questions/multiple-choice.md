@@ -18,3 +18,6 @@ a) the factors vary across the country  b) of one uniform climate  c) all parent
 a) Kolla to Kolla  b) desert to desert  c) Bereha to Wurch
 **Answer: c) Bereha to Wurch**
 
+**5. (Sub lesson 3)** Soil is significant to a depth of about —
+a) ten metres exactly  b) a few centimetres only  c) one to two metres over the parent material
+**Answer: c) one to two metres over the parent material**

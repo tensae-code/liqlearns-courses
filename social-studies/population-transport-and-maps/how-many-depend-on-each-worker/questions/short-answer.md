@@ -8,3 +8,5 @@ Answer in a short sentence.
 **2. (Sub lesson 2)** Name the burden’s three fronts.
 **Answer: Workers (more mouths per wage), services (schools and clinics), and savings.**
 
+**3. (Sub lesson 3)** Why does a young region load its workers heavily?
+**Answer:** Because most of its dependants are children — a young age structure means many dependants per working-age person.

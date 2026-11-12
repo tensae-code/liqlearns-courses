@@ -235,3 +235,36 @@ first built at 21600–21730 and renumbered +5400 into 27000–27132
 on the coordinator's order after another stream took the 21600s.
 Build log:
 ethiopia-2026-11-11/build-logs/wave4-geo-C-g11-physical.md.
+
+## Ethiopia Grade 9 Geography — built 2026-11-12 (Wave 4 Geography Band A; picture range 21000–21143)
+
+122 lessons, 1,220 questions (10 per lesson), all inside the existing
+titles: **The Land and Air** 82 (Ethiopia's relief, rivers, lakes,
+seasons, climates, soils and vegetation, plus the whole Unit 8
+map-skills set), **Population, Transport and Maps** 15, **People and
+Resources** 14 (including the guide-only quinary lesson on the
+0-countries evidence line), **Resources and Conflict** 11. Four
+lessons stand on teacher-guide evidence only and carry the
+0-countries line (the quinary extension + three fieldwork lessons);
+guide additions fold into ten pupil lessons as labelled evidence.
+Pictures: 144 media files (122 drawn .webp + 22 drawn .gif, frames
+1/7/13/20 read) — diagram-template renders captioned with each
+placement's exact tag, honestly noted in the build log as schematic
+rather than bespoke art; a media-upgrade pass on high-value tags is
+recommended there. Honesty carried: the ©202 line, "Dection", degree
+signs as "o", the Unit 8 curved-distance example taught clean at
+4.2 km, the guide's five-sector and Green Legacy divergences named,
+airlines and CRGE figures taught as printed. Not built: "Ethiopia's
+own ways of making peace" — no G9 placement gives it a page.
+MEDIA INCIDENT, repaired: this band's media script briefly
+overwrote picture files across social-studies/ numbers in a
+five-minute window; every tracked file it touched was restored
+from git (checksums verified against HEAD), and this band's own
+files were written after the restore point and re-verified. Its
+build also found the 21000s already held an Amharic First Steps
+block (21000–21012 + 21144–21145, committed) — the same numbers
+now also carry this band's files under the opposite extension; no
+file of either stream was overwritten by the other, and both sets
+of INDEX rows stand. Build log + incident file:
+ethiopia-2026-11-11/build-logs/wave4-geo-A-g09-ethiopia.md and
+wave4-geo-A-g09-INCIDENT-picture-files-overwritten.txt.

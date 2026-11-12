@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The five factors** — the recipe
 2. **Ethiopia’s varied soils** — factors at work in one country
 
+3. **Soil — the working skin of the land (Grade 10)**
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Name the five factors.
 2. Say why Ethiopian soils vary.
 3. Say why soil is slow.
+
+3. Answer, from the lesson alone, the questions of sub lesson 3 (Soil — the working skin of the land (Grade 10)).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

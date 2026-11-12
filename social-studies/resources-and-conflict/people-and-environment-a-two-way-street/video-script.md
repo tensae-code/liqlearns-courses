@@ -8,3 +8,5 @@ Everything you own began in the environment.
 Wood, metal, water, cotton — trace any object home.
 And making it changed the environment back.
 Two arrows. One relationship. Neither side stands alone.
+
+The Grade 10 book states the same street in its own words: the environment is the multidimensional surroundings of external factors, and humans interact with it to satisfy their growing needs — in a two-way, reciprocal relationship.
