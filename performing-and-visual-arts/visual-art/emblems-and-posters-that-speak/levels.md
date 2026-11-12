@@ -13,3 +13,6 @@ Sub lesson 3 questions from the type files. Pass mark: recite the poster rules a
 
 ## Sub lesson 4 — Reading signs and posters (teacher guide — evidence)
 Sub lesson 4 questions from the type files. Pass mark: read one real sign or poster aloud by its mark, picture and words.
+
+## Sub lesson 5 — Emblems and the design professions (Grade 6)
+Sub lesson 5 questions from the type files. Pass mark: name the four jobs of visual works and two design professions.

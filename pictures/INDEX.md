@@ -1811,6 +1811,41 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 12937 | pictures/12937.webp | five attacks, five first protections | Computer Science and ICT — Investigating Ethio-telecom and INSA |
 | 12938 | pictures/12938.webp | five steps to a shared network | Computer Science and ICT — Project: Set Up a Small Peer-to-Peer Network |
 | 12939 | pictures/12939.gif | a shared folder opened from a second computer | Computer Science and ICT — Project: Set Up a Small Peer-to-Peer Network |
+| 13300 | pictures/13300.webp | application software — one suite, one family | Computer Science and ICT — Application Software |
+| 13301 | pictures/13301.webp | word processing — a letter, start to finish | Computer Science and ICT — Word Processing |
+| 13302 | pictures/13302.webp | opening Word — the book's two ways | Computer Science and ICT — Opening a Word Processor |
+| 13304 | pictures/13304.webp | the Word window — its ten elements | Computer Science and ICT — The Word Window |
+| 13305 | pictures/13305.webp | the Paragraph group — its buttons | Computer Science and ICT — The Paragraph Group — a Map of Its Buttons |
+| 13306 | pictures/13306.webp | indentation — in from the margin | Computer Science and ICT — Indentation — Moving a Paragraph In from the Margin |
+| 13307 | pictures/13307.webp | indent with the Tab key | Computer Science and ICT — Indent with the Tab Key |
+| 13309 | pictures/13309.webp | the Ruler — its three markers | Computer Science and ICT — Indent with the Ruler |
+| 13311 | pictures/13311.webp | Increase Indent — half an inch per click | Computer Science and ICT — Indent with the Increase/Decrease Buttons |
+| 13313 | pictures/13313.webp | the Paragraph dialog box | Computer Science and ICT — Indent with the Paragraph Dialog Box |
+| 13314 | pictures/13314.webp | one paragraph, aligned four ways | Computer Science and ICT — Aligning Text — Left, Right, Centre, Justified |
+| 13316 | pictures/13316.webp | making a bulleted list | Computer Science and ICT — Making a Bulleted List |
+| 13318 | pictures/13318.webp | custom bullets — a symbol, in colour | Computer Science and ICT — Making a Bulleted List |
+| 13320 | pictures/13320.webp | one list, numbered three ways | Computer Science and ICT — Making a Numbered List |
+| 13321 | pictures/13321.webp | a multilevel list — levels in colour | Computer Science and ICT — Multilevel Lists — Outlines with Levels |
+| 13322 | pictures/13322.gif | Tab pushing a line down a level, Shift+Tab pulling it back | Computer Science and ICT — Multilevel Lists — Outlines with Levels |
+| 13323 | pictures/13323.webp | line spacing — single beside double | Computer Science and ICT — Line and Paragraph Spacing |
+| 13324 | pictures/13324.gif | lines spreading apart as 2.0 is chosen | Computer Science and ICT — Line and Paragraph Spacing |
+| 13325 | pictures/13325.webp | a page break keeps text with its picture | Computer Science and ICT — Inserting a Page Break |
+| 13326 | pictures/13326.gif | text jumping to the next page as a page break is inserted | Computer Science and ICT — Inserting a Page Break |
+| 13327 | pictures/13327.webp | removing a page break | Computer Science and ICT — Removing a Page Break |
+| 13328 | pictures/13328.webp | adding page numbers | Computer Science and ICT — Adding Page Numbers |
+| 13329 | pictures/13329.gif | page numbers appearing at the foot of every page | Computer Science and ICT — Adding Page Numbers |
+| 13331 | pictures/13331.gif | typing once in the header, the text appearing on page after page | Computer Science and ICT — Adding a Header and Footer |
+| 13333 | pictures/13333.webp | page numbers that change by section | Computer Science and ICT — Page Numbers That Change by Section |
+| 13334 | pictures/13334.gif | the footer unlinked and the numbering changing Roman → Arabic | Computer Science and ICT — Page Numbers That Change by Section |
+| 13340 | pictures/13340.gif | typing "Word" in Start search and clicking the Word icon | Computer Science and ICT — Opening a Word Processor |
+| 13341 | pictures/13341.gif | the first line jumping in when Tab is pressed | Computer Science and ICT — Indent with the Tab Key |
+| 13342 | pictures/13342.gif | the first-line ruler marker dragged, first lines following | Computer Science and ICT — Indent with the Ruler |
+| 13343 | pictures/13343.gif | Increase/Decrease clicks stepping a paragraph in and back out | Computer Science and ICT — Indent with the Increase/Decrease Buttons |
+| 13344 | pictures/13344.gif | one paragraph switching through the four alignments | Computer Science and ICT — Aligning Text — Left, Right, Centre, Justified |
+| 13345 | pictures/13345.gif | hovering bullet styles, the document previewing each | Computer Science and ICT — Making a Bulleted List |
+| 13346 | pictures/13346.gif | a symbol picked and the whole list's bullets changing at once | Computer Science and ICT — Making a Bulleted List |
+| 13347 | pictures/13347.webp | a header repeats on every page | Computer Science and ICT — Adding a Header and Footer |
+| 13348 | pictures/13348.webp | preset headers — ready-made designs | Computer Science and ICT — Preset Headers and Footers — and Removing Them |
 | 11400 | pictures/11400.webp | desert types and rainfall bars | Social Studies — Global Issues — What a Desert Is |
 | 11401 | pictures/11401.webp | desertification panels, land losing its cover | Social Studies — Global Issues — Desertification |
 | 11402 | pictures/11402.gif | GIF: topsoil washing away in the rain | Social Studies — Global Issues — Desertification |

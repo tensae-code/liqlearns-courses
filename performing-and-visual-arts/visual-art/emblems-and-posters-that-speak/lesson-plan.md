@@ -14,6 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **The three emblem kinds, and the rules and steps** — text-only, picture-only and combined emblems; the rules — easy to identify, clear shrunk or enlarged, colours and letters clear and limited; the design steps (Grade 5, printed pp. 131–133).
 3. **Posters that speak from far away** — poster design rules, uses and making steps; the three kinds — commercial, health, campaign (Grade 5, printed pp. 134–136).
 4. **Reading signs and posters (teacher guide — evidence)** — reading the locality's direction signs and symbols and its posted notices with an artist's eye (Grade 5 teacher guide, Ch. 5 §5.2, syllabus tables).
+5. **Emblems and the design professions (Grade 6)** — visual works teach, introduce, rouse and express; the great institutions' emblem designs; the design professions — architecture, woodwork, clothing, jewellery design; design's relation with science (Grade 6, printed pp. 101–102).
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -17,3 +17,7 @@ Pick the one right answer.
 **4. (Sub lesson 4)** Reading a sign with an artist's eye means looking at…
   a) Its mark, picture and few words — and whether they work b) Only its price c) Only who printed it
 **Answer: a) Its mark, picture and few words — and whether they work** — mark, picture and words, judged by the design rules.
+
+**5. (Sub lesson 5)** A tea-leaf package's picture does two jobs at once — it…
+  a) Packages the tea and advertises it b) Cooks and serves it c) Hides and forgets it
+**Answer: a) Packages the tea and advertises it** — the Grade 6 book's own example of a visual work doing two jobs.

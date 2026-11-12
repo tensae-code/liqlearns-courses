@@ -13,3 +13,6 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** Direction signs are a kind of emblem at work in the locality.
 **Answer: True**
+
+**5. (Sub lesson 5)** Visual works only decorate — they never teach or introduce anything.
+**Answer: False**

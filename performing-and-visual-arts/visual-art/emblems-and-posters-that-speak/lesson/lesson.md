@@ -22,6 +22,10 @@ A **poster** must speak **from far away**. Its rules: colours **few in number an
 
 The teacher guide turns the lesson around: before making signs, **read** them. Read the locality's **direction signs and symbols** (አቅጣጫ ማሳያ ምልክቶች/አርማ) and its **posted notices and advertisements** (የተለጠፉ ማስታወቂያ) with an artist's eye — what mark, what picture, what few words, and do they obey the rules you have learned? This part rests on the guide's closing syllabus tables, the evidence level its placements give, and it is labelled so.
 
+## Sub lesson 5 — Emblems and the design professions (Grade 6)
+
+The Grade 6 book widens the emblem's world. **Visual works do four jobs: they teach, they introduce, they rouse, and they express.** A tea-leaf package's picture does two jobs at once — it **packages** the tea and it **advertises** it. The book shows the **emblem designs of the country's great institutions** — graphic works that carry each institution's identity, the same emblem work you learned in Sub lesson 1, now at national scale. And behind every designed thing stand the **design professions**: **architecture design, woodwork design, clothing design, jewellery design** — daily-life objects need design professionals, because without a designer's aesthetic understanding and creative experience, good products are hard to make. Design also has a **great relation with science**: scientific knowledge plus design knowledge makes varied new materials. And all of it begins the same way — **visual arts begin from observing the environment and looking deeply**.
+
 ## Say it to your companion
 
 Show your companion an emblem you designed. They have three seconds to say what it stands for. If they cannot, redesign together using the rules.

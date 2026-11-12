@@ -13,3 +13,6 @@ Answer in a short sentence of your own.
 
 **4. (Sub lesson 4)** What is a posted notice called in the guide's Amharic?
 **Answer: የተለጠፉ ማስታወቂያ — posted notices/advertisements.**
+
+**5. (Sub lesson 5)** Name two design professions the Grade 6 book names.
+**Answer: Any two of: architecture design, woodwork design, clothing design, jewellery design.**
