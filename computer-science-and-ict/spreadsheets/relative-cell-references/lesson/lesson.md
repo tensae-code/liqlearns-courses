@@ -25,6 +25,12 @@ The mark sheet holds five students, with **Individual Assignment, Mid Exam, Proj
 
 Clicking cells while building is recommended over typing: it is **quicker and typo-proof**. Case does not matter — type b4 and the program makes it **B4**.
 
+## The Grade 10 summary's word on relative references (summary — Grade 10)
+
+At Grade 10 this topic is **not taught in the unit body at all** — it appears only in the **Unit 3 summary**, which teaches **relative vs absolute cell references** as the summary's own stated content. This lesson therefore files the summary's contrast here, flagged as summary-only: a **relative reference changes as a formula is copied** to a new place; an **absolute reference stays fixed** on its one cell. The full teaching of each kind is this course's own earlier lessons — Relative cell references and Absolute cell references — which this summary line stands on and does not replace.
+
+[Picture 14930 — relative vs absolute references: one adjusts when copied, one stays fixed]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: a relative reference adjusts by itself when a formula is copied or rows and columns change — the way one total formula serves a whole mark sheet. Use the lesson's own words for the key names.

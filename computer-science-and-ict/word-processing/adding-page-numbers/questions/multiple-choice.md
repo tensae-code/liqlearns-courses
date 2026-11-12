@@ -25,3 +25,11 @@ a) Enter  b) Esc  c) Tab  d) Ctrl+N
 **6.** A locked header/footer is unlocked by —
 a) restarting Word  b) double-clicking it  c) deleting it  d) saving
 **Answer: b) double-clicking it.**
+
+**7.** The Grade 10 practical reopens which file?
+a) Table 1  b) Eagle  c) Green Legacy  d) Calendar
+**Answer: b) Eagle** — the eagle document built earlier in the unit's chain.
+
+**8.** In that practical, the number is hidden on —
+a) every page  b) the last page  c) the first page  d) no page
+**Answer: c) the first page** — the rest keep theirs.

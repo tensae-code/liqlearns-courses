@@ -21,3 +21,7 @@ a) A1  b) A4  c) B5  d) $F$2
 **5.** The bonus mark for every student is held in —
 a) F9  b) B9  c) G1  d) F2
 **Answer: b) B9** — The book's text misprints it once as F9 — the cell is B9.
+
+**6.** In the Grade 10 summary's contrast, an absolute reference —
+a) changes with every copy  b) stays fixed on its one cell  c) counts cells  d) sorts rows
+**Answer: b) stays fixed on its one cell**

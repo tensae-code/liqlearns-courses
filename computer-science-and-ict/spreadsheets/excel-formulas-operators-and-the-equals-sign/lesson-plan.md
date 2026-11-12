@@ -18,6 +18,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 2. Start every formula with = so the program can tell it from data.
 3. Read a formula in the formula bar, by double-clicking the cell, and with Show Formulas.
 4. Work out =5+3*3/2-4 in the program's order.
+5. (Grade 10 depth) State the order of operations — parentheses, exponentials, multiplication and division (whichever comes first), addition and subtraction (whichever comes first) — and tell a simple formula (one operator) from a complex one (several).
 ## What you need
 A computer with a spreadsheet program (Excel, or LibreOffice Calc).
 
@@ -26,6 +27,7 @@ A computer with a spreadsheet program (Excel, or LibreOffice Calc).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 13700]: a picture of a spreadsheet cell showing a result, with the same cell's formula revealed in the formula bar above the grid — the student studies it before doing the steps on a real computer.
    - ADD GIF [GIF 13701]: a picture of a sheet toggling between results and formulas as Show Formulas is clicked — the student watches every cell swap its answer for its formula, then swap back.
+   - ADD IMAGE [Picture 14912]: a picture of a cell showing a result with its hidden formula revealed in the formula bar above, and the four-step order-of-operations ladder — the student works a complex formula down the ladder.
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
@@ -36,6 +38,7 @@ A computer with a spreadsheet program (Excel, or LibreOffice Calc).
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13700] — a picture of a spreadsheet cell showing a result, with the same cell's formula revealed in the formula bar above the grid → the student studies it first.
 - GIF [GIF 13701] — a picture of a sheet toggling between results and formulas as Show Formulas is clicked — the student watches every cell swap its answer for its formula, then swap back.
+- IMAGE [Picture 14912] — a result cell, its formula in the formula bar, and the order-of-operations ladder → the student descends the ladder on a complex formula.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 

@@ -12,6 +12,19 @@ Page numbers **identify the pages**; they are usually placed in the **header, fo
 
 [GIF 13329 — numbers appearing at the foot of every page]
 
+## Formatting, restarting and hiding the first page's number (Grade 10 depth)
+
+Grown at Grade 10, from the book's page-numbers section taken further. Page numbers **number every page automatically, in many formats**, usually in the **header, footer or side margin**, and **numbering can be restarted** where pages must number differently.
+
+The Grade 10 practical reopens the **Eagle** file (the eagle document built in Clip art and shapes in a document) and works it further, in order:
+
+1. **Reopen the Eagle file.**
+2. **Add page numbers, with a header and a footer.**
+3. **Hide the number on the first page** — the cover page carries no number, the rest keep theirs.
+4. **Save.**
+
+[Picture 14911 — a three-page document numbered in its footer, the first page's number hidden]
+
 ## Say it to your companion
 
 Tell your companion the insertion steps in the book's order, where numbers can sit, and how the header/footer is locked and unlocked.

@@ -431,3 +431,23 @@ Grown by band D4 (Grade 10 depth added, not duplicated): `multimedia/multimedia-
 - Writing algorithms — worked problems — `programming/writing-algorithms-worked-problems/`
 
 Grown by band D5 (Grade 10 depth added, not duplicated): `safety-security-and-care/what-security-and-computer-security-mean/`; `safety-security-and-care/malware-trojans-viruses-worms-spyware-ransomware/`; `safety-security-and-care/securing-your-computer-the-checklist/`; `safety-security-and-care/user-accounts (+ new Sub lesson 3)/`; `safety-security-and-care/natural-threats-to-a-computer/`; `safety-security-and-care/confidentiality-integrity-availability-the-cia-triad/`; `programming/input-process-output/`; `programming/from-polya-to-programs-the-algorithm/`; `programming/flowchart-symbols/`; `programming/drawing-a-first-flowchart (+ new Sub lesson 4)/`; `programming/flowchart-or-pseudocode-two-notations-for-one-algorithm/`.
+
+**Band D3 — Grade 10 Unit 3 (Application Software), 15 new lessons:**
+
+- Creating a Word table — drag and dialog box — `word-processing/creating-a-word-table-drag-and-dialog-box/`
+- Drawing a table — and using Quick Tables — `word-processing/drawing-a-table-and-using-quick-tables/`
+- Formatting Word tables — styles and exact sizes — `word-processing/formatting-word-tables-styles-and-exact-sizes/`
+- Adding and removing rows and columns — `word-processing/adding-and-removing-rows-and-columns/`
+- Inserting pictures and screenshots — `word-processing/inserting-pictures-and-screenshots/`
+- Clip art and shapes in a document — `word-processing/clip-art-and-shapes-in-a-document/`
+- Freeze panes and Split — keeping headers in view — `spreadsheets/freeze-panes-and-split-keeping-headers-in-view/`
+- Sorting a worksheet — `spreadsheets/sorting-a-worksheet/`
+- Filtering data — seeing only what you need — `spreadsheets/filtering-data-seeing-only-what-you-need/`
+- Creating and styling Excel charts — `spreadsheets/creating-and-styling-excel-charts/`
+- Formatting cells — fonts and emphasis — `spreadsheets/formatting-cells-fonts-and-emphasis/`
+- Formatting cells — alignment, borders, fill and number formats — `spreadsheets/formatting-cells-alignment-borders-fill-and-number-formats/`
+- Slide transitions — and using one throughout — `presentations/slide-transitions-and-using-one-throughout/`
+- Animating slide content — entrance, emphasis, the Animation Pane — `presentations/animating-slide-content-entrance-emphasis-the-animation-pane/`
+- Creating a slide master — `presentations/creating-a-slide-master/`
+
+Grown by band D3 (Grade 10 depth added, not duplicated): `word-processing/adding-page-numbers/`; `spreadsheets/excel-formulas-operators-and-the-equals-sign/`; `spreadsheets/spreadsheet-functions-sum-average-max-min/` (+ new Sub lesson 3, COUNT and AutoSum); and the Unit 3 summary's relative-vs-absolute teaching filed as summary-only growth in `spreadsheets/relative-cell-references/` and `spreadsheets/absolute-cell-references/` (flagged in both lessons as never body-taught).

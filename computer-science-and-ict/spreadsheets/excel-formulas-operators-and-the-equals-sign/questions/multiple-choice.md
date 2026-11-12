@@ -25,3 +25,15 @@ a) the Home tab  b) the Formulas tab  c) the View tab only  d) the File tab
 **6.** Spreadsheet software organises, stores and analyses —
 a) pictures  b) data in tables  c) music  d) letters only
 **Answer: b) data in tables**
+
+**7.** In the order of operations, what is worked first?
+a) addition  b) multiplication  c) parentheses  d) subtraction
+**Answer: c) parentheses** — then exponentials, then × and ÷, then + and −.
+
+**8.** Multiplication and division are worked —
+a) always multiplication before division  b) whichever comes first  c) after addition  d) last of all
+**Answer: b) whichever comes first** — the same rule joins addition and subtraction at their step.
+
+**9.** A complex formula is one with —
+a) brackets only  b) one operator  c) several operators  d) no equals sign
+**Answer: c) several operators** — a simple formula has one.

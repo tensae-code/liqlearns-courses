@@ -198,3 +198,16 @@ sources: the Figure 5.14 jump, "PROGRAMING" in the unit
 outcomes header, "fineness" for finiteness, the guide's
 "ambiguous" for unambiguous and "unaccusable" for
 inaccessible. The course now stands at 350 lessons.
+
+**Band D3 (Grade 10, Unit 3) — BUILT 2026-11-12:** 15 new
+lessons + 5 grown, 189 questions, 31 media filed
+(pictures/GIFs 14900–14930) — Application software at
+Grade 10 depth: Word tables (create, draw, format, rows
+and columns), pictures, screenshots, clip art and shapes;
+freeze panes and Split, sorting, filtering, Excel charts,
+cell formatting both ways; slide transitions, animation
+and the Animation Pane, the slide master. The unit
+summary's relative-vs-absolute teaching — a topic the unit
+body never covers — is filed as summary-only growth in the
+two reference lessons and flagged as such in both. The
+course now stands at 365 lessons.

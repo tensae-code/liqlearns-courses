@@ -22,6 +22,10 @@ The mark sheet continues: every student gets the same bonus mark held in **B9**.
 
 The teacher guide's Unit 3 answer key works one mixed formula piece by piece: **((A1 + A4) − B5) × $F$2** — A1, A4 and B5 are **relative references**, the signs are **operators**, and **$F$2 is the absolute reference** that would stay fixed if the formula were copied (guide, printed pp. 56–58). Read any mixed formula the same way: references first, then operators, then the pinned one.
 
+## The Grade 10 summary's word on absolute references (summary — Grade 10)
+
+At Grade 10 this topic is **not taught in the unit body at all** — it appears only in the **Unit 3 summary**, which teaches **relative vs absolute cell references** as the summary's own stated content. This lesson files that contrast here, flagged as summary-only: an **absolute reference stays fixed** on its one cell when a formula is copied; a **relative reference changes** with the copy's new place. The side-by-side picture for the pair is filed in the Relative cell references lesson (Picture 14930).
+
 ## Say it to your companion
 
 Tell your companion, in your own words: $ before the column and row pins a reference so it never moves when copied — one shared value, like a bonus mark, serving every row. Use the lesson's own words for the key names.

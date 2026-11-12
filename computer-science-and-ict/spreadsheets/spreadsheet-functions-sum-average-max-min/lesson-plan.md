@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **What a function is** — a predefined formula with a fixed shape: =, the function name, an opening parenthesis, the arguments separated by commas, a closing parenthesis; the named functions are sum, average, maximum and minimum
 2. **Totalling a column — =SUM(C3:C6), and your own table** — the worked example totals a column as =SUM(C3:C6); the activity builds a pupil table — name, age, gender, grade, two test scores — and finds the sum of the tests
+3. **COUNT, the fifth function — and AutoSum (Grade 10 depth)** — COUNT counts numeric cells, making five functions; syntax = name (arguments); the typed route (select, type = and name, range in parentheses, Enter) and the AutoSum route (Home → Editing group, guessed range corrected before Enter); all five computed over a students' grade record table
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -23,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Name the four functions: sum, average, maximum, minimum.
 3. Read =SUM(C3:C6) part by part and say what it totals.
 4. Build a pupil table — name, age, gender, grade and two test scores — and find the sum of the tests in the spreadsheet.
+5. Name the fifth function, COUNT, and say what it counts — numeric cells, not their total.
+6. Make a function by typing it, and by AutoSum — correcting AutoSum's guessed range before Enter.
 
 ## What you need
 A computer with a spreadsheet program — this lesson is learned by doing it.
@@ -32,6 +35,8 @@ A computer with a spreadsheet program — this lesson is learned by doing it.
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 11336]: a picture of =SUM(C3:C6) with its parts labelled — equal sign, function name, opening parenthesis, arguments, closing parenthesis — the student names each part.
    - ADD IMAGE [Picture 11337]: a picture of a pupil-info table — name, age, gender, grade, Test 1, Test 2 — with the SUM result cell highlighted — the student finds the cell the sum stands in.
+   - ADD IMAGE [Picture 14913]: a picture of the anatomy of =AVERAGE(D3:D12) labelled equals/name/argument, beside the AutoSum dropdown with its five entries — the student labels the parts and names the five entries.
+   - ADD GIF [GIF 14914]: a picture of typing =AVERAGE( and the range lighting up in the sheet — the student types along with it.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
    - ADD AUDIO: a voice reading the lesson's key words and steps aloud — the student listens and says, or does, each one after the voice.
@@ -42,6 +47,8 @@ A computer with a spreadsheet program — this lesson is learned by doing it.
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 11336] — a picture of =SUM(C3:C6) with each part labelled → the student names each part in order.
 - IMAGE [Picture 11337] — a picture of a pupil-info table with a SUM result cell highlighted → the student builds the same table in the activity.
+- IMAGE [Picture 14913] — the anatomy of =AVERAGE(D3:D12) and the AutoSum dropdown → the student labels the parts and names the five functions.
+- GIF [GIF 14914] — typing =AVERAGE( with the range lighting up → the student types along.
 - AUDIO — a voice reading the lesson's key words and steps aloud → the student listens and repeats, or does each step.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 

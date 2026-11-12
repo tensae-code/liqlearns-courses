@@ -21,3 +21,11 @@ a) it uses less memory  b) it is quicker and typo-proof  c) it prints better  d)
 **5.** Typing b4 gives —
 a) an error  b) B4 — case does not matter  c) a new sheet  d) nothing
 **Answer: b) B4 — case does not matter**
+
+**6.** At Grade 10, relative vs absolute references are taught —
+a) throughout the unit body  b) only in the Unit 3 summary  c) in Unit 1  d) not at all
+**Answer: b) only in the Unit 3 summary** — the unit body never covers the topic; the summary states it.
+
+**7.** In the summary's contrast, a relative reference —
+a) stays fixed  b) changes as a formula is copied  c) is deleted  d) becomes text
+**Answer: b) changes as a formula is copied**

@@ -10,3 +10,9 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 2)** The function that totals values is ______.
 **Answer: SUM**
+
+**4. (Sub lesson 3)** The typed route ends by pressing ______.
+**Answer: Enter**
+
+**5. (Sub lesson 3)** Several arguments in one function are separated by ______.
+**Answer: commas**

@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: a predefined formula with
 
 ## Sub lesson 2 — Totalling a column — =SUM(C3:C6), and your own table
 Sub lesson 2 questions from the type files. Pass mark: the worked example totals a column as =SUM(C3:C6); the activity builds a pupil table — name, age, gender, grade, two test scores — and finds the sum of the tests
+
+## Sub lesson 3 — COUNT, the fifth function — and AutoSum (Grade 10 depth)
+Sub lesson 3 questions from the type files. Pass mark: name all five functions with COUNT among them; make one by typing (=, name, range in parentheses, Enter) and one by AutoSum, correcting the guessed range before Enter; compute all five over a grade record table.

@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2)** In the activity, pupils find the sum of two test scores in a table they entered themselves.
 **Answer: True** — name, age, gender, grade and two test scores, then the sum of the tests.
+
+**4. (Sub lesson 3)** AutoSum's guessed range can be corrected before Enter.
+**Answer: True**
+
+**5. (Sub lesson 3)** COUNT adds up the values in its range.
+**Answer: False** — COUNT counts the numeric cells; SUM adds.

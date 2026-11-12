@@ -10,3 +10,9 @@ Fill in the blank.
 
 **3.** The % operator means ___.
 **Answer: percent**
+
+**4.** After parentheses come ______ in the order of operations.
+**Answer: exponentials**
+
+**5.** A simple formula has ______ operator(s).
+**Answer: one**

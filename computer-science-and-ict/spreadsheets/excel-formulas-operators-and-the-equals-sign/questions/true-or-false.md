@@ -13,3 +13,9 @@ Say true or false.
 
 **4.** LibreOffice's spreadsheet program is called Excel.
 **Answer: False — it is Calc; the guide's "LibreOffice Excel" is its slip.**
+
+**5.** A formula is stored inside its cell; only its result is displayed.
+**Answer: True** — the formula itself is seen in the formula bar when the cell is active.
+
+**6.** Exponentials are worked after addition and subtraction.
+**Answer: False — exponentials come second, before multiplication/division and before addition/subtraction.**

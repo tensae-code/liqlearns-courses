@@ -7,3 +7,6 @@ Say true or false.
 
 **2.** Each mark cell is joined in the formula with a * sign.
 **Answer: False — with a + between each.**
+
+**3.** The Grade 10 Unit 3 body teaches relative and absolute references in its sections.
+**Answer: False — the topic appears only in the unit summary.**

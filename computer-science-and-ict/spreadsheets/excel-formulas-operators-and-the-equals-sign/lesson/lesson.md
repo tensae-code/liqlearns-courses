@@ -29,6 +29,21 @@ Every formula **begins with =** so the program can tell it from data. Type the w
 
 A cell shows the **result**. The formula itself is seen three ways: in the **formula bar** when the cell is selected; **in the cell** when you double-click it for editing; or **everywhere at once** — Formulas tab → **Show Formulas**. Click Show Formulas again to hide them. While formulas show, results do not.
 
+## The order of operations (Grade 10 depth)
+
+Grown at Grade 10. A **spreadsheet (worksheet)** is a file of **rows and columns** for sorting, organising and above all **calculating numerical data** — in this book, Microsoft Excel. A **formula is entered into a cell, stored inside it, and only its result is displayed**; the formula itself is seen in the **formula bar** when the cell is active — as the earlier parts of this lesson showed.
+
+Excel adds, subtracts, multiplies and divides. A **simple formula has one operator**; a **complex formula has several** — and several operators need an order. Evaluation follows the taught order:
+
+1. **Parentheses first.**
+2. **Then exponentials.**
+3. **Then multiplication and division — whichever comes first.**
+4. **Then addition and subtraction — whichever comes first.**
+
+[Picture 14912 — a cell's result with its formula in the formula bar, and the order-of-operations ladder]
+
+So in a complex formula the brackets are worked first, powers next, and the × and ÷ before the + and − as they are met — never simply left to right.
+
 ## Teacher evidence — the guide's name slip (teacher guide — evidence)
 
 The teacher guide's spreadsheet strategies name the free program "LibreOffice Excel" (guide, printed pp. 49–50). LibreOffice's spreadsheet is **Calc** — use Calc's name when you work in LibreOffice. The guide's Unit 3 answer keys (printed pp. 56–58) verify this unit's formula answers.
