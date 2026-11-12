@@ -1,18 +1,21 @@
 # Sources — Planetary motion — ellipses and Kepler's laws
 
-countries: Ethiopia
+countries: Ethiopia, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp (141 printed pp). Printed page = PDF page. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
+
+**Book 3:** *Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; writers incl. Chia Song Choy, Koay Kheng Chuan, Dr. Ooi Hean Beng et al.; Sasbadi Sdn. Bhd., first published 2019, ISBN 978-983-77-1530-1, Book Serial No. 0175KPM 2019. Grade: Form 4 (= Grade 10) · Kind: student · Files: grade-10/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-10/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level from the textbook's own contents pages). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 4 DLP asset 100,977,794 bytes, 316 PDF pages, Book Serial No. 0175/KPM 2019, ISBN 978-983-77-1530-1; Form 4 Malay asset 50,666,448 bytes, 298 PDF pages, Malay edition's own ISBN 978-967-5332-40-1). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Activity 6.9's marble sky: fixed stars, month-by-month sight-lines, retrograde drift | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 171–172 |
 | Sub lesson 2 — Kepler's three laws and Activity 6.10's ellipse drawing with eccentricity | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 172–174 |
 | Ethiopia in space — ESSTI, Ethiopia's two satellites and the Entoto Observatory (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 6, printed pp. 103–107 (teacher evidence; pairing warning in this file) |
+| Ch. 3 Gravitation, §3.2 Kepler's Laws (Malaysia) | Malaysia, *Physics Form 4*, Ch. 3, §3.2 Kepler's Laws — printed p. 96 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
 
 PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

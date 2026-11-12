@@ -1,6 +1,6 @@
 # Sources — Pascal's principle — the hydraulic press
 
-countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka
+countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,13 +10,16 @@ countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka
 
 
 **Book 4:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening (rotation vs circular motion, Earth/fan/grindstone examples). Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
+**Book 5:** *Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; Koay Kheng Chuan, Chia Song Choy et al.; Penerbit Bestari Sdn. Bhd., first published 2020, ISBN 978-983-092-447-2, Book Serial No. 0130. Grade: Form 5 (= Grade 11) · Kind: student · Files: grade-11/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-11/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level; Ch. 1, 2 and 4 section titles confirmed against the bilingual KSSM module contents). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 5 DLP asset 89,457,972 bytes, 267 PDF pages, Book Serial No. 0130/KPM 2020, ISBN 978-983-092-447-2; Form 5 Malay asset 85,778,654 bytes, 268 PDF pages, Malay edition's own ISBN 978-983-092-446-5). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pascal's principle and the hydraulic press | Grade 12 Student Textbook, printed pp. 82–87 |
 | Pascal's principle, hydraulic press lifting a 2,000 kg car | Palestine, *Physics for Grade 10*, Unit 2: Fluids — Statics, printed p. 73 |
 | Pascal's principle (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | §4.6 — Pascal's law on pressure | Sri Lanka, *Science for Technology: Physics Part II*, printed p. 83 |
+| Ch. 2 Pressure, §2.4 Pascal's Principle (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2, §2.4 Pascal's Principle |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sri Lanka).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Sri Lanka, Malaysia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, pascal's principle — the hydraulic press, hydraulic, palestine, sri lanka
