@@ -850,3 +850,26 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9623 | pictures/9623.gif | a kebero beaten with its stick | Performing and Visual Arts — Beat Instruments |
 | 9624 | pictures/9624.gif | a tsenatsil shaken | Performing and Visual Arts — Church Instruments |
 | 9625 | pictures/9625.gif | a praise chanter moving back and forth (shilela) | Performing and Visual Arts — Kinds of Traditional Music |
+| 9700 | pictures/9700.webp | picture strip: child walking, hen, dog running, bird flying | Performing and Visual Arts — How Things Move |
+| 9701 | pictures/9701.webp | six-animal grid: bird, kid goat, sheep, hen, donkey, cow with calf | Performing and Visual Arts — How Animals and People Move |
+| 9702 | pictures/9702.webp | mother cooking and serving, father farming, child helping | Performing and Visual Arts — Playing Family Roles |
+| 9703 | pictures/9703.webp | role things: gabi, hat, stick, coat, chalk and book, brush and easel | Performing and Visual Arts — Playing a Person |
+| 9704 | pictures/9704.webp | a performer before red curtains, audience silhouettes | Performing and Visual Arts — Theatre on a Stage |
+| 9705 | pictures/9705.webp | Taytu and Menelik, a patriot with spear and shield, the flag | Performing and Visual Arts — Acting Our History |
+| 9706 | pictures/9706.webp | four dance panels: Afar daggers, Somali sticks, Gondar, Raya Kobo with drum | Performing and Visual Arts — Dances of Ethiopia |
+| 9707 | pictures/9707.webp | partner-dance direction arrows | Performing and Visual Arts — Moving to Music |
+| 9708 | pictures/9708.webp | rope skipping and the ሳንካ (sanka) grid panels | Performing and Visual Arts — Traditional Games |
+| 9709 | pictures/9709.webp | ቅልሞሽ (Qilmosh): five small stones | Performing and Visual Arts — Traditional Games |
+| 9710 | pictures/9710.webp | an elder telling a story to a circle of children | Performing and Visual Arts — Stories and Folktales |
+| 9711 | pictures/9711.webp | the riddle game circle | Performing and Visual Arts — Riddles |
+| 9712 | pictures/9712.webp | children holding hands in a turning circle | Performing and Visual Arts — Circle Dances and Traditional Steps |
+| 9750 | pictures/9750.gif | a horse galloping: legs gather and stretch in pairs | Performing and Visual Arts — How Animals and People Move |
+| 9751 | pictures/9751.gif | a bird's flight take-off: perch, dip, lift, climb with wing flap | Performing and Visual Arts — How Animals and People Move |
+| 9752 | pictures/9752.gif | a family walking together, each gait slightly different | Performing and Visual Arts — How Animals and People Move |
+| 9753 | pictures/9753.gif | a circle of six children turning hand-in-hand | Performing and Visual Arts — Circle Dances and Traditional Steps |
+| 9754 | pictures/9754.gif | two dancers facing each other, stepping in rhythm | Performing and Visual Arts — Circle Dances and Traditional Steps |
+| 9755 | pictures/9755.gif | a long rope turning with a jumper in time between two turners | Performing and Visual Arts — Traditional Games |
+| 9756 | pictures/9756.gif | a hop through the ሳንካ (sanka) ground grid, cell by cell | Performing and Visual Arts — Traditional Games |
+| 9757 | pictures/9757.gif | planting a seedling: dig, place, cover, water | Performing and Visual Arts — Stories and Folktales |
+| 9758 | pictures/9758.gif | ድምቡሸ ገላ (Dimbushe Gela): a pair holding hands and turning round together | Performing and Visual Arts — Traditional Games |
+| 9759 | pictures/9759.gif | four movements in sequence: walk, hen, dog run, bird fly | Performing and Visual Arts — How Things Move |

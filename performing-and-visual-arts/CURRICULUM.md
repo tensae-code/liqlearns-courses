@@ -44,8 +44,15 @@ lessons are the books'.
   Instruments; Church Instruments; Kinds of Traditional Music;
   Notes and Rests; Playing Notes and Rests), 94 questions, 15 media
   filed (pictures/GIFs 9600–9612, 9620–9625).
+- **Drama and Dance — BUILT 2026-11-12:** all 13 lessons (How
+  Things Move; How Animals and People Move; Playing Family Roles;
+  Acting Together; Playing a Person; Theatre on a Stage; Acting
+  Our History; Circle Dances and Traditional Steps; Dances of
+  Ethiopia; Moving to Music; Traditional Games; Stories and
+  Folktales; Riddles), 173 questions, 23 media filed (pictures/GIFs
+  9700–9712, 9750–9759, all drawn and frame-checked).
 - Remaining groups (First Steps + Culture and Values; Visual Art;
-  Music — Listening + Songs; Drama and Dance; and the upper-grade
-  music depth the read placed beyond the first map) are being built
-  and registered here as they land. See ABOUT.md for the full book
-  list and the acceptance reckoning.
+  Music — Listening + Songs; and the upper-grade depth the read
+  placed beyond the first map — upper-grade music and drama) are
+  being built and registered here as they land. See ABOUT.md for
+  the full book list and the acceptance reckoning.
