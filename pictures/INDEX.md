@@ -4442,3 +4442,153 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 28542 | pictures/28542.webp | a teacher at a classroom door, traits around | Civics and Citizenship — Ethiopia — Applied Ethics — Professional and Environmental |
 | 28543 | pictures/28543.webp | one school corner, before and after | Civics and Citizenship — Ethiopia — Applied Ethics — Professional and Environmental |
 | 28544 | pictures/28544.webp | a professional's desk and a planted tree | Civics and Citizenship — Ethiopia — Applied Ethics — Professional and Environmental |
+| 28000 | pictures/28000.webp | children in one circle — irreplaceable | Civics and Citizenship — Ethiopia — Humanity — the Human Race, and the Mark of Being Good |
+| 28001 | pictures/28001.webp | two crowns — born with, and earned | Civics and Citizenship — Ethiopia — Human Dignity — the Dignity We Are Born With and the Dignity We Earn |
+| 28002 | pictures/28002.webp | four marks — love, compassion, empathy, charity | Civics and Citizenship — Ethiopia — The Marks of Being Human |
+| 28003 | pictures/28003.webp | seven marks — icons | Civics and Citizenship — Ethiopia — The Marks of Being Human |
+| 28005 | pictures/28005.webp | a self-controlled child — daily acts | Civics and Citizenship — Ethiopia — Self-Control — What It Is and How a Self-Controlled Child Acts |
+| 28006 | pictures/28006.webp | growing a habit — a plant watered and staked | Civics and Citizenship — Ethiopia — Growing Self-Control — Why It Matters and How to Build It |
+| 28007 | pictures/28007.webp | cause and effect — an uncontrolled act and its result | Civics and Citizenship — Ethiopia — When Self-Control Is Missing — What Follows |
+| 28008 | pictures/28008.webp | standing tall — clean and confident | Civics and Citizenship — Ethiopia — Respecting Myself — What It Is, Why It Matters, How It Grows |
+| 28009 | pictures/28009.webp | the wheel of ways — body, word, time, goals, boundaries | Civics and Citizenship — Ethiopia — Respecting Myself — What It Is, Why It Matters, How It Grows |
+| 28010 | pictures/28010.webp | showing it — wash, dress, refuse, finish | Civics and Citizenship — Ethiopia — Respecting Myself — What It Is, Why It Matters, How It Grows |
+| 28011 | pictures/28011.webp | step away — and tell a trusted adult | Civics and Citizenship — Ethiopia — Keeping Myself Safe |
+| 28012 | pictures/28012.webp | my route to school — and another way | Civics and Citizenship — Ethiopia — Keeping Myself Safe |
+| 28013 | pictures/28013.webp | a family at home — each person needed | Civics and Citizenship — Ethiopia — My Family — Who Is in It and Why Each Person Matters |
+| 28014 | pictures/28014.webp | values at home — sharing, truth, helping | Civics and Citizenship — Ethiopia — Good Values at Home — the Principles a Family Lives By |
+| 28015 | pictures/28015.webp | at home — greeting, listening, helping | Civics and Citizenship — Ethiopia — Getting On Well at Home — Good Manners in the Family |
+| 28017 | pictures/28017.webp | listening without interrupting | Civics and Citizenship — Ethiopia — Respecting My Parents — and What Spoils Peace at Home |
+| 28018 | pictures/28018.webp | greeting each person in turn | Civics and Citizenship — Ethiopia — Respecting Others — Every Person Is Free and Has Dignity |
+| 28019 | pictures/28019.webp | listening to an elder's counsel | Civics and Citizenship — Ethiopia — Respecting Our Elders and Religious Fathers |
+| 28020 | pictures/28020.webp | four greetings — classroom, home, gate, playground | Civics and Citizenship — Ethiopia — Respecting Teachers, Family, Neighbours and Classmates |
+| 28021 | pictures/28021.webp | a respected person — humility and honesty | Civics and Citizenship — Ethiopia — How a Respected Person Behaves |
+| 28022 | pictures/28022.webp | an insult lands — a circle cracks | Civics and Citizenship — Ethiopia — Disrespect — What It Is and What It Breaks |
+| 28023 | pictures/28023.webp | no lying, no cheating, no stealing | Civics and Citizenship — Ethiopia — Honesty — No Lying, No Cheating, No Stealing |
+| 28024 | pictures/28024.webp | three kinds of honesty | Civics and Citizenship — Ethiopia — Three Kinds of Honesty — True Words, Kept Words, Clean Hands |
+| 28026 | pictures/28026.webp | praised for telling the truth | Civics and Citizenship — Ethiopia — Learning to Be Honest — Praise Truth, Keep Your Word, Choose Honest Friends |
+| 28027 | pictures/28027.webp | telling the truth while classmates listen | Civics and Citizenship — Ethiopia — Truthful People — Kebede and Yonatan |
+| 28028 | pictures/28028.webp | two roads — trust and broken trust | Civics and Citizenship — Ethiopia — What Honesty Wins, What Dishonesty Costs |
+| 28029 | pictures/28029.webp | a balance — equal shares | Civics and Citizenship — Ethiopia — Justice — Giving Each Person What Is Due |
+| 28030 | pictures/28030.webp | same work — same pay | Civics and Citizenship — Ethiopia — The Rule of Justice — Same Work, Same Treatment |
+| 28031 | pictures/28031.webp | a fair game — nobody outside the circle | Civics and Citizenship — Ethiopia — Fairness Where We Live — Rules, Respect, Nobody Shut Out |
+| 28032 | pictures/28032.webp | speaking up — fairly and calmly | Civics and Citizenship — Ethiopia — Standing Against What Is Unfair |
+| 28033 | pictures/28033.webp | a cracked balance — people turning away | Civics and Citizenship — Ethiopia — When Justice Is Missing — What Breaks |
+| 28034 | pictures/28034.webp | neighbours greeting over the fence | Civics and Citizenship — Ethiopia — Neighbourliness — Friends Who Live Next Door |
+| 28035 | pictures/28035.webp | help in a hard week, joy in a good week | Civics and Citizenship — Ethiopia — The Good Neighbour — Traits, and Help in Good Times and Hard |
+| 28036 | pictures/28036.webp | cooperating — and no fence dispute | Civics and Citizenship — Ethiopia — Living Well with Neighbours — Building It and Not Spoiling It |
+| 28037 | pictures/28037.webp | a schoolyard by agreed rules | Civics and Citizenship — Ethiopia — Manners at School — What School Discipline Means |
+| 28038 | pictures/28038.webp | four rule panels | Civics and Citizenship — Ethiopia — Our School Rules — Time, Grounds, Lessons, Dress |
+| 28039 | pictures/28039.webp | two balanced scales — rights and responsibilities | Civics and Citizenship — Ethiopia — My Responsibilities at School — and the Rights That Go With Them |
+| 28040 | pictures/28040.webp | sharing materials, settling by talking | Civics and Citizenship — Ethiopia — Good Relationships at School — With Classmates and Teachers |
+| 28041 | pictures/28041.webp | three clubs — sport, gardening, singing | Civics and Citizenship — Ethiopia — Joining In — Clubs and Co-curricular Activities at School |
+| 28042 | pictures/28042.webp | sharing an idea, a feeling, a thing | Civics and Citizenship — Ethiopia — Positive Social Interaction — Good Relationships on Purpose |
+| 28043 | pictures/28043.webp | the friendship checklist — six icons | Civics and Citizenship — Ethiopia — Growing Good Friendships — Sharing, Trust, Keeping Confidences |
+| 28044 | pictures/28044.webp | solving together what none solves alone | Civics and Citizenship — Ethiopia — Friends Help Us Learn — Working With Others |
+| 28045 | pictures/28045.webp | the greedy dog — alone with too much | Civics and Citizenship — Ethiopia — What Blocks Friendship — and the Greedy Dog |
+| 28046 | pictures/28046.webp | a web of warm connections | Civics and Citizenship — Ethiopia — Healthy Social Life — Relationships That Keep Us Well |
+| 28047 | pictures/28047.webp | the four marks — four linked scenes | Civics and Citizenship — Ethiopia — Marks of a Healthy Social Life |
+| 28048 | pictures/28048.webp | standing beside — sad, then smiling | Civics and Citizenship — Ethiopia — Why Healthy Relationships Keep Us Well |
+| 28049 | pictures/28049.webp | outside the circle — the circle opening | Civics and Citizenship — Ethiopia — What Spoils a Healthy Social Life — Hatred, Exclusion, Silence |
+| 28051 | pictures/28051.webp | a well, a road, a school, a park — shared by all | Civics and Citizenship — Ethiopia — The Common Good — What Belongs to All of Us |
+| 28052 | pictures/28052.webp | kept safe and fair — one calm scene | Civics and Citizenship — Ethiopia — Why the Common Good Matters — Safety, Law and Each Other |
+| 28053 | pictures/28053.webp | helping an elder carry a load | Civics and Citizenship — Ethiopia — Doing Good for Others — at School and at Home |
+| 28055 | pictures/28055.webp | hoarding the shared tap | Civics and Citizenship — Ethiopia — Only-Me Thinking — Selfishness Against the Common Good |
+| 28056 | pictures/28056.webp | for the next class too | Civics and Citizenship — Ethiopia — Public Property Is Ours — Use It Properly, Keep It for Tomorrow |
+| 28057 | pictures/28057.webp | planting on a terraced slope | Civics and Citizenship — Ethiopia — Our Environment Is a Common Good — Plant, Terrace, Waste Properly, Reuse |
+| 28059 | pictures/28059.webp | a shared park spoiled by dumping | Civics and Citizenship — Ethiopia — What Blocks the Common Good |
+| 28060 | pictures/28060.webp | lifting together what none lifts alone | Civics and Citizenship — Ethiopia — Cooperation — Together for a Common Benefit |
+| 28062 | pictures/28062.webp | debo, idir, equb — three panels | Civics and Citizenship — Ethiopia — How Ethiopia Works Together — Debo, Idir, Equb |
+| 28063 | pictures/28063.webp | a team at a table — clock, plan, problem | Civics and Citizenship — Ethiopia — Teamwork Skills — Listen, Discuss, Debate, Use Time, Solve Problems |
+| 28064 | pictures/28064.webp | a team puzzle — each piece a different skill | Civics and Citizenship — Ethiopia — Why Cooperation and Teamwork Matter |
+| 28065 | pictures/28065.webp | four kinds of community | Civics and Citizenship — Ethiopia — My Community — People Living Together, Four Kinds |
+| 28066 | pictures/28066.webp | a circle around shared beliefs | Civics and Citizenship — Ethiopia — Community Values — the Beliefs We Share |
+| 28067 | pictures/28067.webp | nine values in a ring | Civics and Citizenship — Ethiopia — Nine Values Our Community Lives By |
+| 28068 | pictures/28068.webp | values tagged to acts — one shared task | Civics and Citizenship — Ethiopia — Why Shared Values Help a Community |
+| 28069 | pictures/28069.webp | an elder telling a story under a tree | Civics and Citizenship — Ethiopia — Culture — a People's Way of Life |
+| 28070 | pictures/28070.webp | Hamer dress, hairstyle and ornaments | Civics and Citizenship — Ethiopia — Local Culture — What We Share Where We Live |
+| 28071 | pictures/28071.webp | ten elements — a ten-item strip | Civics and Citizenship — Ethiopia — The Parts of a Local Culture — Language, Dress, Food, Music and More |
+| 28072 | pictures/28072.webp | one shared celebration | Civics and Citizenship — Ethiopia — Why Our Local Culture Matters |
+| 28073 | pictures/28073.webp | foundation stones carved with principles | Civics and Citizenship — Ethiopia — Cultural Values — the Principles a Community Stands On |
+| 28074 | pictures/28074.webp | a woven cloth handed on | Civics and Citizenship — Ethiopia — Cultural Heritage — What Our Grandparents Hand Us |
+| 28075 | pictures/28075.webp | four boxes — touch and song | Civics and Citizenship — Ethiopia — Kinds of Heritage — Things We Can Touch and Things We Carry in Song |
+| 28076 | pictures/28076.webp | five threats around a heritage site | Civics and Citizenship — Ethiopia — Heritage in Danger — Looting, Neglect and Disaster |
+| 28077 | pictures/28077.webp | five shields around a monument | Civics and Citizenship — Ethiopia — Keeping Heritage Safe — Teach, Record, Watch, Protect by Law, Belong |
+| 28078 | pictures/28078.webp | the 100-birr note — heritage matched to its sites | Civics and Citizenship — Ethiopia — Why Heritage Matters — Who We Are, and Work for Our People |
+| 28079 | pictures/28079.webp | the keep side — idir and equb | Civics and Citizenship — Ethiopia — Our Customs — the Good We Keep, the Harmful We Stop |
+| 28080 | pictures/28080.webp | a market street of many cultures | Civics and Citizenship — Ethiopia — Many Cultures, One Society — What Multiculturalism Means |
+| 28081 | pictures/28081.webp | seven forms — a festival strip | Civics and Citizenship — Ethiopia — Seeing Diversity — Peoples, Languages, Dress, Music, Food, Weddings |
+| 28082 | pictures/28082.webp | teaching each other — a song and a recipe | Civics and Citizenship — Ethiopia — What Diversity Gives Us — Peace, New Ideas, New Knowledge |
+| 28083 | pictures/28083.webp | two celebrations, one street party | Civics and Citizenship — Ethiopia — Living With Diversity — Respect, Not Just Tolerance |
+| 28004 | pictures/28004.gif | elbow greeting — peace shown in a greeting | Civics and Citizenship — Ethiopia — The Marks of Being Human |
+| 28016 | pictures/28016.gif | a greeting returned with a smile | Civics and Citizenship — Ethiopia — Getting On Well at Home — Good Manners in the Family |
+| 28025 | pictures/28025.gif | a promise kept — a handshake held | Civics and Citizenship — Ethiopia — Three Kinds of Honesty — True Words, Kept Words, Clean Hands |
+| 28050 | pictures/28050.gif | the circle opening to let the child in | Civics and Citizenship — Ethiopia — What Spoils a Healthy Social Life — Hatred, Exclusion, Silence |
+| 28054 | pictures/28054.gif | a helping hand taking half a heavy load | Civics and Citizenship — Ethiopia — Doing Good for Others — at School and at Home |
+| 28058 | pictures/28058.gif | a seedling planted and watered | Civics and Citizenship — Ethiopia — Our Environment Is a Common Good — Plant, Terrace, Waste Properly, Reuse |
+| 28061 | pictures/28061.gif | the log rising as a third child joins | Civics and Citizenship — Ethiopia — Cooperation — Together for a Common Benefit |
+| 28200 | pictures/28200.webp | standing tall at the mirror | Civics and Citizenship — Ethiopia — Knowing and Valuing Yourself |
+| 28201 | pictures/28201.webp | tying my own shoes | Civics and Citizenship — Ethiopia — Signs of Self-Worth and Standing on Your Own |
+| 28202 | pictures/28202.webp | raise your hand; pause and breathe | Civics and Citizenship — Ethiopia — Self-Confidence and Self-Control |
+| 28203 | pictures/28203.webp | watering the small plant | Civics and Citizenship — Ethiopia — Growing Your Self-Worth |
+| 28204 | pictures/28204.webp | the stepping stone through | Civics and Citizenship — Ethiopia — Facing Problems and What Low Self-Worth Costs |
+| 28205 | pictures/28205.webp | thought and action matching | Civics and Citizenship — Ethiopia — Moral Integrity — Inside and Outside in Agreement |
+| 28206 | pictures/28206.webp | six tiles of one school day | Civics and Citizenship — Ethiopia — How Integrity Shows |
+| 28207 | pictures/28207.webp | a handshake over a kept promise | Civics and Citizenship — Ethiopia — What Integrity Gives |
+| 28208 | pictures/28208.webp | standing by a written promise | Civics and Citizenship — Ethiopia — The Person of Integrity |
+| 28209 | pictures/28209.webp | the cracked trust-jar | Civics and Citizenship — Ethiopia — When Integrity Is Missing |
+| 28210 | pictures/28210.webp | a village at rest | Civics and Citizenship — Ethiopia — Peace — What It Is and Why It Matters |
+| 28211 | pictures/28211.webp | talking it through, hands open | Civics and Citizenship — Ethiopia — Making Peace and Settling Conflict Without Fighting |
+| 28212 | pictures/28212.webp | the village emptied and shuttered | Civics and Citizenship — Ethiopia — What Happens When There Is No Peace |
+| 28213 | pictures/28213.webp | a market at peace | Civics and Citizenship — Ethiopia — Peace — A Settled, Secure Community |
+| 28214 | pictures/28214.webp | lifting the bench together | Civics and Citizenship — Ethiopia — Cooperation — Working Together |
+| 28215 | pictures/28215.webp | the woven ring unbroken | Civics and Citizenship — Ethiopia — Peace and Cooperation — Each Needs the Other |
+| 28216 | pictures/28216.webp | pausing at the doorway | Civics and Citizenship — Ethiopia — Ethics — The Rules of Right Conduct |
+| 28217 | pictures/28217.webp | two ways to spend free time | Civics and Citizenship — Ethiopia — Ethics in What We Do Together and Using Free Time Properly |
+| 28218 | pictures/28218.webp | the marked crossing | Civics and Citizenship — Ethiopia — Permitted and Forbidden and Staying Safe on the Road |
+| 28219 | pictures/28219.webp | choosing the honest example | Civics and Citizenship — Ethiopia — Good Behaviour — What It Is and That It Is Chosen |
+| 28220 | pictures/28220.webp | returning the dropped purse | Civics and Citizenship — Ethiopia — Marks of Good Character and Respect |
+| 28221 | pictures/28221.webp | sharing one tree's shade | Civics and Citizenship — Ethiopia — Why Good Morals Are Worth Having |
+| 28222 | pictures/28222.webp | five steps up | Civics and Citizenship — Ethiopia — Building Good Morals |
+| 28223 | pictures/28223.webp | carrying the jar with both hands | Civics and Citizenship — Ethiopia — Responsibility — Owning What Is Yours to Do |
+| 28224 | pictures/28224.webp | fleeing, or knocking to apologise | Civics and Citizenship — Ethiopia — Why Doing Your Duty Matters |
+| 28225 | pictures/28225.webp | three nested circles | Civics and Citizenship — Ethiopia — Kinds of Responsibility — Self, Family and Country |
+| 28226 | pictures/28226.webp | the duty wall-chart | Civics and Citizenship — Ethiopia — Our Moral Responsibilities |
+| 28227 | pictures/28227.webp | many hands on one harvest | Civics and Citizenship — Ethiopia — Work Culture — How a Community Works Together |
+| 28228 | pictures/28228.webp | the desk and the bench | Civics and Citizenship — Ethiopia — Why Work Culture Matters — At School and at Work |
+| 28229 | pictures/28229.webp | clock, plan, hands, look back | Civics and Citizenship — Ethiopia — What Hard Workers Do — Plan, Do, Check |
+| 28230 | pictures/28230.webp | reading under one tree | Civics and Citizenship — Ethiopia — Reading Culture — A Community That Reads |
+| 28231 | pictures/28231.webp | skimming, with a notebook beside | Civics and Citizenship — Ethiopia — Reading Skills — Scanning, Skimming and Notes |
+| 28232 | pictures/28232.webp | at the crossroads | Civics and Citizenship — Ethiopia — Decisions — Choosing How to Act |
+| 28233 | pictures/28233.webp | thinking before helping | Civics and Citizenship — Ethiopia — What Makes a Decision Moral |
+| 28234 | pictures/28234.webp | five stepping stones | Civics and Citizenship — Ethiopia — Five Steps to a Moral Decision |
+| 28235 | pictures/28235.webp | the ripple from one choice | Civics and Citizenship — Ethiopia — Why Deciding Well Matters |
+| 28236 | pictures/28236.webp | five arrows pressing in | Civics and Citizenship — Ethiopia — What Makes Deciding Hard — Pressure and Pulls |
+| 28237 | pictures/28237.webp | planting, with agreement | Civics and Citizenship — Ethiopia — Serving the Community the Right Way |
+| 28238 | pictures/28238.webp | the ring around the child | Civics and Citizenship — Ethiopia — The Environment — What Surrounds Us |
+| 28239 | pictures/28239.webp | refill, switch off | Civics and Citizenship — Ethiopia — Caring for the Environment — Small Acts |
+| 28240 | pictures/28240.webp | four gifts from one landscape | Civics and Citizenship — Ethiopia — Why the Environment Matters |
+| 28241 | pictures/28241.webp | tightening the dripping tap | Civics and Citizenship — Ethiopia — Ways to Care for the Environment |
+| 28242 | pictures/28242.webp | the dry water point | Civics and Citizenship — Ethiopia — When We Do Not Care for the Environment |
+| 28243 | pictures/28243.webp | the well and the market stall | Civics and Citizenship — Ethiopia — Social and Economic Activities — Taking Part |
+| 28244 | pictures/28244.webp | seedlings along the fence | Civics and Citizenship — Ethiopia — Voluntary Work — Giving Time and Skill Freely |
+| 28245 | pictures/28245.webp | half play, half helping | Civics and Citizenship — Ethiopia — Spare Time for the Common Good |
+| 28246 | pictures/28246.webp | the receipt and the savings box | Civics and Citizenship — Ethiopia — Paying Tax Honestly and Saving |
+| 28247 | pictures/28247.webp | speech bubbles linking friends | Civics and Citizenship — Ethiopia — Social Media — What It Is |
+| 28248 | pictures/28248.webp | calling a grandparent far away | Civics and Citizenship — Ethiopia — What Social Media Is Good For |
+| 28249 | pictures/28249.webp | showing the screen openly | Civics and Citizenship — Ethiopia — Using Social Media the Right Way |
+| 28250 | pictures/28250.webp | the mask and the shadow behind it | Civics and Citizenship — Ethiopia — Staying Safe Online |
+| 28251 | pictures/28251.webp | five scenes under equality | Civics and Citizenship — Ethiopia — Tolerance — What It Is and What It Is Made Of |
+| 28252 | pictures/28252.webp | one place pushed away | Civics and Citizenship — Ethiopia — Why Tolerance Matters and What Destroys It |
+| 28253 | pictures/28253.webp | one game, many dresses | Civics and Citizenship — Ethiopia — Making Room for Other Cultures |
+| 28254 | pictures/28254.webp | threads woven into one cloth | Civics and Citizenship — Ethiopia — Unity in Diversity |
+| 28255 | pictures/28255.webp | letter, phone, fax, email, internet | Civics and Citizenship — Ethiopia — Cultures Meeting — How Contact Grew |
+| 28256 | pictures/28256.webp | exchanging across the bridge | Civics and Citizenship — Ethiopia — Cultural Linkage — Cultures in Conversation |
+| 28257 | pictures/28257.webp | one dance, mixed dress | Civics and Citizenship — Ethiopia — Why Cultures Link and What Makes It Hard |
+| 28258 | pictures/28258.webp | three signposts | Civics and Citizenship — Ethiopia — Signs That Cultures Are Truly Linked |
+| 28260 | pictures/28260.gif | the ring being woven strand by strand into a closed circle | Civics and Citizenship — Ethiopia — Peace and Cooperation — Each Needs the Other |
+| 28261 | pictures/28261.gif | a child checking both ways and crossing on the marked crossing | Civics and Citizenship — Ethiopia — Permitted and Forbidden and Staying Safe on the Road |
+| 28262 | pictures/28262.gif | a traffic light cycling red–amber–green as children wait and cross | Civics and Citizenship — Ethiopia — Our Moral Responsibilities |
+| 28263 | pictures/28263.gif | eyes skimming a page, then slowing to read one line closely | Civics and Citizenship — Ethiopia — Reading Skills — Scanning, Skimming and Notes |
+| 28264 | pictures/28264.gif | a child stepping stone to stone, pausing at the outcomes stone | Civics and Citizenship — Ethiopia — Five Steps to a Moral Decision |
+| 28265 | pictures/28265.gif | the drip slowing and stopping as the tap is fixed | Civics and Citizenship — Ethiopia — Ways to Care for the Environment |
+| 28266 | pictures/28266.gif | threads weaving together into a single patterned cloth | Civics and Citizenship — Ethiopia — Unity in Diversity |

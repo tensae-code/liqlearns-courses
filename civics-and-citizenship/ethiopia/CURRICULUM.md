@@ -141,7 +141,11 @@ and verified:
   course's own eleven units, 609 questions; pictures 29000–29045,
   GIFs 29046–29049; older-generation teacher-guide evidence
   throughout. Commit c7fb8ff99.
+- **Character of a Citizen (Level 14) — BUILT** (band C2, Grades
+  7–8 virtues + Grade 9 ethics): 23 lessons, 276 questions;
+  pictures 28500–28509 + 28511–28544, GIF 28510. The Grade 8
+  guide's reversed progressive-tax definition is taught corrected
+  in the Civic virtues lesson. Commit 193987481 (hash as pushed).
 - Bands M1 (Levels 1–6), M2 (Levels 7–12 + Level 1's deepening),
-  C2 (Level 14), C3 (Levels 15–21, Grades 7–8), C4 (Levels 17–27
-  depth + Levels 22–27) — records land as each band is verified
-  and committed.
+  C3 (Levels 15–21, Grades 7–8), C4 (Levels 17–27 depth + Levels
+  22–27) — records land as each band is verified and committed.
