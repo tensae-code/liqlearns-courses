@@ -1,0 +1,17 @@
+# Sources — Saving a word document
+
+countries: Ethiopia
+
+**Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
+
+**Book 2:** *Information Technology, Teacher Guide, Grade 7* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). 88 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| First save — File → Save As; choose location/drive | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
+| This PC → Documents, or Browse to any location including Desktop; .docx added automatically | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
+| The Word practical is assessed by watching, not by a written key (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 3, printed pp.43–45 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia

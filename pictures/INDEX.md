@@ -1063,6 +1063,53 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9905 | pictures/9905.gif | a white flower filling with yellow | Afan Oromo — Word |
 | 9906 | pictures/9906.gif | days lighting up across the week | Afan Oromo — Word |
 | 9907 | pictures/9907.gif | boat, train and plane each moving in their own band | Afan Oromo — Reading |
+| 10500 | pictures/10500.webp | software makes hardware work | Computer Science and ICT — Computer Software |
+| 10501 | pictures/10501.webp | the operating system manages | Computer Science and ICT — System Software and the Operating System |
+| 10502 | pictures/10502.webp | utilities and translators | Computer Science and ICT — Utilities and Language Translators |
+| 10503 | pictures/10503.webp | programs for particular jobs | Computer Science and ICT — Application Software |
+| 10504 | pictures/10504.webp | system or application | Computer Science and ICT — System or Application? |
+| 10505 | pictures/10505.webp | word processing | Computer Science and ICT — Word Processing |
+| 10506 | pictures/10506.webp | opening Word three ways | Computer Science and ICT — Opening a Word Processor |
+| 10507 | pictures/10507.webp | the Word window | Computer Science and ICT — The Word Window |
+| 10508 | pictures/10508.webp | pointer shapes in Word | Computer Science and ICT — Mouse Pointer Shapes |
+| 10509 | pictures/10509.webp | saving a document | Computer Science and ICT — Saving a Word Document |
+| 10510 | pictures/10510.webp | closing Word | Computer Science and ICT — Closing a Word Processor |
+| 10511 | pictures/10511.webp | a network of networks | Computer Science and ICT — The Internet |
+| 10512 | pictures/10512.webp | internet Web website page | Computer Science and ICT — Internet, Web, Website and Web Page |
+| 10513 | pictures/10513.webp | browser and search engine | Computer Science and ICT — Browsers and Search Engines |
+| 10514 | pictures/10514.webp | common browsers | Computer Science and ICT — Kinds of Web Browser |
+| 10515 | pictures/10515.webp | parts of a browser window | Computer Science and ICT — Parts of a Browser Window |
+| 10516 | pictures/10516.webp | parts of a web address | Computer Science and ICT — The Parts of a Web Address |
+| 10517 | pictures/10517.webp | two ways to reach a site | Computer Science and ICT — Accessing a Website |
+| 10518 | pictures/10518.webp | safety before cleaning | Computer Science and ICT — Caring for a Computer |
+| 10519 | pictures/10519.webp | safety signs in the lab | Computer Science and ICT — Safety Signs and Hazards in the Computer Lab |
+| 10520 | pictures/10520.webp | the cleaning kit | Computer Science and ICT — Cleaning a Computer |
+| 10521 | pictures/10521.webp | cleaning three devices | Computer Science and ICT — Cleaning Monitor, Keyboard and Mouse |
+| 10522 | pictures/10522.webp | starting up in order | Computer Science and ICT — Starting Up a Computer |
+| 10523 | pictures/10523.webp | shut down sleep sign out | Computer Science and ICT — Shut Down, Sleep and Sign Out |
+| 10524 | pictures/10524.webp | three kinds of account | Computer Science and ICT — User Accounts |
+| 10525 | pictures/10525.webp | a strong password | Computer Science and ICT — Passwords |
+| 10526 | pictures/10526.webp | programming languages and LOGO | Computer Science and ICT — Programming Languages and LOGO |
+| 10527 | pictures/10527.webp | opening MSW Logo | Computer Science and ICT — Opening MSW Logo |
+| 10528 | pictures/10528.webp | the MSW Logo screen | Computer Science and ICT — The MSW Logo Screen |
+| 10529 | pictures/10529.webp | turtle commands | Computer Science and ICT — LOGO Drawing Commands |
+| 10530 | pictures/10530.webp | a procedure has a name | Computer Science and ICT — LOGO Procedures |
+| 10531 | pictures/10531.webp | defining a procedure | Computer Science and ICT — Defining and Running a LOGO Procedure |
+| 10550 | pictures/10550.gif | the Word menu route | Computer Science and ICT — Opening a Word Processor |
+| 10551 | pictures/10551.gif | pointer shapes changing | Computer Science and ICT — Mouse Pointer Shapes |
+| 10552 | pictures/10552.gif | the Save As dialogue | Computer Science and ICT — Saving a Word Document |
+| 10553 | pictures/10553.gif | the network of networks | Computer Science and ICT — The Internet |
+| 10554 | pictures/10554.gif | typing an address | Computer Science and ICT — Parts of a Browser Window |
+| 10555 | pictures/10555.gif | compressed air blasting dust | Computer Science and ICT — Cleaning a Computer |
+| 10556 | pictures/10556.gif | the monitor wipe order | Computer Science and ICT — Cleaning Monitor, Keyboard and Mouse |
+| 10557 | pictures/10557.gif | the power-on sequence | Computer Science and ICT — Starting Up a Computer |
+| 10558 | pictures/10558.gif | the shut-down click path | Computer Science and ICT — Shut Down, Sleep and Sign Out |
+| 10559 | pictures/10559.gif | the MSW Logo menu route | Computer Science and ICT — Opening MSW Logo |
+| 10560 | pictures/10560.gif | the turtle obeying fd and rt | Computer Science and ICT — LOGO Drawing Commands |
+| 10561 | pictures/10561.gif | SQUARE drawing itself | Computer Science and ICT — LOGO Procedures |
+| 10562 | pictures/10562.gif | the procedure square | Computer Science and ICT — Defining and Running a LOGO Procedure |
+| 10563 | pictures/10563.gif | the guide's bent path | Computer Science and ICT — LOGO Drawing Commands |
+| 10564 | pictures/10564.gif | the 360-step circle | Computer Science and ICT — Defining and Running a LOGO Procedure |
 | 9925 | pictures/9925.webp | the pronoun chart | Afan Oromo — Sentence |
 | 9926 | pictures/9926.gif | clock hands moving to a named time (9:00) | Afan Oromo — Listening |
 | 9927 | pictures/9927.webp | the weather report and its clothes | Afan Oromo — Listening |
@@ -1095,3 +1142,33 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9955 | pictures/9955.gif | the doubled letter held — biyya's yy swelling | Afan Oromo — Sentence |
 | 9960 | pictures/9960.webp | listening to rivers — Abbayyaa and Hawaas | Afan Oromo — Listening |
 | 9961 | pictures/9961.gif | river water over a fall | Afan Oromo — Listening |
+| 11200 | pictures/11200.webp | timeline of Ethiopia's periods, ancient to 1270 to 1855, with the states placed | Social Studies — Ethiopian History — the Periods |
+| 11201 | pictures/11201.webp | an Egyptian ship loading Punt goods at a port | Social Studies — Ancient Ethiopia — Punt |
+| 11202 | pictures/11202.webp | the Yeha temple remains with throne and idol | Social Studies — Ancient Ethiopia — Da'amat and Yeha |
+| 11203 | pictures/11203.webp | trade map of the Adulis coast, goods arrows in and out | Social Studies — Aksum — Its Economy |
+| 11204 | pictures/11204.webp | a manuscript page and a carved stone inscription side by side | Social Studies — Aksum — How We Know: the Sources |
+| 11205 | pictures/11205.webp | three stelae to scale beside a person | Social Studies — Aksum — the Stelae |
+| 11206 | pictures/11206.webp | route map, Syria to Aksum, with the Nine Saints' monasteries | Social Studies — Aksum — Christianity Arrives |
+| 11207 | pictures/11207.webp | a sea crossing from Arabia to the Aksum coast, the king receiving the newcomers | Social Studies — Aksum — the First Hijra |
+| 11208 | pictures/11208.webp | an Aksumite gold coin enlarged beside a stela | Social Studies — Aksum — Contributions and Decline |
+| 11209 | pictures/11209.webp | map of Lasta, Roha and Lalibela with the trade outlets Dahlak and Zeila | Social Studies — Zagwe — the Dynasty |
+| 11210 | pictures/11210.webp | Bete Giyorgis from above, its cross shape cut into the rock | Social Studies — Zagwe — the Rock-Hewn Churches of Lalibela |
+| 11211 | pictures/11211.webp | timeline 1270 to 1299, five short reigns squeezed together | Social Studies — Medieval Ethiopia — the Solomonic Restoration |
+| 11212 | pictures/11212.webp | expansion map of regions joining the kingdom under Amda Tsion | Social Studies — Medieval Ethiopia — Amda Tsion |
+| 11213 | pictures/11213.webp | map of three entry points, spread arrows east and south-east | Social Studies — Medieval Ethiopia — Islam and the Sultanates |
+| 11214 | pictures/11214.webp | the Dahlak islands in the Red Sea with dhows at anchor | Social Studies — The Sultanates — Dahlak |
+| 11215 | pictures/11215.webp | the interior-to-Zeila route through Ifat, toll points marked | Social Studies — The Sultanates — Ifat |
+| 11216 | pictures/11216.webp | map of the southern sultanates ringed around Bale | Social Studies — The Sultanates — Hadiya and Bale |
+| 11217 | pictures/11217.webp | one house dividing, Dakar then Harar | Social Studies — The Sultanates — Adal |
+| 11218 | pictures/11218.webp | a two-century timeline with the named battles placed | Social Studies — The Adal Wars — the First Phase |
+| 11219 | pictures/11219.webp | campaign map 1527 to 1543, Weyna Dega | Social Studies — The Adal Wars — Imam Ahmad |
+| 11220 | pictures/11220.webp | expansion arrows out of the Bale highlands, with date bands | Social Studies — The Oromo Expansion — Causes and Course |
+| 11221 | pictures/11221.webp | a two-moieties branching tree and the Harar Jugol wall | Social Studies — The Oromo Expansion — Society and Effects |
+| 11222 | pictures/11222.webp | route map Harar–Dawaro–Fatagar, goods along the routes, amole | Social Studies — Medieval Ethiopia — Trade Routes and Goods |
+| 11223 | pictures/11223.webp | the Fasil Ghebbi castle at Gondar on a map | Social Studies — The Gondar Period — Founding |
+| 11224 | pictures/11224.webp | a royal compound plan with market and quarters marked | Social Studies — The Gondar Period — City Life |
+| 11225 | pictures/11225.webp | a Gondarine king-list timeline, Mentewab's regency shaded | Social Studies — The Gondar Period — Kings and the Fall of Iyoas |
+| 11226 | pictures/11226.webp | map of Ethiopia broken into lordships, the capital a small dot | Social Studies — Zemene Mesafint — the Era of the Princes |
+| 11227 | pictures/11227.webp | a farmer between two armies, a checkpoint-taxed merchant behind | Social Studies — Zemene Mesafint — the Cost to the People |
+| 11228 | pictures/11228.webp | a sultanates map with Shewa highlighted inland, Dahlak and Zeila as gateways | Social Studies — The Sultanates — Shewa, the Oldest Sultanate |
+| 11229 | pictures/11229.gif | a chisel carving down into rock, Bete Giyorgis emerging | Social Studies — Zagwe — the Rock-Hewn Churches of Lalibela |
