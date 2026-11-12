@@ -1,0 +1,3 @@
+# The sultanates — Dahlak — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Say Arabs settled Dahlak after taking Adulis in 702, and a sultanate formed in the 10th century on a trade economy.; Say foreign trade ran through Dahlak before Zeila rose.; Say the sultans kept independence by peaceful means until Ottoman Turks took Dahlak in the mid-16th century. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

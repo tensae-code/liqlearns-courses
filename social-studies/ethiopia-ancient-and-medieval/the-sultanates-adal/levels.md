@@ -1,0 +1,3 @@
+# The sultanates — Adal — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Say Adal was founded in 1380 from the split of Ifat's ruling house after submission.; Say the merchants accepted overlordship while the other party withdrew to the Harar lowlands.; Name the centres Dakar then Harar, and the shared Walasma line. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

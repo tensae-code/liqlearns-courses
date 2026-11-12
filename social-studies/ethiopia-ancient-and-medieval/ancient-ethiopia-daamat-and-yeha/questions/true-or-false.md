@@ -1,0 +1,13 @@
+# Ancient Ethiopia — Da'amat and Yeha — true or false
+
+Say whether each statement is true or false.
+
+**1.** Da'amat's kings kept their own gods.
+**Answer: True** — They used a South Arabian title but kept their own gods.
+
+**2.** The throne and idol were found at Yeha.
+**Answer: True** — Both are pictured from Yeha in the book's Fig. 4.1.
+
+**3.** Mukarrib was an Ethiopian title invented at Yeha.
+**Answer: False** — It was a South Arabian title used by Da'amat's kings.
+

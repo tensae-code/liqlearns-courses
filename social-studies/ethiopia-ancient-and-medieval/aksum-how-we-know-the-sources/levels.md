@@ -1,0 +1,3 @@
+# Aksum — how we know: the sources — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Name the Periplus of the Eritrean Sea (about 50 AD) and what it records: Adulis, King Zoscales, a strong well-organised state.; Name the Greek inscription of Adulis and where it is preserved: Cosmas Indicopleustes' Christian Topography.; Say what the inscription's king recounts: campaigns north, west, east and across the Red Sea to South Arabia. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

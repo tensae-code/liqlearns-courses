@@ -1,0 +1,3 @@
+# Aksum — the first Hijra — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Retell the first Hijra (615, 15–18 people including Ruqayya) and the second (616, about 119 under Ja'far ibn Abi Talib).; Name King al-Ashama (Armah, 615–631) as the king who sheltered them.; Say most returned in 629, some settled, and 15–20 who died are buried with honour at Negash.; State the lesson drawn: Ethiopia as a land of justice, order and welcome. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

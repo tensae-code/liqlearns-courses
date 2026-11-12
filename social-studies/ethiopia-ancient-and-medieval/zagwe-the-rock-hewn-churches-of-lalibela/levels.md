@@ -1,0 +1,3 @@
+# Zagwe — the rock-hewn churches of Lalibela — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Describe the rock-hewn churches: cut from single rock, Bete Giyorgis cross-shaped, continuing an Aksumite tradition.; Say farming and trade funded the churches, and churches and monasteries spread Christianity.; Give the fall's causes: no peaceful succession law and power struggles. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

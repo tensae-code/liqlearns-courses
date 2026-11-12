@@ -1,0 +1,3 @@
+# Zagwe — the dynasty — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Name Mera Tekle Haymanot as Zagwe's founder and the centres Adafa, Roha and Lalibela.; Say the Zagwe held land in Jerusalem through peaceful relations and did not fight in the Crusades.; Name the trade outlets: Dahlak, Zeila and the Gulf of Aden. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

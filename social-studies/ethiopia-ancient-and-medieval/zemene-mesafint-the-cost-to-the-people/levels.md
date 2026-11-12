@@ -1,0 +1,3 @@
+# Zemene Mesafint — the cost to the people — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — List the peasantry's burdens: forced into campaigns, harvests looted, fields made battlefields, provisions owed to every lord.; Say many farmers abandoned farming for shiftnet (banditry).; Say merchants were robbed and taxed at each lord's checkpoint until trade withered; culture, crafts and national feeling declined.; Give the book's verdict: all-round backwardness. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

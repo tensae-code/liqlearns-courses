@@ -25,3 +25,9 @@ Grade 8 guide, and the acceptance reckoning.
 
 Building — Ethiopia Wave 3 (Social Studies, Grades 7–8).
 Band records land here as each band is built and verified.
+
+- **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
+  Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
+  pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).
+  The guide-only Shewa sultanate lesson stands on teacher-guide
+  evidence only, counted nowhere.

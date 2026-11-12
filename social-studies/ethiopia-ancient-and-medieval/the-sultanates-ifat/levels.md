@@ -1,0 +1,3 @@
+# The sultanates — Ifat — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Name Ifat's founder (Umar Walasma) and founding (mid-13th century).; Explain Ifat's strength: the interior–Zeila routes crossed its territory, so it controlled the region's trade.; Say Amda Tsion ended its supremacy and Sabr al-Din was defeated and made tributary. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.
