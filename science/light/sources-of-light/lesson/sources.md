@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Ecuador, Slovenia
 **Book 5:** *Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular* (student textbook) — Ecuador, Ministerio de Educación del Ecuador, Primera edición 2024. Title as printed: Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular. ISBN 978-9942-662-30-9. Grade 11 (1ro BGU). Student book. Repo path: grade-11/gov/ecuador/fisica/student/full-year.pdf. Release: mid-size-books-3. Byte size: 20,779,160. PDF pages: 274. Page rule: printed p. N ≈ PDF p. N+1. Verdict: COMPLETE — full text read (35,790 words) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/ecuador-placements.md.
 
 **Book 6:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
+**Book 7:** *Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 8 (2ème année collégiale, 2AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-08/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,442,534 · PDF pages: 163 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and both semester descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,7 +21,9 @@ countries: Ethiopia, Ecuador, Slovenia
 | Light and its properties (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 14 La luz y sus propiedades, printed p. 183 |
 | Light: Svetloba — light sources ("Svetila"), propagation of light and shadows (Slovenia) | Slovenia, *Fizika 8*, Light: Svetloba — light sources ("Svetila"), propagation of light and shadows — printed p. 24 (unit folder 141) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Slovenia).**
+| Chapitre 9, The light around us (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, Chapitre 9, printed p. 92 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Slovenia).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

@@ -1,6 +1,6 @@
 # Sources — Current, voltage and resistance
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Italy, Syria, Slovenia, Malaysia, Fiji, Indonesia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Italy, Syria, Slovenia, Malaysia, Fiji, Indonesia, Morocco (teacher-guide evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Italy, Syr
 
 **Book 10:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 11:** *Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 7 (1ère année collégiale, 1AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-07/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 2,175,034 · PDF pages: 161 · Offset: the sommaire's pages are the guide's printed pages and are cited as printed p. Verdict: COMPLETE (title page, preface, full sommaire and activity descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electric current and resistance | Grade 11 Student Textbook, printed pp. 240–244 |
@@ -36,7 +38,9 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Italy, Syr
 | Strand 5 §§5.1–5.2 Current and Charge; Resistance (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 5 §§5.1–5.2 Current and Charge; Resistance, Resistivity and Ohm's Law — printed p. 124 |
 | Bab 2, Subbab A Arus Listrik, Hambatan Ohmik dan non-Ohmik (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 2, Subbab A Arus Listrik, Hambatan Ohmik dan non-Ohmik — guide p. 46 — ohmic vs non-ohmic behaviour named as its own sub-topic |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Italy, Syria, Slovenia, Malaysia, Fiji, Indonesia).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+| Chapitre 17, Direct electric current — current intensity and voltage introduced for DC (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 17, printed p. 127 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Italy, Syria, Slovenia, Malaysia, Fiji, Indonesia).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

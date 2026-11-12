@@ -1,0 +1,22 @@
+# Sources — Electrical energy consumed — the meter, E = P·t and the electricity bill
+
+countries: Morocco (teacher-guide evidence only)
+
+**Book 1:** *Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 9 (3ème année collégiale, 3AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-09/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,416,512 · PDF pages: 129 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and full activity lists for both semesters verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this lesson stands on teacher-guide evidence only.
+
+**Book 2:** *Al marjie Physique Chimie, Guide de l'enseignant(e), 3ème année de l'enseignement secondaire collégial* (teacher guide) — Morocco, Grade 9 (3AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Authors: Ahmed EL KOUARTY, Abdelkader SARSI, Salah BENYAMNA, Abdesslam RECHO et al. Repo path: grade-09/gov/morocco/physics-chemistry/teacher/marji3-3ac.pdf. Release: mid-size-books-6, asset grade-09-gov-morocco-physics-chemistry-teacher-marji3-3ac.pdf. Byte size: 7,175,934 · PDF pages: 119 · Offset: printed p. = PDF p. Verdict: COMPLETE (cover, table of contents, Partie 2 part-structure verified; physics unit headings located inside it). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this lesson stands on teacher-guide evidence only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 16, Electrical energy, printed p. 117 |
+| Sub lesson 1 — Electrical energy — power multiplied by time (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 16, printed p. 117 |
+| Sub lesson 2 — The meter — counting the units a home consumes (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 16, printed p. 117 |
+| Sub lesson 3 — The electricity bill — from units to money, and where savings live (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 16, printed p. 117 — calculating from a real electricity bill (facture) as the closing activity of collège physics |
+| The whole lesson, second series (teacher guide — evidence) | Morocco, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)*, Partie 2, Electricity part — Énergie électrique units, printed pp. 93–107 (located at PDF pp. 110–113) |
+| Do it first; key ideas; Do It Yourself (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 16, printed p. 117; Morocco, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)*, Partie 2, printed pp. 93–107 |
+
+**Acceptance count: taught in 0 countries — stands on teacher-guide evidence only (Morocco), named here, counted nowhere.**
+
+Placement choice, on the record: this NEW LESSON was built for the Morocco placements “Electrical energy consumed — the meter, E = P·t and the electricity bill” — morocco-placements.md, Book 5 (Al Moufid 3AC), Chapitre 16, printed p. 117, and Book 6 (Al Marjie 3AC), Partie 2, Electricity part, printed pp. 93–107 — one lesson built once, citing both guides. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics). Both sources are TEACHER GUIDES; Morocco holds no student Physics books in the library, so the lesson rests on teacher-guide evidence only and is counted nowhere.
+
+Searchable tags: electrical energy, kilowatt-hour, kwh, electricity meter, electricity bill, e = p·t, energy consumed, morocco, grade 9

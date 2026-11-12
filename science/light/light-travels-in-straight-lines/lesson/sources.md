@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji
 
 **Book 14:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 15:** *Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 8 (2ème année collégiale, 2AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-08/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,442,534 · PDF pages: 163 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and both semester descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
+
+**Book 16:** *Al marjie Physique Chimie, Guide de l'enseignant(e), 2ème année de l'enseignement secondaire collégial* (teacher guide) — Morocco, Grade 8 (2AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Authors: Ahmed EL KOUARTY, Abdelkader SARSI, Abdesslam RECHO et al. Repo path: grade-08/gov/morocco/physics-chemistry/teacher/marji3-2ac.pdf. Byte size: 3,429,210 · PDF pages: 132 · Offset: printed p. = PDF p. Verdict: COMPLETE (cover, table of contents, Partie 2 part-structure verified; physics unit headings located inside it). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Experiment 4 — the straight tube and the bent tube | Ethiopia, *Grade 4 Student Textbook*, §2.6, printed pp. 59–60 |
@@ -21,7 +25,10 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji
 
 | Grade 6 — Experiment 6: the three-card test | Ethiopia, *Grade 6 Student Textbook*, printed pp. 79–80 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Fiji).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+| Chapitre 12, Propagation of light (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, Chapitre 12, printed p. 106 |
+| Rectilinear propagation units (teacher guide — evidence) | Morocco, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)*, Partie 2, printed pp. 82–111 (located at PDF pp. 97–100) |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Fiji).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. Flame safety: in the book the candle is the class's light source; this lesson keeps the candle as adult-handled, with a torch named as the home substitute.
 

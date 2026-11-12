@@ -1,6 +1,6 @@
 # Sources — Barometers and manometers
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Morocco (teacher-guide evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,12 +8,16 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia
 
 **Book 3:** *Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; Koay Kheng Chuan, Chia Song Choy et al.; Penerbit Bestari Sdn. Bhd., first published 2020, ISBN 978-983-092-447-2, Book Serial No. 0130. Grade: Form 5 (= Grade 11) · Kind: student · Files: grade-11/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-11/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level; Ch. 1, 2 and 4 section titles confirmed against the bilingual KSSM module contents). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 5 DLP asset 89,457,972 bytes, 267 PDF pages, Book Serial No. 0130/KPM 2020, ISBN 978-983-092-447-2; Form 5 Malay asset 85,778,654 bytes, 268 PDF pages, Malay edition's own ISBN 978-983-092-446-5). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 4:** *Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 7 (1ère année collégiale, 1AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-07/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 2,175,034 · PDF pages: 161 · Offset: the sommaire's pages are the guide's printed pages and are cited as printed p. Verdict: COMPLETE (title page, preface, full sommaire and activity descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Measuring pressure — barometer and manometer | Grade 12 Student Textbook, printed pp. 92–96 |
 | Manometer, barometer (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | Ch. 2 Pressure, §2.3 Gas Pressure (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2, §2.3 Gas Pressure — gas pressure measured with manometers/Bourdon gauge in this section's standard treatment |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Chapitre 6, Activities 3–4: measuring gas pressure and atmospheric pressure (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 6, printed p. 65 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, barometers and manometers, manometer
