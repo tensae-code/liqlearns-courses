@@ -74,7 +74,16 @@ Band records land here as each band is built and verified.
   Grade 8 climb with "Before this lesson" hints down to People
   and Resources — no Grade 7 lesson re-taught. The basin-count
   wrinkle (the student book names 10 countries, says 11; DR
-  Congo comes from the guide's list) is named in the sources. One assessment-stock item (Samori Toure) was
+  Congo comes from the guide's list) is named in the sources.
+- **The Land and Air — BUILT** (Grade 8 student Chapter 1 +
+  teacher guide Unit 1): 31 lessons, 310 questions, pictures
+  11450–11482, GIFs 11459, 11460, 11465, 11471, 11483–11489
+  (eleven, all frame-checked). One guide-only lesson (weather
+  in Ethiopia — diurnal, seasonal and the five zones) stands on
+  teacher-guide evidence only, counted nowhere. The guide's
+  wrong mesosphere key is never taught from and is named in the
+  sources; the chapter's deliberately blank tables stay as the
+  book's own library-completion tasks. One assessment-stock item (Samori Toure) was
   not built — no placement gives teachable content for him.
 - **Culture and Work — BUILT** (Grade 8 student Chapter 2 +
   teacher guide Unit 2): 26 lessons, 298 questions, pictures

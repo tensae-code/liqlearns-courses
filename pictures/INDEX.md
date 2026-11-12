@@ -1461,6 +1461,46 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11569 | pictures/11569.webp | Nile basin, eleven countries, upper/lower divide | Social Studies — Resources and Conflict — The Abay Dispute (case study) |
 | 11570 | pictures/11570.gif | wind turbine blades turning | Social Studies — Resources and Conflict — Renewable Resources |
 | 11571 | pictures/11571.gif | storm water stripping a bare slope | Social Studies — Resources and Conflict — Soil Erosion — Normal and Accelerated |
+| 11450 | pictures/11450.webp | shelf and islands | Social Studies — The Land and Air — What a Continent Is |
+| 11451 | pictures/11451.webp | the seven continents in place | Social Studies — The Land and Air — The Seven in Place |
+| 11452 | pictures/11452.webp | continent area bars | Social Studies — The Land and Air — Comparing Area and Population |
+| 11453 | pictures/11453.webp | water family strip | Social Studies — The Land and Air — Water Bodies — the Family |
+| 11454 | pictures/11454.webp | five oceans bars | Social Studies — The Land and Air — The Five Oceans |
+| 11455 | pictures/11455.webp | the Mediterranean opening | Social Studies — The Land and Air — Seas |
+| 11456 | pictures/11456.webp | lake vs sea | Social Studies — The Land and Air — Lakes |
+| 11457 | pictures/11457.webp | river system | Social Studies — The Land and Air — Rivers |
+| 11458 | pictures/11458.webp | Earth cut-away | Social Studies — The Land and Air — Internal Forces |
+| 11459 | pictures/11459.gif | rock layers crumpling under sideways arrows (folding) | Social Studies — The Land and Air — Folding |
+| 11460 | pictures/11460.gif | the middle block sinking (faulting) | Social Studies — The Land and Air — Faulting |
+| 11461 | pictures/11461.webp | the rift line, Syria to Mozambique | Social Studies — The Land and Air — The East African Rift Valley |
+| 11462 | pictures/11462.webp | volcano cross-section | Social Studies — The Land and Air — Volcanism — Magma and Lava |
+| 11463 | pictures/11463.webp | Erta Ale night crater | Social Studies — The Land and Air — Erta Ale (case study) |
+| 11464 | pictures/11464.webp | focus and epicentre | Social Studies — The Land and Air — Earthquakes |
+| 11465 | pictures/11465.gif | rings spreading from the focus (earthquake waves) | Social Studies — The Land and Air — Earthquakes |
+| 11466 | pictures/11466.webp | relief levelling | Social Studies — The Land and Air — External Forces |
+| 11467 | pictures/11467.webp | physical weathering, three panels | Social Studies — The Land and Air — Physical Weathering |
+| 11468 | pictures/11468.webp | a cave | Social Studies — The Land and Air — Chemical Weathering and Caves |
+| 11469 | pictures/11469.webp | erosion, four panels | Social Studies — The Land and Air — Erosion |
+| 11470 | pictures/11470.webp | a delta | Social Studies — The Land and Air — Deposition |
+| 11471 | pictures/11471.gif | a river fanning out and dropping its load (delta) | Social Studies — The Land and Air — Deposition |
+| 11472 | pictures/11472.webp | the air recipe bar | Social Studies — The Land and Air — The Atmosphere — Its Gases and Layers |
+| 11473 | pictures/11473.webp | the four layers and the temperature zig-zag | Social Studies — The Land and Air — The Four Layers |
+| 11474 | pictures/11474.webp | weather vs climate | Social Studies — The Land and Air — Weather and Climate — the Difference and the Elements |
+| 11475 | pictures/11475.webp | the controllers list | Social Studies — The Land and Air — The Controllers |
+| 11476 | pictures/11476.webp | week zig-zag and the shifting climate line | Social Studies — The Land and Air — Change over Days, Seasons and Years |
+| 11477 | pictures/11477.webp | scale, three ways | Social Studies — The Land and Air — Scale — Three Ways |
+| 11478 | pictures/11478.webp | scale conversions | Social Studies — The Land and Air — Converting Scales |
+| 11479 | pictures/11479.webp | ruler and thread | Social Studies — The Land and Air — Measuring Distance |
+| 11480 | pictures/11480.webp | area steps | Social Studies — The Land and Air — Measuring Area |
+| 11481 | pictures/11481.webp | GPS satellites | Social Studies — The Land and Air — GPS |
+| 11482 | pictures/11482.webp | Ethiopia's five zones (teacher guide) | Social Studies — The Land and Air — Weather in Ethiopia — Diurnal, Seasonal and the Five Zones |
+| 11483 | pictures/11483.gif | ice widening a crack, the rock splitting (ice wedging) | Social Studies — The Land and Air — Physical Weathering |
+| 11484 | pictures/11484.gif | a cone growing, a drop falling (stalactite drip) | Social Studies — The Land and Air — Chemical Weathering and Caves |
+| 11485 | pictures/11485.gif | a flood channel cutting down (gully deepening) | Social Studies — The Land and Air — Erosion |
+| 11486 | pictures/11486.gif | a thread laying along a curve | Social Studies — The Land and Air — Measuring Distance |
+| 11487 | pictures/11487.gif | magma rising, erupting as lava (volcano) | Social Studies — The Land and Air — Volcanism — Magma and Lava |
+| 11488 | pictures/11488.gif | sand streaming over a crest (dune wind, teacher guide) | Social Studies — The Land and Air — External Forces |
+| 11489 | pictures/11489.gif | ice passing straight to vapour (sublimation, teacher guide) | Social Studies — The Land and Air — The Atmosphere — Its Gases and Layers |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
