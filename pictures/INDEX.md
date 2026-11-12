@@ -468,3 +468,5 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 7894 | pictures/7894.gif | GIF — the letters s, a, t slide together on a line until they touch and the whole word SAT lights up gold | English — Blending sounds (the s-a-t slide) |
 | 7895 | pictures/7895.gif | GIF — the letters s and k slide together on a line and both stay, side by side, as the word SKIP forms and lights up gold | English — Blends (the s-k slide) |
 | 7896 | pictures/7896.gif | GIF — the word WRINKLE stands whole on a line, then its first letter w shrinks and fades away, leaving RINKLE standing as the word is said | English — Silent letters (the silent w fading) |
+| 7897 | pictures/7897.gif | GIF — a coral voice line draws itself over the sentence "It is raining." and falls at the end, then draws itself over "Is it raining?" and rises at the end | English — Stress and intonation (the voice line over a sentence) |
+| 7898 | pictures/7898.gif | GIF — the little brother does the buzz test: one paw rests on his throat and holds there, the throat glowing gold on the /d/ word "played" and staying dark on the /t/ word "helped" | English — The three sounds of -ed (the buzz test) |
