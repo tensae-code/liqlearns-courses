@@ -1700,3 +1700,71 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 10087 | pictures/10087.gif | the eskesta shoulder-and-chest shake on the count | Performing and Visual Arts — Drama and Dance |
 | 10088 | pictures/10088.gif | a dance phrase built element by element | Performing and Visual Arts — Drama and Dance |
 | 10089 | pictures/10089.gif | the circle game's turning movement | Performing and Visual Arts — Drama and Dance |
+| 12300 | pictures/12300.webp | sitting at a computer — two ways | Computer Science and ICT — Computer Ergonomics — Sitting Without Harming Your Body |
+| 12301 | pictures/12301.webp | overuse injury — where it hurts | Computer Science and ICT — Computer Ergonomics — Sitting Without Harming Your Body |
+| 12302 | pictures/12302.webp | setting up a workstation — the eleven principles | Computer Science and ICT — Setting Up a Workstation — the Healthy Angles |
+| 12303 | pictures/12303.webp | which sitting is right? — left ticked | Computer Science and ICT — Setting Up a Workstation — the Healthy Angles |
+| 12304 | pictures/12304.gif | workstation adjustments appearing step by step | Computer Science and ICT — Setting Up a Workstation — the Healthy Angles |
+| 12305 | pictures/12305.gif | slumped posture corrected to upright | Computer Science and ICT — Setting Up a Workstation — the Healthy Angles |
+| 12306 | pictures/12306.webp | eight ergonomic guidelines | Computer Science and ICT — Ergonomic Guidelines — Eight Habits at the Computer |
+| 12307 | pictures/12307.webp | portable devices — rules 1–3 | Computer Science and ICT — Handling Portable Devices Safely — Calls, Headsets, Distance |
+| 12308 | pictures/12308.webp | portable devices — rules 4–7 | Computer Science and ICT — Handling Portable Devices Safely — Signal, Texts and Landlines |
+| 12309 | pictures/12309.webp | using a smartphone properly — the ten rules | Computer Science and ICT — Using a Smartphone Properly — Ten Rules |
+| 12310 | pictures/12310.webp | LOGO primitives — the turtle's words | Computer Science and ICT — LOGO Primitives — the Turtle's Command Words |
+| 12311 | pictures/12311.gif | the turtle obeying FD, RT, PU, PD | Computer Science and ICT — LOGO Primitives — the Turtle's Command Words |
+| 12312 | pictures/12312.webp | a variable is a container | Computer Science and ICT — Variables in LOGO — MAKE, "name and :value |
+| 12313 | pictures/12313.webp | one word holds the whole list | Computer Science and ICT — LOGO Procedures |
+| 12314 | pictures/12314.webp | the Editor window | Computer Science and ICT — Defining and Running a LOGO Procedure |
+| 12315 | pictures/12315.webp | the star procedure | Computer Science and ICT — Recursive Procedures — a Procedure That Calls Itself |
+| 12316 | pictures/12316.gif | the star drawing itself line by line | Computer Science and ICT — Recursive Procedures — a Procedure That Calls Itself |
+| 12317 | pictures/12317.webp | ifelse — the road forks | Computer Science and ICT — LOGO Conditionals — ifelse |
+| 12318 | pictures/12318.webp | until — repeat while not yet | Computer Science and ICT — LOGO Loops with Until and While |
+| 12319 | pictures/12319.gif | the numbers 1 2 3 4 5 appearing one by one | Computer Science and ICT — LOGO Loops with Until and While |
+| 12320 | pictures/12320.webp | do.until and do.while — order swapped | Computer Science and ICT — LOGO Loops with do.until and do.while |
+| 12321 | pictures/12321.gif | the ring of squares growing to twenty | Computer Science and ICT — LOGO Loops with do.until and do.while |
+| 11313 | pictures/11313.webp | the operating system — in the middle | Computer Science and ICT — System Software and the Operating System |
+| 11314 | pictures/11314.webp | application software — six activities | Computer Science and ICT — Application Software |
+| 11315 | pictures/11315.webp | software inside everyday machines | Computer Science and ICT — Application Software |
+| 11316 | pictures/11316.webp | utility software — the four families | Computer Science and ICT — Utilities and Language Translators |
+| 11317 | pictures/11317.webp | utilities explained — three branches | Computer Science and ICT — Utilities and Language Translators |
+| 11318 | pictures/11318.webp | creating a document | Computer Science and ICT — Opening a Word Processor |
+| 11319 | pictures/11319.webp | saving with Save As — five steps | Computer Science and ICT — Saving a Word Document |
+| 11320 | pictures/11320.gif | the Save As dialogue in the five-step order | Computer Science and ICT — Saving a Word Document |
+| 11321 | pictures/11321.webp | the driver stands in the middle | Computer Science and ICT — Driver Software — Letting Devices Talk |
+| 11322 | pictures/11322.webp | installing anti-virus — four steps | Computer Science and ICT — Installing Utility Software — Anti-Virus |
+| 11323 | pictures/11323.gif | download → double-click → Run install sequence | Computer Science and ICT — Installing Utility Software — Anti-Virus |
+| 11324 | pictures/11324.webp | typing — the insertion point | Computer Science and ICT — Typing Text — the Insertion Point |
+| 11325 | pictures/11325.gif | typing at the insertion point | Computer Science and ICT — Typing Text — the Insertion Point |
+| 11326 | pictures/11326.webp | copy and paste — two ways | Computer Science and ICT — Copy and Paste — Home Tab and Right-Click |
+| 11327 | pictures/11327.gif | select, copy, paste | Computer Science and ICT — Copy and Paste — Home Tab and Right-Click |
+| 11328 | pictures/11328.webp | cut and paste — moving text | Computer Science and ICT — Cut and Paste — Moving Text |
+| 11329 | pictures/11329.gif | cut paragraph vanishing and reappearing | Computer Science and ICT — Cut and Paste — Moving Text |
+| 11330 | pictures/11330.webp | one word — six ways | Computer Science and ICT — Formatting — Bold, Italic, Underline, Font and Colour |
+| 11331 | pictures/11331.gif | a word changing under each format | Computer Science and ICT — Formatting — Bold, Italic, Underline, Font and Colour |
+| 11332 | pictures/11332.webp | Ethiopian Airlines — then and now | Computer Science and ICT — Formatting — Bold, Italic, Underline, Font and Colour |
+| 11333 | pictures/11333.webp | spreadsheets — rows, columns, cells | Computer Science and ICT — Spreadsheets — Rows, Columns and Cells |
+| 11334 | pictures/11334.webp | building a formula — six steps | Computer Science and ICT — Spreadsheet Formulas — Starting with = |
+| 11335 | pictures/11335.gif | a formula typed and its result on Enter | Computer Science and ICT — Spreadsheet Formulas — Starting with = |
+| 11336 | pictures/11336.webp | the parts of a function | Computer Science and ICT — Spreadsheet Functions — SUM, AVERAGE, MAX, MIN |
+| 11337 | pictures/11337.webp | the activity table — and its SUM | Computer Science and ICT — Spreadsheet Functions — SUM, AVERAGE, MAX, MIN |
+| 11338 | pictures/11338.webp | a presentation — slides and layouts | Computer Science and ICT — PowerPoint — Making a Slideshow; Inserting Slides |
+| 11339 | pictures/11339.webp | copy, cut and delete — on slides | Computer Science and ICT — Copying, Cutting and Deleting Slides |
+| 11340 | pictures/11340.gif | a slide duplicated, then one deleted | Computer Science and ICT — Copying, Cutting and Deleting Slides |
+| 11400 | pictures/11400.webp | desert types and rainfall bars | Social Studies — Global Issues — What a Desert Is |
+| 11401 | pictures/11401.webp | desertification panels, land losing its cover | Social Studies — Global Issues — Desertification |
+| 11402 | pictures/11402.gif | GIF: topsoil washing away in the rain | Social Studies — Global Issues — Desertification |
+| 11403 | pictures/11403.webp | air-pollution town, smoke over homes | Social Studies — Global Issues — Air Pollution |
+| 11404 | pictures/11404.webp | a river above and below a polluting town | Social Studies — Global Issues — Water — Pollution and Shrinking Clean Water |
+| 11405 | pictures/11405.webp | three ways out of the water problem | Social Studies — Global Issues — Water — Pollution and Shrinking Clean Water |
+| 11406 | pictures/11406.webp | cause columns of rapid population growth | Social Studies — Global Issues — Rapid Population Growth — Causes |
+| 11407 | pictures/11407.webp | the fourfold cost of growing too fast | Social Studies — Global Issues — Rapid Population Growth — Effects |
+| 11408 | pictures/11408.webp | civil places, what terrorism attacks | Social Studies — Global Issues — Terrorism |
+| 11409 | pictures/11409.webp | the promise against the reality of trafficking | Social Studies — Global Issues — Human Trafficking |
+| 11410 | pictures/11410.webp | HIV signs and prevention | Social Studies — Global Issues — HIV and AIDS |
+| 11411 | pictures/11411.webp | five problem tiles: warming, ozone, waste, biodiversity | Social Studies — Global Issues — Global Warming, Ozone, Waste and Biodiversity |
+| 11412 | pictures/11412.webp | afforestation and reforestation panels | Social Studies — Global Issues — Protecting the Environment Where You Live |
+| 11413 | pictures/11413.webp | climate-change sources | Social Studies — Global Issues — Climate Change — Causes |
+| 11414 | pictures/11414.webp | climate-change effects | Social Studies — Global Issues — Climate Change — Effects and Responses |
+| 11415 | pictures/11415.webp | Ethiopia's green-economy pillars | Social Studies — Global Issues — Ethiopia's Green Economy |
+| 11416 | pictures/11416.webp | deforestation chart, forests shrinking | Social Studies — Global Issues — Forests — Shrinking and Care |
+| 11417 | pictures/11417.gif | GIF: coppice shoots sprouting from a cut stump | Social Studies — Global Issues — Forests — Shrinking and Care |

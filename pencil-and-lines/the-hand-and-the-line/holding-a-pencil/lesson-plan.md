@@ -65,10 +65,8 @@ A pencil and a table. Nothing else.
      each picture with their own hand before moving to the next.
    - ADD GIF at step 2: a picture that moves — two fingers closing
      on a pencil near its tip, the way a bird's beak takes something
-     small, then the pencil settling between the fingers and coming
-     to rest on the middle finger, again and again — the student
-     copies the beak move until it is soft, not a squeeze, and lets
-     the pencil come to rest the same way.
+     small, again and again — the student copies the beak move until
+     it is soft, not a squeeze.
 3. **Say it to your companion** — explain why every language starts
    here and not with A.
    - ADD VIDEO: the five steps filmed with a real hand and a real
