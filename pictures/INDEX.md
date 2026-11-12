@@ -5824,3 +5824,14 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 33112 | GIF: carbon tokens travelling the loop — air, plant, animal, ground | science/our-environment/cycles-the-carbon-cycle |
 | 33113 | GIF: water rising as vapour, clouding, raining and flowing back | science/our-environment/cycles-the-water-cycle |
 | 33114 | GIF: a plane cruising in the lower stratosphere above weather clouds | science/earth-and-space/the-atmosphere-and-its-five-layers |
+| 25829 | pictures/25829.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — words-for-farming |
+| 25830 | pictures/25830.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — crop-production-in-ethiopia |
+| 25831 | pictures/25831.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — sorting-crops |
+| 25832 | pictures/25832.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — cropping-systems |
+| 25833 | pictures/25833.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — indigenous-knowledge-on-the-farm |
+| 25834 | pictures/25834.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — growing-teff |
+| 25835 | pictures/25835.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — growing-sorghum |
+| 25836 | pictures/25836.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — industrial-crops-and-sesame |
+| 25837 | pictures/25837.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — cotton-from-field-to-fabric |
+| 25838 | pictures/25838.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — growing-and-processing-sisal |
+| 25839 | pictures/25839.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — how-farm-animals-digest |

@@ -61,6 +61,7 @@ ethiopia-2026-11-11/build-logs/.
   plants became crops, crop production in Ethiopia), Crops
   (sorting crops, C3 and C4 plants, the cereals and pulses),
   Soil and Land and Livestock openers per the book's first
-  four units. Pictures 25800–25828 range (drawn, looked at).
+  four units. Pictures 25800–25828, GIFs 25829–25839 (drawn, looked at /
+  frame-checked).
   The band created the agriculture/ tree itself; the course
   files were opened by the coordinator with Band B.
