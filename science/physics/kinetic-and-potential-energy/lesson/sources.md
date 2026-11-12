@@ -1,17 +1,20 @@
 # Sources — Kinetic and potential energy
 
-countries: Ethiopia
+countries: Ethiopia, Argentina
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
 **Book 2:** *Physics, Teacher Guide, Grade 11* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-038-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Front matter is roman-numbered I–XIV; body page rule: printed page = PDF page − 21. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-teacher-placements.md.
 
+**Book 3:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Kinetic and potential energy | Grade 11 Student Textbook, printed pp. 136–143 |
 | The teacher's demonstrations — pendulum before a meter stick for KE↔PE; spring-powered toy for stored PE released as KE (teacher guide — evidence) | Ethiopia, *Grade 11 Teacher Guide*, printed p. 55 and unit body |
+| The potential/kinetic interplay and mechanical energy as their sum | Argentina, *La energía: cambios y movimientos*, Ch. 3: Algunas clases de energía, printed p. 29 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Argentina).**
 
 Honesty/evidence note — minimum competency (teacher guide — evidence): the demonstrations section stands on teacher-guide evidence only (Grade 11 Teacher Guide, printed p. 55 and unit body — placement #12); the energy teaching itself is pupil-taught from the student book, so the acceptance count stays at 1 country. The same guide placement's Unit 4 minimum-competency checklist requires pupils, among other things, to restate Newton's second law in terms of momentum, define momentum / centre of mass / elastic and inelastic collision, use free-body diagrams, and derive and apply the work–energy theorem (guide printed p. 55 and unit body; worked answers for the unit run to printed pp. 82–86). That checklist is recorded here as the marking standard for this unit's lessons.
 
