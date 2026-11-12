@@ -6057,3 +6057,40 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 23420 | pictures/23420.gif | the cascade of 1974: pressure, mutiny, strikes, the Derg, September | Social Studies — 1974 — the Ethiopian revolution |
 | 23421 | pictures/23421.gif | the federal map shading region by region under the 1995 constitution | Social Studies — The 1995 Constitution and federal Ethiopia |
 | 23422 | pictures/23422.gif | a tour of lights across the heritage map: Aksum, Lalibela, Gondar, Harar, Tiya, Konso | Social Studies — Ethiopia's UNESCO heritages |
+| 34700 | The two theories of seeing as rival ray diagrams | science/light/light-how-seeing-works |
+| 34701 | Three aligned cards with a straight ray through all three holes | science/light/light-sources-and-the-straight-line-rule |
+| 34702 | One torch at three panels: clear glass passing, frosted scattering, wood stopping | science/light/materials-and-light-transparent-translucent-opaque |
+| 34703 | Plane-mirror ray diagram for a candle tip, virtual image dashed | science/light/reflection-laws-mirror-images-and-the-periscope |
+| 34704 | A ray crossing air into a glass block towards the normal, and out away | science/light/refraction-why-the-spoon-looks-broken |
+| 34705 | A prism fanning white light into the seven colours | science/light/dispersion-splitting-and-remixing-white-light |
+| 34706 | Kirar and begena side by side, fast and slow vibration squiggles | science/sound/sound-vibration-volume-and-pitch |
+| 34707 | Three particle rows — packed, looser, scattered — with a travelling pulse | science/sound/sound-media-and-speed-solid-beats-liquid-beats-gas |
+| 34708 | The ear as a four-station relay with the nerve leaving for the brain | science/sound/hearing-the-path-from-vibration-to-brain |
+| 34709 | A bat in a dark cave, outgoing and returning arcs from moth and wall | science/sound/echoes-at-work-echolocation-and-ultrasound |
+| 34710 | A busy Addis Ababa street — loudspeaker, traffic, construction — with loudness bars | science/sound/noise-pollution-harm-rights-and-compromise |
+| 34711 | Four metal rods on one hot plate, melt fronts at different heights | science/heat/heat-conduction-conductors-and-insulators |
+| 34712 | A beaker over a flame with the sawdust convection loop inside the water | science/heat/heat-convection-currents-in-liquids-and-gases |
+| 34713 | Black-wrapped and white-wrapped bottled thermometers in sun | science/heat/heat-radiation-and-the-black-white-test |
+| 34714 | A house cross-section with the five insulation leak points marked | science/heat/insulation-slowing-heat-down |
+| 34715 | Closed and open circuit diagrams, battery and bulb on the loop | science/electricity-and-magnetism/circuits-source-load-wires-open-and-closed |
+| 34716 | Series single loop vs parallel three branches | science/electricity-and-magnetism/series-and-parallel-circuits-one-path-many-paths |
+| 34717 | The V–I graph, slope read as resistance — Ohm's law | science/electricity-and-magnetism/voltage-resistance-and-ohms-law |
+| 34718 | Two bar magnets in the three pairings, meeting poles correct | science/electricity-and-magnetism/magnets-poles-and-magnetic-materials |
+| 34719 | Iron-filing patterns for three magnet arrangements | science/electricity-and-magnetism/magnetic-fields-earths-field-and-the-compass |
+| 34720 | A coil on an iron nail, battery connected, clips at the tip, switch marked | science/electricity-and-magnetism/electromagnets-a-magnet-you-switch-on |
+| 34721 | Motor and generator as mirror twins with reversed energy arrows | science/electricity-and-magnetism/motors-and-generators-electricity-to-motion-motion-to-electricity |
+| 34730 | GIF: rays scattering off a rough surface, a pulse travelling down one ray and back | science/light/reflection-laws-mirror-images-and-the-periscope |
+| 34731 | GIF: a straw in a glass, the underwater part shifting as the glass fills | science/light/refraction-why-the-spoon-looks-broken |
+| 34732 | GIF: Newton's seven-segment disc spinning until its colours blur to whitish | science/light/dispersion-splitting-and-remixing-white-light |
+| 34733 | GIF: a plucked band's wave widening for loud, then quickening for high pitch | science/sound/sound-vibration-volume-and-pitch |
+| 34734 | GIF: a pulse racing the solid row, strolling the liquid, crawling the gas | science/sound/sound-media-and-speed-solid-beats-liquid-beats-gas |
+| 34735 | GIF: a shout pulse travelling to a cliff and returning, the 0.1 s gap marked | science/sound/echoes-at-work-echolocation-and-ultrasound |
+| 34736 | GIF: heat creeping along a rod, the wax spot slumping as the creep reaches it | science/heat/heat-conduction-conductors-and-insulators |
+| 34737 | GIF: sawdust grains circling the convection loop continuously | science/heat/heat-convection-currents-in-liquids-and-gases |
+| 34738 | GIF: charges flowing round the full loop, halting the instant a break opens | science/electricity-and-magnetism/circuits-source-load-wires-open-and-closed |
+| 34739 | GIF: one series bulb out and the loop dark, against one parallel branch out while the other glows | science/electricity-and-magnetism/series-and-parallel-circuits-one-path-many-paths |
+| 34740 | GIF: two like poles springing apart as they are pushed together | science/electricity-and-magnetism/magnets-poles-and-magnetic-materials |
+| 34741 | GIF: filings snapping into curved lines around a horizontal N–S bar magnet | science/electricity-and-magnetism/magnetic-fields-earths-field-and-the-compass |
+| 34742 | GIF: an electromagnet's switch closing, clips leaping to the nail, then dropping | science/electricity-and-magnetism/electromagnets-a-magnet-you-switch-on |
+| 34743 | GIF: the home-made coil motor starting from a nudge and settling into a spin | science/electricity-and-magnetism/motors-and-generators-electricity-to-motion-motion-to-electricity |
+| 34744 | GIF: a switch closing in a symbol-drawn circuit and the bulb lighting (teacher evidence) | science/electricity-and-magnetism/circuits-source-load-wires-open-and-closed |
