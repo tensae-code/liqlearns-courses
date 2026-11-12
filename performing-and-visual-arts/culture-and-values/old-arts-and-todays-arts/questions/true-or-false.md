@@ -10,3 +10,9 @@ Say if the line is true or false.
 
 **3. (Sub lesson 3)** Today, old arts can be recorded on cassette and CD and pass easily between generations.
 **Answer: True**
+
+**4. (Sub lesson 4)** Chapter 3 of the Grade 1 book is the culture chapter (ባህል).
+**Answer: True**
+
+**5. (Sub lesson 5)** In the Grade 8 framing, traditional music belongs to the whole community, not to one owner.
+**Answer: True**

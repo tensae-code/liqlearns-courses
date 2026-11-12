@@ -21,3 +21,11 @@ a) a photograph  b) theatre  c) drawing
 **5. (Sub lesson 3)** The two photographs in the review are —
 a) a market and a school  b) the Sof Omar cave and the Tis Abay Falls  c) two portraits
 **Answer: b) the Sof Omar cave and the Tis Abay Falls**
+
+**6. (Sub lesson 4)** The Grade 1 summary says the practices were appreciated by —
+a) performing them  b) only reading about them  c) forgetting them
+**Answer: a) performing them** — the summary names doing as the way of appreciating.
+
+**7. (Sub lesson 4)** Which set does the Grade 1 summary name?
+a) dress, dance, eating together, helping each other  b) only examinations  c) only photographs
+**Answer: a) dress, dance, eating together, helping each other** — those are the summary's four practices.

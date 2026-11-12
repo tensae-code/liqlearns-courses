@@ -10,3 +10,6 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 2)** Which four family scenes does the book give to read?
 **Answer:** A mother serving food; parents holding a new baby while siblings look; a family reading together on a sofa; a farmer leading oxen with a donkey carrying a plough.
+
+**4. (Sub lesson 3)** Give the three steps of reading a composition the Grade 8 way.
+**Answer:** Name everything in order; say what the parts do together; write the picture's information in sentences.

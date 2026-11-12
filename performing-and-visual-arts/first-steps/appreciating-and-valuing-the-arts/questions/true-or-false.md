@@ -16,3 +16,6 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 5)** Aesthetic valuing is taught as its own lesson in Grade 10.
 **Answer: True**
+
+**6. (Sub lesson 6)** Knowing the relation between beauty and judgement is one of the Grade 7 chapter aims.
+**Answer: True**

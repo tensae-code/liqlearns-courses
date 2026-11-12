@@ -16,6 +16,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Cultural diversity in folk art (teacher guide — evidence)** — folk arts' meaning and historical development; diversity in folk art's form, function, material and context; expressions of diversity (Grade 9 teacher guide, Lessons 34–37, printed pp. 58–64).
 5. **Aesthetic valuing and African aesthetics (teacher guide — evidence)** — aesthetic valuing; an introduction to African aesthetics — valuing beauty in the African context (Grade 10 teacher guide, Lessons 33–34, printed pp. 57–61).
 
+6. **The Grade 7 chapter aims — value what is around you** — the Grade 7 book's Chapter 4 aims: give value to the aesthetic values around you, appreciate the community's aesthetic values, and know how they relate (Grade 7, printed p. 126).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

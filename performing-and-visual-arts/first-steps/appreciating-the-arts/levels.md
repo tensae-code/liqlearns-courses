@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 3 — Saying which we love — and why
 Sub lesson 3 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words and with their own hands — the photograph review folded in: Sof Omar and the Tis Abay Falls — say which pleased you.
+
+## Sub lesson 4 — The Grade 1 chapter closes — what we appreciated (closing fold)
+Sub lesson 4 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 1 book's Chapter 4 summary: traditional dress, traditional dance, eating together and helping each other were appreciated by performing them (Grade 1, printed p. 66).

@@ -24,6 +24,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Drama into drawing** — An idea presented in drama can be put down in drawing.
 4. **Doing all three** — Song, drama and drawing done together in one classroom activity — with the books' reviews folded in.
 
+5. **One or different? — the Grade 5 chapter opens (opening fold)** — the Grade 5 book's Chapter 4 aims: grasp unity ideas in art, present difference ideas through art, and compare them (Grade 5, printed p. 107).
+
+6. **Music, dance and theatre — same and different (teacher guide — evidence)** — the Grade 5 guide compares the three performing arts: how the idea of music differs from and unites with the ideas of dance and theatre (Grade 5 teacher guide, printed pp. 93–94).
+
+7. **Sport through the arts — the Grade 3 chapter closes (closing fold)** — the Grade 3 book's closing activity: list the benefit of learning PE through the arts, and show a sport you like performed with music — with its football-game drawing (Grade 3, printed p. 83).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -44,6 +50,7 @@ Paper, a pencil, and your voice.
    - ADD IMAGE [Picture 9005]: a picture of a large coin with two faces — a singer on one face, a drawing on the other — the student explains the picture in their own words.
    - ADD GIF [GIF 9014]: three pictures — a singer, an actor, a drawing — sliding together into one circle — the student names each art as it arrives, then says 'together'.
    - ADD AUDIO: a short song played twice — first the voice alone, then with a drum — the student says what the second playing added.
+   - ADD GIF [GIF 14010]: a drawn GIF of three labelled circles — Music, Dance, Theatre — sliding together into one family — the student says what unites them and what differs.
 3. **Say it to your companion** — Explain 'two sides of one coin' to your companion with the music example. (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).

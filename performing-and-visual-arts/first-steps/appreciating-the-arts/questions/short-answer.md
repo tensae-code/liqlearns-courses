@@ -10,3 +10,6 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 3)** What does the book's photograph activity ask you to say?
 **Answer:** Which of the photographs pleased you (Sof Omar or Tis Abay) — and, in this lesson, why.
+
+**4. (Sub lesson 4)** Name one practice from the summary and how you appreciate it.
+**Answer:** Any of: traditional dress (by wearing it well), traditional dance (by dancing it), eating together, helping each other — appreciated by performing it.

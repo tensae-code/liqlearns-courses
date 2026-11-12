@@ -16,3 +16,24 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 5)** Name two of nature's art forms in this part.
 **Answer: Any two of: trees, mountains, rivers, sky.**
+
+**6. (Sub lesson 6)** Name four of the eight plates and their subjects.
+**Answer:** Any four of: helping/discussing/eating together; mill and cotton spinning; religious teaching; Tis Abay; printing money; children expressing feelings; coffee ceremony and games; honouring custom and culture.
+
+**7. (Sub lesson 7)** Set out Activity 3.2 in order.
+**Answer:** Act the family blessing at coffee, meals and discussion; visit local historic places with the teacher; express them in drawing, song/poem, theatre and dance.
+
+**8. (Sub lesson 8)** Why does a community need its arts, in the guide's framing?
+**Answer:** Without its visual and folk/craft arts it loses memory, teaching and pride; and its performing arts carry warnings and lessons lectures cannot.
+
+**9. (Sub lesson 9)** Why do these arts suit social topics, in the book's framing?
+**Answer:** Centred on the human, they put a human face on an issue, so the audience meets it directly.
+
+**10. (Sub lesson 10)** Name the Grade 7 current-issues set.
+**Answer:** The Traffic Light chant (road law), the Plants chant (green plants guarantee life), and Figure 8 picturing climate change's effect.
+
+**11. (Sub lesson 11)** What three things does this part join?
+**Answer:** The benefits opener (p. 105), its three benefits (taught in Performing Arts — Three Benefits), and art for current issues (pp. 134–135).
+
+**12. (Sub lesson 12)** What is a current issue, in the Grade 7 §5.4 list's sense?
+**Answer:** An attention-needing issue occurring in the community, nationally or regionally, that harms daily life — the arts are set to teach it.

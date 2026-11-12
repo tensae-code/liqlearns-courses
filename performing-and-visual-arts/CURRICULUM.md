@@ -109,6 +109,28 @@ lessons are the books'.
   Arts; The Arts Connect to Everything. Culture and Values
   (2): What the Arts Do for Society; Folk Crafts of Ethiopia.
 
-**The whole course stands at 95 lessons, 1,424 questions and
-175 pictures/GIFs.** See ABOUT.md for the full book list and
+- **PVA FIX — audit close-out, Band A (First Steps + Culture
+  and Values) — BUILT 2026-11-12:** the placement-coverage
+  audit's misses in these two titles closed: 57 placements
+  stocked, 21 citations fixed, 16 NEW lessons (First Steps:
+  Art Teaches Every Subject; Why Ethiopian Traditional Music
+  Is Valued; Appreciating Ethiopian Traditional Dance;
+  Appreciating Ethiopian Traditional Theatre; Value of Music
+  Works; Value of Dance Works; Value of Theatre and Film
+  Works; Value of Visual Art Works — the last four are
+  contents-only EVIDENCE-LIMITED lessons from the truncated
+  Grade 8 guide. Culture and Values: Indigenous Knowledge of
+  Ethiopia; Traditional Music and What It Does; Dance in
+  Society; Music in Society; Theatre in Society; Visual Art
+  in Society; Dance, Culture and Society; Performing Art's
+  Three Benefits), 262 questions added, 7 media filed
+  (pictures 14000–14005, GIF 14010, all drawn and
+  frame-checked). In the same pass the coordinator's own fix
+  gave Emblems and Posters That Speak its Grade 6
+  design-professions sub lesson (+3 questions), and ABOUT.md
+  gained the books' shape records, both glossaries and all
+  seven reference lists.
+
+**The whole course stands at 111 lessons, 1,689 questions and
+182 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.

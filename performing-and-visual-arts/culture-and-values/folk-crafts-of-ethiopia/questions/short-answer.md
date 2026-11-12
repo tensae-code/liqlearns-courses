@@ -16,3 +16,12 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 5)** Give the benefit phrase in Amharic.
 **Answer: የህዝብ እጅ ሥራዎች ለህብረተሰቡ ያላቸው ፋይዳ.**
+
+**6. (Sub lesson 6)** State the Grade 8 opener in one line.
+**Answer:** Every nation and people in the country has folk handcraft works, each with its own cultural meaning and benefit.
+
+**7. (Sub lesson 7)** Name four embroidery goods from the Grade 8 list.
+**Answer:** Any four of: mosseb-work (ሞሰበ ወርቅ), qelemshash, mosseb, woskenbiya, quna, wenfit, sefed, agelgil.
+
+**8. (Sub lesson 8)** Why is the heritage artist called a keeper?
+**Answer:** Because their skilled making holds knowledge and heritage the community would lose without them.

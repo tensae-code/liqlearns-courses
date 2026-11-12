@@ -16,3 +16,6 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 5)** With what in hand does the African judge value beauty?
 **Answer: Africa's own materials, functions and meanings — with reasons.**
+
+**6. (Sub lesson 6)** List the three Grade 7 aims.
+**Answer:** Give value to the aesthetic values around you; appreciate the community's aesthetic values; know the relation between them.

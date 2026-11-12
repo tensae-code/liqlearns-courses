@@ -23,6 +23,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Performing arts — the arts we watch being done** — Music, dance, theatre and drama happen in front of us, with voice, body and movement.
 3. **Identifying and expressing the arts** — Tell the two families apart, and begin to express each one yourself.
 
+4. **The two families restated — the Grade 6 opening** — the Grade 6 book opens by restating the two families with their full member lists (Grade 6, printed pp. 1–2).
+
+5. **Comparing the two families — the Grade 8 matching** — the Grade 8 book compares visual and performing art side by side — match each art to how it expresses (Grade 8, printed p. 108).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

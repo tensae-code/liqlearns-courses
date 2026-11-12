@@ -16,3 +16,12 @@ Sub lesson 4 questions from the type files. Pass mark: say both jewellery names 
 
 ## Sub lesson 5 — What the crafts give society
 Sub lesson 5 questions from the type files. Pass mark: state the benefit in the book's own Amharic phrase and give its three benefits.
+
+## Sub lesson 6 — Handcrafts of every nation and people — the Grade 8 opener
+Sub lesson 6 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 8 book opens its handcraft teaching: among all the country's nations and peoples there are folk handcraft works, each with its own cultural meaning and benefit (Grade 8, printed p. 113).
+
+## Sub lesson 7 — Embroidery goods — the Grade 8 list
+Sub lesson 7 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 8 book's named embroidery goods and their inputs — mosseb-work, quna, wenfit and more, made mostly by women (Grade 8, printed p. 114).
+
+## Sub lesson 8 — Traditional clothing and the heritage artist (teacher guide — evidence)
+Sub lesson 8 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 6 guide's connection chapter carries the crafts into dress: traditional clothing as worn heritage, and the heritage artist — the craftsperson whose work keeps a people's heritage alive (Grade 6 teacher guide, Ch. 5, printed pp. 99–119).

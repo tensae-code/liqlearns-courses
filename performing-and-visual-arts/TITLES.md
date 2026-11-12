@@ -19,7 +19,13 @@ The titles, in ladder order:
    every other subject, and learning to appreciate the arts — and,
    higher up the same first steps, appreciating and valuing the arts
    with reasons, and the arts connect to everything: how art is
-   woven through every school subject.
+   woven through every school subject. The audit close-out added:
+   art teaches every subject (the special-needs account included);
+   why Ethiopian traditional music is valued; appreciating
+   Ethiopian traditional dance and theatre (teacher-guide
+   evidence); and the four value-of lessons — music works, dance
+   works, theatre and film works, visual art works — carried as
+   contents-only evidence from the truncated Grade 8 guide.
 2. **Visual Art** — the hand and the eye: first marks and lines,
    shapes and forms, colouring, colours and mixing them, the crafts
    around us (metal, pottery, weaving), making with clay and paper,
@@ -59,4 +65,8 @@ The titles, in ladder order:
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
    Year, Adwa), old arts and today's arts, and the values our
    community holds, carried in art. The upper-grade depth: what
-   the arts do for society, and the folk crafts of Ethiopia.
+   the arts do for society, and the folk crafts of Ethiopia. The
+   audit close-out added: indigenous knowledge of Ethiopia;
+   traditional music and what it does; dance in society; music
+   in society; theatre in society; visual art in society; dance,
+   culture and society; and performing art's three benefits.

@@ -16,6 +16,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Jewellery: ማርዳ and ድሪ** — Ethiopian jewellery traditions, with the named pieces ማርዳ (marda) and ድሪ (diri) kept in their own names (Grade 5, printed p. 98).
 5. **What the crafts give society** — the crafts' benefit to society (የህዝብ እጅ ሥራዎች ለህብረተሰቡ ያላቸው ፋይዳ) — the book's own closing of the craft chapter (Grade 5, printed pp. 112–114).
 
+6. **Handcrafts of every nation and people — the Grade 8 opener** — the Grade 8 book opens its handcraft teaching: among all the country's nations and peoples there are folk handcraft works, each with its own cultural meaning and benefit (Grade 8, printed p. 113).
+
+7. **Embroidery goods — the Grade 8 list** — the Grade 8 book's named embroidery goods and their inputs — mosseb-work, quna, wenfit and more, made mostly by women (Grade 8, printed p. 114).
+
+8. **Traditional clothing and the heritage artist (teacher guide — evidence)** — the Grade 6 guide's connection chapter carries the crafts into dress: traditional clothing as worn heritage, and the heritage artist — the craftsperson whose work keeps a people's heritage alive (Grade 6 teacher guide, Ch. 5, printed pp. 99–119).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -36,6 +42,7 @@ If possible, real examples to look at: an embroidered cloth, woven grass work, a
 2. **The explanation** — the lesson's parts in order (lesson/lesson.md), with these add-on slots at their exact places:
    - ADD IMAGE [Picture 10027]: a picture of an embroidered cloth edge, a woven grass basket, a leather bag and named jewellery pieces arranged on a market cloth — the student names each craft and one piece it makes.
    - ADD AUDIO: a listening walk through a market: the student hears a seller name each craft — embroidery, woven grass, leather, jewellery — and repeats each name with its material.
+   - ADD IMAGE [Picture 14003]: a picture board of the Grade 8 embroidery goods by name — the student reads the names and names the thread inputs.
 3. **Say it to your companion** — as in lesson/lesson.md.
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.

@@ -13,3 +13,12 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** These Unit 5 topics are placed from contents pages only, because the guides are truncated.
 **Answer: True**
+
+**5. (Sub lesson 5)** For teachers, visual art enables activity-based, participatory, concrete teaching.
+**Answer: True**
+
+**6. (Sub lesson 6)** The contents lines themselves are what this part teaches — not an invented body text.
+**Answer: True**
+
+**7. (Sub lesson 7)** A prism spreads white light into the spectrum's ordered colours.
+**Answer: True**

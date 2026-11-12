@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 2 — What a picture tells us
 Sub lesson 2 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words and with their own hands — the picture's message: the family scenes, and what we understood from them.
+
+## Sub lesson 3 — Reading a pictorial composition — the Grade 8 work
+Sub lesson 3 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — visual art and language: printed pictorial compositions, read closely, and their information written out (Grade 8, printed pp. 131–132).

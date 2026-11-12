@@ -10,3 +10,6 @@ Say if the line is true or false.
 
 **3. (Sub lesson 2)** Reading a picture stops at naming its things.
 **Answer: False** — it goes on to the picture's message, and to your own life.
+
+**4. (Sub lesson 3)** The Grade 8 book treats picture-reading as part of language learning.
+**Answer: True**

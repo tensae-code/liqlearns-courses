@@ -16,3 +16,12 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 5)** Naming the crafts helps a society keep them.
 **Answer: True**
+
+**6. (Sub lesson 6)** The Grade 8 book asks both what a craft is for and what it means to its people.
+**Answer: True**
+
+**7. (Sub lesson 7)** The Grade 8 book records that the embroidery goods are made mostly by women.
+**Answer: True**
+
+**8. (Sub lesson 8)** This part stands on teacher-guide evidence, not on a pupil textbook.
+**Answer: True**

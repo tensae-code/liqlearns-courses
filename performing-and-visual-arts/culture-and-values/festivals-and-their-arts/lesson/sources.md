@@ -14,7 +14,10 @@ countries: Ethiopia
 | New Year — girls singing Abebayesh (Sub lesson 4) | Grade 3 Student Textbook, the New Year festival + Activity 4, printed p. 54 |
 | Adwa Victory Day and its praise songs (Sub lesson 5) | Grade 3 Student Textbook, the Adwa Victory festival, printed p. 57 |
 
+| The Genna game song 'አሲና በል' (Asina Bel) (within Sub lesson 3) | Grade 3 Student Textbook, the Genna game song — a call-and-response game song played at the festival, printed p. 54 |
 **Acceptance count: taught in 1 country (Ethiopia).**
+
+Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 
 Songs are placed by name and purpose only, per the standing rule: the Abebayesh song, the Genna game song 'አሲና በል' and the Adwa hero song ጀግና are named, never transcribed. Mawlid and Fasika are named in the book's festival set (printed p. 51) with no separate section in the placements; the lesson names them in the set and claims nothing further about them. Eid al-Fitr appears in the New Year activity's collecting list (printed p. 54) and is used only there.
 

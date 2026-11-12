@@ -10,3 +10,6 @@ Say if the line is true or false.
 
 **3. (Sub lesson 3)** A visit means staying at home and looking at one photograph.
 **Answer: False** — a visit is going around looking — a journey from place to place.
+
+**4. (Sub lesson 4)** The Grade 1 review asks you to name a favourite cultural practice and say why.
+**Answer: True**

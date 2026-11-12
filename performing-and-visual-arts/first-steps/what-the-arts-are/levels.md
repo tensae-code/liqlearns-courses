@@ -10,3 +10,9 @@ Sub lesson 2 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 3 — Identifying and expressing the arts
 Sub lesson 3 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words and with their own hands — tell the two families apart, and begin to express each one yourself.
+
+## Sub lesson 4 — The two families restated — the Grade 6 opening
+Sub lesson 4 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 6 book opens by restating the two families with their full member lists (Grade 6, printed pp. 1–2).
+
+## Sub lesson 5 — Comparing the two families — the Grade 8 matching
+Sub lesson 5 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 8 book compares visual and performing art side by side — match each art to how it expresses (Grade 8, printed p. 108).

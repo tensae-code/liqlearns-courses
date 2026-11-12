@@ -26,6 +26,26 @@ The shining members of the family: **Ethiopia's jewellery traditions** — and t
 
 The chapter closes by turning the crafts outward: **የህዝብ እጅ ሥራዎች ለህብረተሰቡ ያላቸው ፋይዳ — the benefit of the people's hand work to society**. The crafts **earn their makers a living**, **carry a people's identity and memory in usable form**, and **turn local materials into local wealth**. This is why the book teaches children the crafts' names: a society that can name its crafts can keep them, buy them, and hand them on.
 
+## Sub lesson 6 — Handcrafts of every nation and people — the Grade 8 opener
+
+The Grade 8 book opens the handcraft chapter (§4.3.2) wider than any younger book: **in the country, among all its nations and peoples, there are folk handcraft works** — and each people's works carry **their own cultural meaning and their own benefit**.
+
+Hold that opener over everything in this lesson. A craft is never only a useful thing. The same basket, woven by different peoples, says different things — whose hands, whose patterns, whose occasions. When you meet a craft, the Grade 8 book asks two questions, not one: **what is it for?** and **what does it mean to the people who make it?**
+
+## Sub lesson 7 — Embroidery goods — the Grade 8 list
+
+[Picture 14003 — embroidery goods of Ethiopia]
+
+The Grade 8 book names the **embroidery goods** (ስፌት እቃዎች) one by one — learn the names as the book gives them: **mosseb-work (ሞሰበ ወርቅ)**, **qelemshash**, **mosseb**, **woskenbiya**, **quna**, **wenfit** (a sieve), **sefed** and **agelgil**.
+
+It names their inputs too: threads of **gramta**, **qetema** and **kesha**. And it records whose hands do this work: the embroidery goods are made **mostly by women** — a fact the book states plainly, as part of the craft's own record. A list like this is a heritage list: each name is a thing a community knows how to make, and loses if the names are forgotten.
+
+## Sub lesson 8 — Traditional clothing and the heritage artist (teacher guide — evidence)
+
+*This part stands on teacher-guide evidence.* The Grade 6 guide's connection chapter (Chapter 5) carries the folk crafts into the rest of life — and two of its threads belong to this lesson. The first is **traditional clothing**: dress made by the crafts — woven, embroidered, worked by hand — worn as the people's heritage on the body, not stored away from it.
+
+The second thread names the maker. The **heritage artist** is the craftsperson whose skilled work **keeps a people's heritage alive by making it** — the weaver, the embroiderer, the potter whose hands hold knowledge the community would lose without them. The guide's framing is the lesson's: a heritage artist is not only a worker but a **keeper** — honour the craft, and you honour the keeping.
+
 ## Say it to your companion
 
 Sort with your companion: give a material — thread, grass, leather, metal — and they name the craft family and one piece it makes.

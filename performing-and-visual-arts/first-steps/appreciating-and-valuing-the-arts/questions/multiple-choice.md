@@ -21,3 +21,11 @@ Pick the one right answer.
 **5. (Sub lesson 5)** African aesthetics values beauty…
   a) In the African context, in its own terms b) Only by foreign rules c) Not at all — it refuses valuing
 **Answer: a) In the African context, in its own terms** — valuing beauty in the African context — the strand's closing lesson.
+
+**6. (Sub lesson 6)** The Grade 7 chapter aims ask the learner to give value to —
+a) the aesthetic values around them  b) nothing in particular  c) only foreign art
+**Answer: a) the aesthetic values around them** — that is the first stated aim.
+
+**7. (Sub lesson 6)** The aims also ask the learner to appreciate —
+a) the community's aesthetic values  b) only their own work  c) prices of artworks
+**Answer: a) the community's aesthetic values** — the community's kept beauty is the second aim.

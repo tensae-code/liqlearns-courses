@@ -23,6 +23,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Showing what we love** — Grade 2's definition: appreciation is expressing our inner feeling for the arts by doing them.
 3. **Saying which we love — and why** — The photograph review folded in: Sof Omar and the Tis Abay Falls — say which pleased you.
 
+4. **The Grade 1 chapter closes — what we appreciated (closing fold)** — the Grade 1 book's Chapter 4 summary: traditional dress, traditional dance, eating together and helping each other were appreciated by performing them (Grade 1, printed p. 66).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

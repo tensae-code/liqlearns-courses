@@ -20,6 +20,7 @@ countries: Ethiopia
 | Sub lesson 4 — Cultural diversity in folk art (teacher guide — evidence) | Book 4, Lessons 34–37, printed pp. 58–64 |
 | Sub lesson 5 — Aesthetic valuing and African aesthetics (teacher guide — evidence) | Book 5, Lessons 33–34, printed pp. 57–61 |
 
+| Sub lesson 6 — The Grade 7 chapter aims — value what is around you | Grade 7 Student Textbook, Ch. 4 chapter opener and aims, printed p. 126 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 7 and 8 teacher-guide parts are EVIDENCE-LIMITED in the strict sense: those guides' files are truncated, so Units 4–5 are placed from their contents pages and syllabus tables only, and every such part is labelled so in its provenance — no body wording is claimed from pages that were not read. The Grade 9–10 parts stand on teacher-guide evidence (those grades have no student books). The lesson's first part rests on the Grade 7 student book, so the lesson counts as taught in 1 country (Ethiopia); every other part is evidence, labelled part by part.

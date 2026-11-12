@@ -17,3 +17,11 @@ a) its colours only  b) what it tells us — what we understand from it  c) its 
 **4. (Sub lesson 2)** The book's exercise asks you to say what you understood, and —
 a) to copy the picture exactly  b) what things you do in your own surroundings  c) to close the book
 **Answer: b) what things you do in your own surroundings**
+
+**5. (Sub lesson 3)** Activity 5.7 in the Grade 8 book asks you to —
+a) read a pictorial composition and write its information  b) close the book  c) copy the picture exactly
+**Answer: a) read a pictorial composition and write its information** — reading-then-writing is the activity.
+
+**6. (Sub lesson 3)** A pictorial composition is —
+a) a picture built to be read for its information  b) a blank page  c) a song title
+**Answer: a) a picture built to be read for its information** — the Grade 8 examples are printed to be read.

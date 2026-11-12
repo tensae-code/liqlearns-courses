@@ -22,6 +22,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What a picture shows** — Naming and recognising everything in the picture — the visual-perception skill.
 2. **What a picture tells us** — The picture's message: the family scenes, and what we understood from them.
 
+3. **Reading a pictorial composition — the Grade 8 work** — visual art and language: printed pictorial compositions, read closely, and their information written out (Grade 8, printed pp. 131–132).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

@@ -30,6 +30,12 @@ Grade 3's chapter summary, folded in with it, says what all this serving is for:
 
 Its closing check: **a visit means going around looking at historic places** — true; **photography's benefit to society is great** — true. Appreciation, done well, is how a people's arts survive into the next generation's hands.
 
+## Sub lesson 4 — The Grade 1 chapter closes — what we appreciated (closing fold)
+
+The Grade 1 book closes its chapter on appreciating cultural practices with its own summary — and the summary is a doing list. **Traditional dress, traditional dance, eating together and helping each other** were appreciated **by performing them**: we wore the dress, we danced the dance, we ate together, we helped.
+
+That is the book's whole teaching about appreciation in one line: you do not appreciate a practice only by looking at it — you appreciate it by **taking part in it, well**. The chapter's review asks the same of you: name a cultural practice you appreciate, and say **why** — the reason is part of the appreciation.
+
 ## Say it to your companion
 
 Tell your companion which art you love most, and show it — sing it, step it, draw it — do not only say it. Then each of you names one photograph or place you would visit, and why.

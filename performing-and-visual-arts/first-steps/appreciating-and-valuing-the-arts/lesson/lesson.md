@@ -26,6 +26,12 @@ Beside appreciation stands its widest lesson: **cultural diversity in the arts**
 
 The senior strand closes at home: **aesthetic valuing** as its own lesson, and **an introduction to African aesthetics — valuing beauty in the African context**. After the philosophers of other continents (Grade 8's syllabus), the final word is Africa's own: beauty judged with Africa's materials, functions and meanings in the judge's hand. The course's first steps end where they should — the learner able to value the art of their own continent in its own terms, with reasons.
 
+## Sub lesson 6 — The Grade 7 chapter aims — value what is around you
+
+Before its teaching begins, the Grade 7 book states the chapter's **aims** — and the aims are the lesson in short. By the chapter's end the learner will: **give value to the aesthetic values around them**; **appreciate the community's aesthetic values**; and **know the relation** between the beauty they meet and the judgements they make about it.
+
+Hold the three aims as a checklist for everything in this lesson. When you judge a work's beauty, you are doing the first. When you honour the beauty your community already keeps — its dress, its buildings, its songs — you are doing the second. When you can say *how* the two join, you are doing the third.
+
 ## Say it to your companion
 
 Judge one artwork each, with reasons. Your companion must answer your reason — agree and add, or disagree and counter — before the next work may be judged.

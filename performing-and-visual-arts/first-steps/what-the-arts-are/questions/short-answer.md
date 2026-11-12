@@ -10,3 +10,9 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 3)** What is the mark of a performing art — how do you know one?
 **Answer:** It happens in front of us and lives while it is being done; when it ends, it is gone until someone performs it again.
+
+**4. (Sub lesson 4)** Name the Grade 6 visual-arts list.
+**Answer:** Painting, sculpture, drawing, design and photography (with the screen arts the book adds).
+
+**5. (Sub lesson 5)** State the Grade 8 comparison in one line.
+**Answer:** Visual arts express idea, feeling and message in works that stay and are seen; performing arts express them live, before an audience.

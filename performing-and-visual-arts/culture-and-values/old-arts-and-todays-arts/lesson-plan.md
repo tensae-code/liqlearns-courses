@@ -23,6 +23,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Old arts** — Ancient arts defined: unspoiled, unrevised, expressing feeling at joy, grief, work and daily life.
 3. **Today's arts — and protecting culture** — The review fold: from mouth-to-mouth to cassette and CD — and culture cared for, generation to generation.
 
+4. **The culture chapter opens — the Grade 1 aims (opening fold)** — the Grade 1 book's Chapter 3 aims: list the kinds of culture in the area, perform its dances and songs, and list its traditional artworks (Grade 1, printed p. 36).
+
+5. **Music as culture — folklore** — the Grade 8 book: music is a main part of the social functions that make a community stand as a community — music as folklore (Grade 8, printed pp. 80–81).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

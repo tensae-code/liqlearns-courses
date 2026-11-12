@@ -34,6 +34,18 @@ And then the great change, in the book's own contrast: **old arts were passed or
 
 The ruling that closes the chapter closes this lesson: **culture must be cared for and protected, to pass generation to generation.** Recording helps. Caring people help more. Its closing check carries one warning worth keeping: wedding poems and melodies are **not** the same in all areas — each place's arts are its own.
 
+## Sub lesson 4 — The culture chapter opens — the Grade 1 aims (opening fold)
+
+The Grade 1 book opens its culture chapter (Chapter 3 — ባህል, Culture) by telling the learner exactly where the chapter goes. Its aims: **list the kinds of culture in the area**; **identify and perform the local traditional dances and songs**; **list the local traditional artworks**; and **tell the colours apart** in the things around them.
+
+Read the aims as a promise the rest of this lesson keeps. Old arts and today's arts are both "the kinds of culture in the area" — and the youngest book in the course already asks its learners to meet culture by **listing it, performing it and naming its works**, not only by hearing about it.
+
+## Sub lesson 5 — Music as culture — folklore
+
+The Grade 8 book gives this lesson its oldest framing: **music as culture**. A community's **culture**, the book says, is what the community holds and hands on — and **music is a main part of the social functions that make a community stand as a community**: its gatherings, its ceremonies, its work and its mourning all carry music inside them.
+
+The book names this study **folklore** — *folk*, the people, and *lore*, what the people know and hand down. Traditional music is folklore in sound: nobody owns it alone, everybody in the community keeps it, and it passes from the old to the young at every occasion where the community stands together. That is why the old arts in this lesson are not museum pieces — they are the community still standing, singing.
+
 ## Say it to your companion
 
 Tell your companion one old art of your area — a song, a craft, a dance — and how it reached you: by mouth, or by recording? Then say the book's ruling about culture together.

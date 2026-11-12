@@ -10,3 +10,9 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 3)** Name two occasions where ancient music and artworks were used.
 **Answer:** Any two of: festivals, weddings, war journeys, expressing grief and joy.
+
+**4. (Sub lesson 4)** Name the Grade 1 culture chapter's aims.
+**Answer:** List the kinds of culture in the area; identify and perform local traditional dances and songs; list local traditional artworks; tell colours apart.
+
+**5. (Sub lesson 5)** Why is traditional music called folklore in sound?
+**Answer:** Because it is the people's own knowledge, kept by everyone and handed down the generations at the community's occasions.

@@ -2230,3 +2230,10 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 13468 | pictures/13468.webp | two generations handing one green valley on intact | Science — Caring so they last: looking after natural resources |
 | 13469 | pictures/13469.webp | Table 6.2 redrawn as a two-column sort with the book's eleven items | Science — HIV and AIDS: how it spreads and how it does not |
 | 13470 | pictures/13470.webp | a balance scale | Science — Chat, tobacco and alcohol: stimulants and their harm |
+| 14000 | pictures/14000.webp | culture's marks board — language, religion, art, dress, food, history, ceremonies | Performing and Visual Arts — Traditional Music and What It Does |
+| 14001 | pictures/14001.webp | the eight "arts at work" plates board (Figs. 3.16–3.23 described) | Performing and Visual Arts — What the Arts Do for Society |
+| 14002 | pictures/14002.webp | the Yekatit 12 memorial — a drawn monument | Performing and Visual Arts — How the Arts Help Us Learn |
+| 14003 | pictures/14003.webp | embroidery goods board — named goods with gramta, qetema and kesha threads | Performing and Visual Arts — Folk Crafts of Ethiopia |
+| 14004 | pictures/14004.webp | a traffic light — red, amber, green, with the law | Performing and Visual Arts — What the Arts Do for Society |
+| 14005 | pictures/14005.webp | indigenous knowledge — the named store board | Performing and Visual Arts — Indigenous Knowledge of Ethiopia |
+| 14010 | pictures/14010.gif | GIF — three labelled circles, Music, Dance and Theatre, sliding together into one family | Performing and Visual Arts — How the Arts Belong Together |

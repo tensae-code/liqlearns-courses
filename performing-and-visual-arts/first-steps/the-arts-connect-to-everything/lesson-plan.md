@@ -15,6 +15,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **The arts in society and in education (teacher guide — evidence)** — performing and visual arts in society — concepts and theories of their role — and in education (Grade 10 teacher guide, Lessons 35–42, printed pp. 61–78).
 4. **Connections in Grades 7–8 (EVIDENCE-LIMITED, teacher guide — evidence)** — Grade 7 Unit 5 — performing and visual arts' relation with other subjects, and good aesthetic education; Grade 8 Unit 5 — values education through the arts (Grade 7 teacher guide contents, printed pp. 110–149; Grade 8 teacher guide contents, printed pp. 57–102).
 
+5. **Visual art's links — the map, the scale law, technology, and teaching's institutions** — the Grade 7 book's §5.2 set: the link map (p. 152 in the book's own pagination; the audit brief lists p. 148 — see sources), enlarging and reducing by the law of scale, social science and technology, and visual art in the teaching process (printed pp. 152–156).
+
+6. **Grade 8 Unit 5 — the arts in other subjects (EVIDENCE-LIMITED, teacher guide — evidence)** — the Grade 8 guide's Unit 5, placed from its contents only (the guide's body ends at p. 56): music with other subjects (pp. 82–87), dance in other subjects (pp. 88–93), music connected to learning (pp. 89–90), theatre and film in other subjects (pp. 94–95), visual arts in other subjects (pp. 96–102) (Grade 8 teacher guide, contents, printed pp. 82–102).
+
+7. **Visual art and natural science — the spectrum** — the Grade 8 book: visual art's clear relation with natural-science education — spectrum-colour creation, things' natural forms, and colour-combination reactions (Grade 8, printed p. 128).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

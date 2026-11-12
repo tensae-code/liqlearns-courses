@@ -16,3 +16,6 @@ Sub lesson 4 questions from the type files. Pass mark: apply the four diversitie
 
 ## Sub lesson 5 — Aesthetic valuing and African aesthetics (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: state what African aesthetics adds after the Grade 8 philosophers.
+
+## Sub lesson 6 — The Grade 7 chapter aims — value what is around you
+Sub lesson 6 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 7 book's Chapter 4 aims: give value to the aesthetic values around you, appreciate the community's aesthetic values, and know how they relate (Grade 7, printed p. 126).

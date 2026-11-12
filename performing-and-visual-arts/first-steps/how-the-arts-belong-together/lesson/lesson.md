@@ -36,6 +36,26 @@ The reviews fold in here, as the books wrote them. Grade 1's summary: drawing an
 
 [GIF 9014 — three pictures]
 
+## Sub lesson 5 — One or different? — the Grade 5 chapter opens (opening fold)
+
+The Grade 5 book opens its fourth chapter with a pair of words: **unity** and **difference**. Its aims say the chapter will teach you to **grasp unity ideas in art** — how the arts hold together as one — to **present difference ideas through art** — how each art still speaks in its own way — and to **compare them**, and to show nations' cultural differences through the arts.
+
+Keep the pair in your hands through this whole lesson. Every part that follows is one side or the other: where music, dance, theatre and drawing are **one**, and where each remains **itself**.
+
+## Sub lesson 6 — Music, dance and theatre — same and different (teacher guide — evidence)
+
+[GIF 14010 — three arts — one family]
+
+*This part stands on teacher-guide evidence — it is how the teacher's book frames the comparison.* The Grade 5 guide (§4.1) sets the three performing arts side by side and discusses **how the idea of music differs from, and unites with, the ideas of dance and theatre** — and then dance's idea against music and theatre in turn (§§4.1–4.1.2).
+
+The comparison the guide leads is this. All three **happen before others, in time, and end** — that is their unity. They differ in their first material: music works first in **sound**, dance first in the **moving body**, theatre first in **acted story and speech**. And each keeps borrowing the others: a dance leans on music's beat; a play wears music and movement inside itself. Same house, three first tools.
+
+## Sub lesson 7 — Sport through the arts — the Grade 3 chapter closes (closing fold)
+
+The Grade 3 book closes its chapter on the arts' relationships with a **physical-education** activity (Activity 6) and a drawing. The activity asks two things: **list the benefit of learning PE through the arts**, and **identify a sport type you like and show it performed with music** — the sport done to music, the arts carrying the movement. The page's drawing (Figure 17) is a **football game** — the sport drawn as a picture, the other direction of the same joining.
+
+Do the closing work now. Name one benefit — for example, that rhythm and song help the body keep time and the learner remember the movement. Then choose your sport and show thirty seconds of it moving with music. The chapter's summary makes the same point in words: the arts and the subjects — PE among them — are not strangers; each lends the other its strength.
+
 ## Say it to your companion
 
 Explain 'two sides of one coin' to your companion with the music example. Then act a tiny scene together, and both draw it — compare: did the message survive into both drawings?

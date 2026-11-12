@@ -17,3 +17,27 @@ Pick the one right answer.
 **4. (Sub lesson 4)** Grade 8's Unit 5 (contents) turns to…
   a) Values education through the arts b) Only examination technique c) Only sports
 **Answer: a) Values education through the arts** — values education through the arts — from the contents page.
+
+**5. (Sub lesson 5)** The link map says visual art expresses —
+a) thought, feeling, desire, view, knowledge and identity  b) only prices  c) nothing
+**Answer: a) thought, feeling, desire, view, knowledge and identity** — those six are the map's named expressions.
+
+**6. (Sub lesson 5)** By the law of scale we —
+a) enlarge and reduce pictures exactly  b) guess sizes  c) forbid copying
+**Answer: a) enlarge and reduce pictures exactly** — scale is the mathematics road on the map.
+
+**7. (Sub lesson 6)** This part is EVIDENCE-LIMITED because —
+a) the guide's body ends at p. 56; Unit 5 stands on contents and syllabus only  b) the contents are secret  c) the unit does not exist
+**Answer: a) the guide's body ends at p. 56; Unit 5 stands on contents and syllabus only** — the truncation is stated in the guide's own record.
+
+**8. (Sub lesson 6)** The dance contents (pp. 88–93) include —
+a) popular styles, cultural dance characteristics and the elements of dance  b) only costume prices  c) nothing about dance
+**Answer: a) popular styles, cultural dance characteristics and the elements of dance** — those are the contents lines' own topics.
+
+**9. (Sub lesson 7)** Visual art relates to natural science in —
+a) spectrum-colour creation, natural forms and colour-combination reactions  b) nothing shared  c) map reading only
+**Answer: a) spectrum-colour creation, natural forms and colour-combination reactions** — those are §5.1.2's named meeting points.
+
+**10. (Sub lesson 7)** The spectrum's colour order begins —
+a) red, orange, yellow, green…  b) green, red, black…  c) in no order
+**Answer: a) red, orange, yellow, green…** — the prism spreads the colours in that order.
