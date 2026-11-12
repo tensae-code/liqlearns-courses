@@ -9,6 +9,8 @@ The transistor enlarges a signal (the common-emitter amplifier inverts the phase
 
 [Picture 22141 — tiny wavy input becoming a big]
 
+[GIF 29652 — the output wave growing from the input]
+
 ## Sub lesson 2 — The transistor as switch
 
 As switch, it turns devices fully on or off — the two jobs behind its use in computers, satellites, phones and control systems.

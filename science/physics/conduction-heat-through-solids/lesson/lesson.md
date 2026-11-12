@@ -9,6 +9,8 @@ Heat travels through a solid by particle vibration passing energy along; the rat
 
 [Picture 22044 — metal rod over a flame with]
 
+[GIF 29625 — the melt front creeping along the rod]
+
 ## Say it to your companion
 Tell your companion, in your own words: Heat travels through a solid by particle vibration passing energy along; the rate depends on area, thickness, temperature difference and the material… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

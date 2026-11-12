@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — the two Kekulé forms w
 
 [Picture 21549 — benzene kekul s ring and the hybrid]
 
+[GIF 29606 — the double bonds alternating between the two Kekulé positions]
+
 ## Benzene
 
 Benzene opens the aromatics: Kekulé (1872) proposed a six-carbon ring with alternating double and single bonds; the structure is now represented as a resonance hybrid of two equivalent Kekulé forms (circle-in-ring notation), which explains why benzene does not behave like a simple tri-alkene — it does not decolourise bromine water or permanganate (the review's identification test for a C₇H₈ aromatic).

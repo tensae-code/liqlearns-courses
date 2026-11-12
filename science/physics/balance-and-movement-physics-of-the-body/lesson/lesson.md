@@ -9,6 +9,8 @@ Newtonian mechanics explains animal and human movement: stability is centre of m
 
 [Picture 22082 — book's two figures]
 
+[GIF 29632 — a figure tipping as its centre of mass leaves its base]
+
 ## Say it to your companion
 Tell your companion, in your own words: Newtonian mechanics explains animal and human movement: stability is centre of mass over the base of support (a load-carrier bends to keep it there;… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

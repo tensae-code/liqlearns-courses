@@ -9,6 +9,8 @@ Pupils build the model electromagnet (coil on an iron core, battery), following 
 
 [Picture 22125 — coil-wrapped nail lifting paper clips]
 
+[GIF 29646 — clips jumping to the nail when the circuit closes and dropping when it opens]
+
 ## Say it to your companion
 Tell your companion, in your own words: Pupils build the model electromagnet (coil on an iron core, battery), following the printed materials list and procedure — magnetism you can switch. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

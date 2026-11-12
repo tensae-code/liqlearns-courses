@@ -23,7 +23,7 @@ Paper and a pencil; a spring balance, string and masses if the class has them.
 1. **Do it first** — the learner names one place in their own day where this lesson's idea shows itself, before any explanation (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 22028]: a picture of the same push applied to a light and a heavy cart, accelerations compared — the student studies the picture and names what each part shows.
-   - ADD GIF (described slot): a GIF of two carts accelerating away at different rates under equal pushes — yes — the student watches the motion and says what changes and what stays the same.
+   - ADD GIF [GIF 29617]: a GIF of two carts accelerating away at different rates under equal pushes — yes — the student watches the motion and says what changes and what stays the same.
    - ADD AUDIO (described slot): a voice reading this lesson's key facts aloud, slowly — the student listens and repeats each fact after the voice.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
@@ -33,7 +33,7 @@ Paper and a pencil; a spring balance, string and masses if the class has them.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 22028] — a picture of the same push applied to a light and a heavy cart, accelerations compared → the student names what each part shows.
-- GIF (described slot, no number assigned) — a GIF of two carts accelerating away at different rates under equal pushes — yes → the student says what changes and what stays the same.
+- GIF [GIF 29617] — a GIF of two carts accelerating away at different rates under equal pushes — yes → the student says what changes and what stays the same.
 - AUDIO (described slot) — the key facts read aloud → the student listens and repeats.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 

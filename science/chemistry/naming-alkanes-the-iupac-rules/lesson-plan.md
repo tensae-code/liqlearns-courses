@@ -25,7 +25,7 @@ Paper and a pencil. Nothing else.
 1. **Do it first** — the learner studies the lesson picture and says what it shows before any explanation (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 21541]: a picture of one branched structure with its parent chain highlighted and numbered — the student studies it and names its parts.
-   - ADD GIF (described slot only — see build log): the longest chain lighting up through a branched structure — yes — the student imagines the motion and describes it in words.
+   - ADD GIF [GIF 29601]: the longest chain lighting up through a branched structure — yes — the student imagines the motion and describes it in words.
    - ADD AUDIO: a voice reading the lesson's key terms aloud — the student repeats each term and says what it means.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
@@ -35,6 +35,7 @@ Paper and a pencil. Nothing else.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 21541] — a picture of one branched structure with its parent chain highlighted and numbered → the student studies it and names its parts.
+- GIF [GIF 29601] — the longest chain lighting up through a branched structure — yes → the student watches the motion and describes it in words.
 - AUDIO (described slot only) — key terms read aloud → the student repeats and defines each term.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 

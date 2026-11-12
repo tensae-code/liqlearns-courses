@@ -9,6 +9,8 @@ Correct operation: base–emitter junction forward biased, base–collector reve
 
 [Picture 22139 — small tap (base) controlling a big]
 
+[GIF 29651 — the tap turning slightly and the main flow surging]
+
 ## Say it to your companion
 Tell your companion, in your own words: Correct operation: base–emitter junction forward biased, base–collector reverse biased; the currents obey I_E = I_B + I_C, with the small base… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

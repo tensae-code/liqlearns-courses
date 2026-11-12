@@ -9,6 +9,8 @@ Analog signals vary continuously; digital signals live at two levels — high/lo
 
 [Picture 22143 — smooth wave beside a square wave]
 
+[GIF 29653 — the square wave switching cleanly between levels]
+
 ## Say it to your companion
 Tell your companion, in your own words: Analog signals vary continuously; digital signals live at two levels — high/low, 1/0 — with positive and negative logic assigning the 1 differently,… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

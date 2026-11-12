@@ -9,6 +9,8 @@ Collisions are sorted by whether kinetic energy survives: elastic collisions con
 
 [Picture 22040 — carts bouncing apart beside two carts]
 
+[GIF 29623 — both collision types side by side]
+
 ## Say it to your companion
 Tell your companion, in your own words: Collisions are sorted by whether kinetic energy survives: elastic collisions conserve both momentum and KE, perfectly inelastic ones stick together… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

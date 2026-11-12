@@ -4343,3 +4343,57 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 29047 | pictures/29047.gif | the bull-jump — the leap over the line of bulls | Civics and Citizenship — Ethiopia — Negating diversity — India's lesson and the Hamer | — frame check: PASS — figure runs in, arcs over the bull line at mid-frames, lands beyond it; the leap reads true
 | 29048 | pictures/29048.gif | the equb pot passing around the circle | Civics and Citizenship — Ethiopia — Institutions of saving — equb, Iddir, banks and insurers, from salt bars to policies | — frame check: PASS — the pot moves hand to hand around the members' circle across frames 1/7/13/20
 | 29049 | pictures/29049.gif | the moon covering the sun until only the corona ring shows | Civics and Citizenship — Ethiopia — Knowledge — why it rules, and the eclipse that proves it can be tested | — frame check: PASS — moon slides across the sun, totality frame shows the thin corona ring, then uncovers
+| 29603 | pictures/29603.gif | the substitution swap happening hydrogen by hydrogen | Chemistry — Alkane reactions — burning and substitution |
+| 29604 | pictures/29604.gif | the double bond opening and two new atoms attaching | Chemistry — Alkenes — addition across the double bond |
+| 29605 | pictures/29605.gif | bubbles streaming off the carbide | Chemistry — Alkynes — ethyne from carbide |
+| 29606 | pictures/29606.gif | the double bonds alternating between the two Kekulé positions | Chemistry — Benzene — Kekulé's ring and the hybrid |
+| 29608 | pictures/29608.gif | the long chain breaking apart | Chemistry — Cracking — and what octane number means |
+| 29607 | pictures/29607.gif | vapour rising and condensing level by level | Chemistry — Fractional distillation of crude oil |
+| 29602 | pictures/29602.gif | a straight chain folding into branched shapes | Chemistry — Isomers — same formula, different structure |
+| 29601 | pictures/29601.gif | the longest chain lighting up through a branched structure | Chemistry — Naming alkanes — the IUPAC rules |
+| 29600 | pictures/29600.gif | molten sulphur being pushed up the pipe | Chemistry — Sulphur — mined with hot water; the Contact Process |
+| 29611 | pictures/29611.gif | a car's arrows flipping as it brakes | Physics — Acceleration — speeding up and slowing down |
+| 29618 | pictures/29618.gif | an octopus pulsing forward as it jets water backward | Physics — Action and reaction — Newton's third law; weight |
+| 29609 | pictures/29609.gif | the second arrow sliding to the head of the first and the resultant appearing | Physics — Adding vectors with drawings |
+| 29640 | pictures/29640.gif | the bottle crumpling as it cools | Physics — Air pressure around us |
+| 29652 | pictures/29652.gif | the output wave growing from the input | Physics — Amplifiers and switches |
+| 29653 | pictures/29653.gif | the square wave switching cleanly between levels | Physics — Analog vs digital |
+| 29641 | pictures/29641.gif | a spring balance's reading dropping as the block dips into water | Physics — Archimedes' principle — the upthrust |
+| 29642 | pictures/29642.gif | salt stirring in and the egg rising | Physics — Archimedes' principle — the upthrust |
+| 29632 | pictures/29632.gif | a figure tipping as its centre of mass leaves its base | Physics — Balance and movement — physics of the body |
+| 29631 | pictures/29631.gif | nucleons fusing and a flash of energy leaving | Physics — Binding energy and mass defect |
+| 29626 | pictures/29626.gif | a thermometer holding steady while ice melts in the pan | Physics — Changes of state |
+| 29623 | pictures/29623.gif | both collision types side by side | Physics — Collisions — bouncing and sticking |
+| 29625 | pictures/29625.gif | the melt front creeping along the rod | Physics — Conduction — heat through solids |
+| 29622 | pictures/29622.gif | the energy bars trading PE for KE as a block slides | Physics — Conservation of energy — height becomes speed |
+| 29644 | pictures/29644.gif | fluid speeding up through the narrow part | Physics — Continuity — narrow means fast |
+| 29629 | pictures/29629.gif | the slab sliding in while the stored charge grows | Physics — Dielectrics — the slab that boosts a capacitor |
+| 29649 | pictures/29649.gif | a hole drifting as electrons hop into it | Physics — Doping — making N-type and P-type |
+| 29647 | pictures/29647.gif | the needle kicking in and out as the magnet moves | Physics — Electromagnetic induction — making current with a magnet |
+| 29612 | pictures/29612.gif | the ball accelerating down the ramp, spacing between snapshots widening | Physics — Experiment: acceleration down a slope |
+| 29614 | pictures/29614.gif | repeated drops from increasing heights | Physics — Experiment: measure the acceleration of gravity |
+| 29613 | pictures/29613.gif | a thrown ball slowing, pausing at the top, and accelerating back down | Physics — Falling and thrown objects |
+| 29648 | pictures/29648.gif | the coil's pole flipping to oppose, approach and retreat | Physics — Faraday's law; Lenz's law |
+| 29643 | pictures/29643.gif | streamlines staying smooth then breaking into turbulence | Physics — Flow rate and kinds of flow |
+| 29637 | pictures/29637.gif | gas particles spreading to fill a bigger box | Physics — Fluids — what flows and why |
+| 29615 | pictures/29615.gif | the braking-car lurch and the belt catching | Physics — Force and inertia — Newton's first law |
+| 29616 | pictures/29616.gif | a hand pushing each can and being resisted more by the heavy one | Physics — Force and inertia — Newton's first law |
+| 29650 | pictures/29650.gif | the barrier narrowing as forward voltage grows and current starting | Physics — Forward and reverse bias |
+| 29619 | pictures/29619.gif | the push growing until the block suddenly slips | Physics — Friction — static and kinetic |
+| 29620 | pictures/29620.gif | three pucks sliding and stopping at different distances | Physics — Friction — static and kinetic |
+| 29651 | pictures/29651.gif | the tap turning slightly and the main flow surging | Physics — How a transistor controls current |
+| 29636 | pictures/29636.gif | the planet travelling the ellipse, faster near the Sun | Physics — Kepler's first law — elliptical orbits |
+| 29621 | pictures/29621.gif | a roller-coaster car trading height for speed | Physics — Kinetic and potential energy |
+| 29645 | pictures/29645.gif | iron filings snapping into the field pattern around a magnet | Physics — Magnets and the Earth's field |
+| 29646 | pictures/29646.gif | clips jumping to the nail when the circuit closes and dropping when it opens | Physics — Make an electromagnet |
+| 29617 | pictures/29617.gif | two carts accelerating away at different rates under equal pushes | Physics — Newton's second law — F = ma |
+| 29638 | pictures/29638.gif | the small piston travelling far, the car rising a little | Physics — Pascal's principle — the hydraulic press |
+| 29639 | pictures/29639.gif | the descent with the pressure gauge climbing | Physics — Pressure under water — deeper means stronger |
+| 29634 | pictures/29634.gif | the vertical arrow shrinking to nothing at the top while the ball keeps moving forward | Physics — Projectiles launched at an angle |
+| 29627 | pictures/29627.gif | lamps brightening when rewired from series to parallel | Physics — Resistors in series and parallel |
+| 29633 | pictures/29633.gif | CT slices stacking into a 3-D body | Physics — Seeing inside the body — X-ray, CT and MRI |
+| 29610 | pictures/29610.gif | the slanted arrow projecting its shadow onto both axes | Physics — Splitting a vector into components |
+| 29628 | pictures/29628.gif | the contact sliding until the galvanometer needle settles at zero | Physics — The potentiometer — measuring emf fairly |
+| 29630 | pictures/29630.gif | a meson passing back and forth holding the nucleons together | Physics — The strong force — the nucleus's glue |
+| 29635 | pictures/29635.gif | pushing a door at the handle vs near the hinge | Physics — Torque — the twisting effect of a force |
+| 29624 | pictures/29624.gif | the flow arrows fading as temperatures equalise | Physics — What heat is |

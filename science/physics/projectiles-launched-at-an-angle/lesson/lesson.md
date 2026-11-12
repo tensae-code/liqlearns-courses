@@ -9,6 +9,8 @@ Launched at an angle, the velocity splits into components; at the top the vertic
 
 [Picture 22096 — arc with velocity arrows shrinking upward-component]
 
+[GIF 29634 — the vertical arrow shrinking to nothing at the top while the ball keeps moving forward]
+
 ## Say it to your companion
 Tell your companion, in your own words: Launched at an angle, the velocity splits into components; at the top the vertical component is momentarily zero while the horizontal one continues;… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

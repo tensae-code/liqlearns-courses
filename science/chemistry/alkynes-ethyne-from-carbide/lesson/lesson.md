@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — carbide lumps in water 
 
 [Picture 21548 — alkynes ethyne from carbide]
 
+[GIF 29605 — bubbles streaming off the carbide]
+
 ## Alkynes
 
 Alkynes, CₙH₂ₙ₋₂, carry a C≡C triple bond. The laboratory preparation of the first member, ethyne (acetylene), is by reacting calcium carbide with water; further preparation by alkylation of sodium acetylide is given.

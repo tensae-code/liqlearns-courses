@@ -9,6 +9,8 @@ Vectors are added head-to-tail (triangle rule), by the parallelogram rule for tw
 
 [Picture 22008 — arrows joined head-to-tail with the resultant]
 
+[GIF 29609 — the second arrow sliding to the head of the first and the resultant appearing]
+
 ## Say it to your companion
 Tell your companion, in your own words: Vectors are added head-to-tail (triangle rule), by the parallelogram rule for two vectors at a point, and by the polygon method for several; a scale… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

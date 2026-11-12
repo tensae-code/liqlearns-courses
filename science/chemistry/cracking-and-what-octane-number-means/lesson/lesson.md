@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — a long chain snapping i
 
 [Picture 21554 — cracking and what octane number means]
 
+[GIF 29608 — the long chain breaking apart]
+
 ## Cracking
 
 Because straight-run gasoline burns poorly and demand for the petrol fraction outruns its share of crude, heavier fractions are cracked — long chains broken into shorter, petrol-range and alkene molecules (catalytic cracking of the kerosene cut named). Fuel quality is measured by octane number (antiknock rating): 2,2,4-trimethylpentane ("isooctane") = 100, heptane = 0, and an 87-octane petrol knocks like an 87:13 mixture of the two.

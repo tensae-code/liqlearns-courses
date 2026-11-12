@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — the five C₆H₁₄ sk
 
 [Picture 21542 — isomers same formula different structure]
 
+[GIF 29602 — a straight chain folding into branched shapes]
+
 ## Isomers
 
 Isomers share a molecular formula but differ in structure — for alkanes, chain branching: pupils construct and name the five isomers of C₆H₁₄, and isomer counting grows with carbon number; isomers differ in physical properties (branched ones boil lower).

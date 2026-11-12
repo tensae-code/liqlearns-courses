@@ -9,6 +9,8 @@ Pressure applied to an enclosed fluid transmits undiminished: the hydraulic pres
 
 [Picture 22113 — small piston pushed down]
 
+[GIF 29638 — the small piston travelling far, the car rising a little]
+
 ## Say it to your companion
 Tell your companion, in your own words: Pressure applied to an enclosed fluid transmits undiminished: the hydraulic press multiplies force by piston areas (F₂/F₁ = A₂/A₁) while conserving… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

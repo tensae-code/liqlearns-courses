@@ -9,6 +9,8 @@ Moving bodies carry kinetic energy (½mv²); raised bodies carry gravitational p
 
 [Picture 22035 — ball at a hilltop (PE) and]
 
+[GIF 29621 — a roller-coaster car trading height for speed]
+
 ## Say it to your companion
 Tell your companion, in your own words: Moving bodies carry kinetic energy (½mv²); raised bodies carry gravitational potential energy (mgh); a stretched/compressed spring stores elastic… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -11,6 +11,8 @@ Kepler's first law: planets move in ellipses with the Sun at one focus.
 
 [Picture 22104 — ellipse with the Sun at one]
 
+[GIF 29636 — the planet travelling the ellipse, faster near the Sun]
+
 ## Say it to your companion
 Tell your companion, in your own words: The geocentric model gives way under Tycho Brahe's careful observations. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

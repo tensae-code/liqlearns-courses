@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — one branched structure 
 
 [Picture 21541 — naming alkanes the iupac rules]
 
+[GIF 29601 — the longest chain lighting up through a branched structure]
+
 ## Naming alkanes
 
 The naming algorithm is taught as rules: choose the longest continuous carbon chain as parent; name branches as alkyl substituents; number the chain to give substituents the lowest numbers;

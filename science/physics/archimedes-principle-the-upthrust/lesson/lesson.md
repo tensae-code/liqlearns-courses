@@ -13,7 +13,11 @@ The teacher is told to support the class to conduct it properly and prepare the 
 
 [Picture 22117 — submerged block with bigger pressure arrows]
 
+[GIF 29641 — a spring balance's reading dropping as the block dips into water]
+
 Picture in words — guide-added practical: two cups side by side, the egg sunk in one and floating in the salty other. Look at it in your mind and name what each part shows.
+
+[GIF 29642 — salt stirring in and the egg rising]
 
 ## Say it to your companion
 Tell your companion, in your own words: The upthrust equals the weight of fluid displaced (F_B = ρ_fluid g V), derived from the pressure difference between a submerged block's bottom and… Then give one example of your own, from home or the street, and let your companion test it against the lesson.

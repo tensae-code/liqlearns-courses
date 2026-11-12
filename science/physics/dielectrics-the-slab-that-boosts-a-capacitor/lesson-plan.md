@@ -23,7 +23,7 @@ Paper and a pencil; cells, wires, resistors and meters for the bench work where 
 1. **Do it first** — the learner names one place in their own day where this lesson's idea shows itself, before any explanation (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 22067]: a picture of a dielectric slab half-slid into a capacitor — the student studies the picture and names what each part shows.
-   - ADD GIF (described slot): a GIF of the slab sliding in while the stored charge grows — yes — the student watches the motion and says what changes and what stays the same.
+   - ADD GIF [GIF 29629]: a GIF of the slab sliding in while the stored charge grows — yes — the student watches the motion and says what changes and what stays the same.
    - ADD AUDIO (described slot): a voice reading this lesson's key facts aloud, slowly — the student listens and repeats each fact after the voice.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
@@ -33,7 +33,7 @@ Paper and a pencil; cells, wires, resistors and meters for the bench work where 
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 22067] — a picture of a dielectric slab half-slid into a capacitor → the student names what each part shows.
-- GIF (described slot, no number assigned) — a GIF of the slab sliding in while the stored charge grows — yes → the student says what changes and what stays the same.
+- GIF [GIF 29629] — a GIF of the slab sliding in while the stored charge grows — yes → the student says what changes and what stays the same.
 - AUDIO (described slot) — the key facts read aloud → the student listens and repeats.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 

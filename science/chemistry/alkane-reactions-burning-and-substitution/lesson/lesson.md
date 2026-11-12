@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — methane burning, then o
 
 [Picture 21544 — alkane reactions burning and substitution]
 
+[GIF 29603 — the substitution swap happening hydrogen by hydrogen]
+
 ## Alkane reactions
 
 Alkanes are relatively unreactive ("paraffin" behaviour): they burn completely in plentiful oxygen to carbon dioxide and water (the fuel reaction — octane's combustion equation is a set task), and they undergo substitution with halogens under light/heat, one hydrogen at a time replaced.2.6).

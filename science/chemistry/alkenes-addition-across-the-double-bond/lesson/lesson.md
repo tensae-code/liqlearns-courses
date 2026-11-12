@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — bromine water turning c
 
 [Picture 21547 — alkenes addition across the double bond]
 
+[GIF 29604 — the double bond opening and two new atoms attaching]
+
 ## Alkenes
 
 Alkenes (olefins), CₙH₂ₙ, carry one C=C double bond that dominates their chemistry. Preparation: dehydration of alcohols with concentrated sulphuric acid or alumina, dehydrohalogenation of alkyl halides with alcoholic KOH, and cracking of petroleum fractions. Their characteristic reaction is addition across the double bond — hydrogenation (Ni), halogenation (decolourising bromine water: the test for unsaturation), hydrohalogenation and acid-catalysed hydration to alcohols — with the product of unsymmetrical additions predicted by Markovnikov's rule (the H goes to the carbon already richer in H).

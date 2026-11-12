@@ -9,6 +9,8 @@ Melting, freezing, boiling, evaporation and condensation swap heat without chang
 
 [Picture 22050 — heating curve with plateaus at melting]
 
+[GIF 29626 — a thermometer holding steady while ice melts in the pan]
+
 ## Say it to your companion
 Tell your companion, in your own words: Melting, freezing, boiling, evaporation and condensation swap heat without changing temperature while they last; the heating curve's flat stretches… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -11,6 +11,8 @@ Activity 4.2 has pupils produce it with listed materials.
 
 [Picture 22126 — magnet plunging into a coil with]
 
+[GIF 29647 — the needle kicking in and out as the magnet moves]
+
 ## Say it to your companion
 Tell your companion, in your own words: Moving a magnet near a coil (or the coil near the magnet) induces a current — electricity from magnetism, reversing §4.3. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

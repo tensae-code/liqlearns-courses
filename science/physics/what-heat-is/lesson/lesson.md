@@ -9,6 +9,8 @@ Heat is energy in transit between bodies at different temperatures; heating chan
 
 [Picture 22043 — hot and a cold body touching]
 
+[GIF 29624 — the flow arrows fading as temperatures equalise]
+
 ## Say it to your companion
 Tell your companion, in your own words: Heat is energy in transit between bodies at different temperatures; heating changes temperature, size and state — and heat is distinguished from work… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

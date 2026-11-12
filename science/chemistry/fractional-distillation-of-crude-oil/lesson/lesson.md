@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — the fractionating colum
 
 [Picture 21553 — fractional distillation of crude oil]
 
+[GIF 29607 — vapour rising and condensing level by level]
+
 ## Fractional distillation of crude oil
 
 Petroleum refining begins with fractional distillation into three principal cuts and then the full fraction table (typical fractions with carbon ranges, boiling ranges and uses — refinery gas, petrol/gasoline, naphtha, kerosene, diesel/gas oil, lubricating oil, fuel oil, bitumen), separated by boiling point in the fractionating column, hottest at the bottom.5).

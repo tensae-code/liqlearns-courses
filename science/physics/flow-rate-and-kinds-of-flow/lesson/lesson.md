@@ -9,6 +9,8 @@ Flow is steady (laminar) or turbulent; flow rate Q = V/t counts volume per time 
 
 [Picture 22119 — smooth parallel streamlines beside chaotic turbulent]
 
+[GIF 29643 — streamlines staying smooth then breaking into turbulence]
+
 ## Say it to your companion
 Tell your companion, in your own words: Flow is steady (laminar) or turbulent; flow rate Q = V/t counts volume per time through a pipe. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

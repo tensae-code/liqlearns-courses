@@ -9,6 +9,8 @@ A group experiment: roll an object down an incline, record positions and times, 
 
 [Picture 22016 — ramp with a rolling ball and]
 
+[GIF 29612 — the ball accelerating down the ramp, spacing between snapshots widening]
+
 ## Say it to your companion
 Tell your companion, in your own words: A group experiment: roll an object down an incline, record positions and times, plot the data (including in a spreadsheet such as Microsoft Excel),… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -9,6 +9,8 @@ Average and instantaneous acceleration as rate of change of velocity; the sign d
 
 [Picture 22015 — car with velocity and acceleration arrows]
 
+[GIF 29611 — a car's arrows flipping as it brakes]
+
 ## Say it to your companion
 Tell your companion, in your own words: Average and instantaneous acceleration as rate of change of velocity; the sign discussion is explicit: negative acceleration does not always mean… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -9,6 +9,8 @@ Roentgen's first X-ray image of a hand opens the story.
 
 [Picture 22088 — Roentgen's hand X-ray beside a modern]
 
+[GIF 29633 — CT slices stacking into a 3-D body]
+
 ## Sub lesson 2 — CT — slices into a 3-D view
 
 MRI uses magnetism and radio waves.

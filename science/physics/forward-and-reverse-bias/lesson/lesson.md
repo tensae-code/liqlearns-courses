@@ -9,6 +9,8 @@ Forward bias (positive to P) shrinks the barrier and current flows; reverse bias
 
 [Picture 22134 — I–V curve with its flat reverse]
 
+[GIF 29650 — the barrier narrowing as forward voltage grows and current starting]
+
 ## Say it to your companion
 Tell your companion, in your own words: Forward bias (positive to P) shrinks the barrier and current flows; reverse bias widens it and current is blocked (until breakdown); the… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

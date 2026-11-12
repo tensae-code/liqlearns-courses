@@ -9,6 +9,8 @@ Any vector splits into horizontal and vertical components found with sine and co
 
 [Picture 22010 — slanted arrow with its horizontal and]
 
+[GIF 29610 — the slanted arrow projecting its shadow onto both axes]
+
 ## Say it to your companion
 Tell your companion, in your own words: Any vector splits into horizontal and vertical components found with sine and cosine of its angle; a vector is rebuilt from its components by… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

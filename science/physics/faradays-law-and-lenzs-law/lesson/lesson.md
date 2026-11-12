@@ -9,6 +9,8 @@ Induced emf equals the rate of change of flux (with the coil's turns multiplying
 
 [Picture 22128 — magnet approaching a coil whose induced]
 
+[GIF 29648 — the coil's pole flipping to oppose, approach and retreat]
+
 ## Sub lesson 2 — Lenz's law — the direction opposes the change
 
 Lenz's law gives its direction — the induced effect opposes the change causing it, as energy conservation demands.

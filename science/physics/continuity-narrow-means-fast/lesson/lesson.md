@@ -9,6 +9,8 @@ For incompressible flow A₁v₁ = A₂v₂: narrow pipe, faster flow — relate
 
 [Picture 22120 — pipe narrowing with speed arrows lengthening]
 
+[GIF 29644 — fluid speeding up through the narrow part]
+
 ## Say it to your companion
 Tell your companion, in your own words: For incompressible flow A₁v₁ = A₂v₂: narrow pipe, faster flow — related by pupils to rivers and hoses in the section's questions. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

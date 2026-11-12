@@ -9,6 +9,8 @@ The states of matter compared at particle level: gases compress easily, liquids 
 
 [Picture 22108 — particle diagrams of the three states]
 
+[GIF 29637 — gas particles spreading to fill a bigger box]
+
 ## Say it to your companion
 Tell your companion, in your own words: The states of matter compared at particle level: gases compress easily, liquids keep volume but take the container's shape, solids hold both — the… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

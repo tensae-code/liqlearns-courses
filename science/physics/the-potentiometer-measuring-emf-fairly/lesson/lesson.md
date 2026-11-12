@@ -9,6 +9,8 @@ A slide-wire potentiometer compares and measures a cell's emf without drawing cu
 
 [Picture 22062 — long wire]
 
+[GIF 29628 — the contact sliding until the galvanometer needle settles at zero]
+
 ## Say it to your companion
 Tell your companion, in your own words: A slide-wire potentiometer compares and measures a cell's emf without drawing current from it, balancing the unknown emf against a known potential… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -9,6 +9,8 @@ P = P₀ + ρgh derived from a fluid column's weight; worked for a diver at 25 m
 
 [Picture 22114 — diver with pressure arrows growing as]
 
+[GIF 29639 — the descent with the pressure gauge climbing]
+
 ## Say it to your companion
 Tell your companion, in your own words: P = P₀ + ρgh derived from a fluid column's weight; worked for a diver at 25 m (absolute pressure ≈ 354 kPa) and the net force on a surface. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -9,6 +9,8 @@ Adding impurities makes carriers: donor atoms (arsenic among the examples) free 
 
 [Picture 22132 — lattices]
 
+[GIF 29649 — a hole drifting as electrons hop into it]
+
 ## Say it to your companion
 Tell your companion, in your own words: Adding impurities makes carriers: donor atoms (arsenic among the examples) free extra electrons (N-type); acceptor atoms (boron, gallium) leave holes… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

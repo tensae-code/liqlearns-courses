@@ -11,7 +11,11 @@ A pushed puck is compared on a table, on ice, and on an air-hockey table: the op
 
 [Picture 22031 — block being pushed harder and harder]
 
+[GIF 29619 — the push growing until the block suddenly slips]
+
 Picture in words — guide-added content: the book's three-panel puck picture with stopping distances S₁, S₂, S₃ marked. Look at it in your mind and name what each part shows.
+
+[GIF 29620 — three pucks sliding and stopping at different distances]
 
 ## Say it to your companion
 Tell your companion, in your own words: Friction opposes relative motion or its tendency: static friction adjusts up to a maximum, kinetic friction is roughly constant once sliding; both… Then give one example of your own, from home or the street, and let your companion test it against the lesson.

@@ -9,6 +9,8 @@ Magnets exert forces without contact; poles come in pairs (cut a magnet, get two
 
 [Picture 22122 — bar magnet sawn in half producing]
 
+[GIF 29645 — iron filings snapping into the field pattern around a magnet]
+
 ## Say it to your companion
 Tell your companion, in your own words: Magnets exert forces without contact; poles come in pairs (cut a magnet, get two), the Earth's field behaves like a giant bar magnet inside the… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

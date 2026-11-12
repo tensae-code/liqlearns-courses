@@ -9,6 +9,8 @@ Sliding an insulator between the plates raises capacitance (dielectric constant)
 
 [Picture 22067 — dielectric slab half-slid into a capacitor]
 
+[GIF 29629 — the slab sliding in while the stored charge grows]
+
 ## Say it to your companion
 Tell your companion, in your own words: Sliding an insulator between the plates raises capacitance (dielectric constant) and must withstand the field (dielectric strength); a table of… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -13,6 +13,8 @@ The guide's unit introduction states that nuclear forces are produced from the i
 
 Picture in words — guide-added content: two nucleons exchanging a meson between them. Look at it in your mind and name what each part shows.
 
+[GIF 29630 — a meson passing back and forth holding the nucleons together]
+
 ## Say it to your companion
 Tell your companion, in your own words: The strong nuclear force is a very short-range attraction between nucleons strong enough to beat proton repulsion; the weak force acts inside… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

@@ -9,6 +9,8 @@ Net force equals mass times acceleration; the law is applied to single bodies an
 
 [Picture 22028 — same push applied to a light]
 
+[GIF 29617 — two carts accelerating away at different rates under equal pushes]
+
 ## Say it to your companion
 Tell your companion, in your own words: Net force equals mass times acceleration; the law is applied to single bodies and combined masses, with the newton as the unit of force. Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

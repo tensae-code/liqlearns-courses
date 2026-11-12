@@ -9,6 +9,8 @@ Without friction, KE + PE stays constant: problems follow blocks on frictionless
 
 [Picture 22037 — curved frictionless track with energy bars]
 
+[GIF 29622 — the energy bars trading PE for KE as a block slides]
+
 ## Say it to your companion
 Tell your companion, in your own words: Without friction, KE + PE stays constant: problems follow blocks on frictionless tracks and inclines and a diver/swing through points B and C,… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

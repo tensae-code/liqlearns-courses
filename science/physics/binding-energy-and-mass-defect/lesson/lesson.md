@@ -9,6 +9,8 @@ A nucleus weighs less than its separate nucleons; the missing mass is the bindin
 
 [Picture 22073 — separate nucleons on one scale pan]
 
+[GIF 29631 — nucleons fusing and a flash of energy leaving]
+
 ## Say it to your companion
 Tell your companion, in your own words: A nucleus weighs less than its separate nucleons; the missing mass is the binding energy via E = mc² (worked in MeV with the 931.5… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

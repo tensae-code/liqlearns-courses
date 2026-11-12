@@ -9,6 +9,8 @@ Objects thrown up or dropped move with acceleration g; the kinematic equations a
 
 [Picture 22020 — ball at five instants on the]
 
+[GIF 29613 — a thrown ball slowing, pausing at the top, and accelerating back down]
+
 ## Say it to your companion
 Tell your companion, in your own words: Objects thrown up or dropped move with acceleration g; the kinematic equations are applied to rises, falls and meeting points, with the sign… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

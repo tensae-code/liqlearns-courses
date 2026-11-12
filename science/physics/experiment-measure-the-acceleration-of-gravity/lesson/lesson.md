@@ -9,6 +9,8 @@ A free-fall experiment: drop an object through measured distances with a meter s
 
 [Picture 22021 — falling ball beside a ruler and]
 
+[GIF 29614 — repeated drops from increasing heights]
+
 ## Say it to your companion
 Tell your companion, in your own words: A free-fall experiment: drop an object through measured distances with a meter stick and timer (converting milliseconds to seconds), repeat for… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

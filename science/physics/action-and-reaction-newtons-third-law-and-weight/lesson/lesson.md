@@ -17,6 +17,8 @@ With normal force and tension introduced through supported and hanging bodies.
 
 For Newton's third law the guide works a group exercise explaining the pairs in: a man walking (foot pushes floor back, floor pushes him forward); a car accelerating (the ground pushes the drive wheels forward against their backward push); a rocket (gas expelled backward at high speed); a helicopter (air pushed down, lift as the upward reaction); and an octopus or jet ski (water ejected through a funnel drives the body forward).
 
+[GIF 29618 — an octopus pulsing forward as it jets water backward]
+
 Picture in words — guide-added content: the five cases as a five-panel strip. Look at it in your mind and name what each part shows.
 
 ## Say it to your companion

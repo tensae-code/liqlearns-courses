@@ -11,7 +11,11 @@ Two cans hang from a beam, one filled with sand, one empty; pupils give each a s
 
 [Picture 22027 — passenger lurching forward as a car]
 
+[GIF 29615 — the braking-car lurch and the belt catching]
+
 Picture in words — guide-added content: the two hanging cans, one labelled sand-filled. Look at it in your mind and name what each part shows.
+
+[GIF 29616 — a hand pushing each can and being resisted more by the heavy one]
 
 ## Say it to your companion
 Tell your companion, in your own words: Force as push/pull that changes motion or shape; inertia is the resistance to change, measured by mass; the first law states the natural state of… Then give one example of your own, from home or the street, and let your companion test it against the lesson.

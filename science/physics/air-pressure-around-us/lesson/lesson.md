@@ -9,6 +9,8 @@ Sealed-bottle and hot-water bottle activities show air pressure crushing and hol
 
 [Picture 22115 — crushed bottle after hot water cools]
 
+[GIF 29640 — the bottle crumpling as it cools]
+
 ## Say it to your companion
 Tell your companion, in your own words: Sealed-bottle and hot-water bottle activities show air pressure crushing and holding; atmospheric pressure explains drinking through a straw and the… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

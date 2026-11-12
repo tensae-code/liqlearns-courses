@@ -5,6 +5,8 @@ Before you read: look at the picture for this lesson — the Frasch three-pipe w
 
 [Picture 21535 — sulphur mined with hot water the contact process]
 
+[GIF 29600 — molten sulphur being pushed up the pipe]
+
 ## Sulphur
 
 Sulphur occurs as the element in underground deposits and is extracted by the Frasch process (superheated water melts it in place and air lifts it out). It burns/reacts with oxygen to sulphur dioxide and sulphur trioxide — the feedstock chain for manufacturing sulphuric acid by the Contact Process.

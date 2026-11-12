@@ -9,6 +9,8 @@ Series resistors share current and add up; parallel resistors share voltage and 
 
 [Picture 22058 — lamp circuits]
 
+[GIF 29627 — lamps brightening when rewired from series to parallel]
+
 ## Say it to your companion
 Tell your companion, in your own words: Series resistors share current and add up; parallel resistors share voltage and combine reciprocally — with brightness comparisons of lamps in each… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 

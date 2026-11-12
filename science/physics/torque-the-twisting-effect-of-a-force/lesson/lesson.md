@@ -9,6 +9,8 @@ A force twists when it acts off-centre: torque grows with the force and with the
 
 [Picture 22101 — spanner turning a nut]
 
+[GIF 29635 — pushing a door at the handle vs near the hinge]
+
 ## Say it to your companion
 Tell your companion, in your own words: A force twists when it acts off-centre: torque grows with the force and with the lever arm (the door-handle idea), and its direction follows the… Then give one example of your own, from home or the street, and let your companion test it against the lesson.
 
