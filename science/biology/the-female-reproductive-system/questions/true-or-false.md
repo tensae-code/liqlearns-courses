@@ -13,3 +13,5 @@ Say true or false.
 
 **4.** Uterus has nothing to do with this lesson's topic.
 **Answer: False** — the lesson teaches it directly.
+**5.** The labia majora and minora and the clitoris are internal organs.
+**Answer: False** — they are the external structures; the vagina, uterus, fallopian tubes and ovaries are internal.

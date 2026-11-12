@@ -6,10 +6,14 @@ countries: Ethiopia
 
 **Book 2:** Biology, Teacher's Guide, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, PhD; Zelalem G/mariam, PhD. Editors: Kedir Woliy, PhD (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, PhD (Language Editor). Illustrator: Simachew Ayanaw, MSc. Designer: Tesfamichael Getu, PhD. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer, contract number and printer's address all left as placeholders (XXXXXXXXXXXX / xxxxxxxx). Those placeholder values are NOT facts and are never cited as a real ISBN or date. 101 printed pp. Page rule: printed page = PDF page − 15 for the numbered body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-teacher-placements.md.
 
+**Book 13:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 105–106 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
+
+| The Grade 3 wording — why we need food | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 15–16 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

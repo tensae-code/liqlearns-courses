@@ -12,4 +12,6 @@ Paired testes produce sperm and the male hormone.
 
 The epididymis stores sperm and the vas deferens carries them.
 
+Grade 11 adds the mechanics: on arousal the arteries of the erectile tissues dilate, blood engorges them, and compressed veins trap the blood. The urethra carries both urine and semen.
+
 Now say it back, in your own words. That is the lesson.

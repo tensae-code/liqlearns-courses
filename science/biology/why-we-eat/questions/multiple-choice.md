@@ -29,3 +29,7 @@ b) It happens only at night and nowhere else
 c) It is found only in non-living things
 d) Food is the material that fuels all biological activity
 **Answer: d) Food is the material that fuels all biological activity**
+
+**5. In the Grade 3 wording, a child who misses meals cannot —**
+a) play, learn or work  b) sleep  c) grow taller overnight
+**Answer: a) play, learn or work** — Play, learn or work — the primary book's warning.

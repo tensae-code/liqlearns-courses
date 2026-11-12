@@ -2,11 +2,8 @@
 
 Write your answer out in full sentences.
 
-**1. ** Write two or three sentences explaining feedback control of homeostasis, and ethiopian zoologists to a younger student. Use one example from the lesson.
-**Model answer: Negative feedback reverses a change (the full worked example: rising temperature**
+**1. Write two or three sentences explaining negative feedback to a younger student, using the temperature example.**
+**Model answer: When your body gets too hot, a centre in your brain answers: your skin vessels widen and you sweat, so heat leaves and your temperature falls. Because the answer reverses the change, this is negative feedback.**
 
-**2. ** Write a short paragraph that explains feedback control of homeostasis, and ethiopian zoologists to a friend who missed the lesson. End with one example.
-**Model answer: Negative feedback reverses a change (the full worked example: rising temperature**
-
-**3. ** Write two questions of your own about feedback control of homeostasis, and ethiopian zoologists and answer each one from the lesson.
-**Model answer: any two questions whose answers are stated in the lesson text above.**
+**2. Write a short paragraph about the Ethiopian zoologists: what a zoologist studies, where Ethiopia's zoologists work, and the two things their life-long study serves.**
+**Model answer: A zoologist studies animals — where they live, how they behave and how they survive. Ethiopia's zoologists work at the country's universities and have given their working lives to studying Ethiopia's own animals. Their long study serves science, by growing knowledge of those animals, and national development, because a country that knows its animals can protect them and plan with them.**

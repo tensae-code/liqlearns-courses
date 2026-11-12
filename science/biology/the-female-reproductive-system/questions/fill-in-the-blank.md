@@ -7,3 +7,5 @@ Fill in the missing words.
 
 **2.** _____ progesterone develop female characteristics and prepare and maintain the uterus lining
 **Answer: Oestrogen and**
+**3.** The vagina is also called the _____ canal, and the uterus's lower opening is the _____
+**Answer: birth; cervix**

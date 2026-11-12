@@ -29,3 +29,9 @@ b) It happens only at night and nowhere else
 c) It is found only in non-living things
 d) The penis delivers semen
 **Answer: d) The penis delivers semen**
+**5.** What does this lesson say about erection?
+a) It is caused by muscles pulling the penis upright
+b) Arousal dilates the arteries of the erectile tissues, blood engorges them, and compressed veins trap the blood
+c) The urethra fills with urine
+d) The scrotum contracts and lifts the testes
+**Answer: b) Arousal dilates the arteries of the erectile tissues, blood engorges them, and compressed veins trap the blood**

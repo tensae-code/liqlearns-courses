@@ -12,4 +12,6 @@ Ovaries produce eggs and secrete oestrogen and progesterone.
 
 Oestrogen and progesterone develop female characteristics and prepare and maintain the uterus lining.
 
+Grade 11 names every part: outside — the labia majora and minora and the clitoris; inside — the vagina, the birth canal, the uterus with its cervix, the fallopian tubes and the ovaries. Five jobs: eggs, hormones, fertilisation, gestation, birth.
+
 Now say it back, in your own words. That is the lesson.

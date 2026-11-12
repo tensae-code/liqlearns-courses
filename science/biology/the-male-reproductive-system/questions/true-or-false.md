@@ -13,3 +13,5 @@ Say true or false.
 
 **4.** Penis has nothing to do with this lesson's topic.
 **Answer: False** — the lesson teaches it directly.
+**5.** The urethra carries both urine and semen out of the body.
+**Answer: True**

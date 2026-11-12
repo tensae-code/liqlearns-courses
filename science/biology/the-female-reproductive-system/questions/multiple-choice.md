@@ -29,3 +29,16 @@ b) It happens only at night and nowhere else
 c) It is found only in non-living things
 d) The uterus is where a pregnancy develops; the cervix and vagina complete the system
 **Answer: d) The uterus is where a pregnancy develops; the cervix and vagina complete the system**
+**5.** What does this lesson say about the vagina?
+a) It produces eggs and oestrogen
+b) It is also the birth canal
+c) It is an external structure only
+d) It carries the egg to the uterus
+**Answer: b) It is also the birth canal**
+
+**6.** Which set lists only the system's jobs as the Grade 11 book gives them?
+a) Producing eggs, secreting hormones such as oestrogen, providing the site of fertilisation, gestating a fetus, giving birth
+b) Making sperm, storing sperm, delivering semen
+c) Filtering blood, making urine, storing urine
+d) Pumping blood, exchanging gases, digesting food
+**Answer: a) Producing eggs, secreting hormones such as oestrogen, providing the site of fertilisation, gestating a fetus, giving birth**

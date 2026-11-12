@@ -7,3 +7,5 @@ Fill in the missing words.
 
 **2.** _____ stores sperm and the vas deferens carries them
 **Answer: The epididymis**
+**3.** On arousal the arteries of the erectile tissues _____ and the veins are compressed, trapping blood
+**Answer: dilate (widen)**

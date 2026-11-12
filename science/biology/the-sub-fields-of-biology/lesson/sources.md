@@ -10,6 +10,7 @@ countries: Ethiopia
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 1–3 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 1–6 (teacher guide) |
+| Unit 1 answer block — the guide's expected answers to the Unit 1 review questions: the sub-field definitions, the pure/applied sorting, and the discovery–contribution matches, including the Ethiopian biologists section (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 14–15 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

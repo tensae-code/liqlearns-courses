@@ -17,6 +17,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Say, in their own words, the one thing this lesson teaches: the female system makes eggs in the ovaries and carries a pregnancy in the uterus.
 2. Name and explain each key fact of the lesson.
 3. Answer the lesson's questions from what the lesson itself taught.
+4. Name the external structures and internal organs with their functions, and list the system's jobs — eggs, hormones, fertilisation, gestation, birth (Grade 11 depth).
 
 ## What you need
 Paper and a pencil. Nothing else.

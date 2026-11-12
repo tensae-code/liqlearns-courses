@@ -6321,3 +6321,6 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36007 | cleaning materials beside a clean latrine | science/keeping-healthy/keeping-our-home-clean |
 | 36008 | a community meeting under a tree | science/work-and-heritage/harmful-customs-we-must-stop |
 | 36009 | a three-step staircase: teach, prevent, rescue | science/work-and-heritage/harmful-customs-we-must-stop |
+| 36600 | plant uses beyond food (timber, cloth, medicine, shade) and the library-work steps | science/biology/plant-uses-and-library-work |
+| 36601 | the temperature feedback loop in four steps with amplify and too-cold boxes | science/biology/negative-and-positive-feedback |
+| 36602 | the thylakoid membrane chain — both photosystems, carriers, lumen protons, ATP synthase | science/biology/the-lightdependent-reactions-of-photosynthesis |

@@ -17,6 +17,10 @@ Food is the material that fuels all biological activity. It does three jobs at o
 
 **Fuel.** Food is the material that fuels all biological activity.
 
+## The Grade 3 wording — why we need food
+
+The primary book teaches the same three jobs in a child's words, and they are carried here exactly: food gives **energy and heat**; food **builds and repairs the body**; food brings **growth, strength and health**. And its warning stands beside them: a child who misses meals cannot play, cannot learn, and cannot work.
+
 ## Say it to your companion
 Explain this lesson to your companion in your own words: food gives energy, builds and repairs the body, and protects it — shortage of a group causes deficiency disease. Use each key fact once. Then let your companion explain it back to you.
 

@@ -17,6 +17,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Say, in their own words, the one thing this lesson teaches: the male system makes sperm in the testes, stores them, and delivers them in semen.
 2. Name and explain each key fact of the lesson.
 3. Answer the lesson's questions from what the lesson itself taught.
+4. Sort the organs into external and internal parts, explain erection mechanically (arterial dilation, engorgement, veins compressed), and state the urethra's two jobs (Grade 11 depth).
 
 ## What you need
 Paper and a pencil. Nothing else.

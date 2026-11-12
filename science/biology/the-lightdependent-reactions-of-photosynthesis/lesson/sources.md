@@ -6,12 +6,17 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| The whole lesson — The light-dependent reactions (§3.2, unnumbered in the contents between 3.2.1 and 3.2.5): | Student Textbook, Grade 12 —  |
+| Where this happens — thylakoid membrane, photosystems II and I | Student Textbook, Grade 12 — printed pp. 122–125 |
+| Step 1 — Photolysis: water is split (2H₂O → O₂ + 4H⁺ + 4e⁻) | Student Textbook, Grade 12 — printed pp. 122–125 |
+| Step 2 — The first chain: plastoquinone, cytochromes, plastocyanin; proton pump filling the thylakoid lumen | Student Textbook, Grade 12 — printed pp. 122–125 |
+| Step 3 — Photophosphorylation: chemiosmosis makes ATP | Student Textbook, Grade 12 — printed pp. 122–125 |
+| Step 4 — The second chain: ferredoxin and NADP reductase forming reduced NADP | Student Textbook, Grade 12 — printed pp. 122–125 |
+| The three products (O₂, ATP, NADPH), and cyclic versus non-cyclic photophosphorylation compared | Student Textbook, Grade 12 — printed pp. 122–125 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
+Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents. Fix note (2026-11-12): this lesson was rebuilt complete — an earlier build left the printed-pages field blank and truncated the lesson body to the fragment "photolysis splitting water (2H₂O"; the full reaction chain is now taught above and the pages are the placement's exact pages, printed pp. 122–125.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, the, light, dependent, reactions, photosynthesis
+Searchable tags: biology, ethiopia, the, light, dependent, reactions, photosynthesis, photolysis, plastoquinone, plastocyanin, ferredoxin, photophosphorylation, chemiosmosis, thylakoid

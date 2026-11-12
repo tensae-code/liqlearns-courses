@@ -2,14 +2,8 @@
 
 Write your answer out in full sentences.
 
-**1. ** Write two or three sentences explaining the light-dependent reactions (§3.2, unnumbered in the contents between 3.2.1 and 3.2.5): to a younger student. Use one example from the lesson.
-**Model answer: photolysis splitting water (2H₂O**
+**1. Write a short paragraph following one electron from the moment water is split until reduced NADP is formed. Name every carrier it passes.**
+**Model answer: The electron is freed when water is split at photosystem II (2H₂O → O₂ + 4H⁺ + 4e⁻). It passes through plastoquinone, then the cytochromes — where its energy pumps protons into the thylakoid lumen — then plastocyanin, which delivers it to photosystem I. Lifted by light again, it passes to ferredoxin, and NADP reductase uses it to form reduced NADP (NADPH).**
 
-**2. ** Write a short paragraph that explains the light-dependent reactions (§3.2, unnumbered in the contents between 3.2.1 and 3.2.5): to a friend who missed the lesson. End with one example.
-**Model answer: photolysis splitting water (2H₂O**
-
-**3. ** Write two questions of your own about the light-dependent reactions (§3.2, unnumbered in the contents between 3.2.1 and 3.2.5): and answer each one from the lesson.
-**Model answer: any two questions whose answers are stated in the lesson text above.**
-
-**4. Write one sentence naming the three products of the light-dependent reactions.**
-**Answer: The three products are oxygen (O₂), NADPH and ATP.**
+**2. Write two or three sentences explaining photophosphorylation to a younger student, using the dam picture.**
+**Model answer: As electrons move along the chain, protons are pumped into the thylakoid lumen until they pile up like water behind a dam. They can escape only through ATP synthase, and their flow through it makes ATP. Making ATP with light energy this way is photophosphorylation, and the gradient-driven mechanism is chemiosmosis.**
