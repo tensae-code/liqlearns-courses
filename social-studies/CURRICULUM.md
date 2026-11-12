@@ -66,7 +66,15 @@ Band records land here as each band is built and verified.
   Guide material folds in as labelled teacher evidence; no
   guide-only lessons. Named in the sources: the 476 BC summary
   misprint taught as 476 AD, the guide's "3600" taught as 360°,
-  Buddhism's printed "Finland" recorded and not taught. One assessment-stock item (Samori Toure) was
+  Buddhism's printed "Finland" recorded and not taught.
+- **Resources and Conflict — BUILT** (Grade 8 student Chapter 3
+  + teacher guide Unit 3): 16 lessons, 210 questions, pictures
+  11550–11569, GIFs 11570 (wind turbine) + 11571 (storm water
+  stripping a slope), both frame-checked. All lessons are the
+  Grade 8 climb with "Before this lesson" hints down to People
+  and Resources — no Grade 7 lesson re-taught. The basin-count
+  wrinkle (the student book names 10 countries, says 11; DR
+  Congo comes from the guide's list) is named in the sources. One assessment-stock item (Samori Toure) was
   not built — no placement gives teachable content for him.
 - **Culture and Work — BUILT** (Grade 8 student Chapter 2 +
   teacher guide Unit 2): 26 lessons, 298 questions, pictures

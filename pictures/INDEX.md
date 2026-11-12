@@ -1439,6 +1439,28 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11365 | pictures/11365.webp | the river-valley recipe (teacher guide) | Social Studies — The Ancient World — Mesopotamia |
 | 11366 | pictures/11366.webp | Christianity spreading from Palestine (teacher guide) | Social Studies — The Ancient World — World Religions — the Five Main Faiths |
 | 11367 | pictures/11367.webp | Mecca and Medina joined by the Hejira route (teacher guide) | Social Studies — The Ancient World — World Religions — the Five Main Faiths |
+| 11550 | pictures/11550.webp | landscape with soil/forest/river/sun/wind tagged | Social Studies — Resources and Conflict — Natural Resources — What They Are |
+| 11551 | pictures/11551.webp | Adama wind turbines + geothermal vent | Social Studies — Resources and Conflict — Renewable Resources |
+| 11552 | pictures/11552.webp | oil well "gone when burned" / copper coil "melted and used again" | Social Studies — Resources and Conflict — Non-Renewable Resources |
+| 11553 | pictures/11553.webp | cared-for slope: terraces, trees, fenced spring | Social Studies — Resources and Conflict — Using Resources Well |
+| 11554 | pictures/11554.webp | two shelves of needs | Social Studies — Resources and Conflict — First and Second Needs |
+| 11555 | pictures/11555.webp | one valley, three eras of wants, forest shrinking | Social Studies — Resources and Conflict — How Use Changes over Time |
+| 11556 | pictures/11556.webp | check dam in gully + new planting on bare land | Social Studies — Resources and Conflict — What Conservation Means |
+| 11557 | pictures/11557.webp | fouled stream below a settlement | Social Studies — Resources and Conflict — Water Pollution and Shortage |
+| 11558 | pictures/11558.webp | vegetation kinds; forest cut / grass overgrazed marked | Social Studies — Resources and Conflict — Careless Use — Vegetation |
+| 11559 | pictures/11559.webp | two slopes: gently worn vs gullied bare | Social Studies — Resources and Conflict — Soil Erosion — Normal and Accelerated |
+| 11560 | pictures/11560.webp | Konso stone terraces | Social Studies — Resources and Conflict — Konso Terraces (case study) |
+| 11561 | pictures/11561.webp | two villages reaching for one small spring | Social Studies — Resources and Conflict — What Conflict Is |
+| 11562 | pictures/11562.webp | Kart's three roots in three panels | Social Studies — Resources and Conflict — Three Roots of Conflict |
+| 11563 | pictures/11563.webp | Fisher's three widening circles | Social Studies — Resources and Conflict — Three Kinds of Conflict |
+| 11564 | pictures/11564.webp | elders between two disputants under a tree | Social Studies — Resources and Conflict — Settling Conflict |
+| 11565 | pictures/11565.webp | Nile basin, tributary shares 15/70/15, Renaissance Dam | Social Studies — Resources and Conflict — The Abay Dispute (case study) |
+| 11566 | pictures/11566.webp | hillside with all seven soil techniques labelled | Social Studies — Resources and Conflict — What Conservation Means |
+| 11567 | pictures/11567.webp | five pressure weights on one landscape, consequences as cracks | Social Studies — Resources and Conflict — How Use Changes over Time |
+| 11568 | pictures/11568.webp | one landscape cared-for vs stripped, consequences tagged | Social Studies — Resources and Conflict — Using Resources Well |
+| 11569 | pictures/11569.webp | Nile basin, eleven countries, upper/lower divide | Social Studies — Resources and Conflict — The Abay Dispute (case study) |
+| 11570 | pictures/11570.gif | wind turbine blades turning | Social Studies — Resources and Conflict — Renewable Resources |
+| 11571 | pictures/11571.gif | storm water stripping a bare slope | Social Studies — Resources and Conflict — Soil Erosion — Normal and Accelerated |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
