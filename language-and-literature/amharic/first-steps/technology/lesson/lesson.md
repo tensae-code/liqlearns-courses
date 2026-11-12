@@ -16,6 +16,15 @@ Three things of our time, to know and to copy-write:
 
 Say each name. Point to each thing. Then copy-write each name slowly and carefully.
 
+
+## The older book's device words
+
+An older book (Grade 2, pp.122–124) asks you to match each
+device's picture to its name: ሬዲዮ (radio), ቴሌቪዥን
+(television), ስልክ (telephone), ባትሪ (battery), ካሜራ (camera).
+Point to each one as its name is said. Finish its phrases too:
+የልብስ ማጠቢያ ማሽን — the clothes-washing machine.
+
 ## Say it to your companion
 
 Point to one thing on the board. Your companion names it. Then swap. Finish by naming all three in order without looking at the words — only at the pictures.

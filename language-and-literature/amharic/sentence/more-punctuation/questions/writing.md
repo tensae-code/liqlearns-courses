@@ -10,3 +10,6 @@ Write each one on paper.
 
 **3. (Sub lesson 5)** Shorten የእርዳታ ማስተባበሪያና ማቋቋሚያ ኮሚሽን to its initials.
 **Answer: እ.ማ.ማ.ኮ** — one dot after each initial.
+
+**4. (Sub lesson 6)** Punctuate a short paragraph about ኮረና that your teacher reads without marks, using ? ። ! ፣ and “ ” — including one quoted sentence inside “ ”.
+**Answer: every question ends ?; statements close ።; a cry takes !; pauses rest on ፣; the quoted speech is fenced in “ ”.**

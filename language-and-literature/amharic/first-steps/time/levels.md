@@ -7,3 +7,8 @@ Sub lesson 1 questions from the type files. Pass mark: say the seven days in ord
 
 ## Sub lesson 2 — The months of Ethiopia
 Sub lesson 2 questions from the type files. Pass mark: say and write the thirteen months in order, and answer which month comes before or after another.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 3 — The Grade 2 book's month drills
+Sub lesson 3 questions from the type files. Pass mark: sound the drilled month names and write all thirteen months in order from መስከረም.

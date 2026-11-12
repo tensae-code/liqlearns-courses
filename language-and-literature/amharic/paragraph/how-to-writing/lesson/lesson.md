@@ -110,6 +110,24 @@ settling, building, harvesting, cooking — and ask of each
 step the process question: what must happen FIRST, so the
 rest can happen at all?
 
+
+## Sub lesson 4 — Grade 2: process chains — from milk to butter, and on
+
+Follow the book's model chain (Grade 2, p.108): ወተት →
+ይታለባል → ይረጋል → … → ቅቤ ይወጣል — milk, it is milked, it settles,
+and on, until butter comes out. Each arrow is one step, in
+order, in its verb form.
+
+Now build the book's two chains in the same shape:
+
+- The ዶሮ ወጥ chain: from buying the chicken to the wat on the
+  injera (its steps in order are drilled in sub lesson 1 at
+  pp.111–113).
+- The እንጀራ chain: from the teff flour to the baked injera.
+
+Say your chain aloud, arrow by arrow. If one step is missing,
+the chain breaks — that is how you check it.
+
 ## Say it to your companion
 
 Choose a doing you know well. Tell it to your companion as a

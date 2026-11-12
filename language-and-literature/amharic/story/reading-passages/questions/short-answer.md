@@ -51,3 +51,12 @@ Answer in a short sentence, from the passage.
 
 **17. (Sub lesson 16)** Say the difference between the migration reading's two closing works.
 **Answer:** Explaining what was grasped retells the passage's content in your own words; writing its themes names what the passage is about — its subjects — apart from its details.
+
+**18. (Sub lesson 17)** What two instruments does the Grade 1 short passage at p.46 join?
+**Answer:** The kebero drum (ከበሮ) and the krar lyre (ክራር).
+
+**19. (Sub lesson 18)** Use ሽልማት in a sentence about the awarded friend.
+**Answer:** Any sentence placing ሽልማት (a prize) with the friend who won the quiz competition and prizes for the school (Grade 1, p.119).
+
+**20. (Sub lesson 19)** What does Weyinitu offer in Accepting Responsibility?
+**Answer:** To help Kemal's group when her own group finishes (Grade 2, p.94).

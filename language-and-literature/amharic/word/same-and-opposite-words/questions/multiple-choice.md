@@ -28,3 +28,15 @@ lesson. Its opposite is —
 a) ግዙፍ  b) ትንሽ  c) ወፍራም
 **Answer: b) ትንሽ** — small. ግዙፍ is its same-word, not its
 opposite.
+
+**7. (Sub lesson 3)** ሰፊ is the opposite of…
+a) ጠባብ  b) ደስታ  c) ፍሬን
+**Answer: a) ጠባብ** — ጠባብ ↔ ሰፊ, Grade 1 p.90.
+
+**8. (Sub lesson 3)** ሀዘን (sorrow) is the opposite of…
+a) ደስታ (joy)  b) ሰላም  c) ምክር
+**Answer: a) ደስታ (joy)** — ደስታ ↔ ሀዘን, Grade 1 p.90.
+
+**9. (Sub lesson 3)** Opposite matching pairs a word with…
+a) Its opposite meaning  b) Its plural  c) Its picture only
+**Answer: a) Its opposite meaning** — the book's matching task.

@@ -25,3 +25,15 @@ a) the judge's verdict  b) both sides' consent to reconcile  c) the parties' oat
 **6. (Sub lesson 3)** The LAST step of the mediation process is —
 a) the preliminary inquiry  b) choosing the mediation judge  c) conducting the mediation
 **Answer: c) conducting the mediation** — the sitting itself, where the parties swear an oath confirming the decision.
+
+**7. (Sub lesson 4)** In a process chain, each arrow is…
+a) One step, in order  b) A new food  c) A question
+**Answer: a) One step, in order** — Grade 2 p.108.
+
+**8. (Sub lesson 4)** The model chain ends with…
+a) ቅቤ ይወጣል — butter comes out  b) ወተት ይታለባል  c) The buying
+**Answer: a) ቅቤ ይወጣል — butter comes out** — the milk chain, Grade 2 p.108.
+
+**9. (Sub lesson 4)** If a step is missing from your chain, the chain…
+a) Breaks  b) Gets shorter only  c) Still works the same
+**Answer: a) Breaks** — that is how you check it.

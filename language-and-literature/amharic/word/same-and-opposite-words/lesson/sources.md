@@ -13,6 +13,8 @@ countries: Ethiopia
 | Sub lesson 2 — Words that mean the opposite, second set: ጣፍጭ–መራራ, ትልቅ–ትንሽ, ወንድ–ሴት, ቅርብ–ሩቅ, ወፍራም–ቀጭን; match opposites | Ethiopia, *Pre-Primary Practice Workbook, Level Two (Age 6)*, printed p.145 |
 | Hands-on "If it is hard" support shape (SUPPORTING) — work broken into small steps, a picture for every word, more added only when the first steps are easy | Ethiopia, *Assessment and Support for Students with Special Needs in Pre-primary Schools* (SNE toolkit), printed pp.26–27 |
 
+| Sub lesson 3 — match words to opposites (ጠባብ↔ሰፊ, ደስታ↔ሀዘን…) (fix build: p.90 was cited only to the KG3 workbook before; placement G1 #103) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.90 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: the placements give the pairs exactly as taught here, in the book's order; the English glosses in the lesson are the placements' own glosses where they give them (came–went, black–white, fast–slow, sweet–bitter, near–far) and plain dictionary senses elsewhere. ትልቅ appears in both halves of the book's own work — as a synonym of ግዙፍ on p.143 and as the opposite of ትንሽ on p.145; the lesson teaches that double life openly rather than hiding it. Pictures 8210 (ትልቅ–ትንሽ), 8211 (ጥቁር–ነጭ) and 8212 (ፈጣን–ቀርፋፋ) are drawn cards made for this lesson from the placed pairs. No page was unreadable and no reading is uncertain in this lesson's placements.

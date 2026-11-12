@@ -17,3 +17,6 @@ by letter — a wrong fidel is found kindly and fixed together.
 Write a sentence on a strip of paper. Cut it into its words.
 A partner mixes the pieces; you put them back in their places
 and glue or copy the sentence whole. Then do theirs.
+
+## Added 2026-11-12 — four given words
+Make one spoken sentence each with ራሳችሁን, ምክር, አደጋ and ፍሬን about a road near your home.

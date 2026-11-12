@@ -98,6 +98,22 @@ One verb changes its ending for every person who does it. Here is the full parad
 
 The stem never moves: በላ stays በላ. Only the tail changes — ሁ, ህ, ሽ, ች, ን, ችሁ, ኡ — and the tail tells you who ate. The same endings walk onto any verb: the books apply this paradigm to መጣ, ሠራ, ለበሰ, ደረሰ, ዘመረ, አነበበ — and here it is walking on ሰበረ: እኔ **ሰበርኩ**, አንተ **ሰበርክ**, አንቺ **ሰበርሽ**, እርሱ **ሰበረ**, እርሷ **ሰበረች**, እኛ **ሰበርን**, እናንተ **ሰበራችሁ**, እነርሱ **ሰበሩ**.
 
+
+## Sub lesson 6 — Grade 2: verb patterns — -ች, the doing-now form, and ይጨምራል
+
+- The -ች pattern (Grade 2, pp.28–29): ወደቀች is the model — "she
+  fell" — the -ች ending marks her. Go on through the book's
+  pattern row, saying each form aloud. On the same pages the
+  book makes new words by dropping letters of long words, and
+  its review writes the thirteen Ethiopian months in order —
+  that writing lives in Time at the same pages.
+- The doing-now form (pp.36–38): ቀረበ → እየቀረበች — "she
+  approached → she is approaching." Copy the pattern the book's
+  way, verb by verb, and blend the long words it sets by their
+  syllables as you go.
+- One more pattern (p.69): ጨመረ → ይጨምራል — "he added → he will
+  add / he adds." Say the pair, then the book's row.
+
 ## Say it to your companion
 
 Tell your companion: Amharic divides time into ሀላፊ and ኢሀላፊ — ሰበረ against ይሰብራል. Then walk the በላ family from እኔ to እነርሱ without stopping. Last, read አዜብ ለእናቷ ብር ላከች and let your companion ask "what?" and "to whom?" — you answer ብር and ለእናቷ.

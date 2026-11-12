@@ -22,6 +22,8 @@ countries: Ethiopia
 | Sub lesson 3 — Healthy foods and drinks (ወተት milk, እንቁላል egg, ዓሣ fish, ስጋ meat, vegetables and fruits, ጥራጥሬዎች grains/legumes; healthy drink types) | Book 3 (KG3), printed p.124 |
 | Sub lesson 3 — Foods we get from animals (meat, egg, chicken meat…), listed 1–5 | Book 3 (KG3), printed pp.158–159 |
 
+| Sub lesson 1 — review writing: five kinds of fruit, after re-reading ችግኝ ተከላ and ስኬት (fix build: p.72 was cited only to the KG workbooks before; placement G1 #79) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.72 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes. No reading in the placements used here is marked uncertain, and no page was unreadable. The tomato ቲማቲም is sorted with the garden vegetables because that is where both books place it (KG2 pp.81–82; KG3 p.9); the lesson says so openly in its teacher-facing stuck note rather than hiding the hard case.

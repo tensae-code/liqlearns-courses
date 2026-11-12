@@ -106,3 +106,6 @@ page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Band 4):** sub lessons 7–9 grow this lesson with the federal guides' two Fiction chapters (ልቦለድ) — the Grade 10 guide's definitions of fiction and its short-vs-long teaching, and both guides' fiction met whole (ጠቃሚ ምክር, እናቲቱ, ሰመመን, ሸክም, extensive reading). There are no Grade 9–10 student books in the records, so every part of sub lessons 7–9 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Definitions are summarised, never quoted at length, and no fiction text is transcribed. The first six sub lessons are unchanged.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 10 — Grade 1–2: review, draw-and-label, and finishing what is started: answer the ዱባና ድንች review questions, complete a started dialogue in both voices, and sort animals into suckle/lay-eggs.

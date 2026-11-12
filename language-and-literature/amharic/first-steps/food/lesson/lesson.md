@@ -65,6 +65,15 @@ Healthy foods and drinks:
 
 And some foods come from animals. The foods we get from animals: meat, egg, chicken meat, and milk. The cow gives the milk; the hen gives the egg and the chicken meat.
 
+
+## More from the older books — five kinds of fruit (still sub lesson 1)
+
+After the two Grade 1 stories of sub lesson 1's strand — ችግኝ
+ተከላ and ስኬት — the book's review (Grade 1, p.72) sets this
+writing: name five kinds of fruit. Say them, count them on your
+fingers, then write the five: the mango, the mandarin, the
+orange and their brothers from the stories' own planting.
+
 ## Say it to your companion
 
 Tell your companion: two fruits, two vegetables, and what a full meal must hold. Then your companion names a food, and you say: fruit, vegetable, or from an animal?

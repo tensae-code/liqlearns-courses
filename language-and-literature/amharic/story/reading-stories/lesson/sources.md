@@ -60,6 +60,54 @@ countries: Ethiopia
 | Sub lesson 12 — Rough Hands (ሸካራ እጆች): story — a graduate washes his washerwoman mother's rough hands and learns three lessons; he is hired as manager | Ethiopia, *Grade 8 Amharic Student Textbook*, printed pp.56–58 |
 | Sub lesson 12 — May I Be One Who Repays a Debt (ብድር መላሽ ያርገኝ): story — rats gnaw the net and free the elephants | Ethiopia, *Grade 8 Amharic Student Textbook*, printed pp.71–72 |
 
+| Sub lesson 13 — ሸክላድስትና ብረትድስት (fluent story) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.80–81 |
+| Sub lesson 13 — ጩኸት ሰሙ (fluent story) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.84 |
+| Sub lesson 13 — የትራፊክ ፖሊሱ ምክር (fluent story) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.87–88 |
+| Sub lesson 14 — serial story parts 1–4: የሰፈራችን ልጆች / ልጆችዬ እናምልጥ! / ፈራን / እንኳን አላያችሁት! + word-matching ጫካ, መገረም, ተጠመጠመ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.91, 92, 94–95, 95–96 |
+| Sub lesson 15 — የጦጢት ዳኝነት (fable) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.99 |
+| Sub lesson 15 — የምግቦች ስብሰባ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.103 |
+| Sub lesson 15 — ምርጫው | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.107 |
+| Sub lesson 15 — ስስታሙ ውሻ (fable) + write the ending in brief | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.107–108 |
+| Sub lesson 15 — ብልጡ ዔሊ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.110 |
+| Sub lesson 15 — ምንጫችን | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.114–115 |
+| Sub lesson 15 — የቡሄ ዕለት | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.118 |
+| Sub lesson 15 — ጎሹ! | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.122 |
+| Sub lesson 15 — የአህያና የበሬ ጓደኝነት | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.126 |
+| Sub lesson 15 — ጥጋበኞቹ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.131 |
+| Sub lesson 15 — በሚናቸው ተከራከሩ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.134 |
+| Sub lesson 16 — የአክሊሉ ነጭ ሸሚዝ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.2 |
+| Sub lesson 16 — ህልም እልም (fable) + clothing matching | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.2–3 |
+| Sub lesson 16 — ተንኮለኛዋ አይጥ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.7 |
+| Sub lesson 16 — ታጥቦ ጭቃ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.11–12 |
+| Sub lesson 16 — ዙሪያክብ ጨዋታ + days-of-the-week vocabulary | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.17 |
+| Sub lesson 16 — በውድቅት ሌሊት | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.21 |
+| Sub lesson 16 — ወይ አለማስተዋል! (folktale) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.27 |
+| Sub lesson 17 — መንገደኛውና ተኩላ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.31–32 |
+| Sub lesson 17 — ብልኋ ሴት (folktale) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.36 |
+| Sub lesson 17 — የተዛባ ፍርድ (fable; source printed: Fekade Azaze) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.39–40 |
+| Sub lesson 17 — ወይ አለማወቅ! | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.49 |
+| Sub lesson 17 — የሐና አመጋገብ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.53–54 |
+| Sub lesson 18 — በቁማችን ሞተናል! (dialogue story) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.59 |
+| Sub lesson 18 — ታሞ ከመማቀቅ… (dialogue) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.63 |
+| Sub lesson 18 — መተባበር ለመልካም ተግባር (dialogue) + list polluting things | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.63–64 |
+| Sub lesson 18 — ሁሉም ቢተጋገዝ + synonym writing stocked in Word Families | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.67–68 |
+| Sub lesson 18 — እረኛውና ዋሽንቱ + instrument-use vocabulary ዋሽንት ይነፋል; ክራር, ማሲንቆ, አታሞ, ደወል | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.73 |
+| Sub lesson 18 — ይቅርታ ጠይቂ! | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.88 |
+| Sub lesson 18 — መስጠትና መቀበል (dialogue) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.88–89 |
+| Sub lesson 18 — ታላላቆቻችሁን አክብሩ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.93 |
+| Sub lesson 18 — ውሸታሙ እረኛ (fable) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.99 |
+| Sub lesson 19 — የምግብ ዝግጅት ውድድር | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.110 |
+| Sub lesson 19 — የፈሰሰ ዉኃ… | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.110–111 |
+| Sub lesson 19 — አሸናፊ ማነው? (fable) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.114 |
+| Sub lesson 19 — የወንድሜ ስልክ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.120 |
+| Sub lesson 19 — የመጀመሪያዋ ቀን | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.120–121 |
+| Sub lesson 19 — ዓይነሥውሩ ተማሪና ስልኩ (inclusion story; JAWS/ጃውስ) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.125 |
+| Sub lesson 19 — ሲሮጡ የታጠቁት ሲሮጡ ይፈታል | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.125–126 |
+| Sub lesson 19 — የተሳሳተ የስልክ ጥሪ (dialogue) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.129–130 |
+| Sub lesson 19 — ነብርና ድኩላ (fable; source printed: Kebede Michael) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.135–136 |
+| Sub lesson 19 — ጉንዳንና ዋኔ (fable) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.140 |
+| Picture 21201 / Picture 21202 — drawn for this fix build (the shola tree and the children; the two pots at the zebra crossing) | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 2 above |
+
 **Acceptance count: taught in 1 country (Ethiopia).** The sixth sub lesson's stories and fables are pupil-taught from the student books; the first five sub lessons stand on teacher-guide texts, labelled (teacher guide — evidence) above. Sub lessons 7–12 (the 2026-11-12 growth) are pupil-taught throughout, from the Grade 5–8 student books.
 
 Honesty notes: (1) All stories are told as summaries in the lesson's own words — never the books' text. (2) For Holiday Clothes and Protect Our Environment, the guides name the texts and their fluency method but the placements record no plot summary; the lesson therefore teaches them as fluency texts beside the clothes-materials and environment content the guides do print, and invents no plot for them. (3) The Grade 1, 2 and 4 teacher-guide files are truncated scans (G1 ends p.35, G2 p.34, G4 p.42); every text used here is inside those spans. (4) Pictures 8316, 8317, 8318, 8319 and GIF 8330 are drawn renders made for this lesson, looked at frame by frame (GIF) and in full (pictures) before filing; Picture 8318 is shared with the Listening Stories lesson, where it is also sourced.

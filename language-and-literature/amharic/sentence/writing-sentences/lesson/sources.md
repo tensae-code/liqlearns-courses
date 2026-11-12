@@ -25,6 +25,9 @@ countries: Ethiopia
 | Sub lesson 3 — unscramble shuffled words into full sentences with correct punctuation | Ethiopia, *Amharic Student Textbook, Grade 3*, printed p.122 |
 | Picture 8510 / GIF 8511 / Picture 8512 — drawn for this lesson from the rows above | Drawn renders made in this build (PIL, cream-paper style), from Books 5, 2 and 2 above |
 
+| Sub lesson 4 — review: make sentences with ራሳችሁን, ምክር, አደጋ, ፍሬን (fix build: p.90 was omitted before; placement G1 #104) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.90 |
+| Sub lesson 3 — jumbled-sentence repair at the instruments review (fix build: pp.85–86 were omitted before; placement G2 #77) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.85–86 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The brief named "G2/G4" for the word-order sub lesson; the placements give the word-order repair exercises in the Grade 2 student book (pp.8–10, 34, 57) and Grade 3 (p.122). Grade 4's placed order work is putting jumbled story sentences into story order — that is built in Writing About Stories, Sub lesson 3, and is not claimed here. (2) The Grade 2 book prints the mixed-up sentence "ጨዋታ እወዳለሁ መጫወት" and sets its repair as the task; it does not print a corrected version, so this lesson teaches the repair and does not print an invented "correct" Amharic sentence for that item. (3) The Grade 2 and Grade 3 teacher guides are partial scans (see the book lines above); every guide page cited here is inside the secured pages. (4) Picture 8510's joined sentence is the Grade 2 guide's own printed model sentence (p.15).

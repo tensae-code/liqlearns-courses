@@ -24,3 +24,6 @@ Clap with me. **ጨጨት** — 👏 👏 👏. Three letters, three claps.
 
 Now you. Blend it. Split it. Take one away. Clap it.
 The words are yours.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 6, The Grade 1 book's blending pages, page by page: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

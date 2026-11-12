@@ -14,3 +14,6 @@ Television. ቴሌቪዢን.
 
 Point. Say it. Write it.
 Now you know the three.
+
+## Added 2026-11-12 — the older book's device words
+Show each device, say its Amharic name, let the learner repeat and point: ሬዲዮ, ቴሌቪዥን, ስልክ, ባትሪ, ካሜራ.

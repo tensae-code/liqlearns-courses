@@ -13,3 +13,8 @@ Pass mark: sort words into singular and plural using the box's two questions —
 
 ## Sub lesson 4 — The -ኦች system, re-taught (teacher guide — evidence)
 Pass mark: state the system — a singular noun carries no marker; the plural is formed with -ኦች; subject and verb phrase agree in number, gender and person (መደብ) — and recognise the named Ge'ez plurals (መምህራን, ሊቃውንት, አልባሳት, አብያት, ነፍሳት, ወራት, ቀናት, መጻሕፍት) as named-and-deferred, building no new Ge'ez plurals.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 5 — Grade 2: the instruments review plurals
+Sub lesson 5 questions from the type files. Pass mark: make the plurals of the music chapter's instrument words at the review's own page.

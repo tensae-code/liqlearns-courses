@@ -42,6 +42,17 @@ Ethiopia's year has **thirteen** months (የዓመቱ ወራቶች). Read them, 
 
 And the before-and-after game: which month comes **before** ጥቅምት? መስከረም. Which comes **after** የካቲት? መጋቢት. Which comes before ነሐሴ? ሐምሌ.
 
+
+## Sub lesson 3 — The Grade 2 book's month drills
+
+- The month names inside the blending drills (Grade 2,
+  pp.16–19): ሰኔ, ሐምሌ, ነሐሴ, መስከረም — sounded out fidel by
+  fidel, then said whole, the way sub lesson 2 orders them.
+- Write the thirteen months in order (pp.28–29): the book's
+  review writing — begin at መስከረም and write all thirteen,
+  in order, without the chart. (The verb pattern on the same
+  pages is taught in Verbs and Tenses.)
+
 ## Say it to your companion
 
 Say a day; your companion says the next day. Go all the way round the week. Then months: say one; your companion says the next — all the way to ጳጉሜን.

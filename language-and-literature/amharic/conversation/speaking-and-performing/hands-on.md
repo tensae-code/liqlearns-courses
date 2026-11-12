@@ -40,3 +40,6 @@ just the rhythm on a table): one person leads an oral poem
 aloud, everyone chants the refrain back. Then each person
 adds one line of their own, in the season's words, voice
 raised — the poem grows the way work-poems grow.
+
+## Added 2026-11-12 — finish the call
+With a partner, start a telephone call and finish it properly — greeting, message, thanks, goodbye — using one device name from sub lesson 9.

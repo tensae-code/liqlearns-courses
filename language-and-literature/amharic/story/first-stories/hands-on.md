@@ -34,3 +34,6 @@ before you must say it, say it with a partner before you say it
 alone, and act it before you answer questions about it — small
 steps, in the story method's own order (SNE toolkit and the
 training module's three passes — SUPPORTING; see sources.md).
+
+## Added 2026-11-12 — care for a real book
+Cover a book at home, clean its outside gently, and put a bookmark in it — the four cares of sub lesson 5, done for real.

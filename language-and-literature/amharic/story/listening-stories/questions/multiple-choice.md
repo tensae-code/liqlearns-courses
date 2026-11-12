@@ -96,3 +96,43 @@ a) Answer before the speaker finishes, to save time  b) Hear the whole message b
 **24. (Sub lesson 18)** How many times may the drug-consequences text be read aloud, by the guide's rule?
 a) Once only  b) Two, up to three times, according to the learners' language background  c) Ten times
 **Answer: b)** — hearers come with different strengths in the language, so the reading is repeated.
+
+**25. (Sub lesson 19)** In the Grade 1 pupil book, how does a listening story stand on the page?
+a) As a title and a picture only — the story is read aloud to you  b) As a long printed text  c) As a song only
+**Answer: a) As a title and a picture only — the story is read aloud to you** — title + picture; the heard text is the teacher's reading, never invented here.
+
+**26. (Sub lesson 19)** Which story tells of a boy and his dove?
+a) መሐመድና ርግቡ  b) ጎል  c) ኳሳችን
+**Answer: a) መሐመድና ርግቡ** — Mohammed and his dove, Grade 1 p.5.
+
+**27. (Sub lesson 20)** What does ወጥመድ mean in The Clever Hare's words?
+a) A trap  b) A field  c) A basket
+**Answer: a) A trap** — the hare is nearly caught in a trap — ወጥመድ.
+
+**28. (Sub lesson 21)** In I Am Careful, which colours does the traffic light show?
+a) Red, yellow and green  b) Blue and white  c) Black and red
+**Answer: a) Red, yellow and green** — the road-safety story names the traffic-light colours.
+
+**29. (Sub lesson 22)** In The Faithful Friend, what does the cat decide?
+a) To eat the egg at once  b) Not to eat the egg  c) To chase the hen away
+**Answer: b) Not to eat the egg** — the hen's trick wins; the cat decides not to eat the egg.
+
+**30. (Sub lesson 23)** How does the Grade 2 book drill the word ሹራብ at Tsion's New Clothes?
+a) By its syllables: ሹ-ራ-ብ  b) By drawing it  c) By singing it backwards
+**Answer: a) By its syllables: ሹ-ራ-ብ** — the syllable-sounding drill, Grade 2 p.1.
+
+**31. (Sub lesson 24)** Which three jobs prepare a garden plot, in the book's order?
+a) ማለስለስ, ማፋሰሻ ቦይ, መመንጠር  b) Planting, eating, selling  c) Digging, sleeping, singing
+**Answer: a) ማለስለስ, ማፋሰሻ ቦይ, መመንጠር** — levelling, the drainage ditch, the seed bed — Grade 2 p.53.
+
+**32. (Sub lesson 25)** What is the masenqo's string made from?
+a) Cotton thread  b) Horsehair  c) Bamboo fibre
+**Answer: b) Horsehair** — the masenqo and the horse are friends because its string is horsehair.
+
+**33. (Sub lesson 26)** In Strength or Cleverness?, who wins the race?
+a) The hare  b) The tortoise — ዔሊ  c) The fox
+**Answer: b) The tortoise — ዔሊ** — the hare is sure she will win; the tortoise wins — Grade 2 p.134.
+
+**34. (Sub lesson 19)** Which Grade 1 listening story is about a game?
+a) ጎል  b) መኖሪያችን  c) ዘሀራ
+**Answer: a) ጎል** — Gol, Grade 1 p.35.

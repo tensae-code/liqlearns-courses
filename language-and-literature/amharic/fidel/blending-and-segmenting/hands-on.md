@@ -38,3 +38,6 @@ help, never as a label on the child.
   stones, not from memory.
 - **Small words first:** master 2-fidel splits before 3-fidel,
   and 3-fidel before 4-fidel words like ተመለከተ.
+
+## Added 2026-11-12 — split and blend
+Take እንደምናሸንፍ, split it into fidel on paper, shuffle, and blend it back whole against the clock.

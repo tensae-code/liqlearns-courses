@@ -44,3 +44,12 @@ Guess before you read on. Which house lasts longest? …
 
 Read it twice. First for the story. Then for fluency.
 Then say its meaning in one sentence of your own.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 13, Grade 1: pots on the road, and good advice: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 14, Grade 1: the children of our neighbourhood (serial story): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 15, Grade 1: more fluent stories and fables: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 16, Grade 2: washed shirts, sly mice and rainy nights: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 17, Grade 2: judges, patience and balanced food: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 18, Grade 2: dialogues — read them in two voices: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 19, Grade 2: competitions, telephones and kind animals: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

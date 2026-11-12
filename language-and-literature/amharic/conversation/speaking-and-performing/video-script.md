@@ -53,3 +53,6 @@ On top — one meaning. Underneath — another.
 Untie it slowly. What ELSE is it saying?
 That untying has methods — **የቅኔ አፈታት ዘዴዎች** —
 and you learn them poem by poem.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 9, Grade 2: telephones — matching, phrases, and finishing a call: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

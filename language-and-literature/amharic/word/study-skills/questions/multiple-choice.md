@@ -53,3 +53,15 @@ a) answer before the speaker finishes, to save time  b) avoid eye contact  c) he
 **13. (Sub lesson 11)** In the higher classes, every chapter ends with —
 a) oral revision questions (የክለሳ ጥያቄዎች)  b) a song  c) the next chapter's first page
 **Answer: a)** — the closing check, worked through before anyone moves on.
+
+**14. (Sub lesson 12)** ድንች (potato) goes in which column?
+a) Plants eaten for their root  b) Plants eaten for their fruit  c) Plants not eaten
+**Answer: a) Plants eaten for their root** — Grade 1 p.106.
+
+**15. (Sub lesson 12)** ፌስታል (plastic) waste goes with things that…
+a) Turn back to soil  b) Do not turn back to soil  c) Are eaten
+**Answer: b) Do not turn back to soil** — Grade 2 p.69.
+
+**16. (Sub lesson 12)** In the Grade 2 food web at p.108, እርጎ and አይብ are…
+a) Animal products  b) Plant products  c) Not foods
+**Answer: a) Animal products** — the classifying web, Grade 2 p.108.

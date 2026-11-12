@@ -267,6 +267,22 @@ Watch the ቈ family arrive, one form at a time:
 
 Now the chart is truly complete: the thirty-three families, the -ዋ forms, and these four derived families — every fidel the book teaches.
 
+
+## Sub lesson 10 — The Grade 1 book's own practice pages
+
+- Forming the families (Grade 1, p.4): the book's first writing
+  practice — form every ሀ-family and ለ-family fidel, tracing
+  first, then writing free, the way sub lessons 1–2 teach the
+  hand to move. This is the student book's own page for the
+  formation taught there from the workbooks.
+- Reading sentences with ኘ (p.28): the review reading — ትንኝ
+  ነከሰችኝ። ሁለተኛ ተገናኘን። Read each sentence whole; find the ኘ
+  words; say what each sentence says.
+- The mixed review grid (pp.40–41): a chart of all the families
+  learned so far, with gaps — fill each gap with its right
+  fidel, then read the review sentences: ከበሮ ተመታ። ኩኩ ሻሽ
+  አሠረች።
+
 ## Say it to your companion
 
 Read one whole family aloud to your companion — all seven forms, in order, no stopping. Then give a word for three of its forms. Then build a word from loose fidel while your companion watches, and let your companion read your word aloud. Swap: your companion builds, you read.

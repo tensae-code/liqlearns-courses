@@ -18,3 +18,8 @@ Sub lesson 2 questions from the type files. Pass mark: read the
 ten opposite pairs and, given one word, say or pick its opposite —
 መጣ → ሄደ, ጥቁር → ነጭ, ትልቅ → ትንሽ, ፈጣን → ቀርፋፋ — including
 telling ትልቅ's opposite (ትንሽ) apart from its same-word (ግዙፍ).
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 3 — The Grade 1 book's opposite matching
+Sub lesson 3 questions from the type files. Pass mark: match ጠባብ and ደስታ to their opposites at the book's own page.

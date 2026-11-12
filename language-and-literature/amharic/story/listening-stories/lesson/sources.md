@@ -29,6 +29,10 @@ countries: Ethiopia
 
 **Book 18:** *Amharic as a Federal Language, Teacher Guide, Grade 10 (አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, አሥረኛ ክፍል)* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University, first edition 2014 E.C., prepared under GEQIP-E, 116 PDF pp. Page rule: printed page = PDF page − 5 (body folios run 1–92). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g10-teacher-placements.md. No Grade 10 student book exists in the records — this guide is evidence only, never a pupil book.
 
+**Book 19:** *Grade 1 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; authors ሐዋዝ ወልደየስ በየነ, ጌታቸው ተፈራ ወልዴ, ዚነት አህመድ ሙሄ; 148 PDF pp., printed pp.1–138 + front matter. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g01-student-placements.md.
+
+**Book 20:** *Grade 2 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; authors አበበች ተስፋዬ ዳምጤ, እሸቴ መብራት አንዳርጌ; 160 PDF pp., printed pp.1–150 + front matter. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g02-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ato Nuradin and His Family (አቶ ኑራዲንና ቤተሰባቸው) (teacher guide — evidence): full listening text; the printed comprehension box asks what Ato Nuradin looks like and what he does | Ethiopia, *Grade 1 Amharic Teacher Guide*, printed p.5 |
@@ -91,7 +95,69 @@ countries: Ethiopia
 | Sub lesson 18 — Migration and Its Suffering (ስደትና መከራው) (teacher guide — evidence): listening with note-taking; the guide's reference list credits Negash Mohammed & Lidet Abebe, ስደትና መከራው, broadcast on a German radio station | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed pp.85–86 (placement 59) |
 | Picture 8950 / Picture 8951 / Picture 8952 / GIF 8997 — drawn for this growth from the rows above (scenes and objects only — no likeness of any named person is drawn) | Drawn renders made in this build (PIL, cream-paper style), from Books 17 and 18 above |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Sub lessons 1–6 stand on teacher-guide evidence only, as the lines above record. Sub lessons 7–12 (the 2026-11-12 growth) change the count: the Grade 5–8 student books' own listening lessons are pupil-taught, and they stand in sub lessons 7–11 beside guide material that is labelled (teacher guide — evidence) part by part; sub lesson 12 stands on teacher-guide evidence wholly and is labelled so. Sub lessons 13–18 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the complete federal Grade 9 and Grade 10 guides (Books 17–18); there are no Grade 9–10 student books in the records, so nothing in sub lessons 13–18 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils. Every plot in this lesson comes from a placement — none is invented; where a placement gives method but no plot, the lesson builds the method and the row above says so.
+| Sub lesson 19 — ታታሪዋ ባዩሽ (pupil-book part) (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.1 |
+| Sub lesson 19 — መሐመድና ርግቡ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.5 |
+| Sub lesson 19 — ደብሪቱና አየለ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.9 |
+| Sub lesson 19 — ግድግዳው ይፍረስ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.17 |
+| Sub lesson 19 — መኖሪያችን (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.24 |
+| Sub lesson 19 — የነሰለሞን ቤት (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.28 |
+| Sub lesson 19 — ጎል (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.35 |
+| Sub lesson 19 — አየለና በለጡ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.41 |
+| Sub lesson 19 — ጅብና ትምህርት (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.46 |
+| Sub lesson 20 — ትዕቢተኛ ይሸነፋል (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.53 |
+| Sub lesson 20 — የዶሮና የአሞራ ጓደኝነት (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.60 |
+| Sub lesson 20 — የማይተማመኑ ጓደኞች (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.64 |
+| Sub lesson 20 — ሣራና መሐመድ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.73 |
+| Sub lesson 20 — ብልጧ ጥንቸል + vocabulary ሾለከች, ወጥመድ, ችኩል, እግሬ አውጪኝ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.76–79 |
+| Sub lesson 21 — ጠንቃቃ ነኝ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.80 |
+| Sub lesson 21 — ትራፊኩ ጉሬዛ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.84 |
+| Sub lesson 21 — ኳሳችን (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.87 |
+| Sub lesson 21 — የራበው ጅብ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.91 |
+| Sub lesson 21 — ሯጯ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.94 |
+| Sub lesson 21 — ድመትና አህያ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.98 |
+| Sub lesson 22 — የድንችና የካሮት ጠብ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.103 |
+| Sub lesson 22 — አገልግሎታችን ይታወቅ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.106 |
+| Sub lesson 22 — ተወዳጇ ሰዓዳ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.109–110 |
+| Sub lesson 22 — የተበከለው ወንዝ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.114 |
+| Sub lesson 22 — ጎበዙ ያሬድ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.117–118 |
+| Sub lesson 22 — እንጠያየቅ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.121–122 |
+| Sub lesson 22 — ተንኮለኛዋ ድመት (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.126 |
+| Sub lesson 22 — ታማኟ ጓደኛ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.130 |
+| Sub lesson 22 — ውሻና አውራ ዶሮ (pupil-book part) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.134 |
+| Sub lesson 23 — የጽዮን አዳዲስ ልብሶች + clothing vocabulary + syllable drill ሹ-ራ-ብ, ቀ-ሚ-ስ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.1 |
+| Sub lesson 23 — ቀኑብሽ በገና በዓል (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.6 |
+| Sub lesson 23 — ተሸላሚው አብዱ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.10–11 |
+| Sub lesson 23 — ብልኋ ጉንዳን (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.16 |
+| Sub lesson 23 — የዓመቱ ወቅቶች (listening passage) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.20–21 |
+| Sub lesson 23 — አስካልና ሄኖክ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.25 |
+| Sub lesson 24 — የራበው ውሻ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.35 |
+| Sub lesson 24 — በቅሎ ለምን መካን ሆነች? (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.38–39 |
+| Sub lesson 24 — ሁለገቡ ፍራፍሬ (the banana) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.44 |
+| Sub lesson 24 — ፈጣኗ ሯጭ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.48 |
+| Sub lesson 24 — የጓሮ አትክልት ቦታ አዘገጃጀት (procedural listening) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.53 |
+| Sub lesson 24 — ንጽህና ለጤና (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.58 |
+| Sub lesson 24 — የወፏ ትዝብት (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.62 |
+| Sub lesson 24 — ውርሳችሁ ምክሬ ነው (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.66 |
+| Sub lesson 25 — ባህላዊ ዘፈኖች (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.71 |
+| Sub lesson 25 — የማሲንቆና የፈረስ ጓደኝነት (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.76 |
+| Sub lesson 25 — እስክስታ (listening lesson — the shoulder dance) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.81 |
+| Sub lesson 25 — ዘሀራ + vocabulary ይቅርታ, አመሰግናለሁ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.87 |
+| Sub lesson 25 — የመልካም ሥነምግባር መገለጫዎች (listening passage) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.92–93 |
+| Sub lesson 25 — ርህራሄን መማር + antonym matching (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.98 |
+| Sub lesson 25 — አተር + spice list (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.104 |
+| Sub lesson 25 — የዶሮ ወጥ አሠራር (procedural listening) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.109 |
+| Sub lesson 25 — ምግብና ጥቅሙ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.114 |
+| Sub lesson 26 — ሬዲዮና ቴሌቪዥን (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.119 |
+| Sub lesson 26 — የኮምፒዩተር ክፍለጊዜ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.124–125 |
+| Sub lesson 26 — መገናኛ ብዙኃን (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.129 |
+| Sub lesson 26 — ጉልበት ወይስ ብልሃት (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.134 |
+| Sub lesson 26 — ዋልያና ቀይ ቀበሮ (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.139 |
+| Sub lesson 26 — ይህን ታውቁ ኖሯል? (elephant facts) (pupil-book part) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.144 |
+| Picture 21200 / GIF 21204 — drawn for this fix build (listening prediction board; eskista shoulder dance) | Drawn renders made in this build (PIL, cream-paper style), from Books 19 and 20 above |
+
+Fix-build honesty note (2026-11-12): sub lessons 19–26 are pupil-book parts from Books 19–20 — the Grade 1 and Grade 2 student books carry these listening stories as title + picture + the book's own questions only; the heard texts live in the teacher guides and are NOT invented here. The lesson as a whole already counts as taught through its earlier pupil-book parts (the G5–G8 student books in sub lessons 7–11); sub lessons 19–26 are pupil-book parts in the same count, part by part as the rows above record. GIF 21204 is a drawn render (20 frames, exactly 2.000 s, 480×270); its frames 1/7/13/20 were read full-frame before filing — the shoulders rise and fall alternately and the title renders in the Ethiopic font. Picture 21200 was looked at before filing.
+
+**Acceptance count: taught in 1 country (Ethiopia).** Sub lessons 1–6 stand on teacher-guide evidence only, as the lines above record. Sub lessons 7–12 (the 2026-11-12 growth) change the count: the Grade 5–8 student books' own listening lessons are pupil-taught, and they stand in sub lessons 7–11 beside guide material that is labelled (teacher guide — evidence) part by part; sub lesson 12 stands on teacher-guide evidence wholly and is labelled so. Sub lessons 13–18 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the complete federal Grade 9 and Grade 10 guides (Books 17–18); there are no Grade 9–10 student books in the records, so nothing in sub lessons 13–18 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils. Sub lessons 19–26 (the 2026-11-12 fix build) are pupil-book parts from the Grade 1 and Grade 2 student books (Books 19–20), taught exactly as those books carry them — title, picture and the book's own questions; their heard texts are not in the student books and are not invented here. Every plot in this lesson comes from a placement — none is invented; where a placement gives method but no plot, the lesson builds the method and the row above says so.
 
 Honesty notes: (1) All stories are told as summaries in the lesson's own words — never the guides' text. The Martyr Mother is handled gently and as a summary only, as its brief orders. (2) The Grade 1, 2, 3 and 4 teacher-guide files are truncated scans: the G1 guide ends at printed p.35, G2 at p.34, G3 at p.31 and G4 at p.42; every story used here stands on a page inside those secured spans, and nothing from past the truncation is claimed. (3) In the G4 siblings story, the siblings' printed names were read uncertainly by the placements reader (ቤተሰብም/ቤተልህም (?) and ፍቅር, as printed); the lesson therefore tells the story without leaning on those names, exactly as the placement flags them. (4) Picture 8318 (cotton, leather, wool) is also filed in the Reading Stories lesson's sources as its holiday-clothes materials board; it was made for this build and looked at before filing. (5) Pictures 8310–8315 and 8318 and GIF 8333 are drawn renders made for this lesson, looked at before filing — no text errors found after the fixes recorded in the build log.
  (6) The Grade 5–8 teacher-guide files are also truncated scans: the G5 guide's secured file ends at printed p.42, the G6 guide's at p.36, the G7 guide's holds printed pp.1–46 only, and the G8 guide's holds printed pp.1–38 only; every guide item used in sub lessons 9–12 stands inside those spans, and the G5 guide's Unit 10 (ስነ ቃል, Oral Literature, printed p.133 in its contents) is NOT in the file and is not used. (7) Three placements give method but no plot — Traditional Medicine (a debate), The Bride and Groom (a description) and The Wonderful Mountains (questions for an unprinted heard text); the lesson builds exactly those methods and invents no plot for them, as their rows record. (8) The G6 teacher guide's መግቢያ twice calls its companion book "የ7ኛ ክፍል" (Grade 7) — a template carry-over in the book itself; its cover, title and content are Grade 6, and it is cited as Grade 6. (9) Pictures 8600–8605, 8607, 8608 and GIF 8606 are drawn renders made for this growth, in the range 8600–8659; every picture was looked at in full before filing (8601, 8603 and 8604 were re-drawn after the first look — detached heads joined, wheel-like feet removed) and GIF 8606's frames 1/7/13/20 were checked full-frame (the GIF was re-made once so its title renders in the Ethiopic font and its nine counters read in two rows); the GIF is 20 frames, exactly 2.000 s, 480×270.

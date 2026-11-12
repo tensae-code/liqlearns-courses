@@ -32,3 +32,8 @@ Sub lesson 8 questions from the type files. Pass mark: set the two sizes side by
 
 ## Sub lesson 9 — Fiction met whole: heard, read, and one whole book (teacher guide — evidence)
 Sub lesson 9 questions from the type files. Pass mark: run Enatitu's full stretch in order — predict, timed silent reading, answers in a group table, report; name ሰመመን and ሸክም and their kinds of work; and state the extensive-reading system whole — one book, two weeks or more, a test of 10 or 15 marks.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 10 — Grade 1–2: review, draw-and-label, and finishing what is started
+Sub lesson 10 questions from the type files. Pass mark: answer the ዱባና ድንች review questions, complete a started dialogue in both voices, and sort animals into suckle/lay-eggs.

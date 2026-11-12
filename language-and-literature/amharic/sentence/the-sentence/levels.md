@@ -37,3 +37,8 @@ Pass mark: tell a ነፃ ምዕላድ (stands alone — ላም, ሴት) from a �
 
 ## Sub lesson 12 — Affirmative to negative, grown (teacher guide — evidence)
 Pass mark: convert ገሰፀ to አልገሰፁም exactly as keyed, and choose between the verb wrap, አይደለም (is not) and የላቸውም (they do not have) for an action, a being, or a having.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 13 — Grade 2: punctuation inside real sentences
+Sub lesson 13 questions from the type files. Pass mark: punctuate the cleanliness chapter's sentences with ።, ? and !, each where its feeling asks.

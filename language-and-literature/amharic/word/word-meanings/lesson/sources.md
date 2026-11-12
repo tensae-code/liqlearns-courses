@@ -26,6 +26,13 @@ countries: Ethiopia
 | Sub lesson 5 (teacher guide — evidence) — denotative and connotative meanings of a poem's words: the same sorting applied inside poetry | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.75 |
 | Picture 9054 / GIF 9055 — drawn for Sub lesson 5 from the rows above | Drawn renders made in this build (PIL, cream-paper style), from Book 5 above; GIF 9055 frame-checked at frames 1/7/13/20 (bolt growing, then the shocked face) before filing |
 
+| Sub lesson 6 — vocabulary writing: ማቋረጫ, እግረኛ, ሰላም, ተያዩ, ተሣሣቁ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.82 |
+| Sub lesson 6 — vocabulary sets of ትርምሱ / የገበያው ቀን / የዐዞ ፍርሃት / የምንወደው ጓደኛችን / ጓደኛችን ተሸለመ! / ጦጢት በጎሽ ቤት / መተባበር (each set in its story's row in Reading Passages too) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.85, 88–89, 110–111, 115–116, 119, 122–123, 127 |
+| Sub lesson 6 — vocabulary writing: ኃይል, ፊና, ምክክር, ግምገማ, ኮሚቴ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.105 |
+| Sub lesson 7 — match foods to cooking verbs (ገንፎ ይገነፋል…) + phrase dictation | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.116 |
+| Sub lesson 7 — what each device is used for (በስልክ → ይደወላል…) + list digital devices | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.127–128 |
+| Sub lesson 7 — what each instrument is made from + complete festival phrases | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.74–75 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) Sub lessons 1, 3 and 4 rest on teacher-guide evidence (the guides print the definitions, the worked example, the figurative table and the answer key); Sub lesson 2 is placed in the student textbooks themselves, so the lesson as a whole is pupil-taught in Ethiopia through its student-book part and teacher-evidenced in the rest — the table labels each part. (2) Three rows of the Grade 4 guide's figurative table (ሞለጭ, አባብ, መስለል) come through the scanned guide with glosses that are only partly clear in English; the lesson keeps those rows marked "(as placed)" with the guide's own Amharic glosses, and teaches the four clear rows (ኤርግብ, አንበሳ, ቆቅ, ቡግ) in full. No gloss was invented for the unclear rows. (3) The G3 teacher guide's file is itself partial (it ends at printed p.31 of a longer book) — nothing from beyond its placed pages is used here. (4) Pictures 8450, 8451, 8452 and GIF 8460 are drawn cards made for this lesson from the placed sentences and table; GIF 8460 was frame-checked at frames 1/7/13/20 (boy walking to the school, then the author writing) before filing.

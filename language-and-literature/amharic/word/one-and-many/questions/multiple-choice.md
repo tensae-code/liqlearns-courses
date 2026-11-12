@@ -29,3 +29,15 @@ a) spelling only  b) number, gender and person (መደብ)  c) length
 **7. (Sub lesson 4)** መምህራን, the plural of መምህር, is —
 a) made with -ኦች  b) an older Ge'ez plural (-አን), named here with its teaching deferred  c) a singular word
 **Answer: b) an older Ge'ez plural** — named exactly as the teaching names it; no Ge'ez rule is built in this lesson.
+
+**8. (Sub lesson 5)** ክራር in its plural is…
+a) ክራሮች  b) ክራርኦች only  c) ክራርዎች only — never ክራሮች
+**Answer: a) ክራሮች** — the review's own plural, Grade 2 pp.85–86.
+
+**9. (Sub lesson 5)** The pp.85–86 review belongs to which chapter?
+a) Traditional music  b) Digital devices  c) Seasons
+**Answer: a) Traditional music** — the instruments review.
+
+**10. (Sub lesson 5)** A plural in this review is made by…
+a) Adding the many-ending to the word  b) Changing the first fidel  c) Doubling the word
+**Answer: a) Adding the many-ending to the word** — the -ኦች/-ዎች work of sub lessons 1–2, at the review page.

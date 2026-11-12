@@ -29,3 +29,6 @@ I do not tell you. I show you — and you see it.
 
 Find the power sentence. Plan with a ቢጋር.
 Choose your way. Then write so the reader sees.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 5, Grade 2: describing-word phrases: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

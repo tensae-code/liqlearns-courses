@@ -147,3 +147,6 @@ page in lesson/sources.md (Grade 2 and Grade 3 student textbooks;
 Grade 3 and Grade 4 teacher guides — evidence). A teacher sending
 this lesson sends the lesson and its question list as they are —
 choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 5 — Grade 1–2: change a fidel, drop a letter, double a word: change the first fidel of ልብስ the book's way, and say the doubled word of the ጧት ጧት model.

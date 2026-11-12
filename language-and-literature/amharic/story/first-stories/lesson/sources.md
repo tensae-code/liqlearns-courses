@@ -8,6 +8,8 @@ countries: Ethiopia
 
 **Book 3:** *Assessment and Support for Students with Special Needs in Pre-primary Schools* (teacher toolkit — SUPPORTING) — Ethiopia, Federal Ministry of Education, 2017, 36 pp. Printed page = PDF page. Read in full in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/pre-primary/supports-placements.md.
 
+**Book 4:** *Grade 1 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; authors ሐዋዝ ወልደየስ በየነ, ጌታቸው ተፈራ ወልዴ, ዚነት አህመድ ሙሄ; 148 PDF pp., printed pp.1–138 + front matter. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g01-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Butiye and the flower: story questions, fill the gaps from the box (ቡጥዬ Butiye and her flower; it grew because she watered it; plant flowers at home too) | Ethiopia, *Pre-Primary Practice Workbook, Level Two (Age 6)*, printed p.18 |
@@ -17,6 +19,8 @@ countries: Ethiopia
 | Sub lesson 4 — Gobez Meseret (ጎበዟ መሰረት, "Clever Meseret") (SUPPORTING): the hygiene story of the 10-year-old village girl who never eats without washing her hands, washes with soap and water after the toilet, keeps her nails cut, brushes her teeth, covers her nose/mouth when sneezing and coughing, held up by the community as the example | Ethiopia, *ToT Training for Pre-Primary Education Teachers* (SUPPORTING), Session 4.1 story text, PDF pp.68–69 |
 | The lesson's run shape (SUPPORTING) — the three-pass story method: first the teacher tells the story, then the children speak it one by one, then the children act it as drama; assessment = retelling, recalling key words | Ethiopia, *ToT Training for Pre-Primary Education Teachers* (SUPPORTING), Session 4.1 Activity 1, PDF pp.67–69 |
 | Hands-on "If it is hard" support shape (SUPPORTING) — retell a very short story as a check; pictures first; small steps | Ethiopia, *Assessment and Support for Students with Special Needs in Pre-primary Schools* (SNE toolkit), printed pp.24–27 |
+
+| Sub lesson 5 — care-of-book message to pupils (cover the book, keep dry/clean, use a bookmark) — reading for a purpose | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.ii |
 
 **Acceptance count: taught in 1 country (Ethiopia).** The three workbook stories are pupil-taught; the Meseret story and the three-pass method are SUPPORTING teacher material and do not add to the count.
 

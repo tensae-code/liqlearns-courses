@@ -164,3 +164,6 @@ Amharic Student Textbook (Amhara National Regional State Education
 Bureau, © 2015 E.C.) — its own teaching order, its -ዋ sets and its
 derived families, cited the same way in lesson/sources.md. A teacher sending this lesson sends the lesson and
 its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 10 — The Grade 1 book's own practice pages: form the ሀ and ለ families from the book's page, read the ኘ sentences, and fill the mixed grid's gaps.

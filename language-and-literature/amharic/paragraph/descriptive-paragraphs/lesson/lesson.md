@@ -136,6 +136,16 @@ expand two outline points into a short paragraph — Sub lesson
 The descriptive rule, then: **do not tell the reader the scene
 — show it, word by word, until they see it.**
 
+
+## Sub lesson 5 — Grade 2: describing-word phrases
+
+Build adjective + noun phrases on the book's model (Grade 2,
+p.15): ነጭ ሸሚዝ — a white shirt. The describing word comes
+first; the thing follows. Go on through the book's row: ልብስ,
+ፎጣ, ካልሲ, ጫማ — clothes, a towel, socks, shoes — each with its
+describing word. These phrases dress the cotton→clothes
+concept web drawn in Study Skills at the same page.
+
 ## Say it to your companion
 
 Read your companion a paragraph you wrote. Your companion must

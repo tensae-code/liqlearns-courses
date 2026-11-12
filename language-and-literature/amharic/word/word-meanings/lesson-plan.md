@@ -184,3 +184,7 @@ page in lesson/sources.md (Grade 3 and Grade 4 teacher guides —
 evidence; Grade 3 and Grade 4 student textbooks). A teacher sending
 this lesson sends the lesson and its question list as they are —
 choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 6 — Grade 1: the stories' own word sets: give the meaning of ማቋረጫ, እግረኛ and ኮሚቴ, and use ክበብ, ዕቅድ, ሽልማት in sentences.
+- Sub lesson 7 — Grade 2: cooking verbs and device uses: match ገንፎ, ቂጣ, ጥብስ, ወጥ and ጠላ to their cooking verbs, and say what a phone, a cassette and a camera are used for.

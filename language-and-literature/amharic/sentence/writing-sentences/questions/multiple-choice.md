@@ -17,3 +17,15 @@ a) write quickly before you forget  b) listen in silence, then hear it again  c)
 **4. (Sub lesson 3)** "ጨዋታ እወዳለሁ መጫወት" is hard to read because —
 a) the words are too long  b) the words are not in their places  c) it has no picture
 **Answer: b) the words are not in their places.**
+
+**5. (Sub lesson 4)** ፍሬን means…
+a) A brake  b) Advice  c) Danger
+**Answer: a) A brake** — the given-word set, Grade 1 p.90.
+
+**6. (Sub lesson 4)** ምክር means…
+a) Advice  b) A brake  c) Yourselves
+**Answer: a) Advice** — Grade 1 p.90.
+
+**7. (Sub lesson 4)** Jumbled-sentence repair puts the words…
+a) In their right order  b) In alphabetical order  c) In reverse
+**Answer: a) In their right order** — Grade 2 pp.85–86.

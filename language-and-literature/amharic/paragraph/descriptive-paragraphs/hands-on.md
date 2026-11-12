@@ -27,3 +27,6 @@ stall, the school gate. Say three flat sentences about it
 ("it is big", "it is far"). Now trade each flat sentence for a
 seeing sentence with ምስልከሳች ቃላት (imagery words) until a
 listener who shuts their eyes can see your scene.
+
+## Added 2026-11-12 — describing pairs
+Take three clothes at home and give each its describing-word phrase on the ነጭ ሸሚዝ model.

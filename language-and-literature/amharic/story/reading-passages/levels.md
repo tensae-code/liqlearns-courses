@@ -52,3 +52,14 @@ Sub lesson 15 questions from the type files. Pass mark: name the three challenge
 
 ## Sub lesson 16 — Migration — the reading (teacher guide — evidence)
 Sub lesson 16 questions from the type files. Pass mark: explain what was grasped in your own words and write the migration passage's themes, with the passage closed.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 17 — Grade 1: short passages
+Sub lesson 17 questions from the type files. Pass mark: say what each little passage is about in one sentence, drum, game and fruit.
+
+## Sub lesson 18 — Grade 1: comprehension passages
+Sub lesson 18 questions from the type files. Pass mark: answer each passage's questions from the passage, and use its new words in a sentence.
+
+## Sub lesson 19 — Grade 2: comprehension passages and a classification
+Sub lesson 19 questions from the type files. Pass mark: write the Lettuce-and-Kale comparison table and sort six instruments into string, wind and hit-for-sound.

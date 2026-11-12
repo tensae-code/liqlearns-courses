@@ -13,6 +13,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **The colon and the slash** — ኹለት ነጥብ ከሰረዝ (፡-) announces a list of points inside a sentence; እዝባር (/) shortens compound words only, and separates dates and reference numbers.
 4. **Dash, parentheses, ellipsis** — ሠረዝ (–) breaks a thought; ቅንፍ ( ) pockets a small explanation; ሦስት ነጠብጣቦች (…) leave words out or trail speech off.
 5. **Abbreviations with one dot** — አንድ ነጥብ (.) shortens a word two ways — first two letters (መስ.) or first and last letters (ወሮ.) — and whole names by their initials (እ.ማ.ማ.ኮ); only common, accepted shortenings may be used.
+6. **Quotation marks first met — and the Corona paragraph** — in the Grade 3 book, quotation marks “ ” are first introduced as the mark of speech taken from another person or book, and the learner punctuates a whole paragraph about ኮረና (corona/COVID-19) using ? ። ! ፣ and “ ” together.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -66,3 +67,4 @@ Paper and a pencil. Nothing else.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. One part (the teacher guide's ቅንፍና note) is teacher-guide evidence, labelled in sources.md; everything else is pupil-taught in the Grade 5 and Grade 6 student books.
+**Growth note (2026-11-12, Amharic fix build):** Sub lesson 6 added — quotation marks as the Grade 3 student book first introduces them (printed p. 11), with that book's own Corona-paragraph punctuation exercise using ? ። ! ፣ and “ ” together. The audit found the quotation-mark content taught but cited only to Grade 5 p. 115, with the Grade 3 introduction and its exercise missing; Sub lesson 6 stocks both, cited to Grade 3 p. 11. The first five sub lessons are unchanged.

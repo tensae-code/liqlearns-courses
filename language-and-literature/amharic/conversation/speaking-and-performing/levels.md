@@ -29,3 +29,8 @@ Sub lesson 7 questions from the type files. Pass mark: meet an oral poem by ear 
 
 ## Sub lesson 8 — A first meeting with qene (ቅኔ)
 Sub lesson 8 questions from the type files. Pass mark: for a short qene poem, state the surface meaning plainly and hunt the hidden second meaning by a method of interpretation (የቅኔ አፈታት ዘዴዎች), naming the words that carry it (teacher guide — evidence).
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 9 — Grade 2: telephones — matching, phrases, and finishing a call
+Sub lesson 9 questions from the type files. Pass mark: match the five device names to their pictures and finish a started telephone call with a partner.

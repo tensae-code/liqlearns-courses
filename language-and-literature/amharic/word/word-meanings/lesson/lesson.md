@@ -158,6 +158,42 @@ words this way: one word in a poem carries its direct meaning
 and its layered meaning at the same time, and the reader's
 job is to hold the two apart.
 
+
+## Sub lesson 6 — Grade 1: the stories' own word sets
+
+Learn each set with its story, the book's way — the word, its
+meaning, and a sentence from the story's world.
+
+- From ዜብራው (Grade 1, p.82): ማቋረጫ (a crossing place), እግረኛ
+  (a pedestrian — one who goes on foot), ሰላም (peace/safety),
+  ተያዩ (they saw each other), ተሣሣቁ (they greeted one another).
+- From ብልጧ ጥንቸል (pp.76–79): ሾለከች, ወጥመድ, ችኩል, እግሬ አውጪኝ —
+  the hare's words, taught in Listening Stories too.
+- From ትርምሱ (p.85): ጠባብ, አደጋ, ታክሲ, ጋሪ, ትራፊክ.
+- From የገበያው ቀን (pp.88–89): መሸለም, ተጓዥ, አላፊ አግዳሚ, መጫን.
+- From የዛፉ ሥር ምክር (p.105): ኃይል (strength), ፊና, ምክክር
+  (consulting together), ግምገማ (evaluation), ኮሚቴ (a committee).
+- From የዐዞ ፍርሃት (pp.110–111): ዕጣ, ኅብረት, ማደን.
+- From የምንወደው ጓደኛችን (pp.115–116): ዘወትር, ዋና, ልማድ, ምክር.
+- From ጓደኛችን ተሸለመ! (p.119): ክበብ, ዕቅድ, ሽልማት — in sentences.
+- From ጦጢት በጎሽ ቤት (pp.122–123): ወቀሳ, ክኒን, ማዘን.
+- From መተባበር (p.127): ተባበረ, ሸክም, ዘዴ.
+
+## Sub lesson 7 — Grade 2: cooking verbs and device uses
+
+- Match each food to the verb that cooks it (Grade 2, p.116):
+  ገንፎ ይገነፋል (genfo is stirred into its mound), ቂጣ ይጋገራል
+  (qita is baked), ጥብስ ይጠበሳል (tibs is fried), ወጥ ይሠራል (wat is
+  made), ጠላ ይጠመቃል (tela is brewed). Then take dictation of the
+  book's phrases.
+- Say what each device is used for (pp.127–128): በስልክ ይደወላል
+  (with a phone, one calls), ፊልም ይታያል (a film is watched), and
+  so on through በካሴት and በካሜራ. Then list the digital devices
+  you know, the book's way.
+- Say what each instrument is made from (pp.74–75): ዋሽንት needs
+  shenbeko — and go on through ከበሮ, ማሲንቆ, ክራር; then complete
+  the festival phrases, with በዓል ይከበራል as the model.
+
 ## Say it to your companion
 
 Explain አውዳዊ ፍቺ to your companion in your own words. Then

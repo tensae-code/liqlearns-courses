@@ -53,3 +53,6 @@ nothing. Hearing-impaired learners are given the listening text
 to read and answer in writing, and blind learners answer orally
 — the guides' own inclusion directions, kept here as help, never
 as a label on the child.
+
+## Added 2026-11-12 — pupil-book listening at home
+Tell one sub lesson 19–26 story title to someone at home, show them an object or drawing for its picture, let them guess, then tell them what the book asks about it.

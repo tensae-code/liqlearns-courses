@@ -74,3 +74,6 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 4 — Grade 1–2: the books' own sentence sets: make one sentence each with ራሳችሁን, ምክር, አደጋ and ፍሬን, and repair the instruments review's jumbled sentences.

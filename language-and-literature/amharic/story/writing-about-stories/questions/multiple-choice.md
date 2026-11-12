@@ -49,3 +49,15 @@ a) One story, few characters, narrow setting  b) A single narrative line only  c
 **12. (Sub lesson 9)** In extensive reading (መጠነ ሰፊ ንባብ), the test on the chosen book is worth —
 a) 2 or 3 marks  b) 10 or 15 marks, counted like a monthly or semester test  c) No marks at all
 **Answer: b)** — readers gain the marks; the book is read as homework over two weeks or more.
+
+**13. (Sub lesson 10)** What writing follows the review questions on ዱባና ድንች?
+a) Draw one of them and label the drawing  b) Copy the story twice  c) Write a letter
+**Answer: a) Draw one of them and label the drawing** — Grade 1 p.79.
+
+**14. (Sub lesson 10)** In the Grade 2 classification, the night bird (የሌሊት ወፍ) goes with animals that…
+a) Lay eggs  b) Suckle their young  c) Live in water
+**Answer: b) Suckle their young** — it suckles its young like a human — Grade 2 pp.137–138.
+
+**15. (Sub lesson 10)** When you complete a started dialogue, what must each new line do?
+a) Answer the line before it  b) Repeat the first line  c) Change the story
+**Answer: a) Answer the line before it** — the horse/mule completion, Grade 1 p.137.

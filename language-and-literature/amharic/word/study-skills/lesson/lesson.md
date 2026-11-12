@@ -306,6 +306,28 @@ teacher:
 A learner who can question themselves does not need to fear
 anyone else's questions.
 
+
+## Sub lesson 12 — Grade 1–2: classifying webs and tables
+
+- Sort plants by how we eat them (Grade 1, p.106): a table of
+  plants eaten for their root against plants eaten for their
+  fruit — ድንች against ብርቱካን as the model — then draw and
+  label ድንች, ካሮት, ፓፓያ, ብርቱካን.
+- A web that classifies foods (Grade 2, p.108): animal products
+  against plant products — እርጎ and አይብ on one side, ፓፓያ and
+  ብርቱካን on the other — then, in a group, write one food's
+  preparation and read it out.
+- Sort waste (Grade 2, p.69): things that turn back to soil
+  against things that do not — paper against ፌስታል (plastic).
+- The cleanliness webs (Grade 2, p.61): two webs side by side —
+  keeping yourself clean, and keeping your surroundings clean —
+  drawn while you rewrite the book's sentences with their right
+  punctuation (that punctuation work lives in The Sentence).
+- The cotton web (Grade 2, p.15): the concept web (ቢጋር) that
+  runs from cotton to clothes; its describing-word phrases
+  (ነጭ ሸሚዝ and its brothers) are taught in Descriptive
+  Paragraphs at the same page.
+
 ## Say it to your companion
 
 Show your companion the web and the chain you built in this

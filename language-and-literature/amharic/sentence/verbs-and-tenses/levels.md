@@ -16,3 +16,8 @@ Pass mark: in አዜብ ለእናቷ ብር ላከች and ሰውየው ለልጁ
 
 ## Sub lesson 5 — One verb, many persons
 Pass mark: say the whole በላ family — በላሁ, በላህ, በላሽ, በላች, በላን, በላችሁ, በሉ — from the pronouns alone, and put the matching ending on ሰበረ for እኔ and እርሷ.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 6 — Grade 2: verb patterns
+Sub lesson 6 questions from the type files. Pass mark: give ወደቀች's pattern ending, turn ቀረበ into its doing-now form, and give ይጨምራል's base verb.

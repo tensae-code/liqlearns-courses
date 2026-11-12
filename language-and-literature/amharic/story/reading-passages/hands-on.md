@@ -49,3 +49,6 @@ Read the passage in pairs, a paragraph each; keep the word box
 beside you for the completion task, as the guide allows; answer
 orally first, then write. The guide's own order: pre-reading
 questions, reading, then the tasks — never the tasks cold.
+
+## Added 2026-11-12 — sort the instruments
+On paper cards, write ክራር, ዋሽንት, ከበሮ, ማሲንቆ, መለከት, አታሞ and sort them into string, wind and hit-for-sound piles from sub lesson 19.

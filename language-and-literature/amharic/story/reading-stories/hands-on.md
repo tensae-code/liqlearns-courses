@@ -30,3 +30,6 @@ Hear the story read aloud once before reading it yourself;
 read in pairs, taking turns by paragraph; keep the pictures in
 front of you while you retell. Small steps, in the books' own
 order — hear it, read it together, read it alone.
+
+## Added 2026-11-12 — read the serial story in parts
+Read the four parts of የሰፈራችን ልጆች on four days; after each part, close the book and guess the next part aloud before you read on.

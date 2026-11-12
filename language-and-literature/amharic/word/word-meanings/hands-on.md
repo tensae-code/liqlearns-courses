@@ -29,3 +29,6 @@ words, and two shuffled non-words in the style of ስለጠል.
 Spread the slips out. A partner judges each slip with the two
 tests — sounds in order? gives a meaning? — and sorts them
 into WORD and NOT A WORD piles.
+
+## Added 2026-11-12 — cooking-verb pairs
+Say a food at home — ገንፎ, ቂጣ, ጥብስ, ወጥ, ጠላ — and answer with its cooking verb, the way sub lesson 7 matches them.

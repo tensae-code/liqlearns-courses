@@ -90,6 +90,26 @@ Last, sort words **by their sounds**.
 
 **Rhyme to finish.** Some word sets sing: መናጩ · ዋናጩ · ቂናጩ. Chant them like music — rhyming words are sorting by sound, done by ear.
 
+
+## Sub lesson 6 — The Grade 1 book's blending pages, page by page
+
+The strand above teaches blending from chosen pages. Here are
+the book's own blending pages that stand between them — blend
+every row aloud.
+
+- ቀ/በ words and sentences (Grade 1, p.20): ቄብ, ቦቢ, ቡሄ — then
+  whole sentences: ቦቢ ቀረ። ማሩ ሱሪ ለበሰ።
+- Build and blend (p.23): ቡቺ, ችቦ, ቱታ, ባቲ, ቃታ; sentences about
+  clothes — ሰብለ ቱታ ለበሰች። — and write one modelled sentence
+  the book's way.
+- ዐ/ዘ/ዠ blending (p.39): ዕርቅ, ዒላማ, ዘገር, ዥግራ.
+- Mixed rows of የ/ደ/ጀ (p.45): የደጀ, ዪዲጂ, ጂዳ… — blend the rows,
+  then build words of your own from the three families.
+- The stories' long words (p.71): split እንደምናሸንፍ,
+  አስተማሪዎችና, በትምህርትቤታችን into their fidel, blend them back
+  whole — then do the page's writing: list the seedling types
+  you know.
+
 ## Say it to your companion
 
 Blend three fidel your companion names, and read the word in one go. Then split a word your companion says, fidel by fidel. Take away its first fidel and say the new word. Finish together: clap the letters of ጨጨት — three claps — and chant መናጩ, ዋናጩ, ቂናጩ.

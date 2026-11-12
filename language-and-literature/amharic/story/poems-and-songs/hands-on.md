@@ -44,3 +44,6 @@ Join only the refrain first (ግራ ቀኝ ግራ); clap where you
 cannot yet chant; perform in the group, never alone, until the
 piece is yours. The books build performance in groups for
 exactly this reason.
+
+## Added 2026-11-12 — sing and show
+Sing ሆያ ሆዬ in tune with others; then show qererto (finger to ear, swaying) and fukera (staff raised and lowered) without words, and let others name the kind.

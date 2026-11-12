@@ -23,3 +23,12 @@ context, in the words and beyond the words.
 **Answer:** its denotative meaning (the direct one) and its
 connotative meaning (the layered one) — the reader holds the
 two apart.
+
+**6. (Sub lesson 6)** Give the meaning of ምክር and use it in a sentence.
+**Answer:** ምክር — advice; any sentence using it as advice given or taken (Grade 1, pp.115–116).
+
+**7. (Sub lesson 7)** Match: ወጥ and ጠላ to their verbs.
+**Answer:** ወጥ ይሠራል (wat is made); ጠላ ይጠመቃል (tela is brewed) (Grade 2, p.116).
+
+**8. (Sub lesson 7)** Say what a camera is used for, the book's pattern.
+**Answer:** በካሜራ ፊልም ይታያል — with a camera, pictures/films are taken and seen (Grade 2, pp.127–128).

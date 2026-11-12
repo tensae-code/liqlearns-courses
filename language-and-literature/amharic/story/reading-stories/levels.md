@@ -40,3 +40,26 @@ Sub lesson 11 questions from the type files. Pass mark: say what the birds decid
 
 ## Sub lesson 12 — Trust, debt and rough hands
 Sub lesson 12 questions from the type files. Pass mark: retell Maru Forsa's two parts in order; say the three lessons of the rough hands as the story gives them; and say how the rats repaid the elephants.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 13 — Grade 1: pots on the road, and good advice
+Sub lesson 13 questions from the type files. Pass mark: retell the pots' mistake — the right side is dangerous — and say the traffic policeman's advice in your own words.
+
+## Sub lesson 14 — Grade 1: the children of our neighbourhood (serial story)
+Sub lesson 14 questions from the type files. Pass mark: retell the four parts in order and say what Ayele saw on the shola tree.
+
+## Sub lesson 15 — Grade 1: more fluent stories and fables
+Sub lesson 15 questions from the type files. Pass mark: name the three food groups with two foods each, and tell the greedy dog's ending in brief.
+
+## Sub lesson 16 — Grade 2: washed shirts, sly mice and rainy nights
+Sub lesson 16 questions from the type files. Pass mark: say the days of the week in order and retell how the white shirt became white again.
+
+## Sub lesson 17 — Grade 2: judges, patience and balanced food
+Sub lesson 17 questions from the type files. Pass mark: retell the crooked judgement and name the balanced foods the doctor orders.
+
+## Sub lesson 18 — Grade 2: dialogues — read them in two voices
+Sub lesson 18 questions from the type files. Pass mark: read a dialogue in two voices and say the proverb ታሞ ከመማቀቅ አስቀድሞ መጠንቀቅ in your own words.
+
+## Sub lesson 19 — Grade 2: competitions, telephones and kind animals
+Sub lesson 19 questions from the type files. Pass mark: say how the blind student's phone helps him, and retell how the ant repaid the bird.

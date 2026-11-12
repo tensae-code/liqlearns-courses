@@ -127,3 +127,6 @@ page in lesson/sources.md (KG3 workbook, printed pp.18, 68,
 SUPPORTING teacher material, labelled there). A teacher sending
 this lesson sends the lesson and its question list as they are —
 choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 5 — Your first reading: care of your book: say the book's four cares — cover it, keep it dry and clean, use a bookmark, carry it carefully.

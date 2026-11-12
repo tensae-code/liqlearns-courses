@@ -80,3 +80,15 @@ a) Nothing; presenting is only for marks  b) The faults that occur while the lea
 **20. (Sub lesson 12)** The set poem learners write and read to the class is titled —
 a) የመማሪያ ክፍላችን — "Our Classroom"  b) ሀገሬ ዋርካ ናት  c) የግጥም ጥግ
 **Answer: a) የመማሪያ ክፍላችን.**
+
+**21. (Sub lesson 13)** The qererto singer holds…
+a) A finger to one ear, swaying  b) A staff in both hands  c) A drum
+**Answer: a) A finger to one ear, swaying** — Grade 2 pp.82–83.
+
+**22. (Sub lesson 13)** Fukera performers carry…
+a) Staffs, raised and lowered as they sing  b) Flutes  c) Books
+**Answer: a) Staffs, raised and lowered as they sing** — Grade 2 pp.82–83.
+
+**23. (Sub lesson 13)** At p.80, Hoya Hoye is…
+a) Sung in tune, then festival-day sentences are written  b) Only read silently  c) Copied ten times
+**Answer: a) Sung in tune, then festival-day sentences are written** — the performance task, Grade 2 p.80.

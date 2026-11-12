@@ -22,3 +22,6 @@ Four cards: ሀተታዊ, ጥያቄያዊ, ትዕዛዛዊ, አጋናኝ. A part
 
 ## Break it with አል- … -ም
 One partner says an affirmative sentence (ልጁ መጣ።). The other breaks it into its negative, wrapping the verb in አል- … -ም (ልጁ አልመጣም።). Swap roles — five sentences each. The listener checks: are both hands of the negative there, አል- before and -ም after?
+
+## Added 2026-11-12 — punctuate aloud
+Take three plain sentences, say each with its feeling — telling, asking, shouting — and write the mark its feeling asks for.

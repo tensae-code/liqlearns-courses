@@ -37,3 +37,15 @@ a) ሏ ሷ ሟ ሿ ሯ ቧ  b) ቷ ኗ ኟ ዟ ዧ ቿ  c) ዷ ጇ ጧ ጯ ፏ
 **9. (Sub lesson 9)** How many forms does the ቈ family have, as the book prints it?
 a) seven  b) five  c) three
 **Answer: b) five** — ቈ ቊ ቍ ቋ ቌ; the derived families are five-form families.
+
+**10. (Sub lesson 10)** The Grade 1 book's first formation-writing page practises which families?
+a) ሀ and ለ  b) ገ and ጠ  c) ፐ and ቨ
+**Answer: a) ሀ and ለ** — Grade 1 p.4.
+
+**11. (Sub lesson 10)** ትንኝ ነከሰችኝ contains which family this review is for?
+a) ኘ  b) ዐ  c) ፈ
+**Answer: a) ኘ** — Grade 1 p.28.
+
+**12. (Sub lesson 10)** In the mixed review grid, what do you do with the gaps?
+a) Fill each with its right fidel  b) Cross them out  c) Skip the row
+**Answer: a) Fill each with its right fidel** — Grade 1 pp.40–41.

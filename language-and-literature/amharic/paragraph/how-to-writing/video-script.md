@@ -32,3 +32,6 @@ Five: hold the mediation.
 
 Consent before the sitting. The judge before the hearing.
 Each step prepares the next. That is a process.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 4, Grade 2: process chains: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

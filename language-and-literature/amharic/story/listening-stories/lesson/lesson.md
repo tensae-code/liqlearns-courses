@@ -548,6 +548,181 @@ account is about, and what exactly it says. Say one
 suffering it names, and what caused it, from the hearing
 alone.
 
+
+## Sub lesson 19 — Grade 1: family, home and school (pupil-book parts)
+
+These stories are yours to hear. In your book each one stands as a
+title and a picture only — the story itself is read aloud to you.
+So we do it the book's own way: look at the picture, say the title,
+guess what the story will be about, then listen and answer.
+
+[Picture 21200 — listening first: look, guess, listen]
+
+- ታታሪዋ ባዩሽ — "Bayush the hard-working" (Grade 1, p.1). Guess from
+  the picture: who works, and what work does she do?
+- መሐመድና ርግቡ — "Mohammed and his dove" (p.5). What can a boy and a
+  dove do together? Listen, then say one thing that happened.
+- ደብሪቱና አየለ — "Debritu and Ayele" (p.9). Two children, one story:
+  guess what they do together before you hear it.
+- ግድግዳው ይፍረስ — "Let the wall be torn down" (p.17). Why would
+  anyone want a wall down? Listen and find the reason.
+- መኖሪያችን — "Our home" (p.24). Name the rooms and things of a home
+  before you listen; check your list against the story.
+- የነሰለሞን ቤት — "Solomon's house" (p.28). Guess how Solomon's house
+  is different, then listen.
+- ጎል — "Gol", a game (p.35). What game do you think this is? Listen
+  for how it is played.
+- አየለና በለጡ — "Ayele and Beletu" (p.41).
+- ጅብና ትምህርት — "The hyena and schooling" (p.46). A hyena and a
+  school — guess first, then listen and laugh in the right place.
+
+ADD AUDIO: each story above read aloud once, slowly — the student
+listens, then answers the title-and-picture questions in the book's
+own order.
+
+## Sub lesson 20 — Grade 1: friendship and plants (pupil-book parts)
+
+- ትዕቢተኛ ይሸነፋል — "The proud one is defeated" (p.53). From the
+  title alone: who is proud, and how can pride lose?
+- የዶሮና የአሞራ ጓደኝነት — "The hen and the hawk's friendship" (p.60).
+  Can a hen and a hawk be friends? Guess, listen, and say what the
+  story answers.
+- የማይተማመኑ ጓደኞች — "Friends who don't trust each other" (p.64).
+- ሣራና መሐመድ — "Sara and Mohammed" (p.73). The book's own questions
+  after this story ask about plants and trees, and which plants we
+  eat — answer those from what you hear.
+- ብልጧ ጥንቸል — "The clever hare" (pp.76–79). The hare steals
+  produce and is nearly caught in a trap. Before you listen, learn
+  the book's four words: ሾለከች (she slipped away), ወጥመድ (a trap),
+  ችኩል (hurried), እግሬ አውጪኝ ("let my leg out!"). After listening, use
+  each word in the story's own order.
+
+## Sub lesson 21 — Grade 1: the road, stories and friends (pupil-book parts)
+
+- ጠንቃቃ ነኝ — "I am careful" (p.80). A road-safety story: what
+  traffic is, why people walking keep to the left, and the colours
+  of the traffic light. Listen, then name the three colours in
+  order.
+- ትራፊኩ ጉሬዛ — "Gureza the traffic monkey" (p.84).
+- ኳሳችን — "Our ball" (p.87). Children play ball near the road —
+  listen for where the ball should be played instead.
+- የራበው ጅብ — "The hungry hyena" (p.91).
+- ሯጯ — "The runner" (p.94). This one tells of the athlete Aynalem:
+  her results, and the flag and the anthem at her victory. Listen
+  for what happens when she wins.
+- ድመትና አህያ — "The cat and the donkey" (p.98).
+
+## Sub lesson 22 — Grade 1: food, cleanliness and animals (pupil-book parts)
+
+- የድንችና የካሮት ጠብ — "The potato and the carrot's quarrel" (p.103).
+  Two foods quarrel — guess what each one boasts about.
+- አገልግሎታችን ይታወቅ — "Let our service be known" (p.106). The foods
+  organise and ask to be recognised; after listening, match the
+  three food groups to their foods.
+- ተወዳጇ ሰዓዳ — "Saada the beloved" (pp.109–110), a girl honoured
+  with a medal and a feast.
+- የተበከለው ወንዝ — "The polluted river" (p.114).
+- ጎበዙ ያሬድ — "Yared the capable" (pp.117–118), the model pupil and
+  his habits.
+- እንጠያየቅ — "Let's visit each other" (pp.121–122) — about dirt,
+  unwashed clothes, hair and body, and taking waste away.
+- ተንኮለኛዋ ድመት — "The sly cat" (p.126).
+- ታማኟ ጓደኛ — "The faithful friend" (p.130): the hen's trick, and
+  the cat who decides not to eat the egg.
+- ውሻና አውራ ዶሮ — "The dog and the rooster" (p.134): the rooster
+  gives the dog gold — listen for why.
+
+## Sub lesson 23 — Grade 2: clothes and seasons (pupil-book parts)
+
+- የጽዮን አዳዲስ ልብሶች — "Tsion's new clothes" (Grade 2, p.1). With
+  it, the book drills clothing words and sounds out syllables —
+  ሹ-ራ-ብ, ቀ-ሚ-ስ — and reads phrases like ጥቁር ኮት (a black coat)
+  and የደንብ ልብስ (uniform clothes). Sound the syllables out loud,
+  then listen.
+- ቀኑብሽ በገና በዓል — "Qenubsh at the Genna festival" (p.6), and
+  the festival clothes in it: ኩታ, ጥልፍ, ጃኖ.
+- ተሸላሚው አብዱ — "Abdu the prize-winner" (pp.10–11), dressing for
+  an award ceremony.
+- ብልኋ ጉንዳን — "The clever ant" (p.16): the ant against the termite
+  (ምስጥ), storing food for the rainy season.
+- የዓመቱ ወቅቶች — "The seasons of the year" (pp.20–21). This is a
+  listening passage, not a story: ክረምት the rainy season, በጋ the
+  dry season, ጸደይ and በልግ — what each season brings, its crops
+  and its work. Listen and name one thing for each season.
+- አስካልና ሄኖክ — "Askal and Henok" (p.25): a farm visit in the
+  rainy season, roasting maize cobs and teff shoots.
+
+## Sub lesson 24 — Grade 2: stories, the garden and cleanliness (pupil-book parts)
+
+- የራበው ውሻ — "The hungry dog" (p.35): the dog, the butcher, and
+  what the dog sees in the pond (ኩሬ).
+- በቅሎ ለምን መካን ሆነች? — "Why did the mule become barren?"
+  (pp.38–39). After listening, answer with the story frame: when,
+  where, how, why.
+- ሁለገቡ ፍራፍሬ — "The two-sided fruit" (p.44): the banana — how it
+  is eaten (mashed, boiled, roasted) and what its peel does. Its
+  doubled words, ፍራፍሬ and ቅጠላቅጠል, are taught in Building Words.
+- ፈጣኗ ሯጭ — "The fast runner" (p.48), on health and running.
+- የጓሮ አትክልት ቦታ አዘገጃጀት — "Preparing the garden plot" (p.53):
+  levelling, the drainage ditch, making the seed bed — ማለስለስ,
+  ማፋሰሻ ቦይ, መመንጠር. Listen, then put the three jobs in order.
+- ንጽህና ለጤና — "Cleanliness for health" (p.58): keeping clean and
+  stopping sickness, with the words ሳሙና (soap), ጉድጓድ, ማቃጠል,
+  መሸፈን.
+- የወፏ ትዝብት — "The bird's complaint" (p.62): a bird finds no clean
+  resting place in a fouled neighbourhood.
+- ውርሳችሁ ምክሬ ነው — "Your inheritance is my counsel" (p.66): a
+  farmer mixes waste into the soil and counsels his children.
+
+## Sub lesson 25 — Grade 2: music, behaviour and food (pupil-book parts)
+
+- ባህላዊ ዘፈኖች — "Traditional songs" (p.71): songs for festivals,
+  weddings and work — the book calls them oral treasures
+  (ቃላዊ ሀብቶች).
+- የማሲንቆና የፈረስ ጓደኝነት — "The masenqo and the horse's friendship"
+  (p.76): the masenqo's string is made from horsehair.
+- እስክስታ — "Eskista" (p.81), the shoulder dance: when it is
+  danced, how men's and women's styles differ, and what good it
+  does beyond fun.
+
+[GIF 21204 — eskista, the shoulder dance]
+
+- ዘሀራ — "Zehara" (p.87), a girl who respects her elders, with the
+  words ይቅርታ (excuse me / forgiveness) and አመሰግናለሁ (thank you).
+  Say both words the way Zehara would.
+- የመልካም ሥነምግባር መገለጫዎች — "Signs of good behaviour" (pp.92–93):
+  honesty, faithfulness, responsibility. Its -ነት nouns are taught
+  in Building Words.
+- ርህራሄን መማር — "Learning compassion" (p.98): children throw
+  stones at a frog; a donkey passes quietly beside it. After
+  listening, do the book's opposite-word matching.
+- አተር — "Peas" (p.104): how peas are grown and prepared; then list
+  spice kinds the book's way, with ኮረሪማ as the model.
+- የዶሮ ወጥ አሠራር — "How doro wat is made" (p.109): why hot water
+  is needed, and the cooking verbs to fill in — ይለበለባል,
+  ይዘፈዘፋል and their brothers.
+- ምግብና ጥቅሙ — "Food and its benefit" (p.114): food gives energy
+  for play and strength against sickness.
+
+## Sub lesson 26 — Grade 2: machines and wild animals (pupil-book parts)
+
+- ሬዲዮና ቴሌቪዥን — "Radio and television" (p.119): how the two
+  differ and what each brings children, with the words ዘፈን
+  (song), ድራማ (drama), ታዳሚ (audience).
+- የኮምፒዩተር ክፍለጊዜ — "The computer period" (pp.124–125):
+  ኮምፒዩተር, መጠቆሚያ (the pointer), የኮምፒዩተር ሰሌዳ, መተግበሪያ.
+- መገናኛ ብዙኃን — "Mass media" (p.129): a school visit to a media
+  house.
+- ጉልበት ወይስ ብልሃት — "Strength or cleverness?" (p.134): the hare
+  is sure she will win the race; the tortoise (ዔሊ) wins. Listen
+  for the hare's mistake.
+- ዋልያና ቀይ ቀበሮ — "The walia and the red fox" (p.139), two of
+  Ethiopia's rare wild animals — compare the two from the picture
+  before you listen.
+- ይህን ታውቁ ኖሯል? — "Did you know this?" (p.144): elephant facts —
+  the huge animal that suckles its young, and how elephants
+  differ from other animals.
+
 ## Say it to your companion
 
 Choose one story you heard. Retell it to your companion in

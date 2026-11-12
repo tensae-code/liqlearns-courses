@@ -28,3 +28,15 @@ a) only dust  b) soap and water  c) she does not wash them
 a) before eating, and after the toilet  b) only on holidays
 c) never
 **Answer: a)** — every time, before she eats.
+
+**7. (Sub lesson 5)** What does the book ask you to use instead of folding a page down?
+a) A bookmark  b) A stone  c) Your finger, left inside
+**Answer: a) A bookmark** — the care-of-book message, Grade 1 p.ii.
+
+**8. (Sub lesson 5)** Water and dirt do what to a book?
+a) Spoil its pages  b) Make it stronger  c) Nothing
+**Answer: a) Spoil its pages** — keep it dry and clean.
+
+**9. (Sub lesson 5)** Why cover a book?
+a) So its outside stays strong  b) To hide its title  c) To make it heavier
+**Answer: a) So its outside stays strong** — the first of the four cares.

@@ -209,6 +209,21 @@ Your first meeting is just this: hear a qene poem, say its
 surface meaning plainly — then ask the qene question: *what
 else is it saying, underneath?*
 
+
+## Sub lesson 9 — Grade 2: telephones — matching, phrases, and finishing a call
+
+- Match the device pictures to their names (Grade 2,
+  pp.122–124): ሬዲዮ (radio), ቴሌቪዥን (television), ስልክ
+  (telephone), ባትሪ (battery), ካሜራ (camera). The same matching
+  lives in Technology; here we say each name aloud, clearly.
+- Complete the device phrases: የልብስ ማጠቢያ ማሽን (the
+  clothes-washing machine) is the book's model — finish the
+  book's row in the same shape.
+- Complete a telephone conversation: the book starts the call;
+  you and your partner finish it — greeting, message, thanks,
+  goodbye — in turn, the way sub lesson 2's later telephone
+  work (pp.132–133) performs it whole.
+
 ## Say it to your companion
 
 This lesson's companion work is its whole body: tell a tale in

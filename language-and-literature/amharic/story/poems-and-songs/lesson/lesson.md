@@ -286,6 +286,23 @@ beside a prose paragraph on the same subject and name
 one difference in its words' form, one in their meaning,
 one in their use.
 
+
+## Sub lesson 13 — Grade 2: perform it, and the spoken-poem kinds at their first page
+
+- Sing ሆያ ሆዬ in tune (Grade 2, p.80): the chant of sub lesson
+  4, now performed — sing its lines together, in tune, the way
+  the children of the passage sing house to house. Then write
+  festival-day sentences: በገና ዕለት… (on Genna day…),
+  በኢድአልፈጥር ዕለት… (on Eid al-Fitr day…) and their brothers.
+- ቀረርቶና ፉከራ at their first page (pp.82–83): before the older
+  books' qererto and fukera of sub lesson 7, the Grade 2 book
+  explains the two kinds with printed examples — the qererto
+  singer pressing a finger to one ear and swaying, singing
+  praise and grief verses, the Menelik verses among them; then
+  the fukera performers, staffs raised and lowered, kneeling
+  and rising, singing their boast verses. Name each kind from
+  its picture before you read its examples.
+
 ## Say it to your companion
 
 Perform your group's piece — poem, song or chant — to another

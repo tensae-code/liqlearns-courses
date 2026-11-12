@@ -40,3 +40,8 @@ Sub lesson 11 questions from the type files. Pass mark: explain your grasp of �
 
 ## Sub lesson 12 — Write a poem of your own (teacher guide — evidence)
 Sub lesson 12 questions from the type files. Pass mark: write the short poem የመማሪያ ክፍላችን and read it to the class; and name one difference each in form, meaning and use between your poem's words and prose words.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 13 — Grade 2: perform it, and the spoken-poem kinds
+Sub lesson 13 questions from the type files. Pass mark: sing Hoya Hoye in tune, write two festival-day sentences, and tell qererto from fukera by their pictures.

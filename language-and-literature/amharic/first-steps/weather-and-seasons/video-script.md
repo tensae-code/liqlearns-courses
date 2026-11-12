@@ -22,3 +22,6 @@ And the seasons — ወቅቶች!
 በልግ (belg).
 
 Now you. Look at the sky. Say the weather!
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 3, The Grade 2 book's season words: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

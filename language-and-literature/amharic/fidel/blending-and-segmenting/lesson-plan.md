@@ -113,3 +113,6 @@ worked tables and word games from the Grade 1 and Grade 2 Amharic
 Teacher Guides, labelled as teacher-guide evidence there).
 A teacher sending this lesson sends the lesson and its question
 list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 6 — The Grade 1 book's blending pages, page by page: blend the p.20 and p.39 rows whole, and split እንደምናሸንፍ and blend it back.

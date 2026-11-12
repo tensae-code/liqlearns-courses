@@ -168,3 +168,12 @@ the student books' own printed fluent-reading texts, and sources.md
 labels each part. A teacher sending this lesson sends the lesson
 and its question list as they are — choosing, not remaking.
 **Growth note (2026-11-12):** sub lessons 7–12 grow this lesson with the older grades' pupil-book stories — every one pupil-taught from the Grade 5–8 student books, summarised only, never transcribed. The first six sub lessons are unchanged.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 13 — Grade 1: pots on the road, and good advice: retell the pots' mistake — the right side is dangerous — and say the traffic policeman's advice in your own words.
+- Sub lesson 14 — Grade 1: the children of our neighbourhood (serial story): retell the four parts in order and say what Ayele saw on the shola tree.
+- Sub lesson 15 — Grade 1: more fluent stories and fables: name the three food groups with two foods each, and tell the greedy dog's ending in brief.
+- Sub lesson 16 — Grade 2: washed shirts, sly mice and rainy nights: say the days of the week in order and retell how the white shirt became white again.
+- Sub lesson 17 — Grade 2: judges, patience and balanced food: retell the crooked judgement and name the balanced foods the doctor orders.
+- Sub lesson 18 — Grade 2: dialogues — read them in two voices: read a dialogue in two voices and say the proverb ታሞ ከመማቀቅ አስቀድሞ መጠንቀቅ in your own words.
+- Sub lesson 19 — Grade 2: competitions, telephones and kind animals: say how the blind student's phone helps him, and retell how the ant repaid the bird.

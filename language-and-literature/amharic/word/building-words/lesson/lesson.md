@@ -128,6 +128,35 @@ Italian, ቆጮ close to home in Gurage. A loanword is not a
 broken word. It is a word with a journey — and knowing its
 home language is part of knowing the word.
 
+
+## Sub lesson 5 — Grade 1–2: change a fidel, drop a letter, double a word
+
+- Change the first fidel and make a new word (Grade 2, p.5):
+  ልብስ → ጥብስ is the book's model; go on through its grid. On
+  the same review page the book sorts clothes into over-clothes,
+  under-clothes and sport clothes, and builds sentences from a
+  word bank — do both after the grid.
+- The same game inside the seasons chapter (Grade 2,
+  pp.16–19): ሠራ → በራ, ጠራ… — with the Ethiopian month names
+  sounded inside the blending drills: ሰኔ, ሐምሌ, ነሐሴ, መስከረም.
+  Those drills are also cited in Time at the same pages.
+
+[GIF 21205 — change one fidel, make a new word: ደመቀ → ደበቀ]
+
+- The same page's writing (Grade 1, p.120): answers about tooth
+  care — how the teeth are cleaned, morning and evening — written
+  in full sentences, before the drill below.
+- Double a short word (Grade 1, p.120): the book's model is
+  ጧት ጧት — a word said twice over, the way morning comes again
+  and again. This is the Grade 1 set of the doubling taught in
+  sub lesson 2 (the Grade 2 banana set, ፍራፍሬ, ቅጠላቅጠል).
+- The instruments review (Grade 2, pp.85–86) in this lesson's
+  strand: the agent-noun pattern of sub lesson 3 at work —
+  ፎካሪ ይፎክራል (the boaster boasts), with አቅራሪ, ዘፋኝ, አልቃሽ,
+  ጨፋሪ. Its plurals (ክራር→ክራሮች) live in One and Many, and its
+  jumbled sentences in Writing Sentences, both at the same
+  pages.
+
 ## Say it to your companion
 
 Play builders. One of you names two words — ፍኖተ and ሰላም,

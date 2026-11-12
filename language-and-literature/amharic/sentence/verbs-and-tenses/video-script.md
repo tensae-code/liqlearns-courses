@@ -30,3 +30,6 @@ What? **ብር**. To whom? **ለእናቷ**.
 Now the family of **በላ** — he ate.
 **በላሁ. በላህ. በላሽ. በላች. በላን. በላችሁ. በሉ.**
 One verb. Every person. Only the tail changes.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 6, Grade 2: verb patterns: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

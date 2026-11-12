@@ -93,3 +93,6 @@ Paper and a pencil. Nothing else.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 13 — Grade 2: punctuation inside real sentences: punctuate the cleanliness chapter's sentences with ።, ? and !, each where its feeling asks.

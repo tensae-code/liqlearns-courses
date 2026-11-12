@@ -72,6 +72,33 @@ countries: Ethiopia
 | Sub lesson 16 — Migration (ስደት) (teacher guide — evidence): reading — explain what was grasped; write the themes presented | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.88 (placement 61) |
 | Picture 8953 / Picture 8954 / GIF 8998 — drawn for this growth from the rows above (scenes and objects only — no likeness of any named person is drawn) | Drawn renders made in this build (PIL, cream-paper style), from Books 13 and 14 above |
 
+| Sub lesson 17 — ከበሮና ክራር (short passage) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.46 |
+| Sub lesson 17 — ገበጣ (passage) + review grid ገ/ጠ/ጨ/ጰ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.52 |
+| Sub lesson 17 — ፓፓያ (passage) + review grid ጸ/ፀ/ፈ/ፐ/ቨ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.59–60 |
+| Sub lesson 18 — ዜብራው (comprehension passage) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.81 |
+| Sub lesson 18 — ትርምሱ + vocabulary ጠባብ, አደጋ, ታክሲ, ጋሪ, ትራፊክ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.85 |
+| Sub lesson 18 — የገበያው ቀን + vocabulary መሸለም, ተጓዥ, አላፊ አግዳሚ, መጫን | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.88–89 |
+| Sub lesson 18 — መተባበር ኃይል ነው + draw-and-name writing | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.99–100 |
+| Sub lesson 18 — የዛፉ ሥር ምክር + fill-in writing | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.104 |
+| Sub lesson 18 — የዐዞ ፍርሃት + vocabulary ዕጣ, ኅብረት, ማደን | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.110–111 |
+| Sub lesson 18 — የምንወደው ጓደኛችን + vocabulary ዘወትር, ዋና, ልማድ, ምክር | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.115–116 |
+| Sub lesson 18 — ጓደኛችን ተሸለመ! + vocabulary sentences ክበብ, ዕቅድ, ሽልማት | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.119 |
+| Sub lesson 18 — ጦጢት በጎሽ ቤት + vocabulary ወቀሳ, ክኒን, ማዘን | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.122–123 |
+| Sub lesson 18 — መተባበር + vocabulary ተባበረ, ሸክም, ዘዴ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.127 |
+| Sub lesson 18 — የተነፋፈቁት + draw-and-name writing | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.131–132 |
+| Sub lesson 18 — ዳኝነቱ + list the pack animals | Ethiopia, *Grade 1 Amharic Student Textbook*, printed pp.135–136 |
+| Sub lesson 19 — የልጁ መኝታቤት (adaptation note printed in the book) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.7–8 |
+| Sub lesson 19 — የቸኮለ አፍሶ ለቀመ | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.12 |
+| Sub lesson 19 — ሰኞ ማክሰኞ (hopscotch passage) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.17–18 |
+| Sub lesson 19 — አደይ + antonym matching (pairs taught in Word Families at the same pages) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.22–23 |
+| Sub lesson 19 — ሁለቱ ጓደኛሞች + comparison-table writing | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.45–46 |
+| Sub lesson 19 — ጣናን እንከባከብ (expository passage; እንቦጭ) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.67 |
+| Sub lesson 19 — ባህላዊ የሙዚቃ መሣሪያዎች (classification: string/wind/percussion + materials) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.83–84 |
+| Sub lesson 19 — ኃላፊነትን መቀበል | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.94 |
+| Sub lesson 19 — ምግቦች በበዓል ቀን (cultural passage) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.115 |
+| Sub lesson 19 — የማስጠንቀቂያ ደወል + loudspeaker imperative writing | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.130–131 |
+| Picture 21202 / Picture 21203 — drawn for this fix build (the zebra crossing; the instrument families) | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 2 above |
+
 **Acceptance count: taught in 1 country (Ethiopia).** Most passages are pupil-taught from the student books; the two teacher-guide reading texts are labelled (teacher guide — evidence) in the table. Sub lessons 6–11 (the 2026-11-12 growth) are pupil-taught throughout, from the Grade 5–8 student books. Sub lessons 12–16 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the complete federal Grade 9 and Grade 10 guides (Books 13–14); there are no Grade 9–10 student books in the records, so nothing in sub lessons 12–16 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils.
 
 Honesty notes: (1) All passages are taught as summaries and tasks in the lesson's own words — never the books' text. (2) For A Near Neighbour Beats a Far Relative, the guide records the reading's task shapes and its picture-first opening, not a plot summary; the lesson teaches the proverb the title itself carries and the guide's tasks, and invents no plot beyond it. (3) The Grade 3 teacher-guide file is a truncated scan (ends printed p.31); both guide texts used here stand at pp.5–7 and 18–19, inside the span. (4) Pictures 8320–8323 are drawn renders made for this lesson and looked at before filing.

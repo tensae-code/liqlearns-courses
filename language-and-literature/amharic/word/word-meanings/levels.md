@@ -36,3 +36,11 @@ context) and ፍካሬያዊ ፍች (connotative — layered, depending on
 context), and sort መሬት and መብረቅ's meanings with them —
 including መብረቅ's two coats, flash-and-thunder and powerfully
 shocking. This sub lesson stands on teacher-guide evidence only.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 6 — Grade 1: the stories' own word sets
+Sub lesson 6 questions from the type files. Pass mark: give the meaning of ማቋረጫ, እግረኛ and ኮሚቴ, and use ክበብ, ዕቅድ, ሽልማት in sentences.
+
+## Sub lesson 7 — Grade 2: cooking verbs and device uses
+Sub lesson 7 questions from the type files. Pass mark: match ገንፎ, ቂጣ, ጥብስ, ወጥ and ጠላ to their cooking verbs, and say what a phone, a cassette and a camera are used for.

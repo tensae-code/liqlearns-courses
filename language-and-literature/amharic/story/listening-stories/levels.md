@@ -58,3 +58,29 @@ Sub lesson 17 questions from the type files. Pass mark: list the seven strategie
 
 ## Sub lesson 18 — Hard roads — addiction and migration (teacher guide — evidence)
 Sub lesson 18 questions from the type files. Pass mark: say the drug text's costs in order — body, purse, town — and separate the migration account's main points from its detailed points.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 19 — Grade 1: family, home and school (pupil-book parts)
+Sub lesson 19 questions from the type files. Pass mark: name each story from its title and picture, guess before listening, and answer one question on each story heard.
+
+## Sub lesson 20 — Grade 1: friendship and plants (pupil-book parts)
+Sub lesson 20 questions from the type files. Pass mark: guess from each title, listen, and use the hare story's four words — ሾለከች, ወጥመድ, ችኩል, እግሬ አውጪኝ — in the story's order.
+
+## Sub lesson 21 — Grade 1: the road, stories and friends (pupil-book parts)
+Sub lesson 21 questions from the type files. Pass mark: name the traffic-light colours in order and tell what happens when the runner Aynalem wins.
+
+## Sub lesson 22 — Grade 1: food, cleanliness and animals (pupil-book parts)
+Sub lesson 22 questions from the type files. Pass mark: match the three food groups to their foods and say why the cat in The Faithful Friend does not eat the egg.
+
+## Sub lesson 23 — Grade 2: clothes and seasons (pupil-book parts)
+Sub lesson 23 questions from the type files. Pass mark: sound out ሹ-ራ-ብ and ቀ-ሚ-ስ, and name one thing each season brings — ክረምት, በጋ, ጸደይ, በልግ.
+
+## Sub lesson 24 — Grade 2: stories, the garden and cleanliness (pupil-book parts)
+Sub lesson 24 questions from the type files. Pass mark: put the garden-plot jobs in order — ማለስለስ, ማፋሰሻ ቦይ, መመንጠር — and answer the mule story with when/where/how/why.
+
+## Sub lesson 25 — Grade 2: music, behaviour and food (pupil-book parts)
+Sub lesson 25 questions from the type files. Pass mark: say ይቅርታ and አመሰግናለሁ as Zehara would, and move your shoulders the eskista way, one side then the other.
+
+## Sub lesson 26 — Grade 2: machines and wild animals (pupil-book parts)
+Sub lesson 26 questions from the type files. Pass mark: say how radio and television differ, and say the hare's mistake in Strength or Cleverness?

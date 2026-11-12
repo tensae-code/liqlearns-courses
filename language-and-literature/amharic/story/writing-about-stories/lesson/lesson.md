@@ -269,6 +269,29 @@ gain the marks; non-readers lose them. That, the guides
 say, is how a love of reading is grown — one whole book,
 finished.
 
+
+## Sub lesson 10 — Grade 1–2: review, draw-and-label, and finishing what is started
+
+- Answer the book's review questions on ዱባና ድንች (Grade 1, p.79):
+  what is the potato used for? what is the pumpkin used for?
+  Then do its writing task: draw one of them and label your
+  drawing, part by part.
+- Write answers about a passage (Grade 1, p.86): after ትርምሱ, the
+  market-day reading, write your answers about the dangers of
+  market day — the narrow road, the animals, the cars, the crowd.
+- Finish what is started (Grade 1, p.137): answer the sequence
+  questions on the last story, then complete the started
+  dialogue — the horse speaks, the mule answers; you write both
+  speeches on, in each one's own voice.
+- Complete a greeting dialogue (Grade 2, p.65): with a partner,
+  fill the greeting conversation (ሰላምታ) to its end — each line
+  answering the line before it.
+- Sort living things the book's way (Grade 2, pp.137–138): a
+  table of animals that suckle their young against animals that
+  lay eggs, with የሌሊት ወፍ and ዓሳ as the book's models; then
+  retell the leopard-and-dik-dik fable in your own words, and
+  list kinds of birds, with ጉጉት as the model.
+
 ## Say it to your companion
 
 Tell your companion a story you know, walking its shape out loud:

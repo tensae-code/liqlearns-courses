@@ -63,3 +63,6 @@ Plots inside plots. Conflicts — more than two!
 
 And the way to love it? One whole book.
 Two weeks. Finish it. That is how readers are grown.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 10, Grade 1–2: review, draw-and-label, and finishing what is started: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

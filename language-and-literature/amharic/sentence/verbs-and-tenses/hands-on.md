@@ -13,3 +13,6 @@ Take a cup and a book. Act: give the book to your partner. Say the sentence alou
 
 ## Object or no object?
 One person mimes an action from the lesson: ቀደደ (tearing), ገዛ (buying), በላ (eating) with something in hand — then ተኛ (sleeping), ቆመ (standing), መጣ (coming) with empty hands. The watchers call out ሳቢ! or ኢሳቢ! for each mime, and say what the action landed on — or that it landed on nothing.
+
+## Added 2026-11-12 — pattern pairs
+Say three verb pairs aloud from sub lesson 6 — base form, then its -ች / doing-now / ይ- form — and make one sentence with each second form.

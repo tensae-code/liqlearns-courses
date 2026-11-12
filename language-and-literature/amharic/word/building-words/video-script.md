@@ -31,3 +31,6 @@ They travelled. They stayed. Now they are Amharic words.
 
 Join. Double. Add an ending. Welcome a traveller.
 That is how words are built.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 5, Grade 1–2: change a fidel, drop a letter, double a word: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

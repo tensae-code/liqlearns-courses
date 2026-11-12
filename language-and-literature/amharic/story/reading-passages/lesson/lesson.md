@@ -425,6 +425,143 @@ write the themes the passage presents. A migration passage
 is understood when you can say both — what it told, and
 what it is about — without opening it again.
 
+
+## Sub lesson 17 — Grade 1: short passages — drums, games and fruit
+
+Read each little passage, then answer: what is it about?
+
+- ከበሮና ክራር — "The drum and the lyre" (Grade 1, p.46). Short
+  true sentences about the kebero drum and the krar lyre — what
+  each is and how each is played.
+- ገበጣ — "The gebeta game" (p.52), five sentences, read with the
+  review grid of ገ ጠ ጨ ጰ before it: say each family's fidel,
+  then read the passage.
+- ፓፓያ — "The papaya" (pp.59–60), read with the review grid of
+  ጸ ፀ ፈ ፐ ቨ before it. The papaya fruit falls; a monkey and a
+  policeman come into the reading.
+
+## Sub lesson 18 — Grade 1: comprehension passages
+
+Read the passage first. Then answer its questions from the
+passage — not from your head.
+
+- ዜብራው — "The zebra crossing" (p.81). The pots' lesson retold as
+  a passage: the zebra crossing is a white-painted line where
+  people walking cross the road.
+
+[Picture 21202 — cross at the zebra crossing]
+
+- ትርምሱ — "The jumble" (p.85). On market day the narrow road
+  jumbles together goats, sheep, taxis, carts, cattle and
+  traders — and there are many accidents. Its words: ጠባብ
+  (narrow), አደጋ (danger/accident), ታክሲ, ጋሪ (a cart), ትራፊክ.
+- የገበያው ቀን — "Market day" (pp.88–89). Children play cloth-ball
+  on the market road; taxi drivers rushing for passengers grow
+  angry; the traffic policeman sends the children to a sandy
+  field in a gully. Its words: መሸለም, ተጓዥ, አላፊ አግዳሚ, መጫን.
+- መተባበር ኃይል ነው — "Cooperation is strength" (pp.99–100). The
+  animals keep to their own lands; hungry lions invade the
+  hyenas' land; the hyenas unite — and defeat the lion.
+- የዛፉ ሥር ምክር — "Counsel under the tree" (p.104). The food groups
+  meet — the cold-area builders in a hall, the energy foods in
+  the morning in the hall and the afternoon under a tree — weigh
+  their benefit, and set up a committee.
+- የዐዞ ፍርሃት — "The crocodile's fear" (pp.110–111). The clever
+  tortoise's story ends: frightened, the crocodile proposes they
+  hunt apart and share; the laughing tortoise agrees, and they
+  live together without trouble. Its words: ዕጣ (a lot, drawn),
+  ኅብረት (union), ማደን (hunting).
+- የምንወደው ጓደኛችን — "Our friend whom we love" (pp.115–116). The
+  friend bathes often, washes his own clothes, swims and studies
+  by the river alone, because his friends will not join him;
+  today they decide to counsel him. Its words: ዘወትር (always),
+  ዋና (swimming), ልማድ (a habit), ምክር (advice).
+- ጓደኛችን ተሸለመ! — "Our friend was awarded!" (p.119). The friend
+  founds the school's environment-and-hygiene club; it cleans
+  the compound, checks pupils' cleanliness and teaches tooth
+  care. He wins the quiz competition and prizes for the school.
+  Use its words in sentences: ክበብ (a club), ዕቅድ (a plan),
+  ሽልማት (a prize).
+- ጦጢት በጎሽ ቤት — "Toti the monkey at Goshu's house"
+  (pp.122–123). The monkey visits late, is blamed, and grieves;
+  the doctor gave pills for now and ordered: keep him washed.
+  The passage ends open — in Writing About Stories you write
+  how it could finish. Its words: ወቀሳ (blame), ክኒን (pills),
+  ማዘን (grieving).
+- መተባበር — "Cooperating" (p.127). The donkey and the ox's story
+  ends: the muzzled ox tosses fodder to the donkey with its
+  horns while grazing; the donkey carries loads and walks ahead;
+  both live in plenty. Its words: ተባበረ (cooperated), ሸክም (a
+  load), ዘዴ (a way, a trick).
+- የተነፋፈቁት — "The ones who parted" (pp.131–132). The sold ox,
+  led by a rope, meets the donkey — who now does the ox's work
+  on little food. The donkey butts the herdsman's stick; the
+  rope slips; the ox is loose. Afterwards: draw the passage's
+  characters and name them, the book's way.
+- ዳኝነቱ — "The judgement" (pp.135–136). The pack animals'
+  quarrel ends: the chief judge praises each animal's record
+  and rules that all are great and must work together. After
+  reading, list the pack animals.
+
+## Sub lesson 19 — Grade 2: comprehension passages and a classification
+
+- የልጁ መኝታቤት — "The child's bedroom" (Grade 2, pp.7–8). The boy
+  throws his uniform and bag anywhere. His mother asks, "do you
+  know your fault?" He folds the uniform into the wardrobe,
+  shelves the bag, and puts his shoes under the bed. (The book
+  prints that this reading is adapted from the mother-tongue
+  Grade 2 textbook.)
+- የቸኮለ አፍሶ ለቀመ — "The hasty one poured and picked" (p.12).
+  Village youths swim in the river on Meskerem eve, their
+  clothes heaped together. Thunder and lightning break out;
+  rushing back, they grab and wear whatever clothes they find.
+- ሰኞ ማክሰኞ — "Monday Tuesday" (pp.17–18). Children draw a
+  seven-part hopscotch line named for the weekdays. Yibela lands
+  her marker and hops in turn — and falls trying to reach ረቡዕ.
+- አደይ — "Adey flower" (pp.22–23). The rains are over; Meskerem
+  dawns. Abeba, who spent Hamle and Nehase helping her family,
+  puts on her school uniform on opening day and runs to her
+  friend; under a tree they sing the Meskerem song. With this
+  passage the book matches opposites: ቅርብ↔ሩቅ (near↔far),
+  ክረምት↔በጋ, ዝግ↔ክፍት — those pairs are taught in Word Families.
+- ሁለቱ ጓደኛሞች — "The two friends" (pp.45–46). Lettuce and Kale,
+  garden friends, are fed by the same soil, sun and water.
+  People pick Kale daily and boast of it; Lettuce explains that
+  serving it costs more — it needs lemon, pepper and tomato as
+  dressing. After reading, write the comparison table: the two
+  friends, side by side.
+- ጣናን እንከባከብ — "Let's care for Tana" (p.67). Lake Tana, north
+  of Bahir Dar, is harmed by people washing clothes, bodies and
+  vehicles in it. Waste builds up, water hyacinth (እንቦጭ አረም)
+  spreads — and dries the lake.
+- ባህላዊ የሙዚቃ መሣሪያዎች — "Traditional musical instruments"
+  (pp.83–84). Instruments are sorted into families: string —
+  ክራር, በገና, ማሲንቆ; wind — መለከት, ዋሽንት, ጥሩንባ; hit for sound —
+  ነጋሪት, ከበሮ, አታሞ, ደወል, ቃጭል, ጽናጽል. And what each family is
+  made from: wood, animal hide, horsehair, bamboo and reed,
+  gourd. Finish the book's concept web as you read.
+
+[Picture 21203 — traditional instruments, three families]
+
+- ኃላፊነትን መቀበል — "Accepting responsibility" (p.94). On
+  cleaning-campaign day, Weyinitu's group gets the classrooms;
+  Kemal's gets the offices and the flag area. Kemal grumbles
+  that his share is bigger. The teacher answers: all clean the
+  same school compound — and Weyinitu offers to help when her
+  group finishes.
+- ምግቦች በበዓል ቀን — "Foods on festival days" (p.115). At Eid
+  al-Fitr: genfo for breakfast; meat wat, tibs and kitfo with
+  soft drinks for lunch. At Fasika: gulban on Maundy Thursday;
+  qita with berbere and oil on Friday; doro wat with injera from
+  nine o'clock on Saturday night; coffee and the slaughter
+  (እርድ) on Sunday morning.
+- የማስጠንቀቂያ ደወል — "The warning bell" (pp.130–131). Beqalu, the
+  drama and literature coordinator, sets up the tape player at
+  the flag place and plays music to gather the pupils. The head
+  teacher warns: do not touch electric switches — there are
+  stripped wires; danger. After reading, write commands the way
+  they are given over a loudspeaker.
+
 ## Say it to your companion
 
 Take one passage. Say its main idea in ONE sentence. Your

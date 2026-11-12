@@ -30,3 +30,15 @@ a) French  b) Italian  c) Arabic
 **7. (Sub lesson 4)** ቆጮ is close to home — it came from —
 a) Gurage (ጉራግኛ)  b) English  c) Tigrinya
 **Answer: a) Gurage.**
+
+**8. (Sub lesson 5)** ልብስ with its first fidel changed, the book's model, becomes…
+a) ጥብስ  b) ልብሶች  c) ቤት
+**Answer: a) ጥብስ** — Grade 2 p.5.
+
+**9. (Sub lesson 5)** ጧት ጧት is an example of…
+a) A doubled (reduplicated) word  b) A compound word  c) A plural
+**Answer: a) A doubled (reduplicated) word** — Grade 1 p.120.
+
+**10. (Sub lesson 5)** ፎካሪ goes with which verb pattern?
+a) ይፎክራል  b) ይበላል  c) ይተኛል
+**Answer: a) ይፎክራል** — the agent-noun pattern, Grade 2 pp.85–86.

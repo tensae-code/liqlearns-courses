@@ -46,3 +46,6 @@ Someone tells the shortest whole story they know. Everyone
 writes its summary — at most one page, no second page allowed.
 Read them aloud: whose page kept all five elements in the
 fewest lines?
+
+## Added 2026-11-12 — draw and label
+Draw a potato or a pumpkin and label its parts, the way the Grade 1 review at p.79 asks.

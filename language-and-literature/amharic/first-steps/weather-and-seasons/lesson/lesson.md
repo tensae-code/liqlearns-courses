@@ -31,6 +31,19 @@ Two of them are opposites, and the book teaches them as a pair: በጋ brings th
 
 The weather is today's sky. The season is the long stretch of days. A day inside ክረምት is usually ዝናባማ — rainy. A day inside በጋ is usually ፀሐያማ — sunny. But a single day can always surprise you.
 
+
+## Sub lesson 3 — The Grade 2 book's season words
+
+- The season words in their own sentences (Grade 2,
+  pp.23–24): ወቅት (a season), ጸደይ, በልግ, በጋ, ክረምት — the four
+  season words of sub lesson 2, now in the older book's own
+  vocabulary work.
+- Compound season phrases: የጥቅምት እሸት is the book's model —
+  a phrase that joins a month to what grows in it. Make the
+  book's row in the same shape.
+- Write sentences with መስከረም and ፈነዳ — the book's own two
+  words: the month when the adey flower bursts open.
+
 ## Say it to your companion
 
 Tell your companion: today's weather, the season we are in now, and what that season usually brings. Then ask your companion: what is the weather at your home today?

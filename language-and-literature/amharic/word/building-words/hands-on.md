@@ -28,3 +28,6 @@ On your next market or shop visit, listen for loanwords:
 ሱቅ, ሞባይል, ቢሮ, ፖስታ, ሰዓት. Count how many travellers you
 hear in one visit, and tell someone at home where each one
 came from.
+
+## Added 2026-11-12 — change one fidel
+Take ልብስ and change its first fidel the book's way; then take a word of your own and do the same, saying each new word aloud.

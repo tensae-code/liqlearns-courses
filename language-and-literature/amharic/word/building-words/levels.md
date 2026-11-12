@@ -26,3 +26,8 @@ Sub lesson 4 questions from the type files. Pass mark: name at
 least five loanwords with the language each travelled from
 (ቆጮ ← Gurage, ሞባይል ← English, ሱቅ ← Arabic, ቢሮ ← French,
 ፖስታ ← Italian).
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 5 — Grade 1–2: change a fidel, drop a letter, double a word
+Sub lesson 5 questions from the type files. Pass mark: change the first fidel of ልብስ the book's way, and say the doubled word of the ጧት ጧት model.

@@ -33,3 +33,15 @@ a) ሦስት ነጠብጣቦች, the ellipsis: words left out  b) ቅንፍ, par
 **8. (Sub lesson 5)** ወይዘሮ shortened to ወሮ. uses which way of አንድ ነጥብ?
 a) the first two letters  b) the first and last letters  c) the initials of a long name
 **Answer: b) the first and last letters** — ወ…ሮ. The first-two-letters way gives መስተዳድር → መስ.
+
+**9. (Sub lesson 6)** Quotation marks “ ” first mean what?
+a) The sentence has ended  b) Speech taken from another person or book  c) A list follows
+**Answer: b)** — the words inside are carried exactly from somebody else's mouth or page.
+
+**10. (Sub lesson 6)** The Corona paragraph exercise uses which marks together?
+a) Only ።  b) ? ። ! ፣ and “ ”  c) Only “ ”
+**Answer: b)** — the full set, each mark where the reading-aloud ear puts it.
+
+**11. (Sub lesson 6)** Words a paragraph quotes from another person are written how?
+a) In bold  b) Fenced inside “ ”  c) Underlined twice
+**Answer: b)** — quoted speech wears the quotation marks.

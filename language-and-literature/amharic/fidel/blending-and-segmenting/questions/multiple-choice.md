@@ -21,3 +21,15 @@ a) ማደ  b) ዶማች  c) አዶም
 **5. (Sub lesson 5)** Which word starts with the same sound as ከበበ and ከበረ?
 a) ሰበኘ  b) ከደነ  c) በለል
 **Answer: b) ከደነ** — all three start with ከ; ሰበኘ starts with ሰ and በለል with በ.
+
+**6. (Sub lesson 6)** ቦቢ ቀረ። is read in which blending set?
+a) The ቀ/በ set, p.20  b) The ዐ/ዘ/ዠ set, p.39  c) The labialised set
+**Answer: a) The ቀ/በ set, p.20** — Grade 1 p.20.
+
+**7. (Sub lesson 6)** ዕርቅ and ዥግራ belong to which families' blending?
+a) ዐ/ዘ/ዠ  b) የ/ደ/ጀ  c) ቀ/በ
+**Answer: a) ዐ/ዘ/ዠ** — Grade 1 p.39.
+
+**8. (Sub lesson 6)** The p.71 drill splits which kind of words?
+a) The stories' long words  b) Only two-fidel words  c) Names only
+**Answer: a) The stories' long words** — እንደምናሸንፍ and its brothers, Grade 1 p.71.

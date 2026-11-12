@@ -55,3 +55,8 @@ The old scholars watched the stars,
 and the years went round, and round, and round.
 
 Read first for what it says. Then for what it means.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 17, Grade 1: short passages: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 18, Grade 1: comprehension passages: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 19, Grade 2: comprehension passages and a classification: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

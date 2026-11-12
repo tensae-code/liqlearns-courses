@@ -206,6 +206,17 @@ But not every negative is a wrapped verb. Two more shapes stand beside it:
 
 So the converter's questions are three: is it an action? — wrap the verb in አል- … -ም. Is it a being? — አይደለም. Is it a having? — የላቸውም.
 
+
+## Sub lesson 13 — Grade 2: punctuation inside real sentences
+
+Rewrite the book's cleanliness sentences with their correct
+punctuation (ሥርዓተነጥብ) (Grade 2, p.61): the sentences of the
+disease-and-cleanliness chapter, each missing its marks — set
+።, ? and ! where each sentence's own feeling asks for them,
+the way sub lesson 2 teaches the three marks. The chapter's
+two cleanliness webs are drawn in Study Skills at the same
+page.
+
 ## Say it to your companion
 
 Tell your companion: a sentence carries one complete idea, and it ends with ።, ? or !. Then take two short sentences of your own and join them with ስለ, the way the dialogue joins 1ኛ መወጣት እፈልጋለሁ and ሁልጊዜ አጠናለሁ. Your companion counts the verbs in your joined sentence: if there are two or more, they say "ውስብስብ!"

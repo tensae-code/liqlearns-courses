@@ -10,3 +10,6 @@ Draw the rainy-season picture, like the book's colouring page: a hill, clouds, a
 
 ## Season clothes check
 When the season changes, stand at the clothes at home and sort with your voice: this one for በጋ, the dry season; this one for ክረምት, the rainy season. The clothes lesson next door teaches the clothes themselves.
+
+## Added 2026-11-12 — a season sentence
+Write one sentence with መስከረም and one with ፈነዳ about the adey flower, and read both aloud.

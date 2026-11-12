@@ -76,6 +76,19 @@ The same repair is practised in the books on whole story sentences
 must be unscrambled into full sentences. The rule never changes:
 every word in its place, and the sentence says one whole thing.
 
+
+## Sub lesson 4 — Grade 1–2: the books' own sentence sets
+
+- Make sentences with the given words (Grade 1, p.90): the
+  review's own four — ራሳችሁን (yourselves), ምክር (advice),
+  አደጋ (danger), ፍሬን (a brake). One good sentence for each
+  word, about the road chapter they close.
+- The instruments review's jumbled sentences (Grade 2,
+  pp.85–86): put the book's mixed-up sentences in their right
+  order, the way sub lesson 3 repairs them — at the review's
+  own page, with its plurals in One and Many and its agent
+  nouns in Building Words.
+
 ## Say it to your companion
 
 Read your companion the sentence you built in Sub lesson 1. Your

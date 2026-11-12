@@ -38,3 +38,8 @@ Sub lesson 10 questions from the type files. Pass mark: name all seven strategie
 
 ## Sub lesson 11 — Revision questions: the closing check
 Sub lesson 11 questions from the type files. Pass mark: close a finished piece of work with oral revision questions (የክለሳ ጥያቄዎች) before moving on, answering in full speech, and re-read exactly where an answer would not come. This sub lesson stands on teacher-guide evidence only.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 12 — Grade 1–2: classifying webs and tables
+Sub lesson 12 questions from the type files. Pass mark: sort plants into root-eaten and fruit-eaten, and waste into turns-to-soil and does-not.

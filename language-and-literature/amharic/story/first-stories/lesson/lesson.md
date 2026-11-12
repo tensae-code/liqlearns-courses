@@ -99,6 +99,22 @@ cover the sneeze.
 **Act it.** At real water, with real soap: wash before eating,
 the Meseret way, and say her list as you go.
 
+
+## Sub lesson 5 — Your first reading: care of your book
+
+Before the stories, the Grade 1 book speaks to you itself
+(printed p.ii). Read this first text slowly — it is a reading
+with a purpose:
+
+Your book is your friend. Cover it, so its outside stays
+strong. Keep it dry and clean — water and dirt spoil its
+pages. Do not fold its pages down; use a bookmark (a marker)
+to keep your place, so you can find tomorrow's page at once.
+Carry it carefully, and it will teach you all year.
+
+Say the four cares back: cover it, keep it dry and clean, use
+a bookmark, carry it carefully.
+
 ## Say it to your companion
 
 Choose the story you loved most. Retell it to your companion —

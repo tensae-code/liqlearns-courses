@@ -25,3 +25,7 @@ a) eating only one food, a lot of it  b) a full meal with all the food contents 
 **6. (Sub lesson 3)** Which food do we get from an animal?
 a) እንቁላል (egg)  b) ማንጎ (mango)  c) ድንች (potato)
 **Answer: a) እንቁላል (egg)** — the hen gives the egg; the mango and the potato grow on plants.
+
+**7. (Sub lesson 1)** The Grade 1 review at p.72 asks you to write how many kinds of fruit?
+a) Five  b) Two  c) Ten
+**Answer: a) Five** — five kinds of fruit, after the two planting stories.

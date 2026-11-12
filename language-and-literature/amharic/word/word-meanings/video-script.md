@@ -44,3 +44,7 @@ And the higher classes name the two coats.
 But call an event መብረቅ… and it is powerfully shocking.
 That is the layer.
 Two coats. One word. Now you can sort them.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 6, Grade 1: the stories' own word sets: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 7, Grade 2: cooking verbs and device uses: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

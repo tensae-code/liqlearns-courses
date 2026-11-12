@@ -22,3 +22,6 @@ Hard to read! Every word has its place.
 Find the places. Write the sentence whole again.
 
 Build it. Hear it. Order it. You can write sentences.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 4, Grade 1–2: the books' own sentence sets: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

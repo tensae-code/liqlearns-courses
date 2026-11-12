@@ -65,3 +65,15 @@ a) -ኦች  b) ስለ-  c) ላም
 **16. (Sub lesson 12)** The negative of ገሰፀ, as the keyed pair gives it, is —
 a) ገሰፀም  b) አልገሰፁም  c) አይገሰፅም
 **Answer: b) አልገሰፁም** — አል- before, -ም after, and the verb's own shape changes inside the wrap.
+
+**17. (Sub lesson 13)** ሥርዓተነጥብ means…
+a) Correct punctuation — the order of the marks  b) A kind of sentence  c) Handwriting speed
+**Answer: a) Correct punctuation — the order of the marks** — Grade 2 p.61.
+
+**18. (Sub lesson 13)** A sentence that asks goes with…
+a) ?  b) ። only  c) ! only
+**Answer: a) ?** — the three marks of sub lesson 2, at work.
+
+**19. (Sub lesson 13)** The p.61 sentences come from which chapter's world?
+a) Cleanliness and disease  b) Music  c) Wild animals
+**Answer: a) Cleanliness and disease** — the cleanliness chapter, Grade 2 p.61.

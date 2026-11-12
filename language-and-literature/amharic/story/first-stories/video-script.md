@@ -48,3 +48,6 @@ Help him put on his shirt. Arm in. Other arm in.
 You did what Mamo does. That is the story — in your hands now.
 
 Hear it. Say it. Act it. That is how a story becomes yours.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 5, Your first reading: care of your book: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

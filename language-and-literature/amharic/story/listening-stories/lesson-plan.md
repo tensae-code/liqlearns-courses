@@ -224,11 +224,27 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and
-page in lesson/sources.md. All fifteen stories in this lesson stand
-on teacher-guide evidence — the student books print only their
+page in lesson/sources.md. The lesson's parts stand as lesson/sources.md records: sub lessons 1–6 on
+teacher-guide evidence; sub lessons 7–12 mixing student-book listening with
+labelled guide evidence; sub lessons 13–18 on teacher-guide evidence; and
+sub lessons 19–26 as pupil-book parts from the Grade 1 and Grade 2 student
+books — those books print only their titles, pictures and questions, and
+the heard texts are not invented here. The student books print only their
 titles, pictures and questions — and sources.md says so on its
 acceptance line. A teacher sending this lesson sends the lesson and
 its question list as they are — choosing, not remaking.
 **Growth note (2026-11-12):** sub lessons 7–12 grow this lesson with the older grades' listening. Sub lessons 7–11 stand on the student books' own listening lessons — heard texts, descriptions, biographies and debates the pupils themselves are set to hear — with three guide biographies and stories among them labelled (teacher guide — evidence) in the lesson and in sources.md. Sub lesson 12 stands on teacher-guide evidence wholly, and says so. The first six sub lessons are unchanged.
 
 **Growth note (2026-11-12, Band 4):** sub lessons 13–18 grow this lesson with the Grade 9–10 federal guides' listening chapters — traditional mediation, gender, science and technology, epidemics, inclusiveness, environment, tax and patriotism from the Grade 9 guide, and life-skills listening, addiction and migration from the Grade 10 guide. There are no Grade 9–10 student books in the records, so every part of sub lessons 13–18 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Texts are summaries, never transcribed. The first twelve sub lessons are unchanged.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 19 — Grade 1: family, home and school (pupil-book parts): name each story from its title and picture, guess before listening, and answer one question on each story heard.
+- Sub lesson 20 — Grade 1: friendship and plants (pupil-book parts): guess from each title, listen, and use the hare story's four words — ሾለከች, ወጥመድ, ችኩል, እግሬ አውጪኝ — in the story's order.
+- Sub lesson 21 — Grade 1: the road, stories and friends (pupil-book parts): name the traffic-light colours in order and tell what happens when the runner Aynalem wins.
+- Sub lesson 22 — Grade 1: food, cleanliness and animals (pupil-book parts): match the three food groups to their foods and say why the cat in The Faithful Friend does not eat the egg.
+- Sub lesson 23 — Grade 2: clothes and seasons (pupil-book parts): sound out ሹ-ራ-ብ and ቀ-ሚ-ስ, and name one thing each season brings — ክረምት, በጋ, ጸደይ, በልግ.
+- Sub lesson 24 — Grade 2: stories, the garden and cleanliness (pupil-book parts): put the garden-plot jobs in order — ማለስለስ, ማፋሰሻ ቦይ, መመንጠር — and answer the mule story with when/where/how/why.
+- Sub lesson 25 — Grade 2: music, behaviour and food (pupil-book parts): say ይቅርታ and አመሰግናለሁ as Zehara would, and move your shoulders the eskista way, one side then the other.
+- Sub lesson 26 — Grade 2: machines and wild animals (pupil-book parts): say how radio and television differ, and say the hare's mistake in Strength or Cleverness?
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work a pupil-book listening part the book's own way — read the title, study the picture, guess, listen, and answer the book's own questions — for the 58 Grade 1–2 listening placements in sub lessons 19–26. **Add-ons added:** ADD IMAGE [Picture 21200]: a listening prediction board of four title scenes — the student looks, guesses, then listens. ADD GIF [GIF 21204]: two dancers' shoulders rising and falling in turn (eskista) — the student copies the shoulder movement. ADD AUDIO: each sub lesson 19–26 story read aloud once, slowly, as described in the sub lessons.

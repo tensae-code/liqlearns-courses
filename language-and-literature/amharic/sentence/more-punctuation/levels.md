@@ -16,3 +16,6 @@ Pass mark: break a thought with ሠረዝ, pocket an explanation inside ቅን�
 
 ## Sub lesson 5 — Abbreviations with one dot
 Pass mark: shorten a word with አንድ ነጥብ by the first two letters and by the first and last letters, shorten a long name by its initials, and name the guard rule — only common, accepted shortenings.
+
+## Sub lesson 6 — Quotation marks first met, and the Corona paragraph
+Pass mark: say what “ ” first means — speech taken from another person or book — and punctuate a paragraph about ኮረና using ? ። ! ፣ and “ ” together, each mark where the reading-aloud ear puts it.

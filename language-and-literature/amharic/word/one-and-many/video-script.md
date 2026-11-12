@@ -31,3 +31,6 @@ Older plurals live beside it, borrowed from Ge'ez:
 **መምህር → መምህራን. ቤት → አብያት. ቀን → ቀናት.**
 Named here. Their teaching comes later.
 Recognise them. Build with **-ኦች**.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 5, Grade 2: the instruments review plurals: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

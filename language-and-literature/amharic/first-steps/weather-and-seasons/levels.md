@@ -11,3 +11,8 @@ Sub lesson 1 questions from the type files. Pass mark: the three weather words �
 
 ## Sub lesson 2 — Ethiopia's seasons
 Sub lesson 2 questions from the type files. Pass mark: the four seasons in their Amharic names, and what each one brings.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 3 — The Grade 2 book's season words
+Sub lesson 3 questions from the type files. Pass mark: use the four season words, build a የጥቅምት እሸት-shaped phrase, and write a sentence with መስከረም and ፈነዳ.

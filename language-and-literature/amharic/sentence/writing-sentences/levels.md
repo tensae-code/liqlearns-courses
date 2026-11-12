@@ -14,3 +14,8 @@ Sub lesson 2 questions from the type files. Pass mark: write the heard words exa
 
 ## Sub lesson 3 — Word order — putting the words in their places
 Sub lesson 3 questions from the type files. Pass mark: take a mixed-up sentence and write it whole again, every word in its place, end mark in place.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 4 — Grade 1–2: the books' own sentence sets
+Sub lesson 4 questions from the type files. Pass mark: make one sentence each with ራሳችሁን, ምክር, አደጋ and ፍሬን, and repair the instruments review's jumbled sentences.

@@ -56,6 +56,12 @@ countries: Ethiopia
 | Sub lesson 11 (teacher guide — evidence) — every chapter of the guide ends with an oral revision-questions step (የክለሳ ጥያቄዎች አተገባበር) before moving on — a guide-wide method placement, as placed in the placements' series note; no single printed page carries the step, and none is invented here | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, guide-wide (placements, series note) |
 | Picture 9058 / Picture 9059 / Picture 9061 / GIF 9060 — drawn for Sub lessons 8–10 from the rows above | Drawn renders made in this build (PIL, cream-paper style), from Book 10 above; GIF 9060 frame-checked at frames 1/7/13/20 (calendar filling day by day, test banner last) before filing |
 
+| Sub lesson 12 — classification table: root-eaten vs fruit-eaten plants + draw-and-label | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.106 |
+| Sub lesson 2 — concept web classifying foods, animal vs plant products (the p.108 web — fix build: this page was omitted before; placement G2 #96) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.108 |
+| Sub lesson 12 — classify waste: turns to soil vs does not (ፌስታል/plastic vs paper) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.69 |
+| Sub lesson 12 — personal vs environmental cleanliness concept webs (with the p.61 punctuation rewriting in The Sentence) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.61 |
+| Sub lesson 2 — cotton→clothes concept web (ቢጋር) (placement G2 #15's web, re-cited here at its own page) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.15 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The crossword's ANSWERS and RULES are the guide's own, printed at pp.18–19 as placed; the guide's grid drawing itself is an image in a scanned-image PDF and its exact cell layout is not recoverable from the placements' text — Picture 8529's grid is drawn in this build to hold exactly the printed answers, with crossings where the answers' own fidel allow (ጀግና/ግንብኛ share ግ; ንብ shares ን and ብ with ግንብኛ; አክሱም/አክስት share አ; ሱሪ starts from አክሱም's ሱ; ትራስ starts from አክስት's ት; ኬራር crosses ትራስ at ራ). No claim is made that the drawn layout is the book's printed layout. (2) Sub lesson 4 rests on teacher-guide evidence only and is labelled so; the lesson's acceptance count stands on Sub lessons 1–3, which are pupil-taught across the student books. (3) The Grade 4 teacher guide is a partial scan; pp.18–19 are inside the secured pages.

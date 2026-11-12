@@ -189,3 +189,8 @@ remaking.
 **Growth note (2026-11-12):** sub lessons 6–11 grow this lesson with the older grades' passages — descriptive, table, research-style, biography, argue and explain passages, all pupil-taught from the Grade 5–8 student books. The biography sub lesson meets each life as reading only; the writing method for lives belongs to the Writing lessons, and the sub lesson says so in one line. The first five sub lessons are unchanged.
 
 **Growth note (2026-11-12, Band 4):** sub lessons 12–16 grow this lesson with the Grade 9–10 federal guides' reading chapters — work culture (Awramba), unity in diversity, hospitality, cultural performances (the Bahre Hasab reckoning of time, and the traditional-medicine reading), inclusive education and migration. There are no Grade 9–10 student books in the records, so every part of sub lessons 12–16 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Passages are summaries, never transcribed. The first eleven sub lessons are unchanged.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 17 — Grade 1: short passages: say what each little passage is about in one sentence, drum, game and fruit.
+- Sub lesson 18 — Grade 1: comprehension passages: answer each passage's questions from the passage, and use its new words in a sentence.
+- Sub lesson 19 — Grade 2: comprehension passages and a classification: write the Lettuce-and-Kale comparison table and sort six instruments into string, wind and hit-for-sound.

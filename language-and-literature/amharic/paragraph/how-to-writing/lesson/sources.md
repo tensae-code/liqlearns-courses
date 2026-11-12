@@ -23,6 +23,8 @@ countries: Ethiopia
 | Picture 8518 / GIF 8519 / Picture 8520 — drawn for this lesson from the rows above | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 3 above |
 | Picture 9052 / GIF 9053 — drawn for Sub lesson 3 from the row above | Drawn renders made in this build (PIL, cream-paper style), from Book 4 above; GIF 9053 frame-checked at frames 1/7/13/20 (the five steps appearing in order) before filing |
 
+| Sub lesson 4 — process chains for ዶሮ ወጥ and እንጀራ, following the milk model chain (ወተት → ይታለባል → ይረጋል → … → ቅቤ ይወጣል) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.108 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) Sub lesson 2 (the outline, ዝርዝር) rests on teacher-guide evidence only — the Grade 4 student book's matching writing tasks are inside chapters whose guide pages teach the outline step; the part is labelled (teacher guide — evidence) in the table, and the lesson's acceptance count stands on Sub lesson 1's pupil-taught procedural writing. (2) The Grade 4 teacher guide is a partial scan ending at printed p.42, inside Unit 4; p.39 is inside the secured pages. The guide's title page carries an anomaly (it reads "student book, part 1" although the cover, footers and content are the Grade 4 teacher guide) — recorded in the placements and in the course About. (3) The doro-wat step verbs after ይታረዳል are given in the placements without English renderings; the lesson prints them as the book gives them and does not invent translations.

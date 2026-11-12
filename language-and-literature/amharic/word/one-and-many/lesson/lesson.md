@@ -75,6 +75,15 @@ And the plural does not travel alone into a sentence: **subject and verb phrase 
 
 These are **named here exactly as they are named in the teaching — and their teaching is deferred**: no rule for them is built in this lesson, and the list is not completed. Learn to recognise the named ones when you meet them; the -ኦች system above is the plural you build with.
 
+
+## Sub lesson 5 — Grade 2: the instruments review plurals
+
+Make the plurals of the music chapter (Grade 2, pp.85–86):
+ክራር → ክራሮች — and the book's row of instruments and their
+players beside it. (The same review's agent nouns, ፎካሪ
+ይፎክራል, live in Building Words, and its jumbled sentences in
+Writing Sentences, at the same pages.)
+
 ## Say it to your companion
 
 Tell your companion: a plural word names two or more and carries a plural piece — -ኦች, -ዎች or -አች. Make ቀሚስ many for them (ቀሚሶች), then strip ገበሬዎች back to one (ገበሬ) and let them name the piece that fell off.

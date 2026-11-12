@@ -10,3 +10,6 @@ Write ገበሬዎች on a strip of paper, with ዎች on a part you can tear. T
 
 ## Two boxes
 Label two boxes ONE and MANY. Write word cards: ገበሬ, ገበሬዎች, ቅርስ, ቅርስአች, ጫማ, ጫማዎች, ወላጅ, ወላጆች, መልስ, መልሶች. Sort every card into its box, saying the box's two questions aloud for each: how many does it name? does it carry a plural piece?
+
+## Added 2026-11-12 — instrument plurals
+Name an instrument in the room or in a picture and say its plural the review's way — ክራር, ክራሮች.

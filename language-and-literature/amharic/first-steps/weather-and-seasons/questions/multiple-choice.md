@@ -17,3 +17,15 @@ a) rain and cold  b) sun and heat  c) snow
 **4. (Sub lesson 2)** ክረምት (kiremt) brings —
 a) rain and cold  b) only sun  c) no weather at all
 **Answer: a) rain and cold** — ክረምት is the rainy season, the opposite of በጋ.
+
+**5. (Sub lesson 3)** ወቅት means…
+a) A season  b) A month only  c) Rain only
+**Answer: a) A season** — Grade 2 pp.23–24.
+
+**6. (Sub lesson 3)** የጥቅምት እሸት joins a month to…
+a) What grows in it  b) A river  c) A school
+**Answer: a) What grows in it** — the compound-phrase model.
+
+**7. (Sub lesson 3)** ፈነዳ goes with መስከረም because in Meskerem the adey flower…
+a) Bursts open  b) Is planted  c) Is sold
+**Answer: a) Bursts open** — the book's sentence words.

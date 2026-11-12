@@ -55,3 +55,6 @@ Hear the WHOLE message. Be patient. Respect a different idea.
 And at the end of every chapter — questions! **የክለሳ ጥያቄዎች**.
 Ask them aloud. Answer in full.
 Where the answer will not come — read there again.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 12, Grade 1–2: classifying webs and tables: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

@@ -70,3 +70,13 @@ Count the steps with me: one, two, three, four, five.
 
 This week, when you listen — listen like an elder.
 Hear the whole message. Never interrupt. Then answer.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 19, Grade 1: family, home and school (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 20, Grade 1: friendship and plants (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 21, Grade 1: the road, stories and friends (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 22, Grade 1: food, cleanliness and animals (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 23, Grade 2: clothes and seasons (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 24, Grade 2: stories, the garden and cleanliness (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 25, Grade 2: music, behaviour and food (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+Sub lesson 26, Grade 2: machines and wild animals (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

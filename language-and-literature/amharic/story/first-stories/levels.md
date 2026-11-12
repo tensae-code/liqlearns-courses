@@ -36,3 +36,8 @@ mouth covered when sneezing or coughing) and pick one to copy.
 This sub lesson stands on SUPPORTING teacher material — named
 as evidence in sources.md; the workbook stories above are the
 pupil-taught core.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 5 — Your first reading: care of your book
+Sub lesson 5 questions from the type files. Pass mark: say the book's four cares — cover it, keep it dry and clean, use a bookmark, carry it carefully.

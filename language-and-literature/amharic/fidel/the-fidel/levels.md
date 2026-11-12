@@ -35,3 +35,8 @@ Sub lesson 8 questions from the type files. Pass mark: read the three -ዋ sets 
 
 ## Sub lesson 9 — The derived forms ቈ ኈ ኰ ጐ
 Sub lesson 9 questions from the type files. Pass mark: read each derived family (five forms) in order, and match each family to a word that starts with it.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 10 — The Grade 1 book's own practice pages
+Sub lesson 10 questions from the type files. Pass mark: form the ሀ and ለ families from the book's page, read the ኘ sentences, and fill the mixed grid's gaps.

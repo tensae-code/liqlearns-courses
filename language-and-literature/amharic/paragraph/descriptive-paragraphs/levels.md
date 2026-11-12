@@ -17,3 +17,8 @@ Sub lesson 3 questions from the type files. Pass mark: classify a given paragrap
 
 ## Sub lesson 4 — The descriptive paragraph: ሥዕላዊ አንቀጽ
 Sub lesson 4 questions from the type files. Pass mark: write a descriptive paragraph with imagery words (ምስልከሳች ቃላት) that makes a reader see the scene, in the shape of the Tarmaber model and the ብርሃን task.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 5 — Grade 2: describing-word phrases
+Sub lesson 5 questions from the type files. Pass mark: build describing-word phrases on the ነጭ ሸሚዝ model for ልብስ, ፎጣ, ካልሲ and ጫማ.

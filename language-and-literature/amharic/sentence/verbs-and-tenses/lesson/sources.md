@@ -30,6 +30,10 @@ countries: Ethiopia
 | Picture 8662 — the two-objects chart (drawn for this lesson) | Built from አዜብ ለእናቷ ብር ላከች (Grade 5, Ch. 10) and ሰውየው ለልጁ ደብተር ገዛለት (Grade 6, printed pp. 185, 191) |
 | Picture 8661 — the በላ paradigm chart (drawn for this lesson) | Built from the paradigm at Grade 6, printed p. 13 |
 
+| Sub lesson 6 — verb-form pattern ወደቀች (-ች) + dropping letters (months review cited in Time) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.28–29 |
+| Sub lesson 6 — progressive pattern copying (ቀረበ → እየቀረበች) + long-word blending | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.36–38 |
+| Sub lesson 6 — verb-form exercise (ጨመረ → ይጨምራል) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.69 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The two namings of the transitive/intransitive pair are both kept, exactly as the books give them: the Grade 5 and Grade 6 books say ተሻጋሪ ግስ / ኢተሻጋሪ ግስ; the Grade 7 book says ሳቢ ግስ / ኢሳቢ ግስ — and the Grade 5 book itself also calls the intransitive ኢሳቢ ግስ. The lesson teaches ሳቢ / ኢሳቢ as the head names and gives ተሻጋሪ / ኢተሻጋሪ alongside, so a learner meeting either book's term knows it. (2) Where the Grade 5 grammar is taught inside a listening lesson, the placements give the chapter's page span and the host lessons' printed pages, not a separate grammar page; the table cites those pages exactly and claims no other. (3) The Grade 8 book spells the past block ሀላፊ (without የ-) in its grammar note, while Grade 5 writes የሀላፊ ጊዜ; both spellings are kept where each book is quoted. (4) No hardness numbers are written anywhere in this lesson — the books give none.

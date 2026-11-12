@@ -7,3 +7,6 @@ Say what you do on each day — school days, ቅዳሜ (Saturday), እሁድ (Su
 
 ## The year in your family
 Ask at home: in which month is your birthday, in Ethiopia's calendar? In which month does the New Year (እንቁጣጣሽ) come — which month is first?
+
+## Added 2026-11-12 — months without the chart
+Write the thirteen months in order from መስከረም on paper, from memory; check against sub lesson 2's chart and fix any gap.

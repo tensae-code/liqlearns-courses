@@ -21,3 +21,15 @@ a) ገላጭ ስልት  b) ተራኪ ስልት  c) ቢጋር ስልት
 **5. (Sub lesson 4)** A ሥዕላዊ አንቀጽ works by —
 a) imagery words (ምስልከሳች ቃላት) that make the reader see the scene in the mind  b) the shortest words possible  c) listing numbers and dates
 **Answer: a) imagery words (ምስልከሳች ቃላት) that make the reader see the scene in the mind** — the Tarmaber mountain way.
+
+**6. (Sub lesson 5)** In ነጭ ሸሚዝ, the describing word is…
+a) ነጭ — white  b) ሸሚዝ — shirt  c) Both are things
+**Answer: a) ነጭ — white** — Grade 2 p.15.
+
+**7. (Sub lesson 5)** A describing-word phrase puts the describing word…
+a) First, before the thing  b) After the thing  c) At the end of the sentence
+**Answer: a) First, before the thing** — the book's model phrase.
+
+**8. (Sub lesson 5)** ካልሲ are…
+a) Socks  b) Shoes  c) A towel
+**Answer: a) Socks** — the book's clothing row, Grade 2 p.15.

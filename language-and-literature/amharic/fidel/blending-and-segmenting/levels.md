@@ -21,3 +21,8 @@ Sub lesson 4 questions from the type files. Pass mark: work one row of the rearr
 
 ## Sub lesson 5 — Sorting by first and last sounds, and clap the letters
 Sub lesson 5 questions from the type files. Pass mark: pick the words that start with a named sound from a mixed set, name the middle fidel of ከበበ, clap-count a three-fidel word, and sort words into 2-, 3- and 4-fidel groups.
+
+# Growth — sub lessons added 2026-11-12
+
+## Sub lesson 6 — The Grade 1 book's blending pages, page by page
+Sub lesson 6 questions from the type files. Pass mark: blend the p.20 and p.39 rows whole, and split እንደምናሸንፍ and blend it back.

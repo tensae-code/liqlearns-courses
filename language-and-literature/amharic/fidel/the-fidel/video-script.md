@@ -86,3 +86,6 @@ Five forms each. Not seven. Five.
 Now the chart is truly complete.
 Thirty-three families. The ዋ forms. These four.
 Every letter the book teaches. Yours.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 10, The Grade 1 book's own practice pages: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

@@ -2411,3 +2411,52 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 13624 | pictures/13624.gif | the genna strike sends the ball into the circle | Physical Education — Traditional Games of Our Zone |
 | 13625 | pictures/13625.gif | the name-called dash into the circle | Physical Education — Games for Awareness and Quick Response |
 | 13626 | pictures/13626.gif | leader moves, partner mirrors | Physical Education — Games for Self-Leadership |
+
+## Computer Science and ICT — Grade 10 Unit 2 Computer Network band (Ethiopia Wave 3, D2)
+
+- 14500 — 14500.webp — "Transmission media — three pathways" — lesson networks/wired-and-wireless-media (grown)
+- 14501 — 14501.gif — a bit travelling as an electric pulse, then a light flash, then a wave pattern — lesson networks/wired-and-wireless-media (grown) — frame-checked
+- 14502 — 14502.webp — "Twisted pair — twisting cancels interference" — lesson networks/twisted-pair-cable-twisting-cancels-interference
+- 14503 — 14503.gif — two wires twisting, the nearer-to-noise wire swapping at every crossing — lesson networks/twisted-pair-cable-twisting-cancels-interference — frame-checked
+- 14504 — 14504.webp — "RJ45 — and the two wiring orders" — lesson networks/utp-cable-rj45-and-straight-through-vs-crossover
+- 14505 — 14505.gif — crimper jaws closing on an RJ45 connector on a cable (teacher guide — evidence) — lesson networks/utp-cable-rj45-and-straight-through-vs-crossover — frame-checked
+- 14506 — 14506.webp — "UTP and STP cut open" — lesson networks/shielded-twisted-pair-when-utp-is-not-enough
+- 14507 — 14507.webp — "Coaxial cable — five layers" — lesson networks/coaxial-cable-a-core-inside-a-shield
+- 14508 — 14508.webp — "BNC connectors — joining coaxial cable" — lesson networks/bnc-connectors-joining-coaxial-cable
+- 14509 — 14509.webp — "Fibre-optic cable — sending light" — lesson networks/fibre-optic-cable-sending-light
+- 14510 — 14510.gif — a light pulse travelling down the fibre, bouncing in the core — lesson networks/fibre-optic-cable-sending-light — frame-checked
+- 14511 — 14511.webp — "Fibre connectors — SC, ST, MT-RJ" — lesson networks/fibre-connectors-sc-st-and-mt-rj
+- 14512 — 14512.webp — "How wireless signals travel" — lesson networks/how-wireless-signals-travel-ground-sky-and-line-of-sight
+- 14513 — 14513.gif — the three propagations in turn: ground hugging the curve, sky bouncing off the ionosphere band, line-of-sight straight between towers — lesson networks/how-wireless-signals-travel-ground-sky-and-line-of-sight — frame-checked
+- 14514 — 14514.webp — "Radio waves — in all directions at once" — lesson networks/radio-waves-broadcasting-in-all-directions
+- 14515 — 14515.gif — rings spreading from an antenna in all directions to many receivers — lesson networks/radio-waves-broadcasting-in-all-directions — frame-checked
+- 14516 — 14516.webp — "Microwaves — aimed beams" — lesson networks/microwaves-aimed-beams-dish-and-horn-antennas
+- 14517 — 14517.gif — parallel rays striking a dish and converging on its focus — lesson networks/microwaves-aimed-beams-dish-and-horn-antennas — frame-checked
+- 14518 — 14518.webp — "Infrared — the remote's invisible light" — lesson networks/infrared-short-range-invisible-light
+- 14519 — 14519.webp — "A telecommunications system" — lesson networks/telecommunications-systems-parts-and-hidden-jobs
+- 14520 — 14520.gif — three signals merging into one shared line (multiplexing, teacher guide — evidence) — lesson networks/telecommunications-systems-parts-and-hidden-jobs — frame-checked
+- 14521 — 14521.webp — "Analogue vs digital — and the modem" — lesson networks/analogue-vs-digital-and-what-a-modem-does
+- 14522 — 14522.gif — digital pulses moulded into an analogue wave, travelling, restored to pulses — lesson networks/analogue-vs-digital-and-what-a-modem-does — frame-checked
+- 14523 — 14523.webp — "Telecommunications in Ethiopia" — lesson networks/telecommunications-in-daily-life-and-business
+- 14524 — 14524.webp — "Bluetooth — the cable replacer" — lesson networks/bluetooth-short-range-wireless-and-pairing
+- 14525 — 14525.gif — two phones pairing: request, acceptance, link — lesson networks/bluetooth-short-range-wireless-and-pairing — frame-checked
+- 14526 — 14526.webp — "Wireless LAN — access points overlap" — lesson networks/wireless-access-points (grown)
+- 14527 — 14527.gif — a laptop walked from one AP's circle through the overlap into the next, staying connected — lesson networks/wireless-access-points (grown) — frame-checked
+- 14528 — 14528.webp — "Cellular networks — cells and base stations" — lesson networks/cellular-networks-cells-base-stations-msc
+- 14529 — 14529.gif — a moving phone's connection hopping from base station to base station — lesson networks/cellular-networks-cells-base-stations-msc — frame-checked
+- 14530 — 14530.webp — "Mobile generations — 1G to 5G" — lesson networks/mobile-generations-from-1g-to-5g
+- 14531 — 14531.webp — "Satellite networks — up, relay, down" — lesson networks/satellite-networks-uplink-downlink-transponder
+- 14532 — 14532.gif — a signal travelling up from an earth station, relayed at the satellite, coming down to a village — lesson networks/satellite-networks-uplink-downlink-transponder — frame-checked
+- 14533 — 14533.webp — "Satellite orbits — GEO, MEO, LEO" — lesson networks/satellite-orbits-geo-meo-leo
+- 14534 — 14534.webp — "Data communication — the five components" — lesson networks/data-communication-delivery-accuracy-timeliness-jitter
+- 14535 — 14535.webp — "Transmission modes — three roads" — lesson networks/simplex-half-duplex-and-full-duplex
+- 14536 — 14536.gif — arrows flowing one way (simplex), alternating (half-duplex), both ways at once (full-duplex) — lesson networks/simplex-half-duplex-and-full-duplex — frame-checked
+- 14537 — 14537.webp — "IP addresses — every device's own address" — lesson networks/ip-addresses-ipv4-and-ipv6
+- 14538 — 14538.webp — "IP address classes and network masks" — lesson networks/ip-address-classes-and-network-masks
+
+| 21200 | pictures/21200.webp | listening first: look, guess, listen — prediction board | Amharic — Story — Listening Stories |
+| 21201 | pictures/21201.webp | the children of our neighbourhood — the shola tree | Amharic — Story — Reading Stories |
+| 21202 | pictures/21202.webp | cross at the zebra crossing — the two pots | Amharic — Story — Reading Stories / Reading Passages |
+| 21203 | pictures/21203.webp | traditional instruments — three families | Amharic — Story — Reading Passages |
+| 21204 | pictures/21204.gif | eskista — the shoulder dance | Amharic — Story — Listening Stories |
+| 21205 | pictures/21205.gif | change one fidel, make a new word — ደመቀ → ደበቀ | Amharic — Word — Building Words |

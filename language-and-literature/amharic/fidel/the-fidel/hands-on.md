@@ -49,3 +49,6 @@ Special Needs toolkit for pre-primary schools).
   once — the picture card to see, the spoken sound to hear, and
   the air-tracing and stone-writing to feel. Keep all three
   together; that triple is itself the support.
+
+## Added 2026-11-12 — the book's grid at home
+Draw a small mixed grid with three gaps, swap with a partner, and fill each other's gaps; then read the ኘ sentences aloud.

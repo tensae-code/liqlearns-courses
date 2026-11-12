@@ -77,6 +77,12 @@ One rule guards both ways: **only abbreviations in common, accepted use may be u
 
 And the growth: whole names shorten by their **initials**, each initial carrying its dot — የእርዳታ ማስተባበሪያና ማቋቋሚያ ኮሚሽን becomes **እ.ማ.ማ.ኮ** — and compound words and institution names shorten the same accepted way (ፍርድቤት, ምክርቤት, ትምህርትቤት, ጽሕፈትቤት). With the slash of Sub lesson 3 (ት/ቤት) you now own both shortening tools — the dot for words and initials, the slash for compounds only.
 
+## Sub lesson 6 — Quotation marks first met, and the Corona paragraph
+
+Quotation marks arrive earlier than the grown work of Sub lesson 2. The first time a learner meets them, they are introduced simply: **“ ” marks speech taken from another person or from a book** — the words inside are not the writer's own; they are carried, exactly, from somebody else's mouth or page.
+
+The first exercise is a whole paragraph, about **ኮረና** — corona. The paragraph comes with its marks stripped away, and your job is to put every mark back where it belongs, using the full set together: **? ። ! ፣ and “ ”**. A question gets its ?; a finished statement closes with ።; a cry of feeling takes !; a pause inside the sentence rests on ፣; and any words the paragraph quotes — speech taken from another person — are fenced inside “ ”. Read the paragraph aloud as you work: your ear will tell you where each mark wants to stand, and the marks will confirm what your ear heard.
+
 ## Say it to your companion
 
 Read the seven feelings' cries from Picture 8728 aloud, one by one, and let your companion name each feeling before you say it. Then take a sentence your companion says and repeat it back inside quotation marks — their exact words, no changes. Finish by reading a sentence with a parenthesis in it: lower your voice for the aside inside the ቅንፍ, the way a sentence whispers.

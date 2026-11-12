@@ -40,3 +40,6 @@ Copy the lesson's crossword grid onto a big sheet, empty.
 In pairs, fill it from the clue answers (across and down lists
 kept beside you). Swap sheets and check each other against the
 book's filled grid — every fidel in its box.
+
+## Added 2026-11-12 — a classifying table at home
+Draw the root/fruit table and put three real foods from your kitchen into it; then sort three waste things into turns-to-soil and does-not.

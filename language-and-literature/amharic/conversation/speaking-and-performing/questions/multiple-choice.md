@@ -33,3 +33,15 @@ a) reading it silently from the book  b) hearing it performed aloud, then chanti
 **8. (Sub lesson 8)** Interpreting a qene (ቅኔ) poem means —
 a) memorising it by heart  b) untying it, to find the hidden meaning under the surface meaning  c) reading it as fast as you can
 **Answer: b) untying it, to find the hidden meaning under the surface meaning** — by the methods of qene interpretation, የቅኔ አፈታት ዘዴዎች.
+
+**9. (Sub lesson 9)** ባትሪ is the name of…
+a) A battery  b) A camera  c) A radio
+**Answer: a) A battery** — Grade 2 pp.122–124.
+
+**10. (Sub lesson 9)** የልብስ ማጠቢያ ማሽን means…
+a) The clothes-washing machine  b) The television room  c) A telephone box
+**Answer: a) The clothes-washing machine** — the device-phrase model, Grade 2 pp.122–124.
+
+**11. (Sub lesson 9)** When you complete a telephone conversation, the last thing is…
+a) The greeting  b) Saying goodbye properly  c) The message
+**Answer: b) Saying goodbye properly** — greeting, message, thanks, goodbye — in that order.

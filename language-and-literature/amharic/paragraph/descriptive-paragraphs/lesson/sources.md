@@ -12,6 +12,8 @@ countries: Ethiopia
 
 **Book 5:** *Grade 6 Amharic Teacher Guide* (የአማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መጽሐፍ, ፮ (6)ኛ ክፍል) (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum, 42 PDF pages. Printed page = PDF page − 6. Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g06-teacher-placements.md. The secured copy ends at printed p.36, inside Unit 4 (see the honesty notes).
 
+**Book 6:** *Grade 2 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; authors አበበች ተስፋዬ ዳምጤ, እሸቴ መብራት አንዳርጌ; 160 PDF pp., printed pp.1–150 + front matter. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g02-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the paragraph's ኃይል ቃል (topic sentence / "power word") marked on a chart, with its መዘርዝሪያ ዓረፍተነገሮች (supporting sentences); learners identify them in model paragraphs, then write (teacher guide — evidence) | Ethiopia, *Grade 5 Amharic Teacher Guide*, printed p.11 |
@@ -26,6 +28,8 @@ countries: Ethiopia
 | Sub lesson 4 — descriptive prose model: Wehni Amba (bare, steep, rock like bone, ringed by sharp chain mountains, its nose in the clouds); writing: expand two outline points into a short paragraph | Ethiopia, *Amharic Student Textbook, Grade 5*, printed pp.90–91 |
 | Sub lesson 4 (supporting) — writing a ገላጭ (descriptive) paragraph among Unit 4's contents (teacher guide — evidence) | Ethiopia, *Grade 5 Amharic Teacher Guide*, printed pp.38–39 |
 | Pictures 8780, 8781, 8782, 8783 / GIF 8784 — drawn for this lesson from the rows above | Drawn renders made in this build (PIL, cream-paper style), from Books 1–5 above |
+
+| Sub lesson 5 — adjective+noun phrases (ነጭ ሸሚዝ model: ልብስ, ፎጣ, ካልሲ, ጫማ with describing words) (the absent half of placement G2 #15; its concept web is stocked in Study Skills) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.15 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

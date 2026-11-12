@@ -20,3 +20,6 @@ how doro wat is made), write the outline first on one shared
 sheet: the topic, then three to five short point-lines. Pin it
 up. Write from it. At the end, check: does the writing follow
 the outline, line by line?
+
+## Added 2026-11-12 — a chain from your kitchen
+Build a spoken arrow-chain for a food made at home, following the milk model: each arrow one step, in order, until the food is ready.

@@ -46,3 +46,15 @@ denotative meaning; the shocking layer is the connotative one.
 a) the context — the words around the word and the world around the words  b) nothing at all  c) the dictionary alone
 **Answer: a)** — the layered meaning leans on the linguistic
 and the non-linguistic context.
+
+**10. (Sub lesson 6)** What does እግረኛ mean?
+a) One who goes on foot — a pedestrian  b) A taxi driver  c) A shopkeeper
+**Answer: a) One who goes on foot — a pedestrian** — ዜብራው's word set, Grade 1 p.82.
+
+**11. (Sub lesson 6)** What does ኮሚቴ mean?
+a) A committee  b) A market  c) A committee's chair only
+**Answer: a) A committee** — Grade 1 p.105.
+
+**12. (Sub lesson 7)** Which verb cooks ቂጣ?
+a) ይጋገራል — it is baked  b) ይገነፋል  c) ይጠመቃል
+**Answer: a) ይጋገራል — it is baked** — the cooking-verb matching, Grade 2 p.116.

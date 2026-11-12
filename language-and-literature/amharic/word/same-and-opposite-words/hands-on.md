@@ -29,3 +29,6 @@ front of you. Say each word while you point at its picture; add
 more pairs only when these three are easy. Breaking the work
 into small steps, with a picture for every word, is the support
 the course builds in (SNE toolkit — SUPPORTING; see sources.md).
+
+## Added 2026-11-12 — opposite pairs game
+Say a word from sub lesson 3; your partner must answer with its opposite — ጠባብ, then ሰፊ — before you count to five.

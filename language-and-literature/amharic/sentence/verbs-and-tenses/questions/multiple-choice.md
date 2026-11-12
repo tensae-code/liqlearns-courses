@@ -25,3 +25,15 @@ a) ለእናቷ  b) ላከች  c) ብር
 **6. (Sub lesson 5)** "We ate" in the በላ family is —
 a) በላን  b) በላችሁ  c) በሉ
 **Answer: a) በላን** — እኛ በላን.
+
+**7. (Sub lesson 6)** In ወደቀች, what does the ending -ች mark?
+a) That 'she' did it  b) That many did it  c) That it will happen tomorrow
+**Answer: a) That 'she' did it** — Grade 2 pp.28–29.
+
+**8. (Sub lesson 6)** ቀረበ in its doing-now form is…
+a) እየቀረበች  b) ቀረበች  c) ይቀርባል
+**Answer: a) እየቀረበች** — Grade 2 pp.36–38.
+
+**9. (Sub lesson 6)** ይጨምራል comes from which base verb?
+a) ጨመረ  b) ጨረሰ  c) መጣ
+**Answer: a) ጨመረ** — Grade 2 p.69.

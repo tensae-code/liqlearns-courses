@@ -52,3 +52,5 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** a plain section (this lesson has no sub lessons) adds the Grade 2 book's device-name matching set (ሬዲዮ, ቴሌቪዥን, ስልክ, ባትሪ, ካሜራ) and its device phrases at printed pp.122–124 — placement G2 #109's matching half; the telephone-completion half is stocked in Speaking and Performing, sub lesson 9.

@@ -30,3 +30,14 @@ a) ህዳር  b) ጥር  c) ሰኔ
 a) ነሐሴ  b) ጳጉሜን  c) ሐምሌ
 **Answer: b) ጳጉሜን**
 
+**8. (Sub lesson 3)** Which month begins the thirteen, in the book's review writing?
+a) መስከረም  b) ሰኔ  c) ጳጉሜን
+**Answer: a) መስከረም** — Grade 2 pp.28–29.
+
+**9. (Sub lesson 3)** ሐምሌ in the drills is sounded…
+a) Fidel by fidel, then whole  b) Backwards  c) By singing only
+**Answer: a) Fidel by fidel, then whole** — Grade 2 pp.16–19.
+
+**10. (Sub lesson 3)** How many Ethiopian months does the review ask you to write?
+a) Thirteen  b) Twelve  c) Seven
+**Answer: a) Thirteen** — the thirteen months in order.

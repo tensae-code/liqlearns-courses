@@ -54,3 +54,45 @@ Answer in a short sentence, from the story you heard.
 
 **18. (Sub lesson 18)** From the drug-consequences listening: name two costs of drug use that the guide keys.
 **Answer:** Any two of: the health-care costs of users; the productivity (work) users lose; and, when use spreads, crime and pressure on safety and order.
+
+**19. (Sub lesson 20)** Say the four words the book teaches with The Clever Hare, and what each means.
+**Answer:** ሾለከች — she slipped away; ወጥመድ — a trap; ችኩል — hurried; እግሬ አውጪኝ — “let my leg out!” (Grade 1, pp.76–79).
+
+**20. (Sub lesson 23)** Name the four seasons the listening passage የዓመቱ ወቅቶች teaches.
+**Answer:** ክረምት (rainy), በጋ (dry), ጸደይ and በልግ (Grade 2, pp.20–21).
+
+**21. (Sub lesson 25)** Which dance does the Grade 2 listening lesson እስክስታ teach, and how does it move?
+**Answer:** Eskista, the shoulder dance — the shoulders rise and fall, men's and women's styles differing (Grade 2, p.81).
+
+**22. (Sub lesson 26)** Name two rare Ethiopian wild animals from the listening story at Grade 2 p.139.
+**Answer:** The walia (ዋልያ) and the red fox (ቀይ ቀበሮ).
+
+**23. (Sub lesson 20)** What do Sara and Mohammed's follow-up questions ask about?
+**Answer:** Plants and trees, and which plants we eat (Grade 1, p.73).
+
+**24. (Sub lesson 21)** Why must children not play ball on the road, in ኳሳችን's world?
+**Answer:** Cars pass there; the ball belongs on the field, not the road (Grade 1, p.87).
+
+**25. (Sub lesson 21)** Who is ሯጯ, the runner, about?
+**Answer:** The athlete Aynalem — her results, and the flag and anthem at her victory (Grade 1, p.94).
+
+**26. (Sub lesson 22)** What does the polluted-river story's title say happened to the river?
+**Answer:** It was polluted — የተበከለው ወንዝ (Grade 1, p.114).
+
+**27. (Sub lesson 22)** In The Dog and the Rooster, what does the rooster give the dog?
+**Answer:** Gold (Grade 1, p.134).
+
+**28. (Sub lesson 23)** Name the festival clothes in Qenubsh at the Genna Festival.
+**Answer:** ኩታ, ጥልፍ, ጃኖ (Grade 2, p.6).
+
+**29. (Sub lesson 24)** What does the bird in The Bird's Complaint find in the fouled neighbourhood?
+**Answer:** No clean resting place (Grade 2, p.62).
+
+**30. (Sub lesson 24)** In Cleanliness for Health, name two of the book's words.
+**Answer:** ሳሙና (soap), ጉድጓድ, ማቃጠል, መሸፈን — any two (Grade 2, p.58).
+
+**31. (Sub lesson 25)** Say 'excuse me / forgiveness' and 'thank you' the way Zehara's book teaches.
+**Answer:** ይቅርታ — አመሰግናለሁ (Grade 2, p.87).
+
+**32. (Sub lesson 26)** What does ታዳሚ mean, from Radio and Television?
+**Answer:** The audience — those who listen and watch (Grade 2, p.119).

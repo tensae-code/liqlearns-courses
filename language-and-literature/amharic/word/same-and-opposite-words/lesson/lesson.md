@@ -76,6 +76,15 @@ same kind, or the opposite kind?
 The work here is matching: a word is given, and you find the word
 that faces away from it. Play it until the pairs answer at once.
 
+
+## Sub lesson 3 — The Grade 1 book's opposite matching
+
+Match each word to its opposite, the book's own set (Grade 1,
+p.90): ጠባብ ↔ ሰፊ (narrow ↔ wide) — the pair of sub lesson 2,
+now at its own page — ደስታ ↔ ሀዘን (joy ↔ sorrow), and the rest
+of the book's row. Say each pair aloud: the word, then its
+opposite.
+
 ## Say it to your companion
 
 Sit facing your companion. One of you says a word from the

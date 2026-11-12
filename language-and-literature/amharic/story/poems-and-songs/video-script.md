@@ -62,3 +62,6 @@ Hear how much one picture can hold.
 Now write yours. Its name is ready:
 **የመማሪያ ክፍላችን** — Our Classroom.
 Short. Deep. Yours. Then stand — and read it aloud.
+
+## Added 2026-11-12 — the Grade 1–2 student-book parts
+Sub lesson 13, Grade 2: perform it, and the spoken-poem kinds: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.

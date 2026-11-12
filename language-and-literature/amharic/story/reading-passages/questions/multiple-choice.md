@@ -88,3 +88,27 @@ a) Braille and tape-recording  b) Guessing the questions  c) Sitting a different
 **22. (Sub lesson 16)** What two works does the migration reading set?
 a) Copy the passage and learn it by heart  b) Explain what was grasped, and write the themes presented  c) Draw a map and label it
 **Answer: b)** — grasp explained in your own words; themes written.
+
+**23. (Sub lesson 17)** What is the gebeta passage about?
+a) A board game, ገበጣ  b) A river  c) A market
+**Answer: a) A board game, ገበጣ** — Grade 1 p.52.
+
+**24. (Sub lesson 18)** In The Zebra Crossing, what is a zebra crossing?
+a) A white-painted line where people walking cross the road  b) A place for zebras  c) A kind of taxi
+**Answer: a) A white-painted line where people walking cross the road** — Grade 1 p.81.
+
+**25. (Sub lesson 18)** How do the hyenas defeat the lion in Cooperation Is Strength?
+a) They run away  b) They unite  c) They pay him food
+**Answer: b) They unite** — መተባበር ኃይል ነው, Grade 1 pp.99–100.
+
+**26. (Sub lesson 19)** Into which family does the krar (ክራር) go?
+a) String  b) Wind  c) Hit for sound
+**Answer: a) String** — the instrument classification, Grade 2 pp.83–84.
+
+**27. (Sub lesson 19)** What spreads on Lake Tana when waste builds up?
+a) Water hyacinth — እንቦጭ አረም  b) Ice  c) Sand
+**Answer: a) Water hyacinth — እንቦጭ አረም** — ጣናን እንከባከብ, Grade 2 p.67.
+
+**28. (Sub lesson 17)** The papaya passage is read after the review grid of which families?
+a) ጸ ፀ ፈ ፐ ቨ  b) ሀ ለ ሐ መ  c) ቀ በ ተ ቸ
+**Answer: a) ጸ ፀ ፈ ፐ ቨ** — Grade 1 pp.59–60.
