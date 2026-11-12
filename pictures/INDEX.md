@@ -2460,3 +2460,84 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 21203 | pictures/21203.webp | traditional instruments — three families | Amharic — Story — Reading Passages |
 | 21204 | pictures/21204.gif | eskista — the shoulder dance | Amharic — Story — Listening Stories |
 | 21205 | pictures/21205.gif | change one fidel, make a new word — ደመቀ → ደበቀ | Amharic — Word — Building Words |
+## Computer Science and ICT — Grade 10 Unit 4 Multimedia band (Ethiopia Wave 3, D4)
+
+- 15300 — 15300.webp — "Five forms merging into one screen, deeper" — lesson multimedia/multimedia-many-forms-one-presentation (grown)
+- 15301 — 15301.webp — "Five fields where multimedia works" — lesson multimedia/where-multimedia-is-used-five-fields
+- 15302 — 15302.webp — "One screen dissected into its five components" — lesson multimedia/the-five-components-of-multimedia
+- 15303 — 15303.webp — "A multimedia PC and its required parts" — lesson multimedia/multimedia-hardware-and-software-requirements
+- 15304 — 15304.webp — "Three shelves of multimedia formats" — lesson multimedia/multimedia-file-formats-sound-image-video
+- 15305 — 15305.webp — "The eight production roles" — lesson multimedia/multimedia-production-the-eight-roles
+- 15306 — 15306.webp — "The five authoring stages" — lesson multimedia/multimedia-authoring-analysis-to-distribution
+- 15307 — 15307.webp — "The Flash MX screen, labelled" — lesson multimedia/authoring-tools-naming-the-flash-screen
+- 15308 — 15308.webp — "Draw, then fill, in three frames" — lesson multimedia/drawing-and-filling-a-first-flash-piece
+- 15309 — 15309.webp — "Four keyframes turning a figure" — lesson multimedia/keyframe-animation-and-editing-an-icon
+- 15310 — 15310.webp — "A text field being typed, with its Properties panel" — lesson multimedia/inserting-and-styling-text-in-a-multimedia-project
+- 15311 — 15311.webp — "One photo, four transforms" — lesson multimedia/importing-and-transforming-images
+- 15312 — 15312.webp — "A dissolve straddling the cut" — lesson multimedia/video-transitions-placing-and-previewing-them
+- 15313 — 15313.webp — "A symbol on its guide path" — lesson multimedia/motion-guides-moving-a-symbol-along-a-path
+- 15314 — 15314.webp — "A library panel of symbols" — lesson multimedia/multimedia-libraries-create-open-add-use
+- 15315 — 15315.webp — "A waveform with the Time Stretch dialogue" — lesson multimedia/importing-sound-and-changing-its-play-speed
+- 15316 — 15316.webp — "An imported movie and its audio properties" — lesson multimedia/importing-digital-movies-and-controlling-their-sound
+- 15317 — 15317.webp — "A clip with its shaky middle marked" — lesson multimedia/trimming-video-clips-smart-trim
+- 15318 — 15318.webp — "One clip: normal, sped up, frozen" — lesson multimedia/clip-speed-and-duration-freeze-frames
+- 15319 — 15319.webp — "A straight line vs a linked web" — lesson multimedia/multimedia-and-hypermedia-linear-vs-linked
+- 15320 — 15320.gif — rectangle drawn, then bucket fill flooding it — lesson multimedia/drawing-and-filling-a-first-flash-piece — frame-checked
+- 15321 — 15321.gif — the four keyframes playing as a turning figure — lesson multimedia/keyframe-animation-and-editing-an-icon — frame-checked
+- 15322 — 15322.gif — a picture being free-transformed, corners dragged — lesson multimedia/importing-and-transforming-images — frame-checked
+- 15323 — 15323.gif — the cross dissolve playing across the cut — lesson multimedia/video-transitions-placing-and-previewing-them — frame-checked
+- 15324 — 15324.gif — the symbol travelling around the drawn circle — lesson multimedia/motion-guides-moving-a-symbol-along-a-path — frame-checked
+- 15325 — 15325.gif — a moving figure freezing, holding, then moving again — lesson multimedia/clip-speed-and-duration-freeze-frames — frame-checked
+- 15326 — 15326.gif — smart trim marking and removing a shaky section — lesson multimedia/trimming-video-clips-smart-trim — frame-checked
+- 15327 — 15327.gif — five forms sliding together into one presentation — lesson multimedia/multimedia-many-forms-one-presentation (grown) — frame-checked
+
+| 21600 | pictures/21600.webp | a word chart — ጤና (health) with ሃኪም, መድሃኒት, አትክልት, ጥንቃቄ | Amharic — Story — Grade 3 Health |
+| 21601 | pictures/21601.webp | a word chart — ጉርብትና (neighbourliness) with ጎረቤት, መፋቀር, መተማመን, አባላት | Amharic — Story — Grade 3 Neighbours |
+| 21602 | pictures/21602.webp | a word chart — ታሪኮች (stories) with አራት ላሞች, ዝሆን, አንበሳ, ወፍ | Amharic — Story — Grade 3 More Stories |
+| 21603 | pictures/21603.webp | a word chart — የጊዜ አጠቃቀም (using time) with ጊዜ, ዕቅድ, ሰዓት ማክበር, ክረምት | Amharic — Story — Grade 3 Using Time |
+| 21604 | pictures/21604.webp | a word chart — መጓጓዣ (transport) with ባቡር, ታንኳ, በቅሎ, መኪና | Amharic — Story — Grade 3 Transport |
+| 21605 | pictures/21605.webp | a word chart — ሥነምግባር (behaviour) with ታማኝነት, ምግባር, ቤተመጻሕፍት, ደንብ | Amharic — Story — Grade 3 Good Behaviour |
+| 21606 | pictures/21606.webp | a word chart — ግብርና (farming) with ማረሻ, ቀንበር, ክረምት, አዝመራ | Amharic — Story — Grade 3 Farming |
+| 21607 | pictures/21607.webp | a word chart — ሥራ (work) with አናጺ, ንብ, መምህር, ሥራ | Amharic — Story — Grade 3 Work |
+| 21608 | pictures/21608.webp | a word chart — ባህል (culture) with አሸንድዬ, እስክስታ, እንቆቅልሽ, ቀርቀሃ | Amharic — Story — Grade 3 Culture |
+| 21609 | pictures/21609.webp | a word chart — ገበያ (market) with ገበያ, ሸቀጣሸቀጥ, ቅመም, ሻጭ | Amharic — Story — Grade 3 Market |
+| 21610 | pictures/21610.gif | a word splits into its stem and suffix (ኗሪ + ዎች) | Amharic — Story — Grade 3 Neighbours |
+| 21611 | pictures/21611.gif | a tankwa being poled across water | Amharic — Story — Grade 3 Transport |
+## Computer Science and ICT — Grade 10 Units 5–6 band (Ethiopia Wave 3, D5)
+
+- 15700 — 15700.webp — "Information security and computer security — the shield and the three protected things" — lesson safety-security-and-care/what-security-and-computer-security-mean (grown)
+- 15701 — 15701.webp — "What insecurity costs a school" — lesson safety-security-and-care/what-insecurity-costs-society
+- 15702 — 15702.webp — "Privacy and security — two different doors" — lesson safety-security-and-care/privacy-and-security-rights-and-locks
+- 15703 — 15703.webp — "The malware family — how each one harms" — lesson safety-security-and-care/malware-trojans-viruses-worms-spyware-ransomware (grown)
+- 15704 — 15704.webp — "Threat prevention — the technical wall of seven bricks" — lesson safety-security-and-care/securing-your-computer-the-checklist (grown)
+- 15705 — 15705.webp — "Copy protection — four guards on one file (teacher guide)" — lesson safety-security-and-care/securing-your-computer-the-checklist (grown)
+- 15706 — 15706.webp — "Backup and the firewall — two defences" — lesson safety-security-and-care/backup-and-firewall-in-windows
+- 15707 — 15707.gif — the Settings click-path to the Defender Firewall switch — lesson safety-security-and-care/backup-and-firewall-in-windows — frame-checked
+- 15708 — 15708.webp — "Antivirus — scan, detect, remove" — lesson safety-security-and-care/antivirus-software-scan-detect-remove
+- 15709 — 15709.gif — antivirus scan bar sweeping a drive, infected file lighting up — lesson safety-security-and-care/antivirus-software-scan-detect-remove — frame-checked
+- 15710 — 15710.webp — "User accounts at Grade 10 — powers and the checking route" — lesson safety-security-and-care/user-accounts (grown, Sub lesson 3)
+- 15711 — 15711.webp — "Creating a new user account — the steps in order" — lesson safety-security-and-care/creating-a-new-user-account
+- 15712 — 15712.gif — the click path through the add-user screens — lesson safety-security-and-care/creating-a-new-user-account — frame-checked
+- 15713 — 15713.webp — "Non-technical prevention — plan before disaster" — lesson safety-security-and-care/natural-threats-to-a-computer (grown)
+- 15714 — 15714.webp — "Cyber security — one dome over everything connected" — lesson safety-security-and-care/cyber-security-defending-everything-connected
+- 15715 — 15715.webp — "Why attackers attack — what they are after (teacher guide)" — lesson safety-security-and-care/cyber-security-defending-everything-connected
+- 15716 — 15716.webp — "Nine habits against cyber-attack" — lesson safety-security-and-care/confidentiality-integrity-availability-the-cia-triad (grown)
+- 15717 — 15717.webp — "Solving problems with a computer — seven steps" — lesson programming/input-process-output (grown)
+- 15718 — 15718.gif — A and B flowing into the add box, C flowing out — lesson programming/input-process-output (grown) — frame-checked
+- 15719 — 15719.webp — "Five problem-solving steps over input, process, output (teacher guide)" — lesson programming/input-process-output (grown)
+- 15720 — 15720.webp — "An algorithm is a recipe the computer can follow — doro wot" — lesson programming/from-polya-to-programs-the-algorithm (grown)
+- 15721 — 15721.webp — "What makes an algorithm good — six characteristics" — lesson programming/what-makes-an-algorithm-good-six-characteristics
+- 15722 — 15722.webp — "Writing algorithms — add, decide, loop" — lesson programming/writing-algorithms-add-decide-loop
+- 15723 — 15723.gif — the counter i ticking while the sum grows (sum of ten) — lesson programming/writing-algorithms-add-decide-loop — frame-checked
+- 15724 — 15724.webp — "Flowchart symbols — the legend" — lesson programming/flowchart-symbols (grown)
+- 15725 — 15725.webp — "Two worked flowcharts" — lesson programming/drawing-a-first-flowchart (grown, Sub lesson 4)
+- 15726 — 15726.gif — the add-two-numbers flowchart building symbol by symbol in order — lesson programming/drawing-a-first-flowchart (grown, Sub lesson 4) — frame-checked
+- 15727 — 15727.webp — "Loops in flowcharts — the four parts on sum-to-50" — lesson programming/loops-in-flowcharts-initialise-compute-test-increment
+- 15728 — 15728.gif — the flow marker circling the sum-to-50 loop, counter rising, then exiting — lesson programming/loops-in-flowcharts-initialise-compute-test-increment — frame-checked
+- 15729 — 15729.webp — "One problem, three ways — aligned step by step" — lesson programming/flowchart-or-pseudocode-two-notations-for-one-algorithm (grown)
+- 15730 — 15730.webp — "Pseudocode for a circle — perimeter and area (teacher guide)" — lesson programming/flowchart-or-pseudocode-two-notations-for-one-algorithm (grown)
+- 15731 — 15731.webp — "The IDE — one home for the whole job" — lesson programming/the-ide-one-home-for-editing-compiling-debugging
+- 15732 — 15732.webp — "Benefits of an IDE — four badges" — lesson programming/benefits-of-an-ide-set-up-fast-work-fast-learn-match
+- 15733 — 15733.webp — "Kinds of IDE — one big bench, three single-job benches" — lesson programming/kinds-of-ide-multi-language-mobile-html-cloud
+- 15734 — 15734.webp — "The quadratic fork — the discriminant decides" — lesson programming/writing-algorithms-worked-problems
+- 15735 — 15735.gif — the prime-check loop testing divisors and counting — lesson programming/writing-algorithms-worked-problems — frame-checked

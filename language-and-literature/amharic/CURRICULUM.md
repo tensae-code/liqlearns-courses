@@ -320,3 +320,34 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
    and ሴራ (plot) and ጭብጥ (theme). Grown in Band 3: the five
    parts in the higher books' wording, the literary elements
    made formal, and short fiction (teacher-guide evidence).
+8. **Grade 3 Health** (`story/grade-3-health`) — the Grade 3
+   book's first chapter (ጤና): prevention, caring for the sick,
+   the balanced plate, and why sharp things and blood are never
+   shared (fix build, 2026-11-12).
+9. **Grade 3 Neighbours** (`story/grade-3-neighbours`) — the
+   Grade 3 book's chapter on neighbourliness (ጉርብትና): the
+   fire-and-water fable, the neighbours' promise, lion and
+   mouse, and the hen's quarrel (fix build, 2026-11-12).
+10. **Grade 3 More Stories** (`story/grade-3-more-stories`) —
+    the Grade 3 book's tales chapter (ተረት): its listening and
+    reading stories with their word work (fix build,
+    2026-11-12).
+11. **Grade 3 Using Time** (`story/grade-3-using-time`) — the
+    Grade 3 book's chapter on using time (የጊዜ አጠቃቀም) (fix
+    build, 2026-11-12).
+12. **Grade 3 Transport** (`story/grade-3-transport`) — the
+    Grade 3 book's road and travel chapter (መንገድ): road
+    safety, the tankwa crossing, and travel talk (fix build,
+    2026-11-12).
+13. **Grade 3 Good Behaviour** (`story/grade-3-good-behaviour`)
+    — the Grade 3 book's morals chapter (ስነ ምግባር) (fix build,
+    2026-11-12).
+14. **Grade 3 Farming** (`story/grade-3-farming`) — the Grade 3
+    book's agriculture chapter (ግብርና) (fix build, 2026-11-12).
+15. **Grade 3 Work** (`story/grade-3-work`) — the Grade 3 book's
+    work chapter (ስራ) (fix build, 2026-11-12).
+16. **Grade 3 Culture** (`story/grade-3-culture`) — the Grade 3
+    book's culture chapter (ባህል) (fix build, 2026-11-12).
+17. **Grade 3 Market** (`story/grade-3-market`) — the Grade 3
+    book's market chapter (ገበያ), closing with the book's own
+    reference list (ዋቢዎች) (fix build, 2026-11-12).
