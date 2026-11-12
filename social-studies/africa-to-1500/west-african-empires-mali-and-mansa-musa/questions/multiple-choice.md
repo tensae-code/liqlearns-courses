@@ -1,0 +1,27 @@
+# West African Empires — Mali and Mansa Musa — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** Sundiata Keita founded Mali by —
+a) defeating Rome  b) breaking free of Ghana and uniting the upper Niger peoples in 1235  c) taking Timbuktu from the Tuaregs  d) founding Koumbi Saleh
+**Answer: b) breaking free of Ghana and uniting the upper Niger peoples in 1235** — 1235 — the same year Ghana's capital fell.
+
+**2. (Sub lesson 1)** Mali's rulers were —
+a) Muslim before the state was founded  b) converted in the 11th century  c) never Muslim  d) Christian
+**Answer: a) Muslim before the state was founded** — the book says Mali's rulers were Muslim before the state was founded.
+
+**3. (Sub lesson 2)** Mansa Musa's pilgrimage ran —
+a) 1235–1236  b) 1324–1325  c) 1464–1492  d) 1591–1592
+**Answer: b) 1324–1325** — 1324–1325, through Cairo to Mecca.
+
+**4. (Sub lesson 2)** Timbuktu won world fame as a centre of —
+a) iron working  b) gold trade and Islamic learning  c) ship building  d) camel breeding
+**Answer: b) gold trade and Islamic learning** — the gold trade and Islamic learning, together.
+
+**5. (Sub lesson 3)** Niani's better rain grew —
+a) coffee and teff  b) millet, sorghum and rice  c) wheat and barley only  d) cotton
+**Answer: b) millet, sorghum and rice** — millet, sorghum and rice.
+
+**6. (Sub lesson 3)** Which blow broke Mali late in the 14th century?
+a) a Roman invasion  b) succession struggles and tributaries declaring independence  c) a desert flood  d) the Portuguese
+**Answer: b) succession struggles and tributaries declaring independence** — succession struggles, breakaway tributaries, Mossi strikes and Tuaregs taking Timbuktu.

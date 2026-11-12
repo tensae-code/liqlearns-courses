@@ -71,6 +71,13 @@ Band records land here as each band is built and verified.
   never silently resolved. Optimum-population watch: the Grade 8
   books carry no such placement at all — the framework stands
   once, in People and Resources, untouched.
+- **Africa to 1500 — BUILT** (Grade 7 student Chapter 5 +
+  teacher guide Unit 5): 13 lessons, 190 questions, pictures
+  11300–11312, no GIFs (no placement names one). Guide
+  placements fold into the Egypt and Kush lessons as labelled
+  teacher evidence; no guide-only lessons. The guide's "Mereo"
+  misprint is taught corrected as Meroe and named in the
+  sources.
 - **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
   Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
   pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).

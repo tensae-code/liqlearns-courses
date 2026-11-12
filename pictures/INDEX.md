@@ -1384,6 +1384,19 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11525 | pictures/11525.webp | two villages exchanging what each lacks | Social Studies — Culture and Work — What Trade Is |
 | 11526 | pictures/11526.webp | two origin theories, equal weight | Social Studies — Culture and Work — Two Theories of Human Origin |
 | 11527 | pictures/11527.webp | teaching / imitation / transmission arrows (teacher guide — evidence) | Social Studies — Culture and Work — What Culture Is |
+| 11300 | pictures/11300.webp | language families | Social Studies — Africa to 1500 — Africa's Languages — the Four Families |
+| 11301 | pictures/11301.webp | three families in detail | Social Studies — Africa to 1500 — The Families in Detail |
+| 11302 | pictures/11302.webp | Nile kingdom | Social Studies — Africa to 1500 — Ancient Egypt — the Nile Kingdom |
+| 11303 | pictures/11303.webp | Egypt's gifts | Social Studies — Africa to 1500 — Ancient Egypt — What Egypt Gave |
+| 11304 | pictures/11304.webp | Kush and Meroe | Social Studies — Africa to 1500 — Kush and Meroe |
+| 11305 | pictures/11305.webp | Carthage | Social Studies — Africa to 1500 — Carthage and the Punic Wars |
+| 11306 | pictures/11306.webp | Ghana gold trade | Social Studies — Africa to 1500 — Ghana |
+| 11307 | pictures/11307.webp | Mansa Musa route | Social Studies — Africa to 1500 — Mali and Mansa Musa |
+| 11308 | pictures/11308.webp | Niger bend | Social Studies — Africa to 1500 — Songhai |
+| 11309 | pictures/11309.webp | Kongo | Social Studies — Africa to 1500 — Kongo |
+| 11310 | pictures/11310.webp | Great Zimbabwe | Social Studies — Africa to 1500 — Great Zimbabwe |
+| 11311 | pictures/11311.webp | Azania and Zanj coast | Social Studies — Africa to 1500 — Azania and Zanj |
+| 11312 | pictures/11312.webp | Swahili cities | Social Studies — Africa to 1500 — The Swahili Cities |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
