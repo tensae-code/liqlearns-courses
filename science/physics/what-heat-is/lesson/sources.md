@@ -1,6 +1,6 @@
 # Sources — What heat is
 
-countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Nigeria (teacher-guide evidence only)
+countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Syria
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -11,15 +11,18 @@ countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-gu
 
 **Book 5:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press (Shaftesbury Road, Cambridge). Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1. Grade: SS1 (Grade 10) · Teacher's guide · Repo path: grade-10/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,147,437 (Contents API meta = downloaded) · PDF pages: 72 · Offset: guide printed p. 1 ≈ PDF p. 10. Verdict: COMPLETE as published — Introduction and scheme of work (printed pp. iv–vi), then Themes 1, 2, 4, 5 and 6 with every topic in its contents; Theme 3 is expressly "not included as per the NERDC curriculum" for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
+**Book 6:** *الفيزياء والكيمياء للصف السابع الأساسي (Physics & Chemistry, Grade 7 Basic)* (student textbook) — Syria, Syrian Arab Republic, Ministry of Education; NCCD developed-curriculum edition, first printed 2017–2018 (title page). Combined physics-and-chemistry book. Grade: 7 · Student book · Release: mid-size-books-4 · Asset: grade-07-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 67,265,164 (matched asset) · PDF pages: 168, with a text layer · Offset: printed page = PDF page − 1 (printed folio 165 on PDF p. 166). Verdict: COMPLETE (final project, the thermal insulating flask, runs to the last pages). Structure (physics): U1 Motion & dynamics; U2 Pressure & Archimedes' thrust; U3 Matter & heat; U4 Matter & energy (atom/sound mixed unit). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The concept of heat | Grade 11 Student Textbook, printed pp. 176–178 |
 | What heat is — Year 12, Strand 3: Heat (learner's guide — curriculum evidence) | Samoa, Student Learning Guide — Sāmoa Physics Curriculum, Years 12 and 13, printed p. 15 |
 | Models of heat — the historical heat models (Brazil) | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Termodinâmica, Ch. 5 Modelos de Calor, printed p. 77 |
 | Theme 2 Topic 2: heat energy (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1*, Theme 2 Topic 2, printed p. 27 |
+| U3 Heat (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U3 Heat — printed p. 102 |
 
 | Thermal energy — heat transfer observed at the casserole, conduction in context (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: L'énergie thermique, printed p. 35 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Syria).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, what heat is, temperature

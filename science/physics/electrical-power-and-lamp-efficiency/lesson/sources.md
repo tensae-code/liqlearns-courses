@@ -1,6 +1,6 @@
 # Sources — Electrical power; which lamp is efficient
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Syria
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia
 
 **Book 3:** *Texto de Aprendizaje, Física, Sexto Año* (student textbook) — Bolivia, Ministerio de Educación de Bolivia. Title as printed: Área Física — Campo Vida Tierra y Territorio, Sexto Año, Educación Secundaria Comunitaria Productiva (Ministerio de Educación de Bolivia). Grade 12 (6º de secundaria). Student book. Release: mid-size-books-2, asset grade-12-gov-bolivia-physics-student-full-year.pdf. Byte size: 7,806,504 (release asset). PDF pages: 78. Offset: own folios end at printed p. 298 (area section of combined text). Verdict: COMPLETE as filed — opens with electrostatics hook (comb attracting paper) and closes with bibliography. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bolivia-placements.md.
 
+**Book 4:** *الفيزياء والكيمياء للصف الثامن الأساسي (Physics & Chemistry, Grade 8 Basic)* (student textbook) — Syria, Ministry of Education; 2025–2026 printing (1446H), first printed 2018–2019. Combined physics-and-chemistry book. Image-only PDF — read from rendered pages (title, full contents, unit openers, closing pages). Grade: 8 · Student book · Release: full-quality-oversized-books · Asset: grade-08-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 176,346,073 (matched asset) · PDF pages: 160 · Offset: printed page = PDF page (folios 2–8 verified). Verdict: COMPLETE (U4 unit questions at printed p. 159, the last page). Structure: U1 Structural chemistry; U2 Motion & forces (physics); U3 Electricity (physics); U4 Light (physics). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Electrical power | Grade 11 Student Textbook, printed pp. 264–265 |
 | Sub lesson 2 — Lamp brightness and efficiency | Grade 11 Student Textbook, printed pp. 264–265 |
 | Ch. 3: Puissance électrique — nominal power and voltage ratings, P = U·I, adding powers in a home circuit (worked corrigé totals 3,608 W) (teacher guide — evidence) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année*, Ch. 3, printed p. 32 |
 | Energy and power of the electric current in our community (Bolivia) | Bolivia, *Texto de Aprendizaje, Física, Sexto Año*, Energy and power of the electric current in our community, PDF p. 65 approx. |
+| U3 Electric resistance (printed p. 107) and the physics project: the effect of resistance value on electrical-energy consumption (Syria) | Syria, *Physics & Chemistry, Grade 8 Basic*, U3 Electric resistance (printed p. 107) and the physics project: the effect of resistance value on electrical-energy consumption — printed p. 123 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Syria).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

@@ -1,9 +1,11 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy
+countries: Ethiopia, Italy, Syria
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
+
+**Book 3:** *الفيزياء للصف الثالث الثانوي العلمي (Physics, Third Secondary, Scientific Track = Grade 12)* (student textbook) — Syria, Ministry of Education; 2025–2026 edition, first printed 2020–2021. Physics-only book. Image-only PDF — read from rendered pages (title, full contents, chapter openers and derivations sampled across the book). Grade: 12 · Student book (scientific track) · Release: full-quality-oversized-books · Asset: grade-12-gov-syria-physics-student-full-year.pdf · Byte size: 248,446,531 (matched asset) · PDF pages: 268 · Offset: printed folio = PDF page for content pages (folios 3–8 verified); the contents page numbers run about 3 higher than the folios at the start of the book, so placements below cite the contents numbers, as printed in the book's own index. Verdict: COMPLETE (contents end with U5 Astronomical physics at contents p. 254; the file runs to 268 pages). Structure: U1 Motion & dynamics; U2 Electricity & magnetism; U3 Standing waves; U4 Electronics & the solid state; U5 Astronomical physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
 **Book 2:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (as for Vol. 2, from chapter openers and section headings). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 | Lesson part | Where it comes from |
@@ -11,7 +13,8 @@ countries: Ethiopia, Italy
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
 | Sub lesson 2 — Lenz's law — the direction opposes the change | Grade 12 Student Textbook, printed pp. 129–130 |
 | Electromagnetic induction (Italy) | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.27 Induzione e onde elettromagnetiche: induced electromotive forces, flux and the Faraday–Neumann–Lenz law — PDF p. 20 |
+| U2 Electromagnetic induction (Syria) | Syria, *Physics, Third Secondary, Scientific Track (Grade 12)*, U2 Electromagnetic induction — contents p. 104 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Italy).**
+**Acceptance count: taught in 3 countries (Ethiopia, Italy, Syria).**
 
 Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux

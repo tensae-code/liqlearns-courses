@@ -1,6 +1,6 @@
 # Sources — Pressure under water — deeper means stronger
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only)
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,12 +8,15 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only)
 
 **Book 3:** *Programme détaillé NS, Physique 1re année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 1re année. Grade: 10 (1re année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-10/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via recorded source URL haiti-now.org after GitHub Contents timed out; 538,336 bytes, no size in record) · PDF pages: 60 · Offset: detailed programme at PDF pp. 45–59, printed pp. 44–58 approx. Verdict: COMPLETE — full text read; cover (République d'Haïti, MENFP, "13-Physique", 2008–2009) proves identity. The book is common front matter (finalités, missions, plan d'études) + synoptic programme-cadre tables for all four years and all streams + the detailed programme for its own year; the placements here are from the own-year detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
 
+**Book 4:** *الفيزياء والكيمياء للصف السابع الأساسي (Physics & Chemistry, Grade 7 Basic)* (student textbook) — Syria, Syrian Arab Republic, Ministry of Education; NCCD developed-curriculum edition, first printed 2017–2018 (title page). Combined physics-and-chemistry book. Grade: 7 · Student book · Release: mid-size-books-4 · Asset: grade-07-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 67,265,164 (matched asset) · PDF pages: 168, with a text layer · Offset: printed page = PDF page − 1 (printed folio 165 on PDF p. 166). Verdict: COMPLETE (final project, the thermal insulating flask, runs to the last pages). Structure (physics): U1 Motion & dynamics; U2 Pressure & Archimedes' thrust; U3 Matter & heat; U4 Matter & energy (atom/sound mixed unit). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pressure grows with depth | Grade 12 Student Textbook, printed pp. 87–90 |
 | p = ρgh derived and applied (swimming-pool problem) | Palestine, *Physics for Grade 10*, Unit 2: Fluids — Statics, printed p. 68 |
 | C. Fluids and pressure in a liquid (programme evidence) | Haiti, *Programme détaillé NS, Physique 1re année*, C. Fluides et pression dans un liquide, printed p. 51 (PDF p. 51) |
+| U2 Pressure in liquids (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U2 Pressure in liquids — printed p. 78 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Syria).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine
