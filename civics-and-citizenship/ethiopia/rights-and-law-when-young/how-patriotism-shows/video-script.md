@@ -1,0 +1,11 @@
+# Video script — How Patriotism Shows
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Patriotism shows.
+Pride in the country. The country felt as your own.
+Ready to sacrifice. Fighting corruption. Honouring heroes.
+Respect the flag. Guard sovereignty.
+Put the country's interest before private interest.
