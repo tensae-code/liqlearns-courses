@@ -72,6 +72,26 @@ guide material is syllabus-level teacher evidence only.
 Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSB-science-g7-u2.md`.
 
+Band GS-D (Grade 7, Unit 4 — Cell as the Basis of
+Life): 10 new lessons in The Human Body, 123 questions,
+13 media filed (pictures/GIFs 32700–32712) — the
+microscope (seeing the unseen, simple and compound,
+parts, using one and making your own from a bottle),
+the discovery of the cell, inside a cell (organelles
+and their jobs, with the guide's frame filed as teacher
+evidence — the guide adds no new cell content),
+cell shape/size/function, from one cell to a whole
+organism, respiration, and photosynthesis and its
+partnership with respiration. All 10 are new at
+first-depth Grade 7 level; each cross-references the
+Biology title's secondary-depth twin in its level line
+and no Biology file was copied or grown. Pairing
+carried exactly: the Grade 7 guide is an Addis Ababa
+bureau book, NOT edition-matched to the Amhara student
+book — guide material is syllabus-level teacher
+evidence only. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSD-science-g7-u4.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -111,6 +131,16 @@ Build log:
 10. **The kidneys** (`the-human-body/the-kidneys`) — the kidneys — two bean-shaped organs — keep the body's water and salt in balance, remove waste, and help the body make red blood cells
 11. **The liver** (`the-human-body/the-liver`) — the liver is the largest internal organ, sitting on the right side under the ribs — it makes bile, filters the blood and makes the proteins that cl…
 12. **The lungs and breathing** (`the-human-body/the-lungs-and-breathing`) — the lungs are a spongy pair inside the chest that take in oxygen from the air and give out carbon dioxide
+13. **The microscope — seeing the unseen** (`the-human-body/the-microscope-seeing-the-unseen`) — a microscope makes tiny things big enough to see — pond life, parasites in clinic samples, and cells themselves were all unseen before it (Grade 7 General Science)
+14. **The microscope — simple and compound, and total magnification** (`the-human-body/simple-and-compound-microscopes`) — a simple microscope has one lens and magnifies about 10–20×; a compound microscope multiplies eyepiece by objective — total magnification is their product (Grade 7 General Science)
+15. **The microscope — parts and what each does** (`the-human-body/parts-of-the-compound-microscope`) — every part of the compound microscope has a job — the viewing parts magnify, the stage holds the specimen, and the mirror, condenser and diaphragm manage the light (Grade 7 General Science)
+16. **The microscope — using it well, and making your own** (`the-human-body/using-a-microscope-and-making-your-own`) — carry a microscope by arm and base together, mount a specimen under a cover slip in a drop of water, focus low power first — and you can build a working simple microscope from a bottle and a drop of water (Grade 7 General Science)
+17. **Cells — the discovery of the cell** (`the-human-body/the-discovery-of-the-cell`) — cells are the building blocks of all living things — Hooke saw dead cork cell walls in 1665 and coined the word 'cell', and Leeuwenhoek saw living single-celled animalcules in pond water in 1674 (Grade 7 General Science)
+18. **Cells — inside a cell: organelles and their jobs** (`the-human-body/inside-a-cell-organelles-and-their-jobs`) — every cell has a membrane, cytoplasm, DNA and ribosomes; inside, each organelle has a job — nucleus, mitochondria, and in plants the wall and chloroplasts (Grade 7 General Science)
+19. **Cells — shape, size and function** (`the-human-body/cell-shape-size-and-function`) — cells stay small — on average 10–20 µm — so materials can cross them easily, and each cell's shape fits its job: disc, spindle or long and branched (Grade 7 General Science)
+20. **Cells — from one cell to a whole organism** (`the-human-body/from-one-cell-to-a-whole-organism`) — some organisms live as one cell doing everything, and multicellular organisms divide the labour across five levels: cell, tissue, organ, organ system, organism (Grade 7 General Science)
+21. **Cells — respiration: releasing energy from food** (`the-human-body/respiration-releasing-energy-from-food`) — cells release energy from glucose with oxygen in the mitochondria, making ATP; without enough oxygen they ferment instead — making alcohol or lactic acid, with far less energy (Grade 7 General Science)
+22. **Cells — photosynthesis and its partnership with respiration** (`the-human-body/photosynthesis-and-its-partnership-with-respiration`) — in chloroplasts, chlorophyll traps light to turn carbon dioxide and water into glucose and oxygen; photosynthesis and respiration interlock — each one's products are the other's raw materials (Grade 7 General Science)
 
 ## Unit 4 — Materials
 
