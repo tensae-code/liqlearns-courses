@@ -24,6 +24,14 @@ Run back and forth in the group shuttle run the book calls somsoma running. Run 
 
 Run in place with your knees lifting, in a steady rhythm. Two children running in place is the teacher guide's own picture for heart and lungs work.
 
+## Sub lesson 5 — Running on the spot — Grade 8 (teacher guide — evidence)
+
+Run without travelling. Warm up and stretch for 5–10 minutes. Lift your right arm and your left foot at the same time, and raise the knee as high as your hips. Switch quickly to the other side: the right foot rises to hip height while the right arm moves back and the left arm comes forward and up. Keep switching, knee to hip height, and cool down for 5–10 minutes at the end.
+
+## Sub lesson 6 — Speed runs and ladder feet — Grade 8
+
+Speed is covering a movement in the shortest time. Run fast for 20–30 metres, with a hoop placed in front of your file as your mark. Then run fast between ladder lines drawn on the ground, placing your feet quickly inside each space. Rest between runs so every run can be fast.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

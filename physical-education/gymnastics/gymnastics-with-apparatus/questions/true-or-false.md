@@ -25,3 +25,9 @@ Say true or false.
 
 **8. (Sub lesson 4)** In "Bar work — Grade 7: pull-up, swing and traverse", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**9. (Sub lesson 5)** In this lesson, "Parallel bars — the support swing — Grade 8" teaches: Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work..
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Parallel bars — the support swing — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

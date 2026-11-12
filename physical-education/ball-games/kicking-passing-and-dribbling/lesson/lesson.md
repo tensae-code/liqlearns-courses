@@ -42,6 +42,20 @@ Dribbling (ኳስ መንዳት) moves the ball with you, close to the feet. Drib
 
 Kick with the inside of the foot, and with the front of the foot, from a correct stance. Control the ball with the sole (በእግር መዳፍ): eye on the ball, trap it still under the sole — practise against a wall at 7 metres, then 5 metres, then 3 metres. Control with the front of the foot from 10 metres: meet the ball gently and take its speed away with the first touch.
 
+## Sub lesson 8 — Shooting at goal — Grade 8
+
+Shoot at goal in stages, exactly as the book builds it. First, run up without touching the ball. Next, run up and only brush it — no roll, no shot. Then shoot from 15 metres with no goalkeeper. Then shoot with a goalkeeper. Only then, shoot in the game. Each stage earns the next one.
+
+## Sub lesson 9 — Chest control, first touch and heading — Grade 9
+
+Control brings the ball under your command. Chest control: get your body behind the ball's flight, meet it on the chest and pull the surface back just as it touches, so the ball loses its sting and drops at your feet — the forward's skill, even with a marker behind you. Practise in a circle with a centre tosser, then in facing rows. First touch and scoring: lean forward over the ball, move your first touch into space, and accelerate away. Heading: meet the ball on the forehead, eyes on the ball the whole way — never close them — driving through it to pass, shoot or clear, standing, jumping or diving. Play head tennis over a net or rope to practise: head it back over, and never let it touch the ground. For chest control and heading practice, the guide's safety note stands: use soft or appropriate balls, supervise, and practise responsibly.
+
+[Picture 13913 — chest control — meeting the ball, chest pulled back, ball dropping at the feet]
+
+## Sub lesson 10 — Tackling, thigh control and goalkeeping — Grade 10
+
+Three advanced football skills. Tackling: the block (front block) tackle — meet the attacker head-on and make contact forcibly with the inside of the tackling foot, putting your weight into it, practised first in pairs without a ball, then to a stationary ball, then against a slow dribble. The slide tackle is riskier — sliding can miss the ball and put you out of the game — and the guide's safety rule is absolute: practise it only on a soft or grass field; if not, do not practise it at all. Thigh control: for a ball arriving above the knee, place the thigh behind its flight, across its line — and drop the thigh the moment the ball touches, cushioning it dead; the mistakes are poor body position, forcing into the ball, and not dropping the thigh. Goalkeeping: stay around the goal area; for a ground dive, hold the basic position, eyes on the ball's direction, and push off to transfer your weight toward the ball; a punch clears with width (toward the sidelines, out of the centre) and distance (as far from goal as possible); and every goalkeeper must kick well — the goal kick is part of the job.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

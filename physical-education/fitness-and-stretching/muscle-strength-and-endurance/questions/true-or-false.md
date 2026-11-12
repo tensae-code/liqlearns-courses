@@ -50,3 +50,21 @@ Say true or false.
 
 **16. (Sub lesson 8)** In "Muscular endurance — Grade 7", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**17. (Sub lesson 9)** In this lesson, "Muscle strength by body region — Grade 8" teaches: Work the body region by region..
+**Answer: True**
+
+**18. (Sub lesson 9)** In "Muscle strength by body region — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**19. (Sub lesson 10)** In this lesson, "The five-station circuit — Grade 9" teaches: A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as in a concentric cont.
+**Answer: True**
+
+**20. (Sub lesson 10)** In "The five-station circuit — Grade 9", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**21. (Sub lesson 11)** In this lesson, "Testing muscle endurance and strength — Grade 10" teaches: At this grade you test what you trained..
+**Answer: True**
+
+**22. (Sub lesson 11)** In "Testing muscle endurance and strength — Grade 10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

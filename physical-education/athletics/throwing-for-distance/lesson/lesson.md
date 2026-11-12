@@ -28,6 +28,14 @@ The javelin (ጦር) is an individual event needing upper-body and arm strength,
 
 The discus stages: 1. grip and basic stance, the discus held in the spread fingers; 2. the pre-throw arm swing; 3. the turn or spin; 4. the throw. Begin with the standing throw, with no turn, until the grip and the release are right; then add the turn.
 
+## Sub lesson 6 — Shot put — the glide — Grade 8
+
+Throwing is one branch of athletics — shot, discus, javelin and hammer are its family. The shot is put with the linear, backward-glide technique (መስመራዊ ስልት): stand with feet apart and the non-throwing arm raised; glide one step back on the left leg, leaning the trunk forward; then turn and put the shot away from your neck with a straightening arm. Practise the glide first without the shot, then with a light one, always inside the circle and toward an empty field.
+
+## Sub lesson 7 — Discus — Grade 8
+
+The discus throw is one unbroken movement, taught in stages. Learn the grip and the basic stance first. Then the arm swing that gathers force — first mimed without the discus, then holding it — growing into the turning throw and the release. The throw asks for strength, balance, coordination and speed together, and it builds all four. Throw only on the teacher's signal, from the circle, and fetch the discus together when everyone has thrown.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

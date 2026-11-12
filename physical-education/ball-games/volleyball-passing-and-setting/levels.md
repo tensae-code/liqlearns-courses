@@ -16,3 +16,12 @@ Pass mark: the learner does and explains — the volleyball underarm serve (ል�
 
 ## Sub lesson 5 — Side underarm serve and receiving stance — Grade 7
 Pass mark: the learner does and explains — the side underarm serve (ኳስን በጎን ከታች ወደ ላይ መለጋት) to a partner and over the net, and forearm reception (በክንድ ልግን መቀበል) from a stance with the feet shoulder-width and the knees bent.
+
+## Sub lesson 6 — The overhead serve — Grade 8
+Pass mark: the learner does and explains — the overhead serve — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 7 — The spike — Grade 9
+Pass mark: the learner does and explains — the spike — grade 9 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 8 — Blocking — Grade 10
+Pass mark: the learner does and explains — blocking — grade 10 (Grades 8–10 depth; see lesson/sources.md).

@@ -16,3 +16,7 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 5–7 parts
 Do the new parts in order, slowly first: The step-up test and counting the heart, Heart and breathing fitness, Heart and breathing fitness, Cardio fitness. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.
+
+
+## The Grade 8–10 parts
+Do the new parts in order, slowly first: The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics, Designing cardio training — Grade 9: FITT, jogging and the step-kick, The pure aerobic list — Grade 10. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.

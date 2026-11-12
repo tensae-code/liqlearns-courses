@@ -13,6 +13,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Kenenisa again, Meseret Defar and Coach Sewnet Bishaw** — the Grade 6 book's profiles: Kenenisa Bekele of Bekoji, Arsi (born 13 June 1982), famed for his finishing speed; Meseret Defar of Addis Ababa in the 3000 m and 5000 m; and football coach Sewnet Bishaw of Bure, West Gojjam.
 4. **Ethiopia's Olympic heroes** — the Grade 7 book's Olympic heroes and their victories: Mamo Wolde, Fatuma Roba, Miruts Yifter, Tirunesh Dibaba and Almaz Ayana.
 
+5. **Victories and works — the Grade 8 pass** — the Grade 8 student book's §§1.4.1–1.4.2: famous athletes' victories, then their works — charity, investment and development roles.
+6. **Legends who built — Tessema, Defar, Denboba (teacher guide — evidence)** — the Grade 8 teacher guide's §1.3: Tessema the institution-builder, Defar the ambassador, Denboba the pioneer flag-bearer.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

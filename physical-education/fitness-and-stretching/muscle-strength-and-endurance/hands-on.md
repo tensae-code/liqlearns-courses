@@ -16,3 +16,7 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 5–7 parts
 Do the new parts in order, slowly first: Muscle strength by body part, Push-ups, side hops and curl-ups, Muscle strength, Muscular endurance. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.
+
+
+## The Grade 8–10 parts
+Do the new parts in order, slowly first: Muscle strength by body region — Grade 8, The five-station circuit — Grade 9, Testing muscle endurance and strength — Grade 10. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.

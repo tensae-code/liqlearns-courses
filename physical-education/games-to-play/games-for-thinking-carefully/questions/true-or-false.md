@@ -13,3 +13,9 @@ Say if it is true or false.
 
 **4. (Sub lesson 4)** Deep thinking means acting first and thinking later.
 **Answer: False**
+
+**5. (Sub lesson 5)** The book asks whether decision-making decided the Circle Target game.
+**Answer: True**
+
+**6. (Sub lesson 6)** Opportunities and Threats come from outside the team.
+**Answer: True**

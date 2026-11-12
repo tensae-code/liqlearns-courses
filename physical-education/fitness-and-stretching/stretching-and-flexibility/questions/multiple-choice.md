@@ -70,3 +70,39 @@ a) leaning left and right, bringing the knee to the chest, and the bridge, with 
 **17. (Sub lesson 7)** A learner doing "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit" correctly is —
 a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  b) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle
 **Answer: c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle**
+
+**18. (Sub lesson 8)** What is the heart of "Flexibility — Grade 8: static and dynamic"?
+a) Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is**
+
+**19. (Sub lesson 8)** Which of these belongs to "Flexibility — Grade 8: static and dynamic"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is
+**Answer: c) Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is**
+
+**20. (Sub lesson 8)** A learner doing "Flexibility — Grade 8: static and dynamic" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is  c) sitting still and watching others do the movement
+**Answer: b) Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is**
+
+**21. (Sub lesson 9)** What is the heart of "Dynamic and static stretching — Grade 9"?
+a) Stretch in groups and pairs, each stretch with its purpose.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Stretch in groups and pairs, each stretch with its purpose.**
+
+**22. (Sub lesson 9)** Which of these belongs to "Dynamic and static stretching — Grade 9"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Stretch in groups and pairs, each stretch with its purpose.
+**Answer: c) Stretch in groups and pairs, each stretch with its purpose.**
+
+**23. (Sub lesson 9)** A learner doing "Dynamic and static stretching — Grade 9" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Stretch in groups and pairs, each stretch with its purpose.  c) sitting still and watching others do the movement
+**Answer: b) Stretch in groups and pairs, each stretch with its purpose.**
+
+**24. (Sub lesson 10)** What is the heart of "Flexibility — Grade 10: warm first, never force"?
+a) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef**
+
+**25. (Sub lesson 10)** Which of these belongs to "Flexibility — Grade 10: warm first, never force"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef
+**Answer: c) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef**
+
+**26. (Sub lesson 10)** A learner doing "Flexibility — Grade 10: warm first, never force" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef  c) sitting still and watching others do the movement
+**Answer: b) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef**

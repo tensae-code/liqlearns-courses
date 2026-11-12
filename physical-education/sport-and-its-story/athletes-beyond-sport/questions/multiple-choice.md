@@ -25,3 +25,19 @@ a) Job creation, social and political work  b) Race times only  c) Medal counts 
 **6. (Sub lesson 4)** Haile Gebreslasie founded…
 a) The Great Ethiopian Run  b) The Olympic Games  c) Saint-George club
 **Answer: a) The Great Ethiopian Run**
+
+**7. (Sub lesson 5)** The Grade 9 book defines sport as…
+a) An organised competitive form of play  b) Any free play  c) Watching television
+**Answer: a) An organised competitive form of play**
+
+**8. (Sub lesson 5)** Kenenisa Bekele and Tirunesh Dibaba are pictured investing in…
+a) The hotel industry and others  b) Nothing  c) Foreign teams only
+**Answer: a) The hotel industry and others**
+
+**9. (Sub lesson 6)** Sadio Mané financed, in his native Senegal…
+a) Schools and a hospital  b) A stadium only  c) A hotel
+**Answer: a) Schools and a hospital**
+
+**10. (Sub lesson 6)** The Great Ethiopian Run was funded by…
+a) Haile Gebrselassie  b) Didier Drogba  c) Manuel Neuer
+**Answer: a) Haile Gebrselassie**

@@ -44,6 +44,24 @@ The Grade 6 strength set: push-ups (with the knees-down variant), walking on the
 
 Muscular endurance is a muscle's ability to exert force consistently and repetitively over a period of time — think of it as stamina. Push-ups build the triceps, chest and shoulders: 4 sets of 10 repetitions, with 30 seconds' active rest between sets; if the full push-up is too hard, start on the knees. The squat jump improves the lower body and the core: stand with the feet shoulder-width, descend to a full squat, spring up off the floor with the legs fully extended, and land in control through the foot — toes, ball, arch, heel — straight into the next squat; 3 sets of 5, with 30 seconds' active rest. Pull-ups at this grade are modified: the bar is only a few feet off the ground and your feet still touch the ground, supporting part of your weight, so both boys and girls can train the back, biceps and forearms; use a wide grip, the full range of motion, and try to pull fully off the ground for 6 to 10 repetitions. Endurance work exposes the major muscles — follow the teacher's stop and continue instructions.
 
+## Sub lesson 9 — Muscle strength by body region — Grade 8
+
+Work the body region by region. Above the waist: the arms, shoulders and chest. The stomach and back: the V-shape hold — sit, lean back a little, lift your legs and arms into a V and hold — and the curl-up (ከርል አፕ): lie on your back, knees bent, and curl your head and shoulders up toward your knees. Below the waist: the leg exercises of the section. The Grade 8 guide adds the endurance set with full steps — push-ups (full form, and the knee form: knees on the mat, lower just like a normal push-up, 10–15 without getting winded), the squat jump onto a step (land in a squat, both feet together, weight in the heels), sit-ups with hands crossed to opposite shoulders (breathe out rising, breathe in lowering), and the pull-up start: jump to an overhand grip, hang fully straight — the dead hang — with knees bent and ankles crossed.
+
+[GIF 13917 — a push-up — lower until the chest nearly touches, pause, push back up]
+
+## Sub lesson 10 — The five-station circuit — Grade 9
+
+A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as in a concentric contraction. Strength is how much you can lift once; endurance is how many times you can lift it. Train both on a five-station circuit: plank, body-weight work, walking lunges, push-ups and sit-ups — 30 seconds at each station and 10 seconds to move between them. The guide's forms: the kneeling push-up — hands shoulder-width, fingertips forward, head, neck and spine in one line, lower until just before your nose touches, repeat 8–12; the advanced push-up on your toes; and the squat with weights — hips back as if sitting on a chair, weight over the heels, knees to about 90 degrees, repeat 8–12.
+
+[Picture 13901 — a five-station circuit laid out in a row — plank, body-weight work, lunges, push-ups, sit-ups]
+
+## Sub lesson 11 — Testing muscle endurance and strength — Grade 10
+
+At this grade you test what you trained. Muscular endurance is muscles working long without fatigue. The partial curl-up test: curl up on a slow cadence — one complete curl-up every four seconds, two seconds up and two seconds down. Pull-ups: hang from a bar and pull up — arm-and-shoulder endurance, with no time limit. Push-ups: extend the elbows and push back up, as many good repetitions as you can, for 3 sets. Strength is measured in RM — the heaviest load you can move for a given number of repetitions. Two strength forms: the push-up with rotation — press up, then twist the trunk and raise one arm; and the bench press set-up — lie on the bench under the rack, eyes roughly in line with the front of the rack uprights, bottom, shoulders and head flat on the bench — always with a spotter watching you.
+
+[Picture 13902 — a partial curl-up at its top position, knees bent, arms reaching forward]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

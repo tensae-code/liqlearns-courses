@@ -26,8 +26,11 @@ countries: Ethiopia
 
 **Book 12:** *Grade 7 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. iii + 1–45 held (51 PDF pages). TRUNCATED — the file holds Chapters 1–3 complete (printed pp. 1–45); chapters beyond Chapter 3 are missing from the file. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-teacher-placements.md.
 
+**Book 13:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 10 — Two Houses and the Kangaroo Race — the Grade 8 decision games | Ethiopia, *Grade 8 Student Textbook*, §§2.3.1–2.3.2, printed pp. 14–17 |
 | Sub lesson 1 — Cat and Mouse, handkerchief question game, Homeless, Yaekob, circle-turning | Ethiopia, *Grade 1 Student Textbook*, §3.3, printed pp. 36–39 |
 | Sub lesson 2 — Nekahuny; the handkerchief snatch race | Ethiopia, *Grade 2 Student Textbook*, §3.3, printed pp. 26–28 |
 | Sub lesson 3 — throwing at a target below the waist before the runner leaves the line | Ethiopia, *Grade 3 Student Textbook*, §3.3, printed pp. 25–26 |

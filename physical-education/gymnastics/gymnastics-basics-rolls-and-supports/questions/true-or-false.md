@@ -38,3 +38,15 @@ Say true or false.
 
 **12. (Sub lesson 6)** In "Free gymnastics — Grade 7: headstand, head spring and cartwheel", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "The dive roll — Grade 8" teaches: Free gymnastics is done with no equipment..
+**Answer: True**
+
+**14. (Sub lesson 7)** In "The dive roll — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "The handstand family — Grade 8" teaches: Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you..
+**Answer: True**
+
+**16. (Sub lesson 8)** In "The handstand family — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

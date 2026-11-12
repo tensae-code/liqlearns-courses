@@ -22,3 +22,6 @@ Say if it is true or false.
 
 **7. (Sub lesson 7)** Reflective thinking means never looking at what you still need.
 **Answer: False**
+
+**8. (Sub lesson 8)** After spotting the changes, the two lines swap roles.
+**Answer: True**

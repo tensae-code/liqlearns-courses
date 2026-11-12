@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 4)** Helping an injured person, you should let their blood touch your skin.
 **Answer: False**
+
+**5. (Sub lesson 5)** A safe return must not damage or compromise the athlete's body.
+**Answer: True**

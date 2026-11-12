@@ -13,3 +13,7 @@ Do the main movement ten times, counting aloud. Stop if anything hurts. Rest, br
 
 ## If it is hard
 Do the youngest part only, on the spot, at walking speed, beside a partner or a wall for balance. Smaller and slower is still the lesson.
+
+
+## The Grade 8–10 parts
+Do the new parts in order, slowly first: Relay exchanges in motion — Grade 9. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.

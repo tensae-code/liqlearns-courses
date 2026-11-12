@@ -36,6 +36,16 @@ The rolls grow harder: now the forward roll begins from a forehead stand, and th
 
 The headstand: make a triangle on the mat with your forehead and both hands, then raise the legs one by one until they rest on the elbows, and grow the hold. The head spring (በግንባር መስፈንጠር): from a run-up, one leg forward, and spring from the head and hands. The cartwheel (በእጅ ወደጎን መሽከርከር): turn sideways hand to hand, like the spokes of a wheel. A spotter works beside you for all three, and mastery tasks close the practice.
 
+## Sub lesson 7 — The dive roll — Grade 8
+
+Free gymnastics is done with no equipment. Build the dive roll in its order: first practise forward-rolling on a rolled mat, then the long dive roll itself — run, dive forward over the rolled mat, roll through on your shoulders and stand. Use a mat, a clear space, and a teacher or partner watching. Never dive toward anyone.
+
+[Picture 13906 — the dive roll in three shapes — dive, roll over a rolled mat, stand]
+
+## Sub lesson 8 — The handstand family — Grade 8
+
+Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you. The handstand: hands on the mat, body straight and extended, balance held. The handstand forward roll: from the handstand, tuck and roll forward out of it. The handspring (በእጅ መስፈንጠር): forward — keep the speed of your run-up into the next movement, hands down, push and fly over — and backward, prepared carefully with your partner spotting. Stop and rest whenever a shape feels unsafe.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

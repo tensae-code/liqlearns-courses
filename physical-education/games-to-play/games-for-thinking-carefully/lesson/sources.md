@@ -12,8 +12,14 @@ countries: Ethiopia
 
 **Book 5:** *Grade 6 Health and Physical Education Teacher Guide* (የሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ስድስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. 1–43 held of 96 (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 96. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-teacher-placements.md.
 
+**Book 6:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
+
+**Book 7:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 5 — Circle Target — the Grade 8 deep-thinking game | Ethiopia, *Grade 8 Student Textbook*, §2.4.1, printed pp. 17–19 |
+| Sub lesson 6 — Deciding well — SWOT and the six problem-solving steps (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §2.3, printed pp. 26–32 (teacher guide — evidence) |
 | Sub lesson 1 — The Yaekob game — move only when Yaekob is said | Ethiopia, *Grade 5 Student Textbook*, §2.4, printed pp. 17–18 |
 | Sub lesson 2 — Thinking games — the narrow goal and group-by-number | Ethiopia, *Grade 6 Student Textbook*, §2.4 and items 19–20, printed pp. 19–21 |
 | Sub lesson 3 — Special football — winning by thinking, talking and respect | Ethiopia, *Grade 7 Student Textbook*, §§2.4–2.4.2, printed pp. 21–23 |
@@ -32,5 +38,7 @@ The Grade 5 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–41
 The Grade 6 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 96. Missing from the file: Chapter 4 Athletics (pp. 44–55), Chapter 5 Gymnastics (pp. 56–68), Chapter 6 Ball skills (pp. 65–82), Chapter 7 Addis Ababa traditional movements and games (pp. 83–93), the references and the glossary. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 The Grade 6 teacher guide's contents-versus-body note does not affect this lesson; its deep-thinking section (§2.2.2, printed p. 21) is in the held part of the file.
+
+The Grade 8 teacher guide is truncated — printed pp. 51–104+ are missing — so its §2.3 evidence is used only at the depth the held pages carry, labelled (teacher guide — evidence).
 
 Searchable tags: games for thinking carefully, deep thinking ጥልቅ አስተሳሰብ, Yaekob game, critical thinking, narrow goal ኳስ በጠባብ ጎል ማሳለፍ, group by number በቁጥር መያያዝ, special football ልዩ እግር ኳስ, Ethiopia HPE Grades 5–7

@@ -16,3 +16,7 @@ Sprinting and the start commands — Grade 5. Sprinting is finishing a set dista
 Sprint training — Grade 6: high knees and butt kicks. Running is faster than walking, a natural gift, and it builds speed, agility and strength.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Hurdles — Grade 8. Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.
+
+Sprint start, drive and finish — Grade 9. The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.

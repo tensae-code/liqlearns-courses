@@ -34,3 +34,27 @@ a) running on the spot, staying in one place  b) running in place with knees lif
 a) running on the spot, staying in one place  b) running with arms spread like an eagle's wings  c) running in place with knees lifting in a steady rhythm
 **Answer: c) running in place with knees lifting in a steady rhythm**
 
+
+**9. (Sub lesson 5)** What is the heart of "Running on the spot — Grade 8 (teacher guide — evidence)"?
+a) Warm up and stretch for 5–10 minutes.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Warm up and stretch for 5–10 minutes.**
+
+**10. (Sub lesson 5)** Which of these belongs to "Running on the spot — Grade 8 (teacher guide — evidence)"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Warm up and stretch for 5–10 minutes.
+**Answer: c) Warm up and stretch for 5–10 minutes.**
+
+**11. (Sub lesson 5)** A learner doing "Running on the spot — Grade 8 (teacher guide — evidence)" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Warm up and stretch for 5–10 minutes.  c) sitting still and watching others do the movement
+**Answer: b) Warm up and stretch for 5–10 minutes.**
+
+**12. (Sub lesson 6)** What is the heart of "Speed runs and ladder feet — Grade 8"?
+a) Speed is covering a movement in the shortest time.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Speed is covering a movement in the shortest time.**
+
+**13. (Sub lesson 6)** Which of these belongs to "Speed runs and ladder feet — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Speed is covering a movement in the shortest time.
+**Answer: c) Speed is covering a movement in the shortest time.**
+
+**14. (Sub lesson 6)** A learner doing "Speed runs and ladder feet — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Speed is covering a movement in the shortest time.  c) sitting still and watching others do the movement
+**Answer: b) Speed is covering a movement in the shortest time.**

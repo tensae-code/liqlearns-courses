@@ -37,3 +37,15 @@ a) the baton relay as a prized Olympic and world-championship team event — 4 �
 **9. (Sub lesson 3)** A learner doing "The downsweep changeover" correctly is —
 a) the baton relay as a prized Olympic and world-championship team event — 4 × 100 metres, or 4 × 50 / 4 × 25 metres where space is short  b) the upsweep changeover (ከታች ወደ ላይ) — the baton passed from below upward into the waiting hand  c) the downsweep changeover — the baton pressed down into the waiting hand — and full competition changeovers
 **Answer: c) the downsweep changeover — the baton pressed down into the waiting hand — and full competition changeovers**
+
+**10. (Sub lesson 4)** What is the heart of "Relay exchanges in motion — Grade 9"?
+a) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.**
+
+**11. (Sub lesson 4)** Which of these belongs to "Relay exchanges in motion — Grade 9"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.
+**Answer: c) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.**
+
+**12. (Sub lesson 4)** A learner doing "Relay exchanges in motion — Grade 9" correctly is —
+a) skipping every stage and starting with the hardest game form  b) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.  c) sitting still and watching others do the movement
+**Answer: b) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.**

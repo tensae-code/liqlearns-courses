@@ -34,3 +34,27 @@ a) walking hand in hand in pairs and in a group  b) walking heel to toe along a 
 a) walking hand in hand in pairs and in a group  b) walking on a straight line, a rectangle, a circle and a zigzag line  c) walking heel to toe along a straight line with arms out
 **Answer: c) walking heel to toe along a straight line with arms out**
 
+
+**9. (Sub lesson 5)** What is the heart of "Walking tall — Grade 8 (teacher guide — evidence)"?
+a) Walk tall, the way the Grade 8 guide teaches it.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Walk tall, the way the Grade 8 guide teaches it.**
+
+**10. (Sub lesson 5)** Which of these belongs to "Walking tall — Grade 8 (teacher guide — evidence)"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Walk tall, the way the Grade 8 guide teaches it.
+**Answer: c) Walk tall, the way the Grade 8 guide teaches it.**
+
+**11. (Sub lesson 5)** A learner doing "Walking tall — Grade 8 (teacher guide — evidence)" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Walk tall, the way the Grade 8 guide teaches it.  c) sitting still and watching others do the movement
+**Answer: b) Walk tall, the way the Grade 8 guide teaches it.**
+
+**12. (Sub lesson 6)** What is the heart of "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)"?
+a) These walking drills are dynamic stretching — you stretch by moving.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) These walking drills are dynamic stretching — you stretch by moving.**
+
+**13. (Sub lesson 6)** Which of these belongs to "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) These walking drills are dynamic stretching — you stretch by moving.
+**Answer: c) These walking drills are dynamic stretching — you stretch by moving.**
+
+**14. (Sub lesson 6)** A learner doing "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)" correctly is —
+a) skipping every stage and starting with the hardest game form  b) These walking drills are dynamic stretching — you stretch by moving.  c) sitting still and watching others do the movement
+**Answer: b) These walking drills are dynamic stretching — you stretch by moving.**

@@ -18,3 +18,7 @@ Forward rolls from a forehead stand and a handstand — Grade 6. The rolls grow 
 Free gymnastics — Grade 7: headstand, head spring and cartwheel. The headstand: make a triangle on the mat with your forehead and both hands, then raise the legs one by one until they rest on the elbows, and grow the hold.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+The dive roll — Grade 8. Free gymnastics is done with no equipment.
+
+The handstand family — Grade 8. Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.

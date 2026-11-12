@@ -21,3 +21,11 @@ a) Clean and cover wounds  b) Buy new kit  c) Rest all day
 **5. (Sub lesson 2)** Looking healthy and clean improving self-image is which benefit kind?
 a) Psychological  b) Health  c) Social
 **Answer: a) Psychological**
+
+**6. (Sub lesson 3)** After an exercise session, the guide says to shower…
+a) As soon as possible  b) Next week  c) Never
+**Answer: a) As soon as possible**
+
+**7. (Sub lesson 3)** Feet after the shower should be dried thoroughly, especially…
+a) Between the toes  b) Not at all  c) Only the heels
+**Answer: a) Between the toes**

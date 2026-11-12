@@ -17,3 +17,7 @@ Javelin — Grade 7. The javelin (ጦር) is an individual event needing upper-b
 Discus — Grade 7. The discus stages: 1.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Shot put — the glide — Grade 8. Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.
+
+Discus — Grade 8. The discus throw is one unbroken movement, taught in stages.

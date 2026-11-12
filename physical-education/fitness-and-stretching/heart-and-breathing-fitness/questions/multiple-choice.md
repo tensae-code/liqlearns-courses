@@ -82,3 +82,39 @@ a) the step-up test on a 20–30 cm step, with the heartbeat counted before and 
 **20. (Sub lesson 8)** A learner doing "Cardio fitness — Grade 7: jacks, hop squats and ropes" correctly is —
 a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  c) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest
 **Answer: c) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest**
+
+**21. (Sub lesson 9)** What is the heart of "The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics"?
+a) Four set practices build the heart and breathing at this grade.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Four set practices build the heart and breathing at this grade.**
+
+**22. (Sub lesson 9)** Which of these belongs to "The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Four set practices build the heart and breathing at this grade.
+**Answer: c) Four set practices build the heart and breathing at this grade.**
+
+**23. (Sub lesson 9)** A learner doing "The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Four set practices build the heart and breathing at this grade.  c) sitting still and watching others do the movement
+**Answer: b) Four set practices build the heart and breathing at this grade.**
+
+**24. (Sub lesson 10)** What is the heart of "Designing cardio training — Grade 9: FITT, jogging and the step-kick"?
+a) Now you design the training.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Now you design the training.**
+
+**25. (Sub lesson 10)** Which of these belongs to "Designing cardio training — Grade 9: FITT, jogging and the step-kick"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Now you design the training.
+**Answer: c) Now you design the training.**
+
+**26. (Sub lesson 10)** A learner doing "Designing cardio training — Grade 9: FITT, jogging and the step-kick" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Now you design the training.  c) sitting still and watching others do the movement
+**Answer: b) Now you design the training.**
+
+**27. (Sub lesson 11)** What is the heart of "The pure aerobic list — Grade 10"?
+a) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r**
+
+**28. (Sub lesson 11)** Which of these belongs to "The pure aerobic list — Grade 10"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r
+**Answer: c) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r**
+
+**29. (Sub lesson 11)** A learner doing "The pure aerobic list — Grade 10" correctly is —
+a) skipping every stage and starting with the hardest game form  b) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r  c) sitting still and watching others do the movement
+**Answer: b) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r**

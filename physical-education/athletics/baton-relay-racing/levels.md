@@ -10,3 +10,6 @@ Pass mark: the learner does and explains — the upsweep changeover (ከታች �
 
 ## Sub lesson 3 — The downsweep changeover
 Pass mark: the learner does and explains — the downsweep changeover — the baton pressed down into the waiting hand — and full competition changeovers.
+
+## Sub lesson 4 — Relay exchanges in motion — Grade 9
+Pass mark: the learner does and explains — relay exchanges in motion — grade 9 (Grades 8–10 depth; see lesson/sources.md).

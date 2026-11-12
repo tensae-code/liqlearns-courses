@@ -25,3 +25,9 @@ Pass mark: name the conduct list's three honesty items and the four steps of bui
 
 ## Sub lesson 8 — Confidence, control and calm breathing (teacher guide — evidence)
 Pass mark: do the neck and shoulder movements as printed and use active breathing, word and all, to calm down.
+
+## Sub lesson 9 — Rescue from Danger and Change of Place — the Grade 8 self-knowledge games
+Pass mark: set out the 20–30 m parallel-line field for Rescue from Danger, and give the reflection answer the book asks: one strength and one thing to correct.
+
+## Sub lesson 10 — Rolling in Admiration and mindful minutes (teacher guide — evidence)
+Pass mark: run Rolling in Admiration correctly (dice number = number of compliments) and lead the five mindful-meditation steps in order.

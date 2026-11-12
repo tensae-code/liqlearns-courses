@@ -25,3 +25,21 @@ Say true or false.
 
 **8. (Sub lesson 4)** In "High jump — Grade 7: the scissors jump", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**9. (Sub lesson 5)** In this lesson, "High jump — the straddle — Grade 8" teaches: Jumpers clear the bar in different styles — the Fosbury flop is among them — and the style taught at this grade is the straddle (ስ.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "High jump — the straddle — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Long jump — Grade 10" teaches: The long jump has four phases: the approach run, the take-off, the flight, and the landing..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Long jump — Grade 10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Triple jump — Grade 10" teaches: The triple jump is three jumps in one: hop, step, jump..
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Triple jump — Grade 10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

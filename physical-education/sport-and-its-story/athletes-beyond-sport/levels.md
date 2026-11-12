@@ -13,3 +13,9 @@ Pass mark: name five fields the book lists for athletes' investment, and the job
 
 ## Sub lesson 4 — Sport legends at work — Haile, Derartu, Mengistu (teacher guide — evidence)
 Pass mark: for each of the three legends, name one job-creating work and one public role.
+
+## Sub lesson 5 — Sport and money — athletes who invest and employ
+Pass mark: name two athlete investors from the book and trace one event's money: transport, hotels, organisers.
+
+## Sub lesson 6 — Athletes who give back — schools, hospitals and peace
+Pass mark: name one athlete, the place they helped, and the help they gave — for two of the profiled champions.

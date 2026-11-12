@@ -19,3 +19,9 @@ Pass mark: the learner does and explains — forward rolls that begin from a for
 
 ## Sub lesson 6 — Free gymnastics — Grade 7: headstand, head spring and cartwheel
 Pass mark: the learner does and explains — the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.
+
+## Sub lesson 7 — The dive roll — Grade 8
+Pass mark: the learner does and explains — the dive roll — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 8 — The handstand family — Grade 8
+Pass mark: the learner does and explains — the handstand family — grade 8 (Grades 8–10 depth; see lesson/sources.md).

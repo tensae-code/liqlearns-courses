@@ -61,3 +61,27 @@ a) overarm throwing of a small ball for distance, and the standing stick throw �
 **15. (Sub lesson 5)** A learner doing "Discus — Grade 7" correctly is —
 a) overarm throwing of a small ball for distance, and the standing stick throw — step, turn, throw, follow through, into a clear area  b) ring throwing from spread fingers in an open palm with a pre-throw turn, and javelin-style throwing — run-up, gathering the run's force, the spear pulled back then thrown forward past the line  c) the discus throw in its stages — grip and basic stance, pre-throw arm swing, turn, throw — beginning with the standing throw
 **Answer: c) the discus throw in its stages — grip and basic stance, pre-throw arm swing, turn, throw — beginning with the standing throw**
+
+**16. (Sub lesson 6)** What is the heart of "Shot put — the glide — Grade 8"?
+a) Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.**
+
+**17. (Sub lesson 6)** Which of these belongs to "Shot put — the glide — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.
+**Answer: c) Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.**
+
+**18. (Sub lesson 6)** A learner doing "Shot put — the glide — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.  c) sitting still and watching others do the movement
+**Answer: b) Throwing is one branch of athletics — shot, discus, javelin and hammer are its family.**
+
+**19. (Sub lesson 7)** What is the heart of "Discus — Grade 8"?
+a) The discus throw is one unbroken movement, taught in stages.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) The discus throw is one unbroken movement, taught in stages.**
+
+**20. (Sub lesson 7)** Which of these belongs to "Discus — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) The discus throw is one unbroken movement, taught in stages.
+**Answer: c) The discus throw is one unbroken movement, taught in stages.**
+
+**21. (Sub lesson 7)** A learner doing "Discus — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) The discus throw is one unbroken movement, taught in stages.  c) sitting still and watching others do the movement
+**Answer: b) The discus throw is one unbroken movement, taught in stages.**

@@ -72,6 +72,18 @@ Two movement practices train awareness of the body: **neck movement** — seated
 
 And for calming: **active breathing**. When upset, worried or over-excited: sit or stand comfortably; choose a relaxing word — the guide's example is **"peace"** — breathe in, and softly say the word as the air leaves. Use it any time you need to calm down.
 
+## Sub lesson 9 — Rescue from Danger and Change of Place — the Grade 8 self-knowledge games
+
+**Rescue from Danger (ከአደጋ ማዳን)** is played on a field marked by **two parallel lines 20–30 metres apart**, with its full play and rules printed in the book — a self-knowledge and self-direction game: you learn what you do when danger comes.
+
+**Change of Place (ቦታ ለውጥ)** is an enjoyable game to build the same two strengths — self-knowledge and self-direction. After the Chapter 2 games, the book asks the reflection question that makes them self-leadership games: **name one strength, and one thing to correct, that the games showed you about yourself.**
+
+## Sub lesson 10 — Rolling in Admiration and mindful minutes (teacher guide — evidence)
+
+The Grade 8 teacher guide's self-awareness game is **Rolling in Admiration** — it works like Catch the Compliment: at least three players sit in a circle; one rolls the dice, and **says that many positive characteristics about the person next to them**; then the next person takes the dice.
+
+Self-awareness means **conscious knowledge of your own character and feelings**; self-management is **regulating your emotions, thoughts and behaviour in different situations**. Resilience — recovering from setbacks and keeping going — is practised with **mindful meditation**: get comfortable in a quiet place, consider a timer, focus on breathing, notice your thoughts, give yourself a break.
+
 ## Say it to your companion
 
 Tell your companion what self-management looks like in a game — the three signs. Then tell them what self-discipline adds: the rule kept with nobody watching.

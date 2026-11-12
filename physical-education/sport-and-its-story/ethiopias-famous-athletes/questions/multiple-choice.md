@@ -33,3 +33,23 @@ a) Moscow 1980  b) Mexico 1968  c) London 2012
 **8. (Sub lesson 4)** Almaz Ayana won 10,000 m gold at…
 a) Rio 2016  b) Atlanta 1996  c) Beijing 2008
 **Answer: a) Rio 2016**
+
+**9. (Sub lesson 5)** The Grade 8 athletes section is built in two parts: victories, then…
+a) Their works  b) Their shoes  c) Their diets
+**Answer: a) Their works**
+
+**10. (Sub lesson 5)** Athletes' works in the book include…
+a) Charity, investment and development roles  b) Only racing  c) Nothing
+**Answer: a) Charity, investment and development roles**
+
+**11. (Sub lesson 6)** Yidnekachew Tessema served as CAF president for…
+a) 15 years  b) 1 year  c) 50 years
+**Answer: a) 15 years**
+
+**12. (Sub lesson 6)** Geremew Denboba was the first person to…
+a) Carry Ethiopia's flag at the Olympic Games  b) Win the marathon  c) Found CAF
+**Answer: a) Carry Ethiopia's flag at the Olympic Games**
+
+**13. (Sub lesson 6)** Meseret Defar championed, as UNFPA ambassador…
+a) Women, youth and HIV/AIDS prevention  b) Stadium building  c) Ticket sales
+**Answer: a) Women, youth and HIV/AIDS prevention**

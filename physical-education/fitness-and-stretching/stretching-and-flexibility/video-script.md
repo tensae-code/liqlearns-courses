@@ -19,3 +19,9 @@ Flexibility — Grade 6 stretches. Bend and reach with arm raises.
 Flexibility — Grade 7: sit-and-reach and the six-stretch circuit. Flexibility is the ability to move the joints and use the muscles through their full range of motion.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Flexibility — Grade 8: static and dynamic. Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is felt.
+
+Dynamic and static stretching — Grade 9. Stretch in groups and pairs, each stretch with its purpose.
+
+Flexibility — Grade 10: warm first, never force. Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forceful movements.

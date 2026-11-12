@@ -44,3 +44,15 @@ Say true or false.
 
 **14. (Sub lesson 7)** In "Speed work — Grade 7: high knees, pursuit and the three sprint phases", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Speed and the rules of sprinting technique — Grade 8" teaches: Speed is a person's ability to move fast; speed joined with strength gives power..
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Speed and the rules of sprinting technique — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**17. (Sub lesson 9)** In this lesson, "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)" teaches: Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat — over grass, paths a.
+**Answer: True**
+
+**18. (Sub lesson 9)** In "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

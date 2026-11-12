@@ -16,8 +16,12 @@ countries: Ethiopia
 
 **Book 7:** *Grade 7 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. iii + 1–45 held (51 PDF pages). TRUNCATED — the file holds Chapters 1–3 complete (printed pp. 1–45); chapters beyond Chapter 3 are missing from the file. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-teacher-placements.md.
 
+**Book 8:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 8 — Pair Hunting and the Rope Tug — the Grade 8 social games | Ethiopia, *Grade 8 Student Textbook*, §§2.2.1–2.2.2, printed pp. 12–14 |
+| Sub lesson 9 — Ball in a Box and Special Basketball — the Grade 8 cooperation games | Ethiopia, *Grade 8 Student Textbook*, §§2.5.1–2.5.2, printed pp. 19–23 |
 | Sub lesson 1 — the Fishing game (Grade 3 pictured form) | Ethiopia, *Grade 3 Student Textbook*, §3.5, printed pp. 30–31 |
 | Sub lesson 2 — the Fishing game (Grade 4 pictured form); the ball-inside-the-circle game | Ethiopia, *Grade 4 Student Textbook*, §3.5, printed pp. 27–28 |
 | Sub lesson 3 — giving notice/signals; the Gebeta game named; the four-time beat game (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §§3.2.1–3.2.2, printed pp. 42–44 |

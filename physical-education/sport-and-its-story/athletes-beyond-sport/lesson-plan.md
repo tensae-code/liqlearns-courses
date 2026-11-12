@@ -13,6 +13,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Athletes invest, employ and serve — the Grade 7 account** — the Grade 7 book: most Olympic athletes do charity and help work; athletes invest fame and money in hotels, trade, farming, industry, import/export and sports centres, creating jobs.
 4. **Sport legends at work — Haile, Derartu, Mengistu (teacher guide — evidence)** — the Grade 7 teacher guide's legends lesson, taught by its own stated method — job creation, social and political work over race results: Haile Gebreslasie, Derartu Tulu and Mengistu Worku.
 
+5. **Sport and money — athletes who invest and employ** — the Grade 9 student book's §1.1 and the Grade 9 teacher guide's Unit 1: sport and the economy — athlete investors (Bekele, Dibaba, Osaka, Drogba) and how an event pays a town.
+6. **Athletes who give back — schools, hospitals and peace** — the Grade 10 student book's §1.4 (Mané, Drogba, Neuer, Rashford) and the Grade 10 teacher guide's Unit 1 (Weah; Haile's Great Ethiopian Run and schools).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

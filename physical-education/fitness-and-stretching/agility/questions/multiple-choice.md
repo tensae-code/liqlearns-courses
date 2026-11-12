@@ -86,3 +86,27 @@ a) running between obstacles keeping your balance, and group circle running game
 **21. (Sub lesson 7)** A learner doing "Speed work — Grade 7: high knees, pursuit and the three sprint phases" correctly is —
 a) running between obstacles keeping your balance, and group circle running games where called numbers run  b) the line-touch race over lines at 5, 4 and 3 metres, and weaving in and out of a line of cones at speed without touching them  c) high-knee running and pursuit runs, and the sprint's three phases — drive, transition, and top speed — over 20, 30 and 40 metre runs
 **Answer: c) high-knee running and pursuit runs, and the sprint's three phases — drive, transition, and top speed — over 20, 30 and 40 metre runs**
+
+**22. (Sub lesson 8)** What is the heart of "Speed and the rules of sprinting technique — Grade 8"?
+a) Speed is a person's ability to move fast; speed joined with strength gives power.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Speed is a person's ability to move fast; speed joined with strength gives power.**
+
+**23. (Sub lesson 8)** Which of these belongs to "Speed and the rules of sprinting technique — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Speed is a person's ability to move fast; speed joined with strength gives power.
+**Answer: c) Speed is a person's ability to move fast; speed joined with strength gives power.**
+
+**24. (Sub lesson 8)** A learner doing "Speed and the rules of sprinting technique — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Speed is a person's ability to move fast; speed joined with strength gives power.  c) sitting still and watching others do the movement
+**Answer: b) Speed is a person's ability to move fast; speed joined with strength gives power.**
+
+**25. (Sub lesson 9)** What is the heart of "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)"?
+a) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —**
+
+**26. (Sub lesson 9)** Which of these belongs to "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —
+**Answer: c) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —**
+
+**27. (Sub lesson 9)** A learner doing "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —  c) sitting still and watching others do the movement
+**Answer: b) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —**

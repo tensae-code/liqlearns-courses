@@ -16,3 +16,7 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 5–7 parts
 Do the new parts in order, slowly first: Agility, Line-touch races and cone weaves, Agility, Speed work. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.
+
+
+## The Grade 8–10 parts
+Do the new parts in order, slowly first: Speed and the rules of sprinting technique — Grade 8, Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence). Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.

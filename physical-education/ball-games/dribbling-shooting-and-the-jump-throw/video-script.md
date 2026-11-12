@@ -17,3 +17,9 @@ Basketball standing shot — Grade 7. First the grip: hold the ball correctly in
 Handball dribble and jump throw — Grade 7. Handball has been played for a long time, in the world and in Ethiopia.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+The basketball jump shot — Grade 8. Stand with feet slightly apart and knees slightly bent.
+
+Lay-ups — Grade 9 underhand, Grade 10 extended-arm. The lay-up is basketball's most essential shot — you lay the ball up near the basket with one hand, off the backboard and in, for two points.
+
+Handball — the dive throw, goalkeeping and passing — Grades 8–10. Handball joins running, jumping, catching and throwing.

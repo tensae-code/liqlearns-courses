@@ -50,3 +50,21 @@ Say true or false.
 
 **16. (Sub lesson 8)** In "Cardio fitness — Grade 7: jacks, hop squats and ropes", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**17. (Sub lesson 9)** In this lesson, "The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics" teaches: Four set practices build the heart and breathing at this grade..
+**Answer: True**
+
+**18. (Sub lesson 9)** In "The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**19. (Sub lesson 10)** In this lesson, "Designing cardio training — Grade 9: FITT, jogging and the step-kick" teaches: Now you design the training..
+**Answer: True**
+
+**20. (Sub lesson 10)** In "Designing cardio training — Grade 9: FITT, jogging and the step-kick", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**21. (Sub lesson 11)** In this lesson, "The pure aerobic list — Grade 10" teaches: The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, rowing, stair climbin.
+**Answer: True**
+
+**22. (Sub lesson 11)** In "The pure aerobic list — Grade 10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

@@ -13,3 +13,9 @@ Say if it is true or false.
 
 **4. (Sub lesson 4)** Mamo Wolde's marathon gold was won at Rio 2016.
 **Answer: False**
+
+**5. (Sub lesson 5)** The Grade 8 book pictures the famous athletes it profiles.
+**Answer: True**
+
+**6. (Sub lesson 6)** Tessema helped keep tobacco and alcohol advertising out of stadiums.
+**Answer: True**

@@ -22,3 +22,9 @@ Pass mark: the learner does and explains — sprint starts from lying on the che
 
 ## Sub lesson 7 — Speed work — Grade 7: high knees, pursuit and the three sprint phases
 Pass mark: the learner does and explains — high-knee running and pursuit runs, and the sprint's three phases — drive, transition, and top speed — over 20, 30 and 40 metre runs.
+
+## Sub lesson 8 — Speed and the rules of sprinting technique — Grade 8
+Pass mark: the learner does and explains — speed and the rules of sprinting technique — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 9 — Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)
+Pass mark: the learner does and explains — fartlek — speeding up and easing off — grade 10 (teacher guide — evidence) (Grades 8–10 depth; see lesson/sources.md).

@@ -13,3 +13,15 @@ Say if it is true or false.
 
 **4. (Sub lesson 4)** Horse racing stands in the book as a ruled traditional sport.
 **Answer: True**
+
+**5. (Sub lesson 5)** The book teaches non-injurious kinds of wrestling.
+**Answer: True**
+
+**6. (Sub lesson 6)** Making the Korbo stick and ring is set as a task in the book.
+**Answer: True**
+
+**7. (Sub lesson 7)** Bub's stations total 25, counting the start station.
+**Answer: True**
+
+**8. (Sub lesson 8)** The book lists archery's equipment in detail.
+**Answer: True**

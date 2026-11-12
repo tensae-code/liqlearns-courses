@@ -22,6 +22,16 @@ Walk and roll a ball by hand at the same time. The ball stays close and your fee
 
 Walk heel to toe along a straight line, arms out, and do not step off the line. This balance walk comes from the Grade 4 teacher guide.
 
+## Sub lesson 5 — Walking tall — Grade 8 (teacher guide — evidence)
+
+Walk tall, the way the Grade 8 guide teaches it. Keep your head up, with your chin parallel to the ground and your ears above your shoulders. Lengthen your back. Keep your shoulders down and back. Hold your middle firm, swing your arms, and step from heel to toe. Warm up and stretch for 5–10 minutes first, and cool down the same way after. Before any activity, say if you have a health problem — the guide asks this every time.
+
+[Picture 13915 — walking tall — head up, shoulders down and back, heel-to-toe step]
+
+## Sub lesson 6 — Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)
+
+These walking drills are dynamic stretching — you stretch by moving. High knees: take an exaggerated step, drive the knee high and push up on the toes of the other foot; your arms stay bent at 90 degrees, hands rising to chin level and back past the rear pocket. Straight-leg kicks: kick up and touch your toes with the opposite hand — the first set at about three-quarter effort, the second set full. Then walk a forward lunge, and a side lunge, from one end of the ground to the other. Stretch only when your muscles are warm.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

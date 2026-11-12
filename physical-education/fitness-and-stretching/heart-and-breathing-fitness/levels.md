@@ -25,3 +25,12 @@ Pass mark: the learner does and explains — taking the pulse at the wrist or ne
 
 ## Sub lesson 8 — Cardio fitness — Grade 7: jacks, hop squats and ropes
 Pass mark: the learner does and explains — cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.
+
+## Sub lesson 9 — The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics
+Pass mark: the learner does and explains — the grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 10 — Designing cardio training — Grade 9: FITT, jogging and the step-kick
+Pass mark: the learner does and explains — designing cardio training — grade 9: fitt, jogging and the step-kick (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 11 — The pure aerobic list — Grade 10
+Pass mark: the learner does and explains — the pure aerobic list — grade 10 (Grades 8–10 depth; see lesson/sources.md).

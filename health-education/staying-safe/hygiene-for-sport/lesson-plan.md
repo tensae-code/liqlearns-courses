@@ -11,6 +11,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **Wash after exercise — the pupil's lesson** — the Grade 7 student book's hygiene section: sweat glands, bacteria breeding in unwashed sweat-dirt, washing the body after PE/sport as essential, and dirty kit harming self and others.
 2. **Three things, three benefits (teacher guide — evidence)** — the Grade 7 teacher guide's hygiene lesson: personal hygiene defined; the three basic things to stay healthy in activity; and the health, social and psychological benefits.
 
+3. **Clean after exercise — shower, towel, feet (teacher guide — evidence)** — the Grade 9 teacher guide's hygiene insert: the definition, the five hygiene groups, showering soon after exercise, and foot care — drying between the toes; Picture 14013 shows the foot rule.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -40,6 +42,8 @@ Water and soap where available, a clean cloth, and the class's own kit to inspec
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 14013] — washing and drying feet, between the toes → the student recites the shower-and-feet rule.
 
 ## If the learner is stuck
 - No shower is available → the guide's own alternative stands: wash your hands and wash with the water there is; the rule is cleanliness, not plumbing.

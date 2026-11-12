@@ -62,3 +62,27 @@ a) the sprint start — on your marks (በቦታህ) at the line, set in the sta
 **15. (Sub lesson 5)** A learner doing "Sprint training — Grade 6: high knees and butt kicks" correctly is —
 a) the sprint start — on your marks (በቦታህ) at the line, set in the starting block (መነሻ ሳንቃ), and drive out on the signal; racing 30–50 metres and 60–70 metres  b) watching only, never moving  c) running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique
 **Answer: c) running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique**
+
+**16. (Sub lesson 6)** What is the heart of "Hurdles — Grade 8"?
+a) Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.**
+
+**17. (Sub lesson 6)** Which of these belongs to "Hurdles — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.
+**Answer: c) Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.**
+
+**18. (Sub lesson 6)** A learner doing "Hurdles — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.  c) sitting still and watching others do the movement
+**Answer: b) Hurdling (የመሰናክል ሩጫ) is sprinting over barriers.**
+
+**19. (Sub lesson 7)** What is the heart of "Sprint start, drive and finish — Grade 9"?
+a) The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.**
+
+**20. (Sub lesson 7)** Which of these belongs to "Sprint start, drive and finish — Grade 9"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.
+**Answer: c) The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.**
+
+**21. (Sub lesson 7)** A learner doing "Sprint start, drive and finish — Grade 9" correctly is —
+a) skipping every stage and starting with the hardest game form  b) The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.  c) sitting still and watching others do the movement
+**Answer: b) The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination.**

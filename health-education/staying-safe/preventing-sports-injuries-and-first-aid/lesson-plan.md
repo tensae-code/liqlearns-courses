@@ -13,6 +13,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **First aid and RICE** — the Grade 7 book's first aid: quick, careful help where the accident happened, until health-facility care arrives — and RICE pictured (fig. 1.3): Rest, Ice, Compression (ማሰር), Elevation (ከፍ ማድረግ).
 4. **RICER and the first-aid kit (teacher guide — evidence)** — the Grade 7 teacher guide's first aid in full: its purposes — prevent further injury, preserve life, promote recovery — the kit items, RICER for the first 72 hours, and the blood-safety note.
 
+5. **First aid and injury management — the Grade 8 definitions (teacher guide — evidence)** — the Grade 8 teacher guide's §1.5: first aid defined (emergency care before regular medical aid) and injury management defined (timely, safe, durable return).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

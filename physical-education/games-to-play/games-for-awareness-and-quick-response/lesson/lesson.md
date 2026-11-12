@@ -66,6 +66,12 @@ Its partner is **mindfulness**: the quality of being conscious or aware of somet
 
 And **reflective thinking** closes the circle: taking the biggest picture, understanding consequences, and always reflecting on **what you have and what you still need** — and shrinking that gap.
 
+## Sub lesson 8 — Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence)
+
+The Grade 8 teacher guide's social-awareness drill is **Spot the Difference**: two equal lines face one another and observe for a minute or two; one line turns away while the other **visibly changes things — swapping clothing, changing hairstyle, removing glasses**; then they turn back and, as a team, **identify every change** — and swap roles.
+
+Its **Learning Logo** scenario trains the same watching from the bench: your team is losing 3–0 and you are ill on the bench — **how will you support your team, and what ideas will help them recover?** Awareness is not only eyes; it is noticing what people need.
+
 ## Say it to your companion
 
 Tell your companion the four Grade 3 games of this family, and the safety rules of the covered-eyes game. Then say what attention means in the changing-calls game.

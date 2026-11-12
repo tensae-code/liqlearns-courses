@@ -70,3 +70,39 @@ a) passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 met
 **17. (Sub lesson 7)** A learner doing "Kicking and controlling — Grade 7" correctly is —
 a) passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 metres, with the outside of the foot, and one-touch circle play using both  b) dribbling with the inside and the outside of the foot — 20 metres to a partner, between cones, then small team football games using the dribble  c) kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres
 **Answer: c) kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres**
+
+**18. (Sub lesson 8)** What is the heart of "Shooting at goal — Grade 8"?
+a) Shoot at goal in stages, exactly as the book builds it.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Shoot at goal in stages, exactly as the book builds it.**
+
+**19. (Sub lesson 8)** Which of these belongs to "Shooting at goal — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Shoot at goal in stages, exactly as the book builds it.
+**Answer: c) Shoot at goal in stages, exactly as the book builds it.**
+
+**20. (Sub lesson 8)** A learner doing "Shooting at goal — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Shoot at goal in stages, exactly as the book builds it.  c) sitting still and watching others do the movement
+**Answer: b) Shoot at goal in stages, exactly as the book builds it.**
+
+**21. (Sub lesson 9)** What is the heart of "Chest control, first touch and heading — Grade 9"?
+a) Control brings the ball under your command.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Control brings the ball under your command.**
+
+**22. (Sub lesson 9)** Which of these belongs to "Chest control, first touch and heading — Grade 9"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Control brings the ball under your command.
+**Answer: c) Control brings the ball under your command.**
+
+**23. (Sub lesson 9)** A learner doing "Chest control, first touch and heading — Grade 9" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Control brings the ball under your command.  c) sitting still and watching others do the movement
+**Answer: b) Control brings the ball under your command.**
+
+**24. (Sub lesson 10)** What is the heart of "Tackling, thigh control and goalkeeping — Grade 10"?
+a) Three advanced football skills.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Three advanced football skills.**
+
+**25. (Sub lesson 10)** Which of these belongs to "Tackling, thigh control and goalkeeping — Grade 10"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Three advanced football skills.
+**Answer: c) Three advanced football skills.**
+
+**26. (Sub lesson 10)** A learner doing "Tackling, thigh control and goalkeeping — Grade 10" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Three advanced football skills.  c) sitting still and watching others do the movement
+**Answer: b) Three advanced football skills.**

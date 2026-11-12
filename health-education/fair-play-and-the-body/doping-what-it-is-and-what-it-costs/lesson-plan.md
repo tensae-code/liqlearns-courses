@@ -13,6 +13,10 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Doping's harms — the Grade 6 map** — the Grade 6 student book's harm diagram across health, social relations, sport and the economy, with the Grade 6 teacher guide's three harm families: body, mind and social life, income stopped and the country's place at risk.
 4. **What doping costs — the Grade 7 reckoning** — the Grade 7 student book's effects pass, with the Grade 7 teacher guide's four consequence families: health, social, financial and sanction — disqualification, forfeited medals, bans of up to four years or life.
 
+5. **Stopping doping — history, rules and bans (Grade 8)** — the Grade 8 student book's §3.6: doping recorded since 668 BCE, the control timeline, why it is banned, and the printed sanctions ladder (1 year / 2 years / lifetime).
+6. **Consequences — health, sanctions and a ruined name (Grade 9)** — the Grade 9 student book's §1.4 and the Grade 9 teacher guide's Unit 1: doping's health consequences, sanctions, forfeiture and isolation, against Bikila and Wolde the clean pioneers.
+7. **The Anti-Doping Rules — the WADA Code (Grade 10)** — the Grade 10 student book's §1.5 and teacher guide's Unit 1: WADA and its 2021 Code (27 articles), who applies it, education–deterrence–detection, and the spirit of sport; Picture 14006 shows a sealed doping-control sample; the Grade 8 guide's prevention line (Educate, Counsel, Communicate) closes it.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -42,6 +46,8 @@ Nothing — a knowledge lesson. The picture carries the clean-sport message; no 
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 14006] — a doping-control sample bottle, sealed → the student says why the sample is sealed in front of the athlete.
 
 ## If the learner is stuck
 - "It is only cheating, not dangerous" → the guide's two reasons stand together: forbidden because it is both cheating and harmful; walk both lists.

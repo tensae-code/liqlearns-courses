@@ -25,3 +25,12 @@ Pass mark: the learner does and explains — push-ups, walking on the hands, pul
 
 ## Sub lesson 8 — Muscular endurance — Grade 7
 Pass mark: the learner does and explains — muscular endurance as stamina — push-ups 4 × 10, squat jumps 3 × 5, and modified pull-ups on a low bar with the feet grounded, 6–10 reps.
+
+## Sub lesson 9 — Muscle strength by body region — Grade 8
+Pass mark: the learner does and explains — muscle strength by body region — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 10 — The five-station circuit — Grade 9
+Pass mark: the learner does and explains — the five-station circuit — grade 9 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 11 — Testing muscle endurance and strength — Grade 10
+Pass mark: the learner does and explains — testing muscle endurance and strength — grade 10 (Grades 8–10 depth; see lesson/sources.md).

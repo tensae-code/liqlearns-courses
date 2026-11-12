@@ -17,6 +17,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 6. **Attention and observation games (teacher guide — evidence)** — the Grade 5 guide's attention and observation training — on-command movements, one-leg balance counting to 5, tiptoe with eyes closed, and the called-stations run — with the Grade 6 guide's interest and attention games: the middle-interceptor, traffic-light cards and the small-ball net game.
 7. **Attention control and mindfulness (teacher guide — evidence)** — the Grade 7 teacher guide: attention control — focusing on task-relevant information and resisting distractors — and mindfulness, awareness of the present moment, with reflective thinking.
 
+8. **Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence)** — the Grade 8 teacher guide's §2.2: the Spot the Difference leadership drill and the Learning Logo bench scenario.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

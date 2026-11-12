@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 1)** Kit can stay dirty in the bag all week without harming anyone.
 **Answer: False**
+
+**5. (Sub lesson 3)** Bacteria breed in sweaty clothes if they are not washed.
+**Answer: True**

@@ -18,3 +18,7 @@ Agility — Grade 6: starting positions and direction changes. Agility is changi
 Speed work — Grade 7: high knees, pursuit and the three sprint phases. High-knee running (ጉልበትን ከፍ በማድረግ መሮጥ) lifts the knees high as you run.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Speed and the rules of sprinting technique — Grade 8. Speed is a person's ability to move fast; speed joined with strength gives power.
+
+Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence). Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat — over grass, paths and gentle hills.

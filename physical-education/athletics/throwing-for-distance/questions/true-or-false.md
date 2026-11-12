@@ -31,3 +31,15 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Discus — Grade 7", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Shot put — the glide — Grade 8" teaches: Throwing is one branch of athletics — shot, discus, javelin and hammer are its family..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Shot put — the glide — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Discus — Grade 8" teaches: The discus throw is one unbroken movement, taught in stages..
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Discus — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

@@ -20,3 +20,9 @@ Heart and breathing fitness — Grade 6: pulse, skipping and stepping. First lea
 Cardio fitness — Grade 7: jacks, hop squats and ropes. Cardiovascular endurance is the ability of the heart, blood vessels, blood and breathing system to supply fuel and oxygen to the muscles, and of the muscles to use that fuel to keep exercising.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics. Four set practices build the heart and breathing at this grade.
+
+Designing cardio training — Grade 9: FITT, jogging and the step-kick. Now you design the training.
+
+The pure aerobic list — Grade 10. The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, rowing, stair climbing, hiking, cross-country skiing and many dances.

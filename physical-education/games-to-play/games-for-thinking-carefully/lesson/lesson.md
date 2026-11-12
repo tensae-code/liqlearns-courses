@@ -34,6 +34,18 @@ The teacher guides give deep thinking its definition: it is **the higher thought
 
 In practice it runs in a circle: **plan the practice, notice the results, correct**. Children meet new movement problems and inner questions inside games and solve them — that solving *is* the training. A game you only rush through teaches your legs; a game you think through teaches your head as well.
 
+## Sub lesson 5 — Circle Target — the Grade 8 deep-thinking game
+
+**Circle Target (የክብ ኢላማ)** is a deep-thinking game: you **throw flat stones at a circle target**. One rule sharpens the thinking — **a burnt stone scores nothing, for the thrower or for the team.** The game is played for a set time or a set number of rounds, and the book closes with the thinking question: **did decision-making decide this game?** Aim is only half of it; choosing the throw is the other half.
+
+## Sub lesson 6 — Deciding well — SWOT and the six problem-solving steps (teacher guide — evidence)
+
+The Grade 8 teacher guide teaches decision-making as a skill with tools. **Responsible decision making** weighs safety concerns, social norms, the realistic consequences of each action, and the wellbeing of yourself and others.
+
+**SWOT** analyses a situation in four boxes: **Strengths and Weaknesses (inside you or your team), Opportunities and Threats (outside)** — helpful: strengths and opportunities; harmful: weaknesses and threats.
+
+**Problem solving** runs in six steps: **define the problem; list all possible solutions; evaluate the options; select the best solution; make an implementation plan; communicate your solution.** The guide practises it with a **Scavenger Hunt**: teams race through a list of tasks, from simple to hard, and the team that completes them all first wins.
+
 ## Say it to your companion
 
 Tell your companion the Yaekob rule and why deceiving is forbidden. Then tell them what deep thinking means in a game, in your own words.

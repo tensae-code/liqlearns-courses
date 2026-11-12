@@ -29,3 +29,11 @@ a) See a doctor or physiotherapist  b) Return to the game  c) Remove the bandage
 **7. (Sub lesson 4)** Ice in RICER is applied for…
 a) 15–20 minutes  b) Two hours  c) Ten seconds
 **Answer: a) 15–20 minutes**
+
+**8. (Sub lesson 5)** First aid is…
+a) Emergency care given before regular medical aid can be obtained  b) Care given next month  c) Only surgery
+**Answer: a) Emergency care given before regular medical aid can be obtained**
+
+**9. (Sub lesson 5)** Sports injury management aims at a return that is…
+a) Timely, safe and durable  b) Immediate at any cost  c) Never allowed
+**Answer: a) Timely, safe and durable**

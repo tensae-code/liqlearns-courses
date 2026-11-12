@@ -13,3 +13,9 @@ Pass mark: play a special-football game, name one opponent strength you read, an
 
 ## Sub lesson 4 — Deep thinking in games — plan, notice, correct (teacher guide — evidence)
 Pass mark: after a game, say what you planned, what you noticed, and what you corrected — all three.
+
+## Sub lesson 5 — Circle Target — the Grade 8 deep-thinking game
+Pass mark: play Circle Target to its scoring (a burnt stone scores nothing) and answer the book's closing question with a reason.
+
+## Sub lesson 6 — Deciding well — SWOT and the six problem-solving steps (teacher guide — evidence)
+Pass mark: fill a four-box SWOT for a school team and order the six problem-solving steps correctly.

@@ -65,3 +65,19 @@ a) As the air leaves, on the exhale  b) Before breathing in  c) While holding yo
 **16. (Sub lesson 8)** The neck movement is done…
 a) Slowly, without jerk, five times each way  b) As fast as possible  c) Standing on one leg
 **Answer: a) Slowly, without jerk, five times each way**
+
+**17. (Sub lesson 9)** Rescue from Danger is played between two parallel lines…
+a) 20–30 m apart  b) 2 m apart  c) In a circle
+**Answer: a) 20–30 m apart**
+
+**18. (Sub lesson 9)** After the Chapter 2 games, the book asks you to name…
+a) One strength and one thing to correct  b) Three winners  c) The fastest runner
+**Answer: a) One strength and one thing to correct**
+
+**19. (Sub lesson 10)** In Rolling in Admiration, the dice number tells you…
+a) How many compliments to say about the next person  b) How far to run  c) Who leaves the game
+**Answer: a) How many compliments to say about the next person**
+
+**20. (Sub lesson 10)** The first step of mindful meditation in the guide is…
+a) Get comfortable in a quiet place  b) Run a lap  c) Shout your name
+**Answer: a) Get comfortable in a quiet place**

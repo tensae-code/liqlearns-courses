@@ -46,6 +46,12 @@ And it extends RICE to **RICER**, for the **first 72 hours**: **R**est — remov
 
 One rule stands over all of it, printed in the guide: when you manage others' injuries, **take care not to have blood contact** — it prevents the transmission of HIV and other diseases.
 
+## Sub lesson 5 — First aid and injury management — the Grade 8 definitions (teacher guide — evidence)
+
+The Grade 8 teacher guide defines the two ideas this lesson works by. **First aid is emergency care or treatment given to an ill or injured person before regular medical aid can be obtained.** **Injury management** is a co-ordinated, managed process to facilitate a **timely, safe and durable return** — in sport, managing a specific injury so the individual can **return to, or continue, their chosen sport without damaging or compromising their body**.
+
+That is why this lesson's order matters: help first, protect the injury, and return only when return is safe.
+
 ## Say it to your companion
 
 Tell your companion RICE letter by letter — then RICER — then the one rule about blood. Finish with the four injury causes and how each is prevented.

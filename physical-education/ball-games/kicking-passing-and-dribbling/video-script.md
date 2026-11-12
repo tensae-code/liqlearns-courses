@@ -19,3 +19,9 @@ Football dribbling — Grade 6. Dribbling (ኳስ መንዳት) moves the ball w
 Kicking and controlling — Grade 7. Kick with the inside of the foot, and with the front of the foot, from a correct stance.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Shooting at goal — Grade 8. Shoot at goal in stages, exactly as the book builds it.
+
+Chest control, first touch and heading — Grade 9. Control brings the ball under your command.
+
+Tackling, thigh control and goalkeeping — Grade 10. Three advanced football skills.

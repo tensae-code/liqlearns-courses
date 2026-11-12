@@ -14,8 +14,14 @@ countries: Ethiopia
 
 **Book 6:** *Grade 7 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. iii + 1–45 held (51 PDF pages). TRUNCATED — the file holds Chapters 1–3 complete (printed pp. 1–45); chapters beyond Chapter 3 are missing from the file. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-teacher-placements.md.
 
+**Book 7:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
+
+**Book 8:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 9 — Rescue from Danger and Change of Place — the Grade 8 self-knowledge games | Ethiopia, *Grade 8 Student Textbook*, §§2.1.1–2.1.2, printed pp. 9–12 |
+| Sub lesson 10 — Rolling in Admiration and mindful minutes (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §2.1, printed pp. 17–20 (teacher guide — evidence) |
 | Sub lesson 1 — taking/holding a place; copying a partner's movement | Ethiopia, *Grade 3 Student Textbook*, §3.1, printed pp. 21–22 |
 | Sub lesson 2 — self-management in games; Akukulu; the ball-return game (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.1 and Tasks 1–2, printed pp. 34–38 |
 | Sub lesson 3 — self-discipline; social experiences; Pipali Kol (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §§3.1.1–3.1.2, printed pp. 36–40 |
@@ -39,5 +45,7 @@ The Grade 6 student textbook is complete (see the book line above); nothing in t
 The Grade 5 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–41 of 80+. Missing from the file: the rest of §4.3, Chapter 5 Gymnastics (pp. 44–56), Chapter 6 Ball-game receiving skills (pp. 57–77) and Chapter 7 traditional movements and games (pp. 78–80+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
+
+The Grade 8 teacher guide is truncated — printed pp. 51–104+ are missing — so its Chapter 2 evidence above is used only at the depth the held pages carry, and is labelled (teacher guide — evidence).
 
 Searchable tags: games for self-leadership, self-management, Akukulu አኩኩሉ, Pipali Kol የፒፓሊ ኮል, self-discipline ተግሣፅ, timed rope jumping, Ethiopia HPE Grade 3, cloth-snatch game, hoop race የቀለበት, handkerchief-hand እጅ ከፍንጅ, rooster fight የደሮ ጥል, positive thinking አምንታዊ አስተሳሰብ, active breathing, Ethiopia HPE Grades 5–7

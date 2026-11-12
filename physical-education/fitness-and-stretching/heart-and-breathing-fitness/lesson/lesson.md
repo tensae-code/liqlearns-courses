@@ -44,6 +44,22 @@ First learn your pulse: feel it at the wrist with three fingers, or at the neck;
 
 Cardiovascular endurance is the ability of the heart, blood vessels, blood and breathing system to supply fuel and oxygen to the muscles, and of the muscles to use that fuel to keep exercising. Aerobic exercise — running, cycling, football, rope jumping — makes the blood pump and the large muscles work; it strengthens circulation, grows heart and lung capacity, lowers health risk and helps with weight. The dose: do each exercise at least a minute, rest 30 seconds between exercises, and grow the time and the effort gradually. Jumping jacks: feet together, arms by your sides; jump the feet apart as the arms rise overhead, jump back, and continue. In-and-out hopping squats: feet together; jump the feet out to the side and squat there; jump back together and squat; continue. Rope jumping: rope behind the heels, turn it gently forward, and as it passes your shins spring from your toes with the knees a little bent, staying on the balls of your feet.
 
+## Sub lesson 9 — The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics
+
+Four set practices build the heart and breathing at this grade. Zig-zag running: run between markers, turning at each one. Rope skipping practice: turn your own rope and jump in rhythm. Jumping up from a squat: squat down, jump up, land softly and repeat. Rhythmic aerobic exercise (የምት አየራዊ እንቅስቃሴ): move in a steady rhythm, in time, as one group.
+
+[Picture 13900 — a zig-zag run between markers, a rope skipper, and a squat jump in one row]
+
+[GIF 13916 — jumping up from a squat and landing softly]
+
+## Sub lesson 10 — Designing cardio training — Grade 9: FITT, jogging and the step-kick
+
+Now you design the training. Cardiovascular endurance is the ability of the heart, lungs and veins to supply oxygen to working muscle and remove carbon dioxide; trained regularly, the heart grows bigger and stronger and pumps more blood with each beat. Jogging is running at a slower speed, between walking and running. Build sessions with FITT — frequency, intensity, time, type — choosing rope skipping, walking, jogging, running and the step-kick, working in groups with intervals and a stopwatch.
+
+## Sub lesson 11 — The pure aerobic list — Grade 10
+
+The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, rowing, stair climbing, hiking, cross-country skiing and many dances. The best programmes are mixed — whole-body aerobic work together with strengthening work — at moderate intensity. Pick three from the list and do each in turn.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

@@ -40,6 +40,18 @@ The Grade 7 book lines up Ethiopia's Olympic heroes:
 - **Tirunesh Dibaba** — Athens 2004 5000 m bronze; Beijing **2008 double gold**; London 2012 10,000 m gold and 5000 m bronze.
 - **Almaz Ayana** — Rio **2016 10,000 m gold**.
 
+## Sub lesson 5 — Victories and works — the Grade 8 pass
+
+The Grade 8 book repeats the famous-athletes pattern a year deeper: first **the victories** — the pictured champions and what they won — then **their works**: the athletes' **charity, investment and development roles** away from the track. A champion's story is two stories: what they won, and what they built.
+
+## Sub lesson 6 — Legends who built — Tessema, Defar, Denboba (teacher guide — evidence)
+
+Three legends, three kinds of greatness. **Yidnekachew Tessema** (born in Jimma, 11 September 1921) played for St. George for 23 years, coached club and country, **founded the Ethiopian football federation, was a founding member of CAF and its president for 15 years**, fought apartheid, sat on FIFA's executive committee — and **played a great role in keeping tobacco and alcohol advertising out of stadiums**.
+
+**Meseret Defar** (born 19 November 1983, Addis Ababa), world champion and Olympic medallist, became a **UNFPA national honoree and ambassador, championing women, youth and the prevention of HIV/AIDS, especially among young people**.
+
+**Geremew Denboba** was **the first person in history to carry Ethiopia's flag at the Olympic Games** (Melbourne 1956) — after a nearly seven-day journey, he and his fellow Ethiopians were recorded as **the first black Olympic cyclists** — and later **head coach of Ethiopia's cycling team at Tokyo 1964**, with 30 cups and 32 gold and silver medals to his name.
+
 ## Say it to your companion
 
 Tell your companion two profiles in full — one from the Grade 5 book, one Olympic hero — with names, places and victories.

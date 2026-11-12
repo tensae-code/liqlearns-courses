@@ -11,3 +11,9 @@ Small ball games — Grade 5: putting the skills together. Small games (ትን�
 Team games — Grade 6: volleyball, football, basketball, handball. Now play the team games themselves: a volleyball game, a football game, a basketball game and a handball game.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Football formations and team strategy — Grade 10. Strategy is a team's method for each play, every player accomplishing a role within the team and its zones.
+
+Small-sided games — Grade 9: 2 against 1, 4 against 4, 5 against 5. Small games teach the big game.
+
+Handball team defence and attack — Grade 10. On the full court — three times bigger than the small court — the game grows to 6 against 6, and individual advanced skills must join the team's whole tactic.

@@ -16,3 +16,7 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 5–7 parts
 Do the new parts in order, slowly first: Forward rolls from a forehead stand and a handstand, Free gymnastics. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.
+
+
+## The Grade 8–10 parts
+Do the new parts in order, slowly first: The dive roll — Grade 8, The handstand family — Grade 8. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.

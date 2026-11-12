@@ -40,6 +40,16 @@ Agility is changing the body's direction quickly and accurately, and it needs th
 
 High-knee running (ጉልበትን ከፍ በማድረግ መሮጥ) lifts the knees high as you run. Pursuit runs (ተከታትሎ መሮጥ) chase a partner ahead of you. The sprint itself has three phases: drive, transition, and top speed — if your step length and your step frequency grow, your speed grows too. Run 20 metres at average and high speed twice, resting 10 to 30 seconds; then the 30-metre and 40-metre runs the same way, and finish with a 40-metre run against a friend in competition form, keeping the basic body movement of the sprint.
 
+## Sub lesson 8 — Speed and the rules of sprinting technique — Grade 8
+
+Speed is a person's ability to move fast; speed joined with strength gives power. Practise the 30-metre sprint run: warm up in small groups, practise reaction drills — reaction time is how fast you answer a signal — and sprint from standing starts and crouch starts, alone and chasing a partner. The sprinting rules the guide prints: hands move from the hips to the chin, never side to side; elbows stay bent at 90 degrees and drive back; shoulders square, knees pulled straight up, never angling in; strike the ground directly below the hips; and run on the balls of your feet — quietly, never flat-footed. The 40-metre run follows the same procedure as the 30-metre run.
+
+The student book's own speed work — 20–30 metre runs past a hoop and fast feet through ground ladder lines — is practised in Running Basics.
+
+## Sub lesson 9 — Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)
+
+Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat — over grass, paths and gentle hills. The Grade 10 guide names fartlek the aerobic exercise best for developing heart-and-breathing fitness. Change pace when you feel ready, not by the clock, and always finish by easing down to a walk.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

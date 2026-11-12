@@ -17,6 +17,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 6. **The bottle target — communication, awareness and applause** — the Grade 7 book's target game: two teams throw from their own ground to knock down a bottle 10 m away; most knock-downs in 3 minutes wins — and the losers must applaud and embrace the winners.
 7. **Fair play, compassion and getting along (teacher guide — evidence)** — the Grade 7 teacher guide's relationship lesson: fair play and its five basic principles, compassion, social awareness and relationship skills — practised in the Turn Back game and in role play.
 
+8. **Pair Hunting and the Rope Tug — the Grade 8 social games** — the Grade 8 student book's §§2.2.1–2.2.2: Pair Hunting (last uncaught pupil wins) and the 3-against-3 Rope Tug.
+9. **Ball in a Box and Special Basketball — the Grade 8 cooperation games** — the Grade 8 student book's §§2.5.1–2.5.2: Ball in a Box (pass down the line, last pupil runs, repeat until all have run) and Special Basketball in four equal teams; GIF 14017 shows the pass-and-run.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -51,6 +54,8 @@ A ball, a whistle or a clear voice for signals, and a group. Nothing else.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE/GIF [GIF 14017] — Ball in a Box: the ball passed hand to hand down the line, then the last pupil running with it → the student says when the run happens.
 
 ## If the learner is stuck
 - Nobody calls or answers → make the rule explicit: a play without a call does not count. Communication becomes the game's law.

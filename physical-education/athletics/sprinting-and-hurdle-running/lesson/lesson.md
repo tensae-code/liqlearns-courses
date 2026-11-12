@@ -32,6 +32,16 @@ Sprinting is finishing a set distance in the shortest time — 100 metres, 200 m
 
 Running is faster than walking, a natural gift, and it builds speed, agility and strength. Train the form with drills: high knees, lifting each knee high in turn, and butt kicks, flicking the heels up behind you; then put the drills into competitive sprint practice. Compare as you go: the technique of short-distance sprinting and of middle-distance running are not the same — the sprint is all speed, the longer run must hold something back.
 
+## Sub lesson 6 — Hurdles — Grade 8
+
+Hurdling (የመሰናክል ሩጫ) is sprinting over barriers. Learn it in stages: the running technique first — the lead leg reaches over the hurdle, the trail leg follows round the side — then technique practices over low hurdles, keeping your sprint rhythm between them. Hurdling builds speed, rhythm and courage, and it grows out of your sprinting: stay tall, stay fast, and look ahead, not down.
+
+[Picture 13908 — a hurdler clearing a hurdle — lead leg reaching, trail leg round the side]
+
+## Sub lesson 7 — Sprint start, drive and finish — Grade 9
+
+The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination. A sprint has four phases: the start, the starting run, distance running, and the finish. In the set position, stay perfectly still (the set stillness rule is not used in races longer than 400 m): front knee bent at about 120 degrees, weight on the ball of the front foot. Start drills: thigh lifts to horizontal, elbow lifts, an explosive drive from the set position, leaning forward until a step is forced and then sprinting 15–20 m. In acceleration, make each step faster until you reach top speed: legs drive to full extension, arms work vigorously for balance, rhythm and relaxation. At the finish, races are lost for poor technique: throw the chest forward — a sharp forward bend, or one shoulder thrown forward — to touch the line first.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

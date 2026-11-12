@@ -13,3 +13,5 @@ The upsweep changeover. Upsweep (ከታች ወደ ላይ) means from below upwar
 The downsweep changeover. Downsweep is the second technique: the incoming runner presses the baton down into the outgoing runner's upturned palm.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Relay exchanges in motion — Grade 9. A relay team has four runners and three exchanges, and the fourth runner crosses the finish.

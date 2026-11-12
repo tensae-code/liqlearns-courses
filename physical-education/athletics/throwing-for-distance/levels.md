@@ -16,3 +16,9 @@ Pass mark: the learner does and explains — the javelin throw — grip, run-up,
 
 ## Sub lesson 5 — Discus — Grade 7
 Pass mark: the learner does and explains — the discus throw in its stages — grip and basic stance, pre-throw arm swing, turn, throw — beginning with the standing throw.
+
+## Sub lesson 6 — Shot put — the glide — Grade 8
+Pass mark: the learner does and explains — shot put — the glide — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 7 — Discus — Grade 8
+Pass mark: the learner does and explains — discus — grade 8 (Grades 8–10 depth; see lesson/sources.md).

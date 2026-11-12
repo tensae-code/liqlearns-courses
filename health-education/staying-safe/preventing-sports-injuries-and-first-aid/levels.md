@@ -13,3 +13,6 @@ Pass mark: apply the four RICE steps in order to a pretend ankle injury and say 
 
 ## Sub lesson 4 — RICER and the first-aid kit (teacher guide — evidence)
 Pass mark: name the kit's five item kinds, RICER's fifth step, and the blood-safety rule.
+
+## Sub lesson 5 — First aid and injury management — the Grade 8 definitions (teacher guide — evidence)
+Pass mark: define first aid and injury management in the guide's words, and say what a safe sporting return must not do (damage or compromise the body).

@@ -61,3 +61,14 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. Teacher-guide parts are labelled (teacher guide — evidence) there and never count as pupil-taught.
+
+
+## Grade 8–10 extension (added in the Wave 2 C1 build)
+
+New sub lessons, in order:
+6. **Hurdles — Grade 8** — Grades 8–10 depth (see lesson/sources.md).
+7. **Sprint start, drive and finish — Grade 9** — Grades 8–10 depth (see lesson/sources.md).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD PICTURE [Picture 13908]: a hurdler clearing a hurdle — lead leg reaching, trail leg round the side — the student watches/names the movement, then copies it safely.

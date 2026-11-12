@@ -32,3 +32,15 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Sprint training — Grade 6: high knees and butt kicks", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Hurdles — Grade 8" teaches: Hurdling (የመሰናክል ሩጫ) is sprinting over barriers..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Hurdles — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Sprint start, drive and finish — Grade 9" teaches: The sprint events are 100 m, 200 m and 400 m — running as fast as possible, needing power and coordination..
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Sprint start, drive and finish — Grade 9", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

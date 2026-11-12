@@ -84,6 +84,12 @@ A responsible decision in these games is not only fast — Grade 4's family taug
 
 **"What a decision!" (teacher guide — evidence).** In the guide's shooting game, learners shoot at a goal or basket from a distance **they themselves select** — some stay close, others go far. The hope is a distance both **challenging and productive**; afterwards, each learner **evaluates the effectiveness of their own decision**. Choosing your challenge *is* the decision skill.
 
+## Sub lesson 10 — Two Houses and the Kangaroo Race — the Grade 8 decision games
+
+**The Two-Houses Game (የሁለት ቤት ጨዋታ)** is a decision-making game on a **20–30 metre line with a 1 metre circle at each end** — the two houses. Its full play and rules are printed: you must decide, mid-run, which house to make for.
+
+**The Kangaroo Race (የካንጋሮ ሩጫ)**: **the two legs are tied together and the race is run hopping.** The book follows it with decision-making reflection tasks — the hop forces the decision into the body: commit, balance, go.
+
 ## Say it to your companion
 
 Tell your companion how Cat and Mouse works, and the one decision the mouse must make in a heartbeat. Then tell them the two safety rules of Who Do You Want?

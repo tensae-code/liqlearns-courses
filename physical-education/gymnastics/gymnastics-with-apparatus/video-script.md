@@ -15,3 +15,5 @@ Uneven bars — Grade 6. On the uneven bars: hang from the taller bar; move betw
 Bar work — Grade 7: pull-up, swing and traverse. Three bar skills: the pull-up method, pulling up on the bar; swinging forward and backward while hanging from a single bar, in control; and travelling hand over hand along a high bar, from one end to the other, without letting go.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Parallel bars — the support swing — Grade 8. Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.

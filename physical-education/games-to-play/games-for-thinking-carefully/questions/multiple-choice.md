@@ -33,3 +33,19 @@ a) Weighing your decisions and responsibilities before acting  b) Moving as fast
 **8. (Sub lesson 4)** The deep-thinking circle in practice is…
 a) Plan, notice, correct  b) Run, shout, stop  c) Guess, hope, forget
 **Answer: a) Plan, notice, correct**
+
+**9. (Sub lesson 5)** A burnt stone in Circle Target scores…
+a) Nothing — for thrower or team  b) Double  c) Five points
+**Answer: a) Nothing — for thrower or team**
+
+**10. (Sub lesson 5)** Circle Target is played with…
+a) Flat stones thrown at a circle  b) A football  c) Ropes
+**Answer: a) Flat stones thrown at a circle**
+
+**11. (Sub lesson 6)** In SWOT, Strengths and Weaknesses are…
+a) Internal  b) External  c) Imaginary
+**Answer: a) Internal**
+
+**12. (Sub lesson 6)** The first problem-solving step is…
+a) Define the problem  b) Celebrate  c) Communicate the solution
+**Answer: a) Define the problem**

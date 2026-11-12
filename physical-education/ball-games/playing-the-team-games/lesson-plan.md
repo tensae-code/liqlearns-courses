@@ -48,3 +48,15 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. Teacher-guide parts are labelled (teacher guide — evidence) there and never count as pupil-taught.
+
+
+## Grade 8–10 extension (added in the Wave 2 C1 build)
+
+New sub lessons, in order:
+3. **Football formations and team strategy — Grade 10** — Grades 8–10 depth (see lesson/sources.md).
+4. **Small-sided games — Grade 9: 2 against 1, 4 against 4, 5 against 5** — Grades 8–10 depth (see lesson/sources.md).
+5. **Handball team defence and attack — Grade 10** — Grades 8–10 depth (see lesson/sources.md).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD PICTURE [Picture 13914]: a 4-4-2 formation on a pitch — four defenders, four midfielders, two forwards — the student watches/names the movement, then copies it safely.

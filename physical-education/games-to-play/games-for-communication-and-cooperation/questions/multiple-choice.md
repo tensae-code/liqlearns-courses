@@ -53,3 +53,19 @@ a) Have everyone participate  b) Win by any means  c) Question every official
 **13. (Sub lesson 7)** Compassion in games is shown by…
 a) Cheering for your team, not against the other team  b) Mocking the losers  c) Hiding the ball
 **Answer: a) Cheering for your team, not against the other team**
+
+**14. (Sub lesson 8)** In Pair Hunting, the winner is…
+a) The pupil left uncaught and untouched  b) The first caught  c) The tallest
+**Answer: a) The pupil left uncaught and untouched**
+
+**15. (Sub lesson 8)** The Rope Tug picture shows…
+a) 3 against 3  b) 1 against 10  c) No rope
+**Answer: a) 3 against 3**
+
+**16. (Sub lesson 9)** In Ball in a Box, after the ball is passed down the team…
+a) The last pupil runs with it  b) The game ends  c) The ball is hidden
+**Answer: a) The last pupil runs with it**
+
+**17. (Sub lesson 9)** Special Basketball is played by…
+a) Four equal teams  b) Two players only  c) One team
+**Answer: a) Four equal teams**

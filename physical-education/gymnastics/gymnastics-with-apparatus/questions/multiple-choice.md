@@ -49,3 +49,15 @@ a) jumping up onto a box and down, hanging and swinging on a horizontal bar by t
 **12. (Sub lesson 4)** A learner doing "Bar work — Grade 7: pull-up, swing and traverse" correctly is —
 a) jumping up onto a box and down, hanging and swinging on a horizontal bar by the hands, and rolling forward over a bar while resting on the stomach — with apparatus safety and spotting  b) apparatus work always with a helper (በረዳት): hanging backward roll-over on the single bar, and swinging through between the hands backward — higher-skill moves needing great help and care  c) the pull-up method on the bar, swinging forward and backward hanging from a single bar, and travelling hand over hand along a high bar from one end to the other
 **Answer: c) the pull-up method on the bar, swinging forward and backward hanging from a single bar, and travelling hand over hand along a high bar from one end to the other**
+
+**13. (Sub lesson 5)** What is the heart of "Parallel bars — the support swing — Grade 8"?
+a) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.**
+
+**14. (Sub lesson 5)** Which of these belongs to "Parallel bars — the support swing — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.
+**Answer: c) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.**
+
+**15. (Sub lesson 5)** A learner doing "Parallel bars — the support swing — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.  c) sitting still and watching others do the movement
+**Answer: b) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.**

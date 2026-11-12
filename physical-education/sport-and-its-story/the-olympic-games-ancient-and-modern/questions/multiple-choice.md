@@ -33,3 +33,19 @@ a) Everyone may practise sport without discrimination  b) Only champions may pla
 **8. (Sub lesson 4)** The Games are held every…
 a) Four years  b) Year  c) Ten years
 **Answer: a) Four years**
+
+**9. (Sub lesson 5)** Ethiopia first took part in the Olympics at…
+a) Melbourne 1956  b) Rome 1960  c) Athens 1896
+**Answer: a) Melbourne 1956**
+
+**10. (Sub lesson 5)** Abebe Bikila won Ethiopia's first Olympic gold…
+a) Barefoot, in the Rome 1960 marathon  b) In cycling  c) In boxing
+**Answer: a) Barefoot, in the Rome 1960 marathon**
+
+**11. (Sub lesson 6)** Ethiopia helped organise the 1976 Montreal boycott against…
+a) Apartheid in South Africa  b) Bad weather  c) Ticket prices
+**Answer: a) Apartheid in South Africa**
+
+**12. (Sub lesson 6)** Which of these is one of the women champions the guide names?
+a) Derartu Tulu  b) A goalkeeper  c) A referee
+**Answer: a) Derartu Tulu**

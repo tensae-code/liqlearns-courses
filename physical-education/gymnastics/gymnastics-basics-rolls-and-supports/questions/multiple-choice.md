@@ -58,3 +58,27 @@ a) forward rolls that begin from a forehead stand and from a handstand, always w
 **14. (Sub lesson 6)** A learner doing "Free gymnastics — Grade 7: headstand, head spring and cartwheel" correctly is —
 a) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting  b) watching only, never moving  c) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting
 **Answer: c) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting**
+
+**15. (Sub lesson 7)** What is the heart of "The dive roll — Grade 8"?
+a) Free gymnastics is done with no equipment.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Free gymnastics is done with no equipment.**
+
+**16. (Sub lesson 7)** Which of these belongs to "The dive roll — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Free gymnastics is done with no equipment.
+**Answer: c) Free gymnastics is done with no equipment.**
+
+**17. (Sub lesson 7)** A learner doing "The dive roll — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Free gymnastics is done with no equipment.  c) sitting still and watching others do the movement
+**Answer: b) Free gymnastics is done with no equipment.**
+
+**18. (Sub lesson 8)** What is the heart of "The handstand family — Grade 8"?
+a) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.**
+
+**19. (Sub lesson 8)** Which of these belongs to "The handstand family — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.
+**Answer: c) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.**
+
+**20. (Sub lesson 8)** A learner doing "The handstand family — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.  c) sitting still and watching others do the movement
+**Answer: b) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.**

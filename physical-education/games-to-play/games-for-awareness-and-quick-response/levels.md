@@ -22,3 +22,6 @@ Pass mark: run only to the called stations out of four, stop on red and run on g
 
 ## Sub lesson 7 — Attention control and mindfulness (teacher guide — evidence)
 Pass mark: hold focus on a called task while distractions happen around you, and afterwards name what you have and what you still need.
+
+## Sub lesson 8 — Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence)
+Pass mark: run a Spot the Difference round (observe, turn, change, turn back, name the changes) and give two bench-support ideas for the Learning Logo scenario.

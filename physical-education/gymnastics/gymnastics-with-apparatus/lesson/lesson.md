@@ -24,6 +24,12 @@ On the uneven bars: hang from the taller bar; move between the tall bar and the 
 
 Three bar skills: the pull-up method, pulling up on the bar; swinging forward and backward while hanging from a single bar, in control; and travelling hand over hand along a high bar, from one end to the other, without letting go. Land every dismount on the mat, knees soft.
 
+## Sub lesson 5 — Parallel bars — the support swing — Grade 8
+
+Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work. Support your body on your arms, straight and strong, and swing forward and backward between the bars. At the peak of the swing, point your toes toward the ground. Practise in the section's ordered steps, with a partner standing by the bars, and come down safely before you tire.
+
+[Picture 13907 — a support swing on parallel bars, toes pointed at the peak]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

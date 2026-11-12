@@ -61,3 +61,11 @@ a) Task-relevant information, resisting distractors  b) Everything at once  c) O
 **15. (Sub lesson 7)** Mindfulness is focusing awareness on…
 a) The present moment  b) Yesterday's game  c) Next year's prize
 **Answer: a) The present moment**
+
+**16. (Sub lesson 8)** In Spot the Difference, while one line is turned away, the other line…
+a) Visibly changes things about themselves  b) Leaves the field  c) Sits down
+**Answer: a) Visibly changes things about themselves**
+
+**17. (Sub lesson 8)** In the Learning Logo scenario, you are on the bench because…
+a) You feel ill, and your team trails 3–0  b) You won already  c) The game ended
+**Answer: a) You feel ill, and your team trails 3–0**

@@ -19,3 +19,9 @@ Say true or false.
 
 **6. (Sub lesson 3)** In "The downsweep changeover", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**7. (Sub lesson 4)** In this lesson, "Relay exchanges in motion — Grade 9" teaches: A relay team has four runners and three exchanges, and the fourth runner crosses the finish..
+**Answer: True**
+
+**8. (Sub lesson 4)** In "Relay exchanges in motion — Grade 9", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

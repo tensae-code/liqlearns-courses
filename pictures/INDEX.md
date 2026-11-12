@@ -2898,3 +2898,36 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 27130 | pictures/27130.gif | a layer being dragged in, appearing on the map, then removed by right-click | Social Studies — Add, remove, display — finishing a map in ArcMap |
 | 27131 | pictures/27131.gif | climbing the altitude staircase zone by zone | Social Studies — Weather in Ethiopia — Diurnal and Seasonal Variation and the Five Agro-Climatic Zones |
 | 27132 | pictures/27132.webp | sun rays striking straight at the equator and slanting at the pole | Social Studies — Weather and Climate — The Controllers |
+| 13900 | pictures/13900.webp | zig-zag run, rope skipping and squat jump in one row | Physical Education — Heart and Breathing Fitness |
+| 13901 | pictures/13901.webp | five-station circuit laid out | Physical Education — Muscle Strength and Endurance |
+| 13902 | pictures/13902.webp | partial curl-up at its top position | Physical Education — Muscle Strength and Endurance |
+| 13903 | pictures/13903.webp | static stretching held still beside dynamic stretching on the move | Physical Education — Stretching and Flexibility |
+| 13904 | pictures/13904.webp | the four rules of training in four panels | Physical Education — How Training Works |
+| 13905 | pictures/13905.webp | a circuit of stations in a hall, in order | Physical Education — How Training Works |
+| 13906 | pictures/13906.webp | the dive roll | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 13907 | pictures/13907.webp | support swing on parallel bars, toes pointed | Physical Education — Gymnastics with Apparatus |
+| 13908 | pictures/13908.webp | hurdler clearing a hurdle, lead leg over | Physical Education — Sprinting and Hurdle Running |
+| 13909 | pictures/13909.webp | the four long-jump phases in a row | Physical Education — Jumping for Distance and Height |
+| 13910 | pictures/13910.webp | hop, step, jump, landing in a row | Physical Education — Jumping for Distance and Height |
+| 13911 | pictures/13911.webp | overhead serve | Physical Education — Volleyball Passing and Setting |
+| 13912 | pictures/13912.webp | the spike in stages | Physical Education — Volleyball Passing and Setting |
+| 13913 | pictures/13913.webp | chest control | Physical Education — Kicking, Passing and Dribbling |
+| 13914 | pictures/13914.webp | 4-4-2 formation diagram | Physical Education — Playing the Team Games |
+| 13915 | pictures/13915.webp | walking tall | Physical Education — Walking in Patterns |
+| 13916 | pictures/13916.gif | jumping up from a squat and landing softly | Physical Education — Heart and Breathing Fitness |
+| 13917 | pictures/13917.gif | push-up | Physical Education — Muscle Strength and Endurance |
+| 13918 | pictures/13918.gif | heel-to-buttock stretch, heel folding up behind, hand holding the foot | Physical Education — Stretching and Flexibility |
+| 13919 | pictures/13919.gif | upsweep baton exchange inside the ground-marked passing zone | Physical Education — Baton Relay Racing |
+| 13920 | pictures/13920.gif | the full long jump | Physical Education — Jumping for Distance and Height |
+| 14006 | pictures/14006.webp | doping-control sample sealed | Health Education — Doping — What It Is and What It Costs |
+| 14007 | pictures/14007.webp | Bub board 25 stations centre diamond | Physical Education — Traditional Games of Ethiopia |
+| 14008 | pictures/14008.webp | Korbo ring and spear | Physical Education — Traditional Games of Ethiopia |
+| 14009 | pictures/14009.webp | Dragon Snake line protecting its tail | Physical Education — World Games — Dragon Snake and Stocking |
+| 14011 | pictures/14011.webp | Stocking rising rope game | Physical Education — World Games — Dragon Snake and Stocking |
+| 14012 | pictures/14012.webp | Bikila barefoot Rome 1960 | Physical Education — The Olympic Games, Ancient and Modern |
+| 14013 | pictures/14013.webp | wash and dry feet between toes | Health Education — Hygiene for Sport — Wash After Exercise |
+| 14014 | pictures/14014.webp | media three kinds print broadcast internet | Physical Education — Sport and Society — Money, Media, Gender, Technology and Jobs |
+| 14015 | pictures/14015.webp | four ball games four stories | Physical Education — The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball |
+| 14016 | pictures/14016.webp | walk confidently lit main road | Health Education — Staying Safe on the Street — Self-Defence Principles and Resolving Conflict |
+| 14017 | pictures/14017.gif | Ball in a Box pass down the line then run | Physical Education — Games for Communication and Cooperation |
+| 14018 | pictures/14018.gif | Dragon Snake line turns to shield its tail | Physical Education — World Games — Dragon Snake and Stocking |

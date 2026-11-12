@@ -25,3 +25,9 @@ Say if it is true or false.
 
 **8. (Sub lesson 8)** Self-control means never having feelings.
 **Answer: False**
+
+**9. (Sub lesson 9)** Change of Place builds self-knowledge and self-direction.
+**Answer: True**
+
+**10. (Sub lesson 10)** Resilience means recovering from setbacks and keeping going.
+**Answer: True**

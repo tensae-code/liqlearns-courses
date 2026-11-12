@@ -20,6 +20,12 @@ Upsweep (ከታች ወደ ላይ) means from below upward: the incoming runner s
 
 Downsweep is the second technique: the incoming runner presses the baton down into the outgoing runner's upturned palm. Learn both techniques, choose the one your team does best, and use it the same way every time. Finish with full competition changeovers at race speed inside the zone.
 
+## Sub lesson 4 — Relay exchanges in motion — Grade 9
+
+A relay team has four runners and three exchanges, and the fourth runner crosses the finish. The baton — 50 grams, 38 mm across and 25–30 cm long — must be passed inside the 20 m passing zone; a change outside the zone, a dropped baton, or deliberate obstruction means disqualification. In the 4×100 m, stay in your own lane the whole way; in the 4×400 m, stay in lanes only until after the first bend of the second leg, then break to the inside. Practise the two exchanges first standing still with a partner, then in motion: the upsweep — the baton swept upward into the waiting hand — and the downsweep — the baton pressed down into it.
+
+[GIF 13919 — an upsweep baton exchange inside the passing zone]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

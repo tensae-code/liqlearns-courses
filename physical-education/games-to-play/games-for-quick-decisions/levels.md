@@ -28,3 +28,6 @@ Pass mark: survive three dodgeball rounds by jumping the low ball, and keep a wa
 
 ## Sub lesson 9 — Ilama — and choosing your own challenge
 Pass mark: choose a shooting distance, shoot, and evaluate your decision honestly: too close, too far, or well judged?
+
+## Sub lesson 10 — Two Houses and the Kangaroo Race — the Grade 8 decision games
+Pass mark: mark the Two-Houses field (20–30 m line, 1 m circles) and run the Kangaroo Race hopping with legs tied, safely.

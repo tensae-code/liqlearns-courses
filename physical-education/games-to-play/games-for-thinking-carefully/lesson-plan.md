@@ -13,6 +13,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Special football — winning by thinking, talking and respect** — the Grade 7 book's special football: mixed girls-and-boys football with modified rules, won by reading the opponents and changing tactics.
 4. **Deep thinking in games — plan, notice, correct (teacher guide — evidence)** — the Grade 5 and Grade 6 teacher guides on deep thinking: the higher thought process by which you weigh your decisions and responsibilities inside the activity.
 
+5. **Circle Target — the Grade 8 deep-thinking game** — the Grade 8 student book's §2.4.1: Circle Target — flat stones thrown at a circle, a burnt stone scoring nothing, played for a set time or rounds.
+6. **Deciding well — SWOT and the six problem-solving steps (teacher guide — evidence)** — the Grade 8 teacher guide's §2.3: responsible decision making, SWOT analysis, the six problem-solving steps and the Scavenger Hunt.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

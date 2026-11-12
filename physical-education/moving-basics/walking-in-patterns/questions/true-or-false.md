@@ -26,3 +26,15 @@ Say true or false.
 **8. (Sub lesson 4)** In "Walking the line in balance (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Walking tall — Grade 8 (teacher guide — evidence)" teaches: Walk tall, the way the Grade 8 guide teaches it..
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Walking tall — Grade 8 (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)" teaches: These walking drills are dynamic stretching — you stretch by moving..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

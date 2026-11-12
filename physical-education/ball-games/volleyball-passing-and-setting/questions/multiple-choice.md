@@ -61,3 +61,39 @@ a) receiving and passing with the forearm (ክንድ) — a flat platform that r
 **15. (Sub lesson 5)** A learner doing "Side underarm serve and receiving stance — Grade 7" correctly is —
 a) receiving and passing with the forearm (ክንድ) — a flat platform that rebounds the ball up to a partner — then games using the forearm  b) receiving and passing with the fingers — holding the ball in two hands, throwing it above the head and tapping it up repeatedly with the fingertips  c) the side underarm serve (ኳስን በጎን ከታች ወደ ላይ መለጋት) to a partner and over the net, and forearm reception (በክንድ ልግን መቀበል) from a stance with the feet shoulder-width and the knees bent
 **Answer: c) the side underarm serve (ኳስን በጎን ከታች ወደ ላይ መለጋት) to a partner and over the net, and forearm reception (በክንድ ልግን መቀበል) from a stance with the feet shoulder-width and the knees bent**
+
+**16. (Sub lesson 6)** What is the heart of "The overhead serve — Grade 8"?
+a) The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.**
+
+**17. (Sub lesson 6)** Which of these belongs to "The overhead serve — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.
+**Answer: c) The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.**
+
+**18. (Sub lesson 6)** A learner doing "The overhead serve — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.  c) sitting still and watching others do the movement
+**Answer: b) The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.**
+
+**19. (Sub lesson 7)** What is the heart of "The spike — Grade 9"?
+a) Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-o  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-o**
+
+**20. (Sub lesson 7)** Which of these belongs to "The spike — Grade 9"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-o
+**Answer: c) Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-o**
+
+**21. (Sub lesson 7)** A learner doing "The spike — Grade 9" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-o  c) sitting still and watching others do the movement
+**Answer: b) Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-o**
+
+**22. (Sub lesson 8)** What is the heart of "Blocking — Grade 10"?
+a) Blocking is the defence at the net.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Blocking is the defence at the net.**
+
+**23. (Sub lesson 8)** Which of these belongs to "Blocking — Grade 10"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Blocking is the defence at the net.
+**Answer: c) Blocking is the defence at the net.**
+
+**24. (Sub lesson 8)** A learner doing "Blocking — Grade 10" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Blocking is the defence at the net.  c) sitting still and watching others do the movement
+**Answer: b) Blocking is the defence at the net.**

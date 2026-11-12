@@ -18,8 +18,11 @@ countries: Ethiopia
 
 **Book 8:** *Grade 7 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. iii + 1–45 held (51 PDF pages). TRUNCATED — the file holds Chapters 1–3 complete (printed pp. 1–45); chapters beyond Chapter 3 are missing from the file. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-teacher-placements.md.
 
+**Book 9:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 8 — Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §2.2, printed pp. 20–26 (teacher guide — evidence) |
 | Sub lesson 1 — covered-eyes ball finding; the name call; Thief and Police; circle dribbling | Ethiopia, *Grade 3 Student Textbook*, §3.4, printed pp. 27–29 |
 | Sub lesson 2 — the aim stated; the inside/outside command game; foot dribbling in a circle, equal teams | Ethiopia, *Grade 4 Student Textbook*, §3.4, printed pp. 25–26 |
 | Sub lesson 3 — attention games on changing calls; the number game and its counting pattern (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, §3.3, printed pp. 34–37 |
@@ -48,5 +51,7 @@ The Grade 5 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–41
 The Grade 6 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 96. Missing from the file: Chapter 4 Athletics (pp. 44–55), Chapter 5 Gymnastics (pp. 56–68), Chapter 6 Ball skills (pp. 65–82), Chapter 7 Addis Ababa traditional movements and games (pp. 83–93), the references and the glossary. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
+
+The Grade 8 teacher guide is truncated — printed pp. 51–104+ are missing — so its §2.2 evidence is used only at the depth the held pages carry, labelled (teacher guide — evidence).
 
 Searchable tags: games for awareness, ንቃተ ህሊና, Thief and Police ሌባና ፖሊስ, blindfold ball finding, attention games ትኩረት, number game, Ethiopia HPE, Ball in the Air ኳስ በአየር, Five Rounds አምስት ዙር, number command የቁጥር ትዕዛዝ, traffic-light game, called stations, mindfulness, attention control, Ethiopia HPE Grades 5–7

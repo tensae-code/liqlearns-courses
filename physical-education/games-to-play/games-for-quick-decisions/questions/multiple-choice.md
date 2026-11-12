@@ -69,3 +69,11 @@ a) The learner themselves  b) The teacher always  c) The tallest player
 **17. (Sub lesson 9)** If a pupil is hurt in Ilama, the first thing is…
 a) Help them — first aid before the game  b) Finish the round  c) Move the game elsewhere
 **Answer: a) Help them — first aid before the game**
+
+**18. (Sub lesson 10)** Each end of the Two-Houses line has…
+a) A 1 m circle  b) A goal post  c) A net
+**Answer: a) A 1 m circle**
+
+**19. (Sub lesson 10)** In the Kangaroo Race you run…
+a) Hopping, with your legs tied together  b) On one hand  c) Backwards only
+**Answer: a) Hopping, with your legs tied together**

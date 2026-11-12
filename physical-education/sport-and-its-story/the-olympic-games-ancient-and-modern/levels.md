@@ -13,3 +13,9 @@ Pass mark: name the three bodies and say in one line what each one is.
 
 ## Sub lesson 4 — The Olympic principles — peace, friendship, unity
 Pass mark: name the six principles and explain non-discrimination in your own words.
+
+## Sub lesson 5 — Ethiopia at the Olympics — Melbourne 1956 to Rome 1960 and the missed Games
+Pass mark: order Ethiopia's Olympic stops: Melbourne 1956 (first part, no medals), Rome 1960 (Bikila's barefoot gold), and name the three missed Games with their reason.
+
+## Sub lesson 6 — Solidarity and champions — Ethiopia's Olympic example (teacher guide — evidence)
+Pass mark: say what the 1976 boycott stood against and for, and name three men and three women from the guide's champions lists.

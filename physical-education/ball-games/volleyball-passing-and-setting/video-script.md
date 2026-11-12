@@ -17,3 +17,9 @@ Underarm serve and forearm receive — Grade 6. The underarm serve (ልግ) is t
 Side underarm serve and receiving stance — Grade 7. The side underarm serve (ኳስን በጎን ከታች ወደ ላይ መለጋት) turns the body side-on: take the grip and stance, serve to a partner without holding the ball in the air first, then serve over the net.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+The overhead serve — Grade 8. The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player.
+
+The spike — Grade 9. Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-off, the body movement in the air, and the hitting action.
+
+Blocking — Grade 10. Blocking is the defence at the net.

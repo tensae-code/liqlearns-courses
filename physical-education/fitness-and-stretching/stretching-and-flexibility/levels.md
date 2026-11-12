@@ -22,3 +22,12 @@ Pass mark: the learner does and explains — bend-and-reach arm raises, the seat
 
 ## Sub lesson 7 — Flexibility — Grade 7: sit-and-reach and the six-stretch circuit
 Pass mark: the learner does and explains — the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle.
+
+## Sub lesson 8 — Flexibility — Grade 8: static and dynamic
+Pass mark: the learner does and explains — flexibility — grade 8: static and dynamic (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 9 — Dynamic and static stretching — Grade 9
+Pass mark: the learner does and explains — dynamic and static stretching — grade 9 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 10 — Flexibility — Grade 10: warm first, never force
+Pass mark: the learner does and explains — flexibility — grade 10: warm first, never force (Grades 8–10 depth; see lesson/sources.md).

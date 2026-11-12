@@ -13,3 +13,12 @@ Pass mark: the learner does and explains — the high jump's parts — run-up, t
 
 ## Sub lesson 4 — High jump — Grade 7: the scissors jump
 Pass mark: the learner does and explains — the scissors jump (የመቀስ ዝላይ) — first standing, then from three run-up steps at speed, clearing the bar with the legs scissoring.
+
+## Sub lesson 5 — High jump — the straddle — Grade 8
+Pass mark: the learner does and explains — high jump — the straddle — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 6 — Long jump — Grade 10
+Pass mark: the learner does and explains — long jump — grade 10 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 7 — Triple jump — Grade 10
+Pass mark: the learner does and explains — triple jump — grade 10 (Grades 8–10 depth; see lesson/sources.md).

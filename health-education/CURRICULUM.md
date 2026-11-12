@@ -23,19 +23,28 @@ safety, teacher-guide evidence only).
 pupil-taught health lessons — Staying Safe While Exercising
 (G5 §1.2), Preventing Sports Injuries and First Aid, Hygiene
 for Sport, and Doping (G5 §3.6, in Fair Play and the Body).
-Two [Health] placements stand unbuilt because they fit neither
-of this course's titles, recorded here so they are not lost:
-the Grade 1 guide's "Using My Free Time Well" and the Grade 7
-book's "Why Exercise Keeps You Healthy" — both belong with
-life-skills material when that course is stocked. Build log:
-`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/band-hpe-b2-games.md`.
+
+**Band C (Grades 8–10) — BUILT 2026-11-12 — COURSE COMPLETE:**
+Staying Safe on the Street created; the Doping lesson now runs
+G5 through G10 (incl. the G10 WADA Code); Hygiene and First
+Aid extended. **Standing unbuilt record:** [Health] placements
+that fit neither of this course's two titles were NOT forced
+into lessons — the Grade 1 guide's "Using My Free Time Well",
+the Grade 7 book's "Why Exercise Keeps You Healthy", and the
+Grade 8–10 family on body systems, hypokinetic diseases and
+fitness concepts — all logged with reasons in the band build
+logs; they await a title decision and belong with life-skills
+or body-knowledge material when those courses are stocked.
+Build logs: `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/band-hpe-b2-games.md`
+and `band-hpe-c2-games.md`.
 
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
 2. **Paying Attention and Crossing the Road Safely** (`staying-safe/paying-attention-and-crossing-the-road-safely`) — attention — the mind's focus held on one thing — taught through the books' first traffic-safety teaching: red means stop, green means go, keep left…
 3. **Preventing Sports Injuries and First Aid** (`staying-safe/preventing-sports-injuries-and-first-aid`) — how sports injuries happen and how to prevent them — no warm-up, tiredness, wrong kit and disobeyed instructions are the books' named causes — and …
-4. **Staying Safe While Exercising** (`staying-safe/staying-safe-while-exercising`) — the books' precautions for fitness exercise: warm up properly, wear correct sport kit, go from easy to hard, rest in the middle, stop on tiredness …
+4. **Staying Safe on the Street — Self-Defence Principles and Resolving Conflict** (`staying-safe/staying-safe-on-the-street`) — staying safe before any fight: what self-defence is for, its principles (alertness, decisiveness, speed, surprise), the street-safety rules, the et…
+5. **Staying Safe While Exercising** (`staying-safe/staying-safe-while-exercising`) — the books' precautions for fitness exercise: warm up properly, wear correct sport kit, go from easy to hard, rest in the middle, stop on tiredness …
 
 ## Unit 2 — Fair Play and the Body
 

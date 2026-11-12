@@ -16,3 +16,7 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 5–7 parts
 Do the new parts in order, slowly first: Passing with the inside and outside of the foot, Football dribbling, Kicking and controlling. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.
+
+
+## The Grade 8–10 parts
+Do the new parts in order, slowly first: Shooting at goal — Grade 8, Chest control, first touch and heading — Grade 9, Tackling, thigh control and goalkeeping — Grade 10. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.

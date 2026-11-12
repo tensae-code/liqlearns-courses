@@ -15,3 +15,7 @@ Somsoma shuttle running. Run back and forth in the group shuttle run the book ca
 Running in place for your heart (teacher guide — evidence). Run in place with your knees lifting, in a steady rhythm.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Running on the spot — Grade 8 (teacher guide — evidence). Run without travelling.
+
+Speed runs and ladder feet — Grade 8. Speed is covering a movement in the shortest time.

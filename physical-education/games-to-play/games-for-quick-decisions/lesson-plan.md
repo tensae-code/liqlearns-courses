@@ -19,6 +19,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 8. **Decision games — below-the-knee dodgeball and the waist chain** — the Grade 6 book's decision games: thrower lines hitting the middle group below the knee while they jump to dodge, and chains of five holding waists, scoring on the rival chain's last player.
 9. **Ilama — and choosing your own challenge** — the Grade 7 book's Ilama (ኢላማ) target game and its reflection tasks on winning, losing and the rules — with the Grade 7 guide's "What a decision!" shooting game, where each learner selects their own shooting distance.
 
+10. **Two Houses and the Kangaroo Race — the Grade 8 decision games** — the Grade 8 student book's §§2.3.1–2.3.2: Two Houses on its 20–30 m line with 1 m house-circles, and the Kangaroo Race run hopping with tied legs.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

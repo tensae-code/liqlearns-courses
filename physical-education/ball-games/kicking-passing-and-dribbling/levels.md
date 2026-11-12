@@ -22,3 +22,12 @@ Pass mark: the learner does and explains — dribbling with the inside and the o
 
 ## Sub lesson 7 — Kicking and controlling — Grade 7
 Pass mark: the learner does and explains — kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres.
+
+## Sub lesson 8 — Shooting at goal — Grade 8
+Pass mark: the learner does and explains — shooting at goal — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 9 — Chest control, first touch and heading — Grade 9
+Pass mark: the learner does and explains — chest control, first touch and heading — grade 9 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 10 — Tackling, thigh control and goalkeeping — Grade 10
+Pass mark: the learner does and explains — tackling, thigh control and goalkeeping — grade 10 (Grades 8–10 depth; see lesson/sources.md).

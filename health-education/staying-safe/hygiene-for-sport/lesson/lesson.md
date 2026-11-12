@@ -26,6 +26,14 @@ The teacher guide defines **personal hygiene** as **the care one takes for one's
 
 And its benefits come in three kinds: **health** benefits (maintain health and ability through cleanliness and a healthy diet), **social** benefits (washing regularly makes you good company), and **psychological** benefits (looking healthy and clean improves self-image and self-satisfaction).
 
+## Sub lesson 3 — Clean after exercise — shower, towel, feet (teacher guide — evidence)
+
+The Grade 9 teacher guide defines hygiene plainly: **the series of practices performed to preserve health** — the conditions and practices that **help maintain health and prevent the spread of diseases**. It groups hygiene into **home and everyday hygiene, personal hygiene, medical hygiene, sleep hygiene and food hygiene**.
+
+For sport, its rule is direct: **take a shower as soon as possible after an exercise session** — bacteria breed in sweaty clothes if they are not washed. **Shower thoroughly, dry with a clean towel, put on dry clean clothes.** And protect your feet: **wear water shoes during and after the shower, and wash your feet and dry them thoroughly — especially between the toes.**
+
+[Picture 14013 — After sport — wash and dry your feet]
+
 ## Say it to your companion
 
 Tell your companion the sweat–bacteria chain, the three basic things, and why dirty kit is not only your own business.

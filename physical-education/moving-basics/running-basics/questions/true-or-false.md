@@ -26,3 +26,15 @@ Say true or false.
 **8. (Sub lesson 4)** In "Running in place for your heart (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Running on the spot — Grade 8 (teacher guide — evidence)" teaches: Warm up and stretch for 5–10 minutes..
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Running on the spot — Grade 8 (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Speed runs and ladder feet — Grade 8" teaches: Speed is covering a movement in the shortest time..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Speed runs and ladder feet — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

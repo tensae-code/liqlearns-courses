@@ -16,3 +16,9 @@ Pass mark: the learner does and explains — the sprint start — on your marks 
 
 ## Sub lesson 5 — Sprint training — Grade 6: high knees and butt kicks
 Pass mark: the learner does and explains — running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique.
+
+## Sub lesson 6 — Hurdles — Grade 8
+Pass mark: the learner does and explains — hurdles — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 7 — Sprint start, drive and finish — Grade 9
+Pass mark: the learner does and explains — sprint start, drive and finish — grade 9 (Grades 8–10 depth; see lesson/sources.md).

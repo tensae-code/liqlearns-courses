@@ -32,6 +32,26 @@ The teacher guide reckons the cost in **four consequence families**: **health** 
 
 The borrowed strength is repaid — with health, name, money and career.
 
+## Sub lesson 5 — Stopping doping — history, rules and bans (Grade 8)
+
+The Grade 8 book gives doping its longest history yet. Its use is recorded **since 668 BCE — Greek athletes, and even their horses, were given stimulants**. Controls began in the **1920s**; the IAAF **banned stimulants from 1928**; cycling and football federations began testing in **1966**; the IOC **banned doping in 1967**; and **WADA was founded in 1999**.
+
+Why banned? The book's reasons: doping **spoils sport's good image, protects athletes from health disorder, keeps competition equal and clean** — and sport is **a contest of athletes, not of doctors and drug factories**. Its sanctions, as printed: **first offence — warning, result cancelled, up to 1 year ban; second offence — 2 years; third offence — lifetime ban.**
+
+## Sub lesson 6 — Consequences — health, sanctions and a ruined name (Grade 9)
+
+Grade 9 teaches the consequences whole. Doping is **the deliberate or inadvertent use of drugs or procedures that enhance performance** — and **anyone who intentionally assists can be excluded too**. Most athletes are clean; doping is banned first because **it is cheating — it destroys the genuine challenge** — and under anti-doping rules, **not knowing is not an excuse**.
+
+The consequences are twofold. **Health:** including the **infection risk from non-sterile or shared needles — hepatitis and HIV/AIDS** — and the pictured effects of steroids. **Sport and life:** sanctions, and **lasting reputation damage** — a ban, the book says, **is only the beginning**: the health, mental-health, social and financial results are far-reaching. The teacher guide adds the reckoning: **results disqualified, awards, points and prizes forfeited**, and the banned athlete **socially isolated** — set against clean pioneers **Abebe Bikila and Mamo Wolde**, who reached the top without doping.
+
+## Sub lesson 7 — The Anti-Doping Rules — the WADA Code (Grade 10)
+
+Grade 10 names the rulebook. A governing body controls and protects clean sport: **WADA revises its Code over time — the 2021 Code has 27 articles** — and **international federations and national anti-doping bodies apply it**. The violations include **administration, or attempted administration, of a prohibited substance or method to an athlete**.
+
+[Picture 14006 — Doping control — the sample is sealed]
+
+The teacher guide gives the Code its meaning: WADA protects **athletes' fundamental right to take part in doping-free sport**, national programmes work through **education, deterrence and detection** — and its classroom line stands over the whole lesson: **the spirit of sport is expressed in how we play true, and doping is fundamentally contrary to the spirit of sport.** Prevention, the Grade 8 guide adds in three words: **Educate, Counsel and Communicate** with athletes.
+
 ## Say it to your companion
 
 Tell your companion what doping is, why it is banned for two reasons at once, and the four families of its cost.

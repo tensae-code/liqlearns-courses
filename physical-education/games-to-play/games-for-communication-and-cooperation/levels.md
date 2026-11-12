@@ -22,3 +22,9 @@ Pass mark: play the 3-minute game and complete the sportsmanship ending: applaus
 
 ## Sub lesson 7 — Fair play, compassion and getting along (teacher guide — evidence)
 Pass mark: list fair play's five principles and complete a Turn Back circle out and back without letting go.
+
+## Sub lesson 8 — Pair Hunting and the Rope Tug — the Grade 8 social games
+Pass mark: play Pair Hunting to its printed scoring (last uncaught pupil wins) and set a 3-against-3 rope tug with one shared pull signal.
+
+## Sub lesson 9 — Ball in a Box and Special Basketball — the Grade 8 cooperation games
+Pass mark: run Ball in a Box until every pupil has run, and split a class into four equal teams for Special Basketball.

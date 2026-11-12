@@ -16,6 +16,14 @@ The Grade 5 teacher guide says why athletics comes first: **athletics is the bas
 
 The base sport is the root; the other sports are the branches.
 
+## Africa's athletics — a continent of champions
+
+The Grade 8 book surveys **Africa — a continent of 54+ countries** — and its achievements across athletics events. Grade 9 names its great women: **Mozambique's Maria Mutola, 2000 Olympic champion and three-time IAAF World Champion at 800 m**. The Grade 9 teacher guide fixes the two moments that changed African sport: **Abebe Bikila's barefoot marathon win at Rome 1960 — the first black African man to win Olympic gold** — and **Barcelona 1992, where Derartu Tulu beat Elana Meyer in the women's 10,000 m — the first black African woman to win Olympic gold — and their hand-in-hand shared victory lap became a symbol of a new era of unity for Africa.** It also names the **Confederation of African Athletics (CAA), established in 1973, with 54 member countries and its headquarters in Dakar, Senegal**, and notes the IAAF is now **World Athletics**.
+
+## Ethiopia in the athletics story
+
+Grade 9's history keeps Ethiopia inside the world story: **Abebe Bikila retained his Olympic marathon title in Tokyo, wearing shoes, with another world record after Rome**. Grade 10 surveys the same three scopes — world (athletics changing with the world's political and social evolution; **even the IAAF's name was changed, in 2001**), Africa (a contribution reaching back to before the IAAF's formation, Maria Mutola among its champions), and Ethiopia — the road this lesson began on, now walked at full length.
+
 ## Say it to your companion
 
 Tell your companion the three base movements and one way the sporting world of today differs from the ancient festivals.

@@ -44,3 +44,21 @@ Say true or false.
 
 **14. (Sub lesson 7)** In "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Flexibility — Grade 8: static and dynamic" teaches: Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is felt..
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Flexibility — Grade 8: static and dynamic", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**17. (Sub lesson 9)** In this lesson, "Dynamic and static stretching — Grade 9" teaches: Stretch in groups and pairs, each stretch with its purpose..
+**Answer: True**
+
+**18. (Sub lesson 9)** In "Dynamic and static stretching — Grade 9", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**19. (Sub lesson 10)** In this lesson, "Flexibility — Grade 10: warm first, never force" teaches: Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forceful movements..
+**Answer: True**
+
+**20. (Sub lesson 10)** In "Flexibility — Grade 10: warm first, never force", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

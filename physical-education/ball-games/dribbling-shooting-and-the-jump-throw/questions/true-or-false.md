@@ -31,3 +31,21 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Handball dribble and jump throw — Grade 7", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "The basketball jump shot — Grade 8" teaches: Stand with feet slightly apart and knees slightly bent..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "The basketball jump shot — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Lay-ups — Grade 9 underhand, Grade 10 extended-arm" teaches: The lay-up is basketball's most essential shot — you lay the ball up near the basket with one hand, off the backboard and in, for .
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Lay-ups — Grade 9 underhand, Grade 10 extended-arm", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Handball — the dive throw, goalkeeping and passing — Grades 8–10" teaches: Handball joins running, jumping, catching and throwing..
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Handball — the dive throw, goalkeeping and passing — Grades 8–10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

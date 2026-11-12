@@ -13,6 +13,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **The three bodies that run the Games (teacher guide — evidence)** — the Grade 6 teacher guide: the Olympic movement's three bodies — the IOC, the international federations (IFs) and the national Olympic committees (NOCs).
 4. **The Olympic principles — peace, friendship, unity** — the Grade 7 book's philosophy and principles, with the Grade 7 teacher guide's six designed principles: non-discrimination, sustainability, humanism, universality, solidarity, and linking sport with culture and education.
 
+5. **Ethiopia at the Olympics — Melbourne 1956 to Rome 1960 and the missed Games** — the Grade 8 student book's §1.3: the modern Games from Athens 1896, Ethiopia at Melbourne 1956, Bikila's barefoot Rome 1960 gold, and the three politically missed Games; Picture 14012 shows the barefoot win.
+6. **Solidarity and champions — Ethiopia's Olympic example (teacher guide — evidence)** — the Grade 8 teacher guide's §1.4: Ethiopia organising the 1976 Montreal boycott against apartheid, and its men and women champions as Africa's example.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -44,6 +47,8 @@ Paper and colours for the flag. Nothing else.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 14012] — a barefoot marathon runner winning in Rome → the student names the runner, the city and the year.
 
 ## If the learner is stuck
 - Dates tangle → use the five-sentence arc in Say It; dates hang on the story, not the reverse.

@@ -24,6 +24,24 @@ Jumping, like running and throwing, is a natural movement, used to pass obstacle
 
 High-jump movements help many sports and daily life. The scissors jump (የመቀስ ዝላይ) is taught fully: begin standing — jump and clear the bar with the legs crossing like scissors, one leg over, then the other; then take three run-up steps and jump the scissors at speed, clearing the bar and landing in control.
 
+## Sub lesson 5 — High jump — the straddle — Grade 8
+
+Jumpers clear the bar in different styles — the Fosbury flop is among them — and the style taught at this grade is the straddle (ስትራድል): run in, take off, and cross the bar with your body parallel over it, one leg over after the other, landing on the mats. Compare it with the Grade 7 scissors you already know: the scissors crosses sitting up; the straddle crosses lying along the bar. Practise first over a low bar or rope, always onto thick mats.
+
+## Sub lesson 6 — Long jump — Grade 10
+
+The long jump has four phases: the approach run, the take-off, the flight, and the landing. Build speed on the approach. At take-off, drive the free arm and leg upward. In flight, use the hang — your body makes a C shape in the air — or the hitch-kick, running in the air with your arms rotating; the Grade 10 student book's flight points are: the swing leg drives up, heel to butt, knee to 90 degrees, with an active arm drive making lift and blocking forward rotation; then the arms gradually drop and circulate back, up and over to keep your balance. Distance comes in three parts — take-off distance, flight distance and landing distance — and take-off speed is the most important factor of all. Land with your heels as far from the scratch line as you can, in the sand.
+
+[Picture 13909 — the four long-jump phases in a row — approach, take-off, flight, landing]
+
+[GIF 13920 — the full long jump — approach, take-off, hang, two-foot landing]
+
+## Sub lesson 7 — Triple jump — Grade 10
+
+The triple jump is three jumps in one: hop, step, jump. Keep your posture upright, hips under the trunk. The hop: take off on one leg, fully extended, the drive leg's thigh nearly parallel to the ground, foot relaxed, and land flat-footed or slightly heel-to-toe on the same leg. The step pushes off the other leg. The jump is a long-jump take-off into the sand. Master the sequence and the posture before you chase longer distances — and learn the join with the Hop–Long Jump drill, the best drill for the step-to-hop transition.
+
+[Picture 13910 — the triple jump in a row — hop, step, jump, landing in the sand]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

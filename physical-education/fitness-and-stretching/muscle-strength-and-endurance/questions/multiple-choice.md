@@ -82,3 +82,39 @@ a) strength work organised by body part — above the waist, stomach and back, a
 **20. (Sub lesson 8)** A learner doing "Muscular endurance — Grade 7" correctly is —
 a) strength work organised by body part — above the waist, stomach and back, and below the waist  b) the knee push-up in sets (10 × 3 rounds = 30), the full push-up, two-foot side hops, and the curl-up (3 × 10 = 30)  c) muscular endurance as stamina — push-ups 4 × 10, squat jumps 3 × 5, and modified pull-ups on a low bar with the feet grounded, 6–10 reps
 **Answer: c) muscular endurance as stamina — push-ups 4 × 10, squat jumps 3 × 5, and modified pull-ups on a low bar with the feet grounded, 6–10 reps**
+
+**21. (Sub lesson 9)** What is the heart of "Muscle strength by body region — Grade 8"?
+a) Work the body region by region.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) Work the body region by region.**
+
+**22. (Sub lesson 9)** Which of these belongs to "Muscle strength by body region — Grade 8"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) Work the body region by region.
+**Answer: c) Work the body region by region.**
+
+**23. (Sub lesson 9)** A learner doing "Muscle strength by body region — Grade 8" correctly is —
+a) skipping every stage and starting with the hardest game form  b) Work the body region by region.  c) sitting still and watching others do the movement
+**Answer: b) Work the body region by region.**
+
+**24. (Sub lesson 10)** What is the heart of "The five-station circuit — Grade 9"?
+a) A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as   b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as **
+
+**25. (Sub lesson 10)** Which of these belongs to "The five-station circuit — Grade 9"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as 
+**Answer: c) A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as **
+
+**26. (Sub lesson 10)** A learner doing "The five-station circuit — Grade 9" correctly is —
+a) skipping every stage and starting with the hardest game form  b) A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as   c) sitting still and watching others do the movement
+**Answer: b) A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as **
+
+**27. (Sub lesson 11)** What is the heart of "Testing muscle endurance and strength — Grade 10"?
+a) At this grade you test what you trained.  b) sitting still and watching others do the movement  c) skipping every stage and starting with the hardest game form
+**Answer: a) At this grade you test what you trained.**
+
+**28. (Sub lesson 11)** Which of these belongs to "Testing muscle endurance and strength — Grade 10"?
+a) sitting still and watching others do the movement  b) skipping every stage and starting with the hardest game form  c) At this grade you test what you trained.
+**Answer: c) At this grade you test what you trained.**
+
+**29. (Sub lesson 11)** A learner doing "Testing muscle endurance and strength — Grade 10" correctly is —
+a) skipping every stage and starting with the hardest game form  b) At this grade you test what you trained.  c) sitting still and watching others do the movement
+**Answer: b) At this grade you test what you trained.**

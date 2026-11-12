@@ -13,3 +13,9 @@ Say if it is true or false.
 
 **4. (Sub lesson 4)** Mengistu Worku coached the national team after his playing career.
 **Answer: True**
+
+**5. (Sub lesson 5)** Sporting events benefit the kebele, woreda, city and nation.
+**Answer: True**
+
+**6. (Sub lesson 6)** Didier Drogba served on Côte d'Ivoire's truth and reconciliation commission.
+**Answer: True**

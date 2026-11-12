@@ -13,3 +13,6 @@ Pass mark: the learner does and explains — the uneven bars — hanging from th
 
 ## Sub lesson 4 — Bar work — Grade 7: pull-up, swing and traverse
 Pass mark: the learner does and explains — the pull-up method on the bar, swinging forward and backward hanging from a single bar, and travelling hand over hand along a high bar from one end to the other.
+
+## Sub lesson 5 — Parallel bars — the support swing — Grade 8
+Pass mark: the learner does and explains — parallel bars — the support swing — grade 8 (Grades 8–10 depth; see lesson/sources.md).

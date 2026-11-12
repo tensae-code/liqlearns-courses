@@ -44,3 +44,21 @@ Say true or false.
 
 **14. (Sub lesson 7)** In "Kicking and controlling — Grade 7", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Shooting at goal — Grade 8" teaches: Shoot at goal in stages, exactly as the book builds it..
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Shooting at goal — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**17. (Sub lesson 9)** In this lesson, "Chest control, first touch and heading — Grade 9" teaches: Control brings the ball under your command..
+**Answer: True**
+
+**18. (Sub lesson 9)** In "Chest control, first touch and heading — Grade 9", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**19. (Sub lesson 10)** In this lesson, "Tackling, thigh control and goalkeeping — Grade 10" teaches: Three advanced football skills..
+**Answer: True**
+
+**20. (Sub lesson 10)** In "Tackling, thigh control and goalkeeping — Grade 10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

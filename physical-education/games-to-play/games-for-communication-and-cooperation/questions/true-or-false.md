@@ -28,3 +28,9 @@ Say if it is true or false.
 
 **9. (Sub lesson 7)** In Turn Back, letting go of hands is the fastest way to finish.
 **Answer: False**
+
+**10. (Sub lesson 8)** The book says the rope tug gives a wide chance to know people and build communication.
+**Answer: True**
+
+**11. (Sub lesson 9)** In Ball in a Box the passing repeats until everyone has run.
+**Answer: True**

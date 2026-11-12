@@ -20,3 +20,9 @@ Muscle strength — Grade 6 sets. The Grade 6 strength set: push-ups (with the k
 Muscular endurance — Grade 7. Muscular endurance is a muscle's ability to exert force consistently and repetitively over a period of time — think of it as stamina.
 
 Now you. Do it slowly. Do it safely. Name it while you do it.
+
+Muscle strength by body region — Grade 8. Work the body region by region.
+
+The five-station circuit — Grade 9. A muscle works two ways: isometric — it holds still under load — and isotonic — it shortens and lengthens, as in a concentric contraction.
+
+Testing muscle endurance and strength — Grade 10. At this grade you test what you trained.

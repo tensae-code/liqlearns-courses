@@ -32,6 +32,18 @@ The guide's method is printed as an instruction to the teacher: **focus on the l
 
 **Mengistu Worku (1940–2010)**: among Ethiopia's best footballers in history, famous for the **1962 African Nations Cup final**; Saint-George from 1957 for his whole career; afterwards he **coached the national team and different clubs** and took part in social and political life.
 
+## Sub lesson 5 — Sport and money — athletes who invest and employ
+
+Sport is defined in the Grade 9 book as **an organised competitive form of play** — and it builds economies: events benefit the **kebele, the woreda, the city and the nation**. The book pictures athlete investors: **Kenenisa Bekele and Tirunesh Dibaba**, investing in the **hotel industry and others**; **Naomi Osaka**, Sweetgreen's youngest investor (May 2021); and **Didier Drogba**, in Phoenix Rising and banks.
+
+The Grade 9 teacher guide works the same truth at street level: at an event, **taxi owners earn from travellers, hotels earn from visiting teams and fans, organisers and sponsors gain too** — and top athletes earn foreign currency and invest it at home, **creating jobs**.
+
+## Sub lesson 6 — Athletes who give back — schools, hospitals and peace
+
+The Grade 10 book profiles humanitarian champions: **Sadio Mané**, who **financed schools and a hospital in his native Senegal** and donated football kits to poor children; **Didier Drogba**, who served on **Côte d'Ivoire's 11-member truth and reconciliation commission** after the 2011 civil war and founded the **Didier Drogba Foundation (2007)**; **Manuel Neuer**, whose kids' foundation works for child welfare and rights; and **Marcus Rashford**, whose charity fed vulnerable children and families during COVID-19.
+
+The Grade 10 teacher guide adds **George Weah** of Liberia — a football star who helped end a long civil war, then entered politics and served as president — and Ethiopia's own: the **Great Ethiopian Run, funded by Haile Gebrselassie**, donating to charity every year, and the **two schools Haile founded**.
+
 ## Say it to your companion
 
 Tell your companion the guide's method in one sentence, then prove it with Dibaba: three works, no race results.

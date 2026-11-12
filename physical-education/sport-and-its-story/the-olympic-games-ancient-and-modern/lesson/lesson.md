@@ -38,6 +38,20 @@ The Grade 7 book gives the Games their philosophy: **peace, friendship and unity
 
 The Grade 7 teacher guide lists the six principles the IOC designed: **non-discrimination** (everyone may practise sport without discrimination, in friendship, solidarity and fair play), **sustainability**, **humanism** (sport for a peaceful society that preserves human dignity), **universality**, **solidarity** (bringing the world together for a peaceful world through sport), and **linking sport with culture and education**.
 
+## Sub lesson 5 — Ethiopia at the Olympics — Melbourne 1956 to Rome 1960 and the missed Games
+
+The modern Olympic Games began on **8 March 1896, in Athens**, through **Baron Pierre de Coubertin**. **Ethiopia first took part at Melbourne 1956**, in athletics and cycling — no medals, but experience gained. Then **Rome 1960: Abebe Bikila, running barefoot, won Ethiopia's first gold, in the marathon.**
+
+[Picture 14012 — Rome 1960 — a barefoot marathon win]
+
+Ethiopia **missed Montreal 1976, Los Angeles 1984 and Seoul 1988, for political reasons** — the Games' story includes the years a country stays away, and why.
+
+## Sub lesson 6 — Solidarity and champions — Ethiopia's Olympic example (teacher guide — evidence)
+
+The Grade 8 teacher guide adds what Ethiopia gave the Games beyond medals. In **1976 Ethiopia showed dedication and organised other African countries to boycott the Montreal Games against apartheid** — the white minority rule of South Africa — **in solidarity with the black South African majority**.
+
+And its champions became an example to a continent: **Abebe Bikila, Mamo Wolde and Miruts Yifter**, then their successors **Haile Gebrselassie, Kenenisa Bekele, Gezhagne Abera and Million Abera** — and the women champions **Derartu Tulu, Fatuma Roba, Tirunesh Dibaba, Meseret Defar, Tiki Gelana and Almaz Ayana**, who motivated African girls and women, even children, to come into athletics.
+
 ## Say it to your companion
 
 Tell your companion the whole arc in five sentences: Olympia, Zeus, Coubertin, 1894, Athens 1896 — then the flag and the motto.

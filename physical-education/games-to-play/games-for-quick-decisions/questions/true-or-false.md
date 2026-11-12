@@ -34,3 +34,6 @@ Say if it is true or false.
 
 **11. (Sub lesson 9)** In "What a decision!", a well-judged distance is both challenging and productive.
 **Answer: True**
+
+**12. (Sub lesson 10)** The Two-Houses line is 20–30 metres long.
+**Answer: True**

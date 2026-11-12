@@ -4,8 +4,14 @@ countries: Ethiopia
 
 **Book 1:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
 
+**Book 2:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 5 — Traditional wrestling — laws and practice | Ethiopia, *Grade 8 Student Textbook*, §7.1.1, printed pp. 84–86 |
+| Sub lesson 6 — Korbo — the ring and the spear | Ethiopia, *Grade 8 Student Textbook*, §7.1.2, printed pp. 86–89 |
+| Sub lesson 7 — Bub — the board of twenty-five stations | Ethiopia, *Grade 8 Student Textbook*, §7.1.3, printed pp. 89–91 |
+| Sub lesson 8 — Archery — the traditional bow game | Ethiopia, *Grade 8 Student Textbook*, §7.1.4, printed pp. 91–93 |
 | Sub lesson 1 — The federated games — the five with laws | Ethiopia, *Grade 7 Student Textbook*, §7.2 opening, printed p. 83 |
 | Sub lesson 2 — Gena — the rules pass | Ethiopia, *Grade 7 Student Textbook*, §7.2.1, printed pp. 83–85 |
 | Sub lesson 3 — Gebeta — the rules pass: twelve holes and eighteen | Ethiopia, *Grade 7 Student Textbook*, §7.2.2, printed pp. 86–88 |

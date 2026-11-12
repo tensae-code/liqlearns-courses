@@ -14,8 +14,14 @@ countries: Ethiopia
 
 **Book 6:** *Grade 7 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. iii + 1–45 held (51 PDF pages). TRUNCATED — the file holds Chapters 1–3 complete (printed pp. 1–45); chapters beyond Chapter 3 are missing from the file. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-teacher-placements.md.
 
+**Book 7:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
+
+**Book 8:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Sub lesson 5 — Ethiopia at the Olympics — Melbourne 1956 to Rome 1960 and the missed Games | Ethiopia, *Grade 8 Student Textbook*, §1.3, printed pp. 4–5 |
+| Sub lesson 6 — Solidarity and champions — Ethiopia's Olympic example (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §1.4, printed pp. 10–11 (teacher guide — evidence) |
 | Sub lesson 1 — 776 BC to Athens 1896 — the founding story | Ethiopia, *Grade 5 Student Textbook*, §1.3, printed pp. 4–5; and *Grade 5 Teacher Guide*, §1.4, printed pp. 7–8 (teacher guide — evidence) |
 | Sub lesson 2 — The flag, the rings and the motto | Ethiopia, *Grade 6 Student Textbook*, item 4, printed pp. 6–7; and *Grade 6 Teacher Guide*, Olympics cluster, printed pp. 4–6 (teacher guide — evidence) |
 | Sub lesson 3 — The three bodies that run the Games (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Olympics cluster, printed pp. 4–6 |
@@ -36,5 +42,7 @@ The Grade 7 student textbook is complete (see the book line above); nothing in t
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 The Grade 6 teacher guide's contents list places the Olympics teaching differently from its body; the body (printed pp. 4–6) is what this lesson cites, exactly as the placements flag the discrepancy. The Grade 5 teacher guide's summary key prints both "1888 ዓ.ም" and "1896 ኢ.ኤ.አ" for the first modern Games; this lesson teaches 1896, as the student book and the guide's own §1.4 give it.
+
+The Grade 8 teacher guide is truncated — printed pp. 51–104+ are missing — so its §1.4 evidence is used only at the depth the held pages carry, labelled (teacher guide — evidence).
 
 Searchable tags: Olympic Games, Olympia 776 BC, Zeus, Pierre de Coubertin, IOC 1894, Athens 1896, Olympic flag five rings, motto Citius Altius Fortius Faster Higher Stronger, IFs NOCs, Olympic principles, Ethiopia HPE Grades 5–7

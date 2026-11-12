@@ -13,6 +13,11 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Gebeta — the rules pass: twelve holes and eighteen** — the 12-hole board — six houses each, stones moved in turn — the one-stone, two-stone and three-stone variants (ቅንጭቦሽ), and the 18-hole (ስሉስ) board.
 4. **Horse racing and Gugs, and the Shah game** — horse racing (የፈረስ ሽርጥ) as a ruled traditional sport, the horse game Gugs (የፈረስ ጉግስ), and Shah (የሻህ ባህላዊ ጨዋታ) — "play it with your friends".
 
+5. **Traditional wrestling — laws and practice** — the Grade 8 student book's §7.1.1: traditional wrestling — fame for the strong, bell/whistle/results board, the one-hand waist hold, main laws and practice.
+6. **Korbo — the ring and the spear** — the Grade 8 student book's §7.1.2: Korbo — rolling the ring, spearing its middle from the throwing zone, its types, laws and making; Picture 14008 shows the ring and spear.
+7. **Bub — the board of twenty-five stations** — the Grade 8 student book's §7.1.3: the Bub board — 24 stone stations plus one start station (25), a diamond at the centre, its laws and practice; Picture 14007 shows the board.
+8. **Archery — the traditional bow game** — the Grade 8 student book's §7.1.4: archery — its main laws, its equipment listed in detail, and its practice, safety-framed.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -44,6 +49,9 @@ A gebeta board (or hollows in the earth) and stones; friends for Shah. Nothing e
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 14008] — the Korbo ring and the spearer in the throwing zone → the student names the two roles.
+- IMAGE [Picture 14007] — the Bub board, 25 stations with the centre diamond → the student counts the stations.
 
 ## If the learner is stuck
 - Sowing loses count → sow slowly, one stone aloud per hollow, until the hand knows the road.

@@ -16,3 +16,12 @@ Pass mark: the learner does and explains — the standing shot at the basket (�
 
 ## Sub lesson 5 — Handball dribble and jump throw — Grade 7
 Pass mark: the learner does and explains — handball dribbling with the ball held at the waist in both hands, and the jump-throw scoring technique.
+
+## Sub lesson 6 — The basketball jump shot — Grade 8
+Pass mark: the learner does and explains — the basketball jump shot — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 7 — Lay-ups — Grade 9 underhand, Grade 10 extended-arm
+Pass mark: the learner does and explains — lay-ups — grade 9 underhand, grade 10 extended-arm (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 8 — Handball — the dive throw, goalkeeping and passing — Grades 8–10
+Pass mark: the learner does and explains — handball — the dive throw, goalkeeping and passing — grades 8–10 (Grades 8–10 depth; see lesson/sources.md).

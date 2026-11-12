@@ -40,6 +40,22 @@ Bend and reach with arm raises. Sit and reach to touch the toes — this improve
 
 Flexibility is the ability to move the joints and use the muscles through their full range of motion. The sit-and-reach (ቁጭ ብሎ ወደፊት መሣብ) stretches the lower back and the back of the thigh. Then work the six-stretch circuit, each stretch on slow breaths (teacher guide — evidence): 1. The runners stretch — step into a lunge, fingertips down; breathe in, and as you breathe out straighten the front leg; return; repeat 4 times; switch sides. 2. The standing side stretch — feet together, arms overhead, hands clasped with the pointer fingers extended; reach up on the in-breath, bend the upper body right on the out-breath; five slow breaths; return and repeat left. 3. The forward hang — feet hip-distance apart, knees a little bent, fingers interlaced behind the back; straighten the arms to open the chest, then fold at the waist with the hands stretching toward the head; hold five deep breaths. 4. The low lunge arch — the same lunge steps as the runners stretch. 5. The seated back twist — sit with the legs straight; bend the right knee and step the foot over the left leg; right hand behind you, left elbow against the right knee; sit tall on the in-breath and twist on the out-breath, looking over the right shoulder; hold five breaths; switch sides. 6. The bound angle — soles of the feet together, knees dropping toward the ground; hold the shins, lift the chest, then hinge forward from the hips without rounding the back; hold five slow breaths.
 
+## Sub lesson 8 — Flexibility — Grade 8: static and dynamic
+
+Flexibility exercise means moving the joints through their natural direction and range until a mild stretch is felt. True flexibility is the ability to move through a range of motion without pain. There are two kinds. Static stretching: reach, bend or turn as far as you can, and hold that position still. Dynamic stretching: move muscles and joints through their full range while you are actively moving. Warm up properly for 5–10 minutes first, stretch from the upper body to the lower body (or the reverse), and cool down for 5–10 minutes after.
+
+## Sub lesson 9 — Dynamic and static stretching — Grade 9
+
+Stretch in groups and pairs, each stretch with its purpose. Dynamic first, while moving; then the static set, held. The walking-lunge stretch works the gluteus, hamstrings and hip flexors. Side bends work the triceps, upper back, abdominals and obliques. The quadriceps stretch: pull the heel toward the buttock — the guide's side-lying form pulls the heel to the buttock while you lie on your side. The full held set runs from the neck (trapezius) stretch through the arm, wrist and shoulder stretches to the back stretch — arch, then tuck the chin and round the back — most holds 20–30 seconds, twice or more on each side. Stretch only when your muscles are warm.
+
+[Picture 13903 — static stretching held still beside dynamic stretching on the move]
+
+## Sub lesson 10 — Flexibility — Grade 10: warm first, never force
+
+Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forceful movements. Flexibility training is a planned set of stretches that grows a pain-free range of motion over time. Double knees to chest: lie on your back and draw both knees up to your chest. The heel-to-buttock quadriceps stretch, with its dosage: squeeze the buttocks, flatten the spine, do NOT arch the back; hold 5–15 seconds, and repeat.
+
+[GIF 13918 — the heel-to-buttock stretch with a flat back, held, then released]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

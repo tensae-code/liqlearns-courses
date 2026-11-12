@@ -18,6 +18,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 7. **Managing myself and thinking positively (teacher guide — evidence)** — the Grade 5 teacher guide on self-management: the ability to carry out your daily tasks with courage, without being pushed by others; personal conduct improved through the subject; and positive thinking — seeing the good path, finishing what you start, accepting the result and trying again.
 8. **Confidence, control and calm breathing (teacher guide — evidence)** — the Grade 7 teacher guide's self-awareness lesson: self-confidence, self-control and self-awareness defined; neck and shoulder movements; and active breathing — breathing out on a chosen word, such as "peace".
 
+9. **Rescue from Danger and Change of Place — the Grade 8 self-knowledge games** — the Grade 8 student book's Chapter 2 opening games (§§2.1.1–2.1.2): Rescue from Danger on its 20–30 m parallel-line field, and Change of Place, closing with the book's reflection task.
+10. **Rolling in Admiration and mindful minutes (teacher guide — evidence)** — the Grade 8 teacher guide's §2.1: the Rolling in Admiration dice game, the self-awareness and self-management definitions, and resilience through mindful meditation.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

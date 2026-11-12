@@ -31,3 +31,21 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Side underarm serve and receiving stance — Grade 7", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "The overhead serve — Grade 8" teaches: The overhead serve (ከላይ ወደታች መለጋት) is the serve that marks a complete volleyball player..
+**Answer: True**
+
+**12. (Sub lesson 6)** In "The overhead serve — Grade 8", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "The spike — Grade 9" teaches: Spiking is volleyball's main way to score, and it is built in four stages: the approach to the net, the take-off, the body movemen.
+**Answer: True**
+
+**14. (Sub lesson 7)** In "The spike — Grade 9", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Blocking — Grade 10" teaches: Blocking is the defence at the net..
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Blocking — Grade 10", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

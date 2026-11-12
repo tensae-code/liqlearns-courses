@@ -13,3 +13,9 @@ Pass mark: the learner does and explains — shuttle running back and forth (som
 
 ## Sub lesson 4 — Running in place for your heart (teacher guide — evidence)
 Pass mark: the learner does and explains — running in place with knees lifting in a steady rhythm.
+
+## Sub lesson 5 — Running on the spot — Grade 8 (teacher guide — evidence)
+Pass mark: the learner does and explains — running on the spot — grade 8 (teacher guide — evidence) (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 6 — Speed runs and ladder feet — Grade 8
+Pass mark: the learner does and explains — speed runs and ladder feet — grade 8 (Grades 8–10 depth; see lesson/sources.md).
