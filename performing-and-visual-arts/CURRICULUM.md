@@ -73,8 +73,20 @@ lessons are the books'.
   filed (pictures/GIFs 9300–9320, 9330, 9340–9345, frame-checked:
   palm printing, leaf printing, clay shaping, stencil printing).
   G7/G8 teacher-guide printmaking stocked as labelled evidence.
-- Remaining groups (Music — Listening + Songs; and the
-  upper-grade depth the read placed beyond the first map —
-  upper-grade music, drama, drawing and making) are being built
-  and registered here as they land. See ABOUT.md for the full
+- **Music — Listening + Songs — BUILT 2026-11-12:** all 13
+  lessons (Sounds Around Us; Name That Animal Sound; Animal
+  Songs; Family Songs; Songs of Nature; Movement Songs;
+  Traditional and Festival Songs; School Songs; Counting Songs;
+  Songs for Clean and Healthy Living; Songs of Our Country;
+  Singing About Colours; Singing About My Drawing), 200
+  questions, 15 media filed (pictures/GIFs 9450–9465, drawn and
+  frame-checked). Two placement GIF needs stay as described
+  slots by judgment (a drawn mouth cannot bleat truly; ten
+  handwashing steps cannot fit a truthful 2-second loop — the
+  ten-panel picture strip carries them), recorded in the
+  lessons' sources.
+- Remaining: the upper-grade depth the read placed beyond the
+  first map (upper-grade music, drama, drawing and making, and
+  one unassigned song) is being built as a supplementary group
+  and registered here as it lands. See ABOUT.md for the full
   book list and the acceptance reckoning.

@@ -956,3 +956,18 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9343 | pictures/9343.gif | one fidel written single, then outlined double | Performing and Visual Arts — Beautiful Writing |
 | 9344 | pictures/9344.gif | camera raised, scene framed, shutter, the photograph appears | Performing and Visual Arts — Photography |
 | 9345 | pictures/9345.gif | dab colour through a stencil, lift: the print revealed | Performing and Visual Arts — Printing |
+| 9450 | pictures/9450.webp | the road to school: a car, people and animals — sounds around us | Performing and Visual Arts — Sounds Around Us |
+| 9451 | pictures/9451.webp | four animal cards: puppy, ram, rooster, cow | Performing and Visual Arts — Name That Animal Sound |
+| 9453 | pictures/9453.webp | the four song animals: lamb, cat, dog, bird | Performing and Visual Arts — Animal Songs |
+| 9454 | pictures/9454.gif | birds taking off and flying in a row | Performing and Visual Arts — Songs of Nature |
+| 9455 | pictures/9455.webp | a whole family together | Performing and Visual Arts — Family Songs |
+| 9456 | pictures/9456.gif | clapping hands in time | Performing and Visual Arts — Movement Songs |
+| 9457 | pictures/9457.webp | adey daisies and the Demera fire | Performing and Visual Arts — Traditional and Festival Songs |
+| 9458 | pictures/9458.webp | the fidel orders, as sung in the Fidel Song | Performing and Visual Arts — School Songs |
+| 9459 | pictures/9459.gif | five green bottles: one falls, the count drops 5 to 4 | Performing and Visual Arts — Counting Songs |
+| 9460 | pictures/9460.webp | five ducks | Performing and Visual Arts — Counting Songs |
+| 9461 | pictures/9461.webp | the ten steps of handwashing, one panel per step | Performing and Visual Arts — Songs for Clean and Healthy Living |
+| 9462 | pictures/9462.webp | the flag over hills and a waterfall | Performing and Visual Arts — Songs of Our Country |
+| 9463 | pictures/9463.webp | a rainbow over a landscape | Performing and Visual Arts — Singing About Colours |
+| 9464 | pictures/9464.webp | a child holding up a finished coloured drawing | Performing and Visual Arts — Singing About My Drawing |
+| 9465 | pictures/9465.webp | our green land: green hills, a river, trees | Performing and Visual Arts — Songs of Nature |
