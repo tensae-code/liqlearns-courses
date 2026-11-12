@@ -6038,3 +6038,22 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 25310 | pictures/25310.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — mitigation-reducing-emissions |
 | 25311 | pictures/25311.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — adaptation-adjusting-to-climate-change |
 | 25312 | pictures/25312.webp | drawn diagram for the lesson (see the build log media table) | Social Studies — green-economy-and-green-growth |
+| 34300 | Ecosystems — populations, communities and their surroundings | science/our-environment/ecosystems-populations-communities-and-their-surroundings |
+| 34301 | How living things affect each other — six named ways | science/our-environment/how-living-things-affect-each-other |
+| 34302 | Food chains, food webs and energy pyramids | science/our-environment/food-chains-food-webs-and-energy-pyramids |
+| 34303 | Cycles of matter — carbon, nitrogen, water | science/our-environment/cycles-of-matter-carbon-nitrogen-water |
+| 34304 | Soil types, formation and loss | science/soil-and-water/soil-types-formation-and-loss |
+| 34305 | Saving the soil — conservation methods | science/soil-and-water/saving-the-soil-conservation-methods |
+| 34306 | Water — why it is precious and how to save it | science/soil-and-water/water-why-it-is-precious-and-how-to-save-it |
+| 34307 | Air pollution and acid rain | science/our-environment/air-pollution-and-acid-rain |
+| 34308 | Global warming — the greenhouse effect | science/our-environment/global-warming-the-greenhouse-effect |
+| 34309 | Forests — what they give and what cutting them costs | science/our-environment/forests-what-they-give-and-what-cutting-them-costs |
+| 34310 | Biodiversity — keeping the variety of life | science/our-environment/biodiversity-keeping-the-variety-of-life |
+| 34311 | Local knowledge, local conservation | science/our-environment/local-knowledge-local-conservation |
+| 34320 | GIF: matter cycling round and round, energy flowing one way | science/our-environment/cycles-of-matter-carbon-nitrogen-water |
+| 34321 | GIF: terracing and check dams holding the soil | science/soil-and-water/saving-the-soil-conservation-methods |
+| 34322 | GIF: a parked car heating up in the sun — the greenhouse effect | science/our-environment/global-warming-the-greenhouse-effect |
+| 34323 | GIF: soil washing away, then held by cover and terracing | science/soil-and-water/soil-types-formation-and-loss |
+| 23420 | pictures/23420.gif | the cascade of 1974: pressure, mutiny, strikes, the Derg, September | Social Studies — 1974 — the Ethiopian revolution |
+| 23421 | pictures/23421.gif | the federal map shading region by region under the 1995 constitution | Social Studies — The 1995 Constitution and federal Ethiopia |
+| 23422 | pictures/23422.gif | a tour of lights across the heritage map: Aksum, Lalibela, Gondar, Harar, Tiya, Konso | Social Studies — Ethiopia's UNESCO heritages |
