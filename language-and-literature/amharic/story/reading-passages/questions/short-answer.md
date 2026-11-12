@@ -36,3 +36,18 @@ Answer in a short sentence, from the passage.
 
 **12. (Sub lesson 11)** From the climate change passage: how high is the ozone layer, as the passage gives it?
 **Answer:** 19–48 kilometres up.
+
+**13. (Sub lesson 12)** Give the Awramba reading's main idea in one sentence, as the reading asks.
+**Answer:** A community where work is honoured by everyone — a strong work culture — is what the passage holds up; any one-sentence statement of that main idea, from the passage, counts.
+
+**14. (Sub lesson 13)** What is Tebechisa in its chapter, and what work is done with it?
+**Answer:** A cultural practice of one of the peoples of the land, treated as the diversity case study; its comprehension questions are answered orally, in detail.
+
+**15. (Sub lesson 14)** Who were the Bahre Hasab scholars' named models, and from which century?
+**Answer:** Foreign historians, above all Abu Shakir and George ibn al-Amid, of the thirteenth century. The scholars recorded the history of the kings in their books.
+
+**16. (Sub lesson 15)** Name the three challenges to inclusive education that Tsehay's reading keys.
+**Answer:** People's attitudes; failure to identify some children's difficulties; and the assumption that disabled people cannot reach high levels.
+
+**17. (Sub lesson 16)** Say the difference between the migration reading's two closing works.
+**Answer:** Explaining what was grasped retells the passage's content in your own words; writing its themes names what the passage is about — its subjects — apart from its details.

@@ -13,3 +13,9 @@ Answer in a few words.
 
 **4. (Sub lesson 5)** Name the four grown forms of ቆረጠ in the review table.
 **Answer: ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ.**
+
+**5. (Sub lesson 6)** Name the two kinds of ቅጥያ in the grown system, and say where each one enters.
+**Answer: the prefix (ቅድመ ገብ ቅጥያ) enters BEFORE the word; the suffix (ድህረ ገብ ቅጥያ) enters AFTER it.**
+
+**6. (Sub lesson 6)** Peel ከሴቶች into its three pieces, and name each piece's kind.
+**Answer: ከ- (prefix) + ሴት (the word) + -ኦች (suffix).**

@@ -10,3 +10,9 @@ Answer in a few words, or one sentence.
 
 **3. (Sub lesson 2)** What happens to writing that skips the plan?
 **Answer: its steps arrive in the order you happen to remember them — not their true order.**
+
+**4. (Sub lesson 3)** Name the five principles of traditional mediation.
+**Answer: equality, fairness, balance, truthfulness, humanity.**
+
+**5. (Sub lesson 3)** What do the parties swear at the mediation?
+**Answer: an oath confirming the decision to reconcile.**

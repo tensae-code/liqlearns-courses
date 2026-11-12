@@ -21,6 +21,14 @@ Rome, stop and say "2:15:16.2"; at Tokyo, stop and say
 "2:12:11.2". The times must be exact before the finish line is
 crossed.
 
+## Record a life, play it twice
+With permission, record an elder telling one part of their
+life on a phone — five minutes is enough. Play it back
+twice: the first time, write only the main points; the
+second, add the details under them. Then tell the life to
+the elder from your notes and let them correct it — the
+recording method, at home.
+
 ## A name that sums a life
 Dr Catherine Hamlin is called "Mother of Ethiopia's Mothers"
 because of what she did. Talk at home: is there a person your

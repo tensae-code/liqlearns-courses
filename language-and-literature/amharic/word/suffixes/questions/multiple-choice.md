@@ -37,3 +37,15 @@ a) አሰቆረጠ  b) ተቆረጠ  c) አቆራረጠ
 **9. (Sub lesson 5)** The root standing inside ተቆራረጠ is —
 a) ቆረጠ  b) ተቆ  c) ራረጠ
 **Answer: a) ቆረጠ** — however big the grown form, the root stands inside it.
+
+**10. (Sub lesson 6)** A prefix (ቅድመ ገብ ቅጥያ) is a piece that enters —
+a) after the word  b) before the word  c) between the word's fidel
+**Answer: b) before the word** — a suffix (ድህረ ገብ ቅጥያ) is the piece that enters after.
+
+**11. (Sub lesson 6)** In the guide's keyed answers, ኢ- is —
+a) a suffix  b) a whole word on its own  c) a prefix — standing together with -አዊ in one keyed word
+**Answer: c) a prefix** — one word can carry a piece at each end: ኢ- before, -አዊ after.
+
+**12. (Sub lesson 6)** Which of these pieces is a SUFFIX in the guide's key?
+a) መ-  b) -ኦሽ  c) ኢ-
+**Answer: b) -ኦሽ** — መ- and ኢ- are prefixes; -ኦሽ, like -አዊ and -ነት, enters after.

@@ -27,3 +27,15 @@ Fifth — organise. One web holds everything.
 Six branches… and the essay grows from the web, branch by branch.
 
 Explain, tell, join, argue, organise — five shapes, one writer.
+
+And the explaining grows up.
+Before you write — go back. Review the craft.
+Study the types of essay: **የድርሰት ዓይነቶች**.
+Three prompts are given. Take one.
+Write with a partner. Write in a group.
+
+And explain for the reader you have.
+A computer — for writing, for reading, for film, for the internet.
+A hair-dryer — **ካስክ**. A tractor. A fridge.
+Name the thing. Say what it is for.
+That is explaining.

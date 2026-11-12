@@ -20,3 +20,15 @@ My topic. My points. Short lines.
 Then the writing grows from the plan.
 
 Plan first. Steps in order. That is how-to writing.
+
+And a whole real process can be written this way.
+**ባህላዊ ሽምግልና** — traditional mediation. Five steps.
+
+One: ask first. Find out what happened.
+Two: get consent. Both sides agree to reconcile.
+Three: choose mediators — for both sides.
+Four: choose the judge.
+Five: hold the mediation.
+
+Consent before the sitting. The judge before the hearing.
+Each step prepares the next. That is a process.

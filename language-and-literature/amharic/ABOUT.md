@@ -222,6 +222,23 @@ sequence; use learners' own stories and experiences; use the
 learner book's pictures for talk; give repeated chances to read
 familiar print; praise effort.
 
+## Acceptance counts — update (Band 4, 2026-11-12)
+
+Band 4 (Grades 9–10) was built from the two complete federal
+teacher guides only — those grades have no secured student
+books, and nothing in this band invents a pupil-book citation.
+It added 1 new lesson (Idioms — teacher-guide evidence only,
+acceptance 0) and grew 13 lessons at the top of their strands
+with guide-evidence sub lessons, each labelled part by part in
+its sources; no grown lesson's pupil-taught count rose from
+guide material. **Final course reckoning, counted from disk
+2026-11-12: 67 lessons — 65 taught in 1 country (Ethiopia),
+2 standing on teacher-guide evidence only (Fidel Shapes,
+Idioms); 1,500 numbered question items; 326 media files.**
+The Amharic course build (Wave 1) is complete: pre-primary
+through Grade 10, in four bands, every lesson built complete
+in one pass with its pictures, GIFs and video script.
+
 ## Acceptance counts — update (Band 3, 2026-11-12)
 
 Band 3 (Grades 5–8) added 7 new lessons and grew 10 more.

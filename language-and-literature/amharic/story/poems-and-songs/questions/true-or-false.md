@@ -30,3 +30,15 @@ Say if the sentence is true or false.
 
 **10. (Sub lesson 9)** A ስንኝ is a verse — it takes a full pause.
 **Answer: True** — and a ሐረግ is the part read in one breath.
+
+**11. (Sub lesson 10)** While hearing ሀገሬ ዋርካ ናት, the learners take notes.
+**Answer: True** — the poem is read by the teacher and heard with note-taking.
+
+**12. (Sub lesson 11)** A poem's theme is called ጭብጥ, and analysing poems means naming their themes.
+**Answer: True.**
+
+**13. (Sub lesson 12)** The guide says the difference between poetry's words and prose words is best seen by explaining it, never by writing.
+**Answer: False** — teachers are told to make learners write a poem, so the difference is seen in practice.
+
+**14. (Sub lesson 12)** Learners write short poems of their own in this chapter, and organise and analyse a poem's idea.
+**Answer: True.**

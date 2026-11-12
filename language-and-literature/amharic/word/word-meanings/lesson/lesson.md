@@ -120,6 +120,44 @@ This is why spelling matters, and why swapping two letters can
 kill a word: a word is not a bag of sounds. It is sounds IN
 THEIR ORDER, carrying a meaning together.
 
+## Sub lesson 5 — Two kinds of meaning: denotative and connotative
+
+The higher classes give a word's two coats their own pair of
+names.
+
+**እማሬያዊ ፍች — denotative meaning** is a word's **direct,
+dictionary meaning**. It does **not depend on the context**:
+it is what the word says, wherever the word stands.
+
+**ፍካሬያዊ ፍች — connotative meaning** is the word's **layered
+meaning**. It **does depend on the context** — on the
+linguistic context (the words around it) and on the
+non-linguistic context (the world around the words).
+
+[Picture 9054 — two kinds of meaning]
+
+The worked examples:
+
+- **መሬት** — denotative meaning: **earth / land**. That is
+  what the word says in any sentence you put it in.
+- **መብረቅ** (lightning) — denotative meaning: **flash and
+  thunder**. But its connotative meaning is **powerfully
+  shocking**: speak of a sudden event as መብረቅ and you are
+  not talking about the sky — you are saying it struck like
+  lightning.
+
+[GIF 9055 — መብረቅ: first the flash, then the shock]
+
+You have walked this ground before, in other clothes: Sub
+lesson 1's meaning-from-context and Sub lesson 3's figurative
+meaning are the same territory. The grown-up pair of names
+sorts it cleanly — the meaning that stands alone, in the
+dictionary, is denotative; the meaning that leans on context
+is connotative. The higher classes even sort a **poem's**
+words this way: one word in a poem carries its direct meaning
+and its layered meaning at the same time, and the reader's
+job is to hold the two apart.
+
 ## Say it to your companion
 
 Explain አውዳዊ ፍቺ to your companion in your own words. Then
@@ -140,3 +178,7 @@ is a word — and why.
 4. Word test at home: say three letter-strings to someone —
    two real words and one shuffled non-word like ስለጠል. Can
    they judge all three with the two tests?
+5. Take መብረቅ and one more word from this lesson. Write its
+   denotative meaning (እማሬያዊ ፍች) first; then write a
+   sentence where its connotative meaning (ፍካሬያዊ ፍች) is
+   alive, and underline the words that carry the layer.

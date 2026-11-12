@@ -22,3 +22,9 @@ Fill each blank with the right piece or word.
 
 **7. (Sub lesson 5)** Growing a family of verbs from one root is called ______.
 **Answer: ሥርወቃል.**
+
+**8. (Sub lesson 6)** ______ + ሴት + -ኦች = ከሴቶች.
+**Answer: ከ-** — the prefix, entering before the word.
+
+**9. (Sub lesson 6)** ከ- + ሴት + ______ = ከሴቶች.
+**Answer: -ኦች** — the suffix, entering after the word.

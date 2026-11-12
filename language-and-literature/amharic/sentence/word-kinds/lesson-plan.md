@@ -19,6 +19,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 9. **Pronouns and their persons — ተውላጠስም, መደብ** — words that stand in a noun's place, in three persons: 1st እኔ / እኛ; 2nd አንተ, አንቺ, እናንተ; 3rd እሱ, እሷ, እነሱ / እነርሱ.
 10. **Pointing pronouns and question pronouns** — demonstratives (ጠቋሚ): near ይህ, ይቺ, እነዚህ; far ያ, ያቺ, እነዚያ; and interrogatives (መጠይቅ ተውላጠስም): ማን, ምን, ወዴት, መቼ, እንዴት, ለምን.
 11. **Countable and uncountable nouns** — የሚቆጠሩ ስሞች, whose number can be stated (ሰው, እንስሳ, ቤት, ተማሪ, በሬ), against የማይቆጠሩ ስሞች (ስኳር, ዘይት, አሸዋ, ዉኃ, ቡና, ብርሃን, ጨለማ, ኃይል).
+12. **Personal pronouns and person, grown** — ተውላጠ ስሞች learned by staging: real learners stand as speaker, listener and topic so መደብ is grasped in action; then at least five written sentences each in 1st and 2nd person. *(Growth added in the Ethiopia Wave 1 G9–G10 build — teacher guide — evidence.)*
+13. **Adjectives, grown** — noun modifiers (ስም ገላጭ / ቅፅል) precede the noun and describe kind, size, type, origin (ረጅም ቀሚስ, አዲስ መኪና, ጎጂ ልማድ); then picking adjectives out of noun phrases in sentences, keyed: ትላልቅ, አዲስ, ጎበዝ, ወፍራም, ሰፊ, አጭሩ, ሩቅ, ትኩስ, ጥቁር, ረዥም. *(Growth — teacher guide — evidence.)*
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -35,6 +37,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 7. Give the pronouns of all three persons (መደብ) and say whose place each stands in.
 8. Choose the right pointing word for a thing near or far, and ask a question with each መጠይቅ word.
 9. Sort nouns into የሚቆጠሩ and የማይቆጠሩ and say how the test works.
+10. Stand in the speaker's, the listener's and the talked-about person's place and give each place's pronouns; write five sentences in the first person and five in the second.
+11. Name the adjective in a noun pair (ረጅም ቀሚስ, አዲስ መኪና, ጎጂ ልማድ), say what it tells (kind, size, type, origin), and pick the adjectives out of a sentence's noun phrases.
 
 ## What you need
 Paper and a pencil. Nothing else.
@@ -49,6 +53,9 @@ Paper and a pencil. Nothing else.
    - ADD GIF [GIF 8673]: a GIF of single animals scattered wide gathering into one close group, and the word መንጋ appearing over them — the student names the group word as the gathering completes.
    - ADD IMAGE [Picture 8672]: a picture of the counting chart — የሚቆጠሩ ስሞች (ሰው, እንስሳ, ቤት, ተማሪ, በሬ) beside የማይቆጠሩ ስሞች (ስኳር, ዘይት, አሸዋ, ዉኃ, ቡና, ብርሃን, ጨለማ, ኃይል) — the student tries to count each word's thing and sorts it by whether a number can be stated.
    - ADD AUDIO: a voice asking six questions, one with each መጠይቅ word — ማን, ምን, ወዴት, መቼ, እንዴት, ለምን (slot only — no audio file is made in this build) → the student says what each question asks about: person, thing, place, time, manner or reason.
+   - ADD IMAGE [Picture 9025]: a picture of the three person places — አንደኛ መደብ the speaker (እኔ · እኛ), ሁለተኛ መደብ the listener (አንተ · አንቺ · እናንተ), ሦስተኛ መደብ the one talked about (እሱ · እሷ · እነሱ) — the student stands in each place and says its pronouns.
+   - ADD IMAGE [Picture 9026]: a picture of the grown adjective set — the keyed adjectives (ትላልቅ, አዲስ, ጎበዝ, ወፍራም, ሰፊ, አጭሩ, ሩቅ, ትኩስ, ጥቁር, ረዥም) and the pairs ረጅም ቀሚስ, አዲስ መኪና, ጎጂ ልማድ — the student finds the adjective before each noun and picks adjectives out of word lists.
+   - ADD AUDIO: a voice reading first-person and second-person sentences — እኔ … / አንተ … / አንቺ … (slot only — no audio file is made in this build) → the student names the person of each sentence from the voice.
 3. **Say it to your companion** — name the six kinds in order and give one example of each (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the six kinds in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, matching, fill-in-the-blank, short-answer — served at the learner's level and teaching-mix (levels.md).
@@ -64,6 +71,9 @@ Paper and a pencil. Nothing else.
 - IMAGE [Picture 8672] — the countable/uncountable chart → the student sorts nouns by whether their number can be stated.
 - AUDIO — six questions, one per መጠይቅ word (slot only — no audio file is made in this build) → the student says what each question asks about.
 - VIDEO — the video-script filmed (made later) → the student names the kinds along with it.
+- IMAGE [Picture 9025] — the three person places chart → the student stands in each place and says its pronouns.
+- IMAGE [Picture 9026] — the grown adjectives chart → the student picks the adjective out and says what it tells about its noun.
+- AUDIO — first- and second-person sentences read aloud (slot only) → the student names each sentence's person.
 
 ## If the learner is stuck
 - Mixes noun and verb → the verb shows the action and stands at the sentence's end; the noun only names.

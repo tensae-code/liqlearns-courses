@@ -36,3 +36,22 @@ And my chart grows up with me.
 K… W… L… — for farmers, for palaces, for the lives of writers.
 
 Charts, webs, chains, games, tables, notes — tools that make reading yours.
+
+And every skill has three stages.
+Listening: **ቅድመ** — before. **በማዳመጥ ጊዜ** — during. **ድህረ** — after.
+Reading: warm up — two to five minutes. Never give the message away!
+Then read silently — your own book — ten to fifteen minutes.
+Then the longest stage: questions.
+Speaking: **መግቢያ** — begin. **ማለማመጃ** — practise.
+**ማፍለቂያ** — produce your own words.
+
+One book. Two weeks. A little every day.
+Then a test — ten marks, fifteen marks. **መጠነ ሰፊ ንባብ**.
+
+Listen well — seven ways. Decide to listen.
+Drop your agenda. Be curious. Eyes on the speaker.
+Hear the WHOLE message. Be patient. Respect a different idea.
+
+And at the end of every chapter — questions! **የክለሳ ጥያቄዎች**.
+Ask them aloud. Answer in full.
+Where the answer will not come — read there again.

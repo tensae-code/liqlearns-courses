@@ -49,3 +49,19 @@ a) መቼ  b) እንዴት  c) ለምን
 **12. (Sub lesson 11)** ዉኃ (water) is —
 a) የሚቆጠሩ — countable  b) የማይቆጠሩ — uncountable  c) a verb
 **Answer: b) የማይቆጠሩ** — with ስኳር, ዘይት, አሸዋ: no number is stated.
+
+**13. (Sub lesson 12)** In the staged lesson on person, the learner standing in the speaker's place uses —
+a) third-person words  b) first-person words: እኔ, እኛ  c) pointing words only
+**Answer: b) first-person words** — person (መደብ) is the place you stand in: speaker, listener, or the one talked about.
+
+**14. (Sub lesson 12)** The written work for personal pronouns asks for —
+a) one sentence in each person  b) at least five sentences in the first person and five in the second  c) sentences only in the third person
+**Answer: b) at least five in the first person and five in the second** — drawn from what was read.
+
+**15. (Sub lesson 13)** In the pair ረጅም ቀሚስ, the adjective (ቅጽል) is —
+a) ቀሚስ  b) ረጅም  c) neither word
+**Answer: b) ረጅም** — the modifier stands before its noun and tells its size; ቀሚስ is the noun.
+
+**16. (Sub lesson 13)** Which list is all adjectives, as the keyed answers name them?
+a) ትላልቅ, ጎበዝ, ሰፊ, ሩቅ  b) ቤት, ልጅ, መኪና, ልማድ  c) ሄደ, መጣ, ጻፈ, ሠራ
+**Answer: a) ትላልቅ, ጎበዝ, ሰፊ, ሩቅ** — big, clever, wide, far; the b list is nouns and the c list is verbs.

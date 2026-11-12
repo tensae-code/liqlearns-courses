@@ -10,3 +10,9 @@ Answer in a few words.
 
 **3. (Sub lesson 8)** Unscramble this sentence into its right order: ናቸው እነዚህ በሬዎች
 **Answer: እነዚህ በሬዎች ናቸው።** — pointer first, then the complement noun, then the being-verb.
+
+**4. (Sub lesson 10)** Name the three constituents a sentence is opened into in the grown analysis.
+**Answer: ባለቤት (subject), ተሳቢ (object — the one the action falls on), ማሰሪያ አንቀጽ (verb phrase).**
+
+**5. (Sub lesson 12)** Convert ገሰፀ to its negative, and say what happens to the verb inside the wrap.
+**Answer: አልገሰፁም** — አል- stands before and -ም after, and the verb's own shape changes inside the wrap (ገሰፀ → ገሰፁ), exactly as the keyed pair gives it.

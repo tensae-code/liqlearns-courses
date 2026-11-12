@@ -35,3 +35,12 @@ Sounds, in order, with a meaning.
 
 A word is sounds in order, carrying a meaning.
 Now you know what a word means — and what a word is.
+
+And the higher classes name the two coats.
+**እማሬያዊ ፍች** — the direct meaning. The dictionary meaning.
+**መሬት** — earth, land. In every sentence, the same.
+**ፍካሬያዊ ፍች** — the layered meaning. It leans on the context.
+**መብረቅ** — lightning. Flash and thunder — that is the direct one.
+But call an event መብረቅ… and it is powerfully shocking.
+That is the layer.
+Two coats. One word. Now you can sort them.

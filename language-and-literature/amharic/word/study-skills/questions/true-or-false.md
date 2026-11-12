@@ -19,3 +19,15 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 7)** A pre-reading chart with only "what I know / what I want to know" is the K and W of the same KWL chart.
 **Answer: True** — the two columns are the chart's first two columns, filled before reading.
+
+**7. (Sub lesson 8)** The pre-reading stage should tell learners the text's message in advance, so the reading is easier.
+**Answer: False** — the message is never revealed in advance; pre-reading is a 2–5 minute warm-up (a question, joke, story, poem or mini-drama) only.
+
+**8. (Sub lesson 9)** In extensive reading, readers and non-readers finish with the same marks.
+**Answer: False** — the book test is worth 10 or 15 marks, counted like a monthly or semester test: readers gain the marks, non-readers lose them.
+
+**9. (Sub lesson 10)** A good listener answers quickly, before the speaker finishes, to keep the talk moving.
+**Answer: False** — strategy 5: hear the whole message before answering; never interrupt. Strategy 6 adds patience while a speaker finds words.
+
+**10. (Sub lesson 11)** Revision questions are asked only once, at the end of the school year.
+**Answer: False** — they close every chapter (የክለሳ ጥያቄዎች), before moving on to the next one.

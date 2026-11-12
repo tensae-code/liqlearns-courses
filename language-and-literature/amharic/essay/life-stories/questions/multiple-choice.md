@@ -21,3 +21,19 @@ a) a given table (ሰንጠረዥ)  b) a dream  c) the last chapter of a novel
 **5. (Sub lesson 5)** In Dr Catherine Hamlin's hospitals, women suffering fistula are —
 a) treated for a high fee  b) treated free, and recover  c) only given advice
 **Answer: b) treated free, and recover.**
+
+**6. (Sub lesson 6)** The listening of Sub lesson 6 is titled ፈተናን ወደ መልካም ዕድል መለወጥ. Its title means —
+a) "Running From a Trial"  b) "Turning a Trial into Good Fortune"  c) "The Trial of the Judges"
+**Answer: b) "Turning a Trial into Good Fortune"** — the listening gives detailed information about a disabled woman of history and her strength.
+
+**7. (Sub lesson 6)** Where does the guide name the source of the Yetnebersh Nigussie listening?
+a) On its cover  b) In its reference list, which cites two web biographies of her  c) In the student's own book
+**Answer: b)** — the reference list (printed p.92) cites two web biographies of Yetnebersh Nigussie, accessed Tahsas 25, 2014 E.C.
+
+**8. (Sub lesson 7)** How is Dr Haddis Alemayehu's life presented in Sub lesson 7?
+a) In a printed table  b) Played from a recording, twice  c) As a timeline of his works
+**Answer: b)** — the table is Sub lesson 4's Grade 7 way, and the timeline is the student book's; this Grade 10 way is a recording.
+
+**9. (Sub lesson 7)** What is taken from the SECOND playing of the recorded biography?
+a) The main information  b) The detailed information  c) The marks for the lesson
+**Answer: b) The detailed information** — the first playing gives the life in outline: its main information.

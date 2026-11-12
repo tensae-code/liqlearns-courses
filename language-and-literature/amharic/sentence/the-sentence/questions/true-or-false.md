@@ -19,3 +19,12 @@ Say true or false.
 
 **6. (Sub lesson 9)** ልጁ ከትምህርትቤት መጣ። is a complex sentence because its verb is bound.
 **Answer: False** — it is ነጠላ, simple: one clause unit, one verb, a complete sense. (ሲመጣ would be bound; plain መጣ is not.)
+
+**7. (Sub lesson 10)** In the analysis table, ታላቁ የህዳሴ ግድብ is the ባለቤት of its sentence, and የኤሌክትሪክ ሀይል ማመንጨት ጀመረ is its ማሰሪያ አንቀጽ.
+**Answer: True** — the Grand Renaissance Dam is what the sentence is about; "began generating electricity" is its verb phrase.
+
+**8. (Sub lesson 11)** A bound morpheme (ጥገኛ ምዕላድ) like -ኣቸው can stand alone as a word by itself.
+**Answer: False** — bound morphemes cannot stand alone; they must lean on a free morpheme, as -ኣቸው leans in ላም + ኦች + ኣቸው.
+
+**9. (Sub lesson 12)** Every negative sentence is made by wrapping a verb in አል- … -ም.
+**Answer: False** — a being sentence negates with አይደለም (is not) and a having sentence with የላቸውም (they do not have); the wrap is for action verbs.

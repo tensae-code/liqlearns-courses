@@ -36,3 +36,21 @@ Answer in a short sentence, from the story you heard.
 
 **12. (Sub lesson 12)** Name the three cultural dresses the guide's listening tells apart.
 **Answer:** The ሽብሽባ ቀሚስ, the ጉርድ ቀሚስ and the ጉንፋ ቀሚስ.
+
+**13. (Sub lesson 13)** Say the five steps of a traditional mediation, in order.
+**Answer:** (1) Preliminary inquiry — finding out what happened; (2) obtaining the two sides' consent to reconcile; (3) choosing mediators for both sides; (4) choosing the mediation judge; (5) conducting the mediation. The parties then swear an oath confirming the decision.
+
+**14. (Sub lesson 14)** From the assistive-devices table: which device does a blind walker feel ahead on the ground, and which device writes the Braille dots?
+**Answer:** The white cane — ኬን — is felt ahead on the ground; the stylus — ስታይለስ — writes the dots on Braille paper.
+
+**15. (Sub lesson 15)** Name malaria's two parasites, and say which is the dangerous one.
+**Answer:** Plasmodium falciparum — the dangerous one — and P. vivax, which hides in the body and relapses. The female Anopheles mosquito carries them.
+
+**16. (Sub lesson 16)** In the Abdisa Aga listening, what two kinds of work do the learners do with the biography after hearing it?
+**Answer:** They extract detailed information from it in order; and they work its exercises — defining words from the text and building sentences with them, and matching causes to their effects.
+
+**17. (Sub lesson 17)** List the first three of the seven strategies of effective listening.
+**Answer:** (1) Decide to listen — listening is a choice; (2) drop your own agenda and prejudice; (3) be curious about how others see the world, and ask open questions.
+
+**18. (Sub lesson 18)** From the drug-consequences listening: name two costs of drug use that the guide keys.
+**Answer:** Any two of: the health-care costs of users; the productivity (work) users lose; and, when use spreads, crime and pressure on safety and order.

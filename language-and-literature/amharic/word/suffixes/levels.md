@@ -16,3 +16,6 @@ Pass mark: build ኢትዮጵያዊ (-አዊ), ድንጋይአማ / እሸዋማ
 
 ## Sub lesson 5 — Verb families from one root — ሥርወቃል
 Pass mark: grow the ሰፋ family (አሰፋ, ተሰፋ, ተስፋፋ, አስፋፋ) and the ቆረጠ family (ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ), and find the root standing inside a grown form.
+
+## Sub lesson 6 — Prefixes: the pieces that enter before
+Pass mark: sort the keyed pieces by where they enter — ኢ- and መ- are prefixes (ቅድመ ገብ), -አዊ, -ነት and -ኦሽ are suffixes (ድህረ ገብ) — and build and peel a two-ended word (ከ- + ሴት + -ኦች → ከሴቶች). This sub lesson stands on teacher-guide evidence only.

@@ -37,3 +37,18 @@ Sub lesson 10 questions from the type files. Pass mark: state one argue-passage'
 
 ## Sub lesson 11 — Explain the world — causes in prose
 Sub lesson 11 questions from the type files. Pass mark: carry the forest's three numbers in order and name its cause; name the three causes of child labour exploitation as the passage orders them.
+
+## Sub lesson 12 — Work culture — the Awramba reading (teacher guide — evidence)
+Sub lesson 12 questions from the type files. Pass mark: answer the pre-reading questions, read silently, and give the Awramba passage's main idea in one sentence.
+
+## Sub lesson 13 — Unity in diversity — two readings (teacher guide — evidence)
+Sub lesson 13 questions from the type files. Pass mark: say what Tebechisa is a case study of, and name Nature's Twin Faces' themes — unity and diversity held together.
+
+## Sub lesson 14 — Hospitality and the reckoning of time (teacher guide — evidence)
+Sub lesson 14 questions from the type files. Pass mark: state the hospitality gist (ጭምቅ ሀሳብ) and write its summary; explain ዓውድ, the Bahre Hasab scholars and their models; and sort the medicine reading's general from its detailed information.
+
+## Sub lesson 15 — Inclusive education — two readings (teacher guide — evidence)
+Sub lesson 15 questions from the type files. Pass mark: name the three challenges Tsehay's reading names, the two exam accesses, and both growing sequences in order; and list the perseverance passage's detailed information.
+
+## Sub lesson 16 — Migration — the reading (teacher guide — evidence)
+Sub lesson 16 questions from the type files. Pass mark: explain what was grasped in your own words and write the migration passage's themes, with the passage closed.

@@ -2,7 +2,7 @@
 
 **Course:** Amharic · **Title:** Word · **Lesson:** Study Skills
 **Place in the curriculum:** Unit 3 — Word (CURRICULUM.md).
-**The one thing this lesson teaches:** the study tools Ethiopia's books teach inside the language lessons: the KWL chart (what I know / want to know / learned), concept webs (ቢጋር), cause-and-effect webs — and the fidel crossword, the books' own word game; and, as the books grow, reading data tables, note-taking while listening, and the KWL chart at higher-book size.
+**The one thing this lesson teaches:** the study tools Ethiopia's books teach inside the language lessons: the KWL chart (what I know / want to know / learned), concept webs (ቢጋር), cause-and-effect webs — and the fidel crossword, the books' own word game; and, as the books grow, reading data tables, note-taking while listening, and the KWL chart at higher-book size — and, at the top, the federal guides' method placements: the three stages of listening, reading and speaking, the extensive-reading system, the seven listening strategies, and the chapters' closing revision questions.
 **This lesson's own level:** it stands on the Word and Fidel units — the learner knows words and the fidel well enough to organise them; these tools organise READING itself, and every later unit uses them.
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -29,6 +29,10 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 5. **Reading data tables** — questions answered from the cells: the headache table (painkiller use 2006–2011 E.C. by place, age and sex, with a comparison paragraph from the 2006 figures) and the improved-teff table (nine varieties; Kora's rainfall, Negus's days, the highest yielder).
 6. **Note-taking while listening** — prepare notebook and pen before the listening; note main points only, at word, phrase and sentence level.
 7. **KWL grows up** — the same chart opening higher readings: the farmer essay, Fasilides' palace, a biography — and a two-column K-and-W form (teacher guide — evidence).
+8. **Three stages: listening, reading, speaking** (teacher guide — evidence) — listening: ቅድመ / በማዳመጥ ጊዜ / ድህረ; reading: 2–5 minutes' warm-up (never reveal the message), 10–15 minutes' silent reading with one's own book, then the longest post stage; speaking: መግቢያ (introduction), ማለማመጃ (practice — six strategies), ማፍለቂያ (production).
+9. **Extensive reading: one book, two weeks, a real test** (teacher guide — evidence) — መጠነ ሰፊ ንባብ: one short-fiction book read as homework over two weeks or more (time adjusted to learners' background and the book's reachability), then a test on its content worth 10 or 15 marks, counted like a monthly or semester test.
+10. **Seven ways to listen well** (teacher guide — evidence) — ውጤታማ የማዳመጥ ብልሃቶች: decide to listen; drop agenda and prejudice; be curious, ask open questions; eye contact and visual cues; hear the whole message, never interrupt; be patient; respect a differing idea.
+11. **Revision questions: the closing check** (teacher guide — evidence) — የክለሳ ጥያቄዎች: every chapter ends with oral revision questions before moving on — run as a self-check study method.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -45,6 +49,10 @@ the gate pool.
 5. Answer data-table questions from the cells: find the named row and the asked column (teff: Kora 500–800 mm, Negus 105 days, Dukem 24–34 q/ha on station).
 6. Take listening notes at word, phrase and sentence level, notebook and pen prepared before the voice starts.
 7. Run KWL on a higher-book reading and write W questions the text must work to answer.
+8. Name the three stages of listening, of reading and of speaking, and what the learner's job is in each — including the reading times (2–5 minutes before; 10–15 during; the longest stage after).
+9. Run the extensive-reading system on yourself: one short-fiction book, two weeks, a self-set content test.
+10. Use the seven listening strategies as a checklist in a real conversation and report which held.
+11. Close any finished work with oral revision questions before moving on, and re-read only where an answer would not come.
 
 ## What you need
 Paper and a pencil. A reading text to work on.
@@ -62,6 +70,11 @@ Paper and a pencil. A reading text to work on.
    - ADD IMAGE [Picture 8862]: a picture of note-taking's three levels — WORD, PHRASE, SENTENCE — the student says which level a given note belongs to.
    - ADD AUDIO: a voice reading a text's title and first line — the student says their K and W before the reading continues.
    - ADD AUDIO: a voice reading a short listening text once — the student takes notes at the three levels and states the main points from the notes only.
+   - ADD IMAGE [Picture 9058]: a picture of the three-stages chart — listening, reading and speaking columns, each with its before/during/after (ቅድመ / በ… ጊዜ / ድህረ; መግቢያ / ማለማመጃ / ማፍለቂያ) rows — the student names the stage they are in and its job.
+   - ADD IMAGE [Picture 9059]: a picture of the extensive-reading system — one short-fiction book, a 14-day calendar all ticked, and a test paper marked 10–15 — the student says the three parts of the system in order.
+   - ADD GIF [GIF 9060]: a GIF of the extensive-reading calendar filling day by day beside the one book, ending with the test banner — the student says what happens when the calendar is full.
+   - ADD IMAGE [Picture 9061]: a picture of the seven listening strategies as a numbered list — the student covers the list and recalls as many of the seven as they can.
+   - ADD AUDIO: a voice asking five revision questions about the lesson aloud, one at a time — the student answers each in full speech before the next is asked (described slot only — no audio file is made in this build).
 3. **Say it to your companion** — show your web and your chain; your companion must add one true branch or link (lesson/lesson.md).
 4. **Questions** — from questions/: multiple-choice, short-answer, true-or-false, matching, writing — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
@@ -78,6 +91,11 @@ Paper and a pencil. A reading text to work on.
 - IMAGE [Picture 8862] — note-taking's three levels → the student sorts notes by level.
 - AUDIO — a title and first line read aloud → the student states K and W before the reading goes on.
 - AUDIO — a listening text read once → the student notes main points at the three levels.
+- IMAGE [Picture 9058] — the three-stages chart for listening, reading, speaking → the student names the current stage and its job.
+- IMAGE [Picture 9059] — extensive reading: book, 14 days, 10–15-mark test → the student states the system in order.
+- GIF [GIF 9060] — the two-week calendar filling day by day → the student says what the full calendar earns.
+- IMAGE [Picture 9061] — the seven listening strategies → the student recalls the seven with the list covered.
+- AUDIO — five revision questions asked aloud (described slot only) → the student answers each in full speech.
 - VIDEO — the video-script filmed (made later) → the student fills the chart along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
@@ -91,6 +109,9 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - A table answer comes from memory or guessing → send it back to the cells: name the row aloud, name the column aloud, then read the crossing cell. If it is not in a cell, it is not the answer.
 - The notes try to hold every word → shrink them: cross the notes down to main points, then sort what is left into word, phrase and sentence level.
 - The grown-up KWL's W column is thin → W questions should be questions the text must WORK to answer (how many steps? why did he…?); easy questions fill L without teaching anything.
+- "Reading" becomes listening to one strong reader → in the during-reading stage every learner reads silently with their own book; a class that has only listened has not read, and reading skill falls.
+- The extensive-reading book is left to the last two days → pace it: a little every day across the two weeks; the test asks about the book's content, so steady reading is the whole strategy.
+- The revision questions find no holes → the questions were too easy: ask from the work's own headings, aloud, in full sentences — an answer that will not come is the map of what to re-read.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

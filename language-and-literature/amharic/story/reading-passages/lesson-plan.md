@@ -33,6 +33,11 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 9. **Lives in prose — biography readings** — nine lives read for their facts in order: Shileshi Demissie, Wangari Maathai, Tirunesh Dibaba, Woldemeskel Kostre, Sahle-Work Zewde, Berhanu Zerihun, Emahoy Tsegue-Maryam, Afewerk Tekle and Empress Taytu Betul.
 10. **Argue and advise — passages that take a side** — Let's Not Be a Rubbish Dump and its five counsels; "Littering Is Forbidden!" and hate speech as rubbish; Social Media's true-and-useful rule; and Let Hate Stop.
 11. **Explain the world — causes in prose** — the Wof Washa forest's shrinking numbers; climate change explained; the three causes of child labour exploitation; and the Palermo definition of trafficking.
+12. **Work culture — the Awramba reading** (teacher guide — evidence) — a community known for its strong work culture, read from pre-reading questions to its one-sentence main idea.
+13. **Unity in diversity — two readings** (teacher guide — evidence) — Tebechisa, one people's practice as the diversity case study; and Nature's Twin Faces, unity and diversity as themes that belong together.
+14. **Hospitality and the reckoning of time** (teacher guide — evidence) — Ethiopian Hospitality (gist, summary, comparison with your own experience); the Bahre Hasab reckoning of time (ዓውድ, the scholars, the stars); and the traditional-medicine reading (what it is, its preparation process, its focus).
+15. **Inclusive education — two readings** (teacher guide — evidence) — Tsehay and Her Challenges (attitude change, Braille and tape-recording at exams, the named challenges, the two growing sequences); and A Symbol of Perseverance, read for its detailed information.
+16. **Migration — the reading** (teacher guide — evidence) — explain what was grasped, and write the passage's themes.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -58,6 +63,11 @@ the gate pool.
 12. Retell one biography reading by its dates and deeds, in order.
 13. State an argue-passage's side fairly, and the strongest point against it.
 14. Carry the Wof Washa numbers in order — 92,200; 8,290; 8,222 hectares — and name the cause.
+15. Give the Awramba reading's main idea in one sentence.
+16. Say how unity and diversity belong together, from Nature's Twin Faces, and what Tebechisa is a case study of.
+17. State the hospitality reading's gist (ጭምቅ ሀሳብ), and explain ዓውድ and who the Bahre Hasab scholars were.
+18. Name Tsehay's three challenges to inclusive education, and say both growing sequences in order.
+19. Explain the migration reading's grasped content and write its themes, with the passage closed.
 
 ## What you need
 The lesson page. Paper and a pencil. For the Do It Yourself procedure: a bowl, and salad things or a drum-like pot at home.
@@ -108,6 +118,21 @@ The lesson page. Paper and a pencil. For the Do It Yourself procedure: a bowl, a
    - ADD GIF [GIF 8626]: planting a seedling in four stages
      — dig, place, cover, water — the student names each
      stage as it comes.
+   - ADD IMAGE [Picture 8954]: a picture of a village at
+     work — a weaver at a loom, a farmer with a hoe, a child
+     helping, a woman with a basket — the student says what
+     holds this village together before the Awramba reading.
+   - ADD IMAGE [Picture 8953]: a picture of a manuscript
+     page titled ባሕረ ሐሳብ, its star-points joined by lines —
+     the student says what the joined points might be
+     counting before the reckoning-of-time reading.
+   - ADD GIF [GIF 8998]: twelve star-points circling a still
+     golden centre, round and round without stopping — the
+     student says why a cycle is the right picture for ዓውድ.
+   - ADD AUDIO for the new readings: the Awramba, Tebechisa,
+     hospitality, reckoning-of-time, Tsehay, perseverance
+     and migration passages read aloud — the student listens
+     first, then reads themselves (described slots only).
    - ADD AUDIO for every passage: the passage read aloud at
      child pace — the student listens first, then reads it
      themselves.
@@ -138,6 +163,10 @@ The lesson page. Paper and a pencil. For the Do It Yourself procedure: a bowl, a
 - IMAGE [Picture 8624] — a garbage word bouncing off a shield → the student says what is refused.
 - IMAGE [Picture 8625] — the forest's shrinking figures as bars → the student says what happened to the forest.
 - GIF [GIF 8626] — planting a seedling: dig, place, cover, water → the student names each stage.
+- IMAGE [Picture 8954] — the Awramba village at work → the student says what holds the village together.
+- IMAGE [Picture 8953] — the Bahre Hasab manuscript page → the student says what the joined star-points count.
+- GIF [GIF 8998] — the ዓውድ cycle: star-points circling a still centre → the student says why time is drawn as a circle.
+- AUDIO — the Grade 9–10 guide readings read aloud (described slots only) → the student hears first, then reads.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
 plan is the build sheet, so nothing the lesson needs gets forgotten.
@@ -158,3 +187,5 @@ reading texts, each labelled. A teacher sending this lesson sends
 the lesson and its question list as they are — choosing, not
 remaking.
 **Growth note (2026-11-12):** sub lessons 6–11 grow this lesson with the older grades' passages — descriptive, table, research-style, biography, argue and explain passages, all pupil-taught from the Grade 5–8 student books. The biography sub lesson meets each life as reading only; the writing method for lives belongs to the Writing lessons, and the sub lesson says so in one line. The first five sub lessons are unchanged.
+
+**Growth note (2026-11-12, Band 4):** sub lessons 12–16 grow this lesson with the Grade 9–10 federal guides' reading chapters — work culture (Awramba), unity in diversity, hospitality, cultural performances (the Bahre Hasab reckoning of time, and the traditional-medicine reading), inclusive education and migration. There are no Grade 9–10 student books in the records, so every part of sub lessons 12–16 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Passages are summaries, never transcribed. The first eleven sub lessons are unchanged.

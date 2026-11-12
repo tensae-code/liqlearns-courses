@@ -34,6 +34,12 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 10. **Mountains, a writer, hard lives** — the wonderful mountains and the walia ibex; Haddis Alemayehu's life laid on a timeline; children made to beg; and two guide stories — school friends divided, and a life told by its owner.
 11. **Advice, a bird, and lives to learn from** — Molalign and the expert's cause-and-effect counsel; the wane bird and the herdsman; and three guide listenings: Man Is for Work, Dr Catherine Hamlin, and a short story's opening question.
 12. **Stories the guides keep whole** — the folktale of the four kings and the boys lost hunting; environmental cleanliness; the Dawro New Year; Saada's taxi and the crossing pledge; the three cultural dresses; and the city farmers of Addis Ababa.
+13. **Traditional mediation — the Afar law and the five steps** (teacher guide — evidence) — the Afar law መድዓ with its ideas ድግ and አድሊ and its levels; and mediation's principles and five steps, ending in the parties' oath.
+14. **A captain, and tools that let every learner take part** (teacher guide — evidence) — the first Ethiopian woman captain and her 4,475 flying hours; women's participation in education up to 2015; and the assistive-devices table — device, who uses it, what it does.
+15. **A satellite, a sickness, and the dry land** (teacher guide — evidence) — ETRSS-1 (70 kg, Entoto) and its five services; malaria's two parasites, its carrier, its counted figures and its prevention; and the talk against desertification.
+16. **Tax, and a patriot** (teacher guide — evidence) — tax as willingness and duty, not obligation only; and the patriot biography of Colonel Abdisa Aga, heard for its details and its cause-and-effect pairs.
+17. **Listening well — the seven strategies** (teacher guide — evidence) — decide to listen; drop agenda and prejudice; be curious; keep eye contact; hear the whole message; be patient; respect a differing idea.
+18. **Hard roads — addiction and migration** (teacher guide — evidence) — the consequences of narcotic drugs (health-care costs, lost work, pressure on safety); and migration and its suffering, noted while listening.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -64,6 +70,12 @@ the gate pool.
 16. Build a timeline of a writer's works by period while listening.
 17. Fill a cause-and-effect organiser from The Expert's Advice.
 18. Stop mid-tale at the folktale's prediction point, guess, and say why.
+19. Name the Afar law (መድዓ), its two holding ideas (ድግ, አድሊ), and say mediation's five steps in order.
+20. Say the first woman captain's keyed career number — 4,475 flying hours — and work the assistive-devices table: device, who uses it, what it does.
+21. Name ETRSS-1's five services, malaria's two parasites and carrier, and the four preventions.
+22. State the tax text's argument in one sentence, and retell Colonel Abdisa Aga's biography in order.
+23. List the seven strategies of effective listening and say what one of them changed in your own hearing.
+24. Say the drug text's costs in order — body, purse, town — and give one main and one detailed point from the migration account.
 
 ## What you need
 Ears and a quiet corner. Paper and a pencil for the Do It Yourself retelling notes. The pictures above.
@@ -130,6 +142,31 @@ Ears and a quiet corner. Paper and a pencil for the Do It Yourself retelling not
    - ADD IMAGE [Picture 8608]: a picture of a hospital ward
      with a red cross, beds and a nurse — the student says
      whose work this ward might be before the biography.
+   - ADD IMAGE [Picture 8950]: a picture of three elders
+     seated on a mat under a tree, one party standing to the
+     left and one to the right — the student says who sits
+     between the two sides, and why, before the mediation
+     listening.
+   - ADD GIF [GIF 8997]: the five steps of mediation lighting
+     in order — inquiry, consent, mediators chosen, judge
+     chosen, the mediation held — while the two parties draw
+     closer step by step — the student names each step as it
+     lights.
+   - ADD IMAGE [Picture 8952]: a picture board of the
+     assistive devices, each labelled — ብሬል, ኬን, ስታይለስ,
+     ተሸከርካሪ ወንበር, ክራንች, የእይታ መነፅር, ማዳመጫ መሳሪያ and the
+     Braille paper — the student matches each device to who
+     uses it before the table is heard.
+   - ADD IMAGE [Picture 8951]: a picture of a satellite with
+     wide solar panels above a green land outline, signal
+     dots falling to a dish on a hill — the student says
+     where the signals land before the satellite listening.
+   - ADD AUDIO for the new listenings: the Afar law account,
+     the captain's biography, the satellite and malaria
+     texts, the tax argument, Colonel Abdisa Aga's biography,
+     the drug-consequences text and the migration account,
+     each read aloud — the student listens, notes, and
+     retells after it (described slots only).
    - ADD AUDIO for every story: the story read aloud at child
      pace, with a pause at the prediction question — the student
      listens, guesses at the pause, and retells after it.
@@ -165,6 +202,11 @@ Ears and a quiet corner. Paper and a pencil for the Do It Yourself retelling not
 - IMAGE [Picture 8605] — two boys lost in the deep forest → the student guesses where the folktale's boys are.
 - IMAGE [Picture 8607] — the New Year feast platter → the student says whose feast it might be.
 - IMAGE [Picture 8608] — the hospital ward → the student says whose work the ward might be.
+- IMAGE [Picture 8950] — elders seated between two parties under a tree → the student says who sits in the middle, and why.
+- GIF [GIF 8997] — mediation's five steps lighting in order as the two sides draw closer → the student names each step as it lights.
+- IMAGE [Picture 8952] — the assistive-devices board, labelled → the student matches device to user.
+- IMAGE [Picture 8951] — ETRSS-1 and its signals reaching the hilltop dish → the student says where the signals land.
+- AUDIO — the Grade 9–10 guide listenings read aloud (described slots only) → the student listens, notes, retells.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
 plan is the build sheet, so nothing the lesson needs gets forgotten.
@@ -188,3 +230,5 @@ titles, pictures and questions — and sources.md says so on its
 acceptance line. A teacher sending this lesson sends the lesson and
 its question list as they are — choosing, not remaking.
 **Growth note (2026-11-12):** sub lessons 7–12 grow this lesson with the older grades' listening. Sub lessons 7–11 stand on the student books' own listening lessons — heard texts, descriptions, biographies and debates the pupils themselves are set to hear — with three guide biographies and stories among them labelled (teacher guide — evidence) in the lesson and in sources.md. Sub lesson 12 stands on teacher-guide evidence wholly, and says so. The first six sub lessons are unchanged.
+
+**Growth note (2026-11-12, Band 4):** sub lessons 13–18 grow this lesson with the Grade 9–10 federal guides' listening chapters — traditional mediation, gender, science and technology, epidemics, inclusiveness, environment, tax and patriotism from the Grade 9 guide, and life-skills listening, addiction and migration from the Grade 10 guide. There are no Grade 9–10 student books in the records, so every part of sub lessons 13–18 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Texts are summaries, never transcribed. The first twelve sub lessons are unchanged.

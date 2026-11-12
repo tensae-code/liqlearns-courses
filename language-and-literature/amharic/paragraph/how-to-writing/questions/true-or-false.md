@@ -7,3 +7,6 @@ Say whether each sentence is true or false.
 
 **2. (Sub lesson 2)** The outline comes after the full writing, as a summary of it.
 **Answer: False** — the outline (ዝርዝር) is drafted BEFORE composing; the writing grows from it.
+
+**3. (Sub lesson 3)** The five steps of mediation could be written in any order and the process would still work.
+**Answer: False** — each step prepares the next: consent stands before the sitting, and the judge is chosen before the mediation is held.

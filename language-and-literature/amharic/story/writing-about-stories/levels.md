@@ -23,3 +23,12 @@ Sub lesson 5 questions from the type files. Pass mark: define the five literary 
 
 ## Sub lesson 6 — Short fiction: what makes a short story
 Sub lesson 6 questions from the type files. Pass mark: state what short fiction (አጭር ልቦለድ) is, list its components, list a short fiction's characters with their roles, and summarise a short fiction in at most one page with transitional words joining the parts (the chapter's aims rest on teacher-guide evidence).
+
+## Sub lesson 7 — Fiction itself: what ልቦለድ is (teacher guide — evidence)
+Sub lesson 7 questions from the type files. Pass mark: define fiction in the guides' wording — a creative work from the author's own mind/heart, not cut off from truth — and say how its characters and its made world carry that truth.
+
+## Sub lesson 8 — Short fiction and long fiction (teacher guide — evidence)
+Sub lesson 8 questions from the type files. Pass mark: set the two sizes side by side by the five marks — narrative lines, characters, setting, plots, conflicts — and prove one known fiction's size from them; write a short text on the single-line pattern.
+
+## Sub lesson 9 — Fiction met whole: heard, read, and one whole book (teacher guide — evidence)
+Sub lesson 9 questions from the type files. Pass mark: run Enatitu's full stretch in order — predict, timed silent reading, answers in a group table, report; name ሰመመን and ሸክም and their kinds of work; and state the extensive-reading system whole — one book, two weeks or more, a test of 10 or 15 marks.

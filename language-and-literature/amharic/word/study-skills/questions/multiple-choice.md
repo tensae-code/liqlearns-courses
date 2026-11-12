@@ -37,3 +37,19 @@ a) every word that was said  b) main points only, at word, phrase and sentence l
 **9. (Sub lesson 7)** The higher books use the KWL chart to open —
 a) only the civet reading  b) bigger readings too — the farmer essay, Fasilides' palace, a biography  c) no readings after Grade 4
 **Answer: b) bigger readings too — the farmer essay, Fasilides' palace, a biography.**
+
+**10. (Sub lesson 8)** In the three stages of reading, the during-reading stage is —
+a) the teacher reading the text aloud to the class  b) silent reading, each learner with their own book, for 10–15 minutes  c) questions and correction
+**Answer: b)** — if one voice reads aloud, the class has listened, not read; questions and correction belong to the post stage.
+
+**11. (Sub lesson 9)** In extensive reading (መጠነ ሰፊ ንባብ), the test on the book's content is worth —
+a) 2 marks  b) 10 or 15 marks  c) no marks at all
+**Answer: b) 10 or 15 marks** — counted like a monthly or semester test: readers gain them, non-readers lose them.
+
+**12. (Sub lesson 10)** Which one IS one of the seven strategies of effective listening?
+a) answer before the speaker finishes, to save time  b) avoid eye contact  c) hear the whole message before answering
+**Answer: c)** — never interrupt; the whole message first.
+
+**13. (Sub lesson 11)** In the higher classes, every chapter ends with —
+a) oral revision questions (የክለሳ ጥያቄዎች)  b) a song  c) the next chapter's first page
+**Answer: a)** — the closing check, worked through before anyone moves on.

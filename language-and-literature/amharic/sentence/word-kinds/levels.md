@@ -34,3 +34,9 @@ Pass mark: choose ይህ / ይቺ / እነዚህ for near and ያ / ያቺ / እ
 
 ## Sub lesson 11 — Countable and uncountable nouns
 Pass mark: sort ሰው, እንስሳ, ቤት, ተማሪ, በሬ (የሚቆጠሩ) against ስኳር, ዘይት, አሸዋ, ዉኃ, ቡና, ብርሃን, ጨለማ, ኃይል (የማይቆጠሩ), using the number-stating test.
+
+## Sub lesson 12 — Personal pronouns and person, grown (teacher guide — evidence)
+Pass mark: name the place each pronoun stands in — speaker (1st: እኔ / እኛ), listener (2nd: አንተ, አንቺ, እናንተ), talked-about (3rd: እሱ, እሷ, እነሱ) — and write at least five sentences in the first person and five in the second.
+
+## Sub lesson 13 — Adjectives, grown (teacher guide — evidence)
+Pass mark: find the modifier standing before its noun in ረጅም ቀሚስ / አዲስ መኪና / ጎጂ ልማድ, say whether it tells kind, size, type or origin, and pick the keyed adjectives (ትላልቅ, አዲስ, ጎበዝ, ወፍራም, ሰፊ, አጭሩ, ሩቅ, ትኩስ, ጥቁር, ረዥም) out of sentences.

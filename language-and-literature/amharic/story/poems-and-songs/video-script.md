@@ -46,3 +46,19 @@ that is the ቤት, the rhyme.
 
 Chant this week. Clap the breaths even.
 That even time is ምጣኔ — the poem's own heartbeat.
+
+---
+
+Now — what is a poem?
+
+Not a long explaining. No.
+A poem is a WIDE idea… in FEW words.
+Deep — and squeezed tight. እጥር ምጥን.
+
+My country is a warka tree.
+One tree. Shade for everyone.
+Hear how much one picture can hold.
+
+Now write yours. Its name is ready:
+**የመማሪያ ክፍላችን** — Our Classroom.
+Short. Deep. Yours. Then stand — and read it aloud.

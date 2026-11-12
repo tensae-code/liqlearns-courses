@@ -73,6 +73,43 @@ Plan first, and the writing has a spine. Skip the plan, and the
 steps arrive in the order you happen to remember them — which
 Sub lesson 1 has already shown you is not good enough.
 
+## Sub lesson 3 — A real process in five steps: traditional mediation
+
+A process text can carry a whole piece of real life. Here is
+one the higher classes work with: **ባህላዊ ሽምግልና** —
+traditional mediation, the settling of a dispute by elders.
+It has its own aim, and its principles: **equality, fairness,
+balance, truthfulness, humanity**. And it runs as a process
+in **five steps**:
+
+[Picture 9052 — traditional mediation: a process in five steps]
+
+1. **Ask first** — the preliminary inquiry: find out what
+   happened, and what each side says.
+2. **Get consent** — both sides agree to reconcile; nobody is
+   mediated against their will.
+3. **Choose mediators for both sides** — each side has its
+   own mediators.
+4. **Choose the mediation judge** — the one who will hold
+   the sitting.
+5. **Hold the mediation** — the sitting itself, where the
+   matter is heard and settled. The parties swear an oath
+   confirming the decision to reconcile.
+
+[GIF 9053 — the five steps appearing in order]
+
+Now test it with Sub lesson 1's rule: could the steps change
+places? Consent cannot come after the sitting — nobody may
+be reconciled against their will. The judge cannot be chosen
+after the mediation is held. Each step prepares the next;
+that is what makes this a **process**, and that is why it is
+written as numbered steps and not as a story about elders.
+
+Write yours the same way: take a real process you know —
+settling, building, harvesting, cooking — and ask of each
+step the process question: what must happen FIRST, so the
+rest can happen at all?
+
 ## Say it to your companion
 
 Choose a doing you know well. Tell it to your companion as a
@@ -86,3 +123,4 @@ Then swap.
 2. Make an outline (ዝርዝር) for "how coffee is brewed" (የቡና አፈላል): topic line, then the steps in short lines.
 3. Write the full how-to from your outline. Check it against the outline, line by line.
 4. Write the steps of preparing one food or craft in your home, in sequence, and number them.
+5. Write the five steps of traditional mediation (ባህላዊ ሽምግልና) from memory, numbered. Then write one real process from your own home or work in five numbered steps — and check: does each step prepare the next?

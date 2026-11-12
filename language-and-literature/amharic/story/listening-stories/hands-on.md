@@ -26,6 +26,25 @@ else in your house, and do it yourself — the siblings' story and
 the housework story both say work is shared by ability. Tell
 your companion which job you took.
 
+## Act a mediation
+In a group, take a small quarrel — a borrowed pen, a place in
+line. Run it through the five steps: one asks what happened,
+both sides agree to reconcile, mediators are chosen for both
+sides, a judge is chosen, and the mediation is held. End with
+the agreement said aloud by both sides.
+
+## Sleep safe under a net
+At home, look at a mosquito net if your house has one: is it
+whole, with no holes? Practise tucking it in over the bed on
+every side, the malaria listening's way. Find one place of
+standing water near home and say who could clear it.
+
+## Seven strategies in one talk
+Hold a five-minute talk with a partner. Before it starts,
+pick two of the seven listening strategies. After it, name
+one moment where each strategy worked — or where you forgot
+it.
+
 ## If it is hard
 Hear the story twice before you must retell it; retell with the
 story stones and the lesson's pictures in front of you; answer

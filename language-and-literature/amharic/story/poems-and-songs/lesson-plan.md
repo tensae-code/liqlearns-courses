@@ -31,6 +31,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 7. **Qererto, shilela and fuqera — the boast poems** — ቀረርቶ, the heroism-boast that provokes the enemy; ሽለላ warns the evil-hearted; ፉከራ mocks the coward; all performed standing.
 8. **Wedding songs and love verses** — የሠርግ ዘፈኖች dignify, praise and bring out the dancing, to kebero, masinqo, clapping and ዕልልታ; refrains sung twice; love poems known by their images.
 9. **Proverbs in stories, and the parts of a poem** — a heard story carrying proverbs, completed from halves; and the poem's parts named: ሐረግ, ስንኝ, አርኬ, ቤት — with ምጣኔ, the time a ሐረግ takes to read.
+10. **A poem heard — My Country Is a Warka Tree** (teacher guide — evidence) — the poem heard and noted; and the chapter's definition: a wide idea with a deep subject, compressed (እጥር ምጥን) — no explained, detailed matter.
+11. **Poems read, presented, and opened** (teacher guide — evidence) — የግጥም ጥግ read and its grasp explained; poems' themes (ጭብጥ) analysed; poems presented aloud with faults corrected as they occur; and a poem's words worked in their denotative and connotative meanings.
+12. **Write a poem of your own** (teacher guide — evidence) — short poems written, a poem's idea organised and analysed; the set poem የመማሪያ ክፍላችን, "Our Classroom", read to the class; and poetry's words told apart from prose words in form, meaning and use.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -53,6 +56,9 @@ the gate pool.
 10. Name the three works of a wedding song, and its instruments and voices.
 11. Complete a half-given proverb from the heard story.
 12. Mark a poem's parts: breathe its ሐረግ, pause at its ስንኝ, show its አርኬ, find its ቤት.
+13. Say what a poem is by the chapter's definition — a wide idea, a deep subject, compressed — and what the warka tree stands for in the heard poem's title.
+14. Explain what you grasped from የግጥም ጥግ, name a presented poem's theme (ጭብጥ), and give one poem-word's denotative and connotative meanings apart.
+15. Write a short poem titled የመማሪያ ክፍላችን and read it to the class; and name how poetry's words differ from prose words — form, meaning, use.
 
 ## What you need
 Room to stand in a group of four. A crossing line marked on the ground (chalk or a rope) for the song's acting.
@@ -102,6 +108,13 @@ Room to stand in a group of four. A crossing line marked on the ground (chalk or
      verse lines of dots, the verse-end letters circled in
      red, labelled ሐረግ, ስንኝ, አርኬ, ቤት and ምጣኔ — the
      student points to each part as it is named.
+   - ADD IMAGE [Picture 8955]: a picture of a great warka
+     tree with a wide canopy, people seated in its shade —
+     the student says what the tree can stand for before the
+     poem is heard.
+   - ADD AUDIO for the heard poem: ሀገሬ ዋርካ ናት read aloud
+     at a poem's pace — the student listens and takes notes
+     (described slot only).
    - ADD AUDIO for every poem and song: the poem chanted and
      the song sung at child pace — the student listens, then
      joins the refrain.
@@ -132,6 +145,8 @@ Room to stand in a group of four. A crossing line marked on the ground (chalk or
 - IMAGE [Picture 8632] — two warriors facing off with shields → the student names the boast poems.
 - IMAGE [Picture 8633] — the wedding with its masinqo player → the student names the song's three works.
 - IMAGE [Picture 8634] — the parts of a poem, diagrammed → the student points to ሐረግ, ስንኝ, አርኬ, ቤት.
+- IMAGE [Picture 8955] — the great warka tree and its shade → the student says what the tree stands for.
+- AUDIO — the heard poem ሀገሬ ዋርካ ናት read aloud (described slot only) → the student listens and notes its image.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
 plan is the build sheet, so nothing the lesson needs gets forgotten.
@@ -153,3 +168,5 @@ print — no full text is transcribed, per the build rules. A teacher
 sending this lesson sends the lesson and its question list as they
 are — choosing, not remaking.
 **Growth note (2026-11-12):** sub lessons 5–9 grow this lesson with the older grades' oral poetry — the kinds of oral poem, work songs, the boast poems ቀረርቶ, ሽለላ and ፉከራ, wedding songs, proverbs inside a heard story, and the poem's parts (ሐረግ, ስንኝ, አርኬ, ቤት). All stand on the Grade 5–8 student books except the harvest work-poem, which is labelled (teacher guide — evidence). Poems are summarised and named, never transcribed. The first four sub lessons are unchanged.
+
+**Growth note (2026-11-12, Band 4):** sub lessons 10–12 grow this lesson with the Grade 10 federal guide's Poetry chapter (ሥነግጥም) — the heard poem ሀገሬ ዋርካ ናት and the chapter's definition of poetry, the read poem የግጥም ጥግ and presenting poems aloud, and writing a poem of your own (የመማሪያ ክፍላችን). There is no Grade 10 student book in the records, so every part of sub lessons 10–12 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. The poems are named and summarised, never transcribed. The first nine sub lessons are unchanged.

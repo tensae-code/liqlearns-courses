@@ -10,3 +10,6 @@ Pass mark: strip -አች and -ዎች on the key's model (ቅርስአች → ቅ
 
 ## Sub lesson 3 — One or many? Sorting words
 Pass mark: sort words into singular and plural using the box's two questions — how many does it name, and does it carry a plural suffix?
+
+## Sub lesson 4 — The -ኦች system, re-taught (teacher guide — evidence)
+Pass mark: state the system — a singular noun carries no marker; the plural is formed with -ኦች; subject and verb phrase agree in number, gender and person (መደብ) — and recognise the named Ge'ez plurals (መምህራን, ሊቃውንት, አልባሳት, አብያት, ነፍሳት, ወራት, ቀናት, መጻሕፍት) as named-and-deferred, building no new Ge'ez plurals.

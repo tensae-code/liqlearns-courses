@@ -17,3 +17,15 @@ a) መጽሐፍ  b) አች  c) መጽ
 **4. (Sub lesson 3)** A plural word (ብዙ ቁጥር) —
 a) names one and takes no suffix  b) names two or more and takes a plural suffix  c) is always the longest word
 **Answer: b) names two or more and takes a plural suffix.**
+
+**5. (Sub lesson 4)** In the re-taught system, a singular noun —
+a) carries the suffix -ኦች  b) carries no marker at all  c) always ends in -ዎች
+**Answer: b) carries no marker at all** — the plural is the one that is formed, with -ኦች.
+
+**6. (Sub lesson 4)** When a plural subject enters a sentence, the verb phrase must agree with it in —
+a) spelling only  b) number, gender and person (መደብ)  c) length
+**Answer: b) number, gender and person** — the two sides of the sentence match each other.
+
+**7. (Sub lesson 4)** መምህራን, the plural of መምህር, is —
+a) made with -ኦች  b) an older Ge'ez plural (-አን), named here with its teaching deferred  c) a singular word
+**Answer: b) an older Ge'ez plural** — named exactly as the teaching names it; no Ge'ez rule is built in this lesson.

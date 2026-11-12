@@ -144,9 +144,45 @@ Others cannot be counted that way — no number is stated for them:
 
 The test is in the name: try to say its number. If the number can be stated, the noun is የሚቆጠሩ. If it cannot, it is የማይቆጠሩ.
 
+## Sub lesson 12 — Personal pronouns and person, grown *(teacher guide — evidence)*
+
+Sub lesson 9 gave you the pronouns and their three persons (መደብ) as a table. Now person is learned the way it is taught in the room — **by standing in it**.
+
+Three learners stand up. One **speaks**. One **listens**. One stands apart as the **topic** — the one being talked about. Now the persons are not rows in a chart; they are places you can stand in:
+
+[Picture 9005 — pronouns and person, staged]
+
+- Stand in the **speaker's** place and every word you say for yourself is **first person**: እኔ (I), እኛ (we).
+- Stand facing the **listener** and the word for them is **second person**: አንተ, አንቺ, እናንተ (you).
+- Point at the one **talked about** and the word is **third person**: እሱ, እሷ, እነሱ (he, she, they).
+
+Swap places. Speak again. The pronoun changes because **you** changed places — that is what መደብ is: not a label stuck on a word, but the place the word's person is standing in.
+
+Then the written work: **write at least five sentences in the first person, and at least five in the second person** — sentences of your own, drawn from what you have read. እኔ sentences from the speaker's place; አንተ / አንቺ sentences to the listener's face. Count them: five and five.
+
+## Sub lesson 13 — Adjectives, grown *(teacher guide — evidence)*
+
+Sub lesson 3 met the adjective (ቅጽል) beside its noun. Now the teaching goes further, in two steps.
+
+**Step one — the modifier before the noun.** A noun's modifiers — ስም ገላጭ, the words that show the noun — **stand before the noun** and describe its **kind, size, type or origin**. The worked pairs:
+
+- **ረጅም ቀሚስ** — a long dress (size)
+- **አዲስ መኪና** — a new car (kind/state)
+- **ጎጂ ልማድ** — a harmful habit (kind)
+
+In every pair the describing word walks first and the noun follows it. Find the noun, then look just before it: that is where its ገላጭ stands.
+
+[Picture 9006 — adjectives, grown]
+
+**Step two — pick the adjectives out of sentences.** In noun phrases (ቅጽል እና ስም together), the work is to spot the adjective hiding in a full sentence and lift it out. The keyed adjectives, the ones the answers name: **ትላልቅ** (big), **አዲስ** (new), **ጎበዝ** (clever), **ወፍራም** (thick), **ሰፊ** (wide), **አጭሩ** (the short one), **ሩቅ** (far), **ትኩስ** (hot / fresh), **ጥቁር** (black), **ረዥም** (long).
+
+Read a sentence, find the noun, look before it, and ask: what word here tells the noun's kind, size, type or origin? That word is the ቅጽል. Lift it out and name it.
+
 ## Say it to your companion
 
 Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያዥ ቃላት, ተውሳከግስ, መስተዋድድ — and give one example of each from this lesson: ሰው, ሄደ, ቀይ, እና, ቶሎ, ወደ. Then let your companion test you: they read a word, you name its kind and say its job. Then go deeper: let them name a noun — ደም, ጎንደር, መንጋ, ዉኃ — and you say which noun family it belongs to: ወል ስም or የተጸውኦ ስም, ጥቅል ስም, የሚቆጠሩ or የማይቆጠሩ. Last, point at yourself, at your companion, and at someone far away, and say the pronoun for each person as you point: እኔ, አንተ / አንቺ, እሱ / እሷ.
+
+Then stand in the places: you speak (first person), your companion listens (second person), and together you talk about a third person who is not listening (third person). Swap places twice and say the pronouns again each time. Finish with the adjective pairs: say ረጅም ቀሚስ, አዲስ መኪና and ጎጂ ልማድ, and let your companion name the adjective and the noun in each pair — and what the adjective tells: kind, size, type or origin.
 
 ## Do It Yourself
 
@@ -159,3 +195,6 @@ Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያ�
 7. Write the collective noun in this list: በሬ, መንጋ, ቤት, ዛፍ — then write two more ጥቅል ስም from the lesson.
 8. Write one question with ማን, one with ወዴት and one with ለምን.
 9. Sort these into የሚቆጠሩ and የማይቆጠሩ: ተማሪ, ስኳር, ቤት, ዉኃ, በሬ, ዘይት.
+10. Stand in the speaker's place and write five sentences in the first person (እኔ …). Then face a listener and write five sentences in the second person (አንተ … / አንቺ …).
+11. Copy these pairs and underline the adjective in each: ረጅም ቀሚስ, አዲስ መኪና, ጎጂ ልማድ. Say what each adjective tells about its noun.
+12. From this list, pick out all the adjectives: ትላልቅ, ቤት, አዲስ, ሄደ, ወፍራም, ጥቁር, ልጅ, ሩቅ. (Key in the lesson: ትላልቅ, አዲስ, ወፍራም, ጥቁር, ሩቅ.)

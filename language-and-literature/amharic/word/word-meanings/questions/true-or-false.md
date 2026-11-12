@@ -12,3 +12,12 @@ Say whether each sentence is true or false.
 **3. (Sub lesson 4)** ስለጠል is a word because it is made of letters.
 **Answer: False** — letters alone are not enough; its sounds
 stand out of order and give no meaning, so it is not a word.
+
+**4. (Sub lesson 5)** A denotative meaning changes from sentence to sentence, because it depends on the context.
+**Answer: False** — the denotative (direct) meaning does NOT
+depend on the context; the connotative (layered) meaning is
+the one that does.
+
+**5. (Sub lesson 5)** መሬት's denotative meaning is "earth / land".
+**Answer: True** — that is the guide's printed worked example
+of a direct, dictionary meaning.

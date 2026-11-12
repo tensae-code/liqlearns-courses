@@ -28,3 +28,11 @@ Sub lesson 3 questions from the type files. Pass mark: say what
 Sub lesson 4 questions from the type files. Pass mark: state
 the two tests of ቃል (sounds in order; the sounds give meaning)
 and judge መስጠል (a word) against ስለጠል (not a word) with them.
+
+## Sub lesson 5 — Two kinds of meaning: denotative and connotative
+Sub lesson 5 questions from the type files. Pass mark: define
+እማሬያዊ ፍች (denotative — direct, dictionary, not depending on
+context) and ፍካሬያዊ ፍች (connotative — layered, depending on
+context), and sort መሬት and መብረቅ's meanings with them —
+including መብረቅ's two coats, flash-and-thunder and powerfully
+shocking. This sub lesson stands on teacher-guide evidence only.

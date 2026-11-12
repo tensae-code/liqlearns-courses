@@ -177,6 +177,98 @@ What makes a short story, then:
   **transitional words** — **መሸጋገሪያ ቃላት** — the words that
   carry a reader from one part to the next.
 
+## Sub lesson 7 — Fiction itself: what ልቦለድ is
+
+You know the short story's shape. Now the higher guides
+name the whole kind: **ልቦለድ** — **fiction**.
+
+What is fiction, by the scholars the guides summarise
+(teacher guide — evidence)? Fiction is **a creative work
+the author brings from his own mind and heart**. But hear
+the second half of the teaching, or you will misunderstand
+the first: that does **not** mean fiction is cut off from
+truth. Its characters **wear the behaviour of real
+people** — they act the way people truly act — inside a
+**made world that has its own place and its own time**.
+
+That is why the elements you learned fit it exactly:
+characters (ገፀባሕርያት) who behave like real people; a
+setting (መቼት) that is made, yet stands somewhere and
+somewhen; a conflict (ግጭት) that pushes them; a theme
+(ጭብጥ) that is true even though the events are made; and a
+plot (ትልም/ሴራ) where each event grows from the one before.
+
+The chapter's own outcome stands beside it: **explain
+what a short story (አጭር ልቦለድ) is, and its
+characteristics** — you met that work in Sub lesson 6;
+here it is named as fiction's smallest whole form.
+
+## Sub lesson 8 — Short fiction and long fiction
+
+Fiction comes in two sizes, and the guides set them side
+by side (teacher guide — evidence):
+
+**Short fiction** — አጭር ልቦለድ, the short story:
+
+- **one story**, told on **one narrative line**;
+- **few characters**;
+- a **narrow setting** — a small place, a short time.
+
+**Long fiction** — the novel's size:
+
+- **many life-faces** — many sides of life shown;
+- **many characters**;
+- a **wide setting** — broad places, long times;
+- a **main plot and sub-plots** — smaller story-lines
+  running inside the big one;
+- **possibly more than two conflicts** at once.
+
+[Picture 8956 — one single line beside branching lines: the story map of short and long fiction]
+
+The writing that goes with the naming: **write short
+texts** of your own — one line, few people, one place —
+and then **organise paragraphs into an essay** about a
+fiction you know, saying which size it is and proving it
+from the list above.
+
+## Sub lesson 9 — Fiction met whole: heard, read, and one whole book
+
+**Heard: "Useful Advice" (ጠቃሚ ምክር) (teacher guide —
+evidence).** A fiction text met by ear: the story is
+adapted from Kebede Mikael's የእውቀት ብልጽታ ("Flash of
+Wisdom"). Hear it, then debate the motion its chapter sets
+— whether the advice of elders settles conflict better,
+debated by the rules of debate. A story heard whole can
+carry a whole argument.
+
+**Read: "Enatitu" (እናቲቱ) — "The Mother" (teacher guide —
+evidence).** A prepared short story, read the full way:
+before reading, discuss it in pairs and **predict**; then
+**timed silent reading**; after reading, the answers are
+recorded **in a table, in groups**, and reported in turn.
+Prediction, reading, table, report — the short story at
+full stretch.
+
+**Named for your shelf (teacher guide — evidence).** Two
+more fiction texts the higher guides set: ሰመመን
+("Sememen"), a literary work listened to and discussed —
+by Sisay Nigusu — and ሸክም ("Shekim"), a fiction text
+read and analysed for the information in it. Their plots
+stay in their books; here you learn their names, their
+kind, and the work done with them.
+
+**One whole book: extensive reading (መጠነ ሰፊ ንባብ)
+(teacher guide — evidence).** The guides' own system for
+growing readers: one short-fiction book is chosen and
+placed in the reading room. You read it as homework over
+**two weeks or more** — the time adjusted to your
+strength in the language and the book's accessibility.
+Then comes a test on the book's content, worth **10 or 15
+marks**, counted like a monthly or semester test: readers
+gain the marks; non-readers lose them. That, the guides
+say, is how a love of reading is grown — one whole book,
+finished.
+
 ## Say it to your companion
 
 Tell your companion a story you know, walking its shape out loud:
@@ -196,3 +288,5 @@ your telling.
 5. Take a tale you know and map it onto the five-part frame in the higher wording — መቼት, ገፀባሕርያት, ችግሮች, ድርጊት, ልቀት/ውጤት — one box each, a line of the tale in each box.
 6. For the same tale, fill a literary-elements organiser: characters, setting, ግጭት (say what pushes against whom), ጭብጥ in one sentence, and the plot as a chain of *because* — each event because of the one before.
 7. Read or hear one short story (አጭር ልቦለድ). List its characters with their roles; then write its summary in at most one page, joining the parts with transitional words.
+8. Take a fiction you know. Prove its size: count its narrative lines, its characters, its setting's width, its conflicts — then name it: short fiction or long fiction.
+9. Choose one short-fiction book and read it whole over two weeks, the extensive-reading way. Note one thing each day; at the end, tell its story from your notes alone.

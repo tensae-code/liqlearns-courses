@@ -64,3 +64,19 @@ a) The striker may forget; the struck never forgets  b) Strike first  c) Forget 
 **16. (Sub lesson 9)** In the parts of a poem, what is the ቤት?
 a) The first word  b) The rhyme — the final letter at a verse's end  c) The title
 **Answer: b)** — ሐረግ is read in one breath; ስንኝ takes a full pause; አርኬ is where one thought ends; ቤት is the rhyme.
+
+**17. (Sub lesson 10)** By the Poetry chapter's teaching, a poem is —
+a) A long explanation in verse  b) A wide idea with a deep subject, compressed — no explained, detailed matter  c) Any text with short lines
+**Answer: b)** — እጥር ምጥን: squeezed tight; much meaning, few words.
+
+**18. (Sub lesson 10)** In the heard poem's title, ሀገሬ ዋርካ ናት, the warka tree is —
+a) A tree too small to sit under  b) The great tree whose shade can hold everyone — the picture of the country itself  c) A tree in a foreign land
+**Answer: b)** — the title alone carries the poem's wide idea.
+
+**19. (Sub lesson 11)** When poems are presented aloud, the teacher corrects —
+a) Nothing; presenting is only for marks  b) The faults that occur while the learners present  c) The poem's theme, changing it
+**Answer: b)** — the presenting itself is the practice; the class then discusses, comfortably arranged.
+
+**20. (Sub lesson 12)** The set poem learners write and read to the class is titled —
+a) የመማሪያ ክፍላችን — "Our Classroom"  b) ሀገሬ ዋርካ ናት  c) የግጥም ጥግ
+**Answer: a) የመማሪያ ክፍላችን.**

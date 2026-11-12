@@ -17,3 +17,11 @@ a) you retell the steps in sequence  b) you draw the finished thing  c) you name
 **4. (Sub lesson 2)** ዝርዝር (zirzir) is —
 a) the final fair copy  b) the outline you draft before composing  c) a list of new words
 **Answer: b) the outline you draft before composing.**
+
+**5. (Sub lesson 3)** In traditional mediation, what must be obtained before mediators are chosen for both sides?
+a) the judge's verdict  b) both sides' consent to reconcile  c) the parties' oath
+**Answer: b) both sides' consent to reconcile** — step 2, before mediators (step 3) and the judge (step 4).
+
+**6. (Sub lesson 3)** The LAST step of the mediation process is —
+a) the preliminary inquiry  b) choosing the mediation judge  c) conducting the mediation
+**Answer: c) conducting the mediation** — the sitting itself, where the parties swear an oath confirming the decision.

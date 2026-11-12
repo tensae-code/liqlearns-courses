@@ -17,6 +17,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 7. **Affirmative and negative sentences** — አዎንታዊ states the action unbroken, with no special marker; አሉታዊ breaks a known idea and its verb carries አል- … -ም. *(Growth.)*
 8. **The being-verb and its complement** — መሆን ግስ (ናቸው) takes a noun complement (ስም መሙያ); the pointer (እነዚህ) stands before the complement. *(Growth.)*
 9. **Simple and complex sentences, grown** — ነጠላ holds one clause unit; ውስብስብ holds a bound verb (ሲመጣ) waiting for its binding verb (ሄደ). *(Growth.)*
+10. **The sentence's constituents, grown** — the analysis opens a sentence into three: ባለቤት (subject), ተሳቢ (object — the one the action falls on), ማሰሪያ አንቀጽ (verb phrase); worked rows ቶፊቅ–ጻፈ and ታላቁ የህዳሴ ግድብ–የኤሌክትሪክ ሀይል ማመንጨት ጀመረ. *(Growth added in the Ethiopia Wave 1 G9–G10 build — teacher guide — evidence.)*
+11. **Morphemes: the free and the bound** — ምዕላድ: ነፃ ምዕላድ stands alone (ላም, ሴት); ጥገኛ ምዕላድ cannot — prefixes ቅድመ አምድ ቅጥያ (ስለ-, ከ-, በ-, መ-) and suffixes ድህረ አምድ ቅጥያ (-ኦች, -ኤ, -ኣቸው, -ዋ); splitting ላም + ኦች + ኣቸው; building new words with -አም, -ነት, -ኛ, -አዊ. *(Growth — teacher guide — evidence.)*
+12. **Affirmative to negative, grown** — the keyed conversion ገሰፀ → አልገሰፁም (the verb's shape changes inside the wrap), beside the two other negative shapes: አይደለም (is not) and የላቸውም (they do not have). *(Growth — teacher guide — evidence.)*
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -34,6 +37,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 8. Tell an affirmative (አዎንታዊ) sentence from a negative (አሉታዊ) one, and make a negative by wrapping the verb in አል- … -ም.
 9. Build an "is / are" sentence: pointer + noun complement (ስም መሙያ) + being-verb (መሆን ግስ).
 10. Tell a ነጠላ (simple) sentence from a ውስብስብ (complex) one, and point to the bound verb and its binder inside the complex one.
+11. Open a sentence into its three constituents — ባለቤት, ተሳቢ, ማሰሪያ አንቀጽ — on the model of ቶፊቅ ጻፈ and the Renaissance Dam sentence.
+12. Split a built word into its morphemes (ላም + ኦች + ኣቸው), name each piece free or bound, prefix or suffix, and build a new word with -ነት or -አዊ.
+13. Convert ገሰፀ to አልገሰፁም, and choose the right negative shape — the verb wrap, አይደለም, or የላቸውም — for an action, a being, or a having.
 
 ## What you need
 Paper and a pencil. Nothing else.
@@ -51,6 +57,11 @@ Paper and a pencil. Nothing else.
    - ADD IMAGE [Picture 8724]: a picture of a simple sentence and a complex one — the student finds the bound verb ሲመጣ and its binder ሄደ.
    - ADD GIF [GIF 8736]: a GIF of the bound verb ሲመጣ waiting, unfinished, until the binding verb ሄደ arrives and completes the sentence — the student says what was missing before the binder came.
    - ADD AUDIO: a voice reading the four function examples — ልጁ ብዙ ሥራ ሠራ። / ከሥራ ለምን ቀረሽ? / የቤት ሥራችሁን ሥሩ። / ነፍሴ ምንጥቅ! — the student names each sentence's function from the voice alone.
+   - ADD IMAGE [Picture 9021]: a picture of a sentence opened into its constituents — ቶፊቅ ጻፈ and the Renaissance Dam sentence split into ባለቤት and ማሰሪያ አንቀጽ, with ተሳቢ named — the student opens each new sentence the same way.
+   - ADD IMAGE [Picture 9022]: a picture of the morpheme chart — ነፃ ምዕላድ against ጥገኛ ምዕላድ, the prefixes and suffixes, and the split ላም + ኦች + ኣቸው — the student names each piece free or bound.
+   - ADD IMAGE [Picture 9023]: a picture of the three negative shapes — ገሰፀ → አልገሰፁም, አይደለም, የላቸውም — the student picks the right shape for an action, a being, or a having.
+   - ADD GIF [GIF 9037]: a GIF of አል- and -ም closing around ገሰፀ from both sides until አልገሰፁም stands whole — the student says the affirmative, then the negative, as the wrap closes.
+   - ADD AUDIO: a voice reading the keyed conversion pair ገሰፀ → አልገሰፁም and the two shapes አይደለም, የላቸውም (slot only — no audio file is made in this build) → the student repeats each negative and says what it negates.
 3. **Say it to your companion** — explain what a sentence is and join two sentences for your companion (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the joining dialogue in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank, matching, writing, short-answer — served at the learner's level and teaching-mix (levels.md).
@@ -69,6 +80,11 @@ Paper and a pencil. Nothing else.
 - IMAGE [Picture 8724] — simple vs complex sentences → the student finds the bound verb and its binder.
 - GIF [GIF 8736] — the bound verb ሲመጣ waiting for its binder ሄደ → the student says what completes the sentence.
 - AUDIO — the four function examples read aloud (slot only) → the student names each function from the voice.
+- IMAGE [Picture 9021] — the constituents chart (ቶፊቅ ጻፈ; the Renaissance Dam sentence; ተሳቢ) → the student opens sentences into subject, object, verb phrase.
+- IMAGE [Picture 9022] — the morpheme chart (ነፃ / ጥገኛ ምዕላድ; prefixes; suffixes; ላም + ኦች + ኣቸው) → the student names each piece free or bound.
+- IMAGE [Picture 9023] — the three negative shapes (አልገሰፁም; አይደለም; የላቸውም) → the student picks the shape that fits the sentence.
+- GIF [GIF 9037] — አል- … -ም closing around ገሰፀ → the student converts the verb aloud as the wrap closes.
+- AUDIO — the conversion pair and the two negative shapes read aloud (slot only) → the student repeats each negative and names what it negates.
 
 ## If the learner is stuck
 - Thinks any line of words is a sentence → ask: does it carry one complete idea? "ዝናብ" alone is only a word; "ኃይለኛ ዝናብ ዘነበ።" carries the whole idea.

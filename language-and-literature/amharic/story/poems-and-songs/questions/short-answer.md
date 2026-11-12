@@ -27,3 +27,15 @@ Answer in a short sentence, from the poem or song.
 
 **9. (Sub lesson 9)** Define ምጣኔ as the books' margin teaches it.
 **Answer:** ምጣኔ, metre, is the time a ሐረግ takes to read; lines of equal time give a regular melody.
+
+**10. (Sub lesson 10)** What does the Poetry chapter say is NOT presented in a poem?
+**Answer:** Explained, detailed matter — a poem compresses instead: a wide idea with a deep subject, in few words.
+
+**11. (Sub lesson 11)** What two works does the reading of የግጥም ጥግ set?
+**Answer:** Explain what was grasped from the poem; and analyse the poems presented — their themes (ጭብጥ).
+
+**12. (Sub lesson 11)** Name the two meanings a poem's words are worked in, and say each in a phrase.
+**Answer:** The denotative meaning — what the word says outright — and the connotative meaning — what it suggests, layered on by context.
+
+**13. (Sub lesson 12)** In what three ways do poetry's words differ from prose words, by the chapter's teaching?
+**Answer:** In form, in meaning, and in use.

@@ -31,3 +31,18 @@ a) he has four legs  b) he is brave and strong  c) he lives in the forest
 a) ስለጠል  b) መስጠል  c) both of them
 **Answer: b) መስጠል** — its sounds stand in order and give a
 meaning; ስለጠል is a shuffle with no meaning.
+
+**7. (Sub lesson 5)** እማሬያዊ ፍች (denotative meaning) is —
+a) the meaning a word takes from its context  b) a word's direct, dictionary meaning  c) a word's opposite meaning
+**Answer: b)** — the direct meaning does not depend on the
+context; it is what the word says wherever it stands.
+
+**8. (Sub lesson 5)** መብረቅ (lightning) — its connotative meaning is —
+a) flash and thunder  b) rain on the roof  c) powerfully shocking
+**Answer: c) powerfully shocking** — flash and thunder is its
+denotative meaning; the shocking layer is the connotative one.
+
+**9. (Sub lesson 5)** A connotative meaning (ፍካሬያዊ ፍች) depends on —
+a) the context — the words around the word and the world around the words  b) nothing at all  c) the dictionary alone
+**Answer: a)** — the layered meaning leans on the linguistic
+and the non-linguistic context.

@@ -46,3 +46,20 @@ One room. One person, awake in the night.
 Hunger… or thought — which tires him more?
 A whole story, in one small room.
 List its people. Sum it in ONE page. No more.
+
+---
+
+Last — what is fiction itself? **ልቦለድ.**
+
+A work the writer brings from his own mind, his own heart.
+Made up? Yes. Cut off from truth? NO.
+
+Its people behave like real people.
+Its world is made — but it has its own place, its own time.
+
+Small fiction: one story. Few people. One place. One line.
+Big fiction: many faces of life. Many people. A wide world.
+Plots inside plots. Conflicts — more than two!
+
+And the way to love it? One whole book.
+Two weeks. Finish it. That is how readers are grown.

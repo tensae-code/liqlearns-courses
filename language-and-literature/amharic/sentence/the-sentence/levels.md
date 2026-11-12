@@ -28,3 +28,12 @@ Pass mark: in እነዚህ ዋልያዎች ናቸው, name the pointer (እነ�
 
 ## Sub lesson 9 — Simple and complex sentences, grown
 Pass mark: call a one-clause sentence ነጠላ, and in a ውስብስብ sentence point to the bound verb (ሲመጣ) and the binding verb that completes it (ሄደ).
+
+## Sub lesson 10 — The sentence's constituents, grown (teacher guide — evidence)
+Pass mark: open a sentence into ባለቤት (subject), ተሳቢ (object — the one the action falls on) and ማሰሪያ አንቀጽ (verb phrase), on the worked models ቶፊቅ ጻፈ and ታላቁ የህዳሴ ግድብ የኤሌክትሪክ ሀይል ማመንጨት ጀመረ.
+
+## Sub lesson 11 — Morphemes: the free and the bound (teacher guide — evidence)
+Pass mark: tell a ነፃ ምዕላድ (stands alone — ላም, ሴት) from a ጥገኛ ምዕላድ (prefixes ስለ-, ከ-, በ-, መ-; suffixes -ኦች, -ኤ, -ኣቸው, -ዋ), split ላም + ኦች + ኣቸው, and build a new word with -ነት or -አዊ.
+
+## Sub lesson 12 — Affirmative to negative, grown (teacher guide — evidence)
+Pass mark: convert ገሰፀ to አልገሰፁም exactly as keyed, and choose between the verb wrap, አይደለም (is not) and የላቸውም (they do not have) for an action, a being, or a having.

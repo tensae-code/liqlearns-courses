@@ -26,6 +26,19 @@ a classroom door, sing, dance a little, receive the "house's"
 thanks (a clap stands in for the mulmul bread), and end with a
 blessing verse of your own making.
 
+## Under the warka
+Sit under the biggest tree near home or school. Each person
+says one thing the tree gives — shade, rest, a meeting
+place, fruit, a home for birds. That list is the wide idea;
+now squeeze it into two lines of verse, the chapter's way:
+much meaning, few words.
+
+## Present and correct kindly
+In pairs, present your poem የመማሪያ ክፍላችን aloud. Your
+partner corrects one fault they truly heard — a stumbled
+word, a dropped ending — the way the chapter corrects:
+while it is presented, kindly, and once only. Then swap.
+
 ## If it is hard
 Join only the refrain first (ግራ ቀኝ ግራ); clap where you
 cannot yet chant; perform in the group, never alone, until the

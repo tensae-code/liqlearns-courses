@@ -31,3 +31,12 @@ Sub lesson 8 questions from the type files. Pass mark: name a wedding song's thr
 
 ## Sub lesson 9 — Proverbs in stories, and the parts of a poem
 Sub lesson 9 questions from the type files. Pass mark: complete a half-given proverb from the heard story; and mark a known poem's ሐረግ, ስንኝ, አርኬ and ቤት without help.
+
+## Sub lesson 10 — A poem heard — My Country Is a Warka Tree (teacher guide — evidence)
+Sub lesson 10 questions from the type files. Pass mark: say the chapter's definition of poetry — a wide idea with a deep subject, compressed, no explained detailed matter — and what the warka stands for in the title.
+
+## Sub lesson 11 — Poems read, presented, and opened (teacher guide — evidence)
+Sub lesson 11 questions from the type files. Pass mark: explain your grasp of የግጥም ጥግ, name a poem's theme (ጭብጥ), present a poem aloud standing, and split one poem-word into its denotative and connotative meanings.
+
+## Sub lesson 12 — Write a poem of your own (teacher guide — evidence)
+Sub lesson 12 questions from the type files. Pass mark: write the short poem የመማሪያ ክፍላችን and read it to the class; and name one difference each in form, meaning and use between your poem's words and prose words.

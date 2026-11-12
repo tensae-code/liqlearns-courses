@@ -52,9 +52,34 @@ So sorting is two questions: *How many does it name?* and *Does it carry a plura
 
 Sort every word you meet this way, and one-and-many will never confuse you.
 
+## Sub lesson 4 — The -ኦች system, re-taught *(teacher guide — evidence)*
+
+You have made plurals since the clothing lessons. Now the whole system is stated once, plainly, the way it is re-taught at the higher level:
+
+- A **singular noun carries no marker at all.** Nothing is added; the word stands bare — that bareness IS the singular.
+- A **plural noun is formed with one suffix: -ኦች.** One system, one piece.
+
+[GIF 9018 — the -ኦች suffix attaching to a noun]
+
+Watch **ኦች** travel in and lock onto **ቀሚስ**: one dress, then **ቀሚሶች** — many dresses, and the ring count under the word goes from one to many at the moment the piece lands.
+
+And the plural does not travel alone into a sentence: **subject and verb phrase must agree — in number, in gender and in person (መደብ).** A plural subject does not sit beside a singular verb phrase; the two sides of the sentence match each other.
+
+[Picture 9007 — the plural system, grown]
+
+**The older Ge'ez plurals — named, and left there.** Long before -ኦች, Amharic borrowed older plural suffixes from Ge'ez — **-አን** and **-አት** — and some words still carry them:
+
+- መምህር → **መምህራን** · ሊቅ → **ሊቃውንት**
+- ልብስ → **አልባሳት** · ቤት → **አብያት**
+- ነፍስ → **ነፍሳት** · ወር → **ወራት** · ቀን → **ቀናት** · መጽሐፍ → **መጻሕፍት**
+
+These are **named here exactly as they are named in the teaching — and their teaching is deferred**: no rule for them is built in this lesson, and the list is not completed. Learn to recognise the named ones when you meet them; the -ኦች system above is the plural you build with.
+
 ## Say it to your companion
 
 Tell your companion: a plural word names two or more and carries a plural piece — -ኦች, -ዎች or -አች. Make ቀሚስ many for them (ቀሚሶች), then strip ገበሬዎች back to one (ገበሬ) and let them name the piece that fell off.
+
+Then say the grown system: a singular carries no marker at all; the plural takes -ኦች; and subject and verb phrase agree in number, gender and person. Name the Ge'ez plurals you can recognise — መምህራን, አልባሳት, አብያት — and say honestly: these are named, their teaching comes later.
 
 ## Do It Yourself
 
@@ -63,3 +88,5 @@ Tell your companion: a plural word names two or more and carries a plural piece 
 3. Sort these into ONE and MANY columns: ወላጅ, ወላጆች, መልስ, መልሶች, ጥያቄ, ጥያቄዎች.
 4. Look around your room: name one thing in the singular, then say its plural. Write both.
 5. Read ገበሬዎች aloud, then cover ዎች with your finger and read what is left.
+6. Write the system in three lines: (a) a singular noun carries no ______; (b) a plural is formed with the suffix ______; (c) subject and verb phrase agree in ______, ______ and ______.
+7. Copy the named Ge'ez plurals — መምህር → መምህራን, ቤት → አብያት, ቀን → ቀናት — and beside each one write "named — teaching later". Do not try to build new ones.

@@ -7,7 +7,10 @@ fixed inside the word alone — the sentence around it tells you
 which meaning is alive (አውዳዊ ፍቺ, meaning from context), one
 word can carry several meanings, some words carry an extra
 figurative meaning (ፍካሬያዊ ፍቺ), and a word is a word at all
-only when its sounds stand in order and give meaning (ቃል).
+only when its sounds stand in order and give meaning (ቃል) —
+and, at the top, the grown pair of names for a word's two
+coats: denotative meaning (እማሬያዊ ፍች), which does not depend
+on context, and connotative meaning (ፍካሬያዊ ፍች), which does.
 **This lesson's own level:** it stands on the Word lessons before
 it — the learner can read whole words and knows same-meaning and
 opposite-meaning pairs (Words That Go Together). The worked
@@ -47,6 +50,13 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 4. **What makes a word a word** — ቃል: an ordered set of sounds
    that gives meaning — መስጠል IS a word; ስለጠል is NOT, because
    its sounds stand out of order and give no meaning.
+5. **Two kinds of meaning: denotative and connotative**
+   (teacher guide — evidence) — እማሬያዊ ፍች: the direct,
+   dictionary meaning, not depending on context (መሬት = earth /
+   land; መብረቅ = flash and thunder); ፍካሬያዊ ፍች: the layered
+   meaning, depending on the linguistic and non-linguistic
+   context (መብረቅ = powerfully shocking) — and a poem's words
+   sorted the same way.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -69,6 +79,9 @@ the gate pool.
    figurative table: dove → innocent, lion → brave, and the rest.
 5. Say what makes a word a word (ቃል) and judge መስጠል (a word)
    against ስለጠል (not a word).
+6. Sort a word's meanings into denotative (እማሬያዊ ፍች) and
+   connotative (ፍካሬያዊ ፍች), and say which of the two depends
+   on the context — with መሬት and መብረቅ as the worked pair.
 
 ## What you need
 Paper and a pencil. Nothing else.
@@ -98,6 +111,18 @@ Paper and a pencil. Nothing else.
    - ADD AUDIO in Sub lessons 1–2: a voice reading each pair of
      sentences aloud — the student says the meaning of the
      target word before the voice explains it.
+   - ADD IMAGE [Picture 9054]: a picture of the two-kinds-of-
+     meaning card — እማሬያዊ ፍች (denotative: መሬት = earth/land,
+     መብረቅ = flash and thunder) against ፍካሬያዊ ፍች
+     (connotative: መብረቅ = powerfully shocking) — the student
+     covers one side and says which kind each meaning is.
+   - ADD GIF [GIF 9055]: a GIF of መብረቅ — the lightning bolt
+     growing (the denotative flash), then a shocked face
+     growing beside it (the connotative layer) — the student
+     says which meaning each half of the GIF shows.
+   - ADD AUDIO in Sub lesson 5: a voice using one word in two
+     sentences — the student calls "denotative" or
+     "connotative" for the meaning alive in each.
 3. **Say it to your companion** — trade sentences: one reads a
    sentence with a two-meaning word, the other says which
    meaning is alive and how they know (lesson/lesson.md).
@@ -124,6 +149,12 @@ Paper and a pencil. Nothing else.
   → the student says why one is a word and the other is not.
 - AUDIO — the sentence pairs read aloud → the student calls the
   meaning before the voice does.
+- IMAGE [Picture 9054] — the denotative/connotative card (መሬት,
+  መብረቅ) → the student sorts each meaning into its kind.
+- GIF [GIF 9055] — መብረቅ: the flash, then the shock → the
+  student names denotative and connotative as each appears.
+- AUDIO (Sub lesson 5) — one word in two sentences → the student
+  calls denotative or connotative for each.
 - VIDEO — the video-script filmed (made later) → the student
   plays the meaning-switch game along with it.
 
@@ -141,6 +172,11 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Calls ስለጠል a word because it "looks like letters" → letters
   alone are not enough: the sounds must stand in order AND give
   meaning. ስለጠል fails both tests; መስጠል passes both.
+- Mixes denotative and connotative up → ask one question: does
+  this meaning need the sentence and the world around the word?
+  If it stands alone in the dictionary, it is denotative
+  (እማሬያዊ ፍች); if it leans on context, it is connotative
+  (ፍካሬያዊ ፍች). መብረቅ carries both — sort them.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

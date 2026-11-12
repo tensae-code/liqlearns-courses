@@ -33,3 +33,19 @@ a) the place and time of the story  b) the clash the characters create with othe
 **8. (Sub lesson 6)** The set work on a short fiction (አጭር ልቦለድ) includes —
 a) listing its characters with their roles, and summarising it in at most one page  b) memorising the whole story by heart  c) copying the story out word for word
 **Answer: a) listing its characters with their roles, and summarising it in at most one page.**
+
+**9. (Sub lesson 7)** By the guides' definitions, fiction (ልቦለድ) is —
+a) A true report with the names changed  b) A creative work the author brings from his own mind and heart — not cut off from truth  c) Any story that is not about real places
+**Answer: b)** — its characters wear the behaviour of real people, in a made world with its own place and time.
+
+**10. (Sub lesson 7)** In fiction, the made world has —
+a) No place and no time  b) Its own place and its own time  c) Only the reader's place and time
+**Answer: b)** — a made world, standing somewhere and somewhen.
+
+**11. (Sub lesson 8)** Which set belongs to LONG fiction?
+a) One story, few characters, narrow setting  b) A single narrative line only  c) Many life-faces, many characters, wide setting, main and sub-plots
+**Answer: c)** — and possibly more than two conflicts.
+
+**12. (Sub lesson 9)** In extensive reading (መጠነ ሰፊ ንባብ), the test on the chosen book is worth —
+a) 2 or 3 marks  b) 10 or 15 marks, counted like a monthly or semester test  c) No marks at all
+**Answer: b)** — readers gain the marks; the book is read as homework over two weeks or more.

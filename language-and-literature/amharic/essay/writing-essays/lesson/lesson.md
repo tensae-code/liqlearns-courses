@@ -148,6 +148,46 @@ This is the organiser craft at full size: if it is not on the
 web, it does not go in the essay; if it is on the web, the essay
 must find it a place.
 
+## Sub lesson 6 — The explanatory essay, grown up
+
+The explanatory essay does not retire after Sub lesson 1 — the
+higher classes return to it with a working order around it.
+
+**First, review the craft.** Before writing, go back over
+essay-writing techniques, and study **the types of essay
+(የድርሰት ዓይነቶች)** as a study note: know the kinds of essay
+there are before you choose the one your topic needs.
+
+[Picture 9050 — the explanatory essay: how the work goes]
+
+**Then write — from prompts, together.** Three prompts are
+given; the writing is done **in pairs or groups**. The
+explaining is yours; the topic is set, so all your strength
+goes into making the thing clear.
+
+[GIF 9051 — the essay growing paragraph by paragraph from a prompt]
+
+**The same craft at paragraph size** is the **explanatory
+paragraph (አስረጅ አንቀጽ)**: one worked paragraph explains the
+mediation process itself, step by step, with note-taking as
+part of the task — and another explains a title of your
+choosing the same way. Paragraph or essay, the job is one:
+make the thing clear to a reader who does not yet know it.
+
+**Explaining things a reader may never have seen** is taught
+with a model bank of everyday technology and what each thing
+is for:
+
+- **computer** — writing, reading, film, internet;
+- **photocopier**; **iron**; **laundry**;
+- **hair-dryer (ካስክ)**; **combine harvester**; **tractor**;
+  **fridge**.
+
+The bank exists because many readers may not know these
+products — and that is the explanatory writer's whole lesson:
+explain for the reader you actually have, naming the thing
+and what it is for, in order, until it is clear.
+
 ## Say it to your companion
 
 Your companion names three writing jobs: explaining how a jebena
@@ -165,3 +205,4 @@ with a reason.
 3. Build a cause-and-effect organiser with one cause and at least two effects, and write the essay from it; mark each key sentence C → E.
 4. Choose a position you can defend, and write a three-paragraph argumentative essay (ባለ ሦስት አንቀፅ ድርሰት) following the model's shape.
 5. Build one web around a big topic, count its branches, and write a complete essay from it. Edit and rewrite it once, as the review does.
+6. Do the grown-up order before your next explanatory essay: review the essay types (የድርሰት ዓይነቶች) from your notes, set yourself three topics, take one, and write the essay with a partner. Then swap pages and check each other's explanations: is every thing named, and what it is for?

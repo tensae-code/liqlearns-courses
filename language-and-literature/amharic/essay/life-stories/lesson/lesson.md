@@ -145,10 +145,73 @@ follow from it. Not every point of every life is always in
 your hands; a summary tells the points it truly has, in order,
 and invents none.
 
+## Sub lesson 6 — Yetnebersh Nigussie: a trial turned to good fortune (teacher guide — evidence)
+
+This worked life comes from a listening whose title is its
+whole method: **ፈተናን ወደ መልካም ዕድል መለወጥ — "Turning a
+Trial into Good Fortune."**
+
+Hear it the way it is set: while you listen, note the
+**detailed information** about **a disabled woman of
+history and her strength** (አካል ጉዳተኛ ባለታሪክ). The
+guide that sets this listening does not print the life as
+a pupil text; its own reference list names the life behind
+it — **two web biographies of Yetnebersh Nigussie** — so
+her life is learned here under her name, as evidence,
+exactly as the guide presents it: a woman who met
+disability, and whose strength turned a trial into good
+fortune.
+
+[Picture 8958 — a woman addressing a meeting, her listeners at their table (a scene, not a likeness)]
+
+Tell her life by the points this lesson keeps: not every
+point of the seven is in your hands here — the listening
+gives the trial, the strength, and the turn to good
+fortune. A summary tells the points it truly has, in
+order, and invents none — that rule, from Sub lesson 5,
+holds hardest here.
+
+[Audio — the listening read aloud; the student notes the detailed information (described slot only)]
+
+## Sub lesson 7 — Dr Haddis Alemayehu, heard from a recording (teacher guide — evidence)
+
+You met Dr Haddis Alemayehu's life in Sub lesson 4 — told
+from a **table**. Here the same writer's life is met a
+second way, and the difference is the lesson: this life is
+**played from a recording**.
+
+The work runs in the listening's own order:
+
+1. **Before the recording:** who is Haddis Alemayehu?
+   What do you know of his life and his works? Say it
+   first — the hearing is measured against what you
+   already hold.
+2. **First playing:** hear the whole life. Take in its
+   **main information** — the life in outline.
+3. **Second playing:** hear it again, now for the
+   **detailed information** — the parts the outline
+   skipped.
+4. **After:** give the main information and the detailed
+   information apart, from your notes.
+
+[Picture 8957 — a tape recorder and a disc, a notebook open beside them]
+
+[GIF 8999 — tape reels turning, sound waves rising: the life plays, and plays again]
+
+The tools of this life are the recording's own: a tape or
+a computer, a CD, a flash disk, a small monitor. And the
+discipline is the biography method of Sub lesson 2 wearing
+new clothes: **gather** — here, by ear, twice; **order** —
+main first, details in their places; **tell** — the life
+whole, in sequence. A table holds a life still; a
+recording makes you chase it — main points on the first
+hearing, details on the second, nothing invented between.
+
 ## Say it to your companion
 
-Choose one of the three lives — Abebe Bikila, Dr Haddis
-Alemayehu, Dr Catherine Hamlin. Tell it to your companion in
+Choose one of the worked lives — Abebe Bikila, Dr Haddis
+Alemayehu (from the table, or from the recording), Dr
+Catherine Hamlin, or Yetnebersh Nigussie. Tell it to your companion in
 one minute, in order, without looking at the page. Your
 companion listens with the seven points in hand and names any
 point you skipped. Then swap.
@@ -159,3 +222,5 @@ point you skipped. Then swap.
 2. Gather a family member's or neighbour's life: read what you can, ask who you can, take only true evidence. Write the biography, then check and fix its chronological order.
 3. Draw the table of a life you know — dates on one side, events on the other — then turn the table into a told life, in sequence, and present it aloud.
 4. Write your autobiography from the organiser wheel: birth time and place, primary-school stay, current education life, happiest event, saddest event, conclusion.
+5. Take a short life you can hear — a radio life story, an elder's recorded voice. Play it twice: first note its main information, then its detailed information. Tell the life from your two sets of notes, main first, details in order.
+6. Write the turning point of a life you know: the trial, and how it was turned to good fortune — only the points you truly have, in order.

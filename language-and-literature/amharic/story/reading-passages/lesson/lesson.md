@@ -324,6 +324,107 @@ Protocol, and its warning: refuse brokers' promises.
 Say the definition in your own words, and one promise
 the passage teaches you to refuse.
 
+## Sub lesson 12 — Work culture: the Awramba reading
+
+**Awramba (አውራምባ) (teacher guide — evidence).** Read about
+a community known for one thing above all: its **strong
+work culture**. Begin the way this reading begins — with
+pre-reading questions on the Awramba community: what do you
+expect a place to look like where work is honoured by
+everyone? Then read silently, on your own, and answer from
+the passage. Pull its main idea out in one sentence: what
+does this community prove about work?
+
+[Picture 8954 — the Awramba village at work: weaving, farming, carrying, together]
+
+## Sub lesson 13 — Unity in diversity: two readings
+
+**Tebechisa (ተበቺሳ) (teacher guide — evidence).** Read this
+passage — a cultural practice of one of the peoples of this
+land, taken as the case study of diversity itself. Its
+comprehension work is done aloud, answers given in detail.
+Read it, then say: what does this one people's practice
+teach about how different peoples hold one country?
+
+**Unity and Diversity: Nature's Twin Faces (አንድነትና
+ብዝሃነት፦ የተፈጥሮ መንታ ገጽታዎች) (teacher guide — evidence).**
+Read this passage for its themes. Its twin points stand in
+its title: **unity** and **diversity** — two seemingly
+opposite ideas that belong together, the way nature itself
+holds many kinds in one world. Name the passage's themes
+when you finish, and say in one sentence how the two ideas
+hold each other up.
+
+## Sub lesson 14 — Hospitality and the reckoning of time
+
+**Ethiopian Hospitality (ኢትዮጵያዊ እንግዳ ተቀባይነት) (teacher
+guide — evidence).** Read this passage — the same titled
+text that is also heard in its chapter — and read further
+texts on hospitality beside it. Its work is the reader's
+work at full stretch: state the gist (ጭምቅ ሀሳብ) of what
+you read; write a summary of it; and compare it with your
+own experience in writing. A passage is understood when
+its gist fits in one breath and its summary in one page.
+
+**The Reckoning of Time (የዘመን አቆጣጠር) (teacher guide —
+evidence).** Read — as this chapter sets it, after hearing —
+how time itself was reckoned. Recurring natural signs mark
+a period called **ዓውድ** (awd) — a cycle, a circle — in
+Ge'ez. The scholars of the **ባሕረ ሐሳብ** (Bahre Hasab)
+recorded the history of the kings in their books, taking
+as their models foreign historians — above all Abu Shakir
+and George ibn al-Amid, of the thirteenth century. And
+they linked the change of eras to the movement of the
+stars and planets. List the passage's general information
+and its detailed information apart: the cycle itself, then
+who kept it and how.
+
+[Picture 8953 — a Bahre Hasab manuscript page, its star-points joined in their cycle]
+
+[GIF 8998 — the ዓውድ: twelve star-points circling a still centre, round and round]
+
+**The Knowledge of Traditional Medicine (ሀገረሰባዊ የህክምና
+ጥበብ) (teacher guide — evidence).** Read what traditional
+medicine is, the process of preparing it (ቅመማ ሂደት), and
+what it focuses on. As you read, list two columns: the
+general information — what it is — and the detailed
+information — how a preparation is made, step by step.
+
+## Sub lesson 15 — Inclusive education: two readings
+
+**Tsehay and Her Challenges (ፀሐይ እና ተግዳሮቶቿ) (teacher
+guide — evidence).** Read the story of a learner with
+special needs — a reading that teaches attitude as much as
+information. Hold its keyed answers whole: help for
+disabled learners begins with **attitude change**; exams
+can be reached through **Braille and tape-recording**; and
+inclusive education (የአካቶ ትምህርት) exists to meet disabled
+learners' differing needs in a special way. Its challenges
+are named plainly: people's attitudes; some children's
+difficulties never being identified; and the assumption
+that disabled people cannot reach high levels. Inside its
+answers, two growing sequences are taught: speech grows
+**sound → words → sentences**, and movement grows
+**roll → crawl → creep → walk**. Say both sequences in
+order when you finish.
+
+**A Symbol of Perseverance (የአይበገሬነት ተምሳሌት) (teacher
+guide — evidence).** Read this passage and list its
+detailed information — not its gist this time, but the
+details, one by one, as the reading asks. A perseverance
+passage is understood when its details can be carried
+away in order: what was faced, what was done, what it
+proved.
+
+## Sub lesson 16 — Migration: the reading
+
+**Migration (ስደት) (teacher guide — evidence).** Read this
+passage on migration. When you finish, do its two works:
+explain what you have grasped, in your own words; and
+write the themes the passage presents. A migration passage
+is understood when you can say both — what it told, and
+what it is about — without opening it again.
+
 ## Say it to your companion
 
 Take one passage. Say its main idea in ONE sentence. Your
@@ -343,3 +444,8 @@ swap — a new passage, a new one-sentence teller.
    order.
 5. Summarise Growing a Backyard Garden Wisely in one
    sentence, as the book asks.
+6. From the Tsehay reading: say the two growing sequences in
+   order — speech (sound → words → sentences) and movement
+   (roll → crawl → creep → walk).
+7. State the gist (ጭምቅ ሀሳብ) of the hospitality reading in
+   one sentence, then write its summary in your own words.

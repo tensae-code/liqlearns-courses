@@ -11,6 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **Making many with -ኦች** — ቀሚስ → ቀሚሶች; plural forms drilled across the books (ጫማ→ጫማዎች pattern beside it).
 2. **Making many with -ዎች, and stripping it back** — the teacher guide's key: ቅርስ-አች = ቅርስ, መጽሐፍ-አች = መጽሐፍ, ገበሬ-ዎች = ገበሬ, በሬ-ዎች = በሬ, ጫማ-ዎች = ጫማ.
 3. **One or many? Sorting words** — the definition box: a singular word names one referent and takes no plural suffix; a plural word names two or more and takes plural suffixes (ብዙ ቁጥር አመልካች ቅጥያዎች).
+4. **The -ኦች system, re-taught** — singular nouns carry no marker; the plural is formed with the suffix -ኦች; subject and verb phrase agree in number, gender and person (መደብ); the older Ge'ez plural suffixes (-አን, -አት: መምህር→መምህራን, ልብስ→አልባሳት, ቤት→አብያት, ሊቅ→ሊቃውንት, and the revision table's ነፍስ→ነፍሳት, ወር→ወራት, ቀን→ቀናት, መጽሐፍ→መጻሕፍት) are named exactly as the guide names them, with their teaching deferred — no Ge'ez rule is built. *(Growth added in the Ethiopia Wave 1 G9–G10 build — teacher guide — evidence.)*
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -21,6 +22,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Make the plural of a word with -ኦች and with -ዎች.
 2. Strip -አች or -ዎች off a plural and give the singular.
 3. Sort a list of words into singular and plural, and say why each belongs where it is.
+4. State the grown system: a singular carries no marker, the plural takes -ኦች, and subject and verb phrase agree in number, gender and person.
+5. Recognise the named Ge'ez plurals (መምህራን, አልባሳት, አብያት, ሊቃውንት, ነፍሳት, ወራት, ቀናት, መጻሕፍት) when met — and say that their teaching is deferred, not built here.
 
 ## What you need
 Paper and a pencil. Nothing else.
@@ -31,6 +34,9 @@ Paper and a pencil. Nothing else.
    - ADD IMAGE [Picture 8396]: a picture of one becoming many — ቀሚስ → ቀሚሶች, ጫማ → ጫማዎች, ገበሬ → ገበሬዎች, ቅርስ → ቅርስአች — the student reads each pair and names the piece that made it many.
    - ADD GIF [GIF 8395]: a GIF of -ዎች dropping off ገበሬዎች to leave the singular ገበሬ standing — the student says the singular aloud as the piece falls.
    - ADD AUDIO: a voice reading singular–plural pairs (ገበሬ — ገበሬዎች, ጫማ — ጫማዎች) — the student says "one" or "many" for each word read.
+   - ADD GIF [GIF 9038]: a GIF of the suffix ኦች travelling in and locking onto ቀሚስ until ቀሚሶች stands whole, the count below going from one ring to three — the student says the plural at the moment the piece lands.
+   - ADD IMAGE [Picture 9027]: a picture of the plural system grown — singular with no marker, the -ኦች suffix, subject–verb-phrase agreement, and the named Ge'ez plurals in two columns — the student reads each named pair and says "named — teaching later".
+   - ADD AUDIO: a voice reading the named Ge'ez plural pairs (መምህር — መምህራን, ቤት — አብያት, ቀን — ቀናት) (slot only — no audio file is made in this build) → the student repeats each pair and names its singular.
 3. **Say it to your companion** — make a plural and strip one back for your companion (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — one becoming many in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, matching, fill-in-the-blank, true-or-false — served at the learner's level and teaching-mix (levels.md).
@@ -42,6 +48,9 @@ Paper and a pencil. Nothing else.
 - GIF [GIF 8395] — -ዎች dropping off to leave the singular → the student says the singular as it is left standing.
 - AUDIO — singular–plural pairs read aloud (slot only — no audio file is made in this build) → the student answers "one" or "many".
 - VIDEO — the video-script filmed (made later) → the student makes plurals along with it.
+- GIF [GIF 9038] — ኦች attaching to ቀሚስ → the student says the plural as the piece lands.
+- IMAGE [Picture 9027] — the plural system chart with the named Ge'ez plurals → the student reads the named pairs and marks them "teaching later".
+- AUDIO — the named Ge'ez plural pairs read aloud (slot only) → the student repeats each pair and names the singular.
 
 ## If the learner is stuck
 - Adds -ኦች to every word → the books use more than one plural piece (-ኦች, -ዎች, -አች); learn each word with its own piece, the way the key gives them: ገበሬ-ዎች, ቅርስ-አች.

@@ -27,3 +27,20 @@ A doctor built hospitals for mothers — and mothers call her
 **የኢትዮጵያ እናቶች እናት**, Mother of Ethiopia's Mothers.
 
 Lives are gathered, ordered, told. Now gather one.
+
+---
+
+Two more lives. Listen well.
+
+A woman met a hard trial. She did not stop.
+Her strength turned the trial — into good fortune.
+**ፈተናን ወደ መልካም ዕድል መለወጥ.**
+Tell her points truly. Invent none.
+
+And a writer's life — not in a table this time.
+On a recording. Press play.
+First time — the whole life, in outline.
+Second time — the details.
+Notes open. Ears open.
+
+Gather. Order. Tell. That is how lives are kept.

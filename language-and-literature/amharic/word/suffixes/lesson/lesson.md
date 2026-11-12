@@ -103,9 +103,48 @@ The same growing is then worked on ጀመረ, ነገረ, ደረሰ, ለመነ. A
 
 The table is completed the same way for ዘመረ, ነገረ, ደረበ, ሰረቀ, ጠረገ, ቀመሰ. The rule for reading: however big the grown verb looks, the root stands inside it — find ቆረጠ inside ተቆራረጠ, and you have found the word's home.
 
+## Sub lesson 6 — Prefixes: the pieces that enter before
+
+The riders at the FRONT of a word have had less of the light
+than the riders at the back. The higher classes name the whole
+system at once: **ቅድመ ገብና ድህረ ገብ ቅጥያዎች** — prefixes and
+suffixes.
+
+- A **prefix (ቅድመ ገብ ቅጥያ)** enters **before** the word.
+- A **suffix (ድህረ ገብ ቅጥያ)** enters **after** the word.
+
+[Picture 9056 — prefixes enter before, suffixes enter after]
+
+The guide's own keyed answers sort the pieces like this:
+
+- **-አዊ** — a suffix (you built with it in Sub lesson 4:
+  ኢትዮጵያ + -አዊ → ኢትዮጵያዊ).
+- **-ነት** — a suffix (it stands in the key twice).
+- **ኢ-** — a prefix; and in the keyed word it stands
+  **together with -አዊ**: one word carrying a piece at each
+  end.
+- **መ-** — a prefix.
+- **-ኦሽ** — a suffix.
+
+The wider system agrees. A word's bound pieces (ጥገኛ ምዕላድ)
+are prefixes such as **ስለ-, ከ-, በ-, መ-** and suffixes such as
+**-ኦች** — the plural piece you peeled in Sub lesson 1 —
+**-ኤ, -ኣቸው, -ዋ**.
+
+[GIF 9057 — ከ- and -ኦች joining ሴት from both sides]
+
+Watch both ends at once: ከ- walks in from the front, -ኦች
+from the back, and ሴት stands in the middle: **ከሴቶች**. So
+the reading rule of this whole lesson grows to its full
+size: **a long word may carry pieces at BOTH ends — peel from
+the front AND the back, and the word stands in the middle.**
+The work that goes with it is the builder's work: form words
+with affixes — take a word, add a prefix, add a suffix, and
+read what you have built.
+
 ## Say it to your companion
 
-Tell your companion: a ቅጥያ is a little piece on a word — before the stem or after it. Peel ውን off ክፍያውን for them. Then say the four house words — ቤቴ, ቤትህ, ቤትሽ, ቤታችን — and let your companion guess whose house each one is. Then build: give your companion the stem ኢትዮጵያ and let them add -አዊ; give them ሆድ and let them add -ኣም. Last, grow a family together: say the root ቆረጠ aloud, then its family — ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ — one form each, in turn.
+Tell your companion: a ቅጥያ is a little piece on a word — before the stem or after it. Peel ውን off ክፍያውን for them. Then say the four house words — ቤቴ, ቤትህ, ቤትሽ, ቤታችን — and let your companion guess whose house each one is. Then build: give your companion the stem ኢትዮጵያ and let them add -አዊ; give them ሆድ and let them add -ኣም. Last, grow a family together: say the root ቆረጠ aloud, then its family — ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ — one form each, in turn. Then sort the pieces: say ኢ-, -አዊ, መ-, -ነት, -ኦሽ one by one, and let your companion call "prefix — before!" or "suffix — after!" for each one.
 
 ## Do It Yourself
 
@@ -117,3 +156,4 @@ Tell your companion: a ቅጥያ is a little piece on a word — before the stem
 6. Build the adjective: ድንጋይ + -አማ, ኢትዮጵያ + -አዊ, ሆድ + -ኣም, ሕመም + -ተኛ. Write each whole word and name its suffix family.
 7. Split ዝናባማነት into its three pieces, on the model ዝናብ + -ኣማ + -ነት.
 8. Grow the family of ቆረጠ from memory — ተ-, አስ-/አ-, and the two doubled-middle forms — then check against Picture 8681.
+9. Sort these pieces into prefixes and suffixes: ኢ-, -አዊ, መ-, -ነት, -ኦሽ, ስለ-, -ኦች. Then build one word with a piece at each end, on the model ከ- + ሴት + -ኦች → ከሴቶች, and peel it back into its three pieces.

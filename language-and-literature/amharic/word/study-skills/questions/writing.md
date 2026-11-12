@@ -22,3 +22,12 @@ Write each one on paper.
 
 **7. (Sub lesson 7)** Draw a KWL chart for a hard text you are about to read — on farmers, a palace, or a person's life. Fill K and W now, with at least two hard W questions.
 **Answer guide: K holds true prior knowledge; W holds questions the text must work to answer; L is left ready to fill after reading.**
+
+**8. (Sub lesson 8)** Write the three stages of reading, with the time each one takes and what happens in it.
+**Answer guide: before — 2–5 minutes, warm-up only, the message never revealed; during — 10–15 minutes, silent reading, each learner with their own book, re-reading allowed; after — the longest stage: questions, discussion, exercises, correction.**
+
+**9. (Sub lesson 9)** Plan your own extensive reading: name one short-fiction book, mark two weeks for it on a calendar, and write five test questions on its content, worth 10–15 marks in all.
+**Answer guide: one book only; the two weeks are paced (a little every day); every question is answerable from the book's content.**
+
+**10. (Sub lesson 10)** Write the seven listening strategies as a checklist for yourself, and mark the one you most need to practise.
+**Answer guide: all seven, in the lesson's order — decide to listen; drop agenda and prejudice; be curious, ask open questions; eye contact and visual cues; hear the whole message first; patience; respect a differing idea.**

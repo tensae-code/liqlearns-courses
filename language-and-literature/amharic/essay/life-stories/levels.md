@@ -22,3 +22,9 @@ Sub lesson 4 questions from the type files. Pass mark: compile a shortened life 
 
 ## Sub lesson 5 — Dr Catherine Hamlin: a worked life (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: retell the life as a summary — hospitals founded, mothers treated free and recovering, the "Right Livelihood" award, and the name የኢትዮጵያ እናቶች እናት.
+
+## Sub lesson 6 — Yetnebersh Nigussie: a trial turned to good fortune (teacher guide — evidence)
+Sub lesson 6 questions from the type files. Pass mark: tell the life by the points the listening truly gives — a disabled woman of history, her strength, a trial turned to good fortune — and say where the guide's presentation names its source (its reference list's two web biographies).
+
+## Sub lesson 7 — Dr Haddis Alemayehu, heard from a recording (teacher guide — evidence)
+Sub lesson 7 questions from the type files. Pass mark: run the recorded-life method in order — prior knowledge stated, main information from the first playing, detailed information from the second, the life told whole from notes — and say how it differs from Sub lesson 4's table method.

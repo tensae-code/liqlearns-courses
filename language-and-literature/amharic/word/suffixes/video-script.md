@@ -33,3 +33,12 @@ And a verb root grows a family. **ሥርወቃል**.
 **ሰፋ** grows: **አሰፋ, ተሰፋ, ተስፋፋ, አስፋፋ**.
 **ቆረጠ** grows: **ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ**.
 However big the word, the root stands inside it. Find the root.
+
+Now name the whole system.
+**ቅድመ ገብ ቅጥያ** — the prefix. It enters BEFORE.
+**ድህረ ገብ ቅጥያ** — the suffix. It enters AFTER.
+**ኢ-** — before. A prefix. **መ-** — before. A prefix.
+**-አዊ** — after. A suffix. **-ነት** — after. **-ኦሽ** — after.
+And one word can carry both!
+**ከ-** in front… **ሴት** in the middle… **-ኦች** behind: **ከሴቶች**.
+Peel from the front. Peel from the back. The word stands in the middle.

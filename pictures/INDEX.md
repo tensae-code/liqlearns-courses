@@ -971,3 +971,37 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9463 | pictures/9463.webp | a rainbow over a landscape | Performing and Visual Arts — Singing About Colours |
 | 9464 | pictures/9464.webp | a child holding up a finished coloured drawing | Performing and Visual Arts — Singing About My Drawing |
 | 9465 | pictures/9465.webp | our green land: green hills, a river, trees | Performing and Visual Arts — Songs of Nature |
+| 8950 | pictures/8950.webp | a traditional mediation council (መድዓ) | Amharic — Listening Stories |
+| 8951 | pictures/8951.webp | the ETRSS-1 satellite | Amharic — Listening Stories |
+| 8952 | pictures/8952.webp | the assistive-devices board | Amharic — Listening Stories |
+| 8953 | pictures/8953.webp | a Bahre Hasab manuscript page | Amharic — Reading Passages |
+| 8954 | pictures/8954.webp | Awramba | Amharic — Reading Passages |
+| 8955 | pictures/8955.webp | a warka tree (ሀገሬ ዋርካ ናት) | Amharic — Poems and Songs |
+| 8956 | pictures/8956.webp | a story map | Amharic — Writing About Stories |
+| 8957 | pictures/8957.webp | a tape recorder (a recorded life) | Amharic — Life Stories |
+| 8958 | pictures/8958.webp | a meeting scene | Amharic — Life Stories |
+| 8997 | pictures/8997.gif | the five mediation steps, in order | Amharic — Listening Stories |
+| 8998 | pictures/8998.gif | the ዓውድ cycle turning | Amharic — Reading Passages |
+| 8999 | pictures/8999.gif | tape reels turning | Amharic — Life Stories |
+| 9020 | pictures/9020.webp | the idioms chart: ፈሊጣዊ አነጋገሮች — the saying, word by word, what it really means (filed at 9020 after the 9000s collision — see build log band4-T) | Amharic — Idioms |
+| 9021 | pictures/9021.webp | sentence constituents: ባለቤት / ተሳቢ / ማሰሪያ አንቀጽ | Amharic — The Sentence |
+| 9022 | pictures/9022.webp | morphemes: free and bound | Amharic — The Sentence |
+| 9023 | pictures/9023.webp | the negative shapes chart | Amharic — The Sentence |
+| 9025 | pictures/9025.webp | the pronoun persons: speaker, listener, topic | Amharic — Word Kinds |
+| 9026 | pictures/9026.webp | adjectives grown: the keyed list | Amharic — Word Kinds |
+| 9027 | pictures/9027.webp | the -ኦች plural system chart | Amharic — One and Many |
+| 9037 | pictures/9037.gif | the negative wrapping a verb (አል-…-ም) | Amharic — The Sentence |
+| 9038 | pictures/9038.gif | -ኦች attaching to a word | Amharic — One and Many |
+| 9039 | pictures/9039.gif | idiom cards joining into one saying | Amharic — Idioms |
+| 9050 | pictures/9050.webp | the explanatory essay's four-step working order | Amharic — Writing Essays |
+| 9051 | pictures/9051.gif | an explanatory essay growing paragraph by paragraph | Amharic — Writing Essays |
+| 9052 | pictures/9052.webp | traditional mediation in five numbered steps | Amharic — How-To Writing |
+| 9053 | pictures/9053.gif | the five mediation steps appearing in order | Amharic — How-To Writing |
+| 9054 | pictures/9054.webp | denotative against connotative: መሬት, መብረቅ | Amharic — Word Meanings |
+| 9055 | pictures/9055.gif | መብረቅ: the bolt (denotative flash), then a shocked face (connotative) | Amharic — Word Meanings |
+| 9056 | pictures/9056.webp | prefixes enter before, suffixes enter after | Amharic — Suffixes |
+| 9057 | pictures/9057.gif | ከ- sliding in from the front, -ኦች from the back, joining one word | Amharic — Suffixes |
+| 9058 | pictures/9058.webp | the three stages across the three skills chart | Amharic — Study Skills |
+| 9059 | pictures/9059.webp | extensive reading: one book, a 14-day calendar, the 10–15-mark test | Amharic — Study Skills |
+| 9060 | pictures/9060.gif | an extensive-reading calendar filling day by day | Amharic — Study Skills |
+| 9061 | pictures/9061.webp | the seven listening strategies, numbered | Amharic — Study Skills |

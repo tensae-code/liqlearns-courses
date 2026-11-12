@@ -7,3 +7,6 @@ Put the things in the right order.
 
 **2. (Sub lesson 1)** Put the salad steps in order: serve with bread or injera — chop — wash — mix with oil and salt, then lemon juice.
 **Answer: wash → chop → mix with oil and salt, then lemon juice → serve with bread or injera.**
+
+**3. (Sub lesson 3)** Put the five steps of traditional mediation in their process order: choose mediators for both sides — conduct the mediation — preliminary inquiry — choose the mediation judge — obtain consent to reconcile.
+**Answer: preliminary inquiry → obtain consent to reconcile → choose mediators for both sides → choose the mediation judge → conduct the mediation.**

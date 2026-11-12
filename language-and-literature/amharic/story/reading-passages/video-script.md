@@ -38,3 +38,20 @@ Find it. Say it in one sentence.
 
 Numbers are part of the story.
 Carry them away in order: 92,200 — 8,290 — 8,222.
+
+---
+
+Now read about a village where work is honour.
+
+Nobody stands idle. The weaver weaves. The farmer digs.
+The child helps. The basket is carried.
+
+Ask before you read: what holds this village together?
+Read. Then say the whole passage in ONE sentence.
+That sentence is its main idea.
+
+And read about time itself. **ዓውድ** — a cycle. A circle.
+The old scholars watched the stars,
+and the years went round, and round, and round.
+
+Read first for what it says. Then for what it means.

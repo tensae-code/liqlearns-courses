@@ -72,3 +72,27 @@ a) In a market  b) In the deep forest, gone hunting  c) On a river
 **18. (Sub lesson 12)** In the city-farming story, what do the young people do with their surplus?
 a) Give it all away  b) Save it in a bank, and teach their neighbours  c) Buy a car
 **Answer: b)** — day labour, then የከተማ ግብርና: they save the surplus and teach others.
+
+**19. (Sub lesson 13)** What is መድዓ (med'a) in the Afar listening?
+a) The mediation judge's staff  b) The Afar traditional law itself  c) The oath the parties swear
+**Answer: b) The Afar traditional law itself** — held up by ድግ (tolerance and support) and አድሊ (justice and balance).
+
+**20. (Sub lesson 14)** What career total does the guide key for the first Ethiopian woman captain?
+a) 475 flying hours  b) 4,475 flying hours  c) 14,475 flying hours
+**Answer: b) 4,475 flying hours.**
+
+**21. (Sub lesson 15)** Where does the ground station of Ethiopia's first satellite, ETRSS-1, stand?
+a) At Entoto  b) At Bole airport  c) At Adwa
+**Answer: a) At Entoto** — the satellite weighs 70 kg and serves farming, mining, environment, climate watching and mapping.
+
+**22. (Sub lesson 16)** What change does the tax listening argue for?
+a) Tax should be paid only by traders  b) People should stop seeing tax as obligation only, and see it as building their country  c) Tax should be collected once in a lifetime
+**Answer: b)** — many citizens see tax only as an obligation; that attitude, the text says, must change.
+
+**23. (Sub lesson 17)** Which of these is one of the seven strategies of effective listening?
+a) Answer before the speaker finishes, to save time  b) Hear the whole message before answering — never interrupt  c) Look away so the speaker relaxes
+**Answer: b)** — strategy five of the seven.
+
+**24. (Sub lesson 18)** How many times may the drug-consequences text be read aloud, by the guide's rule?
+a) Once only  b) Two, up to three times, according to the learners' language background  c) Ten times
+**Answer: b)** — hearers come with different strengths in the language, so the reading is repeated.

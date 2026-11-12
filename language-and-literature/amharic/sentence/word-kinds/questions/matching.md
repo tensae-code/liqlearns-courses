@@ -8,5 +8,7 @@ Match each kind to its job.
 4. (Sub lesson 4) አያያዥ ቃላት — d) shows the action; stands at the sentence's end
 5. (Sub lesson 5) ተውሳከግስ — e) comes before a noun; shows time, place, reason
 6. (Sub lesson 6) መስተዋድድ — f) shows a noun's kind, quality or size
+7. (Sub lesson 12) መደብ — g) person: the place a pronoun's person stands in — speaker, listener, talked-about
+8. (Sub lesson 13) ስም ገላጭ — h) a noun's modifier, standing before the noun (ረጅም in ረጅም ቀሚስ)
 
-**Answer key:** 1 — b, 2 — d, 3 — f, 4 — c, 5 — a, 6 — e.
+**Answer key:** 1 — b, 2 — d, 3 — f, 4 — c, 5 — a, 6 — e, 7 — g, 8 — h.

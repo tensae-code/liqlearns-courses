@@ -68,3 +68,23 @@ a) It grew  b) It shrank from 92,200 to 8,290 hectares  c) It stayed the same
 **17. (Sub lesson 11)** Which of these is one of the passage's three causes of child labour exploitation?
 a) ድህነት — poverty  b) Rain  c) Big schools
 **Answer: a)** — poverty; parents' distorted attitude; and illegal people-movers.
+
+**18. (Sub lesson 12)** The Awramba community is known above all for —
+a) Its strong work culture  b) Its high mountains  c) Its fishing boats
+**Answer: a) Its strong work culture** — the reading begins with pre-reading questions on the community, then silent reading.
+
+**19. (Sub lesson 13)** In Nature's Twin Faces, unity and diversity are presented as —
+a) Enemies that can never meet  b) Two seemingly opposite concepts that belong together  c) The same word said twice
+**Answer: b)** — the passage's themes are the twin points themselves, held together as nature holds them.
+
+**20. (Sub lesson 14)** What is ዓውድ (awd) in the reckoning-of-time reading?
+a) A king's throne  b) A period marked by recurring natural signs — a cycle, a circle  c) A kind of manuscript ink
+**Answer: b)** — the Bahre Hasab scholars linked the change of eras to the movement of the stars and planets.
+
+**21. (Sub lesson 15)** In Tsehay and Her Challenges, exams can be reached by disabled learners through —
+a) Braille and tape-recording  b) Guessing the questions  c) Sitting a different, easier exam only
+**Answer: a) Braille and tape-recording** — and help begins, the answers key, with attitude change.
+
+**22. (Sub lesson 16)** What two works does the migration reading set?
+a) Copy the passage and learn it by heart  b) Explain what was grasped, and write the themes presented  c) Draw a map and label it
+**Answer: b)** — grasp explained in your own words; themes written.

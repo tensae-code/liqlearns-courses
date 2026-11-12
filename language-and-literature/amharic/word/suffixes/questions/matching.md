@@ -17,3 +17,11 @@ More matching — the new pieces:
 8. (Sub lesson 5) አቆራረጠ / ተቆራረጠ — d) ተቆረጠ
 
 **Answer key (new rows):** 5 — b, 6 — c, 7 — d, 8 — a.
+
+More matching — pieces at both ends:
+
+9. (Sub lesson 6) ኢ- — a) a prefix (enters before)
+10. (Sub lesson 6) -ነት — b) a suffix (enters after)
+11. (Sub lesson 6) መ- — c) a stem (the word itself)
+
+**Answer key (Sub lesson 6 rows):** 9 — a, 10 — b, 11 — a.

@@ -19,3 +19,12 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 4)** In ሚዛን ("The Scale"), Senait measured her butter with her own weight-stone.
 **Answer: False** — she had a scale but no weight-stone; she measured her butter by Zebiba's own bread, which is why the accusation fell.
+
+**7. (Sub lesson 7)** The guides' definitions say fiction, being invented, has nothing to do with truth.
+**Answer: False** — the teaching is the opposite: a creative work from the author's mind and heart, which does not mean it is cut off from truth.
+
+**8. (Sub lesson 8)** A short fiction can carry several sub-plots and many conflicts at once.
+**Answer: False** — that is long fiction's build; short fiction has one story, one narrative line, few characters and a narrow setting.
+
+**9. (Sub lesson 9)** Extensive reading gives the class one shared short-fiction book, read as homework over two weeks or more.
+**Answer: True** — the time is adjusted to the learners' language background and the book's accessibility.

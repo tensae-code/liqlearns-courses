@@ -40,3 +40,21 @@ Sub lesson 11 questions from the type files. Pass mark: fill the cause-and-effec
 
 ## Sub lesson 12 — Stories the guides keep whole
 Sub lesson 12 questions from the type files. Pass mark: stop at the folktale's mid-tale point and guess with a reason; name the three cultural dresses apart; and say the city farmers' steps — work, grow, save, teach.
+
+## Sub lesson 13 — Traditional mediation — the Afar law and the five steps (teacher guide — evidence)
+Sub lesson 13 questions from the type files. Pass mark: name the Afar law መድዓ, its two ideas ድግ and አድሊ and its levels; and say mediation's principles and its five steps in order, oath last.
+
+## Sub lesson 14 — A captain, and tools that let every learner take part (teacher guide — evidence)
+Sub lesson 14 questions from the type files. Pass mark: give the captain's keyed number — 4,475 flying hours; say the women's-education listening's road to 2015 in one sentence; and work the devices table — device, who uses it, what it does — without a miss.
+
+## Sub lesson 15 — A satellite, a sickness, and the dry land (teacher guide — evidence)
+Sub lesson 15 questions from the type files. Pass mark: name ETRSS-1's weight, ground station and five services; malaria's two parasites, its carrier and its four preventions; and the desertification talk's chain.
+
+## Sub lesson 16 — Tax, and a patriot (teacher guide — evidence)
+Sub lesson 16 questions from the type files. Pass mark: state the tax argument in one sentence, and retell Colonel Abdisa Aga's biography in order with one cause-and-effect pair matched.
+
+## Sub lesson 17 — Listening well — the seven strategies (teacher guide — evidence)
+Sub lesson 17 questions from the type files. Pass mark: list the seven strategies in order and show one of them at work in your own listening.
+
+## Sub lesson 18 — Hard roads — addiction and migration (teacher guide — evidence)
+Sub lesson 18 questions from the type files. Pass mark: say the drug text's costs in order — body, purse, town — and separate the migration account's main points from its detailed points.

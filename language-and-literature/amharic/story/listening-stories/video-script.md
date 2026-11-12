@@ -50,3 +50,23 @@ Is it fair? Say why.
 
 Listen this week. Stop at the question. Guess.
 Then listen on.
+
+---
+
+Now hear how people settle a quarrel — the old way, the fair way.
+
+Two sides. Angry. Apart.
+Between them sit the elders. That is the law called **መድዓ**.
+
+Step one — ask: what happened?
+Step two — both sides agree to make peace.
+Step three — choose the mediators.
+Step four — choose the judge.
+Step five — hold the mediation. Speak. Listen. Decide.
+
+And at the end — an oath. The decision stands.
+
+Count the steps with me: one, two, three, four, five.
+
+This week, when you listen — listen like an elder.
+Hear the whole message. Never interrupt. Then answer.

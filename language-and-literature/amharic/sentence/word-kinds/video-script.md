@@ -49,3 +49,18 @@ Question words: **ማን** — who? **ምን** — what? **ወዴት** — where
 Last split. Can you count it?
 **በሬ** — one, two, three: **የሚቆጠሩ**.
 **ዉኃ, ስኳር** — no number: **የማይቆጠሩ**.
+
+---
+
+Now stand in the places of person.
+You speak: **እኔ** — first person.
+You listen: **አንተ, አንቺ** — second person.
+You are talked about: **እሱ, እሷ** — third person.
+**መደብ** is the place you stand in. Change places — the word changes.
+
+And the adjective, grown.
+It walks **before** its noun.
+**ረጅም ቀሚስ** — a long dress.
+**አዲስ መኪና** — a new car.
+**ጎጂ ልማድ** — a harmful habit.
+Find the noun. Look just before it. There stands the **ቅጽል**.

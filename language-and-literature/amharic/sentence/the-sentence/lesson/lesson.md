@@ -154,11 +154,65 @@ The verb ሲመጣ (*while coming*) is bound — said alone, it gives no full se
 
 So the old test and the new test agree: count the verbs — two or more, and the sentence is ውስብስብ; then look closer and find which verb is bound and which one binds it.
 
+## Sub lesson 10 — The sentence's constituents, grown: ባለቤት, ተሳቢ, ማሰሪያ አንቀጽ *(teacher guide — evidence)*
+
+In Sub lesson 5 you took a sentence into two sides. Now the analysis goes one part deeper — a sentence is opened into **three constituents**:
+
+- **ባለቤት** — the **subject**: who or what the sentence is about.
+- **ተሳቢ** — the **object**: the one the action falls on, who receives what is done.
+- **ማሰሪያ አንቀጽ** — the **verb phrase**: the doing part that binds the sentence together.
+
+[Picture 9001 — opening a sentence: subject, object, verb phrase]
+
+Work the analysis the way the table works it. First row: **ቶፊቅ ጻፈ።** — Tofiq wrote. The ባለቤት is **ቶፊቅ** — the sentence is about him. The ማሰሪያ አንቀጽ is **ጻፈ** — the verb phrase, *wrote*.
+
+Now a long one: **ታላቁ የህዳሴ ግድብ የኤሌክትሪክ ሀይል ማመንጨት ጀመረ።** — The Grand Renaissance Dam began generating electricity. Do not let its length frighten you. Ask the same questions: who or what is it about? **ታላቁ የህዳሴ ግድብ** — the subject, the whole grand name together. What is its doing part? **የኤሌክትሪክ ሀይል ማመንጨት ጀመረ** — the verb phrase: *began generating electricity*.
+
+Ten sentences are worked this way in the full table — subject on one side, verb phrase on the other, and the ተሳቢ named where the action lands on someone or something. Your habit is the table's habit: subject first, verb phrase last, object where the doing falls.
+
+## Sub lesson 11 — Morphemes: the free and the bound *(teacher guide — evidence)*
+
+Under the word there is one smaller floor: the **morpheme — ምዕላድ** — the smallest piece of a word that carries meaning. Morphemes come in two kinds.
+
+[Picture 9002 — morphemes: free and bound]
+
+**Free morphemes — ነፃ ምዕላድ.** A free morpheme can **stand alone** as a word by itself: **ላም** (a cow), **ሴት** (a woman), **ውይይት** (a discussion). Nothing holds it up; it stands.
+
+**Bound morphemes — ጥገኛ ምዕላድ.** A bound morpheme **cannot stand alone** — it must lean on a free one. They come in two families:
+
+- **Prefixes — ቅድመ አምድ ቅጥያ** — they enter **before** the stem: **ስለ-**, **ከ-**, **በ-**, **መ-**.
+- **Suffixes — ድህረ አምድ ቅጥያ** — they enter **after** the stem: **-ኦች** (the plural you know), **-ኤ**, **-ኣቸው**, **-ዋ**.
+
+Now split a built word into its pieces: **ላም + ኦች + ኣቸው** — the free stem ላም, the plural suffix -ኦች, and the suffix -ኣቸው riding last. And **ውይይት + ኣችን** — a free stem carrying one bound piece. You have done this before with plurals; now you can name every piece: free or bound, prefix or suffix.
+
+Bound pieces also **build new words**. With the building suffixes **-አም, -ነት, -ኛ, -አዊ** the language grows: **ወተታም**, **ልጅነት** (childhood), **ዜግነት** (citizenship), **ሰማያዊ** (sky-blue / heavenly), **ዘመናዊ** (modern). A free morpheme is the wood; bound morphemes are the joints and the carving.
+
+## Sub lesson 12 — Affirmative to negative, grown *(teacher guide — evidence)*
+
+Sub lesson 7 taught you the negative's wrap: **አል- … -ም** around the verb. Now the conversion work is done in full, on the guide's own keyed pairs — and the verb itself changes shape inside the wrap:
+
+**ገሰፀ → አልገሰፁም.** He rebuked → he did not rebuke. Look closely: አል- stands before, -ም after, and the verb between them is not quite the verb you started with — ገሰፀ has become ገሰፁ inside the negative. Learn the pair as the pair is given: affirmative on the left, its negative on the right.
+
+[Picture 9003 — affirmative to negative, grown]
+
+[GIF 9017 — an affirmative verb wrapped into its negative]
+
+Watch አል- and -ም close around the verb from both sides. That closing is the conversion.
+
+But not every negative is a wrapped verb. Two more shapes stand beside it:
+
+- **አይደለም** — *is not*. Where a sentence says what a thing **is**, its negative does not wrap a verb — it says አይደለም.
+- **የላቸውም** — *they do not have*. Where a sentence is about **having**, the negative for possession is የላቸውም.
+
+So the converter's questions are three: is it an action? — wrap the verb in አል- … -ም. Is it a being? — አይደለም. Is it a having? — የላቸውም.
+
 ## Say it to your companion
 
 Tell your companion: a sentence carries one complete idea, and it ends with ።, ? or !. Then take two short sentences of your own and join them with ስለ, the way the dialogue joins 1ኛ መወጣት እፈልጋለሁ and ሁልጊዜ አጠናለሁ. Your companion counts the verbs in your joined sentence: if there are two or more, they say "ውስብስብ!"
 
 Then go further: take the sentence ትልቁ ልጅ እየሮጠ መጣ and name its ባለቤት and its ማሰሪያ አንቀጽ for your companion. Say one sentence of each of the four functions — stating, asking, ordering, exclaiming. Say መጣ as an affirmative, then break it into its negative with አል- … -ም. Finish with an "is" sentence on the model እነዚህ ዋልያዎች ናቸው, and let your companion name the pointer, the complement and the being-verb.
+
+Go deeper still: open ታላቁ የህዳሴ ግድብ የኤሌክትሪክ ሀይል ማመንጨት ጀመረ into its ባለቤት and its ማሰሪያ አንቀጽ for your companion. Split ላም + ኦች + ኣቸው aloud, naming each piece free or bound. Then convert: say ገሰፀ, and let your companion answer with its negative — አልገሰፁም — and name the two shapes አይደለም and የላቸውም and what each one negates.
 
 ## Do It Yourself
 
@@ -172,3 +226,6 @@ Then go further: take the sentence ትልቁ ልጅ እየሮጠ መጣ and name
 8. Write ልጁ መጣ። as a negative sentence, wrapping its verb in አል- … -ም.
 9. Unscramble ናቸው እነዚህ በሬዎች into the right order, then write two "is / are" sentences of your own with a noun complement.
 10. Write one ነጠላ (simple) sentence. Then grow it into a ውስብስብ (complex) one by binding its verb with ሲ- and adding a binding verb, on the model ልጁ ከትምህርትቤት ሲመጣ አባቱ ወደቢሮ ሄደ።
+11. Open these two sentences into ባለቤት and ማሰሪያ አንቀጽ: ቶፊቅ ጻፈ። and ታላቁ የህዳሴ ግድብ የኤሌክትሪክ ሀይል ማመንጨት ጀመረ። Say where a ተሳቢ would stand — the one the action falls on.
+12. Split these words into their morphemes and name each piece free or bound: ላምኦችኣቸው (ላም + ኦች + ኣቸው), ውይይትኣችን. Then build one new word with -ነት and one with -አዊ, on the models ልጅነት and ሰማያዊ.
+13. Convert ገሰፀ into its negative, exactly as the keyed pair gives it. Then write the negative shape for "is not" (አይደለም) and for "they do not have" (የላቸውም).

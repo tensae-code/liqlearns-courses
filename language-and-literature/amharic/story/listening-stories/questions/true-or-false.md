@@ -36,3 +36,21 @@ Say if the sentence is true or false.
 
 **12. (Sub lesson 12)** At the Dawro New Year, only the people eat their fill; the animals are forgotten.
 **Answer: False** — on New Year's Eve the household and the animals eat their fill, and then the youth sing house to house.
+
+**13. (Sub lesson 13)** In the Afar law, ድግ (dig) names justice and balance, and አድሊ (adli) names tolerance and support.
+**Answer: False** — it is the other way round: ድግ is mutual tolerance and support; አድሊ is justice and balance.
+
+**14. (Sub lesson 14)** The women's-education listening works through international commitments on girls' and women's education up to the year 2015.
+**Answer: True** — the passage runs through the commitments up to 2015, heard with note-taking.
+
+**15. (Sub lesson 15)** In the malaria listening, four-fifths of the deaths in the text's 2013 figures were children under five.
+**Answer: True** — 241 million cases and 627,000 deaths, four-fifths of the deaths under five.
+
+**16. (Sub lesson 16)** The tax listening says people should keep seeing tax as an obligation only, never as building the country.
+**Answer: False** — the text argues the opposite: that way of seeing must change.
+
+**17. (Sub lesson 17)** One of the seven listening strategies is to interrupt politely whenever you disagree.
+**Answer: False** — the strategies say the opposite: hear the whole message before answering, never interrupt, and respect the right to express a differing idea.
+
+**18. (Sub lesson 18)** In the migration listening, the learners' work is to take notes while listening.
+**Answer: True** — ስደትና መከራው is heard with note-taking, then its main and detailed points are given.

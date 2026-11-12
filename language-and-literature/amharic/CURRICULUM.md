@@ -61,10 +61,30 @@ numbered question items**. Listening Stories now counts as
 taught (its new sub lessons rest on the pupil books); Fidel
 Shapes remains the one evidence-only lesson. See ABOUT.md.
 
-Band still to build: G9–G10 from the complete federal teacher
-guides — those two grades have no secured student books, and
-their levels will be labelled as teacher-guide evidence in the
-course record, exactly as the placements label them.
+**Band 4 (G9–G10, from the complete federal teacher guides
+only) — BUILT 2026-11-12:** Grades 9–10 have no secured student
+books, so this whole band is teacher-guide evidence, labelled
+part by part in every lesson's sources. 1 new lesson (Idioms —
+evidence-only, counted nowhere) and 13 lessons grown at the top
+of their strands: Listening Stories (mediation, the first woman
+captain, ETRSS-1, malaria, tax, Abdisa Aga), Reading Passages
+(Awramba, hospitality, Bahre Hasab, migration), Poems and Songs
+(the G10 poetry chapter), Writing About Stories (fiction
+defined; short and long fiction), Life Stories (Yetnebersh
+Nigussie; the recorded life of Haddis Alemayehu), The Sentence
+(constituents, morphemes, the negative grown), Word Kinds
+(pronouns and person, adjectives grown), One and Many (the
+-ኦች system and the Ge'ez plurals, named and deferred exactly
+as the guide leaves them), Word Meanings (denotative and
+connotative), Suffixes (prefixes join), How-To Writing
+(mediation as a process text), Writing Essays (the explanatory
+essay) and Study Skills (the three stages, extensive reading,
+the seven listening strategies, revision questions as a study
+method). 34 more media filed (8950–9061). **The Amharic course
+is complete at 67 lessons, 326 media files, and 1,500 numbered
+question items (disk recount, 2026-11-12).** Of the 67 lessons,
+65 are taught from Ethiopia's pupil books and 2 stand on
+teacher-guide evidence only (Fidel Shapes, Idioms).
 
 ## Unit 1 — First Steps (the pre-primary level)
 
@@ -191,6 +211,11 @@ course record, exactly as the placements label them.
    headache table's structure — its figures are not in the
    books' placements and none are invented), note-taking while
    listening, KWL grown up.
+
+9. **Idioms** (`word/idioms`) — ፈሊጣዊ አነጋገሮች: sayings whose
+   meaning is more than their words (ሆድና ጀርባ; እጅ አጠረው; ጥራዝ
+   ነጠቅ; ጥቁር እንግዳ). Teacher-guide evidence only (Grade 9
+   guide), labelled in its sources and counted nowhere.
 
 ## Unit 4 — Sentence
 

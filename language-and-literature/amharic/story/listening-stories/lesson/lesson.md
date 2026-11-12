@@ -383,6 +383,171 @@ and took up የከተማ ግብርና — city farming. They save their
 surplus in a bank, and they teach their neighbours. Say
 the story's steps: work, grow, save, teach.
 
+## Sub lesson 13 — Traditional mediation: the Afar law and the five steps
+
+**The Afar Traditional Legal System (teacher guide —
+evidence).** Hear how the Afar people order their law. The
+law's own name is **መድዓ** (med'a). Two ideas hold it up:
+**ድግ** (dig) — mutual tolerance and support — and **አድሊ**
+(adli) — justice and balance. And it stands in levels: the
+sultanate, the clan, and the youth. Before you listen, talk
+about the traditional law of your own area; while you listen,
+take notes; if a part is not understood, hear it again.
+
+[Picture 8950 — elders seated between two parties under a tree]
+
+**Traditional Mediation — the reading heard as listening
+(teacher guide — evidence).** Mediation has its own aim and
+its own principles: equality, fairness, balance,
+truthfulness, humanity. And it runs in **five steps**, in
+this order:
+
+1. a preliminary inquiry — finding out what happened;
+2. obtaining the two sides' consent to reconcile;
+3. choosing mediators for both sides;
+4. choosing the mediation judge;
+5. conducting the mediation itself.
+
+At the end, the parties swear an oath confirming the
+decision to reconcile. Say the five steps back in order —
+a mediation out of order is no mediation. Then act it: the
+way this is learned is by enacting it — choose a mediation
+custom you know, cast the parts, and perform it.
+
+[GIF 8997 — the five steps of mediation lighting in order, the two sides drawing closer]
+
+[Audio — the Afar law account and the mediation reading read aloud; retell the law's name, its two ideas, and the five steps]
+
+## Sub lesson 14 — A captain, and tools that let every learner take part
+
+**The First Ethiopian Woman Captain (የመጀመሪያዋ ኢትዮጵያዊት ሴት
+ካፒቴን) (teacher guide — evidence).** The title is written up
+before you hear a word. First, questions aloud: what do you
+already know? Then hear the life of the first Ethiopian
+woman to captain an aeroplane — and hold its keyed number:
+**4,475 flying hours** in her career. After listening,
+answer first in your group, then to the class. Say why her
+story stands in the Gender chapter: what it proves about
+who may do great work.
+
+**Women's Participation in Education (የሴቶች የትምህርት ተሳትፎ)
+(teacher guide — evidence).** Hear a passage that works
+through the world's commitments on girls' and women's
+education, up to the year 2015. Take notes as you listen.
+Say the listening's road in one sentence: what was promised
+for girls' schooling, step by step, up to 2015?
+
+**The Assistive Devices (teacher guide — evidence).** Now
+hear a table — a device, who uses it, and what it does.
+Learn it whole; it is a complete teaching in itself:
+
+- **ብሬል** (Braille) — raised dots read by touch, for blind learners;
+- **ኬን** (white cane) — felt ahead on the ground, for blind walkers;
+- Braille paper and **ስታይለስ** (stylus) — the sheet and the point that writes the dots;
+- **ተሸከርካሪ ወንበር** (wheelchair) — for learners whose legs cannot carry them;
+- **ክራንች** (crutches) — support under the arms for walking;
+- **የእይታ መነፅር** (eyeglasses) — for eyes that see partly;
+- **ማዳመጫ መሳሪያ** (hearing aid) — for ears that hear partly.
+
+[Picture 8952 — the assistive devices board: Braille, cane, stylus, wheelchair, crutches, glasses, hearing aid, Braille paper]
+
+Say each device with its user and its work — device, who,
+what it does — until the table is yours.
+
+## Sub lesson 15 — A satellite, a sickness, and the dry land
+
+**Ethiopia's First Satellite (teacher guide — evidence).**
+Hear the text twice. The satellite is **ETRSS-1** — 70
+kilograms, built with Chinese support, and its ground
+station stands at **Entoto**. Listen for what it serves:
+agriculture, mining, environmental protection, climate
+monitoring and mapping. If pictures of it can be shown,
+look — then listen again and check the five services
+against what you heard.
+
+[Picture 8951 — ETRSS-1 above the land, its signals reaching the Entoto ground station]
+
+**Malaria (የወባ በሽታ) (teacher guide — evidence).** Before
+listening, talk: what do you know of malaria — or of another
+sickness that passes from person to person where you live?
+Then hear the text and take notes. Hold its facts in order:
+two parasites carry it — *Plasmodium falciparum*, the
+dangerous one, and *P. vivax*, which hides in the body and
+returns. The female Anopheles mosquito carries them; the
+sickness runs through the liver and the red blood cells.
+The text's counted figures (the World Health Organization,
+2013) are 241 million cases and 627,000 deaths — and
+four-fifths of the deaths were children under five. And
+hear the prevention whole: sleep under an insecticide-
+treated net with no holes, tucked in over the bed; spray
+inside the house; screen windows and doors; and clear
+standing water, where mosquitoes breed.
+
+**Let Us Prevent Desertification (teacher guide —
+evidence).** Hear a talk whose burden is this: cutting the
+forests has brought climate change home — floods, the soil
+losing its fertility, and drought. While you listen,
+questions are set on the talk; answer them from what you
+heard. Say the talk's chain back: the trees fall — then
+what? then what? then what?
+
+## Sub lesson 16 — Tax, and a patriot
+
+**Tax: Willingness and Duty (የግብር ውዴታና ግዴታ) (teacher
+guide — evidence).** Take notes while you listen. The
+text's argument, as its answers key it: many citizens see
+tax only as an obligation laid on them — not as building
+their own country. That way of seeing, the text says, must
+change. Say the argument in one sentence, and one thing
+built with public money that you yourself use.
+
+**Colonel Abdisa Aga (ኮሎኔል አብዲሳ አጋ) (teacher guide —
+evidence).** Hear a patriot's biography read aloud. Your
+work is to draw detailed information out of the hearing:
+who he was, what he did, in what order. Then two exercises
+the biography carries: define words from the text and build
+sentences with them, and match causes to their effects.
+A biography heard well is a life you can retell in order —
+retell his.
+
+## Sub lesson 17 — Listening well: the seven strategies
+
+Hear this chapter's teaching on listening itself — the
+seven strategies of effective listening (ውጤታማ የማዳመጥ
+ብልሃቶች) (teacher guide — evidence):
+
+1. **Decide to listen** — listening is a choice; make it.
+2. **Drop your own agenda and prejudice** — set them down before the speaker starts.
+3. **Be curious** about how others see the world — ask open questions.
+4. **Keep eye contact**, and read the speaker's visual cues.
+5. **Hear the whole message before answering** — never interrupt.
+6. **Be patient** while a speaker finds their words.
+7. **Respect the right** to express a differing idea.
+
+Practise them on the very next story you hear in this
+lesson: choose one strategy before it starts, and say
+afterwards what it changed.
+
+## Sub lesson 18 — Hard roads: addiction and migration
+
+**The Consequences of Narcotic Drugs (የአደንዛዥ ዕጾች መዘዝ)
+(teacher guide — evidence).** Before listening, predict
+from the title alone: what will this text say? Then hear it
+— read two, up to three times, because hearers come to it
+with different strengths in the language. Hold what its
+answers key: the health-care costs of use and the work
+users lose; and, when use spreads, pressure on safety and
+order — crime growing where drugs grow. Say the text's
+costs in order: to the body, to the purse, to the town.
+
+**Migration and Its Suffering (ስደትና መከራው) (teacher guide
+— evidence).** Take notes while you listen to an account of
+migration and the suffering inside it. When it ends, give
+its main points and its detailed points apart — what the
+account is about, and what exactly it says. Say one
+suffering it names, and what caused it, from the hearing
+alone.
+
 ## Say it to your companion
 
 Choose one story you heard. Retell it to your companion in
@@ -404,3 +569,6 @@ question about the story, and you answer from the story. Swap.
    morning.
 5. Do one house job at home that someone else usually does,
    and tell your companion tomorrow which job you took.
+6. Say the five steps of a mediation in order, from memory —
+   then say the seven strategies of listening well, and pick
+   the one you will use tomorrow.

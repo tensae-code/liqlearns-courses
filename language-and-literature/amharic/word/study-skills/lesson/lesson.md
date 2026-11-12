@@ -189,6 +189,123 @@ books keep opening readings with it, on bigger topics.
 Same chart, bigger game: the older the reader, the harder the
 W questions should be — questions the text must work to answer.
 
+## Sub lesson 8 — Three stages: listening, reading, speaking
+
+In the higher classes, every skill is worked in **three
+stages** — and the stages themselves are a study skill: know
+which stage you are in, and you know what your job is.
+
+[Picture 9058 — three stages, three skills]
+
+**Listening — ማዳመጥ:**
+
+1. **ቅድመ ማዳመጥ — before listening.** The teacher first
+   gauges the learners' level and primes them with
+   pre-listening questions.
+2. **በማዳመጥ ጊዜ — while listening.** Listen — and take
+   notes: Sub lesson 6's craft rides in this stage.
+3. **ድህረ ማዳመጥ — after listening.** Questions, answers,
+   discussion.
+
+**Reading — ንባብ:**
+
+1. **ቅድመ — before reading: 2–5 minutes only.** Warm up with
+   a question, a joke, a story or a short poem on the topic,
+   or a mini-drama. The text's message is **never** given
+   away in advance.
+2. **በንባብ ጊዜ — while reading: 10–15 minutes.** Silent
+   reading, each learner alone, with their **own book**;
+   re-reading is encouraged. Take warning: if the teacher or
+   one strong learner reads aloud, the class has *listened*,
+   not read — and reading skill falls.
+3. **ድህረ — after reading: the longest stage.** Questions,
+   discussion, exercises, correction.
+
+**Speaking — ንግግር:**
+
+1. **መግቢያ — introduction.** Set the context; prepare the
+   mind.
+2. **ማለማመጃ — practice.** Practise in the context —
+   individually, in pairs, in groups. The practice strategies
+   are six: choral repetition and modelling (የወል ንበት);
+   question-and-answer chains in all directions (teacher to
+   learner, learner to teacher, learner to learner);
+   commenting (አስተያየት መስጠት); demonstration and performance
+   (የሁነት ክወና); discussion (ውይይት); debate (ክርክር).
+3. **ማፍለቂያ — production.** Learners produce their **own**
+   words and grammar to express their own ideas.
+
+Three skills, one rhythm: prepare — work — use what the work
+gave you.
+
+## Sub lesson 9 — Extensive reading: one book, two weeks, a real test
+
+There is a system for growing readers, and it runs on trust
+plus a test. It is called **መጠነ ሰፊ ንባብ** — extensive
+reading:
+
+1. Choose **one short-fiction book** and place it in the
+   reading room.
+2. Learners read it as homework over **two weeks or more** —
+   the time is adjusted to the learners' language background
+   and to how reachable the book is.
+3. Then set a **test on the book's content, worth 10 or 15
+   marks**, counted like a monthly or semester test: readers
+   gain the marks; non-readers lose them. It is presented as
+   the way to grow a love of reading.
+
+[Picture 9059 — one book, two weeks, one test]
+
+[GIF 9060 — the two weeks filling, day by day]
+
+Your skill inside the system is pacing: one book, fourteen
+days. A little every day beats a panic at the end — and since
+the test asks about the book's content, read for the story
+and the marks will follow.
+
+## Sub lesson 10 — Seven ways to listen well
+
+Listening is not a gift you either have or lack; it is worked
+at. The higher classes name **seven strategies of effective
+listening (ውጤታማ የማዳመጥ ብልሃቶች)**:
+
+[Picture 9061 — seven listening strategies]
+
+1. **Decide to listen** — listening is a choice.
+2. **Drop your own agenda and prejudice** — hear what is
+   said, not what you expected to hear.
+3. **Be curious** about how others see the world; ask open
+   questions.
+4. **Keep eye contact** and read visual cues.
+5. **Hear the whole message before answering** — never
+   interrupt.
+6. **Be patient** while a speaker finds their words.
+7. **Respect the right to express a differing idea.**
+
+Run the seven as a checklist on yourself in the next real
+conversation: which ones held — and which one slipped?
+
+## Sub lesson 11 — Revision questions: the closing check
+
+The higher classes never close a chapter on trust. Every
+chapter ends with the same step: **የክለሳ ጥያቄዎች** — oral
+**revision questions**, worked through before anyone moves
+on to the next chapter.
+
+As a study method, the step is yours to run without any
+teacher:
+
+1. When you finish a piece of work, stop **before** the next
+   one.
+2. Ask the work's questions **aloud** — or make your own from
+   its headings — and answer them in full speech.
+3. Where an answer will not come, that is the exact place to
+   re-read. The questions are a net for finding holes while
+   there is still time to mend them.
+
+A learner who can question themselves does not need to fear
+anyone else's questions.
+
 ## Say it to your companion
 
 Show your companion the web and the chain you built in this
@@ -205,3 +322,7 @@ this make that happen?" test. Then swap.
 5. Open the teff table (Picture 8860). Answer from the cells only: Kora's rainfall need; Negus's days to maturity; Dukem's research-station yield; Kena's altitude range. Then write a comparison paragraph about two varieties.
 6. Have someone read you a short text once. Before they start, prepare notebook and pen; while they read, note main points at word, phrase and sentence level. Afterwards, say the text's main points from your notes only.
 7. Fill a KWL chart for the next hard text you meet. Make your W questions hard ones — questions the text must work to answer — and check afterwards whether L answered them.
+8. Run one reading in its three stages: 2–5 minutes of warm-up questions first (never give the message away), then 10–15 minutes of silent reading with your own book, then the longest time on questions and discussion. Write down what your job was in each stage.
+9. Pick one short-fiction book for extensive reading (መጠነ ሰፊ ንባብ). Give yourself two weeks on a calendar, a little reading every day; at the end, write yourself a test of five questions on the book's content — and take it honestly.
+10. In your next real conversation, run the seven listening strategies as a checklist. Afterwards write down which ones held and which one slipped.
+11. Before starting anything new, close what you just finished with revision questions (የክለሳ ጥያቄዎች): ask five questions about it aloud and answer them in full sentences. Re-read only where an answer would not come.

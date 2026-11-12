@@ -10,3 +10,6 @@ Write each one on paper.
 
 **3. (Sub lesson 5)** Build one web around a big topic with at least five branches, then write a complete essay from it, branch by branch.
 **Answer guide: every branch on the web appears in the essay; nothing is in the essay that is not on the web.**
+
+**4. (Sub lesson 6)** With a partner, write an explanatory paragraph (አስረጅ አንቀጽ) about one technology product, the model bank's way: name the product, then say what it is for, in order, for a reader who may never have seen it.
+**Answer guide: the product is named; its uses are given in order; nothing is assumed the reader already knows.**

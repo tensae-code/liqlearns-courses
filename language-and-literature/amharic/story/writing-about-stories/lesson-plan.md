@@ -28,6 +28,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 4. **The five parts, named again higher up** — the Grade 5 naming: መቼት setting (time and place), ገፀባሕርያት characters, ችግሮች problems (the problem that pushes the characters to act), ድርጊት the action taken, ልቀት/ውጤት resolution/outcome (when the problem is solved); a story (ሚዛን, "The Scale") mapped onto the frame in an organiser.
 5. **The literary elements, grown formal** — the Grade 7 note (የሥነጽሑፍ አላባውያን): characters (the persons in a fiction or drama text), setting (place and time), conflict ግጭት (the clash characters create with other characters or natural conditions), theme ጭብጥ (the essential matter/message), plot ትልም/ሴራ (the cause-and-effect connection); an elements organiser filled for a read text.
 6. **Short fiction: what makes a short story (አጭር ልቦለድ)** (teacher guide — evidence for the chapter's aims and its read-aloud excerpt) — a complete fiction in a small compass carrying the same elements; the set work: state what short fiction is, list its components, listen and tell a similar story, list a short fiction's characters with their roles, summarise it in at most one page, join parts with transitional words (መሸጋገሪያ ቃላት).
+7. **Fiction itself — what ልቦለድ is** (teacher guide — evidence) — the federal guides' definitions (Zerihun, 1996; Amare, 1976): a creative work from the author's own mind/heart, not cut off from truth; characters wearing real people's behaviour in a made world with its own place and time.
+8. **Short fiction and long fiction** (teacher guide — evidence) — short: one story, few characters, narrow setting, a single narrative line. Long: many life-faces, many characters, wide setting, main and sub-plots, possibly more than two conflicts; learners write short texts and organise paragraphs into an essay.
+9. **Fiction met whole — heard, read, and one whole book** (teacher guide — evidence) — ጠቃሚ ምክር heard (from Kebede Mikael's የእውቀት ብልጽታ); እናቲቱ "Enatitu" read at full stretch (predict, timed reading, answers in a group table); ሰመመን and ሸክም named for the shelf; and extensive reading (መጠነ ሰፊ ንባብ) — one whole short-fiction book over two weeks or more, tested at 10 or 15 marks.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -46,6 +49,9 @@ the gate pool.
 6. Name the five parts in the higher books' wording — ችግሮች and ልቀት/ውጤት included — and map a story onto the frame.
 7. Define the five literary elements formally — ግጭት and ትልም/ሴራ included — and fill an elements organiser for a read text.
 8. Say what short fiction (አጭር ልቦለድ) is, list a short fiction's characters with their roles, and summarise a short fiction in at most one page.
+9. Define fiction (ልቦለድ) in the guides' wording: a creative work from the author's mind/heart, not cut off from truth, its characters behaving like real people in a made world.
+10. Tell short fiction from long fiction by the five marks — story lines, characters, setting, plots, conflicts — and prove a known fiction's size from them.
+11. Run a fiction at full stretch: predict before reading, read timed and silent, record answers in a group table; and read one whole short-fiction book extensively, over two weeks or more.
 
 ## What you need
 Paper and a pencil. A favourite story in mind.
@@ -62,6 +68,8 @@ Paper and a pencil. A favourite story in mind.
    - ADD GIF [GIF 8912]: a GIF of a cause-and-effect chain lighting up box by box — seed, sprout, harvest — the student says why this chain is a picture of ትልም/ሴራ, the plot.
    - ADD IMAGE [Picture 8913]: a picture of a student lying awake in a small rented room at night, a thought bubble rising — the student says how a whole story fits into this one room.
    - ADD AUDIO: a voice reading a short-story excerpt aloud — one narrator, awake, weighing hunger against thought — the student listens, then tells a similar story of their own. (Short fiction is met by ear here: its audio lives in this described slot.)
+   - ADD IMAGE [Picture 8956]: a picture diagram in two panels — one straight line with three points, labelled "one story · few people · one place · a single line"; and branching lines with side points, labelled "many life-faces · many people · wide setting · main plot + sub-plots" — the student proves a known fiction's size from the panels.
+   - ADD AUDIO: a voice reading the fiction text ጠቃሚ ምክር ("Useful Advice") aloud — the student listens whole, then takes a side in the debate it sets (described slot only).
 3. **Say it to your companion** — retell a story by its shape: setting, characters, problem, actions, outcome (lesson/lesson.md).
 4. **Questions** — from questions/: multiple-choice, short-answer, true-or-false, matching, writing, ordering — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
@@ -77,6 +85,8 @@ Paper and a pencil. A favourite story in mind.
 - GIF [GIF 8912] — a cause-and-effect chain lighting box by box → the student says why it pictures the plot.
 - IMAGE [Picture 8913] — one room, one thinker, at night → the student says how a whole story fits there.
 - AUDIO — a short-story excerpt read aloud → the student listens, then tells a similar story. (Described slot only.)
+- IMAGE [Picture 8956] — the story map: one line vs branching lines → the student proves a fiction's size from the panels.
+- AUDIO — ጠቃሚ ምክር read aloud → the student listens whole, then debates its motion. (Described slot only.)
 - VIDEO — the video-script filmed (made later) → the student retells by the shape along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
@@ -94,3 +104,5 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Band 4):** sub lessons 7–9 grow this lesson with the federal guides' two Fiction chapters (ልቦለድ) — the Grade 10 guide's definitions of fiction and its short-vs-long teaching, and both guides' fiction met whole (ጠቃሚ ምክር, እናቲቱ, ሰመመን, ሸክም, extensive reading). There are no Grade 9–10 student books in the records, so every part of sub lessons 7–9 stands on teacher-guide evidence only and is labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Definitions are summarised, never quoted at length, and no fiction text is transcribed. The first six sub lessons are unchanged.

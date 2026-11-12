@@ -226,6 +226,66 @@ read — equal times, a regular melody.
 > ሐረግ as you chant a poem. When the claps come even,
 > your voice has found the ምጣኔ.
 
+## Sub lesson 10 — A poem heard: My Country Is a Warka Tree
+
+**ሀገሬ ዋርካ ናት — "My Country Is a Warka Tree" (teacher
+guide — evidence).** Hear this poem read aloud, and take
+notes as you listen. First learn what this chapter says a
+poem *is*: in poetry, no explained, detailed matter is
+presented. A poem carries **a wide idea with a deep
+subject, compressed** — እጥር ምጥን, squeezed tight. The
+warka is the great tree under whose shade a whole village
+can sit; the poem's title alone holds its wide idea. Say,
+after listening, what the tree stands for — and how few
+words the poem needed to hold it.
+
+[Picture 8955 — the great warka tree, its shade full of people]
+
+[Audio — the poem read aloud at a poem's pace; the student listens and notes the title's image (described slot only)]
+
+## Sub lesson 11 — Poems read, presented, and opened
+
+**የግጥም ጥግ — "The Poem's Edge/Corner" (teacher guide —
+evidence).** Read this poem. Your work: explain what you
+have grasped from it, and analyse the poems presented in
+the chapter — their themes, ጭብጥ. A poem is read the way it
+was made: whole, then opened — what it is about, carried
+in how little.
+
+**Presenting poems aloud (teacher guide — evidence).**
+Poems are also *presented*: read yours aloud to the class.
+While you present, the teacher corrects the faults that
+occur — the presenting itself is the practice. The class
+is arranged comfortably for the discussion that follows.
+Present standing, voice up, the way the boast poems taught
+you; a poem mumbled is a poem halved.
+
+**A poem's words carry two meanings (teacher guide —
+evidence).** In this chapter the poem's words are worked
+twice over: their **denotative** meaning — what the word
+says outright — and their **connotative** meaning — what
+it suggests, layered on. Take one word from a poem you
+have read here and say both its meanings apart.
+
+## Sub lesson 12 — Write a poem of your own
+
+**Short poems, written and read (teacher guide —
+evidence).** Now the chapter turns the poem over to you:
+write short poems; organise a poem's idea and analyse it.
+And the set piece, named exactly: **write a short poem
+titled የመማሪያ ክፍላችን — "Our Classroom" — and read it to
+the class.**
+
+**A poem's words are not prose words (teacher guide —
+evidence).** The chapter's closing teaching: poetry's
+words differ from other texts' words **in form, in
+meaning and in use** — and the way to see it is to *do*
+it: you are made to write a poem so the difference is
+seen in your own practice. Write yours, then lay it
+beside a prose paragraph on the same subject and name
+one difference in its words' form, one in their meaning,
+one in their use.
+
 ## Say it to your companion
 
 Perform your group's piece — poem, song or chant — to another
@@ -246,3 +306,8 @@ you understood.
    ክረምትና በጋ.
 5. Say, in one sentence, what መጽሐፌ መካሪዬ praises — and
    whether you agree.
+6. Write your short poem titled የመማሪያ ክፍላችን — "Our
+   Classroom" — and read it aloud to someone at home.
+7. Take one word from a poem in this lesson and say its two
+   meanings apart: what it says outright, and what it
+   suggests.

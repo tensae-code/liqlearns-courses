@@ -51,3 +51,23 @@ A bound verb waiting — **ሲመጣ** — and its binder — **ሄደ**:
 **ውስብስብ**, complex.
 
 Your turn. Take a sentence apart. Name its two sides.
+
+---
+
+Now open the sentence into three parts.
+**ቶፊቅ ጻፈ።**
+**ባለቤት** — the subject: ቶፊቅ.
+**ማሰሪያ አንቀጽ** — the verb phrase: ጻፈ.
+And **ተሳቢ** — the object, the one the action falls on.
+
+Under every word, smaller pieces: **ምዕላድ**, morphemes.
+Free — **ነፃ ምዕላድ**: **ላም** stands alone.
+Bound — **ጥገኛ ምዕላድ**: **-ኦች**, **-ኣቸው** must lean.
+**ላም + ኦች + ኣቸው.** Piece by piece.
+
+Last, turn a sentence negative — grown.
+**ገሰፀ** → **አልገሰፁም**. The wrap closes, the verb changes inside.
+Not an action? **አይደለም** — is not.
+Not a having? **የላቸውም** — they do not have.
+
+Your turn. Open a sentence. Split a word. Turn one negative.

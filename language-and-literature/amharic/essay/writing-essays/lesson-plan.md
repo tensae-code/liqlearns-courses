@@ -2,7 +2,7 @@
 
 **Course:** Amharic · **Title:** Essay · **Lesson:** Writing Essays
 **Place in the curriculum:** Unit 6 — Essay (CURRICULUM.md).
-**The one thing this lesson teaches:** the essay kinds the higher books teach by name — the expository essay (አስረጂ ድርሰት) with its topic sentence, the narrative essay (ተራኪ ድርሰት), the cause-and-effect essay, the argumentative paragraph and essay, and the full essay built from one organiser web.
+**The one thing this lesson teaches:** the essay kinds the higher books teach by name — the expository essay (አስረጂ ድርሰት) with its topic sentence, the narrative essay (ተራኪ ድርሰት), the cause-and-effect essay, the argumentative paragraph and essay, and the full essay built from one organiser web — and, at the top, the explanatory essay as the federal teacher guides teach it: review the craft, study the types of essay, write from prompts in pairs and groups.
 **This lesson's own level:** it stands on Summary Writing and News and on First Paragraphs — the learner can write a paragraph and shrink a text; this lesson teaches them to build whole essays, each kind with its own shape.
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -27,6 +27,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 3. **The cause-and-effect essay** — key sentences built as cause and effect: the volunteers organiser (children raised, elderly kept from hardship, the community's problem lightened) and the improved paragraph on climate disturbance.
 4. **The argumentative paragraph and essay** — the argumentative paragraph (ኤከራካሪ አንቀጽ, teacher guide — evidence) arrives first; then, from a given model of how an argumentative essay (አካራካሪ/አከራካሪ ድርሰት) is written, a three-paragraph essay (ባለ ሦስት አንቀፅ ድርሰት) (teacher guide — evidence).
 5. **The organised essay built from a web** — everything on one web — ኤች አይ ቪ/ኤድስ at the centre with six branches — and a complete essay (ድርሰት) written from it, then edited and rewritten in review.
+6. **The explanatory essay, grown up** (teacher guide — evidence) — the federal guides' working order: review essay-writing techniques and study the types of essay (የድርሰት ዓይነቶች) as a note first; write from three prompts in pairs/groups; the explanatory paragraph (አስረጅ አንቀጽ) at paragraph size; and the model bank of technology products and their uses (computer, photocopier, iron, laundry, hair-dryer ካስክ, combine harvester, tractor, fridge).
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -41,13 +42,14 @@ the gate pool.
 3. Build a three-paragraph cause-and-effect essay whose key sentences truly join cause to effect.
 4. Say how an argumentative essay is shaped and write one in three paragraphs from a model.
 5. Build one web that holds a whole topic, and write a complete essay from its branches in order.
+6. Run the grown explanatory-essay order: review the craft and the essay types first, then write from a prompt in a pair or group, explaining each thing by name and use.
 
 ## What you need
 Paper and a pencil. A topic you know well enough to explain.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner tries to explain, in writing, how coffee is brewed, in four short paragraphs, before any essay kind is named (lesson/lesson.md).
-2. **The explanation** — the five essay shapes, in order (lesson/lesson.md).
+2. **The explanation** — the five essay shapes, in order, then the grown explanatory essay (lesson/lesson.md).
    - ADD IMAGE [Picture 8840]: a picture of the coffee essay's four organiser parts as four panels — prepare the materials; light the fire; wash, pound-grind, brew; serve and conclude — the student names the part each paragraph will carry.
    - ADD IMAGE [Picture 8841]: a picture of a paragraph as one highlighted topic sentence over its supporting details, labelled መንደርደሪያ ዓረፍተነገር — the student points to the sentence the paragraph stands on.
    - ADD IMAGE [Picture 8842]: a picture of a narrative timeline — first, then, next, after that, at last — the student reads the time words in order.
@@ -55,6 +57,9 @@ Paper and a pencil. A topic you know well enough to explain.
    - ADD IMAGE [Picture 8844]: a picture of the six-branch web around ኤች አይ ቪ/ኤድስ — the student names all six branches from the picture.
    - ADD GIF [GIF 8845]: a GIF of web branches feeding lines into an essay page, one branch at a time — the student says which branch is feeding the page now.
    - ADD AUDIO: a voice reading a short expository paragraph aloud — the student listens and names its topic sentence.
+   - ADD IMAGE [Picture 9050]: a picture of the explanatory essay's working order in four steps — review the craft; study the essay types; take one of three prompts; write in pairs or groups — the student says the four steps in order.
+   - ADD GIF [GIF 9051]: a GIF of an explanatory essay growing paragraph by paragraph under a prompt card — the student counts the paragraphs as they land.
+   - ADD AUDIO: a voice explaining one technology product from the model bank (its name and what it is for) — the student names the product and its use before the voice finishes.
 3. **Say it to your companion** — name the essay kind you would choose for three given jobs, and say why (lesson/lesson.md).
 4. **Questions** — from questions/: multiple-choice, short-answer, true-or-false, writing, ordering — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
@@ -68,6 +73,9 @@ Paper and a pencil. A topic you know well enough to explain.
 - IMAGE [Picture 8844] — the six-branch web → the student names the six branches.
 - GIF [GIF 8845] — branches feeding an essay page → the student names the feeding branch.
 - AUDIO — an expository paragraph read aloud → the student names its topic sentence.
+- IMAGE [Picture 9050] — the explanatory essay's four-step working order → the student says the steps in order.
+- GIF [GIF 9051] — paragraphs growing from a prompt card → the student counts the paragraphs as they land.
+- AUDIO — a technology product explained aloud (name + use) → the student names the product and its use.
 - VIDEO — the video-script filmed (made later) → the student plans an organiser along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
@@ -79,6 +87,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - The narrative jumps backwards in time → lay the events on the timeline first; the essay follows the line.
 - A "cause" sentence is only a sequence → test it: did this MAKE that happen? If not, rewrite until it does.
 - The web essay misses a branch → count the branches against the web before writing; every branch earns its place in the essay or is crossed off the web on purpose.
+- The explanatory essay explains to nobody → the reader may never have seen the thing: name it, say what it is for, in order — the model bank's way (computer — writing, reading, film, internet).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

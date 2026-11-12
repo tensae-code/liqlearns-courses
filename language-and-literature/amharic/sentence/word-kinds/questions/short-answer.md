@@ -22,3 +22,6 @@ Answer in a few words.
 
 **7. (Sub lesson 11)** How do you test whether a noun is የሚቆጠሩ or የማይቆጠሩ?
 **Answer: try to state its number — if the number can be stated (one በሬ, two በሬ), it is የሚቆጠሩ; if not (ዉኃ, ስኳር), it is የማይቆጠሩ.**
+
+**8. (Sub lesson 12)** In the staged way of learning person, which three places do the learners stand in?
+**Answer: the speaker's place (first person), the listener's place (second person), and the place of the one talked about (third person)** — the pronoun changes as you change places.

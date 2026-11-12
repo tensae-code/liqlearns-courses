@@ -26,3 +26,15 @@ Sub lesson 6 questions from the type files. Pass mark: prepare notebook and pen 
 
 ## Sub lesson 7 — KWL grows up
 Sub lesson 7 questions from the type files. Pass mark: run KWL on a higher-book topic (farmers, Fasilides' palace, a biography), with W questions hard enough that the text must work to answer them, and an L column that answers them with facts.
+
+## Sub lesson 8 — Three stages: listening, reading, speaking
+Sub lesson 8 questions from the type files. Pass mark: name the three stages of each skill and the learner's job in each — reading held to its shape (2–5 minutes' warm-up that never reveals the message; 10–15 minutes' silent reading with one's own book; the post stage longest). This sub lesson stands on teacher-guide evidence only.
+
+## Sub lesson 9 — Extensive reading: one book, two weeks, a real test
+Sub lesson 9 questions from the type files. Pass mark: state the system whole — one short-fiction book, two weeks or more of homework reading (time adjusted to background and reachability), then a content test worth 10 or 15 marks counted like a monthly or semester test. This sub lesson stands on teacher-guide evidence only.
+
+## Sub lesson 10 — Seven ways to listen well
+Sub lesson 10 questions from the type files. Pass mark: name all seven strategies of effective listening (ውጤታማ የማዳመጥ ብልሃቶች) and catch yourself using or dropping them in a real conversation. This sub lesson stands on teacher-guide evidence only.
+
+## Sub lesson 11 — Revision questions: the closing check
+Sub lesson 11 questions from the type files. Pass mark: close a finished piece of work with oral revision questions (የክለሳ ጥያቄዎች) before moving on, answering in full speech, and re-read exactly where an answer would not come. This sub lesson stands on teacher-guide evidence only.

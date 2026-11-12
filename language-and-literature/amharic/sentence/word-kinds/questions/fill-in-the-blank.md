@@ -25,3 +25,9 @@ Fill each blank with the right kind or word.
 
 **8. (Sub lesson 11)** ተማሪ can be counted — one, two, three — so ተማሪ is ______.
 **Answer: የሚቆጠሩ** (countable).
+
+**9. (Sub lesson 12)** Words that stand in a noun's place are called ______ ስሞች; their persons, in three places, are called ______.
+**Answer: ተውላጠ; መደብ.**
+
+**10. (Sub lesson 13)** A noun's modifier stands ______ the noun and describes its kind, size, type or origin.
+**Answer: before** — as in ረጅም ቀሚስ and አዲስ መኪና.

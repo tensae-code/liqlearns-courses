@@ -2,7 +2,7 @@
 
 **Course:** Amharic · **Title:** Essay · **Lesson:** Life Stories
 **Place in the curriculum:** Unit 6 — Essay (CURRICULUM.md).
-**The one thing this lesson teaches:** how a life is written — biography and autobiography: the two kinds, the points every life history must contain, the gathering-and-ordering method, the table method — and three worked lives, told as summaries: Abebe Bikila, Dr Haddis Alemayehu, and Dr Catherine Hamlin.
+**The one thing this lesson teaches:** how a life is written — biography and autobiography: the two kinds, the points every life history must contain, the gathering-and-ordering method, the table method — and the worked lives, told as summaries: Abebe Bikila, Dr Haddis Alemayehu, Dr Catherine Hamlin, Yetnebersh Nigussie, and Dr Haddis Alemayehu again, heard from a recording.
 **This lesson's own level:** it stands on Writing Essays and Summary Writing and News — the learner can build an essay and summarise a text; this lesson teaches them to gather a real life, order it, and tell it whole.
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -27,6 +27,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 3. **Abebe Bikila — a worked life (teacher guide — evidence)** — the barefoot champion: Jato, the Imperial Bodyguard, Rome 2:15:16.2, Tokyo 2:12:11.2 — a full life told as a summary.
 4. **Dr Haddis Alemayehu — a life told from a table (teacher guide — evidence)** — the speaking task that compiles and presents a shortened life from a given table (ሰንጠረዥ), following the biography guidelines and the sequence; his works are also placed on a timeline organiser by period.
 5. **Dr Catherine Hamlin — a worked life (teacher guide — evidence)** — the founder of fistula hospitals where mothers are treated free and recover; honoured with the "Right Livelihood" award; called የኢትዮጵያ እናቶች እናት — Mother of Ethiopia's Mothers.
+6. **Yetnebersh Nigussie — a trial turned to good fortune (teacher guide — evidence)** — the Inclusive Education chapter's listening, ፈተናን ወደ መልካም ዕድል መለወጥ: detailed information noted about a disabled woman of history and her strength; the guide's reference list cites two web biographies of Yetnebersh Nigussie as its evident source. No life facts beyond the guide's presentation are asserted.
+7. **Dr Haddis Alemayehu, heard from a recording (teacher guide — evidence)** — the Life Skills chapter's listening: pre-listening on who he is; the biography played from a recording (tape/computer, CD, flash disk, small monitor), played a second time for detailed information; main and detailed information given and noted. Distinct from Sub lesson 4's table method and its Grade 7 guide.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -41,6 +43,8 @@ the gate pool.
 3. Retell Abebe Bikila's life as a summary, with both of his Olympic times exact.
 4. Compile a shortened life from a table, in sequence, following the biography guidelines.
 5. Retell Dr Catherine Hamlin's life as a summary, with the name she is called by and the award she was honoured with.
+6. Tell Yetnebersh Nigussie's life by the points the listening truly gives — the trial, the strength, the turn to good fortune — inventing none.
+7. Work a recorded life the guide's way: say what you know before it plays, take the main information on the first playing, the detailed information on the second, and tell the life whole from your notes.
 
 ## What you need
 Paper and a pencil. An older person at home who will answer questions about their life.
@@ -54,6 +58,10 @@ Paper and a pencil. An older person at home who will answer questions about thei
    - ADD IMAGE [Picture 8853]: a picture of a date-and-event table turning into written paragraphs — the student says why the rows must stay in order.
    - ADD IMAGE [Picture 8854]: a picture of a hospital ward where mothers rest in beds and recover — the student says what care the mothers receive there, and what it costs them.
    - ADD GIF [GIF 8855]: a GIF of a life timeline filling in, point by point — the student names each point as it fills.
+   - ADD IMAGE [Picture 8958]: a picture of a woman standing at the head of a table, addressing seated listeners with papers before them — the student says what kind of strength this scene shows before the Yetnebersh listening. (A scene, not a likeness.)
+   - ADD IMAGE [Picture 8957]: a picture of a tape recorder with two reels, a CD beside it, sound waves rising, and an open notebook — the student says why the notebook stands open before the recorded life plays.
+   - ADD GIF [GIF 8999]: tape reels turning while sound-wave arcs pulse out and fade, round and round — the student says what the second turning of the reels is for.
+   - ADD AUDIO: the biography of Dr Haddis Alemayehu played from a recording, twice — the student notes main information first, detailed information second (described slot only — the recording is the lesson's own tool).
    - ADD AUDIO: a voice telling a short life summary aloud — the student listens and names which of the seven points they heard, and which they did not.
 3. **Say it to your companion** — tell one of the three lives in one minute, in order, without looking (lesson/lesson.md).
 4. **Questions** — from questions/: multiple-choice, short-answer, true-or-false, writing, ordering — served at the learner's level and teaching-mix (levels.md).
@@ -67,6 +75,10 @@ Paper and a pencil. An older person at home who will answer questions about thei
 - IMAGE [Picture 8853] — a table becoming paragraphs → the student defends the rows' order.
 - IMAGE [Picture 8854] — the hospital ward → the student states the care and its cost.
 - GIF [GIF 8855] — the timeline filling point by point → the student names each filling point.
+- IMAGE [Picture 8958] — a woman addressing a meeting (a scene, not a likeness) → the student names the strength the scene shows.
+- IMAGE [Picture 8957] — the tape recorder, disc and open notebook → the student says why the notebook stands open.
+- GIF [GIF 8999] — tape reels turning, sound waves pulsing → the student says what the second playing is for.
+- AUDIO — the recorded biography, played twice (described slot only) → the student notes main, then detailed, information.
 - AUDIO — a life summary read aloud → the student checks it against the seven points.
 - VIDEO — the video-script filmed (made later) → the student retells a life along with it.
 
@@ -83,3 +95,5 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Band 4):** sub lessons 6–7 grow this lesson with the Grade 10 federal guide's two biography listenings — Yetnebersh Nigussie (the Inclusive Education chapter's "Turning a Trial into Good Fortune", its source the two web biographies the guide's reference list cites) and the recorded life history of Haddis Alemayehu (the Life Skills chapter). There is no Grade 10 student book in the records, so both sub lessons stand on teacher-guide evidence only and are labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Sub lesson 7 is a different guide's presentation from Sub lesson 4's Grade 7 table, and the lesson keeps them distinct. No life facts are asserted beyond what the placements give. The first five sub lessons are unchanged, except that "Say it to your companion" now offers all the worked lives.

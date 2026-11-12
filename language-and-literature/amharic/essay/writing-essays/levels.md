@@ -22,3 +22,6 @@ Sub lesson 4 questions from the type files. Pass mark: state a position, order i
 
 ## Sub lesson 5 — The organised essay built from a web
 Sub lesson 5 questions from the type files. Pass mark: build a web that holds the whole topic, write a complete essay covering every branch, then edit and rewrite it.
+
+## Sub lesson 6 — The explanatory essay, grown up
+Sub lesson 6 questions from the type files. Pass mark: state the grown working order (review the craft and the types of essay first; write from a prompt in a pair or group) and explain a technology product by name and use, the model bank's way. This sub lesson stands on teacher-guide evidence only.

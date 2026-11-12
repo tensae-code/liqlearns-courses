@@ -49,3 +49,19 @@ a) እነዚህ  b) ናቸው  c) ዋልያዎች
 **12. (Sub lesson 9)** In ልጁ ከትምህርትቤት ሲመጣ አባቱ ወደቢሮ ሄደ, the bound verb that waits for its binder is —
 a) ሄደ  b) ሲመጣ  c) there is none
 **Answer: b) ሲመጣ** — "while coming" gives no full sense alone; ሄደ binds and completes it.
+
+**13. (Sub lesson 10)** In ቶፊቅ ጻፈ።, the ማሰሪያ አንቀጽ (verb phrase) is —
+a) ቶፊቅ  b) ጻፈ  c) the whole sentence
+**Answer: b) ጻፈ** — ቶፊቅ is the ባለቤት, the subject; ጻፈ is the doing part.
+
+**14. (Sub lesson 10)** The constituent named ተሳቢ is —
+a) the subject the sentence is about  b) the object — the one the action falls on  c) the verb phrase
+**Answer: b) the object** — ተሳቢ receives what is done; ባለቤት is the subject, ማሰሪያ አንቀጽ the verb phrase.
+
+**15. (Sub lesson 11)** Which of these is a ነፃ ምዕላድ — a free morpheme?
+a) -ኦች  b) ስለ-  c) ላም
+**Answer: c) ላም** — it stands alone as a word; -ኦች and ስለ- are bound and must lean on a stem.
+
+**16. (Sub lesson 12)** The negative of ገሰፀ, as the keyed pair gives it, is —
+a) ገሰፀም  b) አልገሰፁም  c) አይገሰፅም
+**Answer: b) አልገሰፁም** — አል- before, -ም after, and the verb's own shape changes inside the wrap.

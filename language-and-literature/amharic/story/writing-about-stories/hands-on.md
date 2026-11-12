@@ -26,6 +26,21 @@ conflict, theme, plot. Fill each box from the telling, in the
 formal words (ግጭት, ትልም/ሴራ). If a box stays empty, say what
 the teller left out.
 
+## Prove the size
+Take two stories your family tells — one short, one long.
+On paper, draw the story map of each: one line for the
+short one; a main line with branches for the long one.
+Count aloud as you draw: narrative lines, characters,
+the setting's width, the conflicts. Name each story's
+size and let a partner check your proof.
+
+## The two-week book
+Choose one short-fiction book at home or school. Put a
+paper strip in it as a marker. Read a little every day for
+two weeks; each day, write one line on the strip — what
+happened today in the book. At the end, tell the whole
+book from your fourteen lines.
+
 ## One-page story night
 Someone tells the shortest whole story they know. Everyone
 writes its summary — at most one page, no second page allowed.

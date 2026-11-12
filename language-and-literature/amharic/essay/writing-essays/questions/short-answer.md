@@ -16,3 +16,9 @@ Answer in a few words, or one sentence.
 
 **5. (Sub lesson 5)** Name any three branches of the web around ኤች አይ ቪ/ኤድስ.
 **Answer: any three of — ምንነት (what it is), አመጣጥ (origin), አሁን ያለበት ሁኔታ (present state), ምልክቶች (signs), መተላለፊያ መንገዶች (transmission routes), ህክምና (treatment).**
+
+**6. (Sub lesson 6)** The higher-class explanatory essay is written from how many prompts, and with whom?
+**Answer: from three given prompts, written in pairs or groups — after reviewing essay techniques and the essay types.**
+
+**7. (Sub lesson 6)** Name four products from the technology model bank, and say what the computer is for.
+**Answer: any four of — computer, photocopier, iron, laundry, hair-dryer (ካስክ), combine harvester, tractor, fridge. The computer is for writing, reading, film and internet.**
