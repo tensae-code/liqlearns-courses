@@ -17,5 +17,5 @@ Say True or False, and why.
 **5. (Sub lesson 5)** The book's remedies include estimating informal and own-consumption activity into GDP.
 **Answer: True**
 
-**6. (Sub lesson 4)** In developing countries GDP misses subsistence output, underreported production, the non-monetary sector, price distortion and pollution costs.
+**6. (Sub lesson 6)** In developing countries GDP misses subsistence output, underreported production, the non-monetary sector, price distortion and pollution costs.
 **Answer: True**

@@ -18,6 +18,10 @@ As a consumer consumes more and more of a good, the extra satisfaction from each
 
 The consumer's optimum under the cardinal approach is where the ratio of marginal utility to price is equal for every good — marginal utility per birr spent is the same everywhere — and the whole income is spent. If one good gave more MU per birr than another, moving a birr toward it would raise total satisfaction, so equality is the resting point. From diminishing marginal utility the book also derives the demand curve: it is the positive segment of the marginal-utility curve when utility is measured in money.
 
+## Teacher-guide evidence — the guide's optimum workout
+
+The teacher guide works the constrained optimum in full. With prices 2 and 1 and income 10, the best bundle is X = 2, Y = 6, giving total utility 28 — the budget is exactly spent (2 × 2 + 1 × 6 = 10). Its review workout computes MU and MU/P for two goods and settles the optimum where MUx/Px = MUy/Py with the budget exactly spent: 1 × 4 + 3 × 2 = 10.
+
 ## Say it to your companion
 
 Explain cardinal utility and the consumer's optimum to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

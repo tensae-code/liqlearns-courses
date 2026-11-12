@@ -20,6 +20,10 @@ As consumption rises, marginal utility falls to zero exactly at the saturation p
 
 The pattern is a general rule of consumption: the law of diminishing marginal utility. Each extra unit of a good adds less satisfaction than the one before it, other things equal. It holds for the oranges example, the banana table, and ordinary eating and drinking everywhere.
 
+## Teacher-guide evidence — the guide's worked keys
+
+The teacher guide's own worked tables run further than the student table. In one key the quantities run to 10 units, with total utility peaking at 24 and marginal utility turning negative after the peak. In a second key, for good Y, total utility peaks at 22. These are the guide's checked answers for the student book's Unit 1 problems — use them to check your own tables.
+
 ## Say it to your companion
 
 Explain total and marginal utility to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

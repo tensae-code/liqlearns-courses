@@ -17,5 +17,5 @@ Sub lesson 4 questions from the type files (4 items). Pass mark: answer its ques
 ## Sub lesson 5 — Grade 11 — the fixes the book prescribes (Grade 11)
 Sub lesson 5 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
 
-## Sub lesson 4 — Why GDP understates output in developing countries
-Sub lesson 4 questions from the type files (4 items, Grade 12 extension). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+## Sub lesson 6 — Why GDP understates output in developing countries
+Sub lesson 6 questions from the type files (4 items, Grade 12 extension). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

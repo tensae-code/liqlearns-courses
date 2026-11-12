@@ -10,6 +10,10 @@ countries: Ethiopia
 | Sub lesson 2 — The falling MRS — 4, then 3, then 1.5 | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 1 — Theory of Consumer Behavior and Demand, printed pp. 12–13 |
 | Sub lesson 3 — Diminishing MRS makes the curve convex | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 1 — Theory of Consumer Behavior and Demand, printed pp. 13 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), ISBN 978-99990-0-062-8 (full book entry in ABOUT.md and in the budget-line lessons' sources).
+
+| Teacher-guide evidence — Fenet's fifth cup of tea, MU = 10 utils (placement 3) | Ethiopia, *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), Unit 1, printed pp. 5, 7–8 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: marginal rate of substitution, MRS, slope of indifference curve, diminishing MRS 4 3 1.5, oranges bananas, ethiopia, social studies, microeconomics

@@ -10,6 +10,10 @@ countries: Ethiopia
 | Sub lesson 2 — Perfect complements — L shapes | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 1 — Theory of Consumer Behavior and Demand, printed pp. 15–16 |
 | Sub lesson 3 — Higher curves still mean more | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 1 — Theory of Consumer Behavior and Demand, printed pp. 16 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), ISBN 978-99990-0-062-8.
+
+| Teacher-guide evidence — the complements check: extra left shoe adds nothing (placement 3) | Ethiopia, *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), Unit 1, printed pp. 5, 7–8 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: perfect substitutes, constant MRS, straight line indifference curve, perfect complements, L-shaped curve, blue black pens, left right shoes, ethiopia, social studies, microeconomics

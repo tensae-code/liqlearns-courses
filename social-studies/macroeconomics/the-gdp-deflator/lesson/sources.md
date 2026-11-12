@@ -10,6 +10,10 @@ countries: Ethiopia
 | Sub lesson 2 — The worked example — 127 | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 3 — National Income Accounting, printed pp. 81–82 |
 | Sub lesson 3 — Converting back to real | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 3 — National Income Accounting, printed pp. 82 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), ISBN 978-99990-0-062-8.
+
+| Teacher-guide evidence — Unit 3 answer key: the two-good deflator workout (nominal 498 million, real 144 million, deflator ≈346) (placement 10) | Ethiopia, *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), Unit 3, printed pp. 79–80 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: GDP deflator, nominal over real times 100, 950 over 750 equals 127, converting nominal to real, NBE 2019/20 activity, ethiopia, social studies, macroeconomics

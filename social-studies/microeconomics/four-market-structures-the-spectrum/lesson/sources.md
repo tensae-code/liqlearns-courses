@@ -10,6 +10,8 @@ countries: Ethiopia
 | Sub lesson 2 — The four structures in order | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 2 — Market Structure and the Decision of Firms, printed pp. 34–35 |
 | Sub lesson 3 — Why the spectrum matters | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 2 — Market Structure and the Decision of Firms, printed pp. 35 |
 
+**RECORD DEBT (cross-filed, Economics fix, 2026-11-12):** the Grade 11 teacher guide's Unit 2 answer key (printed pp. 51–52, placement 8) does not match the student book's Unit 2 review questions — eight itemised disagreements across Parts I–II, filed in full in the sources of "Monopoly equilibrium — MR equals MC, price from demand". That key is not used for any Unit 2 question in this course.
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: market structures spectrum, perfect competition, monopolistic competition, oligopoly, pure monopoly, number of firms product type information, ethiopia, social studies, microeconomics

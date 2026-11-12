@@ -19,6 +19,10 @@ At the tangency point the two slopes are equal: the curve's slope, the MRS — t
 
 Sit below the tangency on the line and the MRS exceeds the price ratio: the consumer values X more highly than the market does, so trading toward X along the line raises satisfaction. Sit beyond it and the reverse holds. Only at E do the two valuations agree — which is why the consumer settles there and nowhere else.
 
+## Teacher-guide evidence — the full optimum workout
+
+The teacher guide solves the unit's big workout end to end. Expenditure is 2,900 birr; the prices are 50 birr and 40 birr, so the budget equation is 50X + 40Y = 2900. The budget line's slope is the market rate of exchange between the goods — the price ratio; the slope is −50/40 = −1.25 — while the indifference curve's slope, the MRS, is the consumer's own willingness to exchange. Setting MU-per-birr equal for the two goods gives X = 5Y; solving with the budget gives the optimum X = 50, Y = 10. Check: 50 × 50 + 40 × 10 = 2,500 + 400 = 2,900 birr, the whole budget spent.
+
 ## Say it to your companion
 
 Explain consumer optimum — where the curve touches the line to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

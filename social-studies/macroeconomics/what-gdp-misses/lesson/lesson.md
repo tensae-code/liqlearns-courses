@@ -33,7 +33,7 @@ The Grade 11 treatment lists why GDP is hard to measure well. Double counting re
 
 The remedies match the problems one by one. Register carefully the services around used-item sales, counting the agent's service and not the item again. Exclude transfer payments, since they purchase no current production. And estimate informal and own-consumption activity into GDP — measuring the unmeasured as honestly as it can be estimated, rather than pretending it is zero.
 
-## Sub lesson 4 — Why GDP understates output in developing countries
+## Sub lesson 6 — Why GDP understates output in developing countries
 
 In developing countries, measured GDP misses much of what the economy produces. Subsistence output never reaches a market; producers underreport for fear of tax; a large non-monetary sector exchanges without money; administered prices distort values; and the costs of pollution are never deducted. The book contrasts this with economies like Sweden's and the Netherlands', where nearly all output is marketed and recorded.
 

@@ -17,5 +17,5 @@ Fill each blank with the word or words from the lesson.
 **5. (Sub lesson 5)** One prescribed fix is _____ informal and own-consumption activity into GDP instead of leaving it at zero.
 **Answer: estimating**
 
-**6. (Sub lesson 4)** Producers may underreport output for fear of ____.
+**6. (Sub lesson 6)** Producers may underreport output for fear of ____.
 **Answer: tax**

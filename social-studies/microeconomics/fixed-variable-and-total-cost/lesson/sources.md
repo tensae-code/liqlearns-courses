@@ -10,6 +10,10 @@ countries: Ethiopia
 | Sub lesson 2 — Fixed and variable totals | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 3 — Theories of Production and Cost, printed pp. 62–64 |
 | Sub lesson 3 — Total cost — the sum | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 3 — Theories of Production and Cost, printed pp. 62–64 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide Book, Grade 10* (teacher guide — evidence) — ©2022, unfinished printing block (see ABOUT.md).
+
+| Teacher-guide evidence — Unit 3 keys: TFC/TVC table extended to output 8 (TVC 31, TC 131); mirror-image rules; Stage II (placement 8) | Ethiopia, *Economics, Teacher Guide Book, Grade 10* (teacher guide — evidence), Unit 3, printed pp. 34–37 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: total fixed cost, total variable cost, total cost, TFC 100, TC 230 at 7 units, short-run costs, ethiopia, social studies, microeconomics

@@ -10,6 +10,8 @@ countries: Ethiopia
 | Sub lesson 2 — The three-step procedure | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 8 — Business Startups and Innovation, printed pp. 174–175 |
 | Sub lesson 3 — Comparing rival options | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 8 — Business Startups and Innovation, printed pp. 174–175 |
 
+**Record debt — flawed student question (teacher-guide evidence):** the Grade 10 teacher guide's Unit 8 review key (printed p. 114) answers the student book's Unit 8 Part II Q3 by stating the correct answer is "not included in the choices" — as printed, none of that question's four options is right (Grade 10 Teacher Guide placement 26). That flawed question is not reproduced in this course's question files; the record is filed here, in the Unit 8 lesson's sources, so the debt stands in a course file and not only in a build log.
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: cost-benefit analysis, benefit cost ratio, net present value, opportunity cost, intangibles, Macy's example, ethiopia, social studies, ethiopia and development

@@ -19,6 +19,10 @@ Lower income does the mirror image: both intercepts fall in the same proportion 
 
 The shift is parallel because the slope does not change: the slope is a price ratio, and no price has moved. Shift versus pivot is the distinction to hold: income changes slide the line; only price changes can rotate it.
 
+## Teacher-guide evidence — a smaller income: Bereket's 60 birr falls to 30 birr
+
+Work the same rule on Bereket's budget. At 60 birr, with tea at 3 birr and coffee at 6 birr, the intercepts are 20 teas and 10 coffees. If the income falls by 50% — to 30 birr — both intercepts halve with it: 10 teas and 5 coffees. The line shifts inward, parallel, exactly as the rule above says.
+
 ## Say it to your companion
 
 Explain when income changes — parallel shifts to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

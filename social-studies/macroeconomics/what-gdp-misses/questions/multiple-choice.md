@@ -22,6 +22,6 @@ a) double counting of resales, the informal sector, transfers, untraded output a
 a) double counting of resales, the informal sector, transfers, untraded output and unmeasured quality  b) the opposite claim to the one this sub lesson teaches  c) register used-item services only, exclude transfers, estimate informal and own-consumption activity in
 **Answer: c) register used-item services only, exclude transfers, estimate informal and own-consumption activity in**
 
-**6. (Sub lesson 4)** Which statement best matches "Why GDP understates output in developing countries"?
+**6. (Sub lesson 6)** Which statement best matches "Why GDP understates output in developing countries"?
 a) GDP understates output in poor countries because they export too little  b) In developing countries GDP misses subsistence output, underreported production, the non-monetary sector, price distortion and pollution costs  c) GDP already deducts pollution costs in developing economies
 **Answer: b) In developing countries GDP misses subsistence output, underreported production, the non-monetary sector, price distortion and pollution costs**

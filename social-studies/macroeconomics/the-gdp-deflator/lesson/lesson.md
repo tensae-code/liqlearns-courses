@@ -18,6 +18,10 @@ The book works the formula on nominal GDP of 950 million against real GDP of 750
 
 The deflator also runs backwards: dividing nominal GDP by the deflator (and multiplying by 100) converts a current-price total into its real, base-price equivalent — stripping the price rises back out. The unit's activity applies the same calculation to the National Bank of Ethiopia's actual 2019/20 figures.
 
+## Teacher-guide evidence — the two-good deflator workout
+
+The teacher guide works a two-good example in full — wheat and automobiles, with 2000 as the base year. In 2000 nominal and real GDP coincide at 100 million and the deflator is 100. In 2021 nominal GDP is 498 million, real GDP at base-year prices is 144 million, and the deflator is 498 ÷ 144 × 100 ≈ 346 — prices have risen more than threefold between 2000 and 2021.
+
 ## Say it to your companion
 
 Explain the gdp deflator to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

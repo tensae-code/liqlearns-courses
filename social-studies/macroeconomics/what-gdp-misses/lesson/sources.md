@@ -18,10 +18,10 @@ countries: Ethiopia
 
 Grade 11 note (placement 40): the problems-and-fixes material in the added sub lessons comes from *Economics, Student Textbook, Grade 11*, Unit 3, printed pp. 78–79 — the Grade 11 book's own fuller treatment of the measurement problems this lesson first met in earlier grades.
 
-| Sub lesson 4 — Why GDP understates output in developing countries (Grade 12 extension) | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 1 — Fundamental Concepts of Macroeconomics, printed pp. 6–7 |
+| Sub lesson 6 — Why GDP understates output in developing countries (Grade 12 extension) | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 1 — Fundamental Concepts of Macroeconomics, printed pp. 6–7 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lesson 4 and its questions rest on the Grade 12 student book named above.
+Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lesson 6 and its questions rest on the Grade 12 student book named above.
 
 Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, social studies, macroeconomics

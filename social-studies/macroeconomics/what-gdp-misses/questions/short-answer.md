@@ -17,5 +17,5 @@ Answer in one or two sentences, from the lesson.
 **5. (Sub lesson 5)** Explain "Grade 11 — the fixes the book prescribes" in your own words.
 **Answer:** The book's remedies include estimating informal and own-consumption activity into GDP.
 
-**6. (Sub lesson 4)** Explain "Why GDP understates output in developing countries" in your own words.
+**6. (Sub lesson 6)** Explain "Why GDP understates output in developing countries" in your own words.
 **Answer:** In developing countries GDP misses subsistence output, underreported production, the non-monetary sector, price distortion and pollution costs.

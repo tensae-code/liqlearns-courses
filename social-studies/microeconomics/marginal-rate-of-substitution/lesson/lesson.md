@@ -19,6 +19,10 @@ Worked from the book's orange–banana table, the MRS falls step by step: first 
 
 This diminishing MRS is exactly what bends the indifference curve convex to the origin. At the top of the curve the slope — and the MRS — is steep; lower down both flatten. A constant MRS would draw a straight line instead, which is the special case of perfect substitutes in the next lesson.
 
+## Teacher-guide evidence — Fenet's fifth cup of tea
+
+The teacher guide works this activity in full: Fenet's total utility rises from 40 utils at 4 cups of tea to 50 utils at 5 cups, so the marginal utility of the fifth cup is 50 − 40 = 10 utils.
+
 ## Say it to your companion
 
 Explain marginal rate of substitution to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

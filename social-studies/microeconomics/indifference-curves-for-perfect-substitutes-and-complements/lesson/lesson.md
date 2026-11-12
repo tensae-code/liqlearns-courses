@@ -18,6 +18,10 @@ For perfect complements — left and right shoes, consumed in fixed proportion �
 
 In both special cases the map's main rule survives: curves farther from the origin still carry higher satisfaction. More pen-pairs of either colour, or more complete pairs of shoes, always beat fewer. What changes between the cases is only the shape of the trade-off — a steady rate for substitutes, no trade-off at all for complements.
 
+## Teacher-guide evidence — the complements check
+
+The teacher guide spells out the complements check in full: two left shoes with one right shoe give exactly the utility of one pair — the extra left shoe adds nothing, and utility rises only when both sides rise together.
+
 ## Say it to your companion
 
 Explain indifference curves for perfect substitutes and complements to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

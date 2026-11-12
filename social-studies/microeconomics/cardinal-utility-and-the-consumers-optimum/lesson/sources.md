@@ -10,6 +10,10 @@ countries: Ethiopia
 | Sub lesson 2 — Diminishing marginal utility | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 1 — Theory of Consumer Behavior and Demand, printed pp. 3–4 |
 | Sub lesson 3 — The optimum — equal MU per birr | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 1 — Theory of Consumer Behavior and Demand, printed pp. 4 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide Book, Grade 10* (teacher guide — evidence) — ©2022, unfinished printing block (see ABOUT.md).
+
+| Teacher-guide evidence — Unit 1 worked keys: X = 2, Y = 6, income 10, TU 28; review optimum 1×4 + 3×2 = 10 (placement 4) | Ethiopia, *Economics, Teacher Guide Book, Grade 10* (teacher guide — evidence), Unit 1, printed pp. 11–14 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: cardinal utility, utils, marginal utility, diminishing marginal utility, consumer optimum, MU per birr, fifth cup of tea 10 utils, ethiopia, social studies, microeconomics

@@ -10,6 +10,10 @@ countries: Ethiopia
 | Sub lesson 2 — Saturation — where more stops helping | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 1 — Theory of Consumer Behaviour, printed pp. 5–8 |
 | Sub lesson 3 — The law of diminishing marginal utility | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 1 — Theory of Consumer Behaviour, printed pp. 8–9 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide Book, Grade 10* (teacher guide — evidence) — ©2022, unfinished printing block (see ABOUT.md).
+
+| Teacher-guide evidence — Unit 1 worked keys (placement 4) | Ethiopia, *Economics, Teacher Guide Book, Grade 10* (teacher guide — evidence), Unit 1, printed pp. 11–14 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: total utility, marginal utility, MU change in TU, saturation point, law of diminishing marginal utility, bananas 37 utils, ethiopia, social studies, microeconomics

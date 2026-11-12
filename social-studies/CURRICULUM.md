@@ -410,6 +410,22 @@ here as they land; counts are per band from the build logs.
   headings (the G11 and G12 stacks). Economics is complete:
   572 of 572 placements, Bands A–F + E2. Build logs:
   wave4-econ-E-g12.md and wave4-econ-E2-g12-remainder.md.
+  **Correction (coverage audit + fix, 2026-11-12):** the
+  independent audit found 46 placements not stocked and 1
+  citation mismatch under that claim — the guides' pedagogy
+  layer had been dispositioned "for ABOUT.md" and never filed,
+  three course-shape placements stood nowhere, and the Grade 11
+  guide's Units 1–3 evidence had fallen between bands. The fix
+  build filed all of it: three new road-map lessons (Grades 9,
+  11, 12), the four guide frames and 31 pedagogy summaries in
+  ABOUT.md with full substance, the nine worked-answer/key/
+  record items as labelled evidence, the 2011 syllabus
+  apparatus, and the budget-line citation corrected to the
+  guide. The what-gdp-misses flaw is FIXED: the Grade 12 stack
+  is renumbered Sub lesson 6 across lesson, levels, sources,
+  plan and every question file. Economics now stands verified
+  at 572 of 572. Build log:
+  ethiopia-2026-11-11/build-logs/fix-economics.md.
 
 ## Ethiopia History Grade 11 + Grade 10 placements — built 2026-11-12 (Wave 4 History Band C; pictures 23100–23131 range)
 

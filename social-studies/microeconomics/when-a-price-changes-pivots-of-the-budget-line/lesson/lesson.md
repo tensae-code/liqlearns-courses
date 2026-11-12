@@ -13,7 +13,7 @@ A change in one good's price leaves the other intercept untouched and rotates th
 
 ## Sub lesson 2 — The same logic for Y, and for both prices together
 
-The argument runs identically for the price of Y: the line pivots around the fixed X-intercept. If both prices rise in the same proportion, both intercepts fall in that proportion — the one case where a price change looks like an income fall, sliding the line inward parallel, because the price ratio, and so the slope, is unchanged.
+The argument runs identically for the price of Y: the line pivots around the fixed X-intercept. If both prices change in the same proportion, the price ratio — and so the slope — is unchanged, and the line shifts in parallel: both prices doubling halves what the income buys and slides the line inward parallel; both prices falling shifts it outward parallel. This both-prices rule is the rule for every proportionate change in both prices together.
 
 ## Sub lesson 3 — Bereket's 60 birr — the closing activity
 

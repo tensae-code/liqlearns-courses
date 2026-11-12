@@ -18,6 +18,10 @@ The monopolist does not charge the MR = MC value — that equality only fixes th
 
 Comparing average revenue with average cost at the optimum gives the same three outcomes as competition: normal profit, supernormal profit, or loss. The difference is what happens next: with entry blocked, nothing erases the supernormal case. A profitable monopoly can stay profitable in the long run, where a competitive firm's extra profit is competed away.
 
+## Teacher-guide evidence — monopoly versus competition, worked in full
+
+The teacher guide solves one firm both ways, with cost C = ½Q² and demand Q = 12 − P. As a monopolist the firm sets MR = MC, giving Q = 4 and P = 8, with total revenue 32, total cost 8 and profit 24. Behaving competitively (P = MC) it produces Q = 6 at P = 6, with revenue 36, cost 18 and profit 18. The difference is 6 — the firm would need to be paid 6 to forgo its monopoly profit. The same key sharpens the shutdown logic: below AVC a producing firm loses its fixed costs plus some variable costs, while a shut-down firm loses only the fixed costs.
+
 ## Say it to your companion
 
 Explain monopoly equilibrium — mr equals mc, price from demand to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

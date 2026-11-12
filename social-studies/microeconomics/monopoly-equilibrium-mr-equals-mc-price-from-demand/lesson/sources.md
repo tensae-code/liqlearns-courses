@@ -10,6 +10,12 @@ countries: Ethiopia
 | Sub lesson 2 — The price is read off demand | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 2 — Market Structure and the Decision of Firms, printed pp. 51–52 |
 | Sub lesson 3 — Three outcomes — but supernormal profit can stay | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 2 — Market Structure and the Decision of Firms, printed pp. 52–53 |
 
+**Teacher-guide evidence added (Economics fix, 2026-11-12):** *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), ISBN 978-99990-0-062-8.
+
+| Teacher-guide evidence — Unit 2 answer key: monopoly Q = 4, P = 8, profit 24 vs competition Q = 6, P = 6, profit 18 (placement 7) | Ethiopia, *Economics, Teacher Guide, Grade 11* (teacher guide — evidence), Unit 2, printed pp. 51–52 |
+
+**RECORD DEBT — the Unit 2 answer key does not match the student book's questions (Grade 11 Teacher Guide placement 8, printed pp. 51–52):** checked item by item, the key disagrees with the student book in eight places — Part I item 2 marked False where the book's teaching makes it True (a monopoly's demand curve is the market demand curve); item 3 marked True where the statement attributes the firm-number adjustment to monopoly long-run equilibrium (the book teaches it for perfect competition); item 4 marked False where the monopolistic-competition statement is True; item 5 marked False where the book's exit logic supports True in the long run; Part II item 2 keyed A where the options support D ("both A and C"); item 5 keyed A (oligopoly) where the question asks where product differentiation is typical — the book's answer is monopolistic competition; item 9 keyed C where the book's condition is differing demand elasticities (B); item 10 keyed C where the book's MR–MC logic gives D (decrease output). The key appears to belong to a different draft of the review questions; it is NOT attached to the student book's Unit 2 questions in this course, and no question file here rests on it.
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: monopoly equilibrium, MR equals MC, price from demand curve, widest TR TC gap three units, supernormal profit persists, ethiopia, social studies, microeconomics

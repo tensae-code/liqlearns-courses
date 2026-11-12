@@ -6300,6 +6300,9 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36400 | pictures/36400.webp | the fixed lesson skeleton as a flowchart | agriculture/first-steps/how-this-course-is-taught |
 | 36401 | pictures/36401.webp | the Grade 11 minimum learning competencies as 16 unit tiles | agriculture/farm-business-and-technology/minimum-learning-competencies-grade-11-agriculture |
 | 36402 | pictures/36402.webp | the Grade 11 syllabus period chart — five themes, 89 periods | agriculture/farm-business-and-technology/the-grade-11-agriculture-syllabus-themes-and-periods |
+| 36300 | pictures/36300.webp | the Grade 9 Economics road map — eight units | social-studies/microeconomics/the-grade-9-economics-road-map |
+| 36301 | pictures/36301.webp | the Grade 11 Economics road map — seven units | social-studies/microeconomics/the-grade-11-economics-road-map |
+| 36302 | pictures/36302.webp | the Grade 12 Economics road map — eight units | social-studies/macroeconomics/the-grade-12-economics-road-map |
 | 36220 | The seven-unit journey — Grade 9 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-9-way |
 | 36221 | The six-unit journey — Grade 10 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-10-way |
 | 36222 | The five-unit journey — Grade 12 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-12-way |
