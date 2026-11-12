@@ -145,3 +145,13 @@ mainly on teacher-guide evidence, labelled) and Programming
 language, as the book teaches none at this grade). Grade 9 now
 lacks only Unit 4 (band C5, in flight). The course now stands
 at 268 lessons.
+
+**Band C5 (Grade 9, Unit 4) — BUILT 2026-11-12:** 27 new
+lessons, 372 questions, 42 media filed (pictures/GIFs
+20500–20541) — the Multimedia title opened: images and pixels,
+storyboarding, and Photoshop taken step by step (canvas,
+toolbox, cropping three ways, red eye, Levels, Curves,
+saturation, and sharpening three ways), GIMP carried as the
+book's noted alternative. **Grade 9 now stands complete: 160
+lessons across its six units.** The course now stands at 295
+lessons.

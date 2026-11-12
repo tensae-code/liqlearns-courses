@@ -343,3 +343,21 @@ Flowgorithm — Even or Odd · Top-Down — Modules and
 Modularisation · Bottom-Up — Assembling a Solution from
 Modules · Project: A Scratch Game and an Ethiopian Story ·
 Acronym Reference — the Book's Own List.
+
+**Multimedia** (band C5, from Ethiopia Grade 9): What an Image
+Is · Digital Images — Made of Pixels · Image Processing —
+Capture, Work, Output · Multimedia — Many Forms, One
+Presentation · Storyboarding — Planning Before Making · Image
+Processing Software — Meeting Photoshop · Starting Photoshop —
+A New Canvas · The Photoshop Window — Naming Its Parts · The
+Photoshop Toolbox — Selecting and Moving Tools · Toolbox —
+Retouching and Painting Tools · Toolbox — Drawing, Typing and
+Navigation Tools · Cropping with the Crop Tool · Cropping to a
+Print Size · Cropping with the Marquee Tool · Resizing an
+Image · Fixing Red Eye · Brightening a Dark Photo · Removing
+Hot Spots with the Clone Stamp · Colour Correction — Levels
+and the Histogram · Colour Correction — Curves · Colour
+Correction — Saturation · Auto Colour and the Automatic Fixes
+· Sharpening — What It Does and When to Stop · Sharpen with
+Unsharp Mask · Sharpen with Smart Sharpen · Sharpen with High
+Pass · Project: Design a Card in Photoshop.
