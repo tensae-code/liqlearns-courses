@@ -6294,3 +6294,6 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 34742 | GIF: an electromagnet's switch closing, clips leaping to the nail, then dropping | science/electricity-and-magnetism/electromagnets-a-magnet-you-switch-on |
 | 34743 | GIF: the home-made coil motor starting from a nudge and settling into a spin | science/electricity-and-magnetism/motors-and-generators-electricity-to-motion-motion-to-electricity |
 | 34744 | GIF: a switch closing in a symbol-drawn circuit and the bulb lighting (teacher evidence) | science/electricity-and-magnetism/circuits-source-load-wires-open-and-closed |
+| 36500 | pictures/36500.webp | a solution-C-style transition development: gridded elevation, opened fan, 12-part divided circle | Technology & Design — worked-developments-the-answer-plates |
+| 36501 | pictures/36501.webp | a hexagonal-prism net (solution B): six numbered stations, dashed fold lines, hexagon end faces | Technology & Design — worked-developments-the-answer-plates |
+| 36502 | pictures/36502.webp | five drawing-board sheets climbing in steps — the course-intro picture | Technology & Design — ABOUT (course-level) |

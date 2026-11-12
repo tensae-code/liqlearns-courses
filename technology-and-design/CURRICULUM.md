@@ -34,3 +34,17 @@ course, never presented as the current syllabus unchecked.
 
 Build logs: ethiopia-2026-11-11/build-logs/wave4-td-A-units1-3.md
 and wave4-td-B-units4-5.md.
+
+- **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
+  audit found 17 of 19 placements stocked; the fix build closed
+  the last two. Placement #18 (the solution plates A–J, guide
+  pp. 100–104) now stands as its own lesson, **Worked
+  Developments — the Answer Plates** (15 questions), the answer
+  key to Unit 5's development exercises (Checkpoint 5.11 /
+  Exercise 1). Placement #19 (the Reference shelf, guide p. 105)
+  is now listed in full in ABOUT.md. ABOUT also now carries
+  placement #1's full substance (the 58-period budget and the
+  uniform lesson script) and no longer misdescribes the plates'
+  scope. Technical Drawing stands at **17 lessons, 19 of 19
+  placements stocked**. Build log:
+  ethiopia-2026-11-11/build-logs/fix-technical-drawing.md.
