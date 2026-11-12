@@ -1,17 +1,22 @@
 # Sources — What a force is — pushes, pulls and weight
 
-countries: Ethiopia
+countries: Ethiopia, Zambia (teacher-module evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
+
+**Book 3:** *Physics Teaching Module — Form 1, Term 3* (teacher module — a TEACHING MODULE for teachers, NOT a student textbook) — Zambia, Form 1 (first secondary year), Term 3 · TEACHER module · Republic of Zambia, Ministry of Education, Directorate of Curriculum Development; © Curriculum Development Centre 2025; first published 2025 by Zambia Educational Publishing House, Lusaka · ISBN 978-9982-01-214-5. Repo path: grade-07/gov/zambia/physics/full-year.pdf (Contents API route). Bytes: 2,279,414 (Contents API meta = downloaded). PDF pages: 48. Offset: module printed p. 1 = Topic 5 opener (PDF p. ~9). COMPLETE for what it is — one term module covering Topic 5 only. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/zambia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — What a force is — pushes, pulls and weight | Ethiopia, *Grade 9 Student Textbook*, printed pp. 64–65 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 64–65 |
 | Unit 4 — Force, Work, Energy and Power pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 41–54 |
+| Topic 5 Sub-Topic 1: Forces (teacher module — evidence) | Zambia, *Physics Teaching Module — Form 1, Term 3*, Topic 5 Sub-Topic 1: Forces, printed p. 1 (module pagination) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count.
+
+Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
