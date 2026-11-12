@@ -137,3 +137,38 @@ Out · User Accounts · Passwords — Making a Strong One.
 Languages — and Why LOGO · Opening MSW Logo · The MSW Logo
 Screen · LOGO Drawing Commands · LOGO Procedures · Defining and
 Running a LOGO Procedure.
+
+**First Steps** (band A3, from Ethiopia Grade 8): Computer
+Generations — Five Periods of Change · First Generation —
+Vacuum Tubes · Second Generation — Transistors · Third
+Generation — Integrated Circuits · Fourth Generation —
+Microprocessors and the PC · Fifth Generation — AI and Parallel
+Processing · The Four Functions of a Computer — Input ·
+Processing — the Computer Works on the Data · Output — Showing
+the Result · Storage — Keeping Data, and the Four Functions
+Together · Types of Computer by Size — Microcomputers and
+Desktops · Portable Computers — Laptop, Notebook, Tablet,
+Smartphone · Minicomputers and Mainframes · Supercomputers —
+the Fastest Computers · Analog Computers — Continuous Data ·
+Digital Computers — Data as Digits · Hybrid Computers — Analog
+and Digital Together · Special-Purpose Computers — Built for
+One Job · General-Purpose Computers — Built for Many Jobs ·
+Characteristics of Computers — Speed, Accuracy, Diligence,
+Versatility, Reliability, Automatic · What a Computer Cannot
+Do — No IQ, No Feelings.
+
+**Hardware** (band A3, from Ethiopia Grade 8): Computer
+Hardware — Four Categories · The Keyboard — Ten Groups of Keys
+· The Mouse — Buttons and Connections · Scanner — Paper into
+the Computer · Optical Recognition — OCR Reads Characters ·
+OMR Marks Exams — and Barcode Readers · Speech Recognition —
+Entering Data by Talking · Light Pen and Touch Screen ·
+Joystick — Direction and Amount of Push · Processing Devices —
+the CPU, the Brain of the Computer · Inside the CPU — CU, ALU
+and Registers · Primary Storage — RAM and ROM · CMOS — and
+Secondary Storage Keeps Data for Good · Magnetic Tape and
+Magnetic Disk — the Hard Disk · Optical Disks — Pits, Lands
+and the Three CDs · DVD — a CD That Holds Much More · Output
+Devices — Soft Copy and Hard Copy; CRT and LCD Monitors · LED
+and Gas Plasma Monitors · Printers — Impact and Non-Impact —
+and Plotters.

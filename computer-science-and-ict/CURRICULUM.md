@@ -43,3 +43,13 @@ lessons, 333 questions, 38 media filed (pictures/GIFs
 book's own shape (its six-unit road map and brainstorm-first
 rhythm) is filed inside the opening lesson, What ICT Is.
 Grade 7 now stands complete: 59 lessons.
+
+**Band A3 (Grade 8, Units 1–2) — BUILT 2026-11-12:** 40
+lessons, 425 questions, 56 media filed (pictures/GIFs
+10900–10955) — First Steps (21), Hardware (19). The Grade 8
+book's own shape (its six-unit road map) is filed inside the
+opening lesson, Computer Generations. The Grade 8 teacher-guide
+answer keys were used as the verified-answer check for the
+question files, and its items for Units 1–2 are stocked inside
+the lessons as labelled evidence. The course now stands at 99
+lessons.

@@ -1,0 +1,50 @@
+# Lesson plan — Light pen and touch screen
+
+**Course:** Computer Science and ICT · **Title:** Hardware · **Lesson:** Light pen and touch screen
+**Place in the curriculum:** Title 2 — Hardware of the Computer Science and ICT ladder (TITLES.md); Ethiopia Grade 8, Unit 2 — Computer Hardware.
+**The one thing this lesson teaches:** the light pen draws and fixes its position by sensing the screen's light, and the touch screen lets data be entered with a finger — the input of ATMs and public information computers.
+**This lesson's own level:** it stands on the input-device lessons: two devices that work directly on the screen itself.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds, looping.
+
+## Sub lessons
+This lesson is one whole lesson — it has no sub lessons (a short, single-skill lesson; his ruling 2026-11-09).
+
+## Before this lesson
+- Recommended first: the lessons before this one in Hardware — recommended, never forced. A learner can land here directly; the lesson stands alone.
+
+## What the learner can do when it ends
+1. Say the one thing this lesson teaches: the light pen draws and fixes its position by sensing the screen's light, and the touch screen lets data be entered with a finger — the input of ATMs and public information computers.
+2. Explain, in their own words: the light pen.
+3. Explain, in their own words: the touch screen.
+4. Answer this lesson's questions (10 items) from what the lesson itself teaches.
+
+## What you need
+Paper and a pencil. A real computer, phone or the devices named in the lesson help where the hands-on activities call for them, but every activity has a paper way through.
+
+## The run of the lesson (in order)
+1. **Do it first** — You already enter data by touching a phone screen. Older machines had a pen that touched the screen instead. Before reading on, guess how the machine knows where the pen — or your finger — is. (lesson/lesson.md).
+2. **The explanation** — the parts of the lesson, in order (lesson/lesson.md).
+   - ADD IMAGE [Picture 10938]: a picture of light pen and touch screen — two ways of working on the screen itself — the student reads the picture and names its parts aloud.
+   - ADD GIF [GIF 10939]: a picture of touch-screen tap — the student watches the loop twice and says what moved, and what the movement proves.
+   - ADD AUDIO: a voice reading the lesson's key words and definitions aloud — the student listens and repeats each one.
+3. **Say it to your companion** — the companion task in lesson/lesson.md.
+   - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
+4. **Questions** — from questions/: the types this lesson has — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE [Picture 10938] — a picture of light pen and touch screen → the student reads it and names its parts.
+- GIF [GIF 10939] — touch-screen tap → the student watches and says what the movement proves.
+- AUDIO — the lesson's key words read aloud → the student listens and repeats.
+- VIDEO — the video-script filmed (made later) → the student follows along.
+
+A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+## If the learner is stuck
+- Thinks the light pen shines light onto the screen → the pen SENSES light from the screen with a light cell at its tip; sensing fixes its position.
+- Thinks touch screens are only on phones → also laptops and tablets, ATMs, public information computers, hospitals, airline and railway reservations.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Ethiopia, *Information Technology, Student's Textbook, Grade 8*, with the *Teacher's Guide, Grade 8* as labelled evidence where the sources table says so). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
