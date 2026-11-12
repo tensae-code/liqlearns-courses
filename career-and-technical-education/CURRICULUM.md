@@ -35,3 +35,12 @@ Band records land here as each band is built and verified.
   "Deeper" sub lessons. The G8 Unit 6 review's swapped
   gossip/dissatisfaction definitions are taught corrected and
   named in the sources.
+- **First Steps + Choosing a Career — BUILT** (Grade 7 student
+  Units 1–2 + Grade 8 student Unit 1, with both guides as
+  section-level teacher evidence): First Steps 5 lessons, 60
+  questions; Choosing a Career 10 lessons, 122 questions.
+  Pictures 11800–11817, GIFs 11803 (ladder light) + 11819
+  (profile pen), both frame-checked. No lesson stands on guide
+  evidence alone. The guide's "Soft Sills" and its key's
+  "critical"→"creative" slip are taught corrected and named in
+  the sources.

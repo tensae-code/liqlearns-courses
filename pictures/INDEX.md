@@ -1501,6 +1501,25 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11487 | pictures/11487.gif | magma rising, erupting as lava (volcano) | Social Studies — The Land and Air — Volcanism — Magma and Lava |
 | 11488 | pictures/11488.gif | sand streaming over a crest (dune wind, teacher guide) | Social Studies — The Land and Air — External Forces |
 | 11489 | pictures/11489.gif | ice passing straight to vapour (sublimation, teacher guide) | Social Studies — The Land and Air — The Atmosphere — Its Gases and Layers |
+| 11800 | pictures/11800.webp | the course path (choose > make > sell > get hired) | Career and Technical Education — First Steps — How This Course Works |
+| 11801 | pictures/11801.webp | a career as a rising path | Career and Technical Education — First Steps — Careers — the Path of Your Working Life |
+| 11802 | pictures/11802.webp | job = one rung, career = the whole ladder | Career and Technical Education — First Steps — Job vs Career — One Step or the Whole Climb |
+| 11803 | pictures/11803.gif | a light climbing a ladder rung by rung | Career and Technical Education — First Steps — Job vs Career — One Step or the Whole Climb |
+| 11804 | pictures/11804.webp | book + tool joined | Career and Technical Education — First Steps — What CTE Is — Learning Joined to Doing |
+| 11805 | pictures/11805.webp | CTE field wheel with job/business/study arrows | Career and Technical Education — First Steps — Why CTE Matters — Skills That Lead to Work |
+| 11806 | pictures/11806.webp | one career, many life roles strip | Career and Technical Education — Choosing a Career — What a Career Is and What Career Selection Means |
+| 11807 | pictures/11807.webp | eight areas under two stream signs | Career and Technical Education — Choosing a Career — Choosing Your Field — Ethiopia's Eight CTE Areas |
+| 11808 | pictures/11808.webp | manufacturing strip + four sub-area panels | Career and Technical Education — Choosing a Career — CTE Areas — Making and Building |
+| 11809 | pictures/11809.webp | construction four sub-areas | Career and Technical Education — Choosing a Career — CTE Areas — Making and Building |
+| 11810 | pictures/11810.webp | computers / farming / health panels | Career and Technical Education — Choosing a Career — CTE Areas — Technology, Farming and Health |
+| 11811 | pictures/11811.webp | business science six parts | Career and Technical Education — Choosing a Career — CTE Areas — Business, Language and the Arts |
+| 11812 | pictures/11812.webp | soft skills two circles (in me / between us) | Career and Technical Education — Choosing a Career — Soft Skills — the Skills Every Job Needs |
+| 11813 | pictures/11813.webp | personal profile card | Career and Technical Education — Choosing a Career — Your Personal Profile — Introducing Yourself on Paper |
+| 11814 | pictures/11814.webp | locality workplaces for Step 1 research | Career and Technical Education — Choosing a Career — Choosing a Career — Research, Evaluate, Discuss, Decide |
+| 11815 | pictures/11815.webp | the narrowing funnel | Career and Technical Education — Choosing a Career — Finding the Right Career — Shortlist, Goals and Action Plan |
+| 11816 | pictures/11816.webp | action-plan roadmap A–D | Career and Technical Education — Choosing a Career — Finding the Right Career — Shortlist, Goals and Action Plan |
+| 11817 | pictures/11817.webp | four steps as four doors | Career and Technical Education — Choosing a Career — Personal Career Selection Review |
+| 11819 | pictures/11819.gif | a pen writing a profile form line by line, section by section | Career and Technical Education — Choosing a Career — Your Personal Profile — Introducing Yourself on Paper |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
