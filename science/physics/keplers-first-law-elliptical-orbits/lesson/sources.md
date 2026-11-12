@@ -1,14 +1,19 @@
 # Sources — Kepler's first law — elliptical orbits
 
-countries: Ethiopia
+countries: Ethiopia, Bahrain (solutions-manual evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
+
+**Book 2:** *فيز 217 (Physics 217) Term 2 — worked solutions for Glencoe Physics: Principles and Problems, Chapters 5–11* (solutions manual — a SOLUTIONS MANUAL of worked answers, NOT a student textbook and NOT a teacher guide) — Bahrain, Grade 11 · Solutions manual · The file is the English-language SOLUTIONS MANUAL (worked answers to every practice problem, section review, chapter assessment and mastering problem) for Bahrain's adopted Grade 11 physics course فيز 217, which follows Glencoe/McGraw-Hill *Physics: Principles and Problems*. It contains NO student-book exposition — solutions only, each headed by the student-book section and page range. First content page carries a Bahrain curricula download-site wrapper (almanahj.com/bh). Title as recorded: "Physics Teacher Guide with Student Book Activities (فيز 217) — Grade 11"; filename physics-student-term-2.pdf. Repo path: grade-11/gov/bahrain/physics-student-term-2.pdf. Byte size: 2,125,752 (no size in record). PDF pages: 185. Offset: no folios of its own; placements cite the student-book page numbers printed in each solution header (e.g. §5.1 = student pp. 119–125). Verdict: COMPLETE as filed — full text read (64,298 words); runs continuously from Chapter 5 §5.1 through Chapter 11 §11.2 problem solutions (the term-2 span of فيز 217); chapter sequence 5, 6, 7, 8, 9, 10, 11 has no gaps. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bahrain-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Planetary motion before Kepler — and Kepler's first law | Grade 12 Student Textbook, printed pp. 54–55 |
+| §7.1 Planetary Motion and Gravitation — Kepler's laws (solutions manual — evidence) | Bahrain, *فيز 217 (Physics 217) Term 2 — Solutions Manual for Glencoe Physics: Principles and Problems*, §7.1 Planetary Motion and Gravitation, student p. 171 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+
+Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 
