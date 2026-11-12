@@ -10,3 +10,6 @@ Pass mark: spot the subordinate conjunction (ስለ, እንደ, ከ, ለ, ቢ, �
 
 ## Sub lesson 3 — Transitional words: መሸጋገሪያ ቃላት
 Pass mark: read a short paragraph and name the transitional word at each crossing and its direction (forward — ስለዚህ; against — ይሁንእንጂ; back to the reason — ምክንያቱም), and plant one transitional word of each direction in writing of your own.
+
+## Sub lesson 4 — The Grade 4 conjunction bench: ወይም, እና, አለበለዚያ, ስለሆነም
+Pass mark: complete sentences by choosing the fitting conjunction from the four-word bank, and say in one line why each rejected word does not fit.

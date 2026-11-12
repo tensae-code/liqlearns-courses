@@ -355,3 +355,32 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
 17. **Grade 3 Market** (`story/grade-3-market`) — the Grade 3
     book's market chapter (ገበያ), closing with the book's own
     reference list (ዋቢዎች) (fix build, 2026-11-12).
+18. **Grade 4 Our Environment** (`story/grade-4-environment`) —
+    the Grade 4 book's environment chapter (የአካባቢ ጥበቃ),
+    opening with the book's care-of-book message and parents'
+    guide (fix build, 2026-11-12).
+19. **Grade 4 Road Safety** (`story/grade-4-road-safety`) — the
+    Grade 4 book's road chapter (የመንገድ ደህንነት) (fix build,
+    2026-11-12).
+20. **Grade 4 Helping Each Other** (`story/grade-4-helping`) —
+    the Grade 4 book's mutual-help chapter (መረዳዳት) (fix build,
+    2026-11-12).
+21. **Grade 4 Women and Men Together** (`story/grade-4-gender`)
+    — the Grade 4 book's gender chapter (ሥርዓተ ፆታ) (fix build,
+    2026-11-12).
+22. **Grade 4 Visiting Our Heritage**
+    (`story/grade-4-visiting`) — the Grade 4 book's visiting
+    chapter (ጉብኝት) (fix build, 2026-11-12).
+23. **Grade 4 Sport** (`story/grade-4-sport`) — the Grade 4
+    book's sport chapter (ስፖርት) (fix build, 2026-11-12).
+24. **Grade 4 Water** (`story/grade-4-water`) — the Grade 4
+    book's water chapter (ዉኃ) (fix build, 2026-11-12).
+25. **Grade 4 Making Peace** (`story/grade-4-reconciliation`) —
+    the Grade 4 book's negotiation chapter (መደራደር / ድርድር)
+    (fix build, 2026-11-12).
+26. **Grade 4 Newspapers Radio and Television**
+    (`story/grade-4-media`) — the Grade 4 book's mass-media
+    chapter (መገናኛ ብዙሃን) (fix build, 2026-11-12).
+27. **Grade 4 Honest Trade** (`story/grade-4-trade`) — the
+    Grade 4 book's trade chapter (ንግድ), closing with the
+    book's own reference list (ዋቢዎች) (fix build, 2026-11-12).

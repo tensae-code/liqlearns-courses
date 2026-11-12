@@ -77,3 +77,28 @@ a) ?  b) ። only  c) ! only
 **19. (Sub lesson 13)** The p.61 sentences come from which chapter's world?
 a) Cleanliness and disease  b) Music  c) Wild animals
 **Answer: a) Cleanliness and disease** — the cleanliness chapter, Grade 2 p.61.
+
+**20. (Sub lesson 14)** What is the ዋና ግስ of a sentence?
+a) Its main, finite verb — the action word that carries the time  b) Its longest noun  c) Its first word always
+**Answer: a) Its main, finite verb — the action word that carries the time** — the sentence's engine.
+
+**21. (Sub lesson 14)** How can you prove which word is the main verb?
+a) Change the sentence's time — the word that must change is the main verb  b) Count its letters  c) It is always last in every language
+**Answer: a) Change the sentence's time — the word that must change is the main verb** — the review's own test.
+
+**22. (Sub lesson 14)** A sentence stripped to its engine keeps what?
+a) Subject and main verb  b) Only adverbs  c) Only adjectives
+**Answer: a) Subject and main verb** — who/what + the main action.
+
+
+**23. (Sub lesson 15)** በሌላ በኩል means…?
+a) Therefore  b) On the other hand  c) Because
+**Answer: b) On the other hand** — it turns the sentence to the thing's other face; ስለዚህ is therefore.
+
+**24. (Sub lesson 15)** A ድርብ (compound) sentence is…?
+a) One simple sentence alone  b) Two simple sentences joined by a conjunction  c) A sentence with no verb
+**Answer: b) Two simple sentences joined by a conjunction** — joined by እና, ነገርግን, ወይም, ስለዚህ or በሌላ በኩል.
+
+**25. (Sub lesson 15)** "ትምህርት አስቸጋሪ ነው፤ ____ ደስ የሚል ነው።" (Study is hard; ____ it is joyful.) The turn to the other face takes —
+a) በሌላ በኩል  b) ምክንያቱም  c) እንደ
+**Answer: a) በሌላ በኩል** — hard on one face, joyful on the other.

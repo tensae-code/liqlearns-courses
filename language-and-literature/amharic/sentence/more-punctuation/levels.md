@@ -19,3 +19,15 @@ Pass mark: shorten a word with አንድ ነጥብ by the first two letters and 
 
 ## Sub lesson 6 — Quotation marks first met, and the Corona paragraph
 Pass mark: say what “ ” first means — speech taken from another person or book — and punctuate a paragraph about ኮረና using ? ። ! ፣ and “ ” together, each mark where the reading-aloud ear puts it.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 7 — Grade 5 and 6: the books' own punctuation practice — the greetings paragraph, Jemal, the herders' dialogue, and dates in figures
+Sub lesson 7 questions from the type files. Pass mark: punctuate the greetings paragraph and the Jemal paragraph, punctuate the herders' dialogue from the mark set, and turn spelled-out dates into figures.
+
+
+
+
+## Sub lesson 8 — The Grade 4 book's new marks: . , (፡-), እዝባር, ሦስት ነጠብጣብ
+Pass mark: build one correct sentence with each of the four marks — dot abbreviation, colon announcing more, slash እዝባር, ellipsis ሦስት ነጠብጣብ trailing off — and name each mark's work.

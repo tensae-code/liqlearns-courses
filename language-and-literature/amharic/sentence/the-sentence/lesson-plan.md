@@ -96,3 +96,15 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 13 — Grade 2: punctuation inside real sentences: punctuate the cleanliness chapter's sentences with ።, ? and !, each where its feeling asks.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 14 — Grade 6: finding the main verb: Finding the main verb (ዋና ግስ).
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 14 — Grade 6: finding the main verb: Finding the main verb (ዋና ግስ).
+
+**Growth note (2026-11-12, Amharic fix build):** Sub lesson 15 added — compound sentences at the Grade 4 student book's review bench (printed p. 34), building ድርብ sentences with እና, ነገርግን, ወይም, ስለዚህ, በሌላ በኩል. The audit found the compound-sentence writing taught in Sub lesson 4 cited only to Grade 4 p. 4, with p. 34 uncited and በሌላ በኩል absent from that sub lesson's set; Sub lesson 15 stocks the p. 34 bench in full. Earlier sub lessons are unchanged.
+
+- Sub lesson 15 — Grade 4 review bench: compound sentences with በሌላ በኩል: one ድርብ sentence per joiner, the joint named each time.

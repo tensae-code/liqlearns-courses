@@ -33,3 +33,15 @@ a) ዐ/ዘ/ዠ  b) የ/ደ/ጀ  c) ቀ/በ
 **8. (Sub lesson 6)** The p.71 drill splits which kind of words?
 a) The stories' long words  b) Only two-fidel words  c) Names only
 **Answer: a) The stories' long words** — እንደምናሸንፍ and its brothers, Grade 1 p.71.
+
+**9. (Sub lesson 7)** In the Grade 4 book, what does a task's icon tell you?
+a) The page number  b) The skill the task trains — listening, speaking, reading, writing or grammar  c) The answer
+**Answer: b) The skill the task trains** — Look at the icon first, and you know how the task wants to be done.
+
+**10. (Sub lesson 7)** ማጣመር means…?
+a) Splitting a word into fidel units  b) Blending — reading a word's parts and joining them into the whole word  c) Copying a word
+**Answer: b) Blending** — ማጣመር blends the parts; መነጠል splits the whole.
+
+**11. (Sub lesson 7)** መነጠል on ገበረ gives…?
+a) ገበረ whole only  b) ገ በ ረ — its fidel units  c) በገረ
+**Answer: b) ገ በ ረ** — Splitting reads the whole word into its fidel units, one by one.

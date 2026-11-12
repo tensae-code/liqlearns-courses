@@ -68,3 +68,15 @@ Paper and a pencil. Nothing else.
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. One part (the teacher guide's ቅንፍና note) is teacher-guide evidence, labelled in sources.md; everything else is pupil-taught in the Grade 5 and Grade 6 student books.
 **Growth note (2026-11-12, Amharic fix build):** Sub lesson 6 added — quotation marks as the Grade 3 student book first introduces them (printed p. 11), with that book's own Corona-paragraph punctuation exercise using ? ። ! ፣ and “ ” together. The audit found the quotation-mark content taught but cited only to Grade 5 p. 115, with the Grade 3 introduction and its exercise missing; Sub lesson 6 stocks both, cited to Grade 3 p. 11. The first five sub lessons are unchanged.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 7 — Grade 5 and 6: the books' own punctuation practice — the greetings paragraph, Jemal, the herders' dialogue, and dates in figures: Complete the greetings paragraph with correct punctuation; Punctuate the descriptive paragraph about Jemal; Unscramble, and punctuate the herders' dialogue; Spelled-out dates into figure form.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 7 — Grade 5 and 6: the books' own punctuation practice — the greetings paragraph, Jemal, the herders' dialogue, and dates in figures: Complete the greetings paragraph with correct punctuation; Punctuate the descriptive paragraph about Jemal; Unscramble, and punctuate the herders' dialogue; Spelled-out dates into figure form.
+
+**Growth note (2026-11-12, Amharic fix build):** Sub lesson 8 added — the new punctuation marks as the Grade 4 student book's note box presents them together at printed p. 114: single dot (.), colon (፡-), slash እዝባር (/), ellipsis ሦስት ነጠብጣብ (…), each explained — abbreviation, 'more follows', cut-off feeling/speech — with sentences built using them. The audit found these marks taught in Sub lessons 3–5 cited to the Grade 5 and Grade 6 books, with Grade 4 p. 114 cited nowhere; Sub lesson 8 stocks the Grade 4 note box as the family's first meeting place. Earlier sub lessons are unchanged.
+
+- Sub lesson 8 — The Grade 4 book's new marks: one sentence per mark — dot, colon, እዝባር, ሦስት ነጠብጣብ — each mark's work named.

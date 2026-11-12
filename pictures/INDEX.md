@@ -3901,3 +3901,16 @@ and lift; step 4's hold never opens while the pencil tilts back).
 - 16919 — 16919.gif — M typed in the Criteria box, then the female records disappearing one by one until only the matches remain — lesson databases/query-criteria-asking-for-exactly-the-records-you-want — frame-checked
 - 16920 — 16920.webp — "One query across three tables" — lesson databases/queries-across-multiple-tables
 - 16921 — 16921.gif — the Student table's primary key dragged across onto Grade's matching Student ID field, the join line forming — lesson databases/queries-across-multiple-tables — frame-checked
+
+| 27200 | pictures/27200.webp | word chart — አካባቢ ጥበቃ | Amharic — Story — Grade 4 Our Environment |
+| 27201 | pictures/27201.webp | word chart — የመንገድ ደህንነት | Amharic — Story — Grade 4 Road Safety |
+| 27202 | pictures/27202.webp | word chart — መረዳዳት | Amharic — Story — Grade 4 Helping Each Other |
+| 27203 | pictures/27203.webp | word chart — ሥርዓተፆታ | Amharic — Story — Grade 4 Women and Men Together |
+| 27204 | pictures/27204.webp | word chart — ጉብኝት | Amharic — Story — Grade 4 Visiting Our Heritage |
+| 27205 | pictures/27205.webp | word chart — ስፖርት | Amharic — Story — Grade 4 Sport |
+| 27206 | pictures/27206.webp | word chart — ዉኃ | Amharic — Story — Grade 4 Water |
+| 27207 | pictures/27207.webp | word chart — ድርድር | Amharic — Story — Grade 4 Making Peace |
+| 27208 | pictures/27208.webp | word chart — ብዙኃን መገናኛ | Amharic — Story — Grade 4 Newspapers Radio and Television |
+| 27209 | pictures/27209.webp | word chart — ንግድ | Amharic — Story — Grade 4 Honest Trade |
+| 27210 | pictures/27210.gif | traffic-light cycle flipping between cars and pedestrians | Amharic — Story — Grade 4 Road Safety |
+| 27211 | pictures/27211.gif | rain cycle — vapour rises, cloud forms, rain falls | Amharic — Story — Grade 4 Water |

@@ -116,3 +116,7 @@ list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 6 — The Grade 1 book's blending pages, page by page: blend the p.20 and p.39 rows whole, and split እንደምናሸንፍ and blend it back.
+
+**Growth note (2026-11-12, Amharic fix build):** Sub lesson 7 added — the Grade 4 student book's front matter (printed pp. vi–viii): the icon/skill system explained, and ማጣመር/መነጠል (blending/splitting) stated as that book's own method. The audit found the method taught here but cited only to the Grade 1 student book and the Grade 1/Grade 2 teacher guides, with the Grade 4 front-matter statement and the icon system missing; Sub lesson 7 stocks both, cited to Grade 4 pp. vi–viii. The first six sub lessons are unchanged.
+
+- Sub lesson 7 — The Grade 4 book's method page: icons, and ማጣመር/መነጠል: name each task's skill from its icon; blend a word's parts, then split the whole word into fidel units.

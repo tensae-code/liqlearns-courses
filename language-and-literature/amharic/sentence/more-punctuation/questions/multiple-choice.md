@@ -45,3 +45,28 @@ a) Only ።  b) ? ። ! ፣ and “ ”  c) Only “ ”
 **11. (Sub lesson 6)** Words a paragraph quotes from another person are written how?
 a) In bold  b) Fenced inside “ ”  c) Underlined twice
 **Answer: b)** — quoted speech wears the quotation marks.
+
+**12. (Sub lesson 7)** In the greetings-paragraph exercise, what do the dashes in the exercise show?
+a) Where a punctuation mark must be supplied  b) Words to delete  c) New vocabulary
+**Answer: a) Where a punctuation mark must be supplied** — complete the paragraph with the correct marks.
+
+**13. (Sub lesson 7)** Jemal, in the paragraph to punctuate, is what?
+a) A famous school footballer  b) A herder  c) A driver
+**Answer: a) A famous school footballer** — the descriptive paragraph's subject.
+
+**14. (Sub lesson 7)** The herders in the Grade 6 dialogue are named what?
+a) Demle and Berihun  b) Asrat and Lubaba  c) Mulugeta and Azalu
+**Answer: a) Demle and Berihun** — in new Buhe festival clothes.
+
+
+**15. (Sub lesson 8)** In the Grade 4 note box, the colon (፡-) announces…?
+a) The sentence has ended  b) More follows — a list or explanation is coming  c) A question
+**Answer: b) More follows** — the colon promises; the list keeps the promise.
+
+**16. (Sub lesson 8)** ሦስት ነጠብጣብ (…) shows…?
+a) An abbreviation  b) Speech or feeling cut off, trailing away  c) A shortened compound word
+**Answer: b) Speech or feeling cut off** — the three dots trail into silence; the single dot shortens, እዝባር cuts compounds.
+
+**17. (Sub lesson 8)** እዝባር is the name of which mark?
+a) (.)  b) (…)  c) (/)
+**Answer: c) (/)** — እዝባር, the slash; (.) is the single dot, (…) the ሦስት ነጠብጣብ.

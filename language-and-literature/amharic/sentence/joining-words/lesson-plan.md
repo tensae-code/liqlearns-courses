@@ -56,3 +56,7 @@ Paper and a pencil. Nothing else.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. Sub lesson 3 stands on teacher-guide evidence only, and sources.md says so; Sub lessons 1–2 are pupil-taught in the Grade 7 student book.
+
+**Growth note (2026-11-12, Amharic fix build):** Sub lesson 4 added — completing sentences with the right conjunction (ወይም, እና, አለበለዚያ, ስለሆነም) as the Grade 4 student book sets the task at printed p. 28. The audit found this sentence-completion work taught in Sub lesson 1 but cited only to the Grade 7 student book, with Grade 4 p. 28 uncited and አለበለዚያ absent from this lesson; Sub lesson 4 stocks the Grade 4 bench in full. The first three sub lessons are unchanged.
+
+- Sub lesson 4 — The Grade 4 book's conjunction bench: complete sentences choosing ወይም, እና, አለበለዚያ or ስለሆነም, and defend each choice.

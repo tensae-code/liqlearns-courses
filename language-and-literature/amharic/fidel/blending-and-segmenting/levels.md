@@ -26,3 +26,6 @@ Sub lesson 5 questions from the type files. Pass mark: pick the words that start
 
 ## Sub lesson 6 — The Grade 1 book's blending pages, page by page
 Sub lesson 6 questions from the type files. Pass mark: blend the p.20 and p.39 rows whole, and split እንደምናሸንፍ and blend it back.
+
+## Sub lesson 7 — The Grade 4 book's method page: icons, and ማጣመር/መነጠል
+Pass mark: name what each task icon asks for, and show ማጣመር and መነጠል on one word each way — blend its parts into the word, then split the word into its fidel units.

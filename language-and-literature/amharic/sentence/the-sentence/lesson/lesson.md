@@ -217,6 +217,21 @@ the way sub lesson 2 teaches the three marks. The chapter's
 two cleanliness webs are drawn in Study Skills at the same
 page.
 
+
+## Sub lesson 14 — Grade 6: finding the main verb
+
+
+### Finding the main verb (ዋና ግስ)
+
+The Grade 6 book's grammar review, stocked here: in each sentence, find the ዋና ግስ — the main, finite verb, the word that carries the sentence's action and its time. Work the book's sentences one by one: strip away the helpers and describers until the engine word stands alone, then prove it by changing the sentence's time and watching which word must change. No main-verb item stood in this lesson before; this part stocks it at its own page.
+
+
+## Sub lesson 15 — Grade 4 review bench: compound sentences with በሌላ በኩል
+
+The Grade 4 book returns to compound sentences — ድርብ ዓረፍተነገር — at its review bench, and asks you to write them with five joiners: **እና** (and), **ነገርግን** (but), **ወይም** (or), **ስለዚህ** (therefore) — and one more that Sub lesson 4 did not carry: **በሌላ በኩል** — on the other hand.
+
+በሌላ በኩል turns the sentence around to look from the other side: the first half shows one face of a thing; በሌላ በኩል, the second half shows its other face. Build one compound sentence with each of the five joiners, and feel how the joint changes the meaning each time — adding, pushing against, choosing, following, and turning to the other side.
+
 ## Say it to your companion
 
 Tell your companion: a sentence carries one complete idea, and it ends with ።, ? or !. Then take two short sentences of your own and join them with ስለ, the way the dialogue joins 1ኛ መወጣት እፈልጋለሁ and ሁልጊዜ አጠናለሁ. Your companion counts the verbs in your joined sentence: if there are two or more, they say "ውስብስብ!"

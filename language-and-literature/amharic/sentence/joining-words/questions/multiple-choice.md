@@ -25,3 +25,15 @@ a) inside one word  b) at a crossing between ideas in a text, often at the head 
 **6. (Sub lesson 3)** "The rain failed. ____, the farmers stored what grain they had." The crossing is a result — the word is —
 a) ይሁንእንጂ (however)  b) ስለዚህ (therefore)  c) ወይም (or)
 **Answer: b) ስለዚህ** — the storing follows from the failed rain; ይሁንእንጂ would push against it.
+
+**7. (Sub lesson 4)** "ዝናብ አልዘነበም፤ ____ ሰዎች ውኃ አጠጡ።" (It did not rain; ____ people fetched water.) The second half follows as a result — the word is —
+a) ወይም  b) ስለሆነም  c) እና only
+**Answer: b) ስለሆነም** — the fetching follows from the failed rain: therefore.
+
+**8. (Sub lesson 4)** Which conjunction warns what happens if the first part fails?
+a) አለበለዚያ — otherwise  b) እና  c) ወይም
+**Answer: a) አለበለዚያ** — otherwise carries the warning; ወይም offers a choice, እና adds.
+
+**9. (Sub lesson 4)** "ሻይ ____ ቡና ትጠጣለህ?" (Will you drink tea ____ coffee?) offers a choice — the word is —
+a) ስለሆነም  b) አለበለዚያ  c) ወይም
+**Answer: c) ወይም** — tea or coffee: one of two, chosen.

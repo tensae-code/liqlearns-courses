@@ -30,3 +30,14 @@ And one dot shortens a word:
 **መስተዳድር → መስ.** **ወይዘሮ → ወሮ.**
 
 More marks. Same job: the reader is never lost.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 7 — Grade 5 and 6: the books' own punctuation practice — the greetings paragraph, Jemal, the herders' dialogue, and dates in figures: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

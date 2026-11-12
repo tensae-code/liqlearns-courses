@@ -110,6 +110,12 @@ every row aloud.
   whole — then do the page's writing: list the seedling types
   you know.
 
+## Sub lesson 7 — The Grade 4 book's own method page: icons, and ማጣመር/መነጠል
+
+The Grade 4 book opens by explaining its own way of working. Every task wears a small picture mark — an icon — that names the skill before you begin: listening, speaking, reading, writing, or grammar. Look at the icon first, and you know how the task wants to be done.
+
+The same front pages state the fidel method in the book's own two words. **ማጣመር** — blending: read a word's parts, then blend them into the whole word. **መነጠል** — splitting: read the whole word, then split it into its fidel units. You have done both through this whole lesson — ገ + በ + ረ blended into ገበረ, and ገበረ split back into ገ በ ረ. The Grade 4 book names the same two moves at its front, because every chapter that follows leans on them.
+
 ## Say it to your companion
 
 Blend three fidel your companion names, and read the word in one go. Then split a word your companion says, fidel by fidel. Take away its first fidel and say the new word. Finish together: clap the letters of ጨጨት — three claps — and chant መናጩ, ዋናጩ, ቂናጩ.

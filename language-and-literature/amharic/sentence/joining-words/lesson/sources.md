@@ -8,6 +8,8 @@ countries: Ethiopia
 
 **Book 3:** *Grade 8 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–164. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
 
+**Book 4:** *Grade 4 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 167 printed pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — conjunctions (አያያዦች): እና, ግን, ነገርግን, እንጂ, ወይም, ቢሆንም, ስለዚህ, በመሆኑም join two simple sentences into a compound (ድርብ) sentence; identify conjunctions in 10 sentences; write 5 own compound sentences | Ethiopia, *Grade 7 Amharic Student Textbook*, printed p.5 |
@@ -22,6 +24,8 @@ countries: Ethiopia
 | GIF 8733 — two simple-sentence cards sliding together as ይሁን እንጂ appears (drawn for this lesson) | Built from Sub lesson 1's worked example: Ethiopia, *Grade 7 Amharic Student Textbook*, printed pp.114–115 |
 | Picture 8726 — the seven subordinate conjunctions + leaning example (drawn PIL chart for this lesson) | Built from Sub lesson 2: Ethiopia, *Grade 7 Amharic Student Textbook*, printed pp.17–18, 120 |
 | Picture 8727 — transitional words carrying ideas across (drawn PIL chart for this lesson) | Built from Sub lesson 3 (teacher guide — evidence) with the student-book joiners of Sub lesson 1: Ethiopia, *Grade 8 Amharic Teacher Guide*, printed p.34; *Grade 7 Amharic Student Textbook*, printed pp.5, 87 |
+
+| Sub lesson 4 — completing sentences with the right conjunction from the Grade 4 book's own bank: ወይም, እና, አለበለዚያ, ስለሆነም (G4S-46) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed p. 28 |
 
 **Acceptance count: taught in 1 country (Ethiopia).** Sub lessons 1–2 are pupil-taught in the Grade 7 student book; Sub lesson 3 stands on teacher-guide evidence (named above) and is counted inside the lesson's one country only through its student-book sub lessons — the transitional-words part itself is evidence, labelled, and adds no separate count.
 

@@ -16,6 +16,8 @@ countries: Ethiopia
 
 **Book 7:** *አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, ዘጠነኛ ክፍል (Amharic as a Federal Language, Teacher Guide, Grade 9)* (teacher guide — evidence) — Ethiopia, Ministry of Education / Hawassa University, 124 PDF pages; printed folios run 1–95 for the body. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g09-teacher-placements.md.
 
+**Book 8:** *Grade 6 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau; 209 PDF pp., printed pp.1–197. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g06-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the sentence (ዓረፍተነገር) carries one complete idea; example "ኃይለኛ ዝናብ ዘነበ።" | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.63 |
@@ -39,6 +41,7 @@ countries: Ethiopia
 | Sub lesson 9 (teacher guide — evidence) — sentences classified by structure (ከቅርፅ አንጻር) into ነጠላ (simple — a single clause unit) and ውስብስብ (complex); learners compose their own | Ethiopia, *Grade 7 Amharic Teacher Guide*, printed p.14 |
 | Pictures 8720–8724 — the subject/predicate blocks, the four functions, affirmative/negative, the being-verb blocks, simple vs complex (drawn PIL charts for this growth) | Built from Sub lessons 5–9 above: Ethiopia, *Grade 7 Amharic Student Textbook*, printed pp.9, 66–67, 81, 92, 130–132, 160–161 |
 | GIF 8736 — the bound verb ሲመጣ waiting until its binder ሄደ arrives (drawn for this growth) | Built from Sub lesson 9's worked example: Ethiopia, *Grade 7 Amharic Student Textbook*, printed pp.130–132 |
+| Sub lesson 14 — Finding the main verb (ዋና ግስ) | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.20 |
 
 | Sub lesson 10 (teacher guide — evidence) — sentence constituents: subject (ባለቤት), object/complement (ተሳቢ), verb phrase (ማሰሪያ አንቀጽ); identify subject and verb phrase; 10-sentence worked table (ቶፊቅ–ጻፈ; ታላቁ የህዳሴ ግድብ–የኤሌክትሪክ ሀይል ማመንጨት ጀመረ) | Ethiopia, *Grade 9 Amharic Teacher Guide (Federal Language)*, printed pp.28–29 (placement 22) |
 | Sub lesson 10 (teacher guide — evidence) — revision set: identify subject (ባለቤት), object (ተሳቢ) and verb (ግስ) in a 10-row table | Ethiopia, *Grade 9 Amharic Teacher Guide (Federal Language)*, printed pp.84–87 (placement 58a) |
@@ -49,10 +52,15 @@ countries: Ethiopia
 
 | Sub lesson 13 — rewriting sentences with correct punctuation (ሥርዓተነጥብ) on cleanliness sentences (fix build: p.61 was omitted before; placement G2 #56) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.61 |
 
+| Sub lesson 15 — compound sentences reviewed at the Grade 4 book's own bench: build ድርብ sentences with እና, ነገርግን, ወይም, ስለዚህ and በሌላ በኩል (G4S-57) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed p. 34 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The Grade 4 Teacher Guide's secured file is truncated at printed p.42; only its Units 1–3 and part of Unit 4 were read — every teacher-guide part used here sits inside the read span (pp.6, 10–11). Its title page wrongly reads "student book, Part 1" (a template anomaly verified in the placements); the cover, footers and content are the Grade 4 teacher guide, and it is cited as such. (2) GIF 8390 writes አንደኛ for the dialogue's "1ኛ" because the drawing font cannot render the digit inside the Ethiopic word; lesson.md and the questions carry "1ኛ" exactly as the guide prints it. (3) No hardness numbers are written anywhere in this lesson — the books give none. (4) Growth notes (Sub lessons 5–9, added 2026-11-12): the Grade 7 Teacher Guide's secured file is likewise truncated (printed p.46; Chapters 5–10 missing) — the one teacher-guide part used (p.14) sits inside the read span. The pair ልጁ መጣ። / ልጁ አልመጣም። in Sub lesson 7, Picture 8722 and the questions is formed by applying the book's own አል-…-ም rule (Grade 7, printed pp.66–67) to the plain verb መጣ; the placements quote the rule and the classification work, not this exact pair, and it is taught as the rule at work, not as a quoted example. The Grade 7 book's p.81 note names the asking function ጥያቄያዊ while its pp.76–77 table names it መጠይቃዊ; the lesson uses ጥያቄያዊ for the function and mentions መጠይቃዊ in the Sub lesson 7 table, exactly as printed in each place.
 
 G9–G10 growth honesty notes (Sub lessons 10–12, added 2026-11-12): (5) Sub lessons 10–12 rest on TEACHER-GUIDE EVIDENCE ONLY — there is no Grade 9 Amharic student book in the records (confirmed missing at grab time), so these sub lessons are labelled "(teacher guide — evidence)" in the parts table and in lesson.md, and they do not change the lesson's acceptance count, which stands on its pupil-taught sub lessons. (6) Placement 22's worked table keys subject and verb phrase sentence by sentence; the ተሳቢ (object) is named in the same placement as a constituent and in placement 58a's table, and the lesson teaches it exactly as named — no worked object example is quoted beyond what the placements give. (7) The keyed conversion ገሰፀ→አልገሰፁም is taught exactly as the guide keys it, including the verb's changed shape inside the wrap; no general rule for that shape change is invented. (8) No hardness numbers are written anywhere in the new sub lessons — the guide gives none.
+
+
+Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
 
 Searchable tags: the sentence, ዓረፍተነገር, full stop, አራት ነጥብ, ።, question mark, exclamation mark, compound sentence, ድርብ ዓረፍተነገር, complex sentence, ውስብስብ ዓረፍተነገር, ስለ, ስለምፈልግ, ኃይለኛ ዝናብ ዘነበ, አባትህ መጣ, subject, ባለቤት, predicate, ማሰሪያ አንቀጽ, sentence functions, ሀተታዊ, ጥያቄያዊ, ትዕዛዛዊ, አጋናኝ, affirmative, አዎንታዊ, negative, አሉታዊ, አል-…-ም, copula, መሆን ግስ, complement, ስም መሙያ, እነዚህ ዋልያዎች ናቸው, simple sentence, ነጠላ ዓረፍተነገር, bound verb, ሲመጣ, constituents, ተሳቢ, morpheme, ምዕላድ, ነፃ ምዕላድ, ጥገኛ ምዕላድ, ቅድመ አምድ ቅጥያ, ድህረ አምድ ቅጥያ, ላም ኦች ኣቸው, አልገሰፁም, አይደለም, የላቸውም, ቶፊቅ ጻፈ

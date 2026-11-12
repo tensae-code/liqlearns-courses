@@ -8,6 +8,8 @@ countries: Ethiopia
 
 **Book 3:** *Grade 2 Amharic Teacher Guide (አማርኛ እንደመጀመሪያ ቋንቋ የመምህር መምሪያ, ፪ኛ ክፍል)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Printed page = PDF page − 8. Read page by page in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g02-teacher-placements.md.
 
+**Book 4:** *Grade 4 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 167 printed pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The blending/segmenting strand as a pupil-taught skill — blending syllables into words (ለማ, ሙሉ, ላም, መላ…), splitting መለመለ-type words, blending ነ/ኘ rows, segmenting long words (ካኪ→ካ+ኪ, መኪና, ወርቅ, ከሰል, ክራር, አወቀ, ቸኮለ) and mixed labialised segmenting | Book 1, items 8, 11, 13, 30, 36–37, 67, printed pp.5, 7, 9, 27, 33–34, 62 |
@@ -33,6 +35,8 @@ countries: Ethiopia
 | Sub lesson 6 — blending reading ዐ/ዘ/ዠ (ዕርቅ, ዒላማ, ዘገር, ዥግራ) (placement G1 #42) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.39 |
 | Sub lesson 6 — mixed reading rows የ/ደ/ጀ + word building (placement G1 #49) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.45 |
 | Sub lesson 6 — word-splitting fluency drill on the stories' long words (እንደምናሸንፍ…) + writing: list seedling types (placement G1 #77) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.71 |
+
+| Sub lesson 7 — the Grade 4 book's front matter: the icon/skill system, and ማጣመር/መነጠል (blending/splitting) as the Grade 4 book itself states the method — read a word's parts and blend them; read the whole word and split it into fidel units (G4S-03) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed pp. vi–viii |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

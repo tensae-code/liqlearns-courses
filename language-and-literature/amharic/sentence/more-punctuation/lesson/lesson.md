@@ -83,6 +83,33 @@ Quotation marks arrive earlier than the grown work of Sub lesson 2. The first ti
 
 The first exercise is a whole paragraph, about **ኮረና** — corona. The paragraph comes with its marks stripped away, and your job is to put every mark back where it belongs, using the full set together: **? ። ! ፣ and “ ”**. A question gets its ?; a finished statement closes with ።; a cry of feeling takes !; a pause inside the sentence rests on ፣; and any words the paragraph quotes — speech taken from another person — are fenced inside “ ”. Read the paragraph aloud as you work: your ear will tell you where each mark wants to stand, and the marks will confirm what your ear heard.
 
+
+## Sub lesson 7 — Grade 5 and 6: the books' own punctuation practice — the greetings paragraph, Jemal, the herders' dialogue, and dates in figures
+
+
+### Complete the greetings paragraph with correct punctuation
+
+The Grade 5 book's writing exercise, stocked here: complete a paragraph about greetings with the correct punctuation marks (dashes shown in the exercise), then write a short paragraph about the special qualities of clever students using correct punctuation, following a model sentence. The marks themselves stand mark-by-mark in sub lessons 1–5 of this lesson; this exercise and its page are the Grade 5 book's own.
+
+### Punctuate the descriptive paragraph about Jemal
+
+Punctuate a descriptive paragraph about Jemal, the famous school footballer — every mark placed where the sense pauses, asks, exclaims or quotes. The exercise is the Grade 5 book's own, at its own page; the marks' teaching stands earlier in this lesson.
+
+### Unscramble, and punctuate the herders' dialogue
+
+The Grade 6 book's writing task, stocked here: unscramble five jumbled sentences, then punctuate an unpunctuated dialogue between two herders — Demle and Berihun, in new Buhe festival clothes — choosing from ፣ . " " ? ! The unscrambling half also stands in the Writing Sentences lesson; the herder dialogue itself is stocked here, at its own page.
+
+### Spelled-out dates into figure form
+
+Write spelled-out Ethiopian dates in figure form, as the Grade 6 book sets beside its reference-number building: ሐምሌ አስር, ኹለት ሺህ አሥራ ሦስት → 10/11/2013. The slash lesson in sub lesson 3 of this lesson carries dates from the Grade 5 book's pages; this part stocks the Grade 6 book's own date conversion at its own pages. (The reference-number building that rides with it stands in the Letters lesson.)
+
+
+## Sub lesson 8 — The Grade 4 book's new marks: . , (፡-), እዝባር, ሦስት ነጠብጣብ
+
+The Grade 4 book gathers four marks in one note box and explains each. The **single dot (.)** shortens a word — an abbreviation. The **colon (፡-)** announces that more follows — a list or an explanation is coming. The **slash — እዝባር (/)** — cuts a compound word short or separates figures. The **ellipsis — ሦስት ነጠብጣብ (…)** — leaves speech or feeling cut off, trailing into silence.
+
+You have met each of these marks grown in the sub lessons above; the Grade 4 bench is where they are first set side by side as one family. Build a sentence of your own with each mark, and let each mark do its own work: shorten with the dot, announce with the colon, cut with እዝባር, trail off with ሦስት ነጠብጣብ.
+
 ## Say it to your companion
 
 Read the seven feelings' cries from Picture 8728 aloud, one by one, and let your companion name each feeling before you say it. Then take a sentence your companion says and repeat it back inside quotation marks — their exact words, no changes. Finish by reading a sentence with a parenthesis in it: lower your voice for the aside inside the ቅንፍ, the way a sentence whispers.

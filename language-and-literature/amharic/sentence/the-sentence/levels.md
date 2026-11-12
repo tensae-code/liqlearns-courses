@@ -42,3 +42,15 @@ Pass mark: convert ገሰፀ to አልገሰፁም exactly as keyed, and choose 
 
 ## Sub lesson 13 — Grade 2: punctuation inside real sentences
 Sub lesson 13 questions from the type files. Pass mark: punctuate the cleanliness chapter's sentences with ።, ? and !, each where its feeling asks.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 14 — Grade 6: finding the main verb
+Sub lesson 14 questions from the type files. Pass mark: find the ዋና ግስ — the main, finite verb — in the book's sentences and say why it is the sentence's engine.
+
+
+
+
+## Sub lesson 15 — Grade 4 review bench: compound sentences with በሌላ በኩል
+Pass mark: write one true ድርብ compound sentence with each of እና, ነገርግን, ወይም, ስለዚህ and በሌላ በኩል, and name what each joiner does at the joint.

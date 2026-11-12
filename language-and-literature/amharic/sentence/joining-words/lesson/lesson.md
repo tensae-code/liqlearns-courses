@@ -71,6 +71,12 @@ Without them, a text is a row of separate stones: fact. fact. fact. With them, t
 
 Notice what you now hold: the same family of words works at three sizes — inside one compound sentence (Sub lesson 1), bending a clause inside a complex sentence (Sub lesson 2), and carrying a whole text from sentence to sentence (Sub lesson 3). One family, three sizes of joining.
 
+## Sub lesson 4 — The Grade 4 book's conjunction bench: ወይም, እና, አለበለዚያ, ስለሆነም
+
+The Grade 4 book sets the same work at its own bench: complete each sentence with the right conjunction, choosing from **ወይም** (or), **እና** (and), **አለበለዚያ** (otherwise), **ስለሆነም** (therefore / that is why).
+
+The choosing is the learning. ወይም offers a choice between two things. እና adds one thing to another. አለበለዚያ warns what follows if the first part does not happen. ስለሆነም carries the result out of its reason. Read the two halves first, ask what the second half does to the first — chooses, adds, warns, or follows — and the bank gives you exactly one word that fits.
+
 ## Say it to your companion
 
 Join this pair three ways — with እና, with ነገርግን, with ስለዚህ — and say how the meaning moves each time: የሒሣብ ትምህርት እወዳለሁ + ጥሩ ውጤት አላመጣሁም. Then read your companion a leaning half — ሱሰኛነት ሰዎችን ስለሚጎዳ … — and let them finish it. Finish by reading a short paragraph of your own aloud and naming every transitional word you planted at its crossings.
