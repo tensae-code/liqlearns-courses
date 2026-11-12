@@ -14,6 +14,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Tilahun Gessesse — “Though My Bones Be Crushed”** — the rousing song exemplar (ሀ): Tilahun Gessesse's song placed by name, singer and purpose.
 3. **“Adwa” — sung by Ejigayehu Shibabaw** — the second exemplar: the song “Adwa” placed by name and singer, carrying the victory itself.
 
+4. **The Grade 6 chapter opens — telling our country's history through art (chapter opening — Grade 6)** — the Grade 6 book's Chapter 3 opener and aims: tell and express the country's history in visual art, in illustration, and through theatre, film and photography; tell hero-patriots' history with fukera and qererito; know traditional instruments as part of history (Grade 6, printed p. 65).
+
+5. **The Grade 6 chapter closes — every art a historian (chapter closing — Grade 6)** — the Grade 6 book's Chapter 3 summary, its TWO self-check tables and its closing exercise — 10 true/false, 5 multiple-choice and 5 short answers (Grade 6, printed pp. 80–84).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

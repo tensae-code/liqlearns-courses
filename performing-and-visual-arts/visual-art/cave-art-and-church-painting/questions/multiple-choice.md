@@ -17,3 +17,23 @@ Pick the one right answer.
 **4. (Sub lesson 4)** Which is NOT one of the guide's four types of Ethiopian painting?
   a) Photography b) Illuminated manuscripts c) Body painting
 **Answer: a) Photography** — the four are illuminated manuscripts, mural painting, modern portable painting and body painting.
+
+**5.** (Sub lesson 5) A painting's ideas come from observed/heard things or from —
+a) the frame shop  b) inner imagination  c) the market
+**Answer: b) inner imagination.**
+
+**6.** (Sub lesson 6) Indigenous-content paintings classify as religious, historical and —
+a) nature-content  b) portrait  c) advertisement
+**Answer: a) nature-content.**
+
+**7.** (Sub lesson 6) The old painters mixed their colours from —
+a) factory tubes  b) soils, plants and crops  c) coloured glass
+**Answer: b) soils, plants and crops.**
+
+**8. (Sub lesson 7)** Grade 5 Chapter 3 asks learners to tell apart cave paintings and…
+  a) Stone reliefs b) Church bells c) Woven cloths
+**Answer: a) Stone reliefs** — tell cave paintings and stone reliefs apart — the opener's own contrast.
+
+**9. (Sub lesson 7)** The chapter's first aim joins performing traditional music and dances with…
+  a) Sharing the feeling b) Selling tickets c) Keeping silent
+**Answer: a) Sharing the feeling** — list and perform them — and share the feeling.

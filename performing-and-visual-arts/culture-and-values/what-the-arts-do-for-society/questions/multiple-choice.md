@@ -77,3 +77,19 @@ a) grasp easily and remember long  b) forget at once  c) learn nothing
 **19. (Sub lesson 12)** The Grade 7 §5.3.1 teaches letters by —
 a) varied chants, in Amharic and English  b) silence  c) copying only
 **Answer: a) varied chants, in Amharic and English** — chants carry the letters in the Grade 7 account.
+
+**20. (Sub lesson 13)** Grade 4 Chapter 3 opens by asking learners to grasp the arts'…
+  a) Meaning and use b) Prices and taxes c) Rules for examinations
+**Answer: a) Meaning and use** — the first aim is the arts' meaning and use.
+
+**21. (Sub lesson 13)** The chapter's history aim says the arts' history is known together with…
+  a) Human civilisation b) The weather c) Foreign languages only
+**Answer: a) Human civilisation** — know their history with human civilisation.
+
+**22. (Sub lesson 14)** Heritage, in the Grade 4 book's closing exercise, is expressed in…
+  a) Song, drawing and dance — all of them b) Song only c) Dance only
+**Answer: a) Song, drawing and dance — all of them** — the exercise's own answer: all of them.
+
+**23. (Sub lesson 14)** The Chapter 3 closing exercise checks the uses of…
+  a) Handicraft b) Motor cars c) Telephones
+**Answer: a) Handicraft** — handicraft uses are one of its named topics.

@@ -52,3 +52,9 @@ Say if the line is true or false.
 
 **17. (Sub lesson 19)** The language part frames language as culture's main tool.
 **Answer: True**
+
+**18. (Sub lesson 20)** In the Grade 4 Chapter 5 exercise, a song can express cleanliness.
+**Answer: True** — song expressing cleanliness is one of its named items.
+
+**19. (Sub lesson 20)** The sense organs have no part in drama, according to the exercise.
+**Answer: False** — sense organs in drama is one of its items — drama works through the senses.

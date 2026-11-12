@@ -19,6 +19,14 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 7. **Music as written language: the sign inventory (Grade 8 depth)** — music is a written language; its sign inventory — staff, clefs, notes, rests, accidentals and the rest — gathered as one alphabet.
 
+8. **The Grade 4 chapter closes — the staff, the clefs and working together (chapter closing — Grade 4)** — the Grade 4 book's Chapter 2 summary and closing exercise: 18 items — staff facts, clef positions, collage materials, dance identification and theatre elements, plus practicals (Grade 4, printed pp. 42–44).
+
+9. **The Grade 5 chapter opens — notes, melodies, calligraphy, mosaic and theatre (chapter opening — Grade 5)** — the Grade 5 book's Chapter 2 opener and aims: write and read notes, write melodies, calligraphy and its tools, mosaic, block (relief) printing, modelling, appreciate children's theatres and stage simple ones (Grade 5, printed pp. 44–45). Includes the book's self-check mechanic (G5S-02).
+
+10. **The Grade 8 chapter opens — the workshop chapter (chapter opening — Grade 8)** — the Grade 8 book's Chapter 2 opener and aims: read melodies and notes on the music board; perform traditional dance; express idea and feeling by play; batik and candle-dyeing; silk-cloth printing; sculpture's making, materials and kinds; appreciate social performing and visual arts (Grade 8, printed p. 48).
+
+11. **The Grade 8 chapter closes — music written and read, dances, stages and cloth (chapter closing — Grade 8)** — the Grade 8 book's Chapter 2 summary, its ✓/✗ checklist (11 items) and its closing exercises — 9 answer questions plus practical exercises: sound the melody by voice, and play the beat by hand-clapping (Grade 8, printed pp. 74–78).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

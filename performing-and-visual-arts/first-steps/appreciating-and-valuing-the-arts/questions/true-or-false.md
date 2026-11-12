@@ -19,3 +19,9 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 6)** Knowing the relation between beauty and judgement is one of the Grade 7 chapter aims.
 **Answer: True**
+
+**7. (Sub lesson 7)** I can say that music has a benefit in teaching, per the chapter's self-check.
+**Answer: True** — music's benefit in teaching is one of the table's six items.
+
+**8. (Sub lesson 7)** Indigenous works carry no messages — they are only shapes.
+**Answer: False** — the table checks following indigenous works' process AND messages.

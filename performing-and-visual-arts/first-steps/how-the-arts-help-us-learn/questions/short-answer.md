@@ -55,3 +55,6 @@ Answer in a word or a short line.
 
 **18. (Sub lesson 19)** Name the three worked relations of §5.1.1.
 **Answer:** Performing art with social science (local culture), with mathematics (imaginative calculation, time indicators), and with language (communication, culture's main tool).
+
+**19. (Sub lesson 20)** How do shapes count quantities, in the exercise's example-world?
+**Answer:** Shapes stand for amounts — a learner counts and reckons with pictured shapes, so drawing carries the number work.

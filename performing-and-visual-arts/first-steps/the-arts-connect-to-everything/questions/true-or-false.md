@@ -22,3 +22,21 @@ Say whether each sentence is true or false.
 
 **7. (Sub lesson 7)** A prism spreads white light into the spectrum's ordered colours.
 **Answer: True**
+
+**8. (Sub lesson 9)** Design does not serve scientific and technological products.
+**Answer: False** — the exercise's keyed false — the summary gives design a share in technological creations.
+
+**9. (Sub lesson 9)** Visual arts are communication ways tied to language.
+**Answer: True** — the summary's opening claim, checked in the exercise.
+
+**10. (Sub lesson 9)** Visual art has only a small share in passing culture and heritage on.
+**Answer: False** — the exercise checks its big share in passing culture and heritage on.
+
+**11. (Sub lesson 11)** Art's relations with other subjects can be explained, not only felt.
+**Answer: True** — the chapter's second aim and second self-check item both say so.
+
+**12. (Sub lesson 11)** Current issues have no divisions or kinds.
+**Answer: False** — the third self-check item names current issues' nature, divisions and benefit.
+
+**13. (Sub lesson 13)** Art relates only to subjects about art itself.
+**Answer: False** — the summary's claim: art relates to ALL subject kinds, directly or indirectly.

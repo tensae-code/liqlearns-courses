@@ -34,3 +34,19 @@ Pick the one right answer.
 **8. (Sub lesson 4)** This part's standing in the lesson is…
   a) Labelled teacher-guide evidence b) Pupil-book teaching c) A transcribed song
 **Answer: a) Labelled teacher-guide evidence** — guide material is evidence and is labelled so.
+
+**9. (Sub lesson 5)** Traditional instruments, in Grade 6 Chapter 4's aims, are known as…
+  a) Products of indigenous knowledge b) Factory goods c) Foreign gifts
+**Answer: a) Products of indigenous knowledge** — the opener's own framing.
+
+**10. (Sub lesson 5)** Appreciation in this chapter is done by eskista as well as by…
+  a) Composed melodies and poems b) Examinations c) Silence
+**Answer: a) Composed melodies and poems** — compose and sing appreciation melodies and poems.
+
+**11. (Sub lesson 6)** Which list is the summary's INTANGIBLE heritage?
+  a) Governance, medicine, food science, farming, calendar, astronomy, literature b) Architecture, painting, sculpture, jewellery c) Clothes and daily tools
+**Answer: a) Governance, medicine, food science, farming, calendar, astronomy, literature** — the summary's own intangible list.
+
+**12. (Sub lesson 6)** Traditional medicine, in the summary, stands as…
+  a) A starting point for modern medicine b) Opposed to all learning c) A modern invention
+**Answer: a) A starting point for modern medicine** — the summary places traditional medicine among the knowledges, as modern medicine's starting point.

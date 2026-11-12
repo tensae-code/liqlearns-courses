@@ -20,6 +20,20 @@ The book's third warning is **doping** (printed pp. 128–129, with a doping pho
 
 The chapter closes by handing the work to the class (printed p. 130): **compose and perform your own songs on HIV/AIDS and traffic, in pairs or groups, then discuss how the message landed**; and **prepare short theatre pieces on traffic, HIV, harmful practices and trade tax**. The test of a teaching song is not its beauty — it is whether the listeners can repeat the lesson after hearing it once. Make yours short, plain and unforgettable.
 
+## Sub lesson 5 — The Grade 5 chapter opens — songs and dances against today's dangers (chapter opening — Grade 5)
+
+The Grade 5 book opens its fifth chapter, *Linking the Arts with Other Subjects and Current Issues*, by sending the arts out to work on today's dangers. Its aims:
+
+- **link music with other subjects**;
+- **use song for traffic-accident dangers and prevention**;
+- **use song and dance for HIV/AIDS, traffic accidents and stimulant drugs — their harms and prevention skills**;
+- **present air-pollution prevention combining song, dance and theatre**;
+- **make and appreciate emblems and posters**.
+
+This lesson is that chapter's home: every part of it is one of these aims being kept, in the book's own framing.
+
+This book also gives you a tool you will use at the end of every chapter — its **self-check checklist** (first printed at pp. 38–39, 18 points, and repeated after every chapter): a list of *can-do* statements about the chapter. Against each one you mark **✓ — "I achieved it"** — or **✗ — "I did not"** — and then you **re-study what you crossed** until the cross can honestly become a tick. This course copies that exact mechanic: after each chapter's work, check yourself the book's way before you move on.
+
 ## Say it to your companion
 
 Tell your companion the four cause-groups of traffic accidents and the book's HIV/AIDS definition — then hum where the prevention song would go.

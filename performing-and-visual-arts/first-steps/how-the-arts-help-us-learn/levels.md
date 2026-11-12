@@ -58,3 +58,6 @@ Sub lesson 18 questions from the type files. Pass mark: the learner can do what 
 
 ## Sub lesson 19 — Art relates to every subject — the Grade 8 chapter set
 Sub lesson 19 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 8 book's Chapter 5 opening set: art as expression of what we see, hear and wish; performing art with social science, with mathematics (its time indicators), and with language (Grade 8, printed pp. 121–127).
+
+## Sub lesson 20 — The Grade 4 chapter closes — the arts inside every subject (chapter closing — Grade 4)
+Sub lesson 20 questions from the type files. Pass mark: the learner can give one exercise example of art inside another subject for number, health and the land, and define 'pattern' as the book names it.

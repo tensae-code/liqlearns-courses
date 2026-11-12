@@ -19,3 +19,12 @@ Answer in a short sentence of your own.
 
 **6. (Sub lesson 7)** Which lesson teaches this same meeting from the instruments' side?
 **Answer:** Modern Instruments (the Grade 8 lesson).
+
+**7. (Sub lesson 8)** Where is indigenous knowledge expressed, in Chapter 3's last aim?
+**Answer:** In theatre and film.
+
+**8. (Sub lesson 9)** What does one of the 14 closing-exercise questions ask about the largest Axum monument?
+**Answer:** Its length in metres.
+
+**9. (Sub lesson 9)** Local histories give great benefit to which two arts, per the summary?
+**Answer:** Theatre and film.

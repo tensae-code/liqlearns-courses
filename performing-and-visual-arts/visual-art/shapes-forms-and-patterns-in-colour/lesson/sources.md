@@ -11,8 +11,13 @@ countries: Ethiopia
 | Sub lesson 1 — Shapes told by colour | Book 1, §1.2, printed pp. 10–13 |
 | Sub lesson 2 — Forms: geometric, natural, insect and man-made | Book 1, printed pp. 14–15 |
 | Sub lesson 3 — Patterns: shapes and colours in order | Book 1, §5.1–§5.1.1, printed pp. 81–85 |
-| Sub lesson 4 — Stories and letters through pictures | Book 1, §5.1.2, printed pp. 88–89 |
+| Sub lesson 4 — Stories and letters through pictures | Book 1, §5.1.3, printed pp. 88–89 |
 | Sub lesson 5 — Perceiving and practising in our locality (teacher guide — evidence) | Book 2, §§1.4–1.5, printed pp. 12–22 (section level only — scan with no text layer) |
+
+| Sub lesson 6 — Corridors and colour composition (Grade 4): Fig. 5.13 a line-and-colour veranda; Fig. 5.14 geometric forms showing colour-painting composition when corridors are placed | Book 1, printed p. 87 |
+| Sub lesson 3 — Counting instruments in patterns (Grade 4): instruments arranged in order make patterns and teach number (Fig. 5.15); Activity 5.3 counts kebero facing one way, masenqo another | Book 1, printed p. 87 |
+
+| Grade 4 Ch. 1 closing exercise — shape/form items (G4S-21) (question stock, Sub lesson 6) | Grade 4 Student Textbook, Ch. 1 closing exercise, printed pp. 20–21 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

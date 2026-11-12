@@ -19,3 +19,9 @@ Sub lesson 5 questions from the type files. Pass mark: say the tie-dye steps in 
 
 ## Sub lesson 6 — Decorating and drawing with materials (teacher guide — evidence)
 Sub lesson 6 questions from the type files. Pass mark: say what the section teaches: decorating with materials at hand, and drawing (መሳል).
+
+## Sub lesson 7 — Drawing texture: cross-hatching, dots and smudging (Grade 5)
+Pass mark: name the smooth and rough examples (glass/cotton/wool; bark/brick/sacking) and make roughness by cross-hatching or repeated dots and smoothness by smudging or leaving untouched.
+
+## Sub lesson 8 — Mosaic: the ancient way and the heritage practicals (Grade 6)
+Pass mark: tell what mosaic is (pictures glued from coloured stones, pottery fragments and glass), give the paper-mosaic tools and steps, and make the Jegol wall or Gondar palace practical.

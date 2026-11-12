@@ -37,3 +37,35 @@ Pick the one right answer.
 **9. (Sub lesson 7)** Which belongs to the sign inventory?
   a) Clef, accidental, bar line, key signature b) Only the drum sizes c) Only song titles
 **Answer: a) Clef, accidental, bar line, key signature** — the alphabet of written music, gathered whole.
+
+**10. (Sub lesson 8)** The Grade 4 Chapter 2 exercise checks clefs by asking about their…
+  a) Positions on the staff b) Prices in the market c) Colours on clothes
+**Answer: a) Positions on the staff** — clef positions are one of the exercise's named topics.
+
+**11. (Sub lesson 8)** Besides staff and clefs, the Chapter 2 exercise asks learners to identify…
+  a) Dances b) Rivers c) Planets
+**Answer: a) Dances** — dance identification is one of its 18 items' topics, with collage materials and theatre elements.
+
+**12. (Sub lesson 9)** Grade 5 Chapter 2's music aims are to write and read notes and to write…
+  a) Melodies b) Letters home c) Price lists
+**Answer: a) Melodies** — write melodies — the second music aim.
+
+**13. (Sub lesson 9)** Which making aim belongs to Grade 5 Chapter 2?
+  a) Block (relief) printing b) Glass blowing c) Metal casting
+**Answer: a) Block (relief) printing** — mosaic, block (relief) printing and modelling are the chapter's making aims.
+
+**14. (Sub lesson 10)** Melodies and notes in Grade 8 Chapter 2 are read where?
+  a) Written on the music board b) Only by ear c) On posters
+**Answer: a) Written on the music board** — read melodies and notes written on the music board.
+
+**15. (Sub lesson 10)** Silk-cloth printing, in the aims, is to be done…
+  a) In practice b) Only described c) Not at all
+**Answer: a) In practice** — the opener marks it a practice aim.
+
+**16. (Sub lesson 11)** The Chapter 2 practical exercises ask learners to sound the melody by voice and play the beat by…
+  a) Hand-clapping b) Kebero only c) Stamping only
+**Answer: a) Hand-clapping** — the exercises' own two practicals.
+
+**17. (Sub lesson 11)** How many items does Chapter 2's checklist carry, and how many answer questions its exercises?
+  a) 11 checklist items; 9 answer questions b) 5 and 5 c) 13 and 7
+**Answer: a) 11 checklist items; 9 answer questions** — checklist printed p. 76 (11 items); exercises 9 answer questions plus practicals.

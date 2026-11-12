@@ -19,3 +19,12 @@ Say if the line is true or false.
 
 **6. (Sub lesson 7)** The closing activity asks for the benefit of learning PE through the arts.
 **Answer: True**
+
+**7. (Sub lesson 8)** I can say what ✓ means in the Grade 5 self-check: 'I achieved it.'
+**Answer: True** — ✓ is the book's 'I achieved it' mark.
+
+**8. (Sub lesson 8)** I can leave a ✗ item and never return to it — the checklist is finished once marked.
+**Answer: False** — crossed items are re-studied until they can honestly be ticked.
+
+**9. (Sub lesson 8)** I can tick a statement I could not actually show or do.
+**Answer: False** — a tick means the thing can really be done and shown; otherwise it is a cross and more study.

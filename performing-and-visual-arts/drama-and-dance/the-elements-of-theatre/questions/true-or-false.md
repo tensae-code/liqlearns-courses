@@ -19,3 +19,6 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 6)** The play script (ጽሁፈ-ተውኔት) is one of the basic elements of theatre.
 **Answer: True**
+
+**7. (Sub lesson 11)** The Grade 6 summary traces theatre's name to a Greek root and its age as long.
+**Answer: True** — the summary names theatre's long age and its Greek root.

@@ -27,6 +27,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 5. **Comparing the two families — the Grade 8 matching** — the Grade 8 book compares visual and performing art side by side — match each art to how it expresses (Grade 8, printed p. 108).
 
+6. **The Grade 6 chapter opens — what art is (chapter opening — Grade 6)** — the Grade 6 book's Chapter 1 opener and aims: know what art is; drawing as the basic skill of visual art; draw varied pictures; tell major from minor scales and low from high pitch; build scales on both clefs with key-signature signs; know theatre and film (Grade 6, printed p. 1).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

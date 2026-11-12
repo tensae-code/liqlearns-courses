@@ -11,3 +11,9 @@ Answer in a short sentence or a short list.
 
 **3. (Sub lesson 3)** Why keep the six names as one roll?
 **Answer:** Because the book keeps the region's history as a company of named lives; the roll, kept whole, is the history.
+
+**4. (Sub lesson 3)** Task-1 practice — identify Beshah Tekle Mariam's contributions to Ethiopian music and report the lessons learned from them.
+**Answer:** Beshah Tekle Mariam's contributions as the Grade 7 history chapter records them, reported with the lessons the learner draws — the task's own two steps: identify, then report lessons learned.
+
+**5. (Sub lesson 3)** Task-1 practice — prepare a short written piece on Prof. Ashenafi Kebede, and report briefly on other musicians who contributed to Ethiopian music's development.
+**Answer:** A short written piece on Ashenafi Kebede and a brief report on other contributing musicians, from the chapter's history as this lesson-cluster teaches it.

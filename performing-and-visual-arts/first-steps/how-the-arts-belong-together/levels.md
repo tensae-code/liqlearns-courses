@@ -22,3 +22,6 @@ Sub lesson 6 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 7 — Sport through the arts — the Grade 3 chapter closes (closing fold)
 Sub lesson 7 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 3 book's closing activity: list the benefit of learning PE through the arts, and show a sport you like performed with music — with its football-game drawing (Grade 3, printed p. 83).
+
+## Sub lesson 8 — Check yourself the Grade 5 way — the ✓/✗ can-do checklist (self-check — Grade 5)
+Sub lesson 8 questions from the type files. Pass mark: the learner can run the Grade 5 self-check unaided: write can-do statements, mark ✓/✗ honestly, and re-study a crossed item until it can be ticked truthfully.

@@ -13,3 +13,6 @@ Sub lesson 3 questions from the type files. Pass mark: name the pictured home go
 
 ## Sub lesson 4 — Exhibiting paintings and appreciating the other arts
 Sub lesson 4 questions from the type files. Pass mark: give the exhibition steps and the four handles of appreciation: content, form, colour, composition.
+
+## Sub lesson 5 — The Grade 4 chapter closes — appreciating what people make (chapter closing — Grade 4)
+Sub lesson 5 questions from the type files. Pass mark: the learner can say which arts are performing arts, what can be appreciated, and refuse the exercise's trap — Tilahun Gesesse is a singer, not the painter the item asks for.

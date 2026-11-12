@@ -18,3 +18,11 @@ Pick the one right answer.
 **4. (Sub lesson 2)** Through every change of venue, the music…
   a) Survived, keeping its craft b) Was replaced completely c) Lost its melodies
 **Answer: a) Survived, keeping its craft** — the history's claim: venues change, the craft endures.
+
+**5. (Sub lesson 3)** Grade 7 Chapter 3 places art inside its…
+  a) Cultural and historical context b) Price list c) Examination hall
+**Answer: a) Cultural and historical context** — the opener's first aim.
+
+**6. (Sub lesson 3)** Saint Yared stands in Chapter 3's aims beside…
+  a) Regional musicians' histories b) Printing techniques c) Dance steps only
+**Answer: a) Regional musicians' histories** — the aims name Yared within the musicians' history work.

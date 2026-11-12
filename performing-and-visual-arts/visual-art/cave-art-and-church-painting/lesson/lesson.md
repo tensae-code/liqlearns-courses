@@ -22,6 +22,38 @@ Ethiopia's spiritual and material wealth includes the **መጽሐፈ ስዕላ�
 
 The federal guide teaches cave art as **paintings and engravings in caves and shelters from the Ice Age** (about 40,000–14,000 years ago), with Ethiopia's prehistoric cave paintings **around Dire Dawa** as the home example — the same caves the Grade 5 book names. It then sets Ethiopian painting in **four types**: illuminated manuscripts, mural painting, modern painting on canvas and other portable materials, and body painting — the Omotic peoples of southern Ethiopia are its body-painting example. This part is teacher-guide evidence, labelled so in the sources.
 
+## Sub lesson 5 — Where painting ideas come from (Grade 7)
+
+Painting is a branch with a long road: since cave-dwelling humans painted on **cave walls, rock, wood and hides**, people have painted. And where do a painting's ideas come from? The book gives two sources:
+
+- **Observed and heard things** — nature and human-made things the painter has seen or heard of.
+- **Inner imagination** — what the mind makes by itself, unseen anywhere.
+
+Every painting you will ever study drank from one of these two wells — most from both.
+
+## Sub lesson 6 — Paintings with indigenous content (Grade 7)
+
+Ancient paintings made with **indigenous knowledge** carry the community's history, experience, world-view, philosophy and religion, using its own knowledge and materials. They are found in churches, mosques and monasteries — on walls, stone, wood, cloth and parchment — and they classify by content into three kinds: **religious**, **historical**, and **nature-content** paintings.
+
+The makers prepared parchment from animal hides, smoothed stone and wood, and mixed colours from soils, plants and crops in the Ethiopian painting manner. Named homes of ancient painting: Gorgora Debre Sina Mariam; Gondar Debre Berhan Selassie; Lake Tana's Kibraan Gebriel and Narga Selassie; Addis Ababa's Entoto Mariam and Raguel; Andercha Medhanialem in Kafa Zone; and Tigray's Aba Yemata and Abune Aron monasteries — with cave paintings at Dire Dawa's Lega Oda cave and the Gelma cave in Gedeo Zone.
+
+[Picture — described only, not made in this fix build: a church wall painting in the Ethiopian manner (Fig. 28) — the student says which content kind it belongs to and why.]
+
+## Sub lesson 7 — The Grade 5 chapter opens — traditional music, cave art and heritage (chapter opening — Grade 5)
+
+The Grade 5 book opens its third chapter, *History and Culture*, looking backwards — to the oldest art and the community's own:
+
+- **list and perform the community's traditional music and dances, and share the feeling**;
+- **know cave art's history and beginnings**;
+- **tell cave paintings and stone reliefs apart**;
+- **appreciate prehistoric visual works**;
+- **know how traditional crafts are made and used**;
+- **know the country's cultural heritages**.
+
+This lesson keeps the cave-art aims; the music and dance lessons keep the first, and the crafts lessons keep the fifth.
+
+This book also gives you a tool you will use at the end of every chapter — its **self-check checklist** (first printed at pp. 38–39, 18 points, and repeated after every chapter): a list of *can-do* statements about the chapter. Against each one you mark **✓ — "I achieved it"** — or **✗ — "I did not"** — and then you **re-study what you crossed** until the cross can honestly become a tick. This course copies that exact mechanic: after each chapter's work, check yourself the book's way before you move on.
+
 ## Say it to your companion
 
 Tell your companion the story of one cave — where it is, what is painted there, and one thing found or special about it. Then let them tell you another cave.

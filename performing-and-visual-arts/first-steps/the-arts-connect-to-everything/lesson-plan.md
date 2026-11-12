@@ -21,6 +21,18 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 7. **Visual art and natural science — the spectrum** — the Grade 8 book: visual art's clear relation with natural-science education — spectrum-colour creation, things' natural forms, and colour-combination reactions (Grade 8, printed p. 128).
 
+8. **The Grade 6 chapter opens — art among the other subjects (chapter opening — Grade 6)** — the Grade 6 book's Chapter 5 opener and aims: visual art's relation with other subjects; visual works protecting heritage and teaching useful issues; music's link with other subjects; learning heritage, health and the forest through chant (Grade 6, printed p. 99).
+
+9. **The Grade 6 chapter closes — art in daily life and every subject (chapter closing — Grade 6)** — the Grade 6 book's Chapter 5 summary, its TWO self-check tables and its closing exercise — 4 true/false and 2 short answers, one a creative group task on two local religious festivals (Grade 6, printed pp. 112–115).
+
+10. **The Grade 7 chapter opens — decorating, and art among the subjects (chapter opening — Grade 7)** — the Grade 7 book's Chapter 5 opener and aims: decorate the home and environment with pottery and ceramic works; explain art's relations with other subjects; understand art's role and benefit in the teaching process (Grade 7, printed p. 148).
+
+11. **The Grade 7 chapter closes — check and exercise (chapter closing — Grade 7)** — the Grade 7 book's Chapter 5 self-check table (3 named items) and closing exercise — 3 true/false and 3 short answers (Grade 7, printed pp. 168–169).
+
+12. **The Grade 8 chapter opens — art education among the subjects (chapter opening — Grade 8)** — the Grade 8 book's Chapter 5 opener and aims: understand art education's relation with varied subject kinds and its benefit for teaching other subjects easily; its relation with current issues; appreciate works in both families; make the community grasp current issues through the arts (Grade 8, printed p. 120).
+
+13. **The Grade 8 chapter closes — art relates to everything (chapter closing — Grade 8)** — the Grade 8 book's Chapter 5 summary, its ✓/✗ checklist (7 items) and its closing exercises: explain art's relation with four subjects, and make its relation with current issues in picture and chant (Grade 8, printed pp. 136–137).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

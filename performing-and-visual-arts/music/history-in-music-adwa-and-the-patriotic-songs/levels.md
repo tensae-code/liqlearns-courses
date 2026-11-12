@@ -10,3 +10,9 @@ Sub lesson 2 questions from the type files. Pass mark: name the song, its singer
 
 ## Sub lesson 3 — “Adwa” — sung by Ejigayehu Shibabaw
 Sub lesson 3 questions from the type files. Pass mark: name the song “Adwa”, its singer, and the historical event it carries.
+
+## Sub lesson 4 — The Grade 6 chapter opens — telling our country's history through art (chapter opening — Grade 6)
+Sub lesson 4 questions from the type files. Pass mark: the learner can list the Grade 6 Chapter 3 aims by art form and say which form this lesson keeps.
+
+## Sub lesson 5 — The Grade 6 chapter closes — every art a historian (chapter closing — Grade 6)
+Sub lesson 5 questions from the type files. Pass mark: the learner can state each art's historian's job from the summary — including music narrating 'like a journalist' — run both self-check tables, and answer the exercise's written items, its false ones refused.

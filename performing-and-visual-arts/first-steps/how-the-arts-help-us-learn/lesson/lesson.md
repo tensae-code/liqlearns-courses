@@ -132,6 +132,12 @@ The Grade 8 book opens Chapter 5 (§5.1) with the widest claim in this lesson: *
 
 Then §5.1.1 works the performing side, subject by subject. With **social science** (pp. 124–125): performing art is a **local culture** in which community members focus on their community's life together. With **mathematics** (pp. 125–126): music education expresses **varied calculations by thinking imaginatively and performing them** — and the notes' **time values stand as indicators**, counting made audible. With **language** (pp. 126–127): the book frames it first — **language creates communication for humans and is culture's main tool; there is no knowledge and no culture carried without it** — and performing art is one of language's oldest carriers. Learn the set as one staircase: the claim, then the three worked relations.
 
+## Sub lesson 20 — The Grade 4 chapter closes — the arts inside every subject (chapter closing — Grade 4)
+
+The Grade 4 book closes its fifth chapter, *The Arts' Relationship with Other Subjects* — the chapter this whole lesson carries — with a summary and a 13-item exercise. Its items are this lesson in miniature: **shapes counting quantities** (art inside number), **the sense organs at work in drama** (art inside the body's own learning), **a song expressing cleanliness** (art inside health), and **posters teaching against flood and deforestation** (art inside caring for the land).
+
+It also fixes a name this course uses everywhere: flat shapes arranged in order are called a **pattern**. And it ends with a drawing task — **draw the missing picture** — a doing, carried here as this part's practice: when a set of pictures lacks its next one, draw the one that belongs. The written items sit in this part's questions.
+
 ## Say it to your companion
 
 Teach your companion one small thing through an art: sing a count, draw a shape-sum, or act a story moment. Then explain the principle: why did the art make it stick?

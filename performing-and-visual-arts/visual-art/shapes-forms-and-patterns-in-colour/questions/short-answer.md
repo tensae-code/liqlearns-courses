@@ -16,3 +16,5 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 5)** What two things does the chapter join?
 **Answer: Perceiving (looking and noticing) and practising (doing it in your locality).**
+
+**6.** (Sub lesson 6) How can a corridor be both a shape and a pattern? **Answer: one corridor is a single shape; placed again and again in order, the corridors and the spaces between them form a pattern.**

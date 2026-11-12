@@ -13,3 +13,6 @@ Answer in a short sentence of your own.
 
 **4. (Sub lesson 4)** Name one song type the appreciation activity asks you to perform.
 **Answer: Shilela, engurguro, or fukera.**
+
+**5. (Sub lesson 5)** What does appreciating movement need, beyond seeing a still result?
+**Answer:** Watching the movement itself as it happens.

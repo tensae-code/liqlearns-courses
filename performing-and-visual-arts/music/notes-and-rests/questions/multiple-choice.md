@@ -29,3 +29,23 @@ a) open and empty  b) filled (black)  c) missing
 **7. (Sub lesson 4)** A half note equals how many quarter notes in duration?
 a) one  b) two  c) four
 **Answer: b) two.**
+
+**8. (Sub lesson 5)** In the Grade 4 book's Chapter 1 aims, notes with a simple beat are applied with…
+  a) Body movement b) Coloured pencils only c) Complete silence
+**Answer: a) Body movement** — the first aim joins simple-beat notes to body movement.
+
+**9. (Sub lesson 5)** Which pair is an aim of Grade 4 Chapter 1?
+  a) Telling colours apart and distinguishing shapes and forms by colour b) Building a house and planting a tree c) Reading maps and counting money
+**Answer: a) Telling colours apart and distinguishing shapes and forms by colour** — colours apart, and shapes and forms distinguished by colour — both are named aims.
+
+**10. (Sub lesson 5)** Grade 4 Chapter 1 also promises that learners will grasp…
+  a) What theatre art is b) How engines work c) How to print a book
+**Answer: a) What theatre art is** — grasping what theatre art is is one of the six aims.
+
+**11. (Sub lesson 6)** The book's closing exercise asks learners to pick, from pictures, the whole-note sign and…
+  a) The triangle b) The kebero c) The staff
+**Answer: a) The triangle** — pick the whole-note sign and the triangle — the exercise's own picture item.
+
+**12. (Sub lesson 6)** A rest, in the chapter's closing words, is…
+  a) Silent for its beat, while the count goes on b) A note played twice c) The end of the music
+**Answer: a) Silent for its beat, while the count goes on** — notes vs rests is one of the exercise's own contrasts.

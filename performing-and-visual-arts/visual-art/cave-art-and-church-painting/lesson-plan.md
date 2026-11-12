@@ -15,6 +15,11 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **The Book of Paintings and church art** — the መጽሐፈ ስዕላት from Lebna Dengel's reign; church painting's three marks — few colours, no depth, frontal faces (Grade 5, printed pp. 93–95).
 4. **Cave art and painting types (teacher guide — evidence)** — cave art as paintings and engravings in caves and shelters from the Ice Age, Dire Dawa the home example; Ethiopian painting in four types (Grade 9 teacher guide, Lessons 1–4, printed pp. 4–8).
 
+5. **Where painting ideas come from (Grade 7)** — painting's branch from cave walls on, and its two idea sources — the seen world and inner imagination.
+6. **Paintings with indigenous content (Grade 7)** — the classification — religious, historical, nature — and the named homes of ancient painting.
+
+7. **The Grade 5 chapter opens — traditional music, cave art and heritage (chapter opening — Grade 5)** — the Grade 5 book's Chapter 3 opener and aims: list and perform the community's traditional music and dances and share the feeling; know cave art's history and beginnings; tell cave paintings and stone reliefs apart; appreciate prehistoric visual works; know how traditional crafts are made and used; know the country's cultural heritages (Grade 5, printed p. 84). Includes the book's self-check mechanic (G5S-02).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

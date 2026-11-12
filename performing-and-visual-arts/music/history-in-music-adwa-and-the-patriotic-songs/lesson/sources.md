@@ -10,6 +10,12 @@ countries: Ethiopia
 | Sub lesson 2 — song exemplar ሀ: Tilahun Gessesse, “Though My Bones Be Crushed” | Grade 6 Student Textbook, printed pp. 68–69 (§3.2) |
 | Sub lesson 3 — song exemplar: “Adwa” sung by Ejigayehu Shibabaw | Grade 6 Student Textbook, printed pp. 69–70 (§3.2) |
 
+| Sub lesson 4 — The Grade 6 chapter opens (chapter opening — Grade 6) — G6S-72 | Grade 6 Student Textbook, Ch. 3 chapter opener and aims (opening fold), printed p. 65 |
+
+| Sub lesson 5 — The Grade 6 chapter closes (chapter closing — Grade 6) — G6S-93 | Grade 6 Student Textbook, Ch. 3 summary (closing fold), printed pp. 80–81 |
+| Sub lesson 5 — The Grade 6 chapter's self-checks — two tables (self-check stock) — G6S-94 | Grade 6 Student Textbook, Ch. 3 self-check tables, printed pp. 81–82 |
+| Sub lesson 5 — The Grade 6 chapter's closing exercise (exercise stock) — G6S-95 | Grade 6 Student Textbook, Ch. 3 closing exercise, printed pp. 83–84 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Both songs are placed by name, singer and purpose only, as the placements direct; no verse of either song is transcribed. Page spans for the two exemplars follow the audit's routing of §3.2's exemplars within the history chapter.

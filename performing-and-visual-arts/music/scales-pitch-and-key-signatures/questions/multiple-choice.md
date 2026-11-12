@@ -37,3 +37,15 @@ Pick the one right answer.
 **9. (Sub lesson 7)** Exercise 2.3 holds which syllable through the F-clef melody?
   a) La b) Do c) Mi
 **Answer: a) La** — read the low melody whole, holding 'la'.
+
+**10. (Sub lesson 8)** A scale, in the chapter summary's words, is…
+  a) A ladder of sounds b) A drawing tool c) A kind of drum
+**Answer: a) A ladder of sounds** — scale = ladder of sounds — the summary's definition.
+
+**11. (Sub lesson 8)** A diatonic scale has how many sounds, and a pentatonic?
+  a) 7 and 5 b) 5 and 7 c) 8 and 4
+**Answer: a) 7 and 5** — diatonic (7) and pentatonic (5) — the summary's own numbers.
+
+**12. (Sub lesson 8)** High sounds are written in which clef, and low sounds in which?
+  a) High in G, low in F b) High in F, low in G c) Both in G
+**Answer: a) High in G, low in F** — high=G clef, low=F clef — table two's own item.

@@ -15,6 +15,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Doping: the stimulant-drugs warning** — stimulant drugs defined as the book defines them; doping tests; punishment from suspension to lifetime expulsion; the harm to clean athletes.
 4. **Make your own teaching art** — the book's classroom tasks: compose and perform songs on HIV/AIDS and traffic in pairs/groups; prepare short theatres on traffic, HIV, harmful practices and trade tax.
 
+5. **The Grade 5 chapter opens — songs and dances against today's dangers (chapter opening — Grade 5)** — the Grade 5 book's Chapter 5 opener and aims: link music with other subjects; use song for traffic-accident dangers and prevention; use song and dance for HIV/AIDS, traffic accidents and stimulant drugs; present air-pollution prevention combining song, dance and theatre; make and appreciate emblems and posters (Grade 5, printed p. 118). Includes the book's self-check mechanic (G5S-02).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

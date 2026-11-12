@@ -17,3 +17,11 @@ Pick the one right answer.
 **4. (Sub lesson 4)** Frames for the school exhibition are made from…
   a) Paper or wood b) Glass and steel only c) Clay
 **Answer: a) Paper or wood** — the book directs frames of paper or wood.
+
+**5. (Sub lesson 5)** In the Grade 4 Chapter 4 exercise, Tilahun Gesesse appears among the options when learners must name a…
+  a) Painter — and he is the wrong answer, because he is a singer b) Singer — and he is the right answer c) Dancer
+**Answer: a) Painter — and he is the wrong answer, because he is a singer** — the item's trap: Tilahun Gesesse is a singer, not a painter.
+
+**6. (Sub lesson 5)** Which of these is a performing art, as the chapter's exercise uses the word?
+  a) A dance performed before others b) A house's wall c) A stored pot
+**Answer: a) A dance performed before others** — performing arts are done live before others.

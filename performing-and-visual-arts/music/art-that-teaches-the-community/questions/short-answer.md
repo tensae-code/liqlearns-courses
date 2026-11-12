@@ -14,3 +14,6 @@ Answer in a short sentence or a short list.
 
 **4. (Sub lesson 4)** Name the four topics the short theatre pieces may take.
 **Answer:** Traffic, HIV, harmful practices and trade tax.
+
+**5. (Sub lesson 5)** I can… name the three dangers the chapter's song-and-dance aim names.
+**Answer:** HIV/AIDS; traffic accidents; stimulant drugs — their harms and prevention skills.

@@ -32,6 +32,20 @@ To grow a drawing, rule a **grid** over the small picture and a bigger grid with
 
 The federal guide names **five basic skills of drawing**: recognising **edges**, understanding **proportion**, **perspective**, **colour schemes**, and **putting the thought together**. It teaches two great sources: drawing **from imagination and memory** — drawing based on verbal and visual memories — and drawing **from what you see**: model drawing, the observational drawing of a model or subject. This part rests on the teacher guide only, and it is labelled that way in the sources.
 
+## Sub lesson 7 — Light and shadow in drawing (Grade 5)
+
+Here is the rule of light and shadow. **Where light falls on a thing, shadow forms on the opposite side.** Observe it well before you draw: the side turned to the light stays light; the side turned away falls into shadow.
+
+So when you draw (the book's Fig. 10 shows objects drawn this way): **darken the shadow part with the pencil, and leave the lit part light.** Then draw a favourite natural or made thing using the elements you have learned — and receive your teacher's comments gladly: comments are how the next drawing grows better than this one.
+
+## Sub lesson 8 — Drawing a heritage work: the Lalibela practical (Grade 6)
+
+Now use Chapter 1's drawing methods on the country's own art works, and show appreciation by drawing them. Your tools: thick and thin drawing paper, pencil, eraser, a support board, and a sharpener or cutter.
+
+The steps: **observe** the chosen thing well; **draw** it on the drawing paper; **shade its light and shade properly** in pencil; and show its **roughness or smoothness (texture)** properly in the shading.
+
+The practicals: choose **one of Lalibela's rock-hewn churches** and draw it on thick paper. Then, in groups, draw a historical art work, hang it on the classroom wall, and explain how the fathers made it and preserved it until now.
+
 ## Say it to your companion
 
 Show your companion your first drawing and your last one. Tell them two things the second drawing does better, and which sub lesson taught each one.

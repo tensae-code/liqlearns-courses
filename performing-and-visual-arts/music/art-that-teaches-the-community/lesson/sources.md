@@ -16,6 +16,9 @@ countries: Ethiopia
 | Sub lesson 3 — doping / stimulant drugs: definition, tests, punishment | Grade 5 Student Textbook, printed pp. 128–129 |
 | Sub lesson 4 — current-issue classroom tasks: songs and short theatres | Grade 5 Student Textbook, printed p. 130 |
 
+| Sub lesson 5 — The Grade 5 chapter opens (chapter opening — Grade 5) — G5S-119 | Grade 5 Student Textbook, Ch. 5 chapter opener and aims (opening fold), printed p. 118 |
+| Sub lesson 5 — The self-check mechanic, stocked in this chapter's lead lesson — G5S-02 | Grade 5 Student Textbook, the self-check checklist (የማገናዘቢያ ነጥቦች), first printed pp. 38–39 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.

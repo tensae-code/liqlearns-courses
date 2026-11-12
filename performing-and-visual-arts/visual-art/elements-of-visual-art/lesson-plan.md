@@ -16,6 +16,26 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Value: light and dark steps** — value is the degree of darkness and lightness; tint adds white, shade adds black; make a nine-step value scale (Grade 5, printed pp. 7–8).
 5. **The principles of design** — the elements at work under the principles — pattern, contrast, emphasis, balance, scale, unity/harmony, rhythm and repetition, variety (Grade 7 student, printed pp. 8–12; Grade 7 teacher guide, printed pp. 26–41).
 
+6. **Composition: subject, form and content (Grade 6)** — composition (ድርሰት) — subject, form, content; pictured and abstract; the three zones.
+7. **Reading a real painting: Agegnehu Engida's self-portrait (Grade 8)** — the Grade 8 worked example — the elements at work in one real portrait (described, never copied).
+8. **Shape, form and space pictured — the painters' words (Grade 8)** — the Fig. 5–7 plates, the elements as the painters' words, and Activity 1.1 in pairs.
+9. **Balance and its three types (Grade 8)** — equal, unequal and radial balance — equal visual weight three ways.
+10. **Proportion, rhythm, emphasis, movement, simplicity (Grade 8)** — five more principles in the book's own definitions — the warka tree, the repeated motif, the travelling eye.
+11. **Unity and harmony — the Mother example (Grade 8)** — unity as oneness, harmony (ውህደት), and Afewerk Tekle's Mother (1963 E.C.) as the worked example.
+12. **Activity 1.2: six tasks on a pictured example (Grade 8)** — the book's six-task practice — colours, texture, space, line, a design, and asking a professional.
+13. **Design: the foundation under painting (teacher guide — evidence)** — the Grade 6 guide's §1.4.1 — design (ንድፍ/ዲዛይን) as the chapter's visual foundation. Evidence only.
+14. **Strokes, pressure and texture's classes (teacher guide — evidence)** — the Grade 7 guide's line strokes and pressure, and texture as tactile/visual — actual, simulated, invented. Evidence only.
+
+15. **The Grade 5 chapter opens — the elements of art (chapter opening — Grade 5)** — the Grade 5 book's Chapter 1 opener and aims: tell the elements apart, express ideas in pictures with visual elements, write and sing melodies with music elements, grasp simple video recording, appreciate artworks (Grade 5, printed p. 1). Includes the book's self-check mechanic (G5S-02).
+
+16. **The Grade 7 chapter opens — artistic awareness (chapter opening — Grade 7)** — the Grade 7 book's Chapter 1 opener and aims: the elements and principles of design; Ethiopian traditional music and dances; the elements and types of theatre; the elements and types of film (Grade 7, printed p. 1).
+
+17. **The Grade 7 chapter closes — check, summary and exercise (chapter closing — Grade 7)** — the Grade 7 book's Chapter 1 self-check table (7 items), summary and closing exercise — 5 true/false and 5 short answers (Grade 7, printed pp. 30–32).
+
+18. **The Grade 8 chapter opens — recognising art (chapter opening — Grade 8)** — the Grade 8 book's Chapter 1 opener and aims: use the elements and principles in artworks and make works with them; the instrument categories; Ethiopian music's contextual categories; theatre and film preparation stages; folk-dance categories; build the basic qenet in varied keys and read its chants; appreciate music art (Grade 8, printed p. 1).
+
+19. **The Grade 8 chapter closes — the picture language and its neighbours (chapter closing — Grade 8)** — the Grade 8 book's Chapter 1 summary, its ✓/✗ checklist (13+ items) and its closing exercises — 7 multiple-choice, 13 explanation questions and 2 practical tasks (Grade 8, printed pp. 42–47). One practical (making a traditional instrument) also sits in the instrument-making lesson.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

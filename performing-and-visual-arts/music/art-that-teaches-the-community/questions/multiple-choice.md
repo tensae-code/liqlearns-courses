@@ -34,3 +34,11 @@ Pick the one right answer.
 **8. (Sub lesson 4)** A teaching song has succeeded when…
   a) Listeners can repeat its lesson after one hearing b) It is the longest song c) Only singers understand it
 **Answer: a) Listeners can repeat its lesson after one hearing** — the message landing is the test.
+
+**9. (Sub lesson 5)** For traffic-accident dangers and prevention, Grade 5 Chapter 5's aim is to use…
+  a) Song b) Silence c) Posters only, never song
+**Answer: a) Song** — use song for traffic-accident dangers and prevention.
+
+**10. (Sub lesson 5)** Air-pollution prevention, in the chapter's aims, is presented by combining…
+  a) Song, dance and theatre b) Drawing only c) Reading only
+**Answer: a) Song, dance and theatre** — the three performing forms combined.

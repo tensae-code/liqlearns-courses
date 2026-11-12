@@ -22,3 +22,9 @@ Sub lesson 6 questions from the type files. Pass mark: state Grade 8's oldest cl
 
 ## Sub lesson 7 — The modern-instruments contrast (Grade 7 telling)
 Sub lesson 7 questions from the type files. Pass mark: state the Grade 7 contrast — traditional craft against modern instruments/world — and the book's both-kept judgement.
+
+## Sub lesson 8 — The Grade 8 chapter opens — culture and history (chapter opening — Grade 8)
+Sub lesson 8 questions from the type files. Pass mark: the learner can list the Grade 8 Chapter 3 aims and state this lesson's — the origin of instruments, dance and music.
+
+## Sub lesson 9 — The Grade 8 chapter closes — signals, animals, monuments and handcraft (chapter closing — Grade 8)
+Sub lesson 9 questions from the type files. Pass mark: the learner can state the summary's two origins (instruments as hunting signals; dances from animal movements), name the four monuments, run the 16-item checklist, and say what the exercises ask about the largest Axum monument.

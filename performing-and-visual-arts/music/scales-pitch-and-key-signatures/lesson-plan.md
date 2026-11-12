@@ -19,6 +19,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 6. **Exercise 1.2 — building nine major scales** — the book's nine construction tasks: E, A, B-flat, E-flat, F-sharp majors in named note values and clefs.
 7. **Exercises 2.2 and 2.3 — singing high, singing low** — sing the pictured do-mi patterns with the letters under the notes; read the F-clef melody low, holding the syllable 'la'; the poem-melody 'Our Historical Heritage'.
 
+8. **The Grade 6 chapter closes — drawing, scales, theatre and film (chapter closing — Grade 6)** — the Grade 6 book's Chapter 1 summary, its TWO self-check tables (visual/general and music strands separated) and its closing exercise — 5 true/false and 16 short answers (Grade 6, printed pp. 29–32). The summary and exercise/self-check stock for the drawing and theatre/film strands also sit in their own lessons.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

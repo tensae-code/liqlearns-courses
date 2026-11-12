@@ -19,3 +19,9 @@ Answer in a short sentence of your own.
 
 **6. (Sub lesson 6)** List the three Grade 7 aims.
 **Answer:** Give value to the aesthetic values around you; appreciate the community's aesthetic values; know the relation between them.
+
+**7. (Sub lesson 7)** List the Grade 7 Chapter 4 self-check's six items from memory.
+**Answer:** Aesthetic value; visual art's nature and benefits; indigenous works' process, messages and appreciation; music's benefit for social life; making varied traditional instruments; music's benefit in teaching.
+
+**8. (Sub lesson 7)** How is Chapter 4's closing exercise divided?
+**Answer:** 3 true/false and 8 short answers.

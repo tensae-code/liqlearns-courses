@@ -30,6 +30,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 7. **Sport through the arts — the Grade 3 chapter closes (closing fold)** — the Grade 3 book's closing activity: list the benefit of learning PE through the arts, and show a sport you like performed with music — with its football-game drawing (Grade 3, printed p. 83).
 
+8. **Check yourself the Grade 5 way — the ✓/✗ can-do checklist (self-check — Grade 5)** — the Grade 5 book's self-check mechanic, stocked in the lead lesson of its Chapter 4 (the unity-and-difference chapter this lesson opens for Grade 5): pupils mark ✓ ('I achieved it') or ✗ ('I did not') against can-do statements and re-study what they crossed (Grade 5, printed pp. 38–39; repeated after every chapter).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

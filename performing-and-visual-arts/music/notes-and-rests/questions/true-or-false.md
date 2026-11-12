@@ -13,3 +13,9 @@ Say true or false.
 
 **4. (Sub lesson 4)** During a rest you stop counting until the next note.
 **Answer: False** — a rest is counted in silence for its full value; the count never stops.
+
+**5. (Sub lesson 6)** In the Grade 4 Chapter 1 summary, a shape and a form are the same thing.
+**Answer: False** — the summary sets shape against form — a shape is flat; a form has depth.
+
+**6. (Sub lesson 6)** The Grade 4 Chapter 1 closing exercise mixes beat, colour and photo formats in one set.
+**Answer: True** — its 15 items mix beat, notes vs rests, shape vs form, colour and photo formats.

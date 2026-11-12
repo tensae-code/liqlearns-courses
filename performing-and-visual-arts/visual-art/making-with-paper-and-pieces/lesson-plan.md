@@ -17,6 +17,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 5. **Tie-dye: tie, boil, reveal** — white cotton folded, twisted and tied tight, dyed, rinsed, untied and dried — the design is decided by the tying (Grade 7, printed pp. 45–46).
 6. **Decorating and drawing with materials (teacher guide — evidence)** — decorating and beautifying by using materials, and drawing — the Grade 2 making strand, cited at section level from the scanned guide (§2.4, printed pp. 35–37).
 
+7. **Drawing texture: cross-hatching, dots and smudging (Grade 5)** — the Grade 5 texture techniques — cross-hatching and repeated dots for rough, smudging for smooth.
+8. **Mosaic: the ancient way and the heritage practicals (Grade 6)** — mosaic's ancient history, the paper-mosaic method, and the Jegol wall and Gondar palace practicals.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

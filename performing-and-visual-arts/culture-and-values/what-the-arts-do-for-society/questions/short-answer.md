@@ -37,3 +37,12 @@ Answer in a short sentence of your own.
 
 **12. (Sub lesson 12)** What is a current issue, in the Grade 7 §5.4 list's sense?
 **Answer:** An attention-needing issue occurring in the community, nationally or regionally, that harms daily life — the arts are set to teach it.
+
+**13. (Sub lesson 13)** Name the last two aims of Grade 4 Chapter 3.
+**Answer:** Appreciate the country's art products; imitate artworks.
+
+**14. (Sub lesson 13)** I can… complete the aim: 'I can learn by copying good work — I can ______ artworks.'
+**Answer:** Imitate — imitation of artworks is the chapter's fourth aim.
+
+**15. (Sub lesson 14)** In one sentence each, what are culture and heritage, as this chapter defines them?
+**Answer:** Culture is a people's way of life, held and handed on; heritage is what that way of life leaves to the next generation.

@@ -26,3 +26,23 @@ Pick the one right answer.
 **6. (Sub lesson 3)** The pair of exemplars together teaches that Ethiopian history is…
   a) Kept in song as well as in writing b) Kept only in foreign books c) Forgotten after one generation
 **Answer: a) Kept in song as well as in writing** — named singers carry the victory in named songs.
+
+**7. (Sub lesson 4)** Hero-patriots' history, in Grade 6 Chapter 3's aims, is told with…
+  a) Fukera and qererito b) Posters only c) Silence
+**Answer: a) Fukera and qererito** — the aims name fukera and qererito for the heroes' history.
+
+**8. (Sub lesson 4)** Traditional instruments enter Chapter 3 as…
+  a) Part of the country's history b) Only classroom tools c) Modern imports
+**Answer: a) Part of the country's history** — know traditional instruments as part of history.
+
+**9. (Sub lesson 5)** The music kind that joins heroes' battlefield deeds with short poems is…
+  a) Fukera b) A lullaby c) A counting song
+**Answer: a) Fukera** — the exercise's answer: fukera.
+
+**10. (Sub lesson 5)** At a festival, which instruments does the exercise say are NOT used together in its item?
+  a) It asks which set is not used together — mesenqo, trumpet and atamo are examined as a set b) Kebero alone c) Washint alone
+**Answer: a) It asks which set is not used together — mesenqo, trumpet and atamo are examined as a set** — the exercise's festival item turns on the mesenqo/trumpet/atamo set.
+
+**11. (Sub lesson 5)** The summary's witnesses that visual works speak their era are…
+  a) The Gondar palaces and the Lalibela churches b) Two modern schools c) A printed poster
+**Answer: a) The Gondar palaces and the Lalibela churches** — the summary's own witnesses.

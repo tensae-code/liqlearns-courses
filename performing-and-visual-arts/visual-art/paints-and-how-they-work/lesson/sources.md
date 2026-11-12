@@ -15,6 +15,12 @@ countries: Ethiopia
 | Sub lesson 3 — The eight paints, part one: oil, watercolour, acrylic, gouache | Book 3, §2.1.2, printed pp. 36–39 |
 | Sub lesson 4 — The eight paints, part two: tempera, crayon, pastel, charcoal | Book 3, §2.1.2, printed pp. 40–42 |
 
+| Sub lesson 2 — The painting materials (Grade 7): paint, brush, palette, thinner (aqua-rage/thinner gas and tools), board, canvas, easel, papers of varied content and strength — the painter's full kit | Book 3, §2.1, printed p. 34 |
+
+| Sub lesson 5 — The Grade 7 chapter opens (chapter opening — Grade 7) — G7S-33 | Grade 7 Student Textbook, Ch. 2 chapter opener and aims (opening fold), printed p. 33 |
+
+| Sub lesson 6 — The Grade 7 chapter closes (chapter closing — Grade 7) — G7S-62 | Grade 7 Student Textbook, Ch. 2 self-check table, summary and closing exercise (closing fold), printed pp. 71–74 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 7 book counts eight paint kinds by treating oil, watercolour, acrylic, gouache, tempera, crayon, pastel and charcoal as its §2.1.2 series; the lesson follows that count and that order, as the placements give them. Grade 7's oil-paint thinners are named as the book names them (aqua rage, white gas, a little edible oil) — named as book content, not as a recommendation for children to handle solvents; the hands-on work uses water-based paint only.

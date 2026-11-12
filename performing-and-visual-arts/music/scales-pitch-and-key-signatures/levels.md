@@ -22,3 +22,6 @@ Sub lesson 6 questions from the type files. Pass mark: build any three of the ni
 
 ## Sub lesson 7 — Exercises 2.2 and 2.3 — singing high, singing low
 Sub lesson 7 questions from the type files. Pass mark: sing one Exercise 2.2 high pattern by its letters and read one Exercise 2.3 low melody holding 'la', without a pitch slip.
+
+## Sub lesson 8 — The Grade 6 chapter closes — drawing, scales, theatre and film (chapter closing — Grade 6)
+Sub lesson 8 questions from the type files. Pass mark: the learner can run the chapter's two-table self-check by strand, state the summary's scale facts (diatonic 7, pentatonic 5, sharp/flat half-steps, high=G clef, low=F clef), and answer the exercise's music items.

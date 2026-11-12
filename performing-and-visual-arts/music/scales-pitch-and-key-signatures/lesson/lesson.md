@@ -34,6 +34,14 @@ The Grade 6 book's practice goes further than this lesson's first builds (**Exer
 
 Pitch is proved by voice. **Exercise 2.2 — singing high (printed pp. 39–40)**: sing the pictured patterns **using the letters under the notes, voice raised** — do-mi patterns (ዶ ሚ ዶ ሚ ሶል ሚ…) written on the G clef, up to the poem-melody **“Our Historical Heritage”**. **Exercise 2.3 — singing low (printed p. 41)**: read the **F-clef melody in low pitch**; played correctly, tell the teacher what melody it gave; and read the F-clef melody whole while **holding the syllable “la”**. High belongs to the G clef, low to the F clef — and now your voice, not only your eye, knows which is which.
 
+## Sub lesson 8 — The Grade 6 chapter closes — drawing, scales, theatre and film (chapter closing — Grade 6)
+
+The Grade 6 book closes its first chapter with a long summary, **two self-check tables** and a closing exercise — and the two tables teach the book's own checking shape: the strands are checked **separately**. Table one (5 items) checks the general and visual strand — **art's nature, drawing tools, theatre, film, photography**. Table two (12 items) checks the music strand — **the scale and its two kinds, building major and minor scales from various tonics and singing them, pitch difference, high sounds in the G clef and low in the F clef, local songs founded on scales, key-signature signs, a sharp raising a sound by half and a flat lowering it by half**. Mark each item ✓ or ✗ the Grade 5 way, and re-study your crosses.
+
+The summary itself gathers the chapter: **drawing as the basic skill and its uses; a scale is a ladder of sounds — major and minor, diatonic (7 sounds) and pentatonic (5); the minor scale's three kinds; pitch and the clefs; sharp and flat; theatre's long age and its Greek root; and film's birth from photography.**
+
+The closing exercise (5 true/false and 16 short answers) ranges across all of it — from the C–B ordering of sounds and building three major scales showing their intervals, to the actor's main share in theatre and what helped film grow. Its music items sit in this part's questions; its drawing items sit in the drawing lesson and its theatre/film items in the theatre lesson, where those strands live.
+
 ## Say it to your companion
 
 Sing a major scale to your companion but stop on the 7th sound. They must sing the last step home and say whether it was whole or half.

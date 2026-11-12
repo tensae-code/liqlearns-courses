@@ -22,3 +22,9 @@ Answer in a word or a short line.
 
 **7. (Sub lesson 7)** Give one benefit of learning PE through the arts.
 **Answer:** Rhythm and song help the body keep time / help the learner remember and enjoy the movement (any benefit the learner can defend from the activity).
+
+**8. (Sub lesson 8)** How many points does the Grade 5 book's first self-check checklist carry, and where is it first printed?
+**Answer:** 18 points; first printed at pp. 38–39, and repeated after every chapter.
+
+**9. (Sub lesson 8)** Write one honest can-do statement for this lesson and mark it the book's way.
+**Answer:** Any true 'I can…' statement about this lesson's unity/difference work, marked ✓ if it can be shown, ✗ with re-study if not.

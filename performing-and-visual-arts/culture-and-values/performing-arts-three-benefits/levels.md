@@ -10,3 +10,9 @@ Sub lesson 2 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 3 — The three benefits together
 Sub lesson 3 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the opener and the set: aesthetic, cultural (national) and psychological — performing art enabling the community's successful life and good way of living (Grade 8, printed pp. 105–107).
+
+## Sub lesson 4 — The Grade 8 chapter opens — aesthetic usefulness (chapter opening — Grade 8)
+Sub lesson 4 questions from the type files. Pass mark: the learner can list the Grade 8 Chapter 4 aims and state this lesson's pair — performing art's benefit, and the comparison with visual art.
+
+## Sub lesson 5 — The Grade 8 chapter closes — the three benefits and the two families (chapter closing — Grade 8)
+Sub lesson 5 questions from the type files. Pass mark: the learner can state the summary's two-family contrast, name performing art's three benefits, run the 7-item checklist, and note the exercises' skipped item 6 as the book's own slip.

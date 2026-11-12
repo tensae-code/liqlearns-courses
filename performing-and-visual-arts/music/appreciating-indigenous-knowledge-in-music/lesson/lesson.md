@@ -20,6 +20,26 @@ The Grade 6 book's Chapter 4 appreciates **indigenous knowledge** — the knowle
 
 The Grade 6 teacher guide carries the same chapter from the teacher's side (**teacher guide — evidence**): appreciation is led by **visiting, asking and performing back** — the learner does not only receive the community's knowledge but answers it with poem, song and dance, so the knowledge is honoured in its own currency. Evidence only, and labelled so; the exercises themselves stand on the pupil book above.
 
+## Sub lesson 5 — The Grade 6 chapter opens — appreciating indigenous knowledge (chapter opening — Grade 6)
+
+The Grade 6 book opens its fourth chapter, *Appreciating Indigenous Knowledge*, by naming the ways a people's own knowledge is honoured:
+
+- **appreciate indigenous knowledge through visual art** — the opener names drawing and paper mosaic;
+- **appreciate it through theatre, film and photography**;
+- **compose and sing appreciation melodies and poems**;
+- **appreciate by eskista**;
+- **know traditional instruments as products of indigenous knowledge**.
+
+This lesson keeps the music aims — the melodies, poems, eskista and instruments. The visual and stage aims live in their own lessons of this chapter's cluster.
+
+## Sub lesson 6 — The Grade 6 chapter closes — honouring the knowledge and its owners (chapter closing — Grade 6)
+
+The Grade 6 book closes its indigenous-knowledge chapter with a summary whose last point is this lesson's heart: **appreciating a knowledge means honouring not only the work's results but the individuals and communities who own the work.** Around it the summary gathers: **appreciating indigenous knowledge in music, poem and eskista is very useful for the country's development; weaving knowledge is performed, sung and praised in varied songs and eskistas; knowledge and music are indigenous knowledges that lived together; traditional medicine stands among them, a starting point for modern medicine; and countries that developed gave attention to indigenous knowledge and appreciated it through artworks.** It names both heritages: the **tangible** (architecture, painting, sculpture, jewellery, clothes, daily tools) and the **intangible** (governance, medicine, food science, farming, calendar, astronomy, literature).
+
+Check yourself in the book's two tables. Table one (8 items) is music: **appreciated weaving works in music; inspired to make weaving art; know and sing "There Are Professionals"; composed appreciation melodies and poems; appreciated the many local indigenous knowledges in performing arts; appreciated by local melodies; shown eskista appreciation; can make and show regional traditional instruments' making and use**. Table two (4 items) is visual: **appreciation is possible in visual art; appreciated artworks by drawing; made indigenous artworks in paper mosaic; appreciated through theatre, film and photography**. (The songs in the table are named, never transcribed.)
+
+The exercise's performance answers are doings: **choose a profession, compose a melody and poem of appreciation for it, and present the group's best work together.** Do them here. Its true/false items sit in this part's questions.
+
 ## Say it to your companion
 
 Define indigenous knowledge in music for your companion, then appreciate one woven cloth or instrument aloud for them.

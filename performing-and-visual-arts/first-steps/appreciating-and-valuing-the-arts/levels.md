@@ -19,3 +19,6 @@ Sub lesson 5 questions from the type files. Pass mark: state what African aesthe
 
 ## Sub lesson 6 — The Grade 7 chapter aims — value what is around you
 Sub lesson 6 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 7 book's Chapter 4 aims: give value to the aesthetic values around you, appreciate the community's aesthetic values, and know how they relate (Grade 7, printed p. 126).
+
+## Sub lesson 7 — The Grade 7 chapter closes — aesthetic usefulness (chapter closing — Grade 7)
+Sub lesson 7 questions from the type files. Pass mark: the learner can run the chapter's six named self-check items honestly and state music's two named benefits — for social life and in teaching.

@@ -19,3 +19,9 @@ Answer in a short sentence of your own.
 
 **6. (Sub lesson 6)** What two sources can a drawing come from, in the guide's teaching?
 **Answer: Imagination/memory, and observation of what you see.**
+
+**7. (Sub lesson 8)** From the Grade 6 exercise: what is drawing's nature, and what are its tools?
+**Answer:** Drawing is the basic skill of visual art — the foundation work in line; its tools are the drawing instruments this lesson names (pencils and their kin, charcoal, chalk, on paper).
+
+**8. (Sub lesson 8)** From the Grade 6 exercise: what is drawing's use for painting and for sculpture?
+**Answer:** Drawing underlies both — a painting is planned and built on drawing, and a sculpture's form is first found in drawing; drawing study serves every visual art.

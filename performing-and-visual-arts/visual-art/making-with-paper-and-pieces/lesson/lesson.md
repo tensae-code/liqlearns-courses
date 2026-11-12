@@ -32,6 +32,25 @@ As collage can be made from paper, so can **mosaic**: the **paper mosaic** in fi
 
 The Grade 2 teacher guide's making strand is **decorating and drawing**: decorating and beautifying **by using materials** (§2.4.1) and **drawing** (መሳል, §2.4.2) — models and decoration made from available materials, plus drawing. This guide is a scan with no text layer, so this part is cited at **section level only**, exactly as its placements require — the section's promise is the teaching: what is nearby, decorated well, becomes the work. It is the same promise as the Grade 4 book's crafts from what is nearby — local materials spread out for decorating, shapes and forms.
 
+## Sub lesson 7 — Drawing texture: cross-hatching, dots and smudging (Grade 5)
+
+Texture is the smoothness or roughness you feel by **touching** and by **seeing**: smooth — glass, cotton, soft wool; rough — bark, a brick wall, sacking. In drawing, you make texture with the pencil itself:
+
+- **Roughness** is made by **cross-hatching** — lines crossing lines — or by **repeated dots** (a pattern of points).
+- **Smoothness** is made by **smudging** the pencil softly, or by leaving the surface untouched.
+
+[Picture — described only, not made in this fix build: a bark patch built stroke by stroke from cross-hatched lines, beside a smooth smudged patch — the student says which technique made each.]
+
+Try it: draw one small square of bark with crossing lines, one of dots, and one smooth square smudged with a fingertip. Your fingers should be able to guess each one with your eyes shut — that is texture doing its work.
+
+## Sub lesson 8 — Mosaic: the ancient way and the heritage practicals (Grade 6)
+
+Mosaic is among the **ancient** visual methods: temples' and palaces' floors and walls were decorated by assembling and gluing **coloured stones and pottery fragments** — and the practice keeps mosaic beloved in architecture today. Mosaic means making a picture by gluing stones, pottery fragments and glass pieces of varied colours.
+
+**Paper mosaic** is its easy form, worked with thick coloured papers. Glue can be mucilage, cola or local paste. Tools: thick paper, carton, paper glue, pencil, scissors, sharpener, eraser. The steps: draw the wanted thing on thick paper or carton; cut the coloured papers into small sizes; spread glue on the design and, **before it dries**, stick the papers as suited (Fig. 53 shows an example paper-mosaic work).
+
+The heritage practicals: make **Harar's Jegol wall** in paper mosaic; and in groups, make **Gondar's palace** in paper mosaic — and explain how it was first built, and how the fathers preserved it until now.
+
 ## Say it to your companion
 
 Hold up your finished piece. Tell your companion which method made it, step by step, without looking at the lesson. They check your steps against the lesson.

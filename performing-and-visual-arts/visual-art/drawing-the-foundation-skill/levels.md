@@ -19,3 +19,9 @@ Sub lesson 5 questions from the type files. Pass mark: enlarge a small drawing o
 
 ## Sub lesson 6 — The five basic skills of drawing (teacher guide — evidence)
 Sub lesson 6 questions from the type files. Pass mark: name the five basic skills and say the two great sources a drawing can come from.
+
+## Sub lesson 7 — Light and shadow in drawing (Grade 5)
+Pass mark: state the rule — shadow forms opposite the light — and shade a drawn object by darkening its shadow side and leaving its lit side light.
+
+## Sub lesson 8 — Drawing a heritage work: the Lalibela practical (Grade 6)
+Pass mark: name the tools and the four steps (observe, draw, shade light and shade, show texture) and carry out the Lalibela church drawing on thick paper.

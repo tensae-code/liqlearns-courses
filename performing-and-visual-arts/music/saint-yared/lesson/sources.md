@@ -9,6 +9,8 @@ countries: Ethiopia
 | Sub lesson 1 — Saint Yared and the three chant styles | Grade 7 Student Textbook, printed pp. 90–91 (§3.2) |
 | Sub lesson 2 — Yared's notation and its keeping work | Grade 7 Student Textbook, printed pp. 91–92 (§3.2) |
 
+| Grade 7 Ch. 3 Task-1 — Yared practice set (G7S-83) (question stock, Sub lesson 2) | Grade 7 Student Textbook, Ch. 3 Task-1, printed p. 98 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Yared's life is told only as the pupil book's history chapter and the placements carry it; no chant text or notation sign is transcribed beyond the three style names the placements themselves print.

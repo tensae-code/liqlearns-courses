@@ -21,6 +21,10 @@ countries: Ethiopia
 | Key-signature and scale teaching, Grade 6 depth (citation completed) | Grade 6 Student Textbook, printed p. 16 |
 | Pitch teaching §2.1.2 (citation completed) | Grade 6 Student Textbook, printed p. 38 (§2.1.2) |
 
+| Sub lesson 8 — The Grade 6 chapter closes (chapter closing — Grade 6) — G6S-36 | Grade 6 Student Textbook, Ch. 1 summary (closing fold), printed pp. 29–30 |
+| Sub lesson 8 — The Grade 6 chapter's self-checks — two tables (self-check stock) — G6S-37 | Grade 6 Student Textbook, Ch. 1 self-check tables, printed pp. 30–31 |
+| Sub lesson 8 — The Grade 6 chapter's closing exercise (exercise stock) — G6S-38 | Grade 6 Student Textbook, Ch. 1 closing exercise, printed pp. 31–32 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.

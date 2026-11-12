@@ -16,3 +16,6 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 5)** This part is cited at section level because the guide is a scan with no text layer.
 **Answer: True**
+
+**6. (Sub lesson 6)** In the Grade 4 book's exercise, shapes and forms can be distinguished by colour.
+**Answer: True** — distinguishing shapes and forms by colour is a Chapter 1 aim the exercise checks.

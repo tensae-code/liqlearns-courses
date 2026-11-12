@@ -15,6 +15,11 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **More master painters (teacher guide — evidence)** — Afewerk Tekle's stained glass, Alle Felege Selam and the first art school, Gebre Kristos Desta and abstract art, Zerihun Yetmgeta, Mezgebu Tesema, Tadesse Mesfin (Grade 7 teacher guide, printed pp. 100–106).
 4. **Ethiopian manuscripts (teacher guide — evidence)** — Ethiopia's Ge'ez written tradition; the codex — folded parchment leaves in gatherings, sewn and covered (Grade 7 teacher guide, printed pp. 106–107).
 
+5. **The roll of great painters (Grade 7)** — the book's full roll of modern-style changemakers, p. 98 — every name.
+6. **Agegnehu Engida (1905–1950 E.C.)** — the Gondar painter of Paris, the birr notes and the cathedral — 'fully Ethiopian'.
+7. **Shanbel Lema Guya (1921–2013 E.C.)** — from a clay-following childhood to the wooden aeroplane that changed his life — 'This is my country; this is Ethiopia'.
+8. **Afewerk's London road; Gebre Kristos the poet-painter (Grade 7)** — the student-book biographies in full — the engineering road not taken, and the painter-poet of Harar.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

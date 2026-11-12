@@ -32,6 +32,19 @@ Before its teaching begins, the Grade 7 book states the chapter's **aims** — a
 
 Hold the three aims as a checklist for everything in this lesson. When you judge a work's beauty, you are doing the first. When you honour the beauty your community already keeps — its dress, its buildings, its songs — you are doing the second. When you can say *how* the two join, you are doing the third.
 
+## Sub lesson 7 — The Grade 7 chapter closes — aesthetic usefulness (chapter closing — Grade 7)
+
+The Grade 7 book closes its fourth chapter, *Aesthetic Usefulness*, with a **self-check table**, a **summary** and a **closing exercise of 3 true/false and 8 short answers**. The table's six can-do items are the chapter in one breath — mark each ✓ or ✗ and re-study your crosses:
+
+- **I can give value to aesthetic value** — say what makes a thing beautiful, and why it matters;
+- **I can state visual art's nature and benefits**;
+- **I can follow indigenous works' process and messages, and appreciate them**;
+- **I can say music's benefit for social life**;
+- **I can make varied traditional instruments**;
+- **I can say music's benefit in teaching**.
+
+The summary gathers the same ground: the useful arts are not decoration on life — visual art, music and the indigenous works each *do* something for the community that made them, from holding society together to teaching its children. The exercise's eleven written items sit in this part's questions, and the instrument-making item is a doing, kept in the instrument-making lesson's work.
+
 ## Say it to your companion
 
 Judge one artwork each, with reasons. Your companion must answer your reason — agree and add, or disagree and counter — before the next work may be judged.

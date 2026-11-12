@@ -29,3 +29,7 @@ a) the aesthetic values around them  b) nothing in particular  c) only foreign a
 **7. (Sub lesson 6)** The aims also ask the learner to appreciate —
 a) the community's aesthetic values  b) only their own work  c) prices of artworks
 **Answer: a) the community's aesthetic values** — the community's kept beauty is the second aim.
+
+**8. (Sub lesson 7)** Which pair of benefits does the Chapter 4 self-check name for music?
+  a) For social life, and in teaching b) For trade, and for travel c) For building, and for farming
+**Answer: a) For social life, and in teaching** — the table's own two music benefits.

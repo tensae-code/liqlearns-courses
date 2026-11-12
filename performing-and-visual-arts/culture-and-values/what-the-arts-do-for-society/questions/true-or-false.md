@@ -37,3 +37,6 @@ Say whether each sentence is true or false.
 
 **12. (Sub lesson 12)** Grade 5 §5.2 calls art a chief tool for raising society's consciousness while entertaining.
 **Answer: True**
+
+**13. (Sub lesson 14)** The Grade 4 Chapter 3 exercise ends with a field-visit item answered by writing and drawing.
+**Answer: True** — its field-visit write-and-draw item is a doing, carried in this part's teaching.

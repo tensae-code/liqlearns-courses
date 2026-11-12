@@ -23,6 +23,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **The cultural (national) benefit** — performing arts are created from the community's experience and knowledge and speak the community's own voice — carrying its identity and patriotism (Grade 8, printed pp. 105–106).
 3. **The three benefits together** — the opener and the set: aesthetic, cultural (national) and psychological — performing art enabling the community's successful life and good way of living (Grade 8, printed pp. 105–107).
 
+4. **The Grade 8 chapter opens — aesthetic usefulness (chapter opening — Grade 8)** — the Grade 8 book's Chapter 4 opener and aims: grasp performing art's benefit; compare performing and visual arts' function; identify monuments' and handcraft's making materials and the messages they transmit; appreciate artworks (Grade 8, printed p. 104).
+
+5. **The Grade 8 chapter closes — the three benefits and the two families (chapter closing — Grade 8)** — the Grade 8 book's Chapter 4 summary, its ✓/✗ checklist (7 items) and its closing exercises of explanation questions — the printed numbering skips item 6, as the placements record (Grade 8, printed pp. 117–119).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

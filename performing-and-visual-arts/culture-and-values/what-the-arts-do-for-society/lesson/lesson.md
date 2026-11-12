@@ -72,6 +72,23 @@ Three books' statements belong together here, and this part carries their own pa
 
 The Grade 7 book works the same ground twice. Its §5.3.1 (printed pp. 160–161) shows **music helping teach other subjects** — Amharic and English letters taught by varied chants; mathematics' four operations carried in song. Its §5.4 (printed p. 162) lists the **current issues** plainly: issues that occur in the community, nationally and regionally, harm daily life, and need attention — and sets the visual and performing arts to them.
 
+## Sub lesson 13 — The Grade 4 chapter opens — what the arts mean for society (chapter opening — Grade 4)
+
+The Grade 4 book opens its third chapter, *The Arts' Contribution to Society*, with four aims — the promise this whole society cluster keeps:
+
+- **grasp the arts' meaning and use** — what the arts are *for*;
+- **know their history with human civilisation** — the arts have walked with people from the beginning;
+- **appreciate the country's art products**;
+- **imitate artworks** — learn by copying good work, the book's own way.
+
+Everything in this lesson that follows — the arts at work in a community's social, economic and religious life — is those four aims being kept, one by one.
+
+## Sub lesson 14 — The Grade 4 chapter closes — culture, heritage and handicraft (chapter closing — Grade 4)
+
+The Grade 4 book closes its society chapter with a summary and a 15-item exercise, and its ground is the pair this lesson has carried: **culture** — a people's way of life, held and handed on — and **heritage** — what that way of life leaves in the hands of the next generation. The exercise checks the definitions, the **uses of handicraft**, and one answer it wants whole: heritage is expressed in **song, drawing and dance — all of them**, not one alone.
+
+Its last kind of item is a doing: a **field-visit write-and-draw** — visit, then write and draw what the visit taught. Do it with this lesson: after any visit to a heritage place or a craftsperson's work, write three sentences and draw one picture of what you saw. The written items sit in this part's questions.
+
 ## Say it to your companion
 
 Give your companion one current issue. They must answer with an art form and a message: 'a poster — plant trees, the forest is our roof.' Then change places.

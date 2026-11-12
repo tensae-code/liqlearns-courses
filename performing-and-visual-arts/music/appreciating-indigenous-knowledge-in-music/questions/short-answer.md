@@ -14,3 +14,9 @@ Answer in a short sentence or a short list.
 
 **4. (Sub lesson 4)** Why answer knowledge with performance?
 **Answer:** Because the community's knowledge lives in performance — poem, music and eskista honour it in its own currency.
+
+**5. (Sub lesson 5)** Name the visual-art ways the Chapter 4 opener names for appreciating indigenous knowledge.
+**Answer:** Drawing and paper mosaic (visual art), within the opener's list.
+
+**6. (Sub lesson 6)** I can… sing the weaving appreciation the table checks: which named song does table one ask learners to know and sing?
+**Answer:** "There Are Professionals" — named here, never transcribed.

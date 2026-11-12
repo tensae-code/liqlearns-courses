@@ -56,6 +56,19 @@ The Grade 3 book closes its chapter on the arts' relationships with a **physical
 
 Do the closing work now. Name one benefit — for example, that rhythm and song help the body keep time and the learner remember the movement. Then choose your sport and show thirty seconds of it moving with music. The chapter's summary makes the same point in words: the arts and the subjects — PE among them — are not strangers; each lends the other its strength.
 
+## Sub lesson 8 — Check yourself the Grade 5 way — the ✓/✗ can-do checklist (self-check — Grade 5)
+
+Every Grade 5 chapter ends the same honest way, and this part teaches the tool itself — the book's **self-check checklist** (የማገናዘቢያ ነጥቦች), first printed at pp. 38–39 with **18 points**, and repeated after every chapter.
+
+Here is the mechanic, exactly as the book gives it. The checklist is a row of **can-do statements** — *I can* sentences about the chapter you have just worked. Beside each statement you mark one of two signs:
+
+- **✓ — "I achieved it"** — you can really do this thing, and could show it;
+- **✗ — "I did not"** — not yet.
+
+Then comes the part that makes it more than a score: **you re-study what you crossed.** A ✗ is not a verdict; it is a direction — go back to that part of the chapter, work it again, and only then mark again. A ✓ you could not show is a lie the list cannot afford; a ✗ honestly marked and re-studied is the checklist working perfectly.
+
+Use it here, on this lesson: write three *I can* statements for the unity-and-difference work above, mark each one honestly, and re-study any you crossed before you go on.
+
 ## Say it to your companion
 
 Explain 'two sides of one coin' to your companion with the music example. Then act a tiny scene together, and both draw it — compare: did the message survive into both drawings?

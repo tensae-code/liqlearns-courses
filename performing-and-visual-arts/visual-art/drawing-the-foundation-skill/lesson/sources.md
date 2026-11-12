@@ -19,6 +19,12 @@ countries: Ethiopia
 | Sub lesson 5 — Bigger and smaller on a grid; drawing what you see | Book 3, printed pp. 86, 97 |
 | Sub lesson 6 — The five basic skills of drawing (teacher guide — evidence) | Book 4, Lessons 22–25, printed pp. 40–44 |
 
+| Sub lesson 7 — Light and shadow in drawing (Grade 5): where light falls, shadow forms opposite; darken the shadow part with the pencil, leave the lit part light; Fig. 10 objects; Exercise 4 and receiving the teacher's comments | Book 2, printed p. 14 |
+| Sub lesson 2 — The drawing tools and the pencil grades (Grade 5 evidence of the same teaching): drawing needs pencil, charcoal pencil, paper, sketchbook and eraser; hard pencils lay thin, clear lines; soft pencils lay dark, soft lines | Book 2, §1.1.3, printed p. 13 |
+| Sub lesson 8 — Drawing a heritage work (Grade 6): tools (thick/thin paper, pencil, eraser, board, sharpener/cutter); steps — observe, draw, shade light and shade, show texture; practicals — draw a Lalibela rock-hewn church on thick paper; group drawing of a historical work, hung and explained | Book 1, §4.1.1, printed pp. 86–87 |
+
+| Grade 6 Ch. 1 self-check + closing exercise — drawing items (G6S-37/G6S-38) (question stock, Sub lesson 8) | Grade 6 Student Textbook, Ch. 1 self-check table one + closing exercise, printed pp. 30–32 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 9 teacher-guide part (the five basic skills of drawing) is teacher-guide evidence only and is labelled so in the table; the lesson's pupil-taught parts stand on the Grade 4–6 student books. The Grade 6 book's exercise prints "E♭" in Amharic beside "(E Major scale)" in its key-signature exercise — a music matter, not used in this lesson, recorded here because the same book is cited.

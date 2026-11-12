@@ -16,6 +16,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Stories and letters through pictures** — language through art — a pictorial drama, things' positions in figures, letter-writing forms, and a pictorial composition whose message is stated, then expressed in drama and drawing (Grade 4, printed pp. 88–89).
 5. **Perceiving and practising in our locality (teacher guide — evidence)** — visual perception and local practice exercises closing the perception chapter, cited at section level from the scanned Grade 2 guide (§§1.4–1.5, printed pp. 12–22).
 
+6. **Corridors and colour composition (Grade 4)** — the veranda plate and geometric forms — how placed corridors compose a coloured picture.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

@@ -34,6 +34,23 @@ The later books retell this lesson's ground at their own depth. **Grade 7 (print
 
 Grade 7's telling sets the **contrast** plainly: against the traditional craft — hereditary, occasion-bound, maker-made — its modern-music opening (§3.3) places the **modern instruments and the trained, stage-and-band world** Ashenafi Kebede's generation built. Neither side cancels the other in the book's judgement: the traditional music is the root, the modern its new branches. Modern Instruments (the Grade 8 lesson next door) teaches the same meeting from the instruments' side; this part is its historical root.
 
+## Sub lesson 8 — The Grade 8 chapter opens — culture and history (chapter opening — Grade 8)
+
+The Grade 8 book opens its third chapter, *Culture and History*, by digging for origins. Its aims:
+
+- **the cultural and historical origin of traditional instruments, dance and music** — this lesson's ground;
+- **Ethiopia's ancient monument works**;
+- **the benefits of Ethiopia's ancient handcraft works**;
+- **expressing indigenous knowledge in theatre and film**.
+
+This lesson keeps the first aim — where the instruments, dances and music themselves come from. The monuments and handcraft aims live in the visual-art lessons; the stage-and-screen aim in the drama lessons.
+
+## Sub lesson 9 — The Grade 8 chapter closes — signals, animals, monuments and handcraft (chapter closing — Grade 8)
+
+The Grade 8 book closes its culture-and-history chapter with a **summary**, a **✓/✗ checklist of 16 items** and **closing exercises of 14 questions**. The summary's origins are worth holding whole. **Music is a culture part in itself**; cultural music is **performed in group and union, holding instruments and dance**. **Instruments began in ancient times as signals when people went hunting**, and **dances' origin lies in varied animal movements** — the hunt and the animal stand at the root of both. Then the works that outlasted them: **the ancient monuments — Axum, Tiya, Konso waka, King Ezana's monument**; **the handcraft products**; and **local histories' great benefit for theatre and film**.
+
+Run the 16-item checklist across those strands, ✓ or ✗, crosses re-studied in their lessons. The exercises' 14 questions range over the whole chapter — one of them even asks the **largest Axum monument's length in metres**, a measure to take from the monuments work itself. Their stock sits in this part's questions.
+
 ## Say it to your companion
 
 Tell your companion one region's music — its peoples and its character — and one instrument family with two members. They do the same with a different region and family.

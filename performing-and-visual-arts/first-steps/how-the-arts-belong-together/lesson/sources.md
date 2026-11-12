@@ -21,6 +21,8 @@ countries: Ethiopia
 | Sub lesson 5 — One or different? — the Grade 5 chapter opens (opening fold) | Grade 5 Student Textbook, Ch. 4 chapter opener and aims (opening fold), printed p. 107 |
 | Sub lesson 6 — Music, dance and theatre — same and different (teacher guide — evidence) | Comparing the arts — unity and difference, §§4.1–4.1.2 (teacher guide — evidence) | Grade 5 Teacher's Guide, printed pp. 93–94 |
 | Sub lesson 7 — Sport through the arts — the Grade 3 chapter closes (closing fold) | Grade 3 Student Textbook, Ch. 5 PE closing activity (Activity 6), football-game Figure 17 and chapter summary (closing fold), printed p. 83 |
+| Sub lesson 8 — Check yourself the Grade 5 way (self-check fold) — G5S-02 | Grade 5 Student Textbook, the self-check checklist (የማገናዘቢያ ነጥቦች) — the mechanic itself, first printed pp. 38–39 (18 points), repeated after every chapter |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The coin picture and the music example are Grade 2's own (§5.1, printed p. 71); the drama-into-drawing direction is Grade 3's own (§5.1, printed p. 69); the classroom doing-all-three scene and both review summaries are the books' own closing words, folded into the last sub lesson as the course structure map rules for review placements. No relationship claim is made that a book does not make.

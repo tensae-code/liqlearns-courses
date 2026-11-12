@@ -22,3 +22,21 @@ Sub lesson 6 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 7 — Visual art and natural science — the spectrum
 Sub lesson 7 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 8 book: visual art's clear relation with natural-science education — spectrum-colour creation, things' natural forms, and colour-combination reactions (Grade 8, printed p. 128).
+
+## Sub lesson 8 — The Grade 6 chapter opens — art among the other subjects (chapter opening — Grade 6)
+Sub lesson 8 questions from the type files. Pass mark: the learner can list the Grade 6 Chapter 5 aims and give one heritage, health or forest example the chapter learns through chant.
+
+## Sub lesson 9 — The Grade 6 chapter closes — art in daily life and every subject (chapter closing — Grade 6)
+Sub lesson 9 questions from the type files. Pass mark: the learner can state music's two named subject-relations (mathematics — counting durations and silences; language — speech and letters resting on sound), run both self-check tables, and answer the exercise's keyed items.
+
+## Sub lesson 10 — The Grade 7 chapter opens — decorating, and art among the subjects (chapter opening — Grade 7)
+Sub lesson 10 questions from the type files. Pass mark: the learner can list the Grade 7 Chapter 5 aims and say which lesson keeps the pottery-and-ceramics decorating aim.
+
+## Sub lesson 11 — The Grade 7 chapter closes — check and exercise (chapter closing — Grade 7)
+Sub lesson 11 questions from the type files. Pass mark: the learner can run the chapter's 3-item self-check and name which item sends them back to this lesson and which to the pottery work.
+
+## Sub lesson 12 — The Grade 8 chapter opens — art education among the subjects (chapter opening — Grade 8)
+Sub lesson 12 questions from the type files. Pass mark: the learner can list the Grade 8 Chapter 5 aims, including making the community grasp current issues through the arts.
+
+## Sub lesson 13 — The Grade 8 chapter closes — art relates to everything (chapter closing — Grade 8)
+Sub lesson 13 questions from the type files. Pass mark: the learner can name the four subjects the summary says art easily teaches, give five of its counted benefits, and answer the exercises' explanation items.

@@ -22,6 +22,12 @@ Inside the house, art continues: **home decoration ornaments**; **wooden househo
 
 Appreciating others' visual works **builds knowledge and skill** — so hold a **school exhibition**: gather pupils' works, **make frames** from paper or wood, and **hang them in a suitable hall**. Appreciate each work by **content, form, colour and composition**. The appreciation then walks to the other arts through pictures: traditional **instrument players**, **children dancing together**, a **traditional dance**, and the **traditional instruments** themselves — with the activity of performing a favourite traditional song type: shilela, engurguro, fukera and the like, and making a favourite instrument in drawing, colour and local materials.
 
+## Sub lesson 5 — The Grade 4 chapter closes — appreciating what people make (chapter closing — Grade 4)
+
+The Grade 4 book closes its fourth chapter, *Appreciating the Arts*, with a summary and a 14-item exercise — the chapter this lesson's houses, crafts and artworks belong to. The exercise returns to the chapter's own questions: **which arts are performing arts** — the ones done live before others; **what can be appreciated** — man-made and natural things alike; and **what appreciating movement needs** — watching the movement itself, not only the still result.
+
+One of its items is a naming trap worth learning outright: among its options stands **Tilahun Gesesse** — a great *singer*. When the exercise asks you to **name a painter**, the singer is the wrong answer, however great he is: appreciation begins by knowing which art a person practises. Its perform-it items close the chapter the book's way: perform, do not only answer.
+
 ## Say it to your companion
 
 Describe one house in this lesson to your companion without naming it. They must say: highland or lowland — and which detail gave it away.

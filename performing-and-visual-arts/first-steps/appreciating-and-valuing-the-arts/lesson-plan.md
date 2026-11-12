@@ -18,6 +18,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 6. **The Grade 7 chapter aims — value what is around you** — the Grade 7 book's Chapter 4 aims: give value to the aesthetic values around you, appreciate the community's aesthetic values, and know how they relate (Grade 7, printed p. 126).
 
+7. **The Grade 7 chapter closes — aesthetic usefulness (chapter closing — Grade 7)** — the Grade 7 book's Chapter 4 self-check table (6 named items), summary and closing exercise — 3 true/false and 8 short answers (Grade 7, printed pp. 145–147).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

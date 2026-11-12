@@ -25,3 +25,15 @@ Pick the one right answer.
 **6. (Sub lesson 6)** Which list names the guide's five basic skills of drawing?
   a) Edges, proportion, perspective, colour schemes, putting the thought together b) Singing, dancing, acting, filming, printing c) Cutting, gluing, folding, tying, weaving
 **Answer: a) Edges, proportion, perspective, colour schemes, putting the thought together** — the guide names those five skills.
+
+**7.** (Sub lesson 7) When light falls on one side of a thing, its shadow forms —
+a) on the same side  b) on the opposite side  c) underneath only
+**Answer: b) on the opposite side.**
+
+**8.** (Sub lesson 7) In the drawing, the shadow part should be —
+a) left white  b) darkened with the pencil  c) rubbed out
+**Answer: b) darkened with the pencil** — and the lit part left light.
+
+**9.** (Sub lesson 8) The Grade 6 practical asks you to draw, on thick paper —
+a) a modern office block  b) one of Lalibela's rock-hewn churches  c) a motor car
+**Answer: b) one of Lalibela's rock-hewn churches.**

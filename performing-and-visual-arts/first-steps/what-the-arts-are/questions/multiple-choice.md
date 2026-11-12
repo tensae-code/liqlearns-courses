@@ -37,3 +37,11 @@ a) photograph, painting, drawing and sculpture  b) song alone  c) dance alone
 **9. (Sub lesson 5)** The Grade 8 matching rule for a dance is —
 a) visual, because costumes are seen  b) performing, because it happens before an audience  c) neither
 **Answer: b) performing, because it happens before an audience** — the comparison turns on how the art is known.
+
+**10. (Sub lesson 6)** Grade 6 Chapter 1 is, in the book's own shape, a chapter about…
+  a) What art is — a definition chapter b) Only drawing tools c) Only songs
+**Answer: a) What art is — a definition chapter** — Ch. 1 is 'What Art Is' — its first aim is to know what art is.
+
+**11. (Sub lesson 6)** The basic skill of visual art, in the Chapter 1 aims, is…
+  a) Drawing b) Singing c) Acting
+**Answer: a) Drawing** — drawing as the basic skill of visual art.

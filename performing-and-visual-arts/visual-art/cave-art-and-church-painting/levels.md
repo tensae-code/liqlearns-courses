@@ -13,3 +13,12 @@ Sub lesson 3 questions from the type files. Pass mark: name the Book of Painting
 
 ## Sub lesson 4 — Cave art and painting types (teacher guide — evidence)
 Sub lesson 4 questions from the type files. Pass mark: name the four types of Ethiopian painting the guide lists.
+
+## Sub lesson 5 — Where painting ideas come from (Grade 7)
+Pass mark: name painting's early surfaces (cave walls, rock, wood, hides) and its two idea sources — observed/heard things and inner imagination.
+
+## Sub lesson 6 — Paintings with indigenous content (Grade 7)
+Pass mark: classify indigenous-content paintings as religious, historical or nature-content, name their surfaces and colour sources, and name at least four homes of ancient painting.
+
+## Sub lesson 7 — The Grade 5 chapter opens — traditional music, cave art and heritage (chapter opening — Grade 5)
+Sub lesson 7 questions from the type files. Pass mark: the learner can list the Grade 5 Chapter 3 aims and tell a cave painting from a stone relief in one sentence each.

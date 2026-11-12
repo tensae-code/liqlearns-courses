@@ -26,6 +26,12 @@ Pictures can carry **language** itself. The book shows a **pictorial drama**, a 
 
 The Grade 2 teacher guide closes its perception chapter with **visual topics and the practices carried on in the locality** — perceiving, then **practising where you live**. Its picture is children practising an art activity **outdoors in their locality**. The contents type of the scan is degraded at these two entries, so this part is placed at **section level only** — its teaching is its title and its picture: perception is not finished in the classroom; it is practised on your own street, with your own place as the picture.
 
+## Sub lesson 6 — Corridors and colour composition (Grade 4)
+
+Look at two plates. In the first (Fig. 5.13), a **veranda** — a corridor with a roof, open at the side — is drawn with line and colour: the corridor's lines lead the eye along, and its colours sit in order. In the second (Fig. 5.14), **geometric forms** show a colour-painting composition that appears **when corridors are placed** — put the corridor shapes side by side and the flat shapes between them become a composed, coloured pattern.
+
+A corridor is a shape you can walk through; placed again and again, it is also a pattern. When you draw a building, draw its corridors first — the composition follows them.
+
 ## Say it to your companion
 
 Build a secret pattern of four shapes and colours. Your companion must continue it twice and say its rule. Then change places.

@@ -13,6 +13,12 @@ countries: Ethiopia
 | Sub lesson 3 — Exercise 4.2: appreciating the traditional instruments | Grade 6 Student Textbook, printed pp. 95–96 |
 | Sub lesson 4 — appreciating indigenous knowledge (teacher guide — evidence) | Grade 6 Teacher Guide, printed Chapter 4 (appreciating indigenous knowledge) |
 
+| Sub lesson 5 — The Grade 6 chapter opens (chapter opening — Grade 6) — G6S-96 | Grade 6 Student Textbook, Ch. 4 chapter opener and aims (opening fold), printed p. 85 |
+
+| Sub lesson 6 — The Grade 6 chapter closes (chapter closing — Grade 6) — G6S-109 | Grade 6 Student Textbook, Ch. 4 summary (closing fold), printed pp. 95–96 |
+| Sub lesson 6 — The Grade 6 chapter's self-checks — two tables (self-check stock) — G6S-110 | Grade 6 Student Textbook, Ch. 4 self-check tables, printed pp. 96–97 |
+| Sub lesson 6 — The Grade 6 chapter's closing exercise (exercise stock) — G6S-111 | Grade 6 Student Textbook, Ch. 4 closing exercise, printed p. 98 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The weaving and instruments appreciation exercises are pupil teaching (Exercises 4.1 and 4.2); the guide's part is carried as labelled evidence only. No song or poem is transcribed.

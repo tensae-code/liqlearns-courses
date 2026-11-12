@@ -41,3 +41,19 @@ Pick the one right answer.
 **10. (Sub lesson 7)** The modern side of the contrast is marked by…
   a) Modern instruments, training, stage and band b) Only louder singing c) Printed prices
 **Answer: a) Modern instruments, training, stage and band** — the world Ashenafi's generation built.
+
+**11. (Sub lesson 8)** Grade 8 Chapter 3 first asks for the cultural/historical origin of…
+  a) Traditional instruments, dance and music b) School buildings c) Modern factories
+**Answer: a) Traditional instruments, dance and music** — the opener's first aim — this lesson's ground.
+
+**12. (Sub lesson 8)** Ethiopia's ancient handcraft works enter the aims by their…
+  a) Benefits b) Prices c) Weights
+**Answer: a) Benefits** — the benefits of the ancient handcraft works.
+
+**13. (Sub lesson 9)** Dances' origin, in the summary, lies in…
+  a) Varied animal movements b) Written notation c) Stage lighting
+**Answer: a) Varied animal movements** — the summary traces dances to animal movements.
+
+**14. (Sub lesson 9)** Which set names the summary's ancient monuments?
+  a) Axum, Tiya, Konso waka, King Ezana's monument b) Two modern towers c) A printed atlas
+**Answer: a) Axum, Tiya, Konso waka, King Ezana's monument** — the summary's own monument list.

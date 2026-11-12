@@ -40,6 +40,18 @@ The Grade 8 book sets the two families side by side and asks you to **compare** 
 
 Do the book's matching work: here is an art — photograph. Which family, and by what is it known? Here is another — a dance. The rule never changes: **stays and is seen — visual; happens and is watched — performing.**
 
+## Sub lesson 6 — The Grade 6 chapter opens — what art is (chapter opening — Grade 6)
+
+The Grade 6 book opens its first chapter, *What Art Is*, by raising the level of the whole subject. Its aims:
+
+- **know what art is** — a definition chapter, not only a doing chapter;
+- **drawing as the basic skill of visual art**, and **draw varied pictures with drawing**;
+- **tell major from minor scales**, and **tell low from high pitch**;
+- **build major and minor scales on the G and F clefs using key-signature signs**;
+- **know theatre and film**.
+
+This lesson keeps the first aim — what art is. The drawing lesson keeps the second, the scales lesson keeps the middle three, and the theatre lessons keep the last.
+
 ## Say it to your companion
 
 Name the two families for your companion and give two arts in each. Then mime one performing art without a sound, and let your companion guess which family it belongs to — and say how they know.

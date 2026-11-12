@@ -42,6 +42,25 @@ Notes and rests together, one rule for all: **notes are played while sounding; r
 
 There is a song that carries the whole lesson: **ሙዚቃ አጠናለሁ — I Study Music**. Its verses teach the three values in song — sounding the voice for four beats is the whole note, for two beats the half note, for one beat the quarter note. Sing it, and you carry 4, 2, 1 in your voice.
 
+## Sub lesson 5 — The Grade 4 chapter opens — notes, colours, shapes, theatre and photographs (chapter opening — Grade 4)
+
+The Grade 4 book opens its first chapter, *Observing Our Surroundings*, with a promise — the aims this chapter will teach. Read them as the chapter's own map:
+
+- **apply simple-beat notes with body movement** — the notes you meet here are not only seen; the body moves with them;
+- **perform simple-beat songs and traditional dances**;
+- **tell colours apart**;
+- **distinguish shapes and forms by colour**;
+- **grasp what theatre art is**;
+- **read photo compositions** — say what a photograph's arrangement tells.
+
+Every part of this lesson and its chapter neighbours works one of those aims. When you can do all six, the chapter has kept its promise.
+
+## Sub lesson 6 — The Grade 4 chapter closes — beat, notes, shapes, colours and photographs (chapter closing — Grade 4)
+
+The Grade 4 book closes its first chapter by drawing its threads together — and this lesson's closing does the same. The chapter taught **beat and the simple-beat notes**, and it set **notes against rests**: a note sounds for its beat; a rest is silent for its beat, and the count goes on through both. It taught **shape against form** — a shape is flat, a form has depth — told apart **by colour**, and it read **photo compositions** in their formats: a portrait, a square design, a landscape.
+
+The book's own closing exercise (15 items) mixes all of it — beat, notes vs rests, shape vs form, colour and photo formats — and one of its multiple-choice items asks you to **pick the whole-note sign and the triangle from pictures**. That picking is the chapter in miniature: look, name, and be sure. The questions for this part carry the book's exercise into this lesson's prove-it bank, and its shape-and-photo items also sit in the shape and photograph lessons, where those topics live.
+
 ## Say it to your companion
 
 Draw the six signs for your companion — no labels. Companion names each sign and its value, and says “sounded” or “silent” for each. Six signs, six values: 4, 4, 2, 2, 1, 1.

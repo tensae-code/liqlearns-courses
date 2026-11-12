@@ -16,3 +16,9 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 6)** What materials does the decorating work use?
 **Answer: Materials available nearby — what is at hand.**
+
+**6. (Sub lesson 8)** From the Grade 6 exercise: define composition, in the chapter's terms.
+**Answer:** Composition is the arrangement of the artist's imagined idea and feeling for the viewer — the complete artistic work in which the parts are placed to carry it.
+
+**7. (Sub lesson 8)** From the Grade 6 exercise: what materials does still-life painting use, and what is assembling's value?
+**Answer:** Still life works from arranged real things, studied with colour; assembling's value is its reuse — discarded materials become a work instead of waste.

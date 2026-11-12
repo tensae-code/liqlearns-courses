@@ -13,3 +13,6 @@ Sub lesson 3 questions from the type files. Pass mark: define doping in the book
 
 ## Sub lesson 4 — Make your own teaching art
 Sub lesson 4 questions from the type files. Pass mark: perform an original short teaching song or theatre piece whose lesson a listener can repeat after one hearing.
+
+## Sub lesson 5 — The Grade 5 chapter opens — songs and dances against today's dangers (chapter opening — Grade 5)
+Sub lesson 5 questions from the type files. Pass mark: the learner can list the Grade 5 Chapter 5 aims and name which art form the book joins to each danger it names.

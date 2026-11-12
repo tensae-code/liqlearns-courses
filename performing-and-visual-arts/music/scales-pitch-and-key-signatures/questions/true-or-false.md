@@ -16,3 +16,15 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 5)** Key signatures in Amharic are የቁልፍ ምልክቶች.
 **Answer: True**
+
+**6. (Sub lesson 8)** Music is one of the arts.
+**Answer: True** — the exercise's own first ground — music as art.
+
+**7. (Sub lesson 8)** Key-signature signs are used on minor scales as well as major ones.
+**Answer: True** — the exercise checks key signs' use on minor scales — the signs serve both kinds.
+
+**8. (Sub lesson 8)** A sharp lowers a sound by half a step.
+**Answer: False** — a sharp RAISES by half; a flat lowers by half — the self-check's own pair.
+
+**9. (Sub lesson 8)** The G clef and the F clef give the same pitch for the same written place.
+**Answer: False** — the clefs differ in pitch — that difference is an exercise item.

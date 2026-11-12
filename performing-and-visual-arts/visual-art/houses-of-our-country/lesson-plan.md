@@ -15,6 +15,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Home ornaments, wooden goods, doors — and weapons as craft** — home decoration ornaments; wooden chair and table; door designs; spears and shield as craft (Grade 4, printed pp. 68–69).
 4. **Exhibiting paintings and appreciating the other arts** — hold a school exhibition — gather, frame, hang; appreciate by content, form, colour and composition; players, dancers and instruments appreciated in pictures (Grade 4, printed pp. 72–78).
 
+5. **The Grade 4 chapter closes — appreciating what people make (chapter closing — Grade 4)** — the Grade 4 book's Chapter 4 summary and closing exercise: 14 items — which arts are performing, what can be appreciated, what movement appreciation needs, and naming a painter among the options (Grade 4, printed pp. 78–79).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

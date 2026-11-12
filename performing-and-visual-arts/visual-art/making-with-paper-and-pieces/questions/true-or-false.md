@@ -22,3 +22,7 @@ Say whether each sentence is true or false.
 
 **7. (Sub lesson 6)** This guide's parts are cited at section level because the file is a scan with no text layer.
 **Answer: True**
+
+**8.** (Sub lesson 7) Smoothness in drawing can be made by smudging the pencil. **Answer: True.**
+
+**9.** (Sub lesson 8) One Grade 6 practical is to make Harar's Jegol wall in paper mosaic. **Answer: True.**

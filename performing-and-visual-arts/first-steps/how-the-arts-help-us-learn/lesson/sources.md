@@ -39,6 +39,8 @@ countries: Ethiopia
 | Sub lesson 17 — Performing art and natural science — the Grade 8 account | Grade 8 Student Textbook, §5.1.1 Performing art and natural science, printed pp. 122–123 |
 | Sub lesson 18 — Visual art with social science and with mathematics — the Grade 8 pair | Grade 8 Student Textbook, §5.1.2 Visual art and social science, printed p. 129; §5.1.2 Visual art and mathematics, printed p. 130 |
 | Sub lesson 19 — Art relates to every subject — the Grade 8 chapter set | Grade 8 Student Textbook, §5.1 Art relates to every subject, printed pp. 121–122; §5.1.1 Performing art and social science, printed pp. 124–125; §5.1.1 Performing art and mathematics, printed pp. 125–126; §5.1.1 Performing art and language, printed pp. 126–127 |
+| Sub lesson 20 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-98 | Grade 4 Student Textbook, Ch. 5 summary and closing exercise (closing fold), printed pp. 97–99 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Every subject claim is a book's own claim, cited to its section and page: Grade 2's §5.2 sequence (language p. 74, science p. 79, social studies pp. 84–87, maths pp. 89–92) and Grade 3's §5.2 sequence (principle and language p. 71, maths pp. 74–76, science p. 77). The Grade 2 teacher-guide row is cited at section level only, because that guide is a scan with no text layer, read visually — as its placements file states. Health and physical education through the arts (Grade 2 §5.2.4, Grade 3 §5.2.4) belongs to the dance and games lessons and is not stocked here.

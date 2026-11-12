@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** Crayon, pastel and charcoal are all applied by rubbing.
 **Answer: True**
+
+**5. (Sub lesson 6)** In the book's matching, a relief is seen from the front only.
+**Answer: True** — relief ↔ seen from the front only — the exercise's pair.
+
+**6. (Sub lesson 6)** Watercolour, in the book's pair, is worked dark to light.
+**Answer: False** — watercolour ↔ light to dark only, as the exercise pairs it.

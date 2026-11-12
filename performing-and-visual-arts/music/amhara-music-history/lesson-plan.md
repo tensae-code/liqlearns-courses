@@ -13,6 +13,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The Lalibelawoch and the azmari trade** — §3.1's opening: the Lalibelawoch — mostly male–female pairs tying the craft to faith, hereditary, moving place to place; the azmari in bands and theatre houses.
 2. **Bands, theatres and the music's widening road** — the region's music carried into bands and theatre houses — the road from tej house to stage that the book's musician lives walk.
 
+3. **The Grade 7 chapter opens — history and culture (chapter opening — Grade 7)** — the Grade 7 book's Chapter 3 opener and aims: the cultural/historical context of art; regional musicians' histories; Saint Yared; indigenous handcraft, paintings and ancient writings; expressing indigenous knowledge in theatre and film (Grade 7, printed pp. 74–75).
+
+4. **The Grade 7 chapter closes — check, summary and exercise (chapter closing — Grade 7)** — the Grade 7 book's Chapter 3 self-check table (6 items), summary and closing exercise — 7 true/false and 7 short answers (Grade 7, printed pp. 123–125). Its two practice tasks (Task-1, Task-2) sit in the Yared, musicians and painters lessons.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

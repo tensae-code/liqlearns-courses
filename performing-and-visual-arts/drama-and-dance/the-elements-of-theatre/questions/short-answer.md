@@ -34,3 +34,9 @@ Answer in a short sentence of your own.
 
 **11. (Sub lesson 11)** How does the section say theatre differs from music and drawing? Answer from the section's account.
 **Answer: Theatre is a combined art performed by actors — conflicts, actions and atmospheres — on a stage before an audience, carrying setting, character, plot, theme, dialogue and music together.**
+
+**12. (Sub lesson 11)** From the Grade 6 exercise: what is the actor's main share in theatre?
+**Answer:** The actor embodies the work before the audience — acting is theatre's main share, the part without which there is no play.
+
+**13. (Sub lesson 11)** From the Grade 6 exercise: what helped film grow, and how does film differ from theatre?
+**Answer:** Film was born from photography and grew with it; it differs from theatre in being recorded — shown anywhere, anytime — where theatre is live before its audience.

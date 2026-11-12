@@ -13,3 +13,9 @@ Sub lesson 3 questions from the type files. Pass mark: appreciate one traditiona
 
 ## Sub lesson 4 — The guide's appreciation teaching (teacher guide — evidence)
 Sub lesson 4 questions from the type files. Pass mark: state the guide's three leading moves — visiting, asking, performing back — as evidence, in your own words.
+
+## Sub lesson 5 — The Grade 6 chapter opens — appreciating indigenous knowledge (chapter opening — Grade 6)
+Sub lesson 5 questions from the type files. Pass mark: the learner can list the Grade 6 Chapter 4 aims and name an instrument as a product of indigenous knowledge, in the opener's terms.
+
+## Sub lesson 6 — The Grade 6 chapter closes — honouring the knowledge and its owners (chapter closing — Grade 6)
+Sub lesson 6 questions from the type files. Pass mark: the learner can state the summary's honouring rule (the work's owners, not only its results), sort tangible from intangible heritage, run both self-check tables, and answer the exercise's keyed items — including its keyed false about instrument playing.

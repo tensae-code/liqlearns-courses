@@ -19,3 +19,10 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 6)** Model drawing means drawing from observation of a subject.
 **Answer: True**
+
+**7.** (Sub lesson 7) A teacher's comments on your drawing are meant to improve the next work. **Answer: True.**
+
+**8.** (Sub lesson 8) Texture — roughness or smoothness — should be shown properly in the shading. **Answer: True.**
+
+**9. (Sub lesson 8)** In the Grade 6 Chapter 1 self-check's first table, drawing tools are checked in the general/visual table, not the music table.
+**Answer: True** — table one (5 items) holds art's nature, drawing tools, theatre, film, photography; table two is the music strand.

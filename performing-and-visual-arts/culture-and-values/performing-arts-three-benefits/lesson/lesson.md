@@ -22,6 +22,23 @@ Gather the set as the book builds it. Chapter 4 opens (§4.1, printed p. 105) by
 
 Learn the three as one hand: beauty, belonging, and a steadied mind — what performing art gives the society that keeps it.
 
+## Sub lesson 4 — The Grade 8 chapter opens — aesthetic usefulness (chapter opening — Grade 8)
+
+The Grade 8 book opens its fourth chapter, *Aesthetic Usefulness*, with aims that compare and judge:
+
+- **grasp performing art's benefit** — this lesson's ground;
+- **compare performing and visual arts' function**;
+- **identify monuments' and handcraft's making materials**, and **grasp the message the made monuments and handcraft works transmit**;
+- **appreciate artworks**.
+
+This lesson keeps the first two aims — the benefits, and the comparison with visual art. The monuments and handcraft aims live in the visual-art lessons.
+
+## Sub lesson 5 — The Grade 8 chapter closes — the three benefits and the two families (chapter closing — Grade 8)
+
+The Grade 8 book closes its usefulness chapter with a **summary**, a **✓/✗ checklist of 7 items** and **closing exercises of explanation questions**. The summary draws the chapter's two families apart and together. **Performing arts express inner feeling, culture and message by body movement**; **visual arts express by photograph, painting and sculpture**. **Music is found in very varied contexts and documents the community's history**, and **dance expresses idea and feeling by body movement, though very complex**. And the benefits this lesson is named for stand gathered: **performing art has aesthetic, national and psychological benefits**. The summary widens at the end to the continent's witnesses — **monuments across Africa, from ancient Lucy to Axum, from Alexandria to South Africa, from Somalia to Senegal and Guinea, reflect African culture**.
+
+Run the 7-item checklist ✓ or ✗ in the book's way. The closing exercises are explanation questions — answered in full sentences, not single words; their printed numbering **skips item 6**, a slip the book carries and this course records rather than repairs. Their stock sits in this part's questions.
+
 ## Say it to your companion
 
 Tell your companion the lesson in your own words: the Grade 8 book sorts performing art's benefits to society into three: the aesthetic, the cultural (national) and the psychological. Then let your companion ask you one question about any part of it, and answer from the lesson.

@@ -17,3 +17,27 @@ Pick the one right answer.
 **4. (Sub lesson 4)** Which people first used tempera?
   a) The ancient Egyptians b) The ancient Greeks c) Modern factories
 **Answer: a) The ancient Egyptians** — tempera was first used by the ancient Egyptians.
+
+**5. (Sub lesson 5)** The two qenet named in Grade 7 Chapter 2's aims are…
+  a) Bati and Tizta b) Major and minor c) G and F
+**Answer: a) Bati and Tizta** — singing in the Bati and Tizta qenet — the aims' own pair.
+
+**6. (Sub lesson 5)** This lesson keeps which Chapter 2 aim?
+  a) Painting and printing techniques b) Performing traditional dance c) Creating film ideas
+**Answer: a) Painting and printing techniques** — paints one by one is this lesson's ground.
+
+**7. (Sub lesson 6)** In the book's matching, carving is paired with…
+  a) Cutting and chipping away b) Pressing c) Long drying
+**Answer: a) Cutting and chipping away** — carving ↔ cutting/chipping — the exercise's first pair.
+
+**8. (Sub lesson 6)** Oil paint is matched with…
+  a) Its long drying time b) Rubbing c) Being seen from the front only
+**Answer: a) Its long drying time** — oil ↔ long drying.
+
+**9. (Sub lesson 6)** Printing is matched with…
+  a) Pressing b) Rubbing c) Cutting away
+**Answer: a) Pressing** — printing ↔ pressing — the image is pressed onto its surface.
+
+**10. (Sub lesson 6)** Charcoal, pastel and crayon are matched with…
+  a) Rubbing b) Pressing c) Long drying
+**Answer: a) Rubbing** — the dry media ↔ rubbing.

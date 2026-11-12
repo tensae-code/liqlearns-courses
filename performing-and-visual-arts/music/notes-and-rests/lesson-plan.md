@@ -15,6 +15,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **The quarter note and the quarter rest** — a filled note head with a stem, 1 beat; the quarter rest, 1 silent beat.
 4. **All the signs together, and the Note-Values Song** — notes sound, rests are silent — same counting; the song ሙዚቃ አጠናለሁ (I Study Music) sings the three values.
 
+5. **The Grade 4 chapter opens — notes, colours, shapes, theatre and photographs (chapter opening — Grade 4)** — the Grade 4 book's Chapter 1 opener and aims: apply simple-beat notes with body movement, perform simple-beat songs and traditional dances, tell colours apart, distinguish shapes and forms by colour, grasp what theatre art is, and read photo compositions (Grade 4, printed p. 1).
+
+6. **The Grade 4 chapter closes — beat, notes, shapes, colours and photographs (chapter closing — Grade 4)** — the Grade 4 book's Chapter 1 summary and closing exercise: 15 items mixing beat, notes vs rests, shape vs form, colour and photo formats (Grade 4, printed pp. 20–21).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

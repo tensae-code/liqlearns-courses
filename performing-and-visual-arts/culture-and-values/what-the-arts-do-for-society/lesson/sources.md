@@ -29,6 +29,10 @@ countries: Ethiopia
 | Sub lesson 10 — Current issues sung and pictured — the Grade 7 set | Grade 7 Student Textbook, §5.4 The Traffic Light chant, printed p. 163; §5.4 The Plants chant, printed pp. 164–165; §5.4 Climate change pictured (Fig. 8), printed p. 168 |
 | Sub lesson 11 — Performing art's benefits — the opener; art for current issues | Grade 8 Student Textbook, §4.1 Performing art's benefits — opener, printed p. 105; §5.2 Linking art with current issues, printed pp. 134–135 |
 | Sub lesson 12 — Arts make content easy; art, the chief tool; the issue list | Grade 5 Student Textbook, §5.1.1 Arts make content easy, printed pp. 119–120; §5.2 Teaching current issues through art, printed p. 125; Grade 7 Student Textbook, §5.3.1 Music helping teach other subjects, printed pp. 160–161; §5.4 Current issues, printed p. 162 |
+| Sub lesson 13 — The Grade 4 chapter opens (chapter opening — Grade 4) — G4S-47 | Grade 4 Student Textbook, Ch. 3 chapter opener and aims (opening fold), printed p. 45 |
+
+| Sub lesson 14 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-65 | Grade 4 Student Textbook, Ch. 3 summary and closing exercise (closing fold), printed pp. 63–64 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The harmful-practices material is taught as the books place it — harmful practices named for their health effects, and art's role in changing them; no practice is described beyond the placements' own words. 'Art for Current Issues' in Grades 7–8 is taught from the student books' own chapter and pages (Grade 7 Ch. 5's theme is set by its placement; Grade 8's issues are read in its student book at pp. 134–135) — the truncated Grade 7–8 teacher guides' corresponding units are not used as evidence for this lesson, which rests on pupil-taught books only.

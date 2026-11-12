@@ -16,3 +16,6 @@ Sub lesson 4 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 5 — Comparing the two families — the Grade 8 matching
 Sub lesson 5 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 8 book compares visual and performing art side by side — match each art to how it expresses (Grade 8, printed p. 108).
+
+## Sub lesson 6 — The Grade 6 chapter opens — what art is (chapter opening — Grade 6)
+Sub lesson 6 questions from the type files. Pass mark: the learner can list the Grade 6 Chapter 1 aims and name the lesson that keeps each one.

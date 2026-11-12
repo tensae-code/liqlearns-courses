@@ -25,3 +25,19 @@ a) aesthetic, cultural (national), psychological  b) economic, military, legal  
 **6. (Sub lesson 3)** The benefits opener calls performing arts branches enabling —
 a) a successful life and a good way of living for the community  b) only individual fame  c) nothing
 **Answer: a) a successful life and a good way of living for the community** — the opener frames the whole set.
+
+**7. (Sub lesson 4)** Grade 8 Chapter 4 asks learners to compare performing arts' function with…
+  a) Visual arts' function b) Farming's function c) Trade's function
+**Answer: a) Visual arts' function** — compare performing and visual arts' function.
+
+**8. (Sub lesson 4)** For monuments and handcraft works, learners must identify making materials and grasp…
+  a) The messages they transmit b) Their market prices c) Their owners' names
+**Answer: a) The messages they transmit** — materials AND transmitted messages — the aims' pair.
+
+**9. (Sub lesson 5)** Performing art's three benefits, gathered in the summary, are…
+  a) Aesthetic, national and psychological b) Economic, legal and military c) Physical, chemical and biological
+**Answer: a) Aesthetic, national and psychological** — this lesson's own three benefits, as the summary gathers them.
+
+**10. (Sub lesson 5)** Music, in the summary, documents…
+  a) The community's history b) Only its own notes c) Market prices
+**Answer: a) The community's history** — music found in very varied contexts, documenting the community's history.

@@ -34,3 +34,19 @@ Pick the one right answer.
 **8. (Sub lesson 4)** After the printed row, the reader…
   a) Substitutes their own letters and reads on b) Stops reading for the day c) Erases the beat instrument
 **Answer: a) Substitutes their own letters and reads on** — own letters, same reading — the skill transfers.
+
+**9. (Sub lesson 5)** In Grade 6 Chapter 2's pre-talk, a beat is first shown by…
+  a) Clapping and kebero strokes b) Reading a poster c) Drawing a staff
+**Answer: a) Clapping and kebero strokes** — the pre-talk's own examples — show a kebero beat you know.
+
+**10. (Sub lesson 5)** Beats in this chapter are read where?
+  a) Written outside the staff, with varied time signs b) Only inside songs' words c) Nowhere — beats are never written
+**Answer: a) Written outside the staff, with varied time signs** — read beats written outside the staff — this lesson's own ground.
+
+**11. (Sub lesson 6)** The book's examples for high and low pitch are…
+  a) Women's thin voices (high, G clef) and men's thick voices (low, F clef) b) Children's voices for both c) Instruments only, never voices
+**Answer: a) Women's thin voices (high, G clef) and men's thick voices (low, F clef)** — the summary's own examples.
+
+**12. (Sub lesson 6)** The Chapter 2 closing exercise's performance tasks ask learners to…
+  a) Play the numbered rhythmic sight-readings with a beat instrument, and sing the three staff melodies alone and in groups b) Only copy definitions c) Draw the staff
+**Answer: a) Play the numbered rhythmic sight-readings with a beat instrument, and sing the three staff melodies alone and in groups** — the exercise's own performance half.

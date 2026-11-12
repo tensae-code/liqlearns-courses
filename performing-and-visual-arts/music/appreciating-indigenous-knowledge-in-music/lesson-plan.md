@@ -15,6 +15,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Exercise 4.2 — appreciating the traditional instruments** — the instruments themselves appreciated: their making, materials and makers honoured as indigenous knowledge.
 4. **The guide's appreciation teaching (teacher guide — evidence)** — the Grade 6 guide's Chapter 4 side: how the teacher leads appreciation of indigenous knowledge — evidence, labelled.
 
+5. **The Grade 6 chapter opens — appreciating indigenous knowledge (chapter opening — Grade 6)** — the Grade 6 book's Chapter 4 opener and aims: appreciate indigenous knowledge through visual art, through theatre/film/photography, in melodies and poems, and by eskista; know traditional instruments as products of indigenous knowledge (Grade 6, printed p. 85).
+
+6. **The Grade 6 chapter closes — honouring the knowledge and its owners (chapter closing — Grade 6)** — the Grade 6 book's Chapter 4 summary, its TWO self-check tables (music and visual strands separated) and its closing exercise — 10 true/false and 2 performance answers (Grade 6, printed pp. 95–98).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

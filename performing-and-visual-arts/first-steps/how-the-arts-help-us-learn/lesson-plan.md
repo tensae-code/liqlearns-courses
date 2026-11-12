@@ -53,6 +53,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 19. **Art relates to every subject — the Grade 8 chapter set** — the Grade 8 book's Chapter 5 opening set: art as expression of what we see, hear and wish; performing art with social science, with mathematics (its time indicators), and with language (Grade 8, printed pp. 121–127).
 
+20. **The Grade 4 chapter closes — the arts inside every subject (chapter closing — Grade 4)** — the Grade 4 book's Chapter 5 summary and closing exercise: 13 items — shapes counting quantities, sense organs in drama, song expressing cleanliness, posters for flood and deforestation teaching, and the name 'pattern' (Grade 4, printed pp. 97–99).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

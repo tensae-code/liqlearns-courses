@@ -15,6 +15,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **The eight paints, part one: oil, watercolour, acrylic, gouache** — oil's slow drying and knife work; watercolour's flow; acrylic on card, wood, metal and ceramics; gouache, water-mixable and fast-drying (Grade 7, printed pp. 36–39).
 4. **The eight paints, part two: tempera, crayon, pastel, charcoal** — tempera from ancient Egypt; crayon, pastel and charcoal — the stick paints, applied by rubbing (Grade 7, printed pp. 40–42).
 
+5. **The Grade 7 chapter opens — painting, printing, music and stage (chapter opening — Grade 7)** — the Grade 7 book's Chapter 2 opener and aims: painting and printing techniques, reading music, performing traditional dance, creating theatre/film ideas — and singing in the Bati and Tizta qenet (Grade 7, printed p. 33).
+
+6. **The Grade 7 chapter closes — paints, printing and qenet (chapter closing — Grade 7)** — the Grade 7 book's Chapter 2 self-check table, summary and closing exercise — 6 matching items, 2 fill-ins and 6 short answers, including building G-major Tizta and D-major Bati on the staff (Grade 7, printed pp. 71–74). The qenet-building items also sit in the qenet lesson.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

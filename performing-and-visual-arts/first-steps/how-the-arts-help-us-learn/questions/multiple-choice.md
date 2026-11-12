@@ -145,3 +145,11 @@ a) relates to every subject  b) relates to none  c) replaces every subject
 **36. (Sub lesson 19)** In the mathematics part, the notes' time values stand as —
 a) indicators — counting made audible  b) decorations  c) secrets
 **Answer: a) indicators — counting made audible** — time values are the maths indicators in performance.
+
+**37. (Sub lesson 20)** Flat shapes arranged in order are called, in the Grade 4 book's closing words, a…
+  a) Pattern b) Paragraph c) Poster
+**Answer: a) Pattern** — the exercise fixes the name 'pattern' for ordered flat shapes.
+
+**38. (Sub lesson 20)** A poster against deforestation is the arts working inside which learning?
+  a) Caring for the land and environment b) Counting money c) Map reading only
+**Answer: a) Caring for the land and environment** — the exercise's posters teach against flood and deforestation.

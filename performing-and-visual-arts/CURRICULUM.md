@@ -168,6 +168,17 @@ lessons are the books'.
   the book's own ተስፈኛዋ ተማሪ "The Hopeful Student"; ሰላም is
   the Grade 8 book's play — both taught as summaries.
 
-**The whole course stands at 159 lessons, 2,345 questions and
+- **PVA FIX — audit close-out, Band E (chapter furniture,
+  Grades 4–8) — BUILT 2026-11-12:** the last audit group
+  closed: all 53 chapter-furniture placements stocked — the
+  chapter openers/aims, summaries, ✓/✗ self-check tables and
+  closing exercises of the Grade 4–8 books, folded into 30
+  lessons as 41 labelled "(chapter opening / closing —
+  Grade N)" fold sub lessons plus topic-distributed question
+  stock, 213 questions added, no existing gates renumbered.
+  The Grade 5 can-do self-check mechanic (printed pp. 38–39)
+  is stocked in all five Grade 5 chapter-lead lessons.
+
+**The whole course stands at 159 lessons, 2,558 questions and
 199 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.

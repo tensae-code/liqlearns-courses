@@ -6,6 +6,8 @@ countries: Ethiopia
 
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
+**Book 3:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 4)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a photograph is: the image of a person, landscape or object obtained using a photo camera; learners show photographs found in their area, look at the book's photographs and tell what they understood (Exercise 1.4) | Book 1, §1.4–1.4.1, printed p. 7 |
@@ -16,6 +18,8 @@ countries: Ethiopia
 | Sub lesson 4 — Photographs set 4: Figure 1.4.7, Bete Giyorgis (the rock-hewn church of St George, Lalibela); Figure 1.4.8, the Axum obelisk/stele standing among ruins; Figure 1.4.9, Emperor Fasilides' castle at Gondar | Book 1, printed p. 11 |
 | Sub lesson 4 — Sof Omar and the Blue Nile Falls: Drawing 19, two photographs — the Sof Omar cave (a cave entrance in rock) and the Tis Abay Falls (a wide waterfall); activity — say which of the photographs pleased you | Book 2, printed p. 68 |
 | Sub lesson 5 — Appreciating photographs: Figure 4.4, various photographs (girls in white festival dress in a group photo; black jebena coffee pots; a large festival crowd in a town square; a road through a gorge; a rock-hewn church landscape); Activity 4.4 — say what you understood from the photographs | Book 1, §4.4, printed pp. 68–69 |
+
+| Grade 4 Ch. 1 closing exercise — photo-format items (G4S-21) (question stock, Sub lesson 5) | Grade 4 Student Textbook, Ch. 1 closing exercise, printed pp. 20–21 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

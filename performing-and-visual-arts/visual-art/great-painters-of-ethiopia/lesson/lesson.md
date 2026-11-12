@@ -22,6 +22,28 @@ The Grade 7 guide widens the hall. **Afewerk Tekle** again — his stained glass
 
 Ethiopia's own **Ge'ez written tradition** is unique in sub-Saharan Africa. Its book is the **codex** (mäshaf, made of branna — parchment): **folded parchment leaves gathered in gatherings, sewn, and covered**. Sizes run from pocket books to volumes over 45 cm tall, and the writing is older than the literature — it begins on epigraphic monuments, carved inscriptions. The painters' art and the scribes' art grew in the same books: a manuscript page can carry Ge'ez script and a painted miniature side by side.
 
+## Sub lesson 5 — The roll of great painters (Grade 7)
+
+Here is the book's own roll of the modern-style changemakers — learn it whole: **Agegnehu Engida, Afewerk Tekle, Gebre Kristos Desta, Shanbel Lema Guya, Eskinder Bogossian, Zerihun Yetimgeta, Getachew Yosef, Ale Felege Selam, Eshetu Tiruneh, Tadesse Mesfin, Tadesse Belayneh, Bekele Mekonnen, Mezgebu Tesema, Desta Hagos, Emebet Aweke**, and others. Four of them the book studies in depth; the next sub lessons meet two the course had missed.
+
+## Sub lesson 6 — Agegnehu Engida (1905–1950 E.C.)
+
+**Agegnehu Engida** was born at Mahdere Mariam, Gondar. He was among the students Haile Selassie sent abroad, and studied painting in **Paris** for about eight years. He is known for the **designs on Ethiopia's birr notes**, the old parliament paintings and church wall paintings; he painted at the **Holy Trinity Cathedral** (built 1924 E.C. as a mausoleum for patriots), held exhibitions, and in 1941 E.C. served as art-centre coordinator in the Education Ministry. He was also a begena player and a poet — and he is the **only Ethiopian painter whose work appears on a birr note**. His works unite subtlety and modernity, yet are 'fully Ethiopian'; Kebede Mikael presented him among great people. He died in 1950 E.C., aged 45, in unknown circumstances.
+
+## Sub lesson 7 — Shanbel Lema Guya (1921–2013 E.C.)
+
+**Shanbel Lema Guya**, Hon. Dr Laureate Artist, was born Nehase 12, 1921 E.C. at Dello kebele, Ada'a Liben woreda, former East Shewa — his mother Mare Gobena was a handcraft expert, and as a child he followed her into **clay sculpture** rather than only playing. His mother also painted human and animal pictures on their house walls with mixed coloured soils.
+
+His turning point: he made a **wooden aeroplane model**, painted in colours, and showed it to Emperor Haile Selassie on his weekend visits to Bishoftu. The amazed emperor asked what he wanted; Lema asked to join the **Air Force**, and it was granted. After Air Force service and police-cadet training (graduated with high results, 1950 E.C.), he studied painting at the Italians' art school in **Asmara**, paying from his salary — portrait, landscape and still life.
+
+His style is naturalistic; he is known for depicting the nations' and peoples' dress and ways of life, and for many paintings on leather. Titled works: 'የሸክላ ገበያ' (The Pottery Market), 'የደንከል ልጃገረድ', 'ቋንጣ', 'አቦል ቡና', 'እሬቻ', 'ዋርካ'. His saying: **'ይህቺ ናት አገሬ፤ ይህቺ ናት ኢትዮጵያ' — 'This is my country; this is Ethiopia.'** He died Tikimt 21, 2013 E.C., aged 92.
+
+## Sub lesson 8 — Afewerk's London road; Gebre Kristos the poet-painter (Grade 7)
+
+**Afewerk Tekle** (born Tikimt 13, 1925 E.C., Ankober, North Shewa) was at 15 (1940 E.C.) chosen to go to **London for engineering**. The emperor's farewell advice, which he always recalled: study hard and return with knowledge to build Ethiopia — not to report how tall Europe's buildings are. He excelled in maths, chemistry and history; his teachers recognised the visual-art gift, and he enrolled in a London **art school** instead. On return he travelled region to region — up to three months in a place — studying the nations' history, culture and customs: 'my work will be world property, but flavoured with Africanness.' Offered a minister post, he declined it to focus on visual art. First exhibition at 22 (1946 E.C.) at Addis Ababa municipality; with its income, two years' deep study in Italy, France, Spain, Portugal, Britain and Greece — studying ancient Ethiopian parchment manuscripts held abroad, and learning stained glass and mosaic. His works include the St George (Menagesha) Cathedral wall and ceiling paintings and mosaics, a painting of Haile Selassie's coronation ceremony, and the Lij Ras Mekonnen statue in Harar.
+
+**Gebre Kristos Desta** (1924–1973 E.C.), painter and poet (ሠዓሊና ባለቅኔ), was born Tikimt 5, 1924 E.C. at Harar. He widely introduced the **abstract (ረቂቅ)** modern painting manner in Ethiopia, expressing the country's and its people's life in works of mostly geometric content; he exhibited at home and across the world, received the Haile Selassie I Prize Trust's special award in 1958 E.C., and as a teacher (1955–1967 E.C.) produced many of today's renowned painters. In the Derg era he left in exile (Meskerem 1971 E.C.) and died Megabit 21, 1973 E.C., aged 49, in Oklahoma, USA.
+
 ## Say it to your companion
 
 Introduce one painter to your companion as if they were entering the room: name, birthplace, one work, one reason Ethiopia honours them.

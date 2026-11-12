@@ -21,3 +21,11 @@ a) a waterfall  b) the rock-hewn church of St George at Lalibela  c) a cave entr
 **5. (Sub lesson 5)** Appreciating a photograph, you say —
 a) only its price  b) what you understood from it and what you feel  c) nothing — photographs cannot be appreciated
 **Answer: b)** — look slowly, say what you see, say what you feel.
+
+**6. (Sub lesson 5)** A photograph of a child's face and shoulders, taller than it is wide, is in which format?
+  a) Vertical (portrait) format b) Square format c) Landscape format
+**Answer: a) Vertical (portrait) format** — the chapter's photo compositions name the vertical portrait format.
+
+**7. (Sub lesson 5)** A wide photograph of countryside is in which format?
+  a) Landscape format b) Vertical format c) Square format
+**Answer: a) Landscape format** — the wide countryside photograph is the landscape format.

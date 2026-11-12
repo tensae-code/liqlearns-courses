@@ -31,3 +31,12 @@ Answer in a short sentence of your own.
 
 **10. (Sub lesson 10)** What standing do the G7 and G8 guide parts have in this lesson?
 **Answer:** Teacher-guide evidence — labelled so; the pupil book teaches, the guides evidence.
+
+**11. (Sub lesson 16)** Do it on the staff: build G-major in Tizta, as the Grade 7 exercise directs. What have you built when it is done?
+**Answer:** The G-major scale ordered by the Tizta qenet, written on the staff — the exercise's own building item, done in this lesson's qenet work.
+
+**12. (Sub lesson 16)** Do it on the staff: build D-major in Bati, as the Grade 7 exercise directs.
+**Answer:** The D-major scale ordered by the Bati qenet, written on the staff.
+
+**13. (Sub lesson 16)** I can… read music in which two qenet, per the Grade 7 Chapter 2 self-check?
+**Answer:** Tizta and Bati — applying written notes, rests and beats in both.

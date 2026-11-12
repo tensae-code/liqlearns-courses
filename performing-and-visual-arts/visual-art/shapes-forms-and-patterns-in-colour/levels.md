@@ -16,3 +16,6 @@ Sub lesson 4 questions from the type files. Pass mark: state the message of one 
 
 ## Sub lesson 5 — Perceiving and practising in our locality (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: say where this practice happens and what the class does there.
+
+## Sub lesson 6 — Corridors and colour composition (Grade 4)
+Pass mark: describe the two plates — the line-and-colour veranda (Fig. 5.13) and the geometric forms composed by placed corridors (Fig. 5.14) — and say how a corridor can be both a shape and a pattern.

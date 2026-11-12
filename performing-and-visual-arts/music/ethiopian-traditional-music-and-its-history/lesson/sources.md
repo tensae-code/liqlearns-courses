@@ -28,6 +28,10 @@ countries: Ethiopia
 | Sub lesson — music, instruments and dance in history; how instruments developed | Grade 8 Student Textbook, printed pp. 12–15 |
 | Sub lesson — the modern-instruments contrast, Grade 7 telling | Grade 7 Student Textbook, printed pp. 92–94 (§3.3 opening) |
 
+| Sub lesson 8 — The Grade 8 chapter opens (chapter opening — Grade 8) — G8S-64 | Grade 8 Student Textbook, Ch. 3 chapter opener and aims (opening fold), printed p. 79 |
+
+| Sub lesson 9 — The Grade 8 chapter closes (chapter closing — Grade 8) — G8S-81 | Grade 8 Student Textbook, Ch. 3 summary, checklist and closing exercises (closing fold), printed pp. 99–103 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Musicians' and singers' names and dates are given exactly as the Grade 7 guide gives them (for example the 1924 Jerusalem Armenian orphan band and the orchestras of 1935, 1936 and 1947); where the guide argues a point — that Saint Yared's system predates Haydn, Mozart and Beethoven — the lesson reports it as the guide's argument, not as a settled world fact. No chant, song or fukera text is transcribed anywhere in this lesson.

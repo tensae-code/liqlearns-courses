@@ -28,6 +28,8 @@ countries: Ethiopia
 | Sub lesson 1 — Setting, character and theme — the seven-element list | Grade 7 Student Textbook, §1.3.1, printed p. 25 |
 | Sub lesson 6 — Elements and genres of theatre in the guides — the Grade 6 guide's theatre section (teacher guide — evidence) | Grade 6 Teacher Guide, §1.3, printed pp. 19–26 (teacher guide — evidence) |
 
+| Grade 6 Ch. 1 self-check + closing exercise — theatre/film items (G6S-37/G6S-38) (question stock, Sub lesson 11) | Grade 6 Student Textbook, Ch. 1 self-check table one + closing exercise, printed pp. 30–32 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.

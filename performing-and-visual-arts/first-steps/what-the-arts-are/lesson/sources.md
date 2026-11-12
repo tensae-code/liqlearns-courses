@@ -17,6 +17,8 @@ countries: Ethiopia
 
 | Sub lesson 4 — The two families restated — the Grade 6 opening | Grade 6 Student Textbook, Introduction — the two families restated, printed pp. 1–2 |
 | Sub lesson 5 — Comparing the two families — the Grade 8 matching | Grade 8 Student Textbook, §4.2 Comparing visual and performing art, printed p. 108 |
+| Sub lesson 6 — The Grade 6 chapter opens (chapter opening — Grade 6) — G6S-02 | Grade 6 Student Textbook, Ch. 1 chapter opener and aims (opening fold), printed p. 1 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The two families are stated in the books' own summaries: Grade 2 (printed p. 21) names visual arts as drawing and photograph and performing arts as music, dance, theatre and drama; Grade 3 (printed p. 17) adds film and video to the visual branch. The lesson teaches both statements, in that order, and does not add any art neither book names.

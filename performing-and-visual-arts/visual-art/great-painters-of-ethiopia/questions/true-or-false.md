@@ -13,3 +13,7 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** Manuscript sizes run from pocket books to volumes over 45 cm.
 **Answer: True**
+
+**5.** (Sub lesson 5) Shanbel Lema Guya's name is on the Grade 7 roll. **Answer: True.**
+
+**6.** (Sub lesson 8) Afewerk accepted the minister post offered on his return. **Answer: False** — he declined it to focus on visual art.

@@ -15,6 +15,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Off-staff melodies** — Exercise 2.1 part 2: melodies read off the staff by their letters, played with beat instruments — and never memorised by their words.
 4. **Sol-fa rows** — Exercise 2.1 part 3: read half-note sounds naming do re mi fa sol la, with a beat instrument; then substitute your own letters.
 
+5. **The Grade 6 chapter opens — reading pitch, beat and melody (chapter opening — Grade 6)** — the Grade 6 book's Chapter 2 opener and aims: read high/low pitches on both clefs, read beats written outside the staff, read simple melodies on the staff, sing high and low — and the chapter's pre-talk on the beat (Grade 6, printed p. 33).
+
+6. **The Grade 6 chapter closes — beat-reading, composition and still life (chapter closing — Grade 6)** — the Grade 6 book's Chapter 2 summary, its TWO self-check tables (visual and music strands separated) and its closing exercise — written answers plus rhythmic sight-reading and singing performance tasks (Grade 6, printed pp. 60–64). Visual-strand stock also sits in the making lesson.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

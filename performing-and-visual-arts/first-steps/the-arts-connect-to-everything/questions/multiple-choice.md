@@ -41,3 +41,43 @@ a) spectrum-colour creation, natural forms and colour-combination reactions  b) 
 **10. (Sub lesson 7)** The spectrum's colour order begins —
 a) red, orange, yellow, green…  b) green, red, black…  c) in no order
 **Answer: a) red, orange, yellow, green…** — the prism spreads the colours in that order.
+
+**11. (Sub lesson 8)** In Grade 6 Chapter 5's aims, heritage, health and the forest's importance are learned through…
+  a) Chant b) Posters only c) Silent reading
+**Answer: a) Chant** — learn about them through chant — the opener's own vehicle.
+
+**12. (Sub lesson 8)** Visual works, in the aims, contribute to…
+  a) Protecting our heritage b) Replacing all books c) Nothing outside art class
+**Answer: a) Protecting our heritage** — visual works' contribution to protecting heritage.
+
+**13. (Sub lesson 9)** Music's relation with mathematics, in the summary, is…
+  a) Counting note durations and silences b) Drawing graphs c) Weighing instruments
+**Answer: a) Counting note durations and silences** — the summary's own relation.
+
+**14. (Sub lesson 9)** Music shapes good citizens, in the summary, through songs of…
+  a) Patriotism and family love b) Competition c) Trade
+**Answer: a) Patriotism and family love** — songs of patriotism and family love.
+
+**15. (Sub lesson 10)** Grade 7 Chapter 5's making aim is to decorate home and environment with…
+  a) Pottery and ceramic works b) Printed posters only c) Woven mats only
+**Answer: a) Pottery and ceramic works** — the opener's first aim.
+
+**16. (Sub lesson 10)** Art's role and benefit in which process must Chapter 5's learners understand?
+  a) The teaching process b) The building process c) The farming process
+**Answer: a) The teaching process** — art's role and benefit in teaching — the chapter's third aim.
+
+**17. (Sub lesson 12)** Art education's benefit, in Grade 8 Chapter 5's aims, is for teaching other subjects…
+  a) Easily b) Never c) Only in examinations
+**Answer: a) Easily** — its benefit for teaching other subjects easily.
+
+**18. (Sub lesson 12)** Current issues are to be made graspable by the community using…
+  a) Visual and performing arts b) Orders and fines c) Silence
+**Answer: a) Visual and performing arts** — the aims' own instrument for current issues.
+
+**19. (Sub lesson 13)** By visual and performing arts, which four subjects can easily be taught, per the summary?
+  a) Maths, language, natural science and social science b) Only music and drawing c) Law, medicine, engineering and trade
+**Answer: a) Maths, language, natural science and social science** — the summary's own four.
+
+**20. (Sub lesson 13)** The closing exercises ask for art's relation with current issues to be made in…
+  a) Pictorial explanation and chant b) A formal letter c) A price list
+**Answer: a) Pictorial explanation and chant** — the exercises' own making: picture and chant.

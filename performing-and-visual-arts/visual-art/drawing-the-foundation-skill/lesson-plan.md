@@ -17,6 +17,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 5. **Bigger and smaller on a grid; drawing what you see** — enlarge and reduce a picture cell by cell on a grid; imitation drawing — drawing a thing while looking at it (Grade 4, printed pp. 86 and 97).
 6. **The five basic skills of drawing (teacher guide — evidence)** — recognising edges, proportion, perspective, colour schemes, and putting the thought together; drawing from memory and from observation (Grade 9 teacher guide, Lessons 22–25, printed pp. 40–44).
 
+7. **Light and shadow in drawing (Grade 5)** — where light falls, shadow forms opposite — darken the shadow side, leave the lit side light.
+8. **Drawing a heritage work: the Lalibela practical (Grade 6)** — observe, draw, shade light and texture — the book's Lalibela church drawing practical.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

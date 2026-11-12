@@ -7,3 +7,9 @@ Sub lesson 1 questions from the type files. Pass mark: describe the Lalibelawoch
 
 ## Sub lesson 2 — Bands, theatres and the music's widening road
 Sub lesson 2 questions from the type files. Pass mark: tell the road tej house → theatre house → band as the book's history walks it, in three sentences.
+
+## Sub lesson 3 — The Grade 7 chapter opens — history and culture (chapter opening — Grade 7)
+Sub lesson 3 questions from the type files. Pass mark: the learner can list the Grade 7 Chapter 3 aims and say which lesson keeps each.
+
+## Sub lesson 4 — The Grade 7 chapter closes — check, summary and exercise (chapter closing — Grade 7)
+Sub lesson 4 questions from the type files. Pass mark: the learner can run the chapter's 6-item self-check, say where Task-1 and Task-2 live in this cluster, and answer exercise items over the chapter's history content.

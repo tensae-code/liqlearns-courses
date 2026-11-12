@@ -29,3 +29,19 @@ Pick the one right answer.
 **7. (Sub lesson 6)** The Grade 2 guide's making strand joins which two things?
   a) Decorating with materials, and drawing b) Singing, and dancing c) Filming, and printing
 **Answer: a) Decorating with materials, and drawing** — §2.4 joins decorating/beautifying with materials and drawing (መሳል).
+
+**8.** (Sub lesson 7) In drawing, roughness is made by —
+a) smudging only  b) cross-hatching lines or repeated dots  c) erasing
+**Answer: b) cross-hatching lines or repeated dots.**
+
+**9.** (Sub lesson 7) Which set is the book's smooth set?
+a) bark, brick, sacking  b) glass, cotton, soft wool  c) stone, thorn, gravel
+**Answer: b) glass, cotton, soft wool.**
+
+**10.** (Sub lesson 8) Ancient mosaic decorated temples and palaces with —
+a) coloured stones and pottery fragments  b) plastic tiles  c) printed posters
+**Answer: a) coloured stones and pottery fragments.**
+
+**11.** (Sub lesson 8) In paper mosaic, the papers must be stuck down —
+a) a week later  b) before the glue dries  c) without glue
+**Answer: b) before the glue dries.**

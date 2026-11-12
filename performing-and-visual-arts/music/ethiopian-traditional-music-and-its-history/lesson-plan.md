@@ -19,6 +19,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 6. **The Grade 7 and Grade 8 tellings: chant characters, definitions, and music as old as humankind** — G7: the chant types' characters (p. 91) and pp. 92–94; G8: traditional instruments defined as material heritage (p. 15); music as old as humankind and instruments' development (pp. 12–15).
 7. **The modern-instruments contrast (Grade 7 telling)** — Grade 7's modern-music opening set against the traditional craft — the contrast Modern Instruments teaches from Grade 8.
 
+8. **The Grade 8 chapter opens — culture and history (chapter opening — Grade 8)** — the Grade 8 book's Chapter 3 opener and aims: the cultural/historical origin of traditional instruments, dance and music; Ethiopia's ancient monument works; the benefits of Ethiopia's ancient handcraft works; expressing indigenous knowledge in theatre and film (Grade 8, printed p. 79).
+
+9. **The Grade 8 chapter closes — signals, animals, monuments and handcraft (chapter closing — Grade 8)** — the Grade 8 book's Chapter 3 summary, its ✓/✗ checklist (16 items) and its closing exercises — 14 questions, including the largest Axum monument's length in metres (Grade 8, printed pp. 99–103).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

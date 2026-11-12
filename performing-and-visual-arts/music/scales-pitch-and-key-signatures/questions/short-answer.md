@@ -22,3 +22,12 @@ Answer in a short sentence of your own.
 
 **7. (Sub lesson 7)** Name the poem-melody Exercise 2.2 reaches.
 **Answer:** “Our Historical Heritage”.
+
+**8. (Sub lesson 8)** I can… name, in order, the sounds from C to B that the exercise asks for.
+**Answer:** C, D, E, F, G, A, B — the seven sounds the ordering item names.
+
+**9. (Sub lesson 8)** I can… say what a key-signature sign does.
+**Answer:** It fixes sharps or flats for the whole piece at the staff's head, so those sounds are raised or lowered wherever they appear.
+
+**10. (Sub lesson 8)** Name the minor scale's place in the summary: how many kinds of minor does the chapter teach?
+**Answer:** Three kinds of minor — the summary names minor's three kinds.

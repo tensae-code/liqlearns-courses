@@ -37,3 +37,9 @@ Sub lesson 11 questions from the type files. Pass mark: the learner can do what 
 
 ## Sub lesson 12 — Arts make content easy; art, the chief tool; the issue list
 Sub lesson 12 questions from the type files. Pass mark: the learner can do what this part teaches, in their own words — the Grade 5 book: children learn concepts through song, melody, drawing and theatre — easily, and remembered long (pp. 119–120) — and art as chief tool for society's consciousness, with its urgent issues named (p. 125); the Grade 7 book: music helping teach other subjects (§5.3.1, pp. 160–161) and the current-issues list (§5.4, p. 162).
+
+## Sub lesson 13 — The Grade 4 chapter opens — what the arts mean for society (chapter opening — Grade 4)
+Sub lesson 13 questions from the type files. Pass mark: the learner can list the Grade 4 Chapter 3 aims and say, for one part of this lesson, which aim it keeps.
+
+## Sub lesson 14 — The Grade 4 chapter closes — culture, heritage and handicraft (chapter closing — Grade 4)
+Sub lesson 14 questions from the type files. Pass mark: the learner can define culture and heritage in the book's terms, name handicraft uses, and answer that heritage is expressed in song, drawing and dance — all.

@@ -33,6 +33,8 @@ countries: Ethiopia
 
 | Qenet teaching, Grade 8 depth (citation completed) | Grade 8 Student Textbook, printed p. 54 |
 
+| Grade 7 Ch. 2 self-check + closing exercise — qenet items (G7S-62) (question stock, Sub lesson 16) | Grade 7 Student Textbook, Ch. 2 self-check table + closing exercise, printed pp. 71–74 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Anchihoye practice songs named in the Grade 8 guide's answer key are placed by title and purpose only — no song is transcribed. The Grade 8 student book's four-qenet-from-intervals work is taught at the level its placement gives (the qenet rebuilt from interval theory) without inventing interval tables the placement does not print. Teacher-guide parts are labelled evidence; the qenet constructions themselves stand on the Grade 7 student book.

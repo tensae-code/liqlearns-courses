@@ -27,6 +27,15 @@ countries: Ethiopia
 | The Grade 5 closing exercise on staff reading (citation completed) | Grade 5 Student Textbook, printed pp. 81–83 |
 | Staff reading at Grade 5 guide depth (teacher guide — evidence; citation completed) | Grade 5 Teacher Guide, printed pp. 37–45 |
 
+| Sub lesson 8 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-46 | Grade 4 Student Textbook, Ch. 2 summary and closing exercise (closing fold), printed pp. 42–44 |
+
+| Sub lesson 9 — The Grade 5 chapter opens (chapter opening — Grade 5) — G5S-53 | Grade 5 Student Textbook, Ch. 2 chapter opener and aims (opening fold), printed pp. 44–45 |
+| Sub lesson 9 — The self-check mechanic, stocked in this chapter's lead lesson — G5S-02 | Grade 5 Student Textbook, the self-check checklist (የማገናዘቢያ ነጥቦች), first printed pp. 38–39 |
+
+| Sub lesson 10 — The Grade 8 chapter opens (chapter opening — Grade 8) — G8S-41 | Grade 8 Student Textbook, Ch. 2 chapter opener and aims (opening fold), printed p. 48 |
+
+| Sub lesson 11 — The Grade 8 chapter closes (chapter closing — Grade 8) — G8S-63 | Grade 8 Student Textbook, Ch. 2 summary, checklist and closing exercises (closing fold), printed pp. 74–78 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 5 book teaches the tempo word Allegretto as "very fast", above Allegro — a tempo-table matter kept in the music lesson on dynamics and tempo, not repeated here. The G clef's and F clef's stroke orders are taught as the Grade 4 placements describe the figures (the G clef rising from the second line; the F clef from the fourth line with its two dots around that line); no stroke order beyond the placements is claimed.

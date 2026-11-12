@@ -13,3 +13,8 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** The guide gives Dire Dawa as the home example of cave paintings.
 **Answer: True**
+
+**5.** (Sub lesson 5) Cave-dwelling humans painted on rock, wood and hides as well as cave walls. **Answer: True.**
+
+**6. (Sub lesson 7)** Appreciating prehistoric visual works is one of Grade 5 Chapter 3's aims.
+**Answer: True** — it stands in the opener's aim list.

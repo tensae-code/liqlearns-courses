@@ -31,6 +31,10 @@ countries: Ethiopia
 
 | Notes and rests at Grade 4 guide depth (teacher guide — evidence; citation completed) | Grade 4 Teacher Guide, printed pp. 1–9 |
 
+| Sub lesson 5 — The Grade 4 chapter opens (chapter opening — Grade 4) — G4S-03 | Grade 4 Student Textbook, Ch. 1 chapter opener and aims (opening fold), printed p. 1 |
+
+| Sub lesson 6 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-21 | Grade 4 Student Textbook, Ch. 1 summary and closing exercise (closing fold), printed pp. 20–21 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Notation diagrams in this lesson's pictures are drawn exactly as the placements describe the signs: whole note an open oval with no stem (4 beats), half note the open oval with a stem on its right side (2 beats), quarter note a filled head with stem (1 beat); whole rest a filled block hanging from a line (4 silent beats), half rest a filled block sitting on a line (2 silent beats), quarter rest its printed squiggle (1 silent beat). The Grade 3 book's whole-note diagram shows a dark oval head above its beat line while the Grade 2 book and the value tables teach the open oval; the lesson teaches the open oval, the form the definitions and the Grade 4 table agree on, and the Grade 3 wording is carried as the egg-shape and four-beat teaching. The Note-Values Song is placed by name and teaching content only; its words are not transcribed. No staff notation is taught in this lesson: the books' signs are learned as signs with values first, exactly as Grades 2–4 teach them.

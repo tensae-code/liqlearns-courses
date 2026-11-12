@@ -30,6 +30,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 12. **Arts make content easy; art, the chief tool; the issue list** — the Grade 5 book: children learn concepts through song, melody, drawing and theatre — easily, and remembered long (pp. 119–120) — and art as chief tool for society's consciousness, with its urgent issues named (p. 125); the Grade 7 book: music helping teach other subjects (§5.3.1, pp. 160–161) and the current-issues list (§5.4, p. 162).
 
+13. **The Grade 4 chapter opens — what the arts mean for society (chapter opening — Grade 4)** — the Grade 4 book's Chapter 3 opener and aims: grasp the arts' meaning and use, know their history with human civilisation, appreciate the country's art products, and imitate artworks (Grade 4, printed p. 45).
+
+14. **The Grade 4 chapter closes — culture, heritage and handicraft (chapter closing — Grade 4)** — the Grade 4 book's Chapter 3 summary and closing exercise: 15 items on culture and heritage definitions, handicraft uses, and how heritage is expressed (Grade 4, printed pp. 63–64).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

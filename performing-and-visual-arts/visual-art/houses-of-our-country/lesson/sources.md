@@ -11,6 +11,8 @@ countries: Ethiopia
 | Sub lesson 3 — Home ornaments, wooden goods, doors — and weapons as craft | Book 1, printed pp. 68–69 |
 | Sub lesson 4 — Exhibiting paintings and appreciating the other arts | Book 1, §4.2.1–§4.2.3, printed pp. 72–78 |
 
+| Sub lesson 5 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-79 | Grade 4 Student Textbook, Ch. 4 summary and closing exercise (closing fold), printed pp. 78–79 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The book's house and building plates are photographs; the lesson describes them only as their captions and placements describe them — highland against lowland building, the named church and mosque buildings — and invents no architectural detail beyond the placements.

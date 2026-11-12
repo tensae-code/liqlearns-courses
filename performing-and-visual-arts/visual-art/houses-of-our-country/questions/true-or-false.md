@@ -13,3 +13,6 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** Works are appreciated by content, form, colour and composition.
 **Answer: True**
+
+**5. (Sub lesson 5)** What can be appreciated, in the Grade 4 Chapter 4 summary, is only man-made things.
+**Answer: False** — the chapter appreciates the beauty and movement of man-made and natural things.
