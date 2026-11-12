@@ -572,3 +572,25 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - Creating a query in Access — `databases/creating-a-query-in-access/`
 - Query criteria — asking for exactly the records you want — `databases/query-criteria-asking-for-exactly-the-records-you-want/`
 - Queries across multiple tables — `databases/queries-across-multiple-tables/`
+
+**Band F4 — Grade 12 Unit 4 (Web Authoring), 19 new lessons:**
+
+- XML — marking up what data is — `internet-and-the-web/xml-marking-up-what-data-is/`
+- What XML is used for — `internet-and-the-web/what-xml-is-used-for/`
+- Parts of an XML document — declaration and DTD — `internet-and-the-web/parts-of-an-xml-document-declaration-and-dtd/`
+- Root, elements and data — the XML tree — `internet-and-the-web/root-elements-and-data-the-xml-tree/`
+- XML attributes and comments — `internet-and-the-web/xml-attributes-and-comments/`
+- Viewing XML — browser, text editor and XML Notepad — `internet-and-the-web/viewing-xml-browser-text-editor-and-xml-notepad/`
+- Well-formed XML — root, case and nesting rules — `internet-and-the-web/well-formed-xml-root-case-and-nesting-rules/`
+- Whitespace and entity references in XML — `internet-and-the-web/whitespace-and-entity-references-in-xml/`
+- Naming XML elements — and empty elements — `internet-and-the-web/naming-xml-elements-and-empty-elements/`
+- Attributes or elements? Carrying the same information two ways — `internet-and-the-web/attributes-or-elements-two-ways/`
+- Entities — declare once, reference by name — `internet-and-the-web/entities-declare-once-reference-by-name/`
+- DTD — the rulebook inside the document — `internet-and-the-web/dtd-the-rulebook-inside-the-document/`
+- HTML or XML? Telling the two markup languages apart — `internet-and-the-web/html-or-xml-telling-the-two-markup-languages-apart/`
+- XML — strengths and weaknesses — `internet-and-the-web/xml-strengths-and-weaknesses/`
+- Building an XML document — the college project — `internet-and-the-web/building-an-xml-document-the-college-project/`
+- Publishing a website — root, index and folders — `internet-and-the-web/publishing-a-website-root-index-and-folders/`
+- Hosting and domain names — putting a site on a server — `internet-and-the-web/hosting-and-domain-names-putting-a-site-on-a-server/`
+- Domain extensions — .com, .edu, .gov, .org, .mil, .net — `internet-and-the-web/domain-extensions-com-edu-gov-org-mil-net/`
+- HTTPS and SSL — how a site keeps visitors' information safe — `internet-and-the-web/https-and-ssl-keeping-visitors-information-safe/`

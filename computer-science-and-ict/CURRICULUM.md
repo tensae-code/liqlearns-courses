@@ -322,3 +322,28 @@ vs 3.7 captioned, "RDMS" for RDBMS, "Figure 314",
 student book followed). **Grade 11 now stands complete:
 84 new lessons across its six units** (plus one growth).
 The course now stands at 459 lessons.
+
+**Band F4 (Grade 12, Unit 4) — BUILT 2026-11-12:** 19 new
+lessons, 190 questions, 24 media filed (pictures/GIFs
+30900–30918, 30920–30924) — Web Authoring in the
+Internet and the Web title: XML from the ground up
+(structure not looks, document parts, the tree,
+attributes and comments, viewing XML, well-formed
+rules, whitespace and entities, naming and empty
+elements, attributes or elements, entities, DTD, HTML
+versus XML, strengths and weaknesses, and the college
+document project built in the book's stage order),
+then publishing a website (root, index and folders;
+hosting and domain names; extensions; HTTPS and
+SSL). Every XML example machine-parsed clean. Book
+errors taught corrected and named in sources: the
+p.119 disadvantages bullet claiming XML does not let
+users create their tags (contradicts the unit — not
+taught as fact), Figure 4.3's dropped ">" in closing
+tags, the bookstore <Book>/<book> case mix; the
+guide's "Web Development" unit name (the student
+book's "Web Authoring" used) and its drifted activity
+numbers (evidence filed by topic). Teacher evidence:
+why XML exists with the Ethiopian regions/cities
+example, corrected documents, publishing keyed on
+ethiopia.gov.et. The course now stands at 478 lessons.
