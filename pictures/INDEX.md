@@ -1233,3 +1233,44 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11100 | pictures/11100.webp | two population pyramids: wide-based and column-shaped | Social Studies — Population — Measuring Change |
 | 11101 | pictures/11101.webp | a balance scale in three states: people-heavy, balanced, resource-heavy | Social Studies — Population and Resources — Too Many, Too Few, Just Right |
 | 11102 | pictures/11102.webp | transport history: walker, pack animal, wooden cart, modern vehicles | Social Studies — Transport — Kinds of Transport |
+| 11000 | pictures/11000.webp | a three-band course map: geography, history, today | Social Studies — What Social Studies Is |
+| 11001 | pictures/11001.webp | a night sky over an Ethiopian village | Social Studies — The Universe and Space |
+| 11002 | pictures/11002.webp | a universe branching diagram | Social Studies — The Universe and Space |
+| 11003 | pictures/11003.webp | the Milky Way spiral, our place at the edge | Social Studies — The Universe and Space |
+| 11004 | pictures/11004.webp | the Proxima Centauri 4.3 light-year line | Social Studies — The Universe and Space |
+| 11005 | pictures/11005.gif | a light pulse racing past distance markers | Social Studies — Measuring Space — the Light-Year |
+| 11006 | pictures/11006.webp | a light-year multiplication staircase | Social Studies — Measuring Space — the Light-Year |
+| 11007 | pictures/11007.webp | the Sun with its temperatures and diameter | Social Studies — The Solar System — the Sun and Planets |
+| 11008 | pictures/11008.gif | planets moving on their orbit rings | Social Studies — The Solar System — the Sun and Planets |
+| 11009 | pictures/11009.webp | the eight planets in order | Social Studies — The Solar System — the Sun and Planets |
+| 11010 | pictures/11010.webp | the planets ranked by size | Social Studies — The Solar System — the Sun and Planets |
+| 11011 | pictures/11011.webp | comet, meteor and asteroid belt panels | Social Studies — Small Bodies and the Morning Star |
+| 11012 | pictures/11012.gif | a meteor streaking and burning out | Social Studies — Small Bodies and the Morning Star |
+| 11013 | pictures/11013.webp | the morning star at dawn | Social Studies — Small Bodies and the Morning Star |
+| 11014 | pictures/11014.webp | four eras of Earth's story in panels | Social Studies — Earth's Story in Four Eras |
+| 11015 | pictures/11015.gif | Pangaea breaking apart | Social Studies — Earth's Story in Four Eras |
+| 11016 | pictures/11016.webp | Earth third from the Sun | Social Studies — Earth — Place, Shape and Size |
+| 11017 | pictures/11017.webp | Magellan's route and the oblate shape | Social Studies — Earth — Place, Shape and Size |
+| 11018 | pictures/11018.gif | a viewpoint rising, the horizon widening | Social Studies — Earth — Place, Shape and Size |
+| 11019 | pictures/11019.webp | Earth's diameters and the 71/29 land-water pie | Social Studies — Earth — Place, Shape and Size |
+| 11020 | pictures/11020.gif | Earth spinning while orbiting | Social Studies — Movements — Rotation and Revolution |
+| 11021 | pictures/11021.webp | a half-lit Earth: morning, noon, midnight | Social Studies — Movements — Rotation and Revolution |
+| 11022 | pictures/11022.gif | the lit half sweeping across Earth | Social Studies — Movements — Rotation and Revolution |
+| 11023 | pictures/11023.webp | the perihelion and aphelion orbit | Social Studies — Movements — Rotation and Revolution |
+| 11024 | pictures/11024.webp | a four-position seasons diagram | Social Studies — Revolution and the Seasons |
+| 11025 | pictures/11025.gif | the overhead Sun sliding between the tropics | Social Studies — Revolution and the Seasons |
+| 11026 | pictures/11026.webp | a time-zone map with the +1/−1 rule | Social Studies — Time Zones |
+| 11027 | pictures/11027.webp | a three-step time-problem strip | Social Studies — Time Zones |
+| 11028 | pictures/11028.webp | the International Date Line | Social Studies — Time Zones |
+| 11029 | pictures/11029.webp | a plateau, plain, mountain and rift-valley strip | Social Studies — Landforms, Continents and Oceans |
+| 11030 | pictures/11030.webp | a map of the seven continents and five oceans | Social Studies — Landforms, Continents and Oceans |
+| 11031 | pictures/11031.webp | a cut-away Earth: crust, mantle, core | Social Studies — Inside the Earth |
+| 11032 | pictures/11032.webp | the four spheres in layers | Social Studies — The Earth's Four Spheres |
+| 11033 | pictures/11033.webp | direct against indirect sources of evidence | Social Studies — Inside the Earth |
+| 11034 | pictures/11034.webp | formation: filament, disc, rings | Social Studies — The Solar System — How It Formed |
+| 11035 | pictures/11035.gif | a spinning gas disc splitting into rings | Social Studies — The Solar System — How It Formed |
+| 11036 | pictures/11036.gif | tides rising and falling | Social Studies — Movements — Rotation and Revolution |
+| 11037 | pictures/11037.webp | high tide and low tide side by side | Social Studies — Movements — Rotation and Revolution |
+| 11038 | pictures/11038.webp | crust materials: the three rock families | Social Studies — Materials of the Crust |
+| 11039 | pictures/11039.gif | lava cooling and hardening | Social Studies — Materials of the Crust |
+| 11040 | pictures/11040.webp | a map of Ethiopia's rock regions | Social Studies — Rocks in Ethiopia |

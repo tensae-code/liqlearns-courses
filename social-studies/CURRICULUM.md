@@ -26,6 +26,14 @@ Grade 8 guide, and the acceptance reckoning.
 Building — Ethiopia Wave 3 (Social Studies, Grades 7–8).
 Band records land here as each band is built and verified.
 
+- **First Steps + Earth and Space — BUILT** (Grade 7 student
+  Chapter 1 + both books' way + teacher guide Unit 1): 16
+  lessons, 198 questions, pictures 11000–11040, 11 GIFs (all
+  frame-checked). Four guide-only lessons (solar system
+  formation, the four spheres, crust materials, rocks in
+  Ethiopia) stand on teacher-guide evidence only, counted
+  nowhere. The guide's garbled Activity 1.2 rotation key is not
+  taught and is disowned in the sources.
 - **Population, Transport and Maps — BUILT** (Grade 7 student
   Chapter 2 + teacher guide Unit 2): 20 lessons, 208 questions,
   pictures 11080–11102, GIFs 11088 + 11091 (both frame-checked).
