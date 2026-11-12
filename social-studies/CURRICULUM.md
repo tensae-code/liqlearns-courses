@@ -371,8 +371,22 @@ here as they land; counts are per band from the build logs.
   no workings in the placements — so it is NOT taught as worked
   answers; "Gross Domestic Service" corrected to Gross Domestic
   Saving in sources.
-- Bands A (G9), B (G10), C (G10 guide + G11 first part) and
-  E (G12 student) register here as they land.
+- **Band B — Grade 10 student** (54 created + 2 extended, 672
+  questions; pictures 24300–24355, GIFs 24400–24416): the
+  Grade 10 book stocked across the four titles, stacking
+  Grade 10 depth onto two Grade 9 lessons. The book's
+  References list is truncated at A–K (Keefer & Knack) —
+  carried as a record note in the road-map lesson's sources
+  and in About, NOT a teaching gap.
+- **Band C — Grade 10 guide + Grade 11 Units 1–3** (46 created
+  + 12 extended, 633 new questions; pictures/GIFs in
+  24600–24899): G11 placements 1–47 in full (cut line verified
+  against Band D's: D starts at placement 48, Unit 4, printed
+  p. 90 — the two halves meet exactly), plus the G10 guide's
+  evidence stacked into 12 standing lessons, including a
+  corrected surplus calculation and corrected Activity 4.1 key
+  figures, named in sources only.
+- Band E (G12 student) registers here as it lands.
 
 ## Ethiopia History Grade 11 + Grade 10 placements — built 2026-11-12 (Wave 4 History Band C; pictures 23100–23131 range)
 

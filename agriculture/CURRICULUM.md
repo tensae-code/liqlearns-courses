@@ -23,8 +23,17 @@ ethiopia-2026-11-11/build-logs/.
   pictures 26000–26027, GIFs 26028–26031 (drawn, looked at /
   frame-checked). Safety carried exactly as the books state it
   (silage exclusions, anthrax handling, veterinary guidance).
-- Bands A (G11 Units 1–4), C (Units 9–12), D (Units 13–16 +
-  guide) and E (Grade 12) register below as they land.
+- Bands A (G11 Units 1–4) and C (Units 9–12) register below;
+  Band D (Units 13–16 + guide) registers as it lands.
+- **Band E — Grade 12** (92 lessons, 1,380 questions; 15 per
+  lesson): the whole Grade 12 book — placements 2–90 built as
+  89 lessons (no two share a name, so nothing stacked), plus
+  3 guide-only standalone lessons carrying the 0-countries
+  line, among them the Minimum Learning Competencies and the
+  Grade 12 Syllabus lessons in Farm Business and Technology.
+  The guide's unit pedagogy summaries fold into the student
+  lessons' sources as labelled evidence rows. Pictures/GIFs
+  in 26600–26799 (drawn, looked at / frame-checked).
 - **Band C — Grade 11 Units 9–12** (29 lessons, 348 questions):
   the dairy unit in Livestock (11 — breeds, feeding, the
   lactation cycle, milk hygiene, cottage cheese and ghee, the

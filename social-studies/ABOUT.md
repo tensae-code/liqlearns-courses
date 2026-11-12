@@ -388,3 +388,17 @@ pedagogy frames — the frames Bands C–E built against.
 and the G12 peace coda (printed p. 261) are filed here as the
 books state them. **The G10 glossary** (printed pp. 231–236):
 the book's own word list for the modern-world titles.
+
+## Ethiopia, Economics Grades 10–11 — course shapes and the truncated references (student + guide evidence)
+
+**The Grade 10 course shape** (student book #1): the book's
+own road map of its units — the frame Band B built against.
+**The References truncation**: the Grade 10 student book's
+References list stops at A–K (it ends at Keefer & Knack).
+That is a record note about the book as printed, not a
+teaching gap; no lesson waits on it.
+
+**The Grade 11 course shape** (student book #1): the book's
+own map of its seven units, with the course-intro video the
+placement names — the frame Bands C and D built against,
+meeting at placement 48.

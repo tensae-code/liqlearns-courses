@@ -22,3 +22,14 @@ indigenous knowledge — Konso terracing, ethnoveterinary
 remedies, Gedeo protection, chuko and enset/kocho. The book's
 named course-intro picture (a four-arc road map) and intro
 video are course-level material held here.
+
+## Ethiopia, Agriculture Grade 12 — the book's own shape (student evidence)
+
+**A year of seventeen enterprises** (Grade 12 student book,
+placement 1): the book's own map of its seventeen enterprise
+units — the frame Band E built against. Its named course-intro
+picture (a road map of seventeen enterprise stalls) and intro
+video are course-level material held here. The Grade 12
+guide's Minimum Learning Competency list and Syllabus stand
+both as lessons (in Farm Business and Technology, on the
+0-countries evidence line) and as the record here.

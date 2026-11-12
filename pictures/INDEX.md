@@ -5348,3 +5348,249 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 23702 | pictures/23702.webp | Two-column hunt board: tangible (church, bridge, carved door) / intangible (festival, pottery craft, coffee ceremony) | Social Studies — Heritage hunt |
 | 23703 | pictures/23703.gif | Animated map: marker travels peacefully to Nekemte, banner rises — no battle | Social Studies — Kumsa Moreda |
 | 23704 | pictures/23704.gif | Animated town map: walker crosses, heritage stars light up one by one | Social Studies — Heritage hunt |
+| 24300 | pictures/24300.webp | an eight-unit road map from how a consumer chooses to starting a business | Social Studies — the-grade-10-economics-road-map |
+| 24301 | pictures/24301.webp | the same cup of coffee giving different satisfaction to different people | Social Studies — utility-and-consumer-choice |
+| 24302 | pictures/24302.webp | a total utility curve rising, flattening and falling, with the marginal utility curve crossing zero at the peak | Social Studies — total-and-marginal-utility |
+| 24303 | pictures/24303.webp | the marginal utility curve relabelled as a demand curve, beside a Birr 22 basket of bread and injera | Social Studies — consumer-equilibrium-and-the-demand-curve |
+| 24304 | pictures/24304.webp | a pupil ranking three lunch bundles first, second and third, without numbering satisfaction | Social Studies — ranking-choices-the-ordinal-approach |
+| 24305 | pictures/24305.webp | Amina's coffee stall with a price board, quantities falling as price rises | Social Studies — demand-schedules-curves-and-the-function |
+| 24306 | pictures/24306.webp | side-by-side diagrams — movement along a demand curve versus a shift of the whole curve | Social Studies — what-shifts-demand |
+| 24307 | pictures/24307.webp | three shoppers' baskets merging into one market basket | Social Studies — from-one-buyer-to-the-market-demand |
+| 24308 | pictures/24308.webp | a supply schedule rising with price from a minimum price where nothing is offered | Social Studies — supply-schedules-curves-and-the-function |
+| 24309 | pictures/24309.webp | a flooded field as the external-shock icon, beside a supply curve shifting under a tax and a subsidy | Social Studies — what-shifts-supply |
+| 24310 | pictures/24310.webp | sellers' supply curves stacking sideways into one market supply curve | Social Studies — from-one-seller-to-the-market-supply |
+| 24311 | pictures/24311.webp | a crowded stall in shortage beside a stall with unsold goods in surplus | Social Studies — market-equilibrium-shortage-and-surplus |
+| 24312 | pictures/24312.webp | the wheat equations set equal, solved step by step to price Birr 10 and quantity 50 kg | Social Studies — solving-for-equilibrium-with-equations |
+| 24313 | pictures/24313.webp | a rubber band stretched a little and a lot — weak and strong responses to the same pull | Social Studies — elasticity-how-strongly-quantity-responds |
+| 24314 | pictures/24314.webp | five demand curves from vertical to horizontal — the five cases of price elasticity | Social Studies — price-elasticity-of-demand |
+| 24315 | pictures/24315.webp | cola cans with a plus sign for substitutes, and a phone and SIM card with a minus sign for complements | Social Studies — cross-and-income-elasticity |
+| 24316 | pictures/24316.webp | sacks of coffee held in a store while the price is watched | Social Studies — elasticity-of-supply |
+| 24317 | pictures/24317.webp | a mill turning inputs in at one side and flour out at the other, beside one fixed hectare with a growing line of workers | Social Studies — the-production-function |
+| 24318 | pictures/24318.webp | a contour-style map of three isoquants, farther out meaning more output | Social Studies — isoquants-same-output-different-mixes |
+| 24319 | pictures/24319.webp | a bakery doubling everything and getting more than, exactly, and less than double the bread, in three panels | Social Studies — returns-to-scale |
+| 24320 | pictures/24320.webp | a rent bill that stays fixed beside a flour bill that grows with output | Social Studies — fixed-variable-and-total-cost |
+| 24321 | pictures/24321.webp | the four cost curves with marginal cost crossing AVC and ATC at their bottoms, and product and cost curves as mirror images | Social Studies — average-and-marginal-cost-curves |
+| 24322 | pictures/24322.webp | a spectrum bar from perfect competition to monopoly | Social Studies — market-structures-compared |
+| 24323 | pictures/24323.webp | a grain market with many stalls selling identical wheat, one small stall facing a price board it cannot change | Social Studies — perfect-competition |
+| 24324 | pictures/24324.webp | a single power line feeding a whole town, beside a total revenue hill with MR crossing zero at its peak | Social Studies — monopoly |
+| 24325 | pictures/24325.webp | a shelf of differently branded soaps, with monopoly and monopolistic-competition demand curves compared for steepness | Social Studies — monopolistic-competition |
+| 24326 | pictures/24326.webp | two large cement plants facing each other, and two telecom shops side by side on one street | Social Studies — oligopoly |
+| 24327 | pictures/24327.webp | savers on one side, borrowers on the other, a bank in the middle | Social Studies — financial-intermediaries-savers-to-borrowers |
+| 24328 | pictures/24328.webp | a timeline sorting financial instruments by maturity, with a T-bill bought at a discount and redeemed at full value | Social Studies — money-markets-and-capital-markets |
+| 24329 | pictures/24329.webp | three doors labelled deposit, contract and investment, beside a street of small finance shops | Social Studies — financial-institutions-and-the-rules-of-the-game |
+| 24330 | pictures/24330.webp | a banking timeline from the Bank of Abyssinia in 1905 flowering into many private banks after 1994 | Social Studies — history-of-banking-in-ethiopia |
+| 24331 | pictures/24331.webp | the central bank as referee and rule-maker, beside a CBE branch counter with its services listed | Social Studies — the-national-bank-and-commercial-banks |
+| 24332 | pictures/24332.webp | a Grameen-style circle of borrowers, five members guaranteeing each other | Social Studies — microfinance-and-group-lending |
+| 24333 | pictures/24333.webp | a phone, an ATM and a card as three doors into the same account, with two cards labelled your money and borrowed money | Social Studies — electronic-and-mobile-banking |
+| 24334 | pictures/24334.webp | a circle of neighbours paying into one pot, one member taking it home, beside an Iddir's stored tents and chairs | Social Studies — iqub-iddir-and-saccos-ethiopias-own-finance |
+| 24335 | pictures/24335.webp | four goal dials — trade, prices, growth, jobs | Social Studies — macroeconomic-goals-revisited |
+| 24336 | pictures/24336.webp | three sector bars changing height across decades, with a small growth circle inside a big development circle | Social Studies — measuring-economic-growth |
+| 24337 | pictures/24337.webp | Crusoe with a net versus Crusoe with a line, and four pillars holding up a living-standards roof | Social Studies — productivity-why-some-countries-are-rich |
+| 24338 | pictures/24338.webp | two villages with the same GDP per person drawn very unequally | Social Studies — what-gdp-misses |
+| 24339 | pictures/24339.webp | a wavy line crossing a straight trend line, labelled through its four phases | Social Studies — the-business-cycle |
+| 24340 | pictures/24340.webp | a three-panel timeline — monarchy, Derg, post-1991 | Social Studies — ethiopias-economy-three-systems-in-a-century |
+| 24341 | pictures/24341.webp | four labelled streams flowing into one GDP river | Social Studies — gdp-and-its-components-the-ethiopian-case |
+| 24342 | pictures/24342.webp | the same basket priced in two different years, and the two-dish table of kitfo and chumbo | Social Studies — real-vs-nominal-gdp-and-the-deflator |
+| 24343 | pictures/24343.webp | a dated pair of sector-share charts — 2006 picture versus 2019/20 — and a 65/25/10 split bar | Social Studies — agriculture-in-the-ethiopian-economy |
+| 24344 | pictures/24344.webp | a family mixed farm under two hectares beside a large mechanised Awash farm, to scale, with a camel herd crossing dry lowland | Social Studies — ethiopias-farming-systems |
+| 24345 | pictures/24345.webp | a beverage plant as the leading manufacturer and a textile bale stamped for export under AGOA, beside a factory line idle for want of a spare part | Social Studies — industry-in-the-ethiopian-economy |
+| 24346 | pictures/24346.webp | an Ethiopian Airlines plane as the flagship service exporter, beside a three-way sorting diagram of one town's services | Social Studies — services-in-the-ethiopian-economy |
+| 24347 | pictures/24347.webp | a farm road leading into a factory town | Social Studies — adli-agriculture-leading-industrialization |
+| 24348 | pictures/24348.webp | a lightbulb joined to a factory gear — idea plus doing — with four panels, one per innovation type | Social Studies — innovation-new-and-implemented |
+| 24349 | pictures/24349.webp | a film camera and a phone camera, before and after, beside a portrait wall of eleven innovators | Social Studies — creative-destruction |
+| 24350 | pictures/24350.webp | a rocket beside a steady shop — the startup and the small business | Social Studies — startups-vs-small-businesses |
+| 24351 | pictures/24351.webp | one shopkeeper who is owner, manager and till in one, two partners signing one agreement, and a company standing apart from its shareholders | Social Studies — forms-of-business-organisation |
+| 24352 | pictures/24352.webp | a small gate before a long road — feasibility before the plan — with the five questions as a checklist and a five-tab study booklet | Social Studies — feasibility-studies-and-business-plans |
+| 24353 | pictures/24353.webp | a balance scale with birr benefits on one side and birr costs on the other, and two piles of birr-notes compared | Social Studies — cost-benefit-analysis |
+| 24354 | pictures/24354.webp | a crowded one-hectare field at 15 workers, output no longer rising | Social Studies — total-average-and-marginal-product |
+| 24355 | pictures/24355.webp | the total product curve coloured in three stage bands, with AP and MP curves stacked below | Social Studies — the-three-stages-of-production |
+| 24400 | pictures/24400.gif | the banana table stepped through row by row as total utility climbs and marginal utility shrinks | Social Studies — total-and-marginal-utility |
+| 24401 | pictures/24401.gif | the price line sliding down the marginal utility curve as the chosen quantity grows | Social Studies — consumer-equilibrium-and-the-demand-curve |
+| 24402 | pictures/24402.gif | a demand curve shifting right and then left as each determinant changes | Social Studies — what-shifts-demand |
+| 24403 | pictures/24403.gif | three demand curves stacking sideways into the market demand curve | Social Studies — from-one-buyer-to-the-market-demand |
+| 24404 | pictures/24404.gif | a supply curve shifting left as a tax is added and right as a subsidy is added | Social Studies — what-shifts-supply |
+| 24405 | pictures/24405.gif | price arrows pushing an out-of-balance market back to the crossing point | Social Studies — market-equilibrium-shortage-and-surplus |
+| 24406 | pictures/24406.gif | one demand curve morphing through the five steepness cases of elasticity | Social Studies — price-elasticity-of-demand |
+| 24407 | pictures/24407.gif | sliding along one isoquant, trading machines for workers at a worsening rate | Social Studies — isoquants-same-output-different-mixes |
+| 24408 | pictures/24408.gif | the total product curve shifting up as a better seed variety arrives | Social Studies — returns-to-scale |
+| 24409 | pictures/24409.gif | tracing marginal cost falling then rising through its two crossings | Social Studies — average-and-marginal-cost-curves |
+| 24410 | pictures/24410.gif | birr flowing from depositors through the bank to a borrower and back as repayment | Social Studies — financial-intermediaries-savers-to-borrowers |
+| 24411 | pictures/24411.gif | one member unable to pay and the group covering the instalment together | Social Studies — microfinance-and-group-lending |
+| 24412 | pictures/24412.gif | the Iqub pot rotating from member to member, month by month | Social Studies — iqub-iddir-and-saccos-ethiopias-own-finance |
+| 24413 | pictures/24413.gif | sector shares morphing as an economy grows — agriculture shrinking, industry and services rising | Social Studies — measuring-economic-growth |
+| 24414 | pictures/24414.gif | riding the wave through the four labelled phases of the business cycle | Social Studies — the-business-cycle |
+| 24415 | pictures/24415.gif | stacking the benefit birr-notes and the cost birr-notes and comparing the piles | Social Studies — cost-benefit-analysis |
+| 24416 | pictures/24416.gif | workers added one by one as each one's extra quintals shrink, then turn negative | Social Studies — total-average-and-marginal-product |
+| 24600 | pictures/24600.webp | five labelled boxes joined as one financial system | Social Studies — financial-institutions-and-the-rules-of-the-game |
+| 24601 | pictures/24601.webp | three roads arriving at the same GDP town | Social Studies — gdp-and-its-components-the-ethiopian-case |
+| 24602 | pictures/24602.webp | a map of Ethiopia pinned with the named factories | Social Studies — industry-in-the-ethiopian-economy |
+| 24603 | pictures/24603.webp | a Kaizen workshop board in an Ethiopian factory | Social Studies — innovation-new-and-implemented |
+| 24604 | pictures/24604.webp | a street market and a home repair half-hidden under a not-counted watermark beside the official total | Social Studies — what-gdp-misses |
+| 24605 | pictures/24605.webp | a total-utility curve flattening while the marginal-utility steps beneath it shrink | Social Studies — cardinal-utility-and-the-consumers-optimum |
+| 24606 | pictures/24606.webp | three bundle pairs labelled prefers this, prefers that, indifferent | Social Studies — ordinal-utility-ranking-bundles |
+| 24607 | pictures/24607.webp | the orange-banana schedule beside its plotted curve, then three nested curves as a map | Social Studies — indifference-curves-and-the-indifference-map |
+| 24608 | pictures/24608.webp | four small panels, one per property, with the crossing-curves panel crossed out | Social Studies — properties-of-indifference-curves |
+| 24609 | pictures/24609.webp | one curve with three chords of visibly different steepness labelled with their MRS values | Social Studies — marginal-rate-of-substitution |
+| 24610 | pictures/24610.webp | a see-saw of utility gained and utility lost balancing at zero | Social Studies — why-mrs-is-a-ratio-of-marginal-utilities |
+| 24611 | pictures/24611.webp | a straight-line curve family beside an L-shaped family, pens on one side, a pair of shoes on the other | Social Studies — indifference-curves-for-perfect-substitutes-and-complements |
+| 24612 | pictures/24612.webp | the birr-100 budget line with its two intercepts and shaded feasible triangle | Social Studies — the-budget-line |
+| 24613 | pictures/24613.webp | the same line with rise-over-run triangles marked between two pairs of points | Social Studies — slope-of-the-budget-line-the-price-ratio |
+| 24614 | pictures/24614.webp | three parallel budget lines fanning outward as income rises | Social Studies — when-income-changes-parallel-shifts |
+| 24615 | pictures/24615.webp | a line rotating around a fixed Y-intercept as the X-price falls and rises | Social Studies — when-a-price-changes-pivots-of-the-budget-line |
+| 24616 | pictures/24616.webp | a budget line with three indifference curves, only the middle one touching it | Social Studies — consumer-optimum-where-the-curve-touches-the-line |
+| 24617 | pictures/24617.webp | rising budget lines with their tangency points joined, one good's quantity rising, the other's falling | Social Studies — income-consumption-curve-normal-and-inferior-goods |
+| 24618 | pictures/24618.webp | the two-panel figure — pivoting budget lines above, the demand curve forming point by point below | Social Studies — from-price-changes-to-the-demand-curve |
+| 24619 | pictures/24619.webp | a four-stop spectrum bar from many sellers of identical goods to one seller alone | Social Studies — four-market-structures-the-spectrum |
+| 24620 | pictures/24620.webp | the two-panel figure — industry demand and supply crossing, the single firm's flat demand line at that price | Social Studies — perfect-competition-price-takers-and-the-firms-demand-curve |
+| 24621 | pictures/24621.webp | U-shaped ATC with MC cutting it at its lowest point, the three rules captioned | Social Studies — cost-curves-and-profit |
+| 24622 | pictures/24622.webp | TR and TC curves with the widest gap bracketed and its output marked | Social Studies — short-run-equilibrium-the-total-approach |
+| 24623 | pictures/24623.webp | three panels side by side — price line above, at, and below the AC minimum, profit and loss rectangles shaded | Social Studies — short-run-equilibrium-mr-equals-mc |
+| 24624 | pictures/24624.webp | one diagram with the break-even and shutdown prices marked as two thresholds on the price axis | Social Studies — the-shutdown-point-produce-or-close |
+| 24625 | pictures/24625.webp | an MC curve with only the segment above AVC drawn bold and relabelled supply | Social Studies — the-firms-supply-curve-is-its-marginal-cost-curve |
+| 24626 | pictures/24626.webp | a price line settling onto the bottom of the LAC bowl as new firms stream in | Social Studies — long-run-equilibrium-why-profits-are-competed-away |
+| 24627 | pictures/24627.webp | a downward demand curve with the MR curve beneath it, high-output/low-price and low-output/high-price points marked | Social Studies — monopoly-one-seller-facing-the-whole-market |
+| 24628 | pictures/24628.webp | the standard monopoly diagram with the per-unit profit strip and total-profit rectangle shaded | Social Studies — monopoly-equilibrium-mr-equals-mc-price-from-demand |
+| 24629 | pictures/24629.webp | three panels — a doctor's sliding fee scale, a bulk-price ladder, two market segments with two prices | Social Studies — price-discrimination-three-degrees |
+| 24630 | pictures/24630.webp | a row of near-identical products — shoes, soaps, soft drinks — each branded differently | Social Studies — monopolistic-competition-and-product-differentiation |
+| 24631 | pictures/24631.webp | the equilibrium diagram with its POSR profit rectangle, beside flatter monopoly and flat competition demand curves for contrast | Social Studies — short-run-equilibrium-under-monopolistic-competition |
+| 24632 | pictures/24632.webp | one firm's demand curve shifting as a rival in its group cuts price | Social Studies — product-groups-industries-of-close-substitutes |
+| 24633 | pictures/24633.webp | three large firms in a triangle of double-headed watching arrows | Social Studies — oligopoly-few-rivals-watching-each-other |
+| 24634 | pictures/24634.webp | firms signing one price agreement; then one leader firm moving its price tag while smaller tags copy it | Social Studies — collusive-oligopoly-cartels-and-price-leadership |
+| 24635 | pictures/24635.webp | two panels — rivals choose quantities versus rivals choose prices | Social Studies — non-collusive-oligopoly-cournot-and-bertrand |
+| 24636 | pictures/24636.webp | a national dashboard with output, trend arrow, policy lever and two flags compared | Social Studies — national-income-accounting-measuring-a-whole-economy |
+| 24637 | pictures/24637.webp | a map outline with factories, farms and services inside it all feeding one GDP total | Social Studies — gross-domestic-product |
+| 24638 | pictures/24638.webp | two overlapping circles — produced inside Ethiopia and produced by Ethiopians — with the New York apartment in the second only | Social Studies — gdp-versus-gnp-borders-versus-nationals |
+| 24639 | pictures/24639.webp | four labelled streams — households, firms, government, foreigners — flowing into one GDP tank | Social Studies — measuring-gdp-the-expenditure-approach |
+| 24640 | pictures/24640.webp | four factor-income coins — wages, rent, interest, profit — stacked, with tax and depreciation added on top | Social Studies — measuring-gdp-the-income-approach |
+| 24641 | pictures/24641.webp | the four-stage bread chain with a value added tag growing at each handover | Social Studies — measuring-gdp-value-added-at-every-stage |
+| 24642 | pictures/24642.webp | a circular diagram of households and firms with money flowing one way and goods the other | Social Studies — the-circular-flow-of-income |
+| 24643 | pictures/24643.webp | two bars for the same year — a tall nominal bar and a shorter real bar, the gap labelled price rises | Social Studies — nominal-and-real-gdp |
+| 24644 | pictures/24644.webp | a fraction bar — nominal GDP over real GDP — with the 127 worked result beside it | Social Studies — the-gdp-deflator |
+| 24645 | pictures/24645.webp | a shopping basket priced in two years, with a three-row deflator-versus-CPI comparison beneath | Social Studies — the-consumer-price-index-and-inflation |
+| 24646 | pictures/24646.webp | a step diagram — GDP, minus depreciation to NDP, then the five national-income slices as a pie | Social Studies — from-gdp-to-national-income |
+| 24647 | pictures/24647.webp | a waterfall from national income down through the three deductions and one addition to personal income, then one more step to disposable income | Social Studies — personal-and-disposable-income |
+| 24648 | pictures/24648.webp | one GDP total being shared out across a crowd of figures, one equal slice each | Social Studies — per-capita-gdp |
+| 24649 | pictures/24649.webp | two countries with identical per-capita bars, one with equal slices, one with a few large and many tiny slices | Social Studies — the-limits-of-averages-income-distribution |
+| 24650 | pictures/24650.webp | two runners where the behind runner's track is blocked by broken-rules signage | Social Studies — why-poor-countries-dont-catch-up-institutions |
+| 26600 | pictures/26600.webp | a smallholder vegetable plot beside a commercial farm | Agriculture — Vegetables in Ethiopia — small plots, big potential |
+| 26601 | pictures/26601.webp | one cabbage plant with four dials — temperature, day length, humidity, soil moisture | Agriculture — What a vegetable crop feels — temperature, light, humidity, soil |
+| 26602 | pictures/26602.webp | a market stall sorted two ways — by part eaten, then by season | Agriculture — Sorting vegetables — leaf, flower, root; cool season, warm season |
+| 26603 | pictures/26603.webp | the system ladder drawn as four gardens of rising intensity | Agriculture — Ways of growing vegetables — from gathering to commercial farms |
+| 26604 | pictures/26604.webp | a grower checking a soil report and a market price list before planting | Agriculture — Managing vegetables — choose the site, choose the seed |
+| 26605 | pictures/26605.webp | an Ethiopian fruit market — mango, banana, avocado, citrus | Agriculture — Fruit in Ethiopia — terms and prospects |
+| 26606 | pictures/26606.webp | a fruit tree family tree — temperate and tropical branches | Agriculture — Sorting fruit crops |
+| 26607 | pictures/26607.webp | a seed waking after treatment; a graft union taped and healing | Agriculture — Propagating fruit plants |
+| 26608 | pictures/26608.webp | a nursery site plan with windbreak, drainage and beds marked | Agriculture — Setting up a fruit nursery |
+| 26609 | pictures/26609.webp | an orchard grid with irrigation lines running between rows | Agriculture — Running an orchard |
+| 26610 | pictures/26610.webp | two mangoes — one bruised by rough handling, one perfect — with their prices | Agriculture — Keeping fruit quality — harvest and after |
+| 26611 | pictures/26611.webp | a rose greenhouse ready for export cutting | Agriculture — Floriculture — Ethiopia's flower business |
+| 26612 | pictures/26612.webp | a soil cross-section with potato, carrot, beet and cassava growing at their depths | Agriculture — Root and tuber crops — the underground harvest |
+| 26613 | pictures/26613.webp | a household calendar with the hungry gap bridged by sweet potato and cassava | Agriculture — Roots and tubers — the gap-filling foods |
+| 26614 | pictures/26614.webp | a fertiliser rate chart beside a store of sprouting potatoes | Agriculture — Managing roots and tubers — feed and protect |
+| 26615 | pictures/26615.webp | potatoes being fork-lifted carefully into a shaded store | Agriculture — Lifting and storing roots and tubers |
+| 26616 | pictures/26616.webp | a coffee branch with red cherries beside a tea bush on a highland slope | Agriculture — Coffee and tea — where they come from, what they earn |
+| 26617 | pictures/26617.webp | an altitude ladder with coffee, tea and spice belts marked | Agriculture — Where coffee, tea and spices will grow |
+| 26618 | pictures/26618.webp | a single-node coffee cutting with its half-trimmed leaves | Agriculture — Raising coffee seedlings — cuttings and grafts |
+| 26619 | pictures/26619.webp | young coffee rows under shade trees | Agriculture — Establishing coffee, tea and spice fields |
+| 26620 | pictures/26620.webp | dried cherries entering a huller and green beans coming out | Agriculture — From cherry to export — processing coffee |
+| 26621 | pictures/26621.webp | a mulched ginger bed with rhizomes swelling beneath | Agriculture — Growing ginger and the spice crops |
+| 26622 | pictures/26622.webp | tiny plantlets growing in laboratory jars | Agriculture — Tissue culture — plants from pieces |
+| 26623 | pictures/26623.webp | one mother plant becoming a hundred identical plantlets | Agriculture — Why tissue culture matters |
+| 26624 | pictures/26624.webp | two paths to a better plant — a field of crosses vs one gene moved by a pipette | Agriculture — Genetic engineering — moving single genes |
+| 26625 | pictures/26625.webp | an engineered crop standing green in a pest-attacked field | Agriculture — Engineered crops — what they do on farms |
+| 26626 | pictures/26626.webp | a beef bull judged from the side — depth, muscle, legs | Agriculture — Choosing beef cattle |
+| 26627 | pictures/26627.webp | a barrel with staves of different heights, the shortest labelled with the limiting nutrient | Agriculture — Feeding beef cattle — the limiting nutrient |
+| 26628 | pictures/26628.webp | a beef herd resting in a fenced, shaded yard | Agriculture — Housing beef cattle |
+| 26629 | pictures/26629.webp | a vaccination crush in use at a beef farm | Agriculture — Beef cattle diseases and control |
+| 26630 | pictures/26630.webp | four bars — Ethiopia 110, East Africa 143, Africa 156, World 212 kg per head | Agriculture — Meat production — closing the yield gap |
+| 26631 | pictures/26631.webp | Ethiopian sheep and goat breeds side by side with weights marked | Agriculture — Choosing sheep and goats |
+| 26632 | pictures/26632.webp | goats browsing shrubs above sheep grazing grass — the two feeding heights | Agriculture — Feeding sheep and goats from grazing land |
+| 26633 | pictures/26633.webp | a goat pen measured out with the space figures on the ground | Agriculture — Housing sheep and goats — space per animal |
+| 26634 | pictures/26634.webp | a flock being inspected, one sick goat separated | Agriculture — Sheep and goat diseases — pox, CCPP and parasites |
+| 26635 | pictures/26635.webp | goat milk being processed beside a meat carcass | Agriculture — Sheep and goat products — meat and milk |
+| 26636 | pictures/26636.webp | a dromedary in profile with its desert adaptations labelled | Agriculture — Camels — dromedary and Bactrian |
+| 26637 | pictures/26637.webp | a camel reaching high into a thorny acacia | Agriculture — Feeding camels on dry-country browse |
+| 26638 | pictures/26638.webp | a night enclosure (boma) with camels resting inside | Agriculture — Sheltering camels |
+| 26639 | pictures/26639.webp | a camel being examined by a veterinary worker in a pastoral camp | Agriculture — Camel diseases and control |
+| 26640 | pictures/26640.webp | camel milk being poured at a pastoral camp market | Agriculture — Camel milk and meat — a slow herd's products |
+| 26641 | pictures/26641.webp | the four named layer breeds in a row, plumage compared | Agriculture — Choosing poultry — layer and broiler breeds |
+| 26642 | pictures/26642.webp | chicks, growers and layers at three feeders with three rations | Agriculture — Feeding poultry |
+| 26643 | pictures/26643.webp | a poultry house interior — perches, nests, feeders, drinkers | Agriculture — Housing poultry |
+| 26644 | pictures/26644.webp | an incubator cut open — heater, water tray, fan labelled | Agriculture — Hatching eggs — the incubator and its hygiene |
+| 26645 | pictures/26645.webp | chicks gathered under a brooder lamp | Agriculture — Brooding chicks — the first weeks |
+| 26646 | pictures/26646.webp | one house of layers at nest boxes, one of broilers at feeders | Agriculture — Layers vs broilers — two managements |
+| 26647 | pictures/26647.webp | a sick hen isolated in a small pen | Agriculture — Poultry diseases — and what local keepers do |
+| 26648 | pictures/26648.webp | the four pictured fish labelled with scientific and local names | Agriculture — Fish farming words — and Ethiopia's fish |
+| 26649 | pictures/26649.webp | a tilapia diagram with parts labelled | Agriculture — Inside a fish — bony fish anatomy |
+| 26650 | pictures/26650.webp | feed pellets scattering over a pond surface as fish rise | Agriculture — Feeding farmed fish |
+| 26651 | pictures/26651.webp | pond, cage and pen drawn in one lake scene | Agriculture — Ways of farming fish — ponds, cages, pens |
+| 26652 | pictures/26652.webp | fingerlings being stocked into a pond | Agriculture — Rearing fish to harvest |
+| 26653 | pictures/26653.webp | a cast net opening over lake water | Agriculture — Catching fish — the gears |
+| 26654 | pictures/26654.webp | fresh fish on ice at a lakeside market | Agriculture — Handling fish without spoiling it |
+| 26655 | pictures/26655.webp | a sick fish with visible lesions beside a healthy one | Agriculture — Fish diseases in the pond |
+| 26656 | pictures/26656.webp | fish drying on racks in the traditional way | Agriculture — Traditional fish processing — local knowledge |
+| 26657 | pictures/26657.webp | the three hives side by side — log, top-bar, frame | Agriculture — Beekeeping in Ethiopia — log, top-bar and frame hives |
+| 26658 | pictures/26658.webp | a bee's life stages from egg to forager | Agriculture — How bees live — biology and behaviour |
+| 26659 | pictures/26659.webp | a strong colony and a weak colony opened side by side | Agriculture — Kinds of bee colony |
+| 26660 | pictures/26660.webp | a beekeeper inspecting a hive with smoker in hand | Agriculture — Managing bees through the year |
+| 26661 | pictures/26661.webp | a queen excluder and a super being added to a hive | Agriculture — Queen rearing and colony management |
+| 26662 | pictures/26662.webp | a frame of capped honey beside a block of beeswax | Agriculture — Honey and wax — hive products |
+| 26663 | pictures/26663.webp | a wax moth larva in damaged comb | Agriculture — Enemies of the hive |
+| 26664 | pictures/26664.webp | a log hive hung high in a forest tree | Agriculture — Indigenous beekeeping knowledge |
+| 26665 | pictures/26665.webp | a tree nursery with seedling beds in rows | Agriculture — Setting up a tree nursery |
+| 26666 | pictures/26666.webp | a square nursery plan with beds, paths and water point | Agriculture — Laying out a nursery — shape and beds |
+| 26667 | pictures/26667.webp | seed trays at three growth stages | Agriculture — Growing seedlings from seed |
+| 26668 | pictures/26668.webp | seedlings being planted out in lines on a prepared site | Agriculture — Planting out — from nursery to plantation |
+| 26669 | pictures/26669.webp | one field carrying trees, crops and grazing animals together | Agriculture — Agro-forestry — trees farming with crops |
+| 26670 | pictures/26670.webp | a farm with tree products, shade and fodder all labelled from the same trees | Agriculture — What agro-forestry gives a farm |
+| 26671 | pictures/26671.webp | the three system families drawn as three farm scenes | Agriculture — Sorting agro-forestry systems |
+| 26672 | pictures/26672.webp | labelled agro-forestry trees in a farm boundary and a fodder bank | Agriculture — Choosing and managing agro-forestry trees |
+| 26673 | pictures/26673.webp | hands holding two soils — sandy and clay — compared | Agriculture — Soil properties — what conservation works on |
+| 26674 | pictures/26674.webp | sheet, rill and gully erosion in three panels | Agriculture — Soil erosion — how soil leaves the farm |
+| 26675 | pictures/26675.webp | a field's yield shrinking year by year as its topsoil thins | Agriculture — What erosion costs |
+| 26676 | pictures/26676.webp | bunds and terraces on a slope beside a residue-covered no-till plot | Agriculture — Conservation practices — structures and conservation farming |
+| 26677 | pictures/26677.webp | two neighbouring farms after five years — one conserved and green, one eroded | Agriculture — The case for conserving soil and water |
+| 26678 | pictures/26678.webp | stone terraces following a steep hillside's contours | Agriculture — Indigenous soil and water conservation |
+| 26679 | pictures/26679.webp | a village scene with men's and women's work both visible | Agriculture — Gender — the basic words |
+| 26680 | pictures/26680.webp | a farming household's day drawn as two timelines, hers and his | Agriculture — Who does the work — gender in food production |
+| 26681 | pictures/26681.webp | a woman farmer deciding over her harvest income at market | Agriculture — Empowering women farmers — resources, income, leadership, time |
+| 26682 | pictures/26682.webp | three hazard symbols over a plate of food | Agriculture — Food safety hazards — chemical, biological, physical |
+| 26683 | pictures/26683.webp | a food chain from field to plate with contamination entry points marked | Agriculture — Where contamination enters food |
+| 26684 | pictures/26684.webp | the linkage diagram — unsafe food → illness → poor absorption → malnutrition | Agriculture — Unsafe food makes malnutrition |
+| 26685 | pictures/26685.webp | a traditional granary raised and sealed against pests and damp | Agriculture — Traditional ways of keeping food safe |
+| 26686 | pictures/26686.webp | a farmer with a phone standing in a maize field, price information on the screen | Agriculture — ICT in agriculture — what phones and data do for farmers |
+| 26687 | pictures/26687.webp | a phone showing a market price message beside the ECX trading floor | Agriculture — ICT applications — ECX, Esoko and the mobile phone |
+| 26688 | pictures/26688.webp | a farmer being shown how to use a phone service by an extension worker | Agriculture — What stops ICT helping — and the fixes |
+| 26689 | pictures/26689.webp | the lesson skeleton drawn as a flowchart from competencies to the 'Can you' self-check | Agriculture — How this course is taught |
+| 26690 | pictures/26690.webp | the four thematic areas of Grade 12 Agriculture as four labelled fields | Agriculture — Minimum learning competencies — Grade 12 Agriculture |
+| 26691 | pictures/26691.webp | a unit bar chart with the coffee unit's 16 periods towering over the rest | Agriculture — The Grade 12 Agriculture syllabus — units and periods |
+| 26692 | pictures/26692.gif | a biennial plant flowering only after a cold spell passes | Agriculture — What a vegetable crop feels — temperature, light, humidity, soil |
+| 26693 | pictures/26693.gif | a graft being cut, joined and taped | Agriculture — Propagating fruit plants |
+| 26694 | pictures/26694.gif | a cutting being prepared and set in the nursery bed | Agriculture — Raising coffee seedlings — cuttings and grafts |
+| 26695 | pictures/26695.gif | mulch being spread over a ginger bed | Agriculture — Growing ginger and the spice crops |
+| 26696 | pictures/26696.gif | eggs being turned in the incubator | Agriculture — Hatching eggs — the incubator and its hygiene |
+| 26697 | pictures/26697.gif | gills opening and closing as water passes | Agriculture — Inside a fish — bony fish anatomy |
+| 26698 | pictures/26698.gif | a cast net being thrown and sinking in a circle | Agriculture — Catching fish — the gears |
+| 26699 | pictures/26699.gif | a top bar being lifted with comb attached | Agriculture — Beekeeping in Ethiopia — log, top-bar and frame hives |
+| 26700 | pictures/26700.gif | honey being extracted from a frame | Agriculture — Honey and wax — hive products |
+| 26701 | pictures/26701.gif | a seedling emerging and unfolding its first leaves | Agriculture — Growing seedlings from seed |
+| 26702 | pictures/26702.gif | rain starting rills that join into a gully | Agriculture — Soil erosion — how soil leaves the farm |
+| 32500 | Symbol wall chart — English-derived vs Latin-derived symbols | science/materials/symbols-writing-the-elements |
+| 32501 | Citric acid C₆H₈O₇ broken into 6 C / 8 H / 7 O counters | science/materials/formulas-reading-what-a-compound-is-made-of |
+| 32502 | Valence row — Na holds 1 Cl, Mg holds 2, Al holds 3 | science/materials/formulas-valence-the-combining-power |
+| 32503 | Criss-cross arrows over Ca and N producing Ca₃N₂ | science/materials/formulas-writing-binary-compounds-criss-cross |
+| 32504 | GIF: valence numbers crossing down into subscript positions, ending on Ca₃N₂ | science/materials/formulas-writing-binary-compounds-criss-cross |
+| 32505 | Naming-flow chart — metal? variable valence? -ide? prefixes? | science/materials/formulas-naming-binary-compounds |
+| 32506 | Nine polyatomic-ion cards with charges | science/materials/formulas-polyatomic-ions-and-their-compounds |
+| 32507 | 5H₂O exploded into five molecule drawings | science/materials/formulas-the-two-meanings-of-a-formula |
+| 32508 | A magnesium ribbon flaring white, ash collected beside it | science/materials/reactions-reactants-become-products |
+| 32509 | GIF: a magnesium ribbon igniting in a brilliant flare | science/materials/reactions-reactants-become-products |
+| 32510 | Five sign icons in a row over a fizzing cup | science/materials/reactions-five-signs-to-look-for |
+| 32511 | GIF: the soda-vinegar fizz erupting — gas forming (also cited by the seven-kinds lesson) | science/materials/reactions-five-signs-to-look-for |
+| 32512 | A balance level — reactants one side, products the other | science/materials/reactions-conservation-of-mass |
+| 32513 | The K/O₂/K₂O equation at three stages with atom tallies | science/materials/equations-balancing-by-inspection |
+| 32514 | Coloured atom circles for 2H₂ + O₂ → 2H₂O counted on both sides | science/materials/equations-balancing-by-lcm-and-modelling-with-circles |
+| 32515 | GIF: coloured circles rearranging into water molecules, none lost | science/materials/equations-balancing-by-lcm-and-modelling-with-circles |
+| 32516 | A home scene strip — fire, pot, jebena, lamp — each tagged with its reaction | science/materials/reactions-chemistry-in-everyday-life |
+| 32517 | The tella sequence as a six-stage strip (teacher guide evidence) | science/materials/reactions-chemistry-in-everyday-life |
+| 32518 | Seven small panels, one per reaction kind around the home (teacher guide evidence) | science/materials/reactions-seven-kinds-of-reaction-around-the-home |
