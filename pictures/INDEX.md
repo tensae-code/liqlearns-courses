@@ -521,3 +521,126 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 7947 | pictures/7947.gif | GIF — three blocks rest apart on the baseline, each part a different colour — UN (coral), HAPPY (teal), NESS (gold); HAPPY slides left and locks to UN, then NESS slides left and locks to the pair, and as it lands HAPPY's last letter Y changes to I with a gold flash, so the joined word stands as UNHAPPINESS and glows — the student names each part as it lands | English — Word Building (blocks UN + HAPPY + NESS joining into UNHAPPINESS, at the build part of step 2 The explanation) |
 | 7948 | pictures/7948.gif | GIF — a speaker with gold sound arcs pulses at the top while the big form below flashes in turn: the number 2 (coral), then the word TO (teal), then 2 again, then TO — one same sound for both — over the plan's own line "same sound, two spellings" — the student says both spellings aloud | English — Word Relationships (2 and TO flashing to one same sound, at the homophones part of step 2 The explanation) |
 | 7949 | pictures/7949.gif | GIF — a hotel key card rests at the receptionist's paw on a reception desk, then slides flat across the desktop to the guest's waiting hand; his paw comes down onto it, both smile, and the desk's sentence lands in the clear strip under the baseline: "Here is your key." — the student says the desk's sentence as the card lands | English — Working Words (a key card crossing the desk to a guest's hand, at the desk part of step 2 The explanation) |
+| 7950 | pictures/7950.webp | the full fidel chart — all 33 families in chart order, seven forms each, first form of each family picked out in orange | Amharic — The Fidel |
+| 7951 | pictures/7951.webp | family card: the letter በ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7952 | pictures/7952.webp | family card: the letter ሰ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7953 | pictures/7953.webp | family card: the letter ሸ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7954 | pictures/7954.webp | family card: the letter ከ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7955 | pictures/7955.webp | family card: the letter ኸ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7956 | pictures/7956.webp | family card: the letter ለ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7957 | pictures/7957.webp | family card: the letter አ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7958 | pictures/7958.webp | family card: the letter ዘ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7959 | pictures/7959.webp | family card: the letter ዠ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7960 | pictures/7960.webp | family card: the letter ደ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7961 | pictures/7961.webp | family card: the letter ጀ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7962 | pictures/7962.webp | family card: the letter ጸ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7963 | pictures/7963.webp | family card: the letter ጰ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7964 | pictures/7964.webp | family card: the letter ጠ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7965 | pictures/7965.webp | family card: the letter ጨ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7966 | pictures/7966.webp | family card: the letter ሐ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7967 | pictures/7967.webp | family card: the letter ሀ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7968 | pictures/7968.webp | family card: the letter መ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7969 | pictures/7969.webp | family card: the letter ሠ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7970 | pictures/7970.webp | family card: the letter ረ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7971 | pictures/7971.webp | family card: the letter ቀ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7972 | pictures/7972.webp | family card: the letter ተ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7973 | pictures/7973.webp | family card: the letter ቸ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7974 | pictures/7974.webp | family card: the letter ኀ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7975 | pictures/7975.webp | family card: the letter ነ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7976 | pictures/7976.webp | family card: the letter ኘ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7977 | pictures/7977.webp | family card: the letter ወ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7978 | pictures/7978.webp | family card: the letter ዐ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7979 | pictures/7979.webp | family card: the letter የ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7980 | pictures/7980.webp | family card: the letter ገ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7981 | pictures/7981.webp | family card: the letter ፀ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7982 | pictures/7982.webp | family card: the letter ፈ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7983 | pictures/7983.webp | family card: the letter ፐ big at the top, its seven forms in a row under it | Amharic — The Fidel |
+| 7984 | pictures/7984.gif | GIF — the letter በ fills in with ink over its faint guide shape, stroke by stroke in feel — the student watches the letter grow, then traces it in the air | Amharic — The Fidel |
+| 7985 | pictures/7985.gif | GIF — the letter ሰ fills in with ink over its faint guide shape — the student watches the letter grow, then traces it in the air | Amharic — The Fidel |
+| 7986 | pictures/7986.webp | keyword board: sheep, clock, shirt, sweets, baby, football, lion, basket — a picture for the sound at the start of a word | Amharic — The Fidel |
+| 7987 | pictures/7987.webp | keyword board: bell, jebena, hair, table, moon, necklace — a picture for the sound at the start of a word | Amharic — The Fidel |
+| 7988 | pictures/7988.gif | GIF — a pencil travels along a dotted wavy line, following the dots from start to end | Amharic — Ready Hands — Before the Pencil |
+| 7989 | pictures/7989.gif | GIF — a pencil travels along a dotted zigzag line, turning at each corner of the dots | Amharic — Ready Hands — Before the Pencil |
+| 7990 | pictures/7990.webp | dotted paths to follow: straight, wavy, zigzag and curving lines on one page | Amharic — Ready Hands — Before the Pencil |
+| 8010 | pictures/8010.webp | the labelled body figure — fifteen parts named in Amharic and English, each with a line to the part | Amharic — My Body |
+| 8011 | pictures/8011.webp | the five senses board — eye, ear, nose, tongue and hand, one for each sense | Amharic — My Body |
+| 8012 | pictures/8012.gif | GIF — a pointer moves to eye, ear, nose, tongue and hand in turn — the student names each sense as it is pointed to | Amharic — My Body |
+| 8013 | pictures/8013.webp | the four big faces — happy, surprised, sad and angry children | Amharic — Feelings |
+| 8014 | pictures/8014.gif | GIF — one face changes — happy to sad to angry — the student names the feeling at each change | Amharic — Feelings |
+| 8015 | pictures/8015.gif | GIF — hand washing in order — wet, soap, rub, rinse — the student follows the steps | Amharic — Cleanliness |
+| 8016 | pictures/8016.gif | GIF — teeth brushing across and up-and-down — the student follows the strokes | Amharic — Cleanliness |
+| 8017 | pictures/8017.gif | GIF — a sneeze covered with the elbow, not the hand — the student practises the move | Amharic — Cleanliness |
+| 8018 | pictures/8018.webp | the four rooms of a home on one board | Amharic — My Home |
+| 8019 | pictures/8019.webp | the things in a home — eight named household things | Amharic — My Home |
+| 8020 | pictures/8020.webp | a family sharing a meal round the mesob | Amharic — Family and Me |
+| 8021 | pictures/8021.webp | a child greeting and holding a door for an elder | Amharic — Manners and Living Together |
+| 8022 | pictures/8022.webp | the eight school things on one board | Amharic — School Things |
+| 8060 | pictures/8060.webp | the home animals board — the animals that live with people, Ethiopia's one-humped camel among them | Amharic — Animals |
+| 8061 | pictures/8061.webp | the wild animals board | Amharic — Animals |
+| 8062 | pictures/8062.webp | the walia standing on the rocks of the high mountains | Amharic — Animals |
+| 8063 | pictures/8063.webp | fruits served on a mesob | Amharic — Food |
+| 8064 | pictures/8064.webp | the Simien Mountains and the Abay river | Amharic — Nature and Man-Made |
+| 8065 | pictures/8065.webp | a lake with a tankwa boat and children swimming | Amharic — Water |
+| 8066 | pictures/8066.webp | match the animal to its home — the animal homes matching board | Amharic — Animals |
+| 8067 | pictures/8067.webp | parts of a plant, labelled: ስር root, ግንድ trunk, ቅርንጫፍ branch, ቅጠል leaf, አበባ flower, ፍሬ fruit | Amharic — Plants |
+| 8068 | pictures/8068.gif | GIF — a plant growing — sprout, taller stem, bud, open flower | Amharic — Plants |
+| 8069 | pictures/8069.webp | the vegetables board | Amharic — Food |
+| 8070 | pictures/8070.webp | a balanced meal on one plate | Amharic — Food |
+| 8071 | pictures/8071.webp | natural or man-made? — the sorting board of things people made and things nobody made | Amharic — Nature and Man-Made |
+| 8072 | pictures/8072.webp | sunny, rainy and cloudy over the same hill | Amharic — Weather and Seasons |
+| 8073 | pictures/8073.webp | the clothes board | Amharic — Clothes |
+| 8074 | pictures/8074.webp | the water sources — where water comes from | Amharic — Water |
+| 8110 | pictures/8110.webp | number card 1 — the number with its counted stars | Amharic — Counting |
+| 8111 | pictures/8111.webp | number card 2 — the number with its counted stars | Amharic — Counting |
+| 8112 | pictures/8112.webp | number card 3 — the number with its counted stars | Amharic — Counting |
+| 8113 | pictures/8113.webp | number card 4 — the number with its counted stars | Amharic — Counting |
+| 8114 | pictures/8114.webp | number card 5 — the number with its counted stars | Amharic — Counting |
+| 8115 | pictures/8115.webp | number card 6 — the number with its counted stars | Amharic — Counting |
+| 8116 | pictures/8116.webp | number card 7 — the number with its counted stars | Amharic — Counting |
+| 8117 | pictures/8117.webp | number card 8 — the number with its counted stars | Amharic — Counting |
+| 8118 | pictures/8118.webp | number card 9 — the number with its counted stars | Amharic — Counting |
+| 8119 | pictures/8119.webp | the empty jar and the full jar — zero is an empty jar | Amharic — Counting |
+| 8120 | pictures/8120.webp | the Ge'ez numeral chart — ፩ = 1 to ፲ = 10, each with its Amharic number name | Amharic — Counting |
+| 8121 | pictures/8121.webp | the number line 0 to 20, with some numbers missing to be found | Amharic — Counting |
+| 8122 | pictures/8122.gif | GIF — a finger tapping counters one by one while the count fills 1 to 5 | Amharic — Counting |
+| 8123 | pictures/8123.webp | 3 stones and 2 stones join: 3 + 2 = 5 | Amharic — Adding and Taking Away |
+| 8124 | pictures/8124.webp | 5 stones, 2 crossed out and gone: 5 − 2 = 3 | Amharic — Adding and Taking Away |
+| 8125 | pictures/8125.webp | the balance three ways: 5 > 3, 2 < 4, 3 = 3 | Amharic — Adding and Taking Away |
+| 8126 | pictures/8126.webp | the six colour panels: red tomato, yellow rose, blue sky, black, white, green leaf | Amharic — Colours |
+| 8127 | pictures/8127.webp | the mixing chart — red and yellow make ብርቱካናማ (orange), yellow and blue make green, blue and red make ወይንጠጅ (purple) | Amharic — Colours |
+| 8128 | pictures/8128.gif | GIF — paint blobs mixing — red+yellow into orange, yellow+blue into green, blue+red into purple | Amharic — Colours |
+| 8129 | pictures/8129.webp | the shape cards with their Amharic names | Amharic — Shapes and Patterns |
+| 8130 | pictures/8130.webp | three pattern rows, each with an empty box at the end to finish | Amharic — Shapes and Patterns |
+| 8131 | pictures/8131.gif | GIF — a pencil tracing round a circle, a square and a triangle | Amharic — Shapes and Patterns |
+| 8132 | pictures/8132.webp | a big lion and a small mouse — big and small | Amharic — Size and Quantity |
+| 8133 | pictures/8133.webp | jars full, empty and with a few inside — full, empty, few | Amharic — Size and Quantity |
+| 8134 | pictures/8134.gif | GIF — lifting the heavy stone with a bent back and effort, then the light leaf with one finger | Amharic — Size and Quantity |
+| 8135 | pictures/8135.webp | a ball and a box — the ball in, on, under and beside the box | Amharic — Position Words |
+| 8136 | pictures/8136.webp | hands showing in front, behind, left and right | Amharic — Position Words |
+| 8137 | pictures/8137.gif | GIF — a ball moving in, on, under and beside a box, one place at a time | Amharic — Position Words |
+| 8138 | pictures/8138.gif | GIF — the markers move — right, left, in front, behind — each with its word | Amharic — Position Words |
+| 8160 | pictures/8160.gif | GIF — pushing and pulling a cart — push away, pull towards | Amharic — Play and Moving |
+| 8161 | pictures/8161.gif | GIF — four arm positions in order — up, down, out, folded | Amharic — Play and Moving |
+| 8162 | pictures/8162.gif | GIF — standing on one leg with a support close by, holding the balance | Amharic — Play and Moving |
+| 8163 | pictures/8163.webp | the birr notes drawn as teaching cards — 10, 50, 100 and 200 birr with their Amharic names | Amharic — Money |
+| 8164 | pictures/8164.webp | the santim coins drawn as teaching cards | Amharic — Money |
+| 8165 | pictures/8165.webp | the traffic light — red, yellow, green | Amharic — Road Safety |
+| 8166 | pictures/8166.gif | GIF — the light changes red to yellow to green and the child crosses on green | Amharic — Road Safety |
+| 8167 | pictures/8167.webp | the warning set — the things that can hurt us, drawn simply | Amharic — Safety |
+| 8168 | pictures/8168.webp | the six instruments — masenqo, washint, krar, kebero, begena, tsenatsil | Amharic — Ethiopian Culture |
+| 8169 | pictures/8169.webp | a traditional dance | Amharic — Ethiopian Culture |
+| 8170 | pictures/8170.webp | four traditional dishes | Amharic — Ethiopian Culture |
+| 8171 | pictures/8171.webp | the professions board — the people who help us and their work | Amharic — Professions |
+| 8172 | pictures/8172.webp | the three basic needs — food, clothes, shelter | Amharic — Basic Needs |
+| 8173 | pictures/8173.webp | ways we travel — the transport board | Amharic — Transport |
+| 8174 | pictures/8174.webp | the technology board — the machines and tools of today, named in Amharic | Amharic — Technology |
+| 8175 | pictures/8175.webp | a farmer ploughing with a pair of oxen | Amharic — Farming |
+| 8176 | pictures/8176.webp | the calendar strip — the thirteen months of the Ethiopian year in order | Amharic — Time |
+| 8177 | pictures/8177.webp | the week strip — the seven days of the week in order | Amharic — Time |
+| 8210 | pictures/8210.webp | big and small trees side by side | Amharic — Words That Go Together |
+| 8211 | pictures/8211.webp | black and white circles side by side | Amharic — Words That Go Together |
+| 8212 | pictures/8212.webp | fast and slow runners side by side | Amharic — Words That Go Together |
+| 8213 | pictures/8213.webp | a child planting a tree — ዛፍ ተከልኩ (I planted a tree) | Amharic — My First Sentences |
+| 8214 | pictures/8214.webp | the four marks of KG3, big and named: ሁለት ነጥብ (colon), the four-dot mark, ነጠላ ሰረዝ (comma), የጥያቄ ምልክት (question mark), each inside a tiny sentence | Amharic — The Marks That Help Us Read |
+| 8215 | pictures/8215.webp | Butiye watering her flower | Amharic — First Stories |
+| 8216 | pictures/8216.webp | Mamo singing to his little brother | Amharic — First Stories |
