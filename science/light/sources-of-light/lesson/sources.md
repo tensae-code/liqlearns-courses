@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only)
 
 **Book 7:** *Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 8 (2ème année collégiale, 2AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-08/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,442,534 · PDF pages: 163 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and both semester descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 8:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lamps people make | Ethiopia, *Grade 2 Student Textbook*, Chapter 2, sources of light — human-made, printed p. 28 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only)
 | Light: Svetloba — light sources ("Svetila"), propagation of light and shadows (Slovenia) | Slovenia, *Fizika 8*, Light: Svetloba — light sources ("Svetila"), propagation of light and shadows — printed p. 24 (unit folder 141) |
 
 | Chapitre 9, The light around us (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, Chapitre 9, printed p. 92 |
+| L17 Light; sources of light (Bulgaria, Grade 7) | Bulgaria, *Физика и астрономия за 7. клас (Педагог 6, 2024)*, L17 Light; sources of light — printed p. 42 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Slovenia).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Slovenia, Bulgaria).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

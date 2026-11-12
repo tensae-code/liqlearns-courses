@@ -1,6 +1,6 @@
 # Sources — Latent heat — the hidden heat
 
-countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (teacher-guide evidence only), Kuwait
+countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (teacher-guide evidence only), Kuwait, Bulgaria
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (
 
 **Book 8:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الثاني (Physics, Grade 11, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 11, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications, Units 2 start) and section 2 (student book, "2/2", Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait (1447–1448H printings). Repo path: grade-11/gov/kuwait/physics/student/term-2-workbook.pdf (release full-quality-oversized-books). Bytes: 178,960,357 (exact vs record). PDF pages: 199. Offset: section 1: PDF = printed + 3 (proven: contents PDF 12/14 carry folios 9/11; Unit 2 opener PDF 15 = printed 12); section 2 keeps the year's continuous printed pagination (Units 3–4 at printed pp. 92–173, contents at PDF 107) and its printed pages below are the book's own contents numbers. Verdict: COMPLETE read (both sections' contents read visually; chapter openers and content verified on contact sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 9:** *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Dimova Z., Velchev N.; Pedagog 6, 2024. Grade 9 (Part 1 of 2), student — for classes with intensive foreign-language study, as printed on the cover · Filed in the records as "Grade 8": the big cover numeral is "8", but the cover's own subtitle reads «Първа част за 9. клас» (First part for Grade 9); it is cited here under its printed identity, Grade 9 Part 1, and the library holds NO regular Grade 8 Physics & Astronomy book under that label · Repo: release `mid-size-books-8`, asset `grade-08-gov-bulgaria-physics-and-astronomy-fizika-8-klas-pedagog6-2024.pdf` — 95,929,955 bytes (matched) · PDF pages: 162 · Printed page = PDF page (entry test folios 6–8 verified) · Verdict: COMPLETE as Part 1 (year review printed p. 151, project lesson p. 154, glossary p. 157, answers p. 160). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Latent heat | Grade 11 Student Textbook, printed pp. 197–208 |
@@ -29,7 +31,8 @@ countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (
 | Unit 2, Ch. 2, lesson 2-1 "Evaporation and Condensation" (Kuwait, Grade 11 Term 2) | Kuwait, *Physics, Grade 11, Term 2 (student book + applications, two bound sections)*, printed p. 42 |
 
 | Chapitre 9, Physical transformations of matter (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 9, printed p. 80 |
+| Laboratory: determining the specific heat of melting of ice (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, Laboratory: determining the specific heat of melting of ice — printed p. 119 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Kuwait).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Kuwait, Bulgaria).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, latent heat — the hidden heat, latent heat, palestine, sri lanka

@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, 
 
 **Book 8:** *Al marjie Physique Chimie, Guide de l'enseignant(e), 2ème année de l'enseignement secondaire collégial* (teacher guide) — Morocco, Grade 8 (2AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Authors: Ahmed EL KOUARTY, Abdelkader SARSI, Abdesslam RECHO et al. Repo path: grade-08/gov/morocco/physics-chemistry/teacher/marji3-2ac.pdf. Byte size: 3,429,210 · PDF pages: 132 · Offset: printed p. = PDF p. Verdict: COMPLETE (cover, table of contents, Partie 2 part-structure verified; physics unit headings located inside it). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 9:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
+**Book 10:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The prism splits white light: the seven colours (VIBGYOR), violet bending most; sunlight as a mixture; the rainbow as nature's dispersion | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 189–190 (student placement 54) |
@@ -30,8 +34,10 @@ countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, 
 
 | Chapitre 11, Light and colours – Dispersion of light (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, Chapitre 11, printed p. 100 |
 | Partie 2, Light and colour units — dispersion (teacher guide — evidence) | Morocco, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)*, Partie 2, printed pp. 82–111 (dispersion work at PDF pp. 88–89) |
+| L22 The spectrum of light; L23 Light and colours (printed p. 54) (Bulgaria, Grade 7) | Bulgaria, *Физика и астрономия за 7. клас (Педагог 6, 2024)*, L22 The spectrum of light; L23 Light and colours (printed p. 54) — printed p. 52 |
+| L22 Dispersion of light (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L22 Dispersion of light — printed p. 126 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Barbados, Syria, Sudan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: the primary lesson's disc is painted in three colours (blue, red, green) at primary depth; this item teaches the full seven-colour VIBGYOR fan with differential refraction and the seven-segment disc, so it is built whole here.
 

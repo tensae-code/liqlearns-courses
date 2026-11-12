@@ -1,6 +1,6 @@
 # Sources — Electric potential
 
-countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia
+countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia, Bulgaria
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, M
 
 **Book 9:** *Физик IX* (student textbook) — Mongolia. Title as printed: ФИЗИК IX — Grade 9 textbook of the 12-year school; authors M. Ganbat, Ts. Amartaivan, E. Amarjargal et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2019, 184 pp.) Grade: Grade 9 · student · recorded size 19,806,839 bytes — **download matched EXACTLY; pdfinfo 187 pages**. Route used: https://econtent.edu.mn/content/9rangi/fizik/fizik-320.pdf (recorded page id=320). Verdict: COMPLETE (full text read; contents at PDF p. 6). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
+**Book 10:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electric potential and equipotentials | Grade 11 Student Textbook, printed pp. 232–238 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, M
 | Ch. 4 Lesson 2: electric potential and potential energy (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 4 Lesson 2 — printed p. 208 |
 | Ch. 3 Unit 3: voltage, stored energy in phone batteries, earthing (Cambodia, Grade 7 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 7, Teacher version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 3 Unit 3 — printed p. 96 |
 | §3.1 Цахилгаан хүчдэл (Electric voltage) (Mongolia, Grade 9) | Mongolia, *Физик IX*, §3.1 Цахилгаан хүчдэл (Electric voltage) — printed p. 98 |
+| L3 Potential of the electrostatic field; L4 Electrostatic induction (printed p. 26) (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L3 Potential of the electrostatic field; L4 Electrostatic induction (printed p. 26) — printed p. 22 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia).** Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
+**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia, Bulgaria).** Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

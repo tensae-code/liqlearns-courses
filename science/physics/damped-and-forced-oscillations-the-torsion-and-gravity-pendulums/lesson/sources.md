@@ -1,8 +1,10 @@
 # Sources — Damped and forced oscillations — the torsion and gravity pendulums
 
-countries: Syria
+countries: Syria, Bulgaria
 
 **Book 1:** *الفيزياء للصف الثالث الثانوي العلمي (Physics, Third Secondary, Scientific Track = Grade 12)* (student textbook) — Syria, Ministry of Education; 2025–2026 edition, first printed 2020–2021. Physics-only book. Image-only PDF — read from rendered pages (title, full contents, chapter openers and derivations sampled across the book). Grade: 12 · Student book (scientific track) · Release: full-quality-oversized-books · Asset: grade-12-gov-syria-physics-student-full-year.pdf · Byte size: 248,446,531 (matched asset) · PDF pages: 268 · Offset: printed folio = PDF page for content pages (folios 3–8 verified); the contents page numbers run about 3 higher than the folios at the start of the book, so placements below cite the contents numbers, as printed in the book's own index. Verdict: COMPLETE (contents end with U5 Astronomical physics at contents p. 254; the file runs to 268 pages). Structure: U1 Motion & dynamics; U2 Electricity & magnetism; U3 Standing waves; U4 Electronics & the solid state; U5 Astronomical physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
+
+**Book 2:** *Физика и астрономия за 9. клас, Втора част (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Velchev N.; Pedagog 6, 2024. Grade 9 (Part 2 of 2), student — intensive foreign-language track, as printed · Repo: release `mid-size-books-8`, asset `grade-09-gov-bulgaria-physics-and-astronomy-fizika-9-klas-pedagog6-2024.pdf` — 71,874,235 bytes (matched) · PDF pages: 130 · Printed page = PDF page (folios 5–8 verified) · Verdict: COMPLETE as Part 2 (glossary printed p. 125, answers p. 128). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,9 @@ countries: Syria
 | Sub lesson 2 — The gravity pendulum — swinging oscillation | Syria, *Physics, Third Secondary, Scientific Track (Grade 12)*, U1 Non-damped sinusoidal rotational oscillations, the torsion pendulum (contents p. 20); non-damped SH oscillations, the gravity pendulum (contents p. 28) — contents p. 20 |
 | Sub lesson 3 — Damping and forced oscillations — resonance | Syria, *Physics, Third Secondary, Scientific Track (Grade 12)*, U1 Non-damped sinusoidal rotational oscillations, the torsion pendulum (contents p. 20); non-damped SH oscillations, the gravity pendulum (contents p. 28) — contents p. 20 |
 | Do it first; key ideas; Do It Yourself | Syria, *Physics, Third Secondary, Scientific Track (Grade 12)*, as cited in the rows above |
+| L11 Free and forced oscillations; resonance — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief (Bulgaria, Grade 9 Part 2) | Bulgaria, *Физика и астрономия за 9. клас, Втора част (Педагог 6, 2024)*, L11 Free and forced oscillations; resonance — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief — printed p. 71 |
 
-**Acceptance count: taught in 1 country (Syria).**
+**Acceptance count: taught in 2 countries (Syria, Bulgaria).**
 
 Placement choice, on the record: this NEW LESSON was built for the Syria placement “Damped and forced oscillations — the torsion and gravity pendulums” — syria-placements.md, U1 Non-damped sinusoidal rotational oscillations, the torsion pendulum (contents p. 20); non-damped SH oscillations, the gravity pendulum (contents p. 28) — contents p. 20. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

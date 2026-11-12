@@ -1,6 +1,6 @@
 # Sources — Semiconductors — silicon and its lattice
 
-countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait
+countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait
 
 **Book 6:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 7:** *Физика и астрономия за 9. клас, Втора част (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Velchev N.; Pedagog 6, 2024. Grade 9 (Part 2 of 2), student — intensive foreign-language track, as printed · Repo: release `mid-size-books-8`, asset `grade-09-gov-bulgaria-physics-and-astronomy-fizika-9-klas-pedagog6-2024.pdf` — 71,874,235 bytes (matched) · PDF pages: 130 · Printed page = PDF page (folios 5–8 verified) · Verdict: COMPLETE as Part 2 (glossary printed p. 125, answers p. 128). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Semiconductors — between conductor and insulator | Grade 12 Student Textbook, printed pp. 143–144 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait
 | Ch 11 Electronics: energy band theory, intrinsic and extrinsic semiconductors, n-type and p-type (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 11 Electronics: energy band theory, intrinsic and extrinsic semiconductors, n-type and p-type — printed p. 187 |
 | Ch.7 Solid-state electronics (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.7 Solid-state electronics — printed p. 199 |
 | Ch.8 Pure semiconductors, energy bands and doping (n-type/p-type) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 Pure semiconductors, energy bands and doping (n-type/p-type) — printed p. 170 |
+| L6 Electric current in semiconductors; L7 Semiconductor devices (printed p. 40) (Bulgaria, Grade 9 Part 2) | Bulgaria, *Физика и астрономия за 9. клас, Втора част (Педагог 6, 2024)*, L6 Electric current in semiconductors; L7 Semiconductor devices (printed p. 40) — printed p. 36 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait).**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

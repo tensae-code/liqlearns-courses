@@ -1,6 +1,6 @@
 # Sources — Capacitors — storing charge
 
-countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait
+countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 
 **Book 10:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الثاني (Physics, Grade 11, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 11, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications, Units 2 start) and section 2 (student book, "2/2", Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait (1447–1448H printings). Repo path: grade-11/gov/kuwait/physics/student/term-2-workbook.pdf (release full-quality-oversized-books). Bytes: 178,960,357 (exact vs record). PDF pages: 199. Offset: section 1: PDF = printed + 3 (proven: contents PDF 12/14 carry folios 9/11; Unit 2 opener PDF 15 = printed 12); section 2 keeps the year's continuous printed pagination (Units 3–4 at printed pp. 92–173, contents at PDF 107) and its printed pages below are the book's own contents numbers. Verdict: COMPLETE read (both sections' contents read visually; chapter openers and content verified on contact sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 11:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capacitors and capacitance | Grade 11 Student Textbook, printed pp. 270–273 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 | Ch.1 Capacitors §§1-1–1-3 (the capacitor, parallel-plate capacitor, capacitance) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.1 Capacitors §§1-1–1-3 (the capacitor, parallel-plate capacitor, capacitance) — printed p. 5 |
 | Ch. 4 Lesson 3: capacitors (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 4 Lesson 3 — printed p. 218 |
 | Unit 3, Ch. 1, lesson 1-2 "Capacitors" (Kuwait, Grade 11 Term 2) | Kuwait, *Physics, Grade 11, Term 2 (student book + applications, two bound sections)*, printed p. 103 |
+| L5 Electric capacitance; capacitors (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L5 Electric capacitance; capacitors — printed p. 30 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

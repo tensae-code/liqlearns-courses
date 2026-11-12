@@ -1,6 +1,6 @@
 # Sources — Alternating-current circuits — reactance, impedance and resonance
 
-countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait
+countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait, Bulgaria
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
@@ -21,6 +21,8 @@ countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwa
 
 **Book 9:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 10:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.27 (alternator and AC circuits strand of the induction chapter) — PDF p. 60 |
@@ -35,8 +37,9 @@ countries: Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwa
 | Ch. 3 Lesson 3: alternating current — mains electricity (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 3 Lesson 3 — printed p. 128 |
 | Ch.4 Alternating current, the hot-wire ammeter, inductive and capacitive reactance, impedance (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.4 Alternating current, the hot-wire ammeter, inductive and capacitive reactance, impedance — printed p. 97 |
 | Unit 2, Ch. 2, lesson 2-1 "Alternating Current" — reactance, impedance and resonance in RLC circuits (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 42 |
+| L14 Alternating voltage and alternating current; L15 Basic quantities and laws for alternating current (printed p. 83) — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L14 Alternating voltage and alternating current; L15 Basic quantities and laws for alternating current (printed p. 83) — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief — printed p. 80 |
 
-**Acceptance count: taught in 9 countries (Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait).**
+**Acceptance count: taught in 10 countries (Italy, Sri Lanka, Syria, Fiji, Indonesia, Iraq, Cambodia, Egypt, Kuwait, Bulgaria).**
 
 Placement note, on the record: Indonesia's Grade 12 student placement was filed in the read as NEW LESSON NEEDED — “Alternating current — AC equations, RLC circuits and resonance” (indonesia-placements.md, Book 3, Bab 4 Arus Bolak-Balik — guide p. 95); under the Indonesia merge ruling it is stocked into this existing lesson instead of a new one being built — this lesson covers AC equations, RLC circuits and resonance.
 
