@@ -22,7 +22,9 @@ The book shows it in five pictures, like this:
 1. The pencil lies on the table. Your hand comes down open.
 2. Two fingers — your thumb and your first finger — take the pencil
    near the front, near the tip, like a bird taking something small
-   with its beak.
+   with its beak. Then your middle finger comes up under the pencil
+   and pushes it up, so the pencil rests on your middle finger,
+   between your thumb and your first finger.
 
 ## Sub lesson 2 — Resting the pencil
 
@@ -42,6 +44,8 @@ made of your fingers.
 > fingers turn white, you are squeezing too hard. Loosen until the
 > color stays normal — the pencil should rest in your hand, not be
 > held tight.
+
+[Picture 7101 — the little brother holding a pencil the right way at his desk, looking down at it]
 
 ## Say it to your companion
 Explain to your companion: why does every language start here, and not

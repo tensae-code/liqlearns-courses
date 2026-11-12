@@ -57,16 +57,21 @@ A pencil and a table. Nothing else.
      different.
 2. **The explanation** — the five pictures from Egypt KG1, page 1:
    hand comes down open; thumb and first finger take the pencil near
-   the front, near the tip, like a bird's beak; it rests on the
-   middle finger; it tilts back into the soft place; you write
+   the front, near the tip, like a bird's beak; the middle finger
+   comes up under it and pushes, so it rests on the middle finger;
+   it tilts back into the soft place; you write
    (lesson/lesson.md).
    - ADD IMAGE for each step: a picture of the hand at step 1, then
      step 2, and so on — five pictures in a row — the student copies
      each picture with their own hand before moving to the next.
    - ADD GIF at step 2: a picture that moves — two fingers closing
      on a pencil near its tip, the way a bird's beak takes something
-     small, again and again — the student copies the beak move until
-     it is soft, not a squeeze.
+     small, then the middle finger coming up under the pencil and
+     pushing it up, so the pencil comes to rest on the middle finger,
+     between the thumb and the first finger, again and again — the
+     student copies the beak move until it is soft, not a squeeze,
+     pushes with the middle finger the same way, and lets the pencil
+     come to rest the same way.
 3. **Say it to your companion** — explain why every language starts
    here and not with A.
    - ADD VIDEO: the five steps filmed with a real hand and a real

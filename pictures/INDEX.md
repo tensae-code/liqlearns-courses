@@ -459,7 +459,7 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | Number | File | Tag (what it shows) | Used in |
 |---|---|---|---|
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |
-| 7888 | pictures/7888.gif | GIF — step 2 of the grip: close up, the little brother's thumb and first finger close on the pencil near the front, near the tip, like a bird's beak, lift it a little, settle it between the first finger and the thumb, and bring it to rest on the middle finger — the resting grip, held still to the end — remade 2026-11-12 (the first version pinched the eraser end; the second ended in a dangling two-finger pinch; both replaced) | Pencil and Lines — Holding a pencil (step 2) |
+| 7888 | pictures/7888.gif | GIF — step 2 of the grip: close up, the little brother's thumb and first finger pinch the pencil near the front, near the tip, like a bird's beak and lift it a little; then the middle finger comes up from below and pushes against the underside of the pencil, so the pencil rests on top of the middle finger, between the thumb and the pointing finger — the resting grip, held still to the end — remade 2026-11-12 as a drawn render (the first version pinched the eraser end; the second pinched the front but never pushed with the middle finger or rested on it; two generated takes of the push also missed it, so the push is drawn frame by frame) | Pencil and Lines — Holding a pencil (step 2) |
 | 7889 | pictures/7889.gif | GIF — step 3 of the grip: close up, the pencil rests across the little brother's middle finger with thumb and first finger resting lightly on top, settling still onto the paper — resting, not squeezed | Pencil and Lines — Holding a pencil (step 3) |
 | 7890 | pictures/7890.gif | GIF — step 4 of the grip: close up, the held pencil tilts back until its barrel rests in the soft place of the little brother's hand, the grip never letting go — resting, not squeezed | Pencil and Lines — Holding a pencil (step 4) |
 | 7891 | pictures/7891.gif | GIF — step 5 of the grip: the little brother writes a wavy line with the grip, the pencil leaning back at an angle like a small tree leaning, the grip the same all the way | Pencil and Lines — Holding a pencil (step 5) |
@@ -2303,3 +2303,11 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 14607 | pictures/14607.webp | a timeline of African instruments and styles | Performing and Visual Arts — History of African and World Music |
 | 14620 | pictures/14620.gif | GIF — note values in motion: whole (4) to half (2) to quarter (1), with a progress bar | Performing and Visual Arts — Moving in Note Values |
 | 14621 | pictures/14621.gif | GIF — reading the beat: a sol-fa row lights do-re-mi-fa-sol-la-do in order | Performing and Visual Arts — Reading the Beat |
+| 14400 | pictures/14400.webp | the three-beat diagram — beginning, middle, end | Performing and Visual Arts — Simple Drama Structures |
+| 14401 | pictures/14401.webp | the six arts inside theatre | Performing and Visual Arts — What Theatre Is |
+| 14402 | pictures/14402.webp | the plot mountain | Performing and Visual Arts — Literary Elements of Drama |
+| 14403 | pictures/14403.webp | film's seven preparation stages, as a strip | Performing and Visual Arts — Theatre and Film Through History |
+| 14404 | pictures/14404.webp | four camera shots of the same actor | Performing and Visual Arts — Elements of Film Making |
+| 14405 | pictures/14405.webp | Amhara dances by district, a table (incl. minjar) | Performing and Visual Arts — Ethiopian Traditional Dances |
+| 14406 | pictures/14406.webp | the thirteen natures board | Performing and Visual Arts — Indigenous Knowledge in Theatre and Film |
+| 14407 | pictures/14407.webp | the Wollo protocol ladder — 8 steps | Performing and Visual Arts — Folk Dance Styles and Eskesta |
