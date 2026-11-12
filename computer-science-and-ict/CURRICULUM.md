@@ -109,3 +109,15 @@ lesson (Page Numbers That Change by Section) stands on
 teacher-guide evidence only, labelled, counted nowhere. The
 Excel and PowerPoint parts of Unit 3 are band C4. The course
 now stands at 180 lessons.
+
+**Band C1 (Grade 9, Unit 1) — BUILT 2026-11-12:** 24 lessons
+(22 from the student book + 2 standing on teacher-guide
+evidence only, labelled, counted nowhere), 254 questions, 44
+media filed (pictures/GIFs 12500 and 12515–12557; an Afan
+Oromo stream filed 12501–12514 inside the range mid-build —
+the band skipped up inside its range and overwrote nothing) —
+the Files and Folders title opened: what a file is, File
+Explorer, making files of every kind, and every file operation
+in the book's exact step orders. The Grade 9 book's own shape
+is filed inside the opening lesson, What a File Is. The course
+now stands at 204 lessons.

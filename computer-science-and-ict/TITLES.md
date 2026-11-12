@@ -271,3 +271,20 @@ only). Grown in this band: Application Software (Sub lesson 5
 processors and functions in full), Opening a Word Processor
 (Sub lesson 5 — Word 2016 or later, two ways) and The Word
 Window (Sub lesson 4 — the window in ten elements).
+
+**Files and Folders** (band C1, from Ethiopia Grade 9): What a
+File Is · Folders — Containers for Files · Why We Organise
+Files into Folders · File Explorer — Naming Its Parts ·
+Opening File Explorer · Creating and Saving a Document File ·
+Making a Plain Text File in Notepad · Making a Picture in
+Paint · Recording an Audio File in Audacity (teacher-guide
+evidence only) · Starting a Presentation File · Creating a New
+Folder · Copying a File · Renaming a File or Folder · Renaming
+Many Files at Once · Navigating with the Address Bar · The
+Navigation Pane — Expanding the Folder Tree · Moving a File ·
+Deleting a File — Recycle Bin and Permanent Delete · Searching
+for a File · Drives — Where Files Live · Hard Disk, Optical
+Drive and Flash Drive · This PC — Seeing Every Drive; Safe
+Removal · File Explorer — Changing the View, Columns and
+Preview (teacher-guide evidence only) · Project: Design a
+Filing System.
