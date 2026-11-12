@@ -25,3 +25,14 @@ ethiopia-2026-11-11/build-logs/.
   (silage exclusions, anthrax handling, veterinary guidance).
 - Bands A (G11 Units 1–4), C (Units 9–12), D (Units 13–16 +
   guide) and E (Grade 12) register below as they land.
+- **Band C — Grade 11 Units 9–12** (29 lessons, 348 questions):
+  the dairy unit in Livestock (11 — breeds, feeding, the
+  lactation cycle, milk hygiene, cottage cheese and ghee, the
+  dairy business) and Units 10–12 in Soil and Land (18 —
+  natural resources, forests, soil, Ethiopia's eight river
+  basins, degradation and pollution, managing soil/water/
+  forests/the whole environment, indigenous knowledge,
+  biodiversity). Pictures 26200–26228, GIFs 26229–26233
+  (drawn, looked at / frame-checked). Figures checked before
+  teaching (305-day lactation, milk ≤4 °C, ghee at 110–120 °C
+  carried with an adult-work hot-fat safety rule).

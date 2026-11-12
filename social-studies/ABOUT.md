@@ -364,3 +364,17 @@ map of its eight units — the frame the Grade 12 geography
 lessons hang on. **The Grade 12 glossary** (student book #88):
 the book's own word list for the climate, issues and enquiry
 titles.
+
+## Ethiopia, Economics — the guides' apparatus (teacher evidence)
+
+**The Grade 11 guide's frame** (teacher guide #1 and #19):
+the guide's own course shape and closing apparatus for the
+Grade 11 economics book — the frame Bands C and D built
+against.
+
+**The Grade 12 guide's frame** (2011 GEQIP guide, placements
+1 and 50): the older guide's course shape and its closing
+provenance material, filed here as the record of the edition
+Band F's evidence comes from — the 2011 guide is not the
+companion to the 2023 student book, and nothing from it is
+taught as that book's answer key.

@@ -5072,3 +5072,113 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 26029 | pictures/26029.gif | grass being turned as it dries | Agriculture — Making hay |
 | 26030 | pictures/26030.gif | chopping, packing down and sealing the silo in sequence | Agriculture — Making and feeding silage |
 | 26031 | pictures/26031.gif | sunlight sweeping, correctly oriented barn staying shaded | Agriculture — Building an animal house that works |
+| 26200 | pictures/26200.webp | a dairy farm as one system — cow, feed, milk can, market | Agriculture — the-dairy-enterprise |
+| 26201 | pictures/26201.webp | three Ethiopian breeds in their home landscapes | Agriculture — ethiopias-own-dairy-breeds |
+| 26202 | pictures/26202.webp | a Holstein Friesian and a Jersey side by side, sizes and colours contrasted | Agriculture — exotic-dairy-breeds |
+| 26203 | pictures/26203.webp | a buyer judging one cow — udder, legs, body — at a market | Agriculture — choosing-a-dairy-cow |
+| 26204 | pictures/26204.webp | cows at a feed alley with a water trough measured out per cow | Agriculture — feeding-dairy-cattle |
+| 26205 | pictures/26205.webp | the lactation curve drawn over a year, colostrum marked at its start | Agriculture — the-lactation-cycle |
+| 26206 | pictures/26206.webp | the milk chain — milking, can, cooling tank, products | Agriculture — milk-hygiene-and-processing |
+| 26207 | pictures/26207.webp | cottage cheese being pressed in muslin; a pan of ghee clarifying | Agriculture — making-cottage-cheese-and-ghee |
+| 26208 | pictures/26208.webp | a milking area being washed down, surfaces labelled | Agriculture — dairy-housing-and-sanitation |
+| 26209 | pictures/26209.webp | a cow with mastitis symptoms marked at the udder | Agriculture — dairy-cattle-diseases |
+| 26210 | pictures/26210.webp | a simple dairy profit diagram — milk money in, feed cost out, the forage field shrinking the gap | Agriculture — the-dairy-business |
+| 26211 | pictures/26211.webp | a landscape split — forest regrowing on one side, a mine emptying on the other | Agriculture — natural-resources-renewable-and-not |
+| 26212 | pictures/26212.webp | one great tree with its gifts labelled around it | Agriculture — what-forests-give-us |
+| 26213 | pictures/26213.webp | a soil profile with its layers exposed in a pit | Agriculture — soil-the-resource-under-our-feet |
+| 26214 | pictures/26214.webp | a map of Ethiopia's river basins flowing outward | Agriculture — ethiopias-water-eight-river-basins |
+| 26215 | pictures/26215.webp | a gully cutting through farmland | Agriculture — soil-degradation |
+| 26216 | pictures/26216.webp | a river passing a factory and a sprayed field, changing colour | Agriculture — how-water-gets-polluted |
+| 26217 | pictures/26217.webp | a forest edge retreating year by year, animals leaving with it | Agriculture — forests-and-wildlife-in-decline |
+| 26218 | pictures/26218.webp | a mine pit beside a village, dust over both | Agriculture — air-pollution-and-mining |
+| 26219 | pictures/26219.webp | a finite store — one pile of coal shrinking as it is used carelessly, lasting as it is used carefully | Agriculture — why-resources-must-be-managed |
+| 26220 | pictures/26220.webp | a terraced, manured field beside a compacted, eroded one | Agriculture — managing-soil |
+| 26221 | pictures/26221.webp | roof gutters running into a storage tank above a dry garden | Agriculture — managing-farm-water |
+| 26222 | pictures/26222.webp | a community woodlot being cut in strips and replanted | Agriculture — managing-forests-and-wildlife |
+| 26223 | pictures/26223.webp | one valley drawn whole — soil, river, forest, farm — with care points marked on each | Agriculture — managing-the-whole-environment |
+| 26224 | pictures/26224.webp | North Shewa stone bunds following the contour of a hillside farm | Agriculture — indigenous-knowledge-caring-for-land |
+| 26225 | pictures/26225.webp | one grassland scene crowded with labelled species, genes and habitats | Agriculture — biodiversity-the-variety-of-life |
+| 26226 | pictures/26226.webp | wild relatives of wheat and cattle standing behind the farm versions they support | Agriculture — what-biodiversity-does-for-us |
+| 26227 | pictures/26227.webp | a forest being cleared at one edge, an invasive plant spreading at the other | Agriculture — what-threatens-biodiversity |
+| 26228 | pictures/26228.webp | a protected forest area marked on Ethiopia's map with the species it shelters | Agriculture — conserving-biodiversity-in-ethiopia |
+| 26229 | pictures/26229.gif | the lactation curve tracing itself month by month | Agriculture — the-lactation-cycle |
+| 26230 | pictures/26230.gif | butter melting and clearing into ghee | Agriculture — making-cottage-cheese-and-ghee |
+| 26231 | pictures/26231.gif | water cycling — evaporation, cloud, rain, river | Agriculture — ethiopias-water-eight-river-basins |
+| 26232 | pictures/26232.gif | rain stripping topsoil down a bare slope | Agriculture — soil-degradation |
+| 26233 | pictures/26233.gif | rain filling a harvesting pond, then watering crops in a dry spell | Agriculture — managing-farm-water |
+| 24900 | pictures/24900.webp | an upward consumption line starting above the origin, its intercept and slope labelled | Social Studies — macroeconomics/consumption-function-autonomous-and-induced-spending |
+| 24901 | pictures/24901.webp | two households, one poor with an APC bar over 100%, one richer below it | Social Studies — macroeconomics/average-propensity-to-consume |
+| 24902 | pictures/24902.webp | a small income step and the smaller consumption step it induces, the leftover step labelled saved | Social Studies — macroeconomics/marginal-propensity-to-consume |
+| 24903 | pictures/24903.webp | six dials around a household budget — income, its distribution, tax, expectations, interest, wealth | Social Studies — macroeconomics/what-else-moves-consumption |
+| 24904 | pictures/24904.webp | a saving line starting below zero and crossing into positive territory as income grows | Social Studies — macroeconomics/the-saving-function |
+| 24905 | pictures/24905.webp | one income bar split into a consumed segment and a saved segment with both ratios marked | Social Studies — macroeconomics/average-propensity-to-save |
+| 24906 | pictures/24906.webp | an extra-income coin splitting into a large saved part for a rich household, a small one for a poor household | Social Studies — macroeconomics/marginal-propensity-to-save |
+| 24907 | pictures/24907.webp | seven labelled levers beside a savings jar, the miser and spendthrift at either end | Social Studies — macroeconomics/what-moves-saving |
+| 24908 | pictures/24908.webp | the consumption line crossing the 45-degree line, dissaving shaded below the crossing, saving above | Social Studies — macroeconomics/consumption-and-saving-two-halves-of-income |
+| 24909 | pictures/24909.webp | a circle of members passing contributions into a central pot, one member receiving it | Social Studies — market-and-money/iqub-saving-together-the-ethiopian-way |
+| 24910 | pictures/24910.webp | a factory's machinery wearing down while new machines arrive, the net gain bracketed | Social Studies — macroeconomics/investment-gross-and-net |
+| 24911 | pictures/24911.webp | two panels — a flat line labelled government welfare-driven, a rising line labelled profit-driven | Social Studies — macroeconomics/autonomous-and-induced-investment |
+| 24912 | pictures/24912.webp | a factory going up beside a dam, a school and a pension payment — the three public classes captioned | Social Studies — macroeconomics/private-and-public-investment |
+| 24913 | pictures/24913.webp | a 15 percent bank poster with an 8 percent slice eaten away by inflation, leaving 7 percent | Social Studies — macroeconomics/real-interest-rate-nominal-minus-inflation |
+| 24914 | pictures/24914.webp | three big dials — interest rate, expected sales, business tax — above a map of Ethiopia pinned with the firm-challenge list | Social Studies — macroeconomics/what-decides-investment |
+| 24915 | pictures/24915.webp | a small rise in shoppers' demand becoming a large rise in machine orders | Social Studies — macroeconomics/the-accelerator-how-demand-growth-pulls-investment |
+| 24916 | pictures/24916.webp | a chain from producer to a wholesaler's warehouse to a small retail shop to a customer | Social Studies — market-and-money/domestic-trade-wholesale-and-retail |
+| 24917 | pictures/24917.webp | a world map with unequal resource icons — coffee here, machines there — and trade arrows between them | Social Studies — macroeconomics/why-countries-trade |
+| 24918 | pictures/24918.webp | a balance with exports on one pan and gold coins piling on the other, imports being turned away at a gate | Social Studies — macroeconomics/mercantilism-the-gold-view-of-trade |
+| 24919 | pictures/24919.webp | the before and after production table as two bar pairs, coffee for Ethiopia, cloth for China | Social Studies — macroeconomics/absolute-advantage-adam-smith |
+| 24920 | pictures/24920.webp | the labour-hours table converting into an opportunity-cost table, the two lowest costs starred | Social Studies — macroeconomics/comparative-advantage-david-ricardo |
+| 24921 | pictures/24921.webp | three stacked balance bars — goods, services, transfers — adding into one current-account total | Social Studies — macroeconomics/the-current-account |
+| 24922 | pictures/24922.webp | two tanks, current and capital, with a reserve tank below catching any shortfall | Social Studies — macroeconomics/the-capital-account-and-how-deficits-get-settled |
+| 24923 | pictures/24923.webp | two gates — one charging a toll (tariff), one with a counter that closes after a fixed number of crates (quota) | Social Studies — macroeconomics/tariffs-and-quotas-restricting-trade |
+| 24924 | pictures/24924.webp | a fork — one road building the imported good at home behind a wall, the other shipping local goods out through an open gate | Social Studies — macroeconomics/import-substitution-versus-export-promotion |
+| 24925 | pictures/24925.webp | a currency-exchange board showing USD 45 and EUR 53 against the birr, stamped at time of going to press | Social Studies — macroeconomics/exchange-rates-the-price-of-a-currency |
+| 24926 | pictures/24926.webp | the worked burger comparison — one US burger against a stack of 3.75 Ethiopian burgers | Social Studies — macroeconomics/the-real-exchange-rate |
+| 24927 | pictures/24927.webp | a rate pegged to a post by the central bank, with foreign-currency reserves as sandbags around it | Social Studies — macroeconomics/fixed-exchange-rates |
+| 24928 | pictures/24928.webp | a rate line drifting on waves with a central-bank hand occasionally steadying it; the 45 to 50 and 45 to 30 moves labelled | Social Studies — macroeconomics/floating-exchange-rates-appreciation-and-depreciation |
+| 24929 | pictures/24929.webp | neighbouring countries lowering the fences between them, three benefit suns and three cost clouds above | Social Studies — macroeconomics/regional-integration-gains-and-costs |
+| 24930 | pictures/24930.webp | a four-step staircase — free trade area, customs union, common market, economic union — each step shedding one more barrier | Social Studies — macroeconomics/stages-of-economic-integration |
+| 24931 | pictures/24931.webp | Addis Ababa's skyline with the AU headquarters, trade and data lines radiating to other continents | Social Studies — global-issues/globalization-ethiopia-in-a-connected-world |
+| 24932 | pictures/24932.webp | two ladders — a single money rung-count for growth, a many-runged ladder (health, schooling, freedom, equality) for development | Social Studies — ethiopia-and-development/growth-versus-development |
+| 24933 | pictures/24933.webp | a balance of output sacks against input sacks tipping three different favourable ways | Social Studies — ethiopia-and-development/productivity-more-from-what-you-have |
+| 24934 | pictures/24934.webp | three pillars — a heartbeat, a schoolbook, a coin — holding up one HDI score | Social Studies — ethiopia-and-development/the-human-development-index |
+| 24935 | pictures/24935.webp | three goalpost scales being read off and averaged, Ethiopia's 0.485 flag planted on a world ranking line | Social Studies — ethiopia-and-development/calculating-an-hdi |
+| 24936 | pictures/24936.webp | an HDI scoreboard with inequality, poverty and gender gaps visible as shadows behind it | Social Studies — ethiopia-and-development/what-the-hdi-leaves-out |
+| 24937 | pictures/24937.webp | two figures eating the same small meal, one with an open door of choices behind him, the other with the door locked | Social Studies — ethiopia-and-development/the-capability-approach-freedom-as-development |
+| 24938 | pictures/24938.webp | a roof held by three pillars — economy, environment, society — with a child of the next generation under it | Social Studies — ethiopia-and-development/sustainable-development-three-pillars |
+| 24939 | pictures/24939.webp | eight goal icons in a row with a 2015 finish line | Social Studies — ethiopia-and-development/the-millennium-development-goals |
+| 24940 | pictures/24940.webp | the 17-goal wheel beside a map of Africa marked 2013 to 2063 | Social Studies — ethiopia-and-development/the-sustainable-development-goals-and-agenda-2063 |
+| 24941 | pictures/24941.webp | a timeline of Ethiopian plans — SDPRP, PASDEP, GTP I, GTP II, Prosperity Plan — under MDG and SDG flags | Social Studies — ethiopia-and-development/ethiopias-development-plans-from-sdprp-to-the-prosperity-plan |
+| 24942 | pictures/24942.webp | many small farms each receiving the same seed-and-fertiliser package | Social Studies — ethiopia-and-development/uni-modal-strategy-betting-on-the-smallholder |
+| 24943 | pictures/24943.webp | a split landscape — small plots on one side, one large mechanised commercial farm on the other | Social Studies — ethiopia-and-development/bi-modal-strategy-small-farms-and-big-farms-together |
+| 24944 | pictures/24944.webp | a tractor plantation beside a package-project depot handing seed and fertiliser to smallholders, CADU, WADU and the Adaa project named | Social Studies — ethiopia-and-development/imperial-era-agriculture-commercial-farms-and-packages |
+| 24945 | pictures/24945.webp | state farm and cooperative signboards over fields, a grain-quota truck being loaded at a fixed price | Social Studies — ethiopia-and-development/agriculture-under-the-derg-nationalisation-and-collectivisation |
+| 24946 | pictures/24946.webp | a dry field split with an irrigated green field, the problem list on one side, remedies on the other | Social Studies — ethiopia-and-development/ethiopian-agriculture-problems-and-remedies |
+| 24947 | pictures/24947.webp | a 1960s textile mill behind a tariff wall, foreign-flagged, beside handicraft workshops | Social Studies — ethiopia-and-development/imperial-era-industry-import-substitution-behind-tariffs |
+| 24948 | pictures/24948.webp | a nationalised factory under a state-corporation sign, a price-control board, and a birr-500,000 cap stamped on a private investor's plan | Social Studies — ethiopia-and-development/industry-under-the-derg-state-corporations-and-controls |
+| 24949 | pictures/24949.webp | a strategy board — engine labelled private sector, driver labelled government, priority-sector badges pinned below | Social Studies — ethiopia-and-development/the-industrial-development-strategy-the-developmental-state |
+| 24950 | pictures/24950.webp | an aerial view of a specialised industrial park beside a railway line running toward a port | Social Studies — ethiopia-and-development/industrial-parks-ethiopias-factory-zones |
+| 24951 | pictures/24951.webp | four blocked gears labelled finance, marketing, technology, inputs, with the remedy list as tools beside them | Social Studies — ethiopia-and-development/ethiopian-industry-problems-and-remedies |
+| 24952 | pictures/24952.webp | a market street of services — bank, clinic, school, garage, theatre — sorted under the three activity labels | Social Studies — ethiopia-and-development/the-service-sector |
+| 24953 | pictures/24953.webp | a three-panel timeline — a 1974 review document, students marching to a rural campaign, an ESDP six-box diagram | Social Studies — ethiopia-and-development/education-policy-in-ethiopia-three-regimes |
+| 24954 | pictures/24954.webp | a district health centre with preventive, curative and family-planning doors, a decentralisation arrow from ministry to district | Social Studies — ethiopia-and-development/health-policy-in-ethiopia-the-1993-policy-and-hsdp |
+| 24955 | pictures/24955.webp | a state-controlled depot gate in 1976 opening into many independent truck associations in 1992 | Social Studies — ethiopia-and-development/transport-deregulation-in-ethiopia |
+| 24956 | pictures/24956.webp | a rock-hewn church and a mountain national park behind a visitors welcome sign still being painted | Social Studies — ethiopia-and-development/tourism-in-ethiopia-unexploited-potential |
+| 24957 | pictures/24957.webp | a two-column ledger, credits in, debits out, overall balance settled from reserves | Social Studies — macroeconomics/the-balance-of-payments |
+| 24958 | pictures/24958.webp | a smallholder field with forward and backward linkage arrows — ADLI | Social Studies — ethiopia-and-development/adli-agriculture-leading-industrialization |
+| 24970 | pictures/24970.gif | the pot rotating from member to member around the circle | Social Studies — market-and-money/iqub-saving-together-the-ethiopian-way |
+| 24971 | pictures/24971.gif | demand rising a little, investment rising a lot, in step | Social Studies — macroeconomics/the-accelerator-how-demand-growth-pulls-investment |
+| 24972 | pictures/24972.gif | workers in both countries switching entirely to their strong good and output bars growing | Social Studies — macroeconomics/absolute-advantage-adam-smith |
+| 25500 | pictures/25500.webp | Ethiopia resource map — rivers, sun, livestock, farmland | Social Studies — Ethiopia's resource base |
+| 25501 | pictures/25501.webp | Three-regime timeline ending at PASDEP (2005/06) | Social Studies — Development plans — the long view |
+| 25502 | pictures/25502.webp | Balance — plough vs factory, tipped to the plough | Social Studies — Agriculture first or industry first |
+| 25503 | pictures/25503.webp | Small farms, one shared stream of seed and fertiliser | Social Studies — Unimodal strategy |
+| 25504 | pictures/25504.webp | Smallholder plot + mechanised estate, one banner | Social Studies — Bimodal strategy |
+| 25505 | pictures/25505.webp | Four intensive zones glowing on a dotted country | Social Studies — Package projects |
+| 25506 | pictures/25506.webp | Enrollment gauge climbing, PTR gauge strained | Social Studies — Education as a service sector |
+| 25507 | pictures/25507.webp | Health-post map, distance rings, uneven access | Social Studies — Health as a service sector |
+| 25508 | pictures/25508.webp | Four modes over one map | Social Studies — Transport |
+| 25509 | pictures/25509.webp | Farmer on a phone, price board behind | Social Studies — Communication |
+| 25510 | pictures/25510.webp | Ration coupon vs open market stall | Social Studies — Trade policy |
+| 25511 | pictures/25511.webp | Three labelled levers on one 1993 console | Social Studies — Structural adjustment |
+| 25512 | pictures/25512.webp | Deficit line falling, one war-year spike | Social Studies — After the reform |
+| 25513 | pictures/25513.webp | Gate widening, 1992 → 2003, threshold stepping down | Social Studies — Investing in Ethiopia after 1991 |

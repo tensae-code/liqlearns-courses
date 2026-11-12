@@ -12,7 +12,8 @@ them, and the world they are growing into.
 → People and Resources → Ethiopia: Ancient and Medieval → Africa
 to 1500 → The Ancient World → The Land and Air → Culture and
 Work → Resources and Conflict → Modern Ethiopia → Africa after
-1500 → The Modern World → Global Issues**
+1500 → The Modern World → Global Issues → Microeconomics →
+Market and Money → Macroeconomics → Ethiopia and Development**
 
 That ladder IS the path order (recommended, never forced — a
 learner can jump in higher; the "start here instead" path points

@@ -12,3 +12,13 @@ countries: Ethiopia
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: cash crops, coffee exports, oilseeds, pulses, khat, flowers, social studies
+
+## Teacher-guide evidence added (Wave 4, Band F)
+
+**Book (added):** *Economics, Teacher's Guide, Grade 12* (teacher's guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Authors, Editors and Reviewers: Mahlet Belayneh (MBA), Mesfin Weldeselassie (M.A.), Negatu Legesse (M.Sc.), Yewbdar Tasew (M.Sc.), Birhanu Denu (Ph.D.), C. K Bansal (M.A.). Published E.C. 2003 (© 2011) under GEQIP (IDA Credit No. 4535-ET), Star Educational Books Distributors Pvt. Ltd. / Aster Nega Publishing Enterprise. ISBN: 978-99944-2-147-3. Printed page = PDF page − 11. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-teacher-placements.md. EDITION NOTE: this is the 2011 GEQIP guide, NOT the companion to the 2023 Grade 12 student textbook — different team, publisher, ISBN and curriculum; used as older-vintage evidence only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agricultural performance — crops and livestock (teacher guide — evidence) | Ethiopia, *Economics, Teacher's Guide, Grade 12* (2011 GEQIP edition), printed pp. 25–27 — placement 11 |
+
+Teacher-guide evidence never counts as pupil-taught; this lesson's acceptance count above is unchanged.

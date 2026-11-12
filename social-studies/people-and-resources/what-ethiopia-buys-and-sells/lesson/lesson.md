@@ -23,3 +23,7 @@ Tell your companion what Ethiopia buys and sells, and what the deficit means.
 1. Name three exports and three imports.
 2. Define trade deficit in one sentence.
 3. Say what the deficit reflects about factories.
+
+## Going further — Older evidence — trade's history, payments and structure (2011 guide)
+
+An older guide runs trade from the Axumite period (which already taxed it) through its modern shape under Menelik II to the 1974 nationalisations and the post-1992 liberalisation. International trade lets a country consume beyond what it produces, earns the foreign exchange that pays for imports, encourages specialisation and creates interdependence; the key lists its restrictions (quotas, tariffs, exchange control) and its modes of payment (banker's transfer, bill of exchange, letter of credit). On structure: after 1991 the Derg's corporations were restructured to compete — AMC into the Ethiopian Grain Trade Enterprise (EGTE) in 1992, charged with stabilising consumer markets profitably — while private wholesale and retail revived. The key is blunt: Ethiopia is a price-taker in almost all its commodities; exports are a few primary products (coffee first) against imports dominated by industrial goods; COMESA trade stays loose; and the major trading partners named are Germany, the Netherlands, Switzerland, Italy, China, Saudi Arabia, the UAE, Israel, Sudan and Djibouti.

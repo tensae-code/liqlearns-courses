@@ -332,3 +332,44 @@ REMAINDER: G12 Units 1, 3, 4 and 5 were outside this band's
 scope and pass to a follow-up band (Geo F), with the G12 guide's
 Ethiopia/Horn items. Build log: ethiopia-2026-11-11/build-logs/
 wave4-geo-E-g12-climate-issues.md.
+
+## Ethiopia Economics — the four titles open (Wave 4, 2026-11-12)
+
+Economics stocks inside Social Studies in four NEW titles, added
+to the path in TITLES.md after Global Issues: **Microeconomics**,
+**Market and Money**, **Macroeconomics**, **Ethiopia and
+Development** (some lessons also land in Global Issues and
+People and Resources, where the books put them). Bands register
+here as they land; counts are per band from the build logs.
+
+- **Band D — Grade 11 second part + guide** (57 created + 2
+  extended, 708 new questions; pictures 24900–24958, GIFs
+  24970–24972): consumption/saving/investment (incl. Iqub —
+  saving together the Ethiopian way, and the accelerator), the
+  trade and finance set, the development set (calculating an
+  HDI, the capability approach, Ethiopia's development plans)
+  and the Ethiopia sectors set; the balance of payments and the
+  ADLI lesson extended. Its cut line: Units 4–7, placements
+  48–106 (Band C takes Units 1–3). Errors taught corrected and
+  named in sources: the 80 birr is autonomous, not "induced";
+  the HDI goalposts follow the worked example (the only reading
+  that reproduces the book's own 0.75); the guide key's "HDI"
+  PQLI item corrected to the Physical Quality of Life Index.
+- **Band F — Grade 12 teacher guide (evidence)** (14 lessons
+  created, 168 questions; pictures 25500–25513): the guide is
+  the **2011 GEQIP** edition, NOT the companion to the 2023
+  student book — everything it stocks is labelled older
+  evidence, never an answer key for the 2023 book. 26 placements
+  folded into 14 standing lessons as labelled "older evidence"
+  sections; 14 standalone guide-only lessons created in Ethiopia
+  and Development (resource base, development plans, unimodal /
+  bimodal strategies, package projects, the service sectors,
+  structural adjustment 1993–1996, the 1990s scoreboard,
+  investing after 1991), each carrying the 0-countries line.
+  50/50 placements accounted. The guide's §6.5 review key
+  (five birr results and a deficit figure) is unverifiable —
+  no workings in the placements — so it is NOT taught as worked
+  answers; "Gross Domestic Service" corrected to Gross Domestic
+  Saving in sources.
+- Bands A (G9), B (G10), C (G10 guide + G11 first part) and
+  E (G12 student) register here as they land.

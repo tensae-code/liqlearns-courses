@@ -23,3 +23,7 @@ Tell your companion what Ethiopia sells to tourists, what tourism gives back, an
 1. Name the two attraction families with an example each.
 2. Give three contributions of tourism.
 3. Name the kind of constraints on growth.
+
+## Going further — Older evidence — tourism: earnings and obstacles (2011 guide)
+
+An older guide treats tourism — movement away from normal residence for holidays, recreation, business and visits — as a service that earns foreign exchange, employs poor people, expands economic opportunity, pulls in infrastructure that also serves locals (water, transport, electricity), raises living standards and exchanges culture and knowledge. It is measured by tourist flow, foreign-exchange generation and employment creation. Its keyed obstacles: a shortage of tourist facilities, limited promotion, and a lack of professional and skilled personnel — against assets the key names as UNESCO-recognised: Axum's obelisks, Gondar's castles and the walls of Harar.

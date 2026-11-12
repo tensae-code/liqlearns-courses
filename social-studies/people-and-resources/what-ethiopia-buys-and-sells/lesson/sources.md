@@ -12,3 +12,16 @@ countries: Ethiopia
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: trade, exports, imports, trade deficit, coffee exports, social studies
+
+## Teacher-guide evidence added (Wave 4, Band F)
+
+**Book (added):** *Economics, Teacher's Guide, Grade 12* (teacher's guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Authors, Editors and Reviewers: Mahlet Belayneh (MBA), Mesfin Weldeselassie (M.A.), Negatu Legesse (M.Sc.), Yewbdar Tasew (M.Sc.), Birhanu Denu (Ph.D.), C. K Bansal (M.A.). Published E.C. 2003 (© 2011) under GEQIP (IDA Credit No. 4535-ET), Star Educational Books Distributors Pvt. Ltd. / Aster Nega Publishing Enterprise. ISBN: 978-99944-2-147-3. Printed page = PDF page − 11. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-teacher-placements.md. EDITION NOTE: this is the 2011 GEQIP guide, NOT the companion to the 2023 Grade 12 student textbook — different team, publisher, ISBN and curriculum; used as older-vintage evidence only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Trade — history, role and payment (teacher guide — evidence) | Ethiopia, *Economics, Teacher's Guide, Grade 12* (2011 GEQIP edition), printed pp. 82–83, 93–94 — placement 30 |
+| The structure of Ethiopian trade (teacher guide — evidence) | Ethiopia, *Economics, Teacher's Guide, Grade 12* (2011 GEQIP edition), printed pp. 87–88, 95–98 — placement 32 |
+
+Teacher-guide evidence never counts as pupil-taught; this lesson's acceptance count above is unchanged.
+
+Honesty: The guide prints the restructured EDDC's new name as the merged 'Merchandise Wholesale and Ethiopian Grain Trade Enterprise (MWEGE)' — a merged misprint, named here only; no enterprise is taught under that name.
