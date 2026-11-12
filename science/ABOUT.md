@@ -79,6 +79,104 @@ student book's introduction and the two regional guides' course
 structure, whose syllabus and answer-key stock is carried in the
 lessons' sources rather than built as lessons.
 
+## The books (Ethiopia, General Science — Grades 7–8)
+
+Built from the placements at `liqlearns-courses-work/ethiopia-2026-11-11/general-science/`.
+The student textbooks are the Amhara regional books (© 2015 E.C.); the
+two teacher guides below are **not edition-matched companions** to
+them — the Grade 7 guide is an Addis Ababa City Administration
+Education Bureau book (© 2023) and the Grade 8 guide serves the
+Federal Ministry of Education's new syllabus (implemented from
+2014 E.C., no bureau or year printed). Guide material stands in the
+lessons as syllabus-level teacher evidence only, labelled
+"(teacher guide — evidence)", and is counted nowhere as
+pupil-taught. What follows files the guides' course-level placements:
+their ways of teaching, their pacing, and their answer keys as the
+verified answer source for question building.
+
+- **The Grade 7 guide's way (teacher guide — evidence).** General
+  Science Teacher's Guide, Grade 7 — Addis Ababa City Administration
+  Education Bureau, © 2023, printed pp. IV–VIII. A competency-based
+  year of **156 periods**: Unit 1 Basic Concepts 11, Unit 2 Matter
+  38, Unit 3 Elements/Compounds/Reactions 17, Unit 4 Cell 23,
+  Unit 5 Living Things 23, Unit 6 The Earth 16, Unit 7
+  Motion/Force/Energy 28. Every lesson runs in a fixed rhythm —
+  warm up → group discussion of the textbook activity → group
+  presentation → the teacher "harmonises concepts" → stabilisation
+  (short notes, set questions, feedback) → continuous assessment
+  with rescue work for learners below the minimum level and
+  extension for those above it. The teacher is facilitator and
+  mentor, never lecturer throughout. Its printed methods catalogue
+  weighs the trade-offs honestly (brainstorming surfaces
+  misconceptions but can be revisited after the lesson; lecture
+  informs but passivates; discussion includes all but can be
+  dominated and lose the thread). Three outcome domains run
+  throughout: knowledge, skills, and values/attitudes. This rhythm
+  and budget are the Grade 7 General Science teaching pattern of
+  this course.
+- **The Grade 7 syllabus tables — the pacing reference (teacher
+  guide — evidence).** The same guide, printed pp. 158–219. The
+  guide closes with the full Grade 7 syllabus in table form — for
+  every section: competencies, suggested activities, and
+  assessment — confirming the 156-period budget section by section.
+  These tables are filed here as the course's Grade 7 pacing
+  contract: the checklist against which the student book's coverage
+  was verified. Where the syllabus promises a section the Amhara
+  student book lacks (the atmosphere's layers; resource depletion
+  and degradation), the lessons carry it from the guide as labelled
+  evidence, and say so in their sources.
+- **The Grade 7 guide's answer keys (teacher guide — evidence).**
+  The same guide, throughout (e.g. printed pp. 8–10, 44, 156–157).
+  Every unit's review exercise is fully keyed in the guide —
+  true/false, matching, fill-blank, multiple choice and short
+  answers (Unit 1's keys name Professor Gebisa Ejeta in a
+  fill-blank). The keys confirm the student book's review sets are
+  assessable as printed, and they are the verified answer source
+  used when building this course's Grade 7 General Science
+  questions.
+- **The Grade 8 guide's way (teacher guide — evidence).** General
+  Science Teacher Guide, Grade 8 — federal new syllabus (from
+  2014 E.C.), no bureau or publication year printed, printed
+  pp. 4–7. A year of **168 periods**: Unit 1 Basics of Scientific
+  Investigation 18, Unit 2 Composition of Matter 12, Unit 3
+  Classification of Compounds 23, Unit 4 Human Body Systems and
+  Health 32, Unit 5 Ecosystem and Conservation of Natural
+  Resources 35, Unit 6 The Solar System 24, Unit 7 Physical
+  Phenomena in the Surrounding 24. Teaching runs through the **5E
+  instructional model** (after Rodger Bybee): Engage → Explore →
+  Explain → Elaborate → Evaluate — the teacher presents a situation
+  and sets the task, pupils explore through concrete experiences,
+  pupils share their models before the teacher supplies concepts,
+  concepts are applied and extended, and feedback closes the loop.
+  Continuous assessment is specified as seven techniques:
+  observation, presentation, participation in group work, oral
+  questions, written reports, demonstration and experiment; each
+  unit also carries a pupil self-check list, and outcomes are
+  tracked across knowledge, attitudes and skills. This 5E cycle and
+  budget are the Grade 8 General Science teaching pattern of this
+  course. (The guide's own period sums disagree inside some units;
+  the front-table unit totals above are the consistent set, as its
+  readers recorded.)
+- **The Grade 8 guide's keys, extra question bank and references
+  (teacher guide — evidence).** The same guide, throughout;
+  references printed pp. 139–141. Every activity, exercise, project
+  and unit review is keyed, and most sections add a starred
+  **Additional Questions** set with its own key — the extra verified
+  question source for this course's Grade 8 General Science
+  questions. The keys are used **corrected**: the guide's readers
+  recorded errors in them (a wrong planet order in two exercise
+  keys where the end-of-unit key is right, 0.0012 s keyed as
+  "1.2 µs" instead of 1.2 ms, the SI unit of mass keyed with the
+  symbol "(m)", swapped hydrogen-phosphate labels, and a
+  neutralisation equation printed with an extra water) — the
+  lessons teach the corrected forms and name the errors in their
+  sources, never here. The book closes with a combined reference
+  list (printed pp. 139–141: general chemistry texts, biology
+  references, physics texts, the Ethiopian Space Science and
+  Technology Institute, and eleven websites including the 5E-model
+  source) — the provenance pool for the guide's teacher notes,
+  filed here as the placement directs.
+
 ## The books (Ethiopia, Biology — Wave 4, 2026-11-12)
 
 Built from the placements at `liqlearns-courses-work/ethiopia-2026-11-11/biology/`.
