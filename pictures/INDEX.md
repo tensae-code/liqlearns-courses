@@ -4293,3 +4293,53 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 21978 | pictures/21978.gif | floodwater rising around a high-ground house that stays dry | Social Studies — Adapting when you can't modify — PASS: water reaches the ground line, house floor stays above it |
 | 21979 | pictures/21979.gif | region selected in the table, other layers fading | Social Studies — Make your region's map in ArcMap — PASS |
 | 21980 | pictures/21980.gif | the population curve bending sharply upward | Social Studies — The world's population explosion — PASS: flat to 1950, then steep to 6.1 billion at 2000 |
+| 29000 | pictures/29000.webp | five pillars under one constitution book | Civics and Citizenship — Ethiopia — Principles of the FDRE Constitution — sovereignty, supremacy, rights, secular state, accountability |
+| 29001 | pictures/29001.webp | polling queue and a prison door opened to a lawyer | Civics and Citizenship — Ethiopia — Human and democratic rights — from the UDHR to Ethiopia's constitution |
+| 29002 | pictures/29002.webp | a lawful march, permit in the leader's hand | Civics and Citizenship — Ethiopia — Citizens' obligations — and the demonstration as right and duty |
+| 29003 | pictures/29003.webp | a school notice board with budgets posted | Civics and Citizenship — Ethiopia — Features of democracy — transparency and accountability |
+| 29004 | pictures/29004.webp | a map of Ethiopia's regions, small peoples' seats starred | Civics and Citizenship — Ethiopia — Federalism in Ethiopia — the ethnic federation and how it was argued for |
+| 29005 | pictures/29005.webp | the AU building in Addis Ababa and a 1923 League card | Civics and Citizenship — Ethiopia — Ethiopia in the world — League of Nations, OAU to AU, and its foreign policy |
+| 29006 | pictures/29006.webp | two constitution books open side by side | Civics and Citizenship — Ethiopia — Rule of law and the two constitutions — federal and regional |
+| 29007 | pictures/29007.webp | a courthouse in a storm labelled corruption | Civics and Citizenship — Ethiopia — Why rule of law is necessary — when it breaks down |
+| 29008 | pictures/29008.webp | school students marching in Soweto, 1976 | Civics and Citizenship — Ethiopia — Limited versus unlimited government — Soweto and Biko |
+| 29009 | pictures/29009.webp | a president's office door, headline pinned to it | Civics and Citizenship — Ethiopia — Fighting corruption — Watergate and the Ethics and Anti-Corruption Commission |
+| 29010 | pictures/29010.webp | a classroom wall of alphabets — many scripts, one school | Civics and Citizenship — Ethiopia — Equality of nations, nationalities and peoples — language and the land |
+| 29011 | pictures/29011.webp | a dam wall, a village, a lit city, a balance | Civics and Citizenship — Ethiopia — The individual versus the public interest — dams and resettlement |
+| 29012 | pictures/29012.webp | a runner crossing the line, women's seats filling behind | Civics and Citizenship — Ethiopia — Gender equality — law, harmful practices and women's achievement |
+| 29013 | pictures/29013.webp | a young Hamer man mid-leap over the bulls | Civics and Citizenship — Ethiopia — Negating diversity — India's lesson and the Hamer |
+| 29014 | pictures/29014.webp | a balance — school and clinic against tax coins | Civics and Citizenship — Ethiopia — Fairness — benefits and burdens, and who pays |
+| 29015 | pictures/29015.webp | a tenant handing over three of every four sacks | Civics and Citizenship — Ethiopia — Equitability analysed — tenants, landlords and Bloody Sunday |
+| 29016 | pictures/29016.webp | two doors — courthouse and elders' court | Civics and Citizenship — Ethiopia — The justice system — courts, customary justice, and the Red Terror's warning |
+| 29017 | pictures/29017.webp | a judge's bench and a refused application form | Civics and Citizenship — Ethiopia — How courts work — impartiality, nepotism and stereotyping |
+| 29018 | pictures/29018.webp | two pay packets of 4,000 Birr | Civics and Citizenship — Ethiopia — Fairness in taxation — from cattle tribute to VAT, and the 4,000-Birr debate |
+| 29019 | pictures/29019.webp | two history books over one flag, a magnifying glass | Civics and Citizenship — Ethiopia — Bases of patriotism — true history, the flag, tolerance |
+| 29020 | pictures/29020.webp | three scenes — nurse, worker, policeman | Civics and Citizenship — Ethiopia — A patriot's responsibilities — the nurse, the whistle-blower and the drunk driver |
+| 29021 | pictures/29021.webp | a river past a turbine, granary and school, with a gauge | Civics and Citizenship — Ethiopia — Development — measuring it, and Ethiopia's potential |
+| 29022 | pictures/29022.webp | a diaspora-funded clinic opening in a home village | Civics and Citizenship — Ethiopia — Voluntarism — from Iddir roots to the 2009 Charities Proclamation |
+| 29023 | pictures/29023.webp | two farmers and an elder at a boundary stone | Civics and Citizenship — Ethiopia — Obligations in society — participation, negotiation, compromise |
+| 29024 | pictures/29024.webp | a conference hall rising over a queue for rice | Civics and Citizenship — Ethiopia — Consequences — Liberia's warning about promises and power |
+| 29025 | pictures/29025.webp | an artist beside an elderly neighbour, a customary court beyond | Civics and Citizenship — Ethiopia — Moral and legal obligations — the Shango, and caring for the elderly |
+| 29026 | pictures/29026.webp | an Ethiopian wolf, a stone castle, a new tree line | Civics and Citizenship — Ethiopia — Protecting the environment — Maathai, the Ethiopian wolf and Susenios's castles |
+| 29027 | pictures/29027.webp | a school desk before and after | Civics and Citizenship — Ethiopia — Public property — care, cost and the school itself |
+| 29028 | pictures/29028.webp | an association meeting, a banner of hope | Civics and Citizenship — Ethiopia — Responsible behaviour against HIV/AIDS — orphans, women and the Dawn of Hope |
+| 29029 | pictures/29029.webp | blacksmith, cleaner, teacher and principal in one line | Civics and Citizenship — Ethiopia — Respect for work — blacksmiths, cleaners and principals |
+| 29030 | pictures/29030.webp | a firefighter checking equipment, a bank clerk's tie | Civics and Citizenship — Ethiopia — Ethical work conduct — codes, competence and the bank dress code |
+| 29031 | pictures/29031.webp | a foreign crew's factory, an Ethiopian crew building next | Civics and Citizenship — Ethiopia — Hard work and development — can Ethiopia copy the take-off? |
+| 29032 | pictures/29032.webp | four strategy documents over farmland and a factory | Civics and Citizenship — Ethiopia — Ethiopia's development strategies — ADLI, industry, capacity, and globalisation weighed |
+| 29033 | pictures/29033.webp | a woman farmer in her own harvested field | Civics and Citizenship — Ethiopia — Attributes of self-reliance — esteem, awareness, confidence, assertiveness |
+| 29034 | pictures/29034.webp | a coffee ship leaving, a cotton ship entering | Civics and Citizenship — Ethiopia — Dependency — how it works, Nyerere's experiment, and Menelik's imports |
+| 29035 | pictures/29035.webp | a young man with a found briefcase at a crossroads | Civics and Citizenship — Ethiopia — Decision-making — Lambebo's briefcase and the SWOT habit |
+| 29036 | pictures/29036.webp | an export-standard shoe and an Ethiopian tannery | Civics and Citizenship — Ethiopia — New thinking in saving — buy local, waste nothing, the leather proof |
+| 29037 | pictures/29037.webp | a shelf of savings — necklace, insurance paper, bank book, bond | Civics and Citizenship — Ethiopia — Improving the saving habit — seven ways to save, and the advertising trap |
+| 29038 | pictures/29038.webp | an equb circle with a pot at the centre | Civics and Citizenship — Ethiopia — Institutions of saving — equb, Iddir, banks and insurers, from salt bars to policies |
+| 29039 | pictures/29039.webp | a savings book growing into a bridge, school and power line | Civics and Citizenship — Ethiopia — Saving becomes investment — banks, the World Bank and Ethiopia's banking story |
+| 29040 | pictures/29040.webp | a women's lawyers' workshop, judge and officer at the table | Civics and Citizenship — Ethiopia — Civic participation — civil society, EWLA and the stand against violence |
+| 29041 | pictures/29041.webp | citizens at a public budget hearing | Civics and Citizenship — Ethiopia — Watching the government — participation every day, and the 2008 campaign case |
+| 29042 | pictures/29042.webp | the moon sliding exactly across the sun | Civics and Citizenship — Ethiopia — Knowledge — why it rules, and the eclipse that proves it can be tested |
+| 29043 | pictures/29043.webp | a teacher turning exam slips into one clear chart | Civics and Citizenship — Ethiopia — Knowledge and data — evidence before conclusion |
+| 29044 | pictures/29044.webp | a girl reading under a tree, a telescope behind her | Civics and Citizenship — Ethiopia — Reading for knowledge — literacy, women and Galileo's banned book |
+| 29045 | pictures/29045.webp | a boy turning a stallion's head toward the sun | Civics and Citizenship — Ethiopia — Truth versus myth — Sheba, Alexander and how to tell |
+| 29046 | pictures/29046.gif | a crowd marching peacefully down a wide street | Civics and Citizenship — Ethiopia — Citizens' obligations — and the demonstration as right and duty | — frame check: PASS — figures advance across the street in all four frames, banner carried; motion reads as a peaceful march
+| 29047 | pictures/29047.gif | the bull-jump — the leap over the line of bulls | Civics and Citizenship — Ethiopia — Negating diversity — India's lesson and the Hamer | — frame check: PASS — figure runs in, arcs over the bull line at mid-frames, lands beyond it; the leap reads true
+| 29048 | pictures/29048.gif | the equb pot passing around the circle | Civics and Citizenship — Ethiopia — Institutions of saving — equb, Iddir, banks and insurers, from salt bars to policies | — frame check: PASS — the pot moves hand to hand around the members' circle across frames 1/7/13/20
+| 29049 | pictures/29049.gif | the moon covering the sun until only the corona ring shows | Civics and Citizenship — Ethiopia — Knowledge — why it rules, and the eclipse that proves it can be tested | — frame check: PASS — moon slides across the sun, totality frame shows the thin corona ring, then uncovers

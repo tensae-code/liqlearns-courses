@@ -132,7 +132,11 @@ and verified:
 - **Course frame — BUILT** (folder README, this CURRICULUM,
   TITLES.md, ABOUT.md with all 20 course-level ABOUT placements
   and the G11 section's two ABOUT records; pictures 29100–29104).
+- **Rights and Law When Young (Level 13) — BUILT** (band C1,
+  Moral civics strand, Grades 1–6 guides): 20 lessons, 240
+  questions; pictures 28400–28419; every lesson teacher-guide
+  evidence only. Commit c7c9a28f4 (with the course frame).
 - Bands M1 (Levels 1–6), M2 (Levels 7–12 + Level 1's deepening),
-  C1 (Level 13), C2 (Level 14), C3 (Levels 15–21, Grades 7–8),
-  C4 (Levels 17–27 depth + Levels 22–27), G11 (Level 28) — records
-  land as each band is verified and committed.
+  C2 (Level 14), C3 (Levels 15–21, Grades 7–8), C4 (Levels 17–27
+  depth + Levels 22–27), G11 (Level 28) — records land as each
+  band is verified and committed.
