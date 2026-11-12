@@ -644,3 +644,98 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 8214 | pictures/8214.webp | the four marks of KG3, big and named: ሁለት ነጥብ (colon), the four-dot mark, ነጠላ ሰረዝ (comma), የጥያቄ ምልክት (question mark), each inside a tiny sentence | Amharic — The Marks That Help Us Read |
 | 8215 | pictures/8215.webp | Butiye watering her flower | Amharic — First Stories |
 | 8216 | pictures/8216.webp | Mamo singing to his little brother | Amharic — First Stories |
+| 8250 | pictures/8250.webp | the full fidel chart in the Grade 1 book's teaching order, 33 families × 7 forms, first form of each family in orange | Amharic — The Fidel |
+| 8251 | pictures/8251.webp | the three -ዋ labialised sets with their words and the mixed-reading line | Amharic — The Fidel |
+| 8252 | pictures/8252.webp | the derived families ቈ ኈ ኰ ጐ, five forms each, with their word lists | Amharic — The Fidel |
+| 8253 | pictures/8253.gif | ለ card + ዋ card slide together into ሏ, then the word አሏት | Amharic — The Fidel |
+| 8254 | pictures/8254.gif | the ቈ family forms appear one by one, then the word ቋንቋ | Amharic — The Fidel |
+| 8255 | pictures/8255.webp | the four leg groups chart: ባለ አንድ እግር / ባለ ሁለት እግር / ባለ ሦስት እግር / እግር አልባ with their member fidel | Amharic — Fidel Shapes |
+| 8256 | pictures/8256.webp | the look-alike (ሞክሸ) families: first form + keyword family name for the nine confusable families | Amharic — Fidel Shapes |
+| 8257 | pictures/8257.gif | fidel cards ቀ ለ ጠ መ sorting one by one into the four labelled leg-group boxes | Amharic — Fidel Shapes |
+| 8258 | pictures/8258.webp | blending table: ገ+በ+ረ = ገበረ … ሀ+በ+ል = ሀበል | Amharic — Blending and Splitting |
+| 8259 | pictures/8259.webp | splitting table: ወፈረ → ወ ፈ ረ … ኈኅት → ኈ ኅ ት | Amharic — Blending and Splitting |
+| 8260 | pictures/8260.gif | ገ በ ረ cards slide together into ገበረ, hold, then split apart again — seamless loop (the core GIF) | Amharic — Blending and Splitting |
+| 8261 | pictures/8261.gif | ተዘጋ: the ተ card lifts away leaving ዜጋ, then an አ card takes its place making አዘጋ | Amharic — Blending and Splitting |
+| 8262 | pictures/8262.webp | sound sorts: same-first-ከ set, different-last-sounds set, ጨጨት with clap dots, fidel-count sort line | Amharic — Blending and Splitting |
+| 8310 | pictures/8310.webp | a family in their house | Amharic — Listening Stories |
+| 8311 | pictures/8311.webp | a house cut open, its rooms labelled | Amharic — Listening Stories |
+| 8312 | pictures/8312.webp | a carpenter at his bench | Amharic — Listening Stories |
+| 8313 | pictures/8313.webp | the four seasons with their months | Amharic — Listening Stories |
+| 8314 | pictures/8314.webp | morning sun / evening moon, and a toothbrush | Amharic — Listening Stories |
+| 8315 | pictures/8315.webp | a green area: trees and grass | Amharic — Listening Stories |
+| 8316 | pictures/8316.webp | Kirubel walking with Fikirte to school | Amharic — Reading Stories |
+| 8317 | pictures/8317.webp | pupils among the school-compound trees | Amharic — Reading Stories |
+| 8318 | pictures/8318.webp | cotton, leather and wool panels | Amharic — Listening Stories / Reading Stories |
+| 8319 | pictures/8319.webp | Eyoel and Amira beside their tree | Amharic — Reading Stories |
+| 8320 | pictures/8320.webp | a near house and a far house | Amharic — Reading Passages |
+| 8321 | pictures/8321.webp | the ፍኖተ ሰላም path sign | Amharic — Reading Passages |
+| 8322 | pictures/8322.webp | clean ground beside dirty ground | Amharic — Reading Passages |
+| 8323 | pictures/8323.webp | step board: wash, cut, mix, serve | Amharic — Reading Passages |
+| 8324 | pictures/8324.webp | the flower of አበባ አየሁሽ | Amharic — Poems and Songs |
+| 8325 | pictures/8325.webp | a pupil at a zebra crossing | Amharic — Poems and Songs |
+| 8326 | pictures/8326.webp | Rosa by the river, a crocodile in the water | Amharic — Poems and Songs |
+| 8327 | pictures/8327.webp | five riddle answer cards: ባህር, እሳት, ጀበና, ሰዓት, ወፍጮ | Amharic — Riddles |
+| 8330 | pictures/8330.gif | the Rooster and the Fox climax: held, mouth opens, rooster gone | Amharic — Reading Stories |
+| 8331 | pictures/8331.gif | a riddle card flipping to its answer picture (ጀበና) | Amharic — Riddles |
+| 8332 | pictures/8332.gif | looking ግራ ቀኝ ግራ (left, right, left) at a zebra crossing | Amharic — Poems and Songs |
+| 8333 | pictures/8333.gif | the house riddle revealing room by room, ending on ቤት | Amharic — Listening Stories |
+| 8390 | pictures/8390.gif | two sentences join with ስለ (ስለምፈልግ above the join) | Amharic — The Sentence |
+| 8391 | pictures/8391.webp | the end marks chart: ። ? ! in boxes | Amharic — The Sentence |
+| 8392 | pictures/8392.webp | the word kinds chart: the six kinds and their jobs | Amharic — Word Kinds |
+| 8393 | pictures/8393.gif | pieces snapping onto በላ: እንደበላ, ስለበላ, እስበላ, ሊበላ, ቢበላ | Amharic — Suffixes |
+| 8394 | pictures/8394.webp | whose house? the ቤት paradigm chart: ቤቴ / ቤትህ / ቤትሽ / ቤታችን | Amharic — Suffixes |
+| 8395 | pictures/8395.gif | -ዎች drops off ገበሬዎች, leaving ገበሬ standing alone | Amharic — One and Many |
+| 8396 | pictures/8396.webp | one and many chart: ቀሚስ→ቀሚሶች, ጫማ→ጫማዎች, ገበሬ→ገበሬዎች, ቅርስ→ቅርስአች | Amharic — One and Many |
+| 8450 | pictures/8450.webp | the two ደረሰ sentences, side by side | Amharic — Word Meanings |
+| 8451 | pictures/8451.webp | the figurative meanings card | Amharic — Word Meanings |
+| 8452 | pictures/8452.webp | the word test card (መስጠል) | Amharic — Word Meanings |
+| 8453 | pictures/8453.webp | the እርዝ word web: እርዝ at the centre, ታታሪ / ትንህ / ጠንካራ / ብርቱ around it | Amharic — Word Families |
+| 8454 | pictures/8454.webp | the ቤተሰብ family word web, eight members | Amharic — Word Families |
+| 8455 | pictures/8455.webp | three compound joins (አዲስ + …) | Amharic — Building Words |
+| 8456 | pictures/8456.webp | the -ኛ / -ነት builders card | Amharic — Building Words |
+| 8457 | pictures/8457.webp | an open dictionary (መዝገበቃላት) | Amharic — Using the Dictionary |
+| 8460 | pictures/8460.gif | ደረሰ's two meaning pictures switching | Amharic — Word Meanings |
+| 8461 | pictures/8461.gif | loanwords travelling along their routes | Amharic — Building Words |
+| 8510 | pictures/8510.webp | word cards ልጅ ወደ ትምህርት ቤት ሔደ joining into the sentence | Amharic — Writing Sentences |
+| 8511 | pictures/8511.gif | dictation words ተዘጋ ተማረ አወጣ ጠላት ኩረት appearing one by one | Amharic — Writing Sentences |
+| 8512 | pictures/8512.webp | mixed-up words ጨዋታ እወዳለሁ መጫወት over numbered places | Amharic — Writing Sentences |
+| 8513 | pictures/8513.gif | sentence strips stacking into one framed paragraph | Amharic — First Paragraphs |
+| 8514 | pictures/8514.webp | one idea ("the animals I like") with its sentence strips | Amharic — First Paragraphs |
+| 8515 | pictures/8515.webp | the story's shape: መቼት ገፀባሕርያት ችግር ድርጊት ውጤት, with the ሴራ / ጭብጥ band | Amharic — Writing About Stories |
+| 8516 | pictures/8516.gif | the story web building part by part (መቼት → ውጤት) | Amharic — Writing About Stories |
+| 8517 | pictures/8517.webp | the farming year in six ordered steps | Amharic — Writing About Stories |
+| 8518 | pictures/8518.webp | salad how-to steps 1–5 in order | Amharic — How-To Writing |
+| 8519 | pictures/8519.gif | kebero steps appearing in order: soak, scrape, hollow, lace, sun | Amharic — How-To Writing |
+| 8520 | pictures/8520.webp | the outline ዝርዝር growing into a full page | Amharic — How-To Writing |
+| 8521 | pictures/8521.webp | the five summary steps | Amharic — Summary and News |
+| 8522 | pictures/8522.webp | the news's four questions: WHAT / WHO / WHERE / WHEN | Amharic — Summary and News |
+| 8523 | pictures/8523.gif | a long text's side lines fading until only the main points stay, boxed | Amharic — Summary and News |
+| 8524 | pictures/8524.webp | ተራች the teller and መላሽ the responder, face to face | Amharic — Speaking and Performing |
+| 8525 | pictures/8525.webp | the fluency trio dials: ትክክለኛነት ፍጥነት ገላጭነት (accuracy, speed, expression) | Amharic — Speaking and Performing |
+| 8526 | pictures/8526.gif | paired → group → echo reading modes cycling | Amharic — Speaking and Performing |
+| 8527 | pictures/8527.webp | the KWL chart, three columns | Amharic — Study Skills |
+| 8528 | pictures/8528.webp | concept web, and the ዝናብ ዘነበ → ጎርፍ ተከሰተ cause–effect chain | Amharic — Study Skills |
+| 8529 | pictures/8529.webp | the fidel crossword grid filled with the book's printed answers (layout drawn in this build; answers exactly the G4 guide's) | Amharic — Study Skills |
+| 8530 | pictures/8530.gif | the crossword grid filling fidel by fidel | Amharic — Study Skills |
+| 8570 | pictures/8570.webp | greeting at the school gate | Amharic (Second Language) — Greetings and Introductions |
+| 8571 | pictures/8571.webp | a kebero drum (ከ → ከበሮ) | Amharic (Second Language) — Fidel for New Speakers |
+| 8572 | pictures/8572.webp | fidel pair board: በ / ሰ and ሸ / ከ | Amharic (Second Language) — Fidel for New Speakers |
+| 8573 | pictures/8573.webp | fidel pair board: ለ / አ, ዘ / ዠ, ደ / ጀ | Amharic (Second Language) — Fidel for New Speakers |
+| 8574 | pictures/8574.webp | fidel pair board: ጸ / ጰ and ጠ / ጨ | Amharic (Second Language) — Fidel for New Speakers |
+| 8575 | pictures/8575.webp | a family with a pot, a chair and a lamp | Amharic (Second Language) — Describing My World |
+| 8576 | pictures/8576.webp | a food table | Amharic (Second Language) — Describing My World |
+| 8577 | pictures/8577.webp | three house types | Amharic (Second Language) — Describing My World |
+| 8579 | pictures/8579.webp | a village environment | Amharic (Second Language) — Describing My World |
+| 8580 | pictures/8580.webp | the full 33-family fidel chart | Amharic (Second Language) — Fidel for New Speakers |
+| 8581 | pictures/8581.webp | labialised cards: ሏ ሷ ሿ ኳ | Amharic (Second Language) — Fidel for New Speakers |
+| 8582 | pictures/8582.webp | the numbers 0–100 chart | Amharic (Second Language) — Numbers to 100 |
+| 8583 | pictures/8583.webp | colour patches | Amharic (Second Language) — Numbers to 100 |
+| 8584 | pictures/8584.webp | the pronouns board (ተውላጠ ስሞች) | Amharic (Second Language) — Numbers to 100 |
+| 8585 | pictures/8585.webp | the body figure | Amharic (Second Language) — Describing My World |
+| 8586 | pictures/8586.webp | መጣ whole, split, whole | Amharic (Second Language) — Two-Fidel Words |
+| 8587 | pictures/8587.webp | መጣ → መጣች: the -ች change | Amharic (Second Language) — Two-Fidel Words |
+| 8588 | pictures/8588.webp | one book, many books | Amharic (Second Language) — Two-Fidel Words |
+| 8589 | pictures/8589.webp | story strip for sequencing | Amharic (Second Language) — Describing My World |
+| 8595 | pictures/8595.gif | the በ row lighting up as it is sung | Amharic (Second Language) — Fidel for New Speakers |
+| 8596 | pictures/8596.gif | መ + ጣ join into መጣ, then split apart again | Amharic (Second Language) — Two-Fidel Words |
+| 8597 | pictures/8597.gif | -ች joins መጣ: መጣ → መጣች | Amharic (Second Language) — Two-Fidel Words |

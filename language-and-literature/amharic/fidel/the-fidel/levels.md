@@ -26,3 +26,12 @@ Sub lesson 5 questions from the type files. Pass mark: for the በ, ሰ and ሸ 
 
 ## Sub lesson 6 — Building words from fidel
 Sub lesson 6 questions from the type files. Pass mark: join given fidel into the word they make, fill the missing fidel inside a word, and build a word that holds a given fidel.
+
+## Sub lesson 7 — The whole chart in the book's teaching order
+Sub lesson 7 questions from the type files. Pass mark: read the families in the Grade 1 book's own teaching order (ሀ first, ቨ last) without stopping, and give the keyword word for a named family.
+
+## Sub lesson 8 — The -ዋ labialised forms
+Sub lesson 8 questions from the type files. Pass mark: read the three -ዋ sets aloud in order, and read a word that holds a labialised form (አሏት, አባቶች…).
+
+## Sub lesson 9 — The derived forms ቈ ኈ ኰ ጐ
+Sub lesson 9 questions from the type files. Pass mark: read each derived family (five forms) in order, and match each family to a word that starts with it.

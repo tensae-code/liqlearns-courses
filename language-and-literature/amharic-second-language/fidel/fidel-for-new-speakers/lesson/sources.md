@@ -1,0 +1,35 @@
+# Sources — Fidel for New Speakers
+
+countries: Ethiopia
+
+**Book 1:** በአዲስ አበባ ከተማ አስተዳደር ትምህርት ቢሮ — *አማርኛ እንደ ሁለተኛ ቋንቋ, የመምህር መምሪያ, ሦስተኛ ክፍል* (Addis Ababa City Administration Education Bureau — *Amharic as a Second Language, Teacher Guide, Grade 3*) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, 163 PDF pp. Printed page = PDF page (the folio is printed on every page). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g03-second-language-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole method — a family taught by writing it big/on flash cards, reading aloud, choral repetition, volunteers leading, writing in notebooks keeping the line (መስመር ጠብቀው), pencil grip corrected (የእርሳስ አያያዝ), homework to re-read what was written; picture-matching a fidel to a word that begins with it (ከ → ከበሮ) (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, whole-guide method, printed pp.7–16 (model chapter), p.15 for ከ → ከበሮ (placement 1) |
+| The song device (መዝሙር) — a prepared song with melody (በግጥምና ዜማ) drills the በ-family orders until they are fixed; singing is also an assessment (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, printed pp.10–11, p.17 (placement 2) |
+| Sub lesson 1 — በ (bä) and ሰ (sä): read/write with all orders (rows printed p.10); ሰ matched to a person's picture (p.12); words built from them (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 1, printed pp.7–13 (placement 5) |
+| Sub lesson 1 — ሸ (shä) and ከ (kä): same cycle (rows printed p.15); picture match ከ → ከበሮ (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 1, printed pp.13–16 (placement 6) |
+| GIF 8595 — the በ family row lighting up order by order as it is sung (media need named in the placements: "a fidel family row lighting up order by order as it is sung") | Book 1, Chapter 1 media block (placements) |
+| Pictures 8572 / 8571 — the first-pairs board (drawn render of the rows the placements print) and the kebero drum for the ከ match | Book 1, printed p.10 (rows), p.15 (ከ → ከበሮ); Ch.1 media block |
+| Sub lesson 2 — ለ (lä) and አ (a): read/write with orders, blackboard and flash cards, volunteers reading aloud (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 2, printed pp.21–25 (placement 7) |
+| Sub lesson 2 — ዘ (zä), ዠ (zhä), ደ (dä), ጀ (jä): all four read/written with orders; picture matching; words read and formed (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 3, printed pp.30–34 (placement 10) |
+| Sub lesson 2 — ደ/ጀ consolidated as the sole focus of Chapter 4 (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 4, printed pp.39–45 (placement 12) |
+| Sub lesson 2 — ጸ (ts'ä) and ጰ (p'ä): read/write with orders; picture matching; words (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 5, printed pp.49–56 (placement 15) |
+| Sub lesson 2 — ጠ (t'ä) and ጨ (ch'ä): read/write with orders; picture matching; words; ሐ also appears in this chapter's work (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 6, printed pp.57–65 (placement 17) |
+| Picture 8573 — the middle-pairs board (drawn render of the families above, in the guide's teaching order) | Book 1, Chapters 2–6 as above |
+| Sub lesson 3 — ገ (gä), ነ (nä), ኘ (nyä) (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 7, printed pp.67–78 (placement 18) |
+| Sub lesson 3 — ተ (tä) and ቸ (chä) (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 7, printed p.67 (placement 20) |
+| Sub lesson 3 — ቀ (qä), ኀ (h'ä), ፐ (pä), የ (yä) (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 8, printed pp.80–90 (placement 22) |
+| Sub lesson 3 — ዐ (’ä), ፀ (ts'ä), ወ (wä), መ (mä) (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 9, printed pp.92–105 (placement 26) |
+| Sub lesson 3 — ሀ (hä), ሠ (s'ä), ረ (rä), ፈ (fä) (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 10, printed pp.106–125 (placement 28) |
+| Sub lesson 3 — double-sound (labialised) fidels: read/write the fidels with a double sound (ባለ ድርብ ድምጽ ፊደላት — the ሏ/ሷ/ሿ/ኳ-type series) and words built from them (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 10, printed p.107 (placement 29) |
+| Pictures 8574 / 8581 — the last-families board and the double-sound cards (drawn renders) | Book 1, Chapters 7–10 as above; Ch.10 media block (the labialised fidel row) |
+| Sub lesson 4 — ALL the fidels in order: listen to and say the double fidels; read and write all the fidels in their order (ሁሉንም ፊደላት በቅደም ተከተላቸው) — the year's consolidation (teacher guide — evidence · SECOND-LANGUAGE) | Book 1, Chapter 11, printed p.127 (placement 30) |
+| Picture 8580 — the full fidel chart in order (drawn render of the standard fidel table, 33 families × 7 orders) | Book 1, Chapter 11, printed p.127 (the consolidation the chart serves) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), for SECOND-LANGUAGE learners, named here, counted nowhere. It is a second-language lesson and is NOT merged into the first-language Amharic course's counts.**
+
+Honesty notes. (1) TEACHER GUIDE evidence throughout: the guide shows how the families are taught to second-language learners; it is not a pupil textbook, and nothing here is counted as pupil-taught. (2) The family rows printed in the placements are በ, ሰ, ሸ, ከ (printed pp.10, 15); the other families' seven orders are drawn on the boards and chart (Pictures 8573, 8574, 8580) as the standard fidel table — the same table the first-language course's workbooks print — with each family's teaching placement cited above by chapter and page. The four printed rows were checked glyph by glyph against the placements before the boards were drawn. (3) ጠ's fifth order, ጤ, wears a shape close to ቤ's family (it is U+1324, ጠ's own fifth form, and its seventh is ጦ, U+1326); the lesson names the trap instead of hiding it, and the lesson text's rows were verified glyph by glyph against the drawn boards after building. (4) The full chart (8580) holds the standard 33 families including ኸ, which stands in the chart's traditional place; the guide's own chapter-by-chapter teaching names 33 families including ሐ (which appears in Chapter 6's work) — ኸ gets no chapter of its own in the placements, and the lesson says the chart is the standard table rather than claiming a placement for it. (5) Chapter 9's contents list prints both ዐ and, in one line, አ for its fidel set — "the fidel set as printed", per the placements; the lesson teaches ዐ ፀ ወ መ as the chapter's set and flags the printing here. (6) The placements give no publication year for the guide; none is claimed.
+
+Searchable tags: fidel, ፊደል, fidel families, ዝርያ, እርባታ, confusable pairs, በ, ሰ, ሸ, ከ, ከበሮ, kebero, መዝሙር, mezmur, labialised fidels, ባለ ድርብ ድምጽ, ሏ, ሷ, ሿ, ኳ, keeping the line, መስመር, second language, አማርኛ እንደ ሁለተኛ ቋንቋ

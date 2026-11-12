@@ -1,0 +1,15 @@
+# Hands-on — The Word Kinds
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Six cards
+Make six cards: ስም, ግስ, ቅጽል, አያያዥ ቃላት, ተውሳከግስ, መስተዋድድ. A partner reads words from the lesson — ሰው, ሄደ, ቀይ, እና, ቶሎ, ወደ, ዛፍ, ትናንት, ስለ — and you hold up the kind's card for each word, as fast as you can. Count how many you get right in one minute.
+
+## Sentence labels
+Write the sentence የዋህ ልጅ ቶሎ ሄደ። on a long strip. Cut it into its four words. Under each word lay its kind card. Say the full climb aloud: describing word, naming word, how-word, doing word at the end.
+
+## Joining with string
+Write ሽንኩርት on one card and ድንች on another. Tie them with a string labelled እና; read the joined pair. Change the string's label to ወይም and read again — feel how the joining word changes what the pair means.
+
+## Kind hunt at home
+Walk through your home naming what you see. For each thing, say a noun (its name), an adjective (what it is like), then act a verb it can do and say it. Write the three words in a row: ስም — ቅጽል — ግስ.

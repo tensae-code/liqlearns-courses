@@ -19,3 +19,9 @@ Write the missing fidel.
 
 **6. (Sub lesson 6)** _በቶ is the word for belt — the missing first fidel is ___.
 **Answer: ቀ** — ቀበቶ (qebeto, belt).
+
+**7. (Sub lesson 8)** አ_ት — the missing fidel is a -ዋ form of ለ. The missing fidel is ___.
+**Answer: ሏ** — አሏት; ሏ is ለ with the ዋ tail.
+
+**8. (Sub lesson 9)** _ንቋ is the word for language — the missing first fidel is ___.
+**Answer: ቋ** — ቋንቋ; ቋ is the fourth form of the derived ቈ family.

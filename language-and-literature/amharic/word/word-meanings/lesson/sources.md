@@ -1,0 +1,28 @@
+# Sources — What a Word Means
+
+countries: Ethiopia
+
+**Book 1:** *Grade 3 Amharic Teacher Guide (አማርኛ እንደ መጀምሪያ ቋንቋ የመምህር መምሪያ, ፫ኛ ክፍል)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, © 2014 E.C. Page rule: printed page = PDF page − 5. Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g03-teacher-placements.md.
+
+**Book 2:** *Grade 4 Amharic Teacher Guide (አማርኛ እንደመጀመሪያ ቋንቋ መምህር መምሪያ, ፬ኛ ክፍል)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, © 2014 E.C. Page rule: printed page = PDF page − 6. Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-teacher-placements.md.
+
+**Book 3:** *Amharic Student Textbook, Grade 3 (አማርኛ የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. family of editions, 155 PDF pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g03-student-placements.md.
+
+**Book 4:** *Amharic Student Textbook, Grade 4 (አማርኛ የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 PDF pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-student-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 (teacher guide — evidence) — አውዳዊ ፍቺ (meaning from context): the method — the teacher explains contextual meaning, learners give the meanings of underlined words in sentences; printed key: 1. መብላት 2. የተለከፈ 3. ባስባት 4. ዘመትር 5. ብር | Ethiopia, *Grade 3 Amharic Teacher Guide*, Unit 1, ክፍል 3 ቃላት, printed pp.8–9 (placement G3-U1-8) |
+| Sub lesson 1 (teacher guide — evidence) — the worked example ደረሰ: printed definition of contextual meaning ("a word's exact meaning is known when the word stands with other words") and the two sentences አበል ትምህርትቤት በሰዓቱ ደረሰ → መጣ/በቦታው ተገኘ (arrived) and ደራሲው መጽሐፍ ደረሰ → ጽፈ (wrote) | Ethiopia, *Grade 4 Amharic Teacher Guide*, Unit 1, printed p.4 (placement G4-U1-3) |
+| Sub lesson 2 — one word, several meanings: ድምጽ as "voice" and as "vote"; ነፋስ, ወደቀ in new senses | Ethiopia, *Amharic Student Textbook, Grade 3*, printed p.40 (placement 68) |
+| Sub lesson 2 — ወጥቼ carrying two meanings in two sentences ("I went out" / "I came first in class") | Ethiopia, *Amharic Student Textbook, Grade 4*, printed p.29 (placement 49) |
+| Sub lesson 2 — መሪ = a blind person's guide / a country's leader (with መፍታት, መዝረፍ, መልቀቅ, መክፈት) | Ethiopia, *Amharic Student Textbook, Grade 4*, printed p.115 (placement 160) |
+| Sub lesson 2 — አዕምሮ = mind / ripened; ማረኩ = they captured / they charmed; ጥማት = thirst / desire to write, in paired sentences | Ethiopia, *Amharic Student Textbook, Grade 4*, printed pp.134–135 (placement 179) |
+| Sub lesson 3 (teacher guide — evidence) — ፍካሬያዊ ፍቺ (figurative meaning): printed definition ("the extra meaning a word carries beyond its direct meaning") and the full table: ኤርግብ dove → የዋህ; አንበሳ lion → ጠንካራ/ጀግና/ብበዝ; ሞለጭ metal ornament → ስልታማ ቀስ; አባብ chest-worn biting insect → ተንከላች/መባረር; ቆቅ francolin → ንቁ; መስለል → ረጀም/መስሎ; ቡግ cattle-feed grass → የዋህ/ሞኝ | Ethiopia, *Grade 4 Amharic Teacher Guide*, Unit 1, printed p.5 (placement G4-U1-4) |
+| Sub lesson 4 (teacher guide — evidence) — ቃል (a word) defined: an ordered set of sounds that gives meaning; ስለጠል is NOT a word (fidel unordered, no meaning), መስጠል IS a word — printed with the synonym/antonym definitions on the same page | Ethiopia, *Grade 4 Amharic Teacher Guide*, Unit 2, printed p.18 (placement G4-U2-3) |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Honesty notes: (1) Sub lessons 1, 3 and 4 rest on teacher-guide evidence (the guides print the definitions, the worked example, the figurative table and the answer key); Sub lesson 2 is placed in the student textbooks themselves, so the lesson as a whole is pupil-taught in Ethiopia through its student-book part and teacher-evidenced in the rest — the table labels each part. (2) Three rows of the Grade 4 guide's figurative table (ሞለጭ, አባብ, መስለል) come through the scanned guide with glosses that are only partly clear in English; the lesson keeps those rows marked "(as placed)" with the guide's own Amharic glosses, and teaches the four clear rows (ኤርግብ, አንበሳ, ቆቅ, ቡግ) in full. No gloss was invented for the unclear rows. (3) The G3 teacher guide's file is itself partial (it ends at printed p.31 of a longer book) — nothing from beyond its placed pages is used here. (4) Pictures 8450, 8451, 8452 and GIF 8460 are drawn cards made for this lesson from the placed sentences and table; GIF 8460 was frame-checked at frames 1/7/13/20 (boy walking to the school, then the author writing) before filing.
+
+Searchable tags: word meaning, አውዳዊ ፍቺ, ፍካሬያዊ ፍቺ, contextual meaning, figurative meaning, polysemy, ደረሰ, ኤርግብ, አንበሳ, ቃል, መስጠል, ስለጠል, ድምጽ, መሪ

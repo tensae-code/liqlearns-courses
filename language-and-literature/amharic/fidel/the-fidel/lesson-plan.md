@@ -34,6 +34,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 4. **First reading — words made of learned letters** — short words built only from letters already learned, read aloud slowly, then whole (በሰበሰ, ዳቦ…).
 5. **A word for every form** — each form of a family starts its own word (በ–በር, ቡ–ቡና, ቢ–ቢራቢሮ…): read the family, then read its seven words.
 6. **Building words from fidel** — join fidel together to make words (በ+ለ+ጠ = በለጠ), build a word from a given fidel, and fill the missing fidel inside a whole word.
+7. **The whole chart in the book's teaching order** — the Grade 1 book's own order (ሀ ለ ሐ መ ሠ ረ ሰ ሸ ቀ በ ተ ቸ ኀ ነ ኘ አ ከ ኸ ወ ዐ ዘ ዠ የ ደ ጀ ገ ጠ ጨ ጰ ጸ ፀ ፈ ፐ ቨ): read each family in that order, then read its keyword word.
+8. **The -ዋ labialised forms** — the three sets (ሏ ሷ ሟ ሿ ሯ ቧ; ቷ ኗ ኟ ዟ ዧ ቿ; ዷ ጇ ጧ ጯ ፏ), their words, and mixed long-word reading.
+9. **The derived forms ቈ ኈ ኰ ጐ** — the four five-form families that close the book's chart, with their words and splitting practice.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -56,6 +59,12 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
    families.
 8. Join fidel together to build a word, and fill a missing
    fidel inside a word.
+9. Read every family in the Grade 1 book's own teaching order,
+   with a keyword word for the family.
+10. Read the three sets of -ዋ labialised forms and words that
+    hold them.
+11. Read the four derived families (ቈ ኈ ኰ ጐ, five forms each)
+    and their words.
 
 ## What you need
 Paper and a pencil. The chart picture (Picture 7950) where the
@@ -82,6 +91,12 @@ child can see it. Nothing else.
    - ADD AUDIO in Sub lesson 2: a voice reading every family aloud in its seven forms, slowly, in order (ሀ ሁ ሂ ሃ ሄ ህ ሆ…) — the student reads along, then reads the family alone.
    - ADD AUDIO in Sub lesson 4: a voice reading the first-reading words slowly, syllable by syllable, then whole — the student reads after the voice, then alone.
    - ADD AUDIO in Sub lesson 5: a voice reading a family and then the word that starts with each of its forms (በ — በር, ቡ — ቡና…) — the student says each word after the voice and points to its form.
+   - ADD IMAGE [Picture 8250] in Sub lesson 7: a picture of the full fidel chart drawn in the Grade 1 book's own teaching order (ሀ first, ቨ last), the first form of each family picked out in orange — the student walks the road family by family, reading each family and its keyword word.
+   - ADD AUDIO in Sub lesson 7: a voice reading the families in the book's teaching order, each family followed by its keyword word — the student reads along, then walks the road alone.
+   - ADD IMAGE [Picture 8251] in Sub lesson 8: a picture of the three sets of -ዋ labialised forms with their words — the student reads each set aloud, then its words.
+   - ADD GIF [GIF 8253] in Sub lesson 8: ለ and ዋ cards sliding together to make ሏ, then the word አሏት — the student watches the tail join, then writes ሏ, ሷ and ሟ on paper.
+   - ADD IMAGE [Picture 8252] in Sub lesson 9: a picture of the four derived families (ቈ ኈ ኰ ጐ, five forms each) with their words — the student reads each family, then its words.
+   - ADD GIF [GIF 8254] in Sub lesson 9: the ቈ family's five forms appearing one by one, then the word ቋንቋ — the student reads each form as it lands, then reads the whole family.
    - ADD AUDIO in Sub lesson 6 (support slot): a voice saying the confusable sounds ለ / ረ / ጠ / ተ one at a time, in changing order, as minimal pairs to listen to — the student listens and points to the letter they hear. (Support slot — see hands-on.md, "If it is hard".)
 3. **Say it to your companion** — read a whole family aloud to
    your companion, give a word for three of its forms, then build
@@ -112,6 +127,12 @@ child can see it. Nothing else.
 - AUDIO — first-reading words, slow then whole → the student reads after the voice.
 - AUDIO — a family with the word for each form → the student says each word and points to its form.
 - AUDIO — confusable sounds ለ / ረ / ጠ / ተ as listen-and-point minimal pairs (support) → the student points to the letter they hear.
+- IMAGE [Picture 8250] — the full fidel chart in the Grade 1 book's teaching order → the student reads each family in that order with its keyword word.
+- AUDIO — the families in teaching order, each with its keyword word → the student reads along, then alone.
+- IMAGE [Picture 8251] — the three sets of -ዋ labialised forms and their words → the student reads each set, then its words.
+- GIF [GIF 8253] — ለ + ዋ join to make ሏ, then the word አሏት → the student writes ሏ, ሷ and ሟ.
+- IMAGE [Picture 8252] — the derived families ቈ ኈ ኰ ጐ and their words → the student reads each family, then its words.
+- GIF [GIF 8254] — the ቈ family's forms appear one by one, then ቋንቋ → the student reads each form as it lands.
 - VIDEO — the video-script filmed (made later) → the student reads and builds along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
@@ -138,5 +159,8 @@ The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md (the three Addis Ababa pre-primary
 workbooks — Beginner Level age 4, Level One age 5, Level Two age 6 —
 with one SUPPORTING speech-support slot from the federal Special
-Needs toolkit). A teacher sending this lesson sends the lesson and
+Needs toolkit). Sub lessons 7–9 trace to a fourth book, the Grade 1
+Amharic Student Textbook (Amhara National Regional State Education
+Bureau, © 2015 E.C.) — its own teaching order, its -ዋ sets and its
+derived families, cited the same way in lesson/sources.md. A teacher sending this lesson sends the lesson and
 its question list as they are — choosing, not remaking.

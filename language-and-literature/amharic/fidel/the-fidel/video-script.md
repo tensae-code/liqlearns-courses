@@ -37,3 +37,52 @@ Read it slow. Then read it whole. ዳቦ.
 Now you. Point to a letter. Say its sound.
 Read its family. Build a word.
 That is the fidel.
+
+---
+
+Now the whole road. The book's own order.
+Not the chart's order. The teaching order.
+
+**ሀ** first. ሀ ሁ ሂ ሃ ሄ ህ ሆ. ሀበል.
+Then **ለ**. ለ ሉ ሊ ላ ሌ ል ሎ. ለማ.
+Then **ሐ**. ሐ ሑ ሒ ሓ ሔ ሕ ሖ. ሕመም.
+
+On and on. Family by family.
+**መ** — መላ. **ረ** — ሬት. **ሰ** — ሰላ. **ሸ** — ሻማ.
+**ቀ** — ቀበቶ. **በ** — በራ. **ተ** — ተማሪ.
+**ነ** — ንብ. **አ** — አወቀ. **ከ** — ከበሮ.
+**ወ** — ወርቅ. **ዘ** — ዘር. **የ** — ዮሐንስ.
+**ደ** — ዱር. **ገ** — ገንቦ. **ጠ** — ጣና.
+**ጨ** — ጫማ. **ጸ** — ጸጉር. **ፈ** — ፊደል.
+Last, **ቨ**. Read its family twice.
+
+Walk the road slow. When no family stops you,
+the whole chart is yours.
+
+---
+
+Some letters carry a little tail. **ዋ**.
+ለ with the tail is **ሏ**. The sound rounds: wa.
+
+Three sets. Read them with me.
+ሏ ሷ ሟ ሿ ሯ ቧ — አሏት. ቧልት.
+ቷ ኗ ኟ ዟ ዧ ቿ — ላቷ. አባቶች.
+ዷ ጇ ጧ ጯ ፏ — እጇ. ፏፏቴ.
+
+Watch. ለ and ዋ come together. **ሏ**.
+Now the long words, slow, then whole:
+አሯሯጯ. ተጧጧፈ. ባለሟል.
+
+---
+
+Four small families come last.
+Five forms each. Not seven. Five.
+
+**ቈ** — ቈ ቊ ቍ ቋ ቌ. ቋንቋ — a language!
+**ኈ** — ኈ ኊ ኍ ኋ ኌ. ኋለኛ.
+**ኰ** — ኰ ኵ ኲ ኳ ኴ. ኰራ.
+**ጐ** — ጐ ጕ ጒ ጓ ጔ. ጕልበት.
+
+Now the chart is truly complete.
+Thirty-three families. The ዋ forms. These four.
+Every letter the book teaches. Yours.

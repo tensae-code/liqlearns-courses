@@ -25,3 +25,15 @@ a) በሰበሰ  b) ከለከለ  c) ዳቦ
 **6. (Sub lesson 5)** In the ሰ family, which form starts the word ሲኒ (sini, small cup)?
 a) ሰ  b) ሲ  c) ሱ
 **Answer: b) ሲ** — ሰ starts ሰዓት and ሱ starts ሱሪ.
+
+**7. (Sub lesson 7)** In the book's teaching order, which family is taught FIRST?
+a) በ  b) ሀ  c) ለ
+**Answer: b) ሀ** — the road starts ሀ, then ለ, then ሐ; በ comes much later.
+
+**8. (Sub lesson 8)** Which row is the first set of -ዋ labialised forms?
+a) ሏ ሷ ሟ ሿ ሯ ቧ  b) ቷ ኗ ኟ ዟ ዧ ቿ  c) ዷ ጇ ጧ ጯ ፏ
+**Answer: a) ሏ ሷ ሟ ሿ ሯ ቧ** — set 2 is b) and set 3 is c).
+
+**9. (Sub lesson 9)** How many forms does the ቈ family have, as the book prints it?
+a) seven  b) five  c) three
+**Answer: b) five** — ቈ ቊ ቍ ቋ ቌ; the derived families are five-form families.

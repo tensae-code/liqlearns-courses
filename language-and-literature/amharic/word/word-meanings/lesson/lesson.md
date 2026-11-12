@@ -1,0 +1,142 @@
+# What a Word Means
+
+## Do it first
+
+Read these two sentences. The same word stands in both of them.
+
+1. **አበል ትምህርትቤት በሰዓቱ ደረሰ።** — Abel ደረሰ at school on time.
+2. **ደራሲው መጽሐፍ ደረሰ።** — The author ደረሰ a book.
+
+In the first sentence, ደረሰ is about a boy and a school. In the
+second, it is about an author and a book. Say out loud what you
+think ደረሰ is doing in each sentence. Keep your two answers —
+this whole lesson is about them.
+
+## Sub lesson 1 — Meaning from the sentence around it
+
+A word does not carry its whole meaning alone. Its exact meaning
+is known when the word stands with other words, inside a
+sentence. This is called **አውዳዊ ፍቺ** — meaning from context,
+the meaning a word takes from the words around it.
+
+Now look at your two sentences again:
+
+- **አበል ትምህርትቤት በሰዓቱ ደረሰ።** Here ደረሰ means **መጣ** — he
+  came, he **arrived**, he was there at the place.
+- **ደራሲው መጽሐፍ ደረሰ።** Here ደረሰ means **ጽፈ** — he **wrote**,
+  he composed the book.
+
+Same word. Two meanings. The sentence around it tells you which
+one is alive. The boy and the school pull ደረሰ towards
+"arrived". The author and the book pull it towards "wrote".
+
+[GIF 8460 — ደረሰ's two meanings switching: arriving / writing]
+
+[Picture 8450 — the two ደረሰ sentences and their pictures]
+
+So the rule of this sub lesson is simple: **when a word can mean
+more than one thing, do not guess from the word alone — read the
+whole sentence.** The words around it are the clue. In class
+work you will meet underlined words inside sentences again and
+again, and every time the job is the same: give the meaning the
+word has HERE, in THIS sentence.
+
+## Sub lesson 2 — One word, many meanings
+
+ደረሰ is not special. Many words live more than one life.
+
+Take **ድምጽ**. In one sentence it is a **voice** — the sound a
+person makes when they speak or sing. In another sentence it is
+a **vote** — the choice a person casts. Voice and vote are far
+apart, and only the sentence tells you which ድምጽ you are
+holding.
+
+The student books give you more of these travellers:
+
+- **ወጥቼ** — "I went out" in one sentence; "I came first in
+  class" in another.
+- **መሪ** — the person who guides a blind person by the hand;
+  and the leader of a country.
+- **አዕምሮ** — the mind; and ripened, matured.
+- **ማረኩ** — they captured; and they charmed.
+- **ጥማት** — thirst; and the desire to write.
+
+Every one of these is one word with two meanings, and the way
+you handle each one is the way of Sub lesson 1: read the whole
+sentence, and let the words around it decide.
+
+## Sub lesson 3 — When a word means more — figurative meanings
+
+Sometimes a word carries an EXTRA meaning — a meaning beyond
+its direct, first meaning. This is called **ፍካሬያዊ ፍቺ** —
+figurative meaning.
+
+**ኤርግብ** is a dove, a flying bird. But call a PERSON ኤርግብ and
+you are not saying he has feathers. You are saying he is
+**የዋህ** — innocent, gentle. The dove's quiet nature travels
+into the word, and the word carries it onto the person.
+
+Here is the table, the way the books teach it:
+
+| Word | Its direct meaning | Its figurative meaning |
+|---|---|---|
+| ኤርግብ | a dove, a flying bird | የዋህ — innocent, gentle |
+| አንበሳ | a lion, a wild animal | ጠንካራ / ጀግና — strong, brave |
+| ቆቅ | a francolin, a bird | ንቁ — watchful, alert |
+| ቡግ | grass kept as cattle feed | የዋህ / ሞኝ — simple, innocent |
+| ሞለጭ | an ornament made of metal | ስልታማ ቀስ — (as placed) |
+| አባብ | a biting insect worn on the chest (as placed) | ተንከላች / መባረር — (as placed) |
+| መስለል | to hang / suspend (as placed) | ረጀም / መስሎ — (as placed) |
+
+[Picture 8451 — the figurative meanings card]
+
+A figurative meaning is not a wrong meaning and it is not a
+lie. It is the word's second coat. When you read "he is an
+አንበሳ," your eyes see a lion, and your mind must see a brave
+man. Good readers hold both: the picture the word paints, and
+the person it is really about.
+
+## Sub lesson 4 — What makes a word a word
+
+Last, the deepest question of the lesson: what IS a word?
+
+**ቃል** — a word — is **an ordered set of sounds that gives
+meaning**. Two tests, and a thing must pass both:
+
+1. Its sounds stand **in order**.
+2. Together, they **give a meaning**.
+
+Now judge these two:
+
+- **መስጠል** — its sounds stand in order, and it gives a
+  meaning. It passes both tests. **መስጠል IS a word.**
+- **ስለጠል** — its sounds are out of order, a shuffle, and it
+  gives no meaning at all. It fails both tests. **ስለጠል is NOT
+  a word** — it is only letters standing near each other.
+
+[Picture 8452 — the word test: መስጠል is a word, ስለጠል is not]
+
+This is why spelling matters, and why swapping two letters can
+kill a word: a word is not a bag of sounds. It is sounds IN
+THEIR ORDER, carrying a meaning together.
+
+## Say it to your companion
+
+Explain አውዳዊ ፍቺ to your companion in your own words. Then
+take turns: one of you reads a sentence with ደረሰ, ድምጽ or መሪ
+in it, and the other says which meaning is alive and which
+words in the sentence gave it away. Finish with the word test:
+say መስጠል and ስለጠል, and let your companion judge which one
+is a word — and why.
+
+## Do It Yourself
+
+1. Write the two ደረሰ sentences from memory. Under each one,
+   write its meaning: መጣ (arrived) or ጽፈ (wrote).
+2. Pick one word from Sub lesson 2 (ድምጽ, መሪ, አዕምሮ, ጥማት).
+   Write two sentences with it, one for each meaning.
+3. Write two sentences of praise: call one person ኤርግብ and
+   another አንበሳ, using their figurative meanings.
+4. Word test at home: say three letter-strings to someone —
+   two real words and one shuffled non-word like ስለጠል. Can
+   they judge all three with the two tests?

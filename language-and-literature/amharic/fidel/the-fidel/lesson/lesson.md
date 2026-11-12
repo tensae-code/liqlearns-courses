@@ -189,6 +189,84 @@ Last step: **you** build the words.
 
 Match the same forms to each other one last time, and match the same words to their twins: ዘንቢል (zenbil) · ላጲስ (lapis) · ጅብ (jib, hyena) · ዣንጥላ (zhanṭila, umbrella) · ዶማ (doma). If you can build it, match it and read it — the fidel are yours.
 
+## Sub lesson 7 — The whole chart in the book's teaching order
+
+You know the families now. Here they come again — but this time in **the order the book itself teaches them**, family by family, the way a Grade 1 child in Ethiopia meets them. This order is not the chart's reading order. It is a teaching road: ሀ first, then ለ, then ሐ, and on to ቨ at the end. For each family: read the seven forms aloud, then read its keyword word.
+
+[Picture 8250 — the full fidel chart in the book's teaching order]
+
+- **ሀ** — ሀ ሁ ሂ ሃ ሄ ህ ሆ · word: ሀበል
+- **ለ** — ለ ሉ ሊ ላ ሌ ል ሎ · word: ለማ
+- **ሐ** — ሐ ሑ ሒ ሓ ሔ ሕ ሖ · word: ሕመም
+- **መ** — መ ሙ ሚ ማ ሜ ም ሞ · word: መላ
+- **ሠ** — ሠ ሡ ሢ ሣ ሤ ሥ ሦ · word: ሥራ
+- **ረ** — ረ ሩ ሪ ራ ሬ ር ሮ · word: ሬት
+- **ሰ** — ሰ ሱ ሲ ሳ ሴ ስ ሶ · word: ሰላ
+- **ሸ** — ሸ ሹ ሺ ሻ ሼ ሽ ሾ · word: ሻማ
+- **ቀ** — ቀ ቁ ቂ ቃ ቄ ቅ ቆ · word: ቀበቶ
+- **በ** — በ ቡ ቢ ባ ቤ ብ ቦ · word: በራ
+- **ተ** — ተ ቱ ቲ ታ ቴ ት ቶ · word: ተማሪ
+- **ቸ** — ቸ ቹ ቺ ቻ ቼ ች ቾ · word: ቸኮለ
+- **ኀ** — ኀ ኁ ኂ ኃ ኄ ኅ ኆ · word: ኀሉ
+- **ነ** — ነ ኑ ኒ ና ኔ ን ኖ · word: ንብ
+- **ኘ** — ኘ ኙ ኚ ኛ ኜ ኝ ኞ · word: ሸኝ
+- **አ** — አ ኡ ኢ ኣ ኤ እ ኦ · word: አወቀ
+- **ከ** — ከ ኩ ኪ ካ ኬ ክ ኮ · word: ከበሮ
+- **ኸ** — ኸ ኹ ኺ ኻ ኼ ኽ ኾ · read the family aloud twice
+- **ወ** — ወ ዉ ዊ ዋ ዌ ው ዎ · word: ወርቅ
+- **ዐ** — ዐ ዑ ዒ ዓ ዔ ዕ ዖ · word: ዐለም
+- **ዘ** — ዘ ዙ ዚ ዛ ዜ ዝ ዞ · word: ዘር
+- **ዠ** — ዠ ዡ ዢ ዣ ዤ ዥ ዦ · word: ዠርባ
+- **የ** — የ ዩ ዪ ያ ዬ ይ ዮ · word: ዮሐንስ
+- **ደ** — ደ ዱ ዲ ዳ ዴ ድ ዶ · word: ዱር
+- **ጀ** — ጀ ጁ ጂ ጃ ጄ ጅ ጆ · word: ጀልባ
+- **ገ** — ገ ጉ ጊ ጋ ጌ ግ ጎ · word: ገንቦ
+- **ጠ** — ጠ ጡ ጢ ጣ ጤ ጥ ጦ · word: ጣና
+- **ጨ** — ጨ ጩ ጪ ጫ ጬ ጭ ጮ · word: ጫማ
+- **ጰ** — ጰ ጱ ጲ ጳ ጴ ጵ ጶ · read the family aloud twice
+- **ጸ** — ጸ ጹ ጺ ጻ ጼ ጽ ጾ · word: ጸጉር
+- **ፀ** — ፀ ፁ ፂ ፃ ፄ ፅ ፆ · word: ፀጋ
+- **ፈ** — ፈ ፉ ፊ ፋ ፌ ፍ ፎ · word: ፊደል
+- **ፐ** — ፐ ፑ ፒ ፓ ፔ ፕ ፖ · word: ፓስታ
+- **ቨ** — ቨ ቩ ቪ ቫ ቬ ቭ ቮ · read the family aloud twice
+
+Walk the road slowly. When you can read every family in this order without stopping, the whole chart is yours — and at the end of the book the full chart is printed once more as a review, so you can check yourself against it.
+
+## Sub lesson 8 — The -ዋ forms (labialised fidel)
+
+Some fidel carry a little **ዋ** tail, and the sound rounds with a w: ለ becomes **ሏ**. These are the labialised forms, and the book teaches them in three sets. Read each set aloud, then read its words.
+
+[Picture 8251 — the -ዋ forms: three sets and their words]
+
+**Set 1:** ሏ ሷ ሟ ሿ ሯ ቧ — words: አሏት · ሿሿቴ · አቧራ · ቧልት
+
+**Set 2:** ቷ ኗ ኟ ዟ ዧ ቿ — now split the words and join them again: ላቷ · አኟክ · አባቶች · አዟሪ
+
+**Set 3:** ዷ ጇ ጧ ጯ ፏ — words: እጇ · አንዷ · ቅርጿ · ፏፏቴ
+
+Watch one being built — ለ and ዋ come together and make ሏ:
+
+[GIF 8253 — ለ + ዋ join to make ሏ, then the word አሏት]
+
+Last, the mixed reading — long words full of -ዋ forms. Read slowly, fidel by fidel, then whole: አሯሯጯ · ተጧጧፈ · ባለሟል · አኗኗር.
+
+## Sub lesson 9 — The derived forms: ቈ ኈ ኰ ጐ
+
+Four small families come last. They have **five forms each**, not seven — that is how the book prints them. Read each family, then read its words.
+
+[Picture 8252 — the derived forms ቈ ኈ ኰ ጐ and their words]
+
+- **ቈ** — ቈ ቊ ቍ ቋ ቌ · words: ቋራ · ቈሰለ · ቊጣ · ቊንጫ · ቋጠረ · ቋንቋ
+- **ኈ** — ኈ ኊ ኍ ኋ ኌ · split these: ኈኅት · ኊልቈ · ኋለኛ · ኊለመና
+- **ኰ** — ኰ ኵ ኲ ኳ ኴ · words: ኰራ · ኰለተፈ · ኰረት · ኰረኰረ
+- **ጐ** — ጐ ጕ ጒ ጓ ጔ · words: ጐላ · ጕንጭ · ጕልማ · ጓዳ · ጕልበት
+
+Watch the ቈ family arrive, one form at a time:
+
+[GIF 8254 — the ቈ family forms appear one by one, then the word ቋንቋ]
+
+Now the chart is truly complete: the thirty-three families, the -ዋ forms, and these four derived families — every fidel the book teaches.
+
 ## Say it to your companion
 
 Read one whole family aloud to your companion — all seven forms, in order, no stopping. Then give a word for three of its forms. Then build a word from loose fidel while your companion watches, and let your companion read your word aloud. Swap: your companion builds, you read.
