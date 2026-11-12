@@ -1520,6 +1520,15 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11816 | pictures/11816.webp | action-plan roadmap A–D | Career and Technical Education — Choosing a Career — Finding the Right Career — Shortlist, Goals and Action Plan |
 | 11817 | pictures/11817.webp | four steps as four doors | Career and Technical Education — Choosing a Career — Personal Career Selection Review |
 | 11819 | pictures/11819.gif | a pen writing a profile form line by line, section by section | Career and Technical Education — Choosing a Career — Your Personal Profile — Introducing Yourself on Paper |
+| 11900 | pictures/11900.webp | eight-station garment process line | Career and Technical Education — Garment and Cloth — Garment Making |
+| 11901 | pictures/11901.webp | labelled sewing-machine diagram | Career and Technical Education — Garment and Cloth — The Sewing Machine — Its Parts |
+| 11902 | pictures/11902.webp | nine-tile technique sampler | Career and Technical Education — Garment and Cloth — Colouring Cloth — Nine Techniques |
+| 11903 | pictures/11903.gif | stitch cycle: needle and take-up lever move, fabric feeds forward | Career and Technical Education — Garment and Cloth — The Sewing Machine — Its Parts |
+| 11904 | pictures/11904.gif | block stamp pressed and lifted, the print stays on the cloth | Career and Technical Education — Garment and Cloth — Colouring Cloth — Nine Techniques |
+| 11905 | pictures/11905.webp | reception desk with task callouts | Career and Technical Education — Reception and Copying — Self-Employment and the Receptionist's Job |
+| 11906 | pictures/11906.webp | photocopier numbered 1–6 | Career and Technical Education — Reception and Copying — Using a Photocopier — the Six Steps |
+| 11907 | pictures/11907.gif | copier sequence: document in face-down, cover, copy slides out | Career and Technical Education — Reception and Copying — Using a Photocopier — the Six Steps |
+| 11908 | pictures/11908.gif | coffee poured in a thin stream from the jebena, the cup fills | Career and Technical Education — Reception and Copying — Welcoming Guests — the Ethiopian Way |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |

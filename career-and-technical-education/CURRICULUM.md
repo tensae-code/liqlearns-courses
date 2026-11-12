@@ -44,3 +44,13 @@ Band records land here as each band is built and verified.
   evidence alone. The guide's "Soft Sills" and its key's
   "critical"→"creative" slip are taught corrected and named in
   the sources.
+- **Garment and Cloth + Reception and Copying — BUILT** (Grade 7
+  student Unit 5 + Grade 8 student Unit 2, with the Grade 8
+  guide folded in as section-level teacher evidence): Garment
+  and Cloth 9 lessons, 108 questions; Reception and Copying 15
+  lessons, 180 questions. Pictures 11900–11902, 11905, 11906;
+  GIFs 11903 (stitch cycle), 11904 (block print), 11907 (copier
+  sequence), 11908 (jebena pour) — all frame-checked. Garment
+  sources state the Grade 7 guide is truncated before Unit 5.
+  "Tread"→thread and "cartilage"→cartridge taught corrected and
+  named in the sources.
