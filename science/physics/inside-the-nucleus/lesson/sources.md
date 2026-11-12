@@ -1,6 +1,6 @@
 # Sources — Inside the nucleus
 
-countries: Ethiopia, Samoa (curriculum evidence only), Ecuador
+countries: Ethiopia, Samoa (curriculum evidence only), Ecuador, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Samoa (curriculum evidence only), Ecuador
 
 **Book 3:** *Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular* (student textbook) — Ecuador, Ministerio de Educación del Ecuador, Primera edición 2024. Title as printed: Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular. ISBN 978-9942-662-30-9. Grade 11 (1ro BGU). Student book. Repo path: grade-11/gov/ecuador/fisica/student/full-year.pdf. Release: mid-size-books-3. Byte size: 20,779,160. PDF pages: 274. Page rule: printed p. N ≈ PDF p. N+1. Verdict: COMPLETE — full text read (35,790 words) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/ecuador-placements.md.
 
+
+**Book 4:** *Physics Teacher Guide Grade 12 (Secondary, Standards Based)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE". Title as printed: Physics, Senior High, Grade 12 Teacher Guide — Standards-Based (Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE"). Grade: 12 · Teacher guide · Repo path: grade-12/gov/papua-new-guinea/physics/teacher/grade-12-physics-teachers-guide.pdf · Release: mid-size-books-8. Byte size: 7,123,027 (exact match: books.json = source-URL download) · PDF pages: 148 (exact match) · Offset: printed p. N ≈ PDF p. N (guide paginated ii, then 1–148; teaching content printed pp. 49–148). Verdict: COMPLETE — full text read (40,333 words); title/copyright pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The nucleus — composition and size | Grade 11 Student Textbook, printed pp. 288–293 |
 | Inside the nucleus — Year 13, Strand 5: Nuclear Physics (learner's guide — curriculum evidence) | Samoa, Student Learning Guide — Sāmoa Physics Curriculum, Years 12 and 13, printed p. 33 |
 | Atomic model (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 20 Modelo atómico, printed p. 243 |
+| Atomic physics — the atom and its nucleus (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Atomic and Nuclear Physics, Topic Atomic Physics, printed p. 94 approx. |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

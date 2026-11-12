@@ -1,17 +1,20 @@
 # Sources — When waves meet — superposition and standing waves
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
 
+
+**Book 3:** *Physics Teacher Guide Grade 12 (Secondary, Standards Based)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE". Title as printed: Physics, Senior High, Grade 12 Teacher Guide — Standards-Based (Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE"). Grade: 12 · Teacher guide · Repo path: grade-12/gov/papua-new-guinea/physics/teacher/grade-12-physics-teachers-guide.pdf · Release: mid-size-books-8. Byte size: 7,123,027 (exact match: books.json = source-URL download) · PDF pages: 148 (exact match) · Offset: printed p. N ≈ PDF p. N (guide paginated ii, then 1–148; teaching content printed pp. 49–148). Verdict: COMPLETE — full text read (40,333 words); title/copyright pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — When waves meet — superposition and standing waves | Ethiopia, *Grade 9 Student Textbook*, printed pp. 137 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 137 |
 | Unit 6 — Mechanical Oscillation and Sound Wave pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 73–84 |
+| Water waves (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Waves, Topic Water Waves, printed p. 74 approx. |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

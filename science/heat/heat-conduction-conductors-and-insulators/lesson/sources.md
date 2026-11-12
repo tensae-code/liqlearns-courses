@@ -1,6 +1,6 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,16 +10,19 @@ countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only)
 
 **Book 4:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
+
+**Book 5:** *Physics Teacher Guide Grade 12 (Secondary, Standards Based)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE". Title as printed: Physics, Senior High, Grade 12 Teacher Guide — Standards-Based (Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE"). Grade: 12 · Teacher guide · Repo path: grade-12/gov/papua-new-guinea/physics/teacher/grade-12-physics-teachers-guide.pdf · Release: mid-size-books-8. Byte size: 7,123,027 (exact match: books.json = source-URL download) · PDF pages: 148 (exact match) · Offset: printed p. N ≈ PDF p. N (guide paginated ii, then 1–148; teaching content printed pp. 49–148). Verdict: COMPLETE — full text read (40,333 words); title/copyright pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heat flows hot to cold until equal; conduction as contact transfer; the three narrated contact cases (Activity 7.16) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 200–203 (student placement 60) |
 | Sub lesson 2 — Sorting materials: the five cups (Activity 7.17) and the wax-spot rod race (Activity 7.18); metals conduct (copper, aluminium best), wood and plastic insulate | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 200–203 (student placement 60) |
 | Heat felt through the hands (two-hands mixed-water test, Activity 7.18 of the guide); insulating pan handles and cotton gabi as insulator keys (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, printed pp. 126–127, 132–133 (teacher placement 22) — the pan-handle and gabi keys are filed in this lesson; the charcoal-room key is filed in the convection and radiation lessons. |
 | Thermal energy and heat named as a class of energy (booklet-level treatment only — the booklet names heat among the classes of energy; it does not teach conduction itself) | Argentina, *La energía: cambios y movimientos*, Ch. 3: Algunas clases de energía, printed p. 31 |
+| Heat transfer and capacity (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Thermal Physics, Topic Heat Transfer and Capacity, printed p. 62 approx. |
 
 | Conductors and insulators — taught ELECTRICALLY in the Gabon guide (materials that let current pass or not); cross-listed here under the heat slug family, as placed (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 4: Les conducteurs et les isolants, printed p. 43 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

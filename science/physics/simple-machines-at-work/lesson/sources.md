@@ -1,17 +1,19 @@
 # Sources — Simple machines at work
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
 
+**Book 3:** *Physics, Upper Secondary Teacher Guide (OBE)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2008, "Issued free to schools". Title as printed: Physics, Upper Secondary Teacher Guide (Department of Education, Papua New Guinea, published 2008, "Issued free to schools"). Grade: 11–12 · Teacher guide (outcomes-based education edition — the predecessor of Book 2's standards-based guide) · Repo path: grade-11/gov/papua-new-guinea/physics/teacher/grade-11-12-physics-upper-secondary-teachers-guide.pdf. Byte size: 451,722 (exact match to record) · PDF pages: 63 · Offset: printed p. N = PDF p. N+4 (Learning activities and assessment tasks open at printed p. 27 = PDF p. 31). Verdict: COMPLETE — full text read (20,879 words); title/copyright/contents pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Simple machines at work | Ethiopia, *Grade 9 Student Textbook*, printed pp. 91–92 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 91–92 |
 | Unit 5 — Simple Machines pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 55–72 |
+| Simple-machines experiment and project (teacher guide — evidence) | Papua New Guinea, *Physics, Upper Secondary Teacher Guide (OBE)*, Unit 11.4 Work, Power and Energy, printed p. 33 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
