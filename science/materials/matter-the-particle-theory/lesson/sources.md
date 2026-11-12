@@ -1,11 +1,13 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia
+countries: Ethiopia, Barbados
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
 PAIRING WARNING: this guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, different activity numbering. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
+
+**Book 3:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,8 +15,9 @@ PAIRING WARNING: this guide is an Addis Ababa bureau book (2023), NOT edition-ma
 | The six particle postulates | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 31–32 |
 | Democritus and the guide's six postulates (teacher guide — evidence) | Ethiopia, *General Science Teacher's Guide, Grade 7* (teacher guide — evidence), Unit 2, printed pp. 16–18 |
 | Two proofs — sand-and-water shortfall; Experiment 2.1 endless dilution | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 31–32 |
+| Ch. 11 The Kinetic Model of Matter — evidence for kinetic theory, change of state | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 11 The Kinetic Model of Matter, printed p. 168 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Barbados).**
 
 Pairing warning carried: the Grade 7 teacher guide is an Addis Ababa bureau book (2023), not edition-matched to the Amhara student book (© 2015 E.C.); guide rows are syllabus-level teacher evidence only. The student book's six postulates and the guide's six agree in substance (the guide orders movement second); the lesson teaches the student book's set, with Democritus filed as guide evidence.
 

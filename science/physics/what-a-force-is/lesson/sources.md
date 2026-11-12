@@ -1,11 +1,13 @@
 # Sources — What a force is — pushes, pulls and weight
 
-countries: Ethiopia, Zambia (teacher-module evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Barbados
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
 
 **Book 3:** *Physics Teaching Module — Form 1, Term 3* (teacher module — a TEACHING MODULE for teachers, NOT a student textbook) — Zambia, Form 1 (first secondary year), Term 3 · TEACHER module · Republic of Zambia, Ministry of Education, Directorate of Curriculum Development; © Curriculum Development Centre 2025; first published 2025 by Zambia Educational Publishing House, Lusaka · ISBN 978-9982-01-214-5. Repo path: grade-07/gov/zambia/physics/full-year.pdf (Contents API route). Bytes: 2,279,414 (Contents API meta = downloaded). PDF pages: 48. Offset: module printed p. 1 = Topic 5 opener (PDF p. ~9). COMPLETE for what it is — one term module covering Topic 5 only. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/zambia-placements.md.
+
+**Book 4:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,8 +15,9 @@ countries: Ethiopia, Zambia (teacher-module evidence only)
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 64–65 |
 | Unit 4 — Force, Work, Energy and Power pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 41–54 |
 | Topic 5 Sub-Topic 1: Forces (teacher module — evidence) | Zambia, *Physics Teaching Module — Form 1, Term 3*, Topic 5 Sub-Topic 1: Forces, printed p. 1 (module pagination) |
+| Ch. 6 Forces — contact/non-contact, gravitational, magnetic, elastic, nuclear forces | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 6 Forces, printed p. 75 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Barbados).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
