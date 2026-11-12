@@ -10,6 +10,15 @@ The **stelae** are Aksum's signature architecture — great carved stone pillars
 
 [Picture 11205 — three stelae to scale beside a person]
 
+## Grade 9 depth — The Grade 9 book's Aksum — rise, trade and reach
+
+The Grade 9 book tells Aksum whole. It **emerged in the 1st century AD** with its nucleus and political-religious centre at the **city of Aksum**, adorned with **temples and monolithic stelae** — the carved towers this lesson began with.
+
+[Picture 22524 — the Aksum stelae field and a dhow unloading at Adulis]
+
+Between the **4th and 6th centuries** its kings expanded it **beyond the Red Sea into southern Arabia**, **west to the Abay (Blue Nile)**, **north to Eritrea's tip** and **south to northern Shewa**. Its economy rested first on **plough agriculture and tribute** — king and people linked through a demarcated social structure — then increasingly on **Red Sea trade through the port of Adulis, which made it rich**. Fields fed it; tribute ordered it; Adulis enriched it: the Grade 9 triad of Aksum's power.
+
+
 ## Say it to your companion
 
 Tell your companion the three stelae and their heights, which one still stands, and which one came home in 2005.

@@ -14,6 +14,13 @@ The West fell in a generation. The East, facing the same world, lasted ten centu
 
 The teacher guide frames Byzantium's world role in one line: it was **the centre that kept Greco-Roman and Christian civilisation alive in Europe while the West declined**. While western cities shrank in the Dark Age, Constantinople held the old learning, laws and faith together. The guide also names the **Crusades** in this frame: **Western Europe's military response in the Holy Land** — the West, centuries later, marching east into the world Byzantium had held.
 
+## Sub lesson 3 — The Grade 9 book's Byzantium — the empire that lasted a thousand years
+
+The Grade 9 book gives Byzantium its one-line epic: when the West fell, **the East Roman Empire continued**. From **Constantinople** it held an **Orthodox imperial autocracy** over part of **Europe and western Asia** — a Roman state, Greek-speaking and Orthodox in faith, ruled by an emperor whose word was law.
+
+It lasted until **1453**, when it fell to the **Ottoman Turks** — a thousand years after the western empire's fall, in round numbers the book's own framing: the eastern empire that lasted a thousand years. Justinian's century, told earlier in this lesson, was its great early blaze; the long endurance after him is the Grade 9 point.
+
+
 ## Say it to your companion
 
 Tell your companion the three shields of Byzantium, Justinian's four works, and the guide's one-line frame for what Byzantium kept alive.

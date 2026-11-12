@@ -14,6 +14,13 @@ A farming village on a hill above a river becomes the ruler of the known world. 
 
 Society stood in **three classes**: **Patricians**, holding power and great land; **Equites**, with wealth from trade; **Plebeians** — small farmers, craftsmen and labourers — with **war-captive slaves** working the patrician estates. Rome's expansion rested on a **strong army: universal service, strict discipline, fast movement, and good treatment of the conquered**. And its government was a **republic**: elected councils, an **unelected Senate above them**, and **consuls** as officials. Army and order together — that is Rome's answer to the opening question.
 
+## Grade 9 depth — The Grade 9 book's Rome — kingdom, Republic, Empire
+
+The Grade 9 book walks Rome's whole road. It began about **753 BC** on hills above the **Tiber**, passing from **kingdom** through **Republic (from 509 BC)** to **Empire**.
+
+Its legacy is named first in law: **Roman law** is the foundation of most **Western European and Latin American legal systems**. Then in stone: **engineering — roads, bridges, aqueducts**; public **baths and amphitheatres**, the **Colosseum** pictured. And in loyalty: provincials bound to Rome, until **citizenship came to all free males**. A city on a river became a world — and left its law, its roads and its citizenship behind it.
+
+
 ## Say it to your companion
 
 Tell your companion Rome's founding and gods, its three classes, and the two engines of its rise — the army's marks and the republic's order.

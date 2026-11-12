@@ -20,6 +20,15 @@ About **1400** the villages **united at Mbanza Kongo** — the kingdom's **polit
 
 The kingdom grew with the land's strength: **by about 1580 it stretched from the Atlantic to the Kwango river** — ocean to inland river, one kingdom across the whole lower Zaire country.
 
+## Sub lesson 3 — The Grade 9 book's frame — Bantu movements and the Swahili coast
+
+The Grade 9 book sets Kongo inside a continental movement. From the **1st millennium BC**, **Bantu-speaking farming peoples moved slowly — as small communities, not invading hordes** — from the **Niger region** into the **Congo basin and East Africa**. Watch the arrows in the GIF: this is migration as seepage, village by village, across two thousand years.
+
+[GIF 22533 — Bantu migration arrows spreading slowly across the map]
+
+The **Kingdom of Kongo** was founded by Bantu people on the **lower Zaire (Congo) River in the late 14th century** — one flower of that long movement. And the book sets the **Swahili coast** as the discussion case for **cultural diffusion**: an African trading culture blended by contact across the Indian Ocean — proof that movement mixes cultures as surely as it moves peoples.
+
+
 ## Say it to your companion
 
 Tell Kongo's story with its two dates kept apart: villages spread by about 1300; united about 1400. Your companion then asks for the centre's name, the king's title, and the 1580 stretch — answer all three.

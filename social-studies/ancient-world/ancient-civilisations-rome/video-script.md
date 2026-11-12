@@ -9,3 +9,13 @@ Rome began as farmers on a hill.
 Patricians ruled. Equites traded. Plebeians worked.
 Its army marched fast and treated the beaten well.
 Its republic endured. Rome grew.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+A hut on a hill above the Tiber, 753 BC. Kings fall; a Republic rises, 509 BC.
+
+Legions march out on straight roads. Aqueducts carry water into roaring cities.
+
+The Colosseum fills. And Rome's law outlives Rome — in courts across two continents, still.

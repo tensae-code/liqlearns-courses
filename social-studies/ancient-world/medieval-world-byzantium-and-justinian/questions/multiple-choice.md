@@ -14,3 +14,19 @@ a) A silk pattern  b) Collected and revised laws, later used across Europe  c) A
 **4. (Sub lesson 2)** The guide frames Byzantium as —
 a) A trading port only  b) The centre that kept Greco-Roman and Christian civilisation alive while the West declined  c) The founder of feudalism  d) A western kingdom
 **Answer: b) The centre that kept Greco-Roman and Christian civilisation alive while the West declined** — Guide evidence, §4.3 (teacher guide — evidence).
+
+**5. (Sub lesson 3)** After the West fell, the East Roman Empire —
+a) fell at once  b) continued from Constantinople  c) moved to Rome
+**Answer: b) continued from Constantinople** — The eastern empire endured.
+
+**6. (Sub lesson 3)** Byzantium is described as an — imperial autocracy.
+a) Orthodox  b) Catholic  c) pagan
+**Answer: a) Orthodox** — Orthodox faith, autocratic rule.
+
+**7. (Sub lesson 3)** It held part of —
+a) Europe and western Asia  b) Africa and India  c) the Americas
+**Answer: a) Europe and western Asia** — Two continents' edges.
+
+**8. (Sub lesson 3)** Byzantium fell in 1453 to —
+a) the Persians  b) the Ottoman Turks  c) the Franks
+**Answer: b) the Ottoman Turks** — Constantinople, 1453.

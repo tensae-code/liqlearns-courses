@@ -273,3 +273,23 @@ into §2.1), the lesson's own sources say so.
 Zewde, Clapham, Pankhurst, Balsvik, Rubenson, Sishagne, Shillington,
 Teferi Mekonen — the sourcing shelf behind the book, recorded here
 as provenance.
+
+## Ethiopia, History Grade 9 — the book's shape, its glossary and its guide's way (teacher evidence)
+
+**The Grade 9 course shape** (student book, printed pp. i–iii, 1):
+nine units in a world–Ethiopia alternation, taught brainstorm-first,
+with an opening glossary of Ethiopian institutions.
+
+**The Grade 9 glossary** (student book, printed pp. 209–210): the
+titles and institutions of Ethiopia's past — reference for these
+titles; its terms are taught inside the lessons that use them.
+
+**The Grade 9 guide's way** (teacher guide, passim): the fixed
+teaching script and a 78-period budget, Units 3, 7 and 8 the largest.
+The guide is a pre-print/proof state — ISBN, printer and contract
+blank — and is cited as such wherever it stands as evidence.
+
+**The guide's bibliography** (teacher guide, printed pp. 184–185):
+Taddesse Tamirat, Mohammed Hassen, the *Futuh al-Habasha*,
+Trimingham, Teshale Tibebu and the SNNPR profile — the sourcing
+shelf behind the book, recorded here as provenance.

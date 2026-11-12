@@ -14,3 +14,23 @@ a) Universal service, strict discipline, fast movement, good treatment of the co
 **4.** Above Rome's elected councils stood —
 a) The consuls  b) The unelected Senate  c) The assembly of slaves  d) The Etruscan king
 **Answer: b) The unelected Senate** — Consuls served as officials under it.
+
+**5.** Rome began about — on hills above the —.
+a) 509 BC, Nile  b) 753 BC, Tiber  c) 312 AD, Po
+**Answer: b) 753 BC, Tiber** — 753 BC, the Tiber.
+
+**6.** The Republic dates from —
+a) 509 BC  b) 753 BC  c) AD 313
+**Answer: a) 509 BC** — Kingdom, then Republic (509 BC), then Empire.
+
+**7.** Roman law is the foundation of legal systems in —
+a) only Italy  b) most of Western Europe and Latin America  c) China and India
+**Answer: b) most of Western Europe and Latin America** — The book's legacy claim.
+
+**8.** Roman engineering gave —
+a) roads, bridges, aqueducts  b) canals only in Egypt  c) paper mills
+**Answer: a) roads, bridges, aqueducts** — The engineering triad.
+
+**9.** Citizenship eventually came to —
+a) senators only  b) all free males  c) soldiers only
+**Answer: b) all free males** — The empire-wide grant.

@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 2)** Amharic, Somali, Oromo and Tigrinya are Afro-Asiatic languages of the Horn.
 **Answer: True**
+
+**5. (Sub lesson 3)** Congo-Kordofanian is the book's name for the Niger-Congo super-family.
+**Answer: True** — Given in that doubled form.
+
+**6. (Sub lesson 3)** Every language spoken in Africa today originated in Africa.
+**Answer: False** — The book names five arrivals.

@@ -14,6 +14,15 @@ Athens' order was **democracy — history's first direct democracy in practice**
 
 [Picture 11357 — citizens voting in the assembly]
 
+## Grade 9 depth — The Grade 9 book's Greece — Hellenes, poleis and a classical legacy
+
+The Grade 9 book calls Greece — emerging about **2,500 years ago** — the **birthplace of Western civilisation**. Its people, the **Hellenes**, were **culturally united** — common language, religion and culture — yet **never united politically**: they lived in **poleis**, city-states of a town plus its villages and farmland, **Athens and Sparta** the best known.
+
+[Picture 22523 — the Parthenon above Athens and a Greek theatre]
+
+The classical and Hellenistic achievements are listed like a treasury: **architecture (the Parthenon)**, the **invention of drama**, **marble and bronze sculpture**, **history-writing** — Herodotus on the Persian Wars, Thucydides' unbiased account of the Peloponnesian War — and **medicine**. Many small cities, one shared culture, and a legacy the world still studies: that is the Grade 9 Greece.
+
+
 ## Say it to your companion
 
 Tell your companion what direct democracy means, what Cleisthenes gave Athens, how the council of 500 was chosen, and under whom democracy peaked.

@@ -20,6 +20,13 @@ Great Zimbabwe was **succeeded by Mwene Mutapa** — **Mwene being the ruler's t
 
 Stone outlasted the state: the walls of 1200–1450 still stand as the emblem, long after Mutapa's fall.
 
+## Sub lesson 3 — The Grade 9 book's south — consolidation, Mutapa and the Khoi-Khoi
+
+The Grade 9 book widens this lesson's frame. Southern states formed **more slowly**, from **independent villages consolidating from the 11th century**. The Shona built **Great Zimbabwe from about 1000 AD** — its great walls and tower in the **13th–14th centuries** — heart of a trading empire based on **cattle, crops and gold traded to the Indian Ocean coast, 11th–15th centuries**.
+
+After **1450** the **Rozwi clan kings** founded the **Mwene Mutapa empire**, later **conquered by the Portuguese in the late 16th century**. And beside the stone cities, the **Khoi-Khoi** shifted about **1000 AD from hunting to sheep and cattle herding**, expanding from about **1300** — the pastoral thread of the same southern story.
+
+
 ## Say it to your companion
 
 Explain the name first — what Zimbabwe means, in whose language. Then give the wall's height and dates, what the enclosure symbolised, and the successor's name and title. Your companion repeats the chain back without looking.

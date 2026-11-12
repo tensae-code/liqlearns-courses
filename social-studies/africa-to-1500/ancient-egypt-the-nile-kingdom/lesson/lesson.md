@@ -24,6 +24,15 @@ The great break came with the **Hyksos invasion, about 1640 BC**, which broke th
 
 A teacher's skeleton helps hold the long story straight. Egyptian history is divided into **three periods — the Old Kingdom, the Middle Kingdom and the New Kingdom** — and its society into **three classes: upper, middle and lower**. The administration had its own named officers: the **vizier**, the chief official — the prime minister — appointed by the Pharaoh to run the government, and the **nomarch**, the appointed official who administered a nome. Egypt itself was called **"the gift of the Nile"** — the river gave irrigation water, and transport and communication besides.
 
+## Sub lesson 3 — Pharaohs, kingdoms and papyrus — the Grade 9 book's Egypt
+
+The Grade 9 history book tells Egypt's story at a run. A Nile civilisation from the **early 4th millennium BC**, it divides into **Pre-dynastic** times and the **Old, Middle and New Kingdoms**, ruled by **pharaohs** — themselves held to be **gods** in a **polytheist** religion, with a strong belief in **life after death** — and supported by **civilian officials**.
+
+[Picture 22521 — a pyramid under construction beside a scribe writing on papyrus]
+
+Its enduring achievements are placed in **building technology** — this is the **pyramid age** — and in **writing, using papyrus**. Set this beside the earlier grades' Egypt of nomes and dynasties: same river, same kings, now seen as a civilisation's whole arc — gods on the throne, officials at the desks, pyramids on the skyline, and writing on reed-paper that outlasted them all.
+
+
 ## Say it to your companion
 
 Tell Egypt's story as three sentences: the nomes and Menes; the Pharaoh and his farming people; the Hyksos break and Ahmose's rescue. Your companion then asks: who was the vizier? Who was the nomarch? Answer both.

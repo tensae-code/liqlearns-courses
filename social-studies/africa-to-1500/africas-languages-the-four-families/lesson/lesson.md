@@ -31,6 +31,13 @@ Now look inside one family. **Afro-Asiatic** — the family of the Horn, where E
 
 The Horn's own languages sit inside it: **Amharic, Somali, Oromo and Tigrinya** are Afro-Asiatic tongues of the Horn. And **Hausa** — the second most-spoken language on the continent — belongs to Afro-Asiatic too, in its **Chadic** branch. A language can be famous in two lists at once: Hausa is both a most-spoken language and a Chadic branch language.
 
+## Sub lesson 3 — The Grade 9 survey — over a thousand languages, four super-families
+
+The Grade 9 book surveys the whole continent. **Over 1,000 interrelated languages** are spoken across Africa, classified by **shared vocabulary** into **four super-families: Congo-Kordofanian (Niger-Congo), Afro-Asiatic, Nilo-Saharan and Khoisan**.
+
+One caveat rides with the count: **not all languages now spoken in Africa are native to it** — the book names **Arabic, English, French, Spanish and Portuguese** as arrivals. Set this continental frame beside the earlier grades' detail: four great families, a thousand tongues, and a margin of imported languages along the coasts and in the cities.
+
+
 ## Say it to your companion
 
 Name the four families and the island's fifth from memory. Then your companion names a language — Swahili, Hausa, Yoruba, Amharic, Somali, Oromo, Tigrinya — and you say everything this lesson taught about it: its rank, or its family and branch.

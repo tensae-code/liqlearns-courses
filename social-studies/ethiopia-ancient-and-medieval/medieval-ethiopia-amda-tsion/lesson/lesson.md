@@ -14,6 +14,13 @@ One king, thirty years, and a kingdom that grows in every direction. Amda Tsion'
 
 Hold Amda Tsion's map against what came before: the restored dynasty of 1270 was a highland kingdom among neighbours. After Amda Tsion, it was the **great power of the region**, with sultanates at its feet paying tribute. That supremacy set the stage for everything in the next lessons: the sultanates chafing under tribute, Ifat's fall, and the long Adal wars to come. Expansion bought strength — and stored up resistance.
 
+## Grade 9 depth — The Grade 9 book's Amda Seyon — the war for the Zeila route
+
+The Grade 9 book names this king **Amda Seyon** and sets his reign inside a long contest. The underlying conflict between the Christian kingdom and Adal was **monopoly of long-distance trade** — great wealth, and the link between Ethiopia's peoples — plus **territorial expansion**. **Ifat, defeated in 1332, lost control of the Zeila route to Amda Seyon**, and its successors fought for generations to recover independence and the route.
+
+The war's later height (1529–1543, Imam Ahmed's campaigns) belongs to this title's kingdom-versus-Adal story; Amda Seyon's place in it is the opening move — the 1332 seizure of the road that every later army marched to retake. Trade made the prize; 1332 changed its holder.
+
+
 ## Say it to your companion
 
 Tell your companion Amda Tsion's reign dates, the four directions of his expansion by name, and the two gains the book names.

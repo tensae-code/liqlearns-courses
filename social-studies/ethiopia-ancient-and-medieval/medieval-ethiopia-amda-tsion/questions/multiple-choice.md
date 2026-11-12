@@ -18,3 +18,18 @@ a) Nothing  b) Tribute  c) A yearly festival  d) Hostages only
 a) Ships and sailors  b) Manpower and wealth  c) New religions  d) Roman allies
 **Answer: b) Manpower and wealth** — Manpower and wealth — the two named gains.
 
+**5.** Ifat lost control of the Zeila route in — to —.
+a) 1285, Shewa  b) 1332, Amda Seyon  c) 1529, Imam Ahmed
+**Answer: b) 1332, Amda Seyon** — Defeated in 1332.
+
+**6.** The underlying conflict was —
+a) a succession dispute  b) monopoly of long-distance trade, plus territorial expansion  c) a border cattle raid
+**Answer: b) monopoly of long-distance trade, plus territorial expansion** — Trade monopoly at the root.
+
+**7.** Ifat's successors fought afterwards to recover —
+a) their independence and the route  b) the Aksum stelae  c) Gondar
+**Answer: a) their independence and the route** — The long contest that followed.
+
+**8.** The Grade 9 book spells the king's name —
+a) Amda Seyon  b) Amda Tsion only  c) Yekuno-Amlak
+**Answer: a) Amda Seyon** — The Grade 9 form, noted in sources.

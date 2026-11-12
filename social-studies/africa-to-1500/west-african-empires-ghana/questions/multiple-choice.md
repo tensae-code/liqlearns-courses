@@ -21,3 +21,19 @@ a) the Almoravids  b) the Soninke traders  c) the Mandinka  d) Ghana's kings
 **5. (Sub lesson 2)** Koumbi Saleh was taken in 1235 by —
 a) the Almoravids  b) Sundiata Keita  c) the Mandinka chief  d) Mansa Musa
 **Answer: c) the Mandinka chief** — the Mandinka chief took the capital in 1235.
+
+**6. (Sub lesson 3)** Ghana was founded by the —
+a) Soninke  b) Songhai  c) Berbers
+**Answer: a) Soninke** — The Soninke-founded empire.
+
+**7. (Sub lesson 3)** At its height about 1000 AD, Ghana stood in modern —
+a) Nigeria and Cameroon  b) Mauritania, Mali and Senegal  c) Morocco and Algeria
+**Answer: b) Mauritania, Mali and Senegal** — The book's geography.
+
+**8. (Sub lesson 3)** Ghana grew great mainly by —
+a) sea trade  b) controlling and taxing the Trans-Saharan trade  c) iron mining
+**Answer: b) controlling and taxing the Trans-Saharan trade** — Trade, taxed — the main source of greatness.
+
+**9. (Sub lesson 3)** A contributing factor named with the trade is —
+a) the rise of Islam  b) Roman law  c) the camel's disappearance
+**Answer: a) the rise of Islam** — Islam's rise contributed.

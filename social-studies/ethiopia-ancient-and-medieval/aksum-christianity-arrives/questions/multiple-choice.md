@@ -26,3 +26,22 @@ a) Only the palace  b) The lower classes  c) South Arabia  d) Egypt
 a) Amharic  b) Ge'ez  c) Arabic  d) Latin
 **Answer: b) Ge'ez** — Translated into Ge'ez, Ethiopia's literary language.
 
+**7. (Sub lesson 3)** Frumentius was consecrated by —
+a) the Pope in Rome  b) Patriarch Athanasius of Alexandria  c) the Zagwe king
+**Answer: b) Patriarch Athanasius of Alexandria** — As Abuna Salama, first bishop.
+
+**8. (Sub lesson 3)** Alexandria supplied Ethiopia's church head until —
+a) 1270  b) 1622  c) 1959
+**Answer: c) 1959** — When Abune Baselios became the first Ethiopian Patriarch.
+
+**9. (Sub lesson 3)** Under the Zagwe, Christianity expanded with growth in —
+a) art, literature, architecture and music  b) naval power  c) mining
+**Answer: a) art, literature, architecture and music** — The four growth fields.
+
+**10. (Sub lesson 3)** Susenyos's conversion to Catholicism came in — and —.
+a) 1270, endured  b) 1622, failed  c) 1959, succeeded
+**Answer: b) 1622, failed** — The Jesuit attempt and its failure.
+
+**11. (Sub lesson 3)** Protestantism arrived mainly in —
+a) the early 19th century  b) the 4th century  c) the Zagwe age
+**Answer: a) the early 19th century** — Spreading widely in the 20th through missions.

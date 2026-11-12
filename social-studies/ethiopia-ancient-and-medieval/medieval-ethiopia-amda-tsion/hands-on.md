@@ -7,3 +7,6 @@ On a blank outline map (draw one roughly), shade a small 'kingdom' area, then ad
 
 ## Tribute tally
 With counters or stones, show tribute: each 'land' gives 2 stones a year to the centre. After five rounds, count the centre's pile — that growth is the wealth the book names.
+
+## Whose road? (Grade 9)
+Stage the claim: an Ifat merchant-prince and a kingdom official each argue for the Zeila tolls before a neutral caravan leader, using only trade facts from this lesson's parts. The caravan leader rules — and must say what both sides agree the road is worth.

@@ -7,3 +7,6 @@ Gather a group outdoors as an 'assembly'. Put one real small question (which gam
 
 ## The lot draw
 Write each group member's name on slips, fold them, and draw five for a 'council'. Talk about what the lot does that an election cannot: no buying, no family grip.
+
+## Polis charter (Grade 9)
+Found a polis on paper: name it, draw its town-villages-farmland, and write its three gifts to the Greek world from the book's achievement list. Pin all charters together — one culture, many cities, as the Hellenes lived it.

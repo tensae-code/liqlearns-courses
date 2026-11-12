@@ -11,3 +11,6 @@ Sub lesson 1 questions from the type files. Pass mark: say what a nome is with b
 
 ## Sub lesson 2 — Dynasties, invasion — and the guide's skeleton (teacher guide — evidence)
 Sub lesson 2 questions from the type files. Pass mark: count the dynasties; tell the Hyksos dates and gifts; name the three kingdoms, the vizier and the nomarch.
+
+## Sub lesson 3 — Pharaohs, kingdoms and papyrus — the Grade 9 book's Egypt
+Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.

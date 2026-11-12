@@ -18,3 +18,13 @@ from Senegal to the great bend of the Niger.
 Then rivals pressed, the land tired,
 invaders came — and in 1235
 Koumbi Saleh fell. Ghana's day was done.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+A caravan crosses the map's white desert — salt slabs gleaming.
+
+At the crossing of the roads, a Soninke king's toll-men step forward. Ghana takes its share of every load.
+
+Gold north, salt south, taxes in the middle. An empire built on a road.

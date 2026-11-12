@@ -10,3 +10,13 @@ Its kings took a title from across the sea: mukarrib.
 Guardian. Judge. Commander of war.
 Yet they kept their own gods.
 Two shores, closely tied — that is Da'amat.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+Before the famous name, the map is already busy: Punt on the coast road, Da'amat in the highlands.
+
+Slabs and temples rise — Hawlti-Melazo, Metera, Kaskase, Addi-Seglemeni.
+
+Across the Red Sea, Arabia watches. Aksum is coming — but it was not first.

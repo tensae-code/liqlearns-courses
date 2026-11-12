@@ -14,6 +14,13 @@ China's civilisation grew on the **Yellow River — the Huang He — and the Yan
 
 China **traded with Constantinople, India and Aksum** — yes, with Ethiopia's own ancient kingdom — and was **famed for silk and porcelain**. Its writing is **logographic**: **words are built from pictures**, and written **on paper**. A civilisation that writes in pictures, trades across the world, and outlasts every dynasty that rules it — that is ancient China.
 
+## Grade 9 depth — The Grade 9 book's China — Shang, Zhou, Confucius and the Wall
+
+The Grade 9 book opens China in the **Yellow River (Hwang Ho) valley** in the **third millennium BC**. The first dynasty, **Shang (c.1700–1122 BC)**, produced **bronze vessels, war chariots and a writing system**.
+
+The **Zhou dynasty (c.1122 to 256 BC)** saw literary classics and philosophy emerge — above all **Confucius (551–479 BC)**, whose **Confucianism teaches a well-ordered society of ranked duties**. And the ancient Chinese also built the **Great Wall** — the work that still draws China's ancient map in one line across the north. Bronze, books and a wall: the Grade 9 triad for China's beginnings.
+
+
 ## Say it to your companion
 
 Tell your companion the dynasties in order with one mark for each, then China's fame — silk, porcelain, and writing built from pictures.

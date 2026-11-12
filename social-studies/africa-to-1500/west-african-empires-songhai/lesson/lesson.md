@@ -22,6 +22,13 @@ Late in the **16th century** the pressures gathered: **succession struggles**; n
 
 Then the blow: **Morocco's invasion of 1591** ended Songhai — the third and last of the Niger bend's great empires in this title.
 
+## Sub lesson 4 — The Grade 9 book's Songhai — trade, Islam, and Tondibi
+
+The Grade 9 book gives the third empire a hard, clean arc. **Songhai** became powerful by **controlling the Trans-Saharan trade**, trading with the **Berbers**; its kings **accepted Islam early in the 11th century**; and it prospered further as **gold came up from the forest region**.
+
+Then the end, dated and placed: a **Moroccan army defeated it at the Battle of Tondibi in 1591**, and the empire ended. Three empires, one pattern — Ghana, Mali, Songhai each rose on the desert trade, and Songhai's fall to gunpowder-age Morocco closes the medieval sequence the Grade 9 course draws.
+
+
 ## Say it to your companion
 
 Split the empire between its two kings: one sentence for Sunni Ali the conqueror, one for Askia Muhammad the builder. Then close with the fall: the rivals, the diverted gold, and 1591. Your companion checks every name against the lesson.

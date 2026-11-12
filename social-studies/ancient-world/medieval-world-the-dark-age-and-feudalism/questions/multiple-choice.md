@@ -14,3 +14,19 @@ a) Cities grew rich  b) The weak gave land to lords and paid tribute for protect
 **4.** Under feudalism the land pattern was —
 a) Equal small farms  b) Great estates, few landowners, landless tenants  c) State farms  d) No estates
 **Answer: b) Great estates, few landowners, landless tenants** — The feudal shape, in one line.
+
+**5.** In feudal society, power followed control of —
+a) ships  b) land and people  c) coinage
+**Answer: b) land and people** — Church and lords held land — and therefore power.
+
+**6.** The feudal economy was —
+a) industrial  b) agricultural, low but rising in productivity  c) based on banking
+**Answer: b) agricultural, low but rising in productivity** — Farming, slowly improving.
+
+**7.** Society was ordered in —
+a) age grades  b) estates  c) clans
+**Answer: b) estates** — The estates of the realm.
+
+**8.** Knights were feudal society's —
+a) judges  b) mounted soldiers  c) tax farmers
+**Answer: b) mounted soldiers** — Soldiers on horseback.

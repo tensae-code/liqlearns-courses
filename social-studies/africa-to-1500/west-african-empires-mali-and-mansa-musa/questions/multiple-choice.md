@@ -25,3 +25,19 @@ a) coffee and teff  b) millet, sorghum and rice  c) wheat and barley only  d) co
 **6. (Sub lesson 3)** Which blow broke Mali late in the 14th century?
 a) a Roman invasion  b) succession struggles and tributaries declaring independence  c) a desert flood  d) the Portuguese
 **Answer: b) succession struggles and tributaries declaring independence** — succession struggles, breakaway tributaries, Mossi strikes and Tuaregs taking Timbuktu.
+
+**7. (Sub lesson 4)** Mansa Musa reigned —
+a) 1312–1337  b) 1000–1030  c) 1450–1480
+**Answer: a) 1312–1337** — Mali's greatest king.
+
+**8. (Sub lesson 4)** Islam spread in Mali widely along —
+a) the coast  b) the Niger  c) the Congo
+**Answer: b) the Niger** — With language, laws and customs.
+
+**9. (Sub lesson 4)** Timbuktu became a centre of —
+a) iron-working  b) Islamic learning and culture  c) shipbuilding
+**Answer: b) Islamic learning and culture** — Mosques and manuscripts.
+
+**10. (Sub lesson 4)** Mansa Musa's famous journey was —
+a) a war on Ghana  b) a pilgrimage to Mecca  c) a voyage to India
+**Answer: b) a pilgrimage to Mecca** — The Hajj that announced Mali's wealth.

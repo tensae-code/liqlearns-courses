@@ -11,3 +11,13 @@ Christianity became the state religion.
 A century later, the Nine Saints walked the land.
 The Bible was translated into Ge'ez.
 The faith now spoke Ethiopia's own language.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+A shipwreck on the Red Sea. A young teacher survives — Frumentius, bound for a king's court.
+
+Alexandria consecrates him: Abuna Salama. A church is born that will outlive empires.
+
+Centuries fly: Zagwe churches carved downward, Jesuits failing, missions arriving — until 1959, an Ethiopian Patriarch at last.

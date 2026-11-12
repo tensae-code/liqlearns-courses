@@ -8,3 +8,9 @@ Say whether each statement is true or false.
 **Answer: True** — With Constantinople, India and Aksum.
 **3.** The Shang are remembered for coin money and iron tools.
 **Answer: False** — Those are Zhou marks; Shang cast bronze vessels and used horse chariots and writing.
+
+**4.** The Zhou dynasty followed the Shang.
+**Answer: True** — C.1122 to 256 BC.
+
+**5.** Confucius founded the Shang dynasty.
+**Answer: False** — He was a Zhou-age teacher-philosopher.

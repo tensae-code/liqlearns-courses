@@ -21,3 +21,13 @@ wheat and barley, cattle and fish.
 Kingdoms rose — Old, Middle, New.
 The Hyksos broke in — and Ahmose drove them out.
 That is Egypt: the gift of the Nile.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+The map zooms to the Nile. Kingdoms stack like stones: Old, Middle, New.
+
+A pharaoh-god on his throne; officials at their desks; a pyramid rising course by course.
+
+And on papyrus, a scribe writes it all down — the writing that lets us read them still.

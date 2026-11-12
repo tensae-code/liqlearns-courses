@@ -25,3 +25,19 @@ a) Bornu and the Hausa city-states rising in the east  b) Europeans diverting th
 **6. (Sub lesson 3)** Songhai was ended by Morocco's invasion in —
 a) 1492  b) 1235  c) 1591  d) 1640
 **Answer: c) 1591** — 1591.
+
+**7. (Sub lesson 4)** Songhai's kings accepted Islam —
+a) in 1591  b) early in the 11th century  c) never
+**Answer: b) early in the 11th century** — Early 1000s.
+
+**8. (Sub lesson 4)** Songhai traded across the desert with the —
+a) Berbers  b) Vikings  c) Chinese
+**Answer: a) Berbers** — Berber partners of the Sahara trade.
+
+**9. (Sub lesson 4)** Its later prosperity grew as — came up from the forest region.
+a) salt  b) gold  c) ivory
+**Answer: b) gold** — Forest gold.
+
+**10. (Sub lesson 4)** Songhai ended when a Moroccan army defeated it at — in 1591.
+a) Gao  b) Tondibi  c) Timbuktu
+**Answer: b) Tondibi** — The Battle of Tondibi.

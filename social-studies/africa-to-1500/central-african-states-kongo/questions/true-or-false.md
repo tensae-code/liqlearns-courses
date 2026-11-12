@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 2)** By about 1580 Kongo reached from the Atlantic to the Kwango river.
 **Answer: True**
+
+**5. (Sub lesson 3)** The Bantu movements were a single military invasion.
+**Answer: False** — Slow movement of small farming communities.
+
+**6. (Sub lesson 3)** Kongo's founders were Bantu-speaking people.
+**Answer: True** — On the lower Zaire.

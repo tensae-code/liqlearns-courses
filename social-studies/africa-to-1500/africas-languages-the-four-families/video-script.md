@@ -24,3 +24,13 @@ Then Hausa. Then Yoruba.
 One family — five branches.
 Semitic. Cushitic. Berber. Chadic. Omotic.
 That family is Afro-Asiatic — the family of the Horn.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+The map of Africa blooms with voices — a thousand languages.
+
+They sort into four great families, colour by colour, coast to coast.
+
+And along the edges, newer tongues arrive by ship and caravan. The map keeps listening.

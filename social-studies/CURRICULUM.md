@@ -171,3 +171,33 @@ the placement's depth. The G10 book's later units (1906–1991, the
 World Wars, the post-1945 world, Africa since 1960, post-1991,
 indigenous knowledge) belong to Bands C–E. Build log:
 ethiopia-2026-11-11/build-logs/wave4-hist-B-g10-1500-1900.md.
+
+## Ethiopia Grade 9 History (the ancient band) — built 2026-11-12 (Wave 4 History Band A; picture range 22500–22533)
+
+21 lessons created + 17 extended, 368 questions added. **First Steps**
++7 (dating the past, who studies prehistory, fact or opinion, from
+evidence to a written history, historiography, creation and evolution,
+heritage); **the Ancient World** — China's dynastic cycle and
+Christianity created, and the G9 depth stocked into the existing India,
+China, Athens, Rome, Byzantium and feudalism lessons; **Africa to
+1500** — cradle of humankind and stone-tools-to-farming created, the
+G9 depth stocked into Egypt, the four language families, Ghana, Mali,
+Songhai, Kongo and Great Zimbabwe; **Ethiopia: Ancient and Medieval**
+— Addi-Seglemeni (evidence-only, 0-countries line), language families,
+Damot/Kafa, Enset peoples, Gumuz/Shinasha, Harar, Afar sultanates,
+Caravans to Zeila, chronicles as sources and Gadaa created, the G9
+depth stocked into Da'amat, Aksum stelae, Aksum Christianity and Amda
+Tsion. All story-first with story-style animated-map video scripts;
+guide-only content labelled (teacher guide — evidence) everywhere.
+Pictures 22500–22524 (25 drawn PIL, every one read); GIFs 22530–22533
+all frame-checked PASS. Honesty carried: the Unit 3 numbering
+mismatch, the false "Zagwe replaced Aksum in 1270" line, "Chon"→Zhou,
+"Christina kingdom", "Lake Dambal"→Lake Ziway, Amda Seyon/Tsion name
+forms, the guide's pre-print state. Not built, with reasons in the
+log: the UNESCO/World Heritage names (no such placement exists in the
+G9 files), Benin/Oyo/Dahomey/Ashante (absent from the G9 book), the
+named Gurage systems (absent; the book's Gurage content is inside
+Enset Peoples), and five guide-only lessons whose homes sit in Bands
+C–E (Islam's spread, the mirror image, slave-trade economics, the
+moving court, Napoleon). Build log:
+ethiopia-2026-11-11/build-logs/wave4-hist-A-g09-ancient.md.

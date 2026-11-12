@@ -65,3 +65,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md (the Amhara Grade 7 student book, Chapter 5). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 9 extension (Ethiopia Wave 4, 2026-11-12)
+
+A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's Songhai — trade, Islam, and Tondibi** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.

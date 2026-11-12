@@ -21,3 +21,23 @@ a) Songhai  b) Mwene Mutapa  c) Kongo  d) Mali
 **5. (Sub lesson 2)** As the book states, Mutapa fell under Portuguese administration in —
 a) 1500  b) 1580  c) 1629  d) 1450
 **Answer: c) 1629** — 1629, as the book states.
+
+**6. (Sub lesson 3)** Southern states formed from — consolidating from the 11th century.
+a) sea empires  b) independent villages  c) Roman colonies
+**Answer: b) independent villages** — Slowly, village by village.
+
+**7. (Sub lesson 3)** Great Zimbabwe's great walls and tower date to —
+a) the 13th–14th centuries  b) the 18th century  c) 500 BC
+**Answer: a) the 13th–14th centuries** — From a city begun c.1000 AD.
+
+**8. (Sub lesson 3)** Mwene Mutapa was founded after 1450 by —
+a) the Portuguese  b) the Rozwi clan kings  c) the Shona of Ghana
+**Answer: b) the Rozwi clan kings** — Rozwi clan kings.
+
+**9. (Sub lesson 3)** The Khoi-Khoi shifted about 1000 AD from hunting to —
+a) farming cities  b) sheep and cattle herding  c) fishing fleets
+**Answer: b) sheep and cattle herding** — Herding, expanding from c.1300.
+
+**10. (Sub lesson 3)** Great Zimbabwe's empire traded gold to —
+a) the Indian Ocean coast  b) the Baltic  c) the Niger
+**Answer: a) the Indian Ocean coast** — Cattle, crops and gold.

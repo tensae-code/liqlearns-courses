@@ -8,3 +8,9 @@ Say whether each statement is true or false.
 **Answer: False** — Alexander took the north-west; Chandragupta founded the dynasty.
 **3.** The first dynasty lasted from 321 BC to 185 AD.
 **Answer: True** — Over five centuries of unified northern rule.
+
+**4.** Indus artisans worked copper, bronze and gold.
+**Answer: True** — The book's list.
+
+**5.** Hinduism developed from early Indo-Aryan beliefs.
+**Answer: True** — The section's line of descent.

@@ -25,3 +25,23 @@ a) the horse in war and bronze-working  b) the calendar  c) papyrus  d) the pyra
 **6. (Sub lesson 2)** In the guide's skeleton, the Pharaoh's chief official — his prime minister — was the —
 a) nomarch  b) vizier  c) scribe  d) Pharaoh
 **Answer: b) vizier** — the vizier ran the government; the nomarch administered a nome (teacher guide — evidence).
+
+**7. (Sub lesson 3)** The Grade 9 book divides dynastic Egypt into —
+a) Pre-dynastic only  b) Old, Middle and New Kingdoms  c) Upper and Lower only
+**Answer: b) Old, Middle and New Kingdoms** — After the Pre-dynastic age.
+
+**8. (Sub lesson 3)** Pharaohs were held to be —
+a) elected officials  b) gods  c) foreign conquerors
+**Answer: b) gods** — Gods in a polytheist religion.
+
+**9. (Sub lesson 3)** Egyptian writing was done on —
+a) clay tablets  b) papyrus  c) stone only
+**Answer: b) papyrus** — Papyrus — reed paper.
+
+**10. (Sub lesson 3)** The book places Egypt's enduring achievements in building technology and —
+a) iron-working  b) writing  c) seafaring
+**Answer: b) writing** — The pyramid age and papyrus.
+
+**11. (Sub lesson 3)** Belief in life after death belonged to Egypt's —
+a) polytheist religion  b) tax system  c) army
+**Answer: a) polytheist religion** — The religion of many gods.

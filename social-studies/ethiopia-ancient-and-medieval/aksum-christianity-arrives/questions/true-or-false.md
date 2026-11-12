@@ -11,3 +11,8 @@ Say whether each statement is true or false.
 **3. (Sub lesson 2)** The Bible's translation into Ge'ez was one result of this age.
 **Answer: True** — The Bible was translated from Greek into Ge'ez.
 
+**4. (Sub lesson 3)** Abune Baselios was the first Ethiopian Patriarch.
+**Answer: True** — 1959.
+
+**5. (Sub lesson 3)** Frumentius was himself an Ethiopian by birth.
+**Answer: False** — A foreign teacher consecrated by Alexandria — the first bishop, not an Ethiopian Patriarch.

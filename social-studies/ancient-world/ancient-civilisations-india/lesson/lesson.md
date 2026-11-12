@@ -14,6 +14,15 @@ India's civilisation began about **2500 BC** in the valleys of the **Indus** and
 
 About **1500 BC** the civilisation ended, as **climate disasters** struck and **Aryan tribes invaded the north**, driving the Dravidians south and founding small states. Much later, in the **4th century BC**, **Alexander** took India's north-west. Then **Chandragupta Maurya (324–297 BC)** organised the liberation, defeated the Greeks, and in **321 BC** founded **India's first dynasty** — it lasted to **185 AD** — **unifying the north** under one rule.
 
+## Grade 9 depth — The Grade 9 book's India — Indus cities, Hinduism and Buddhism
+
+The Grade 9 book begins India in the **Indus Valley**: the first Indian civilisation arose there about **2500 BC**, at its height about **1500 BC**, with its own **counting, measuring, weighing and writing systems**, **irrigation ditches and canals**, **trade reaching Mesopotamia**, and artisans working **copper, bronze and gold**.
+
+[Picture 22522 — an Indus city street with drains and canals, and a Buddha figure]
+
+From early **Indo-Aryan beliefs** developed **Hinduism**. **Buddhism** emerged **from within Hinduism as a reform movement** — the guide names its founder, **Siddhartha Gautama (c.563–483 BC)**, whom the student book leaves unnamed — and spread beyond India to **South-East Asia, China and Japan**. One valley, two world religions: that is the Grade 9 sweep of India's ancient gift.
+
+
 ## Say it to your companion
 
 Tell your companion India's story in order: the Dravidian beginning on two rivers, the ruined cities that prove it, the ending about 1500 BC, and Chandragupta's dynasty unifying the north.

@@ -7,3 +7,6 @@ Measure 10 metres along a school or compound wall with a rope or pacing, and mar
 
 ## Stone enclosure model
 With stones, bricks or mud, build a small oval enclosure wall on the ground, with toy cattle or stone 'cattle' inside it. Label it with a card: Zimbabwe = stone enclosure (Shona).
+
+## Consolidation counters (Grade 9)
+Start with twelve separate village counters. Each 'century' (round), merge two counters into a larger settlement and record what the merger gains (walls? trade? herds?). After five rounds, compare your map with the book's: villages consolidating from the 11th century.

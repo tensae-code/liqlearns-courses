@@ -20,6 +20,13 @@ Trade brought faith with it. The **Soninke traders were West Africa's first Musl
 
 The end came by three pressures together: **Mandinka pressure, resource degradation, and Almoravid invasion**. In **1235** the **Mandinka chief took Koumbi Saleh** — and Ghana was finished.
 
+## Sub lesson 3 — The Grade 9 book's Ghana — trade, taxed
+
+The Grade 9 book strips Ghana to its engine. The **Soninke-founded** empire — **4th century AD**, at its **height about 1000 AD**, in modern **Mauritania, Mali and Senegal** — grew great by **controlling the Trans-Saharan trade and taxing it**.
+
+The book names the trade — with **Islam's rise a contributing factor** — as **the main source of its greatness**. Gold moved north, salt moved south, and Ghana stood at the crossing with its hand out: that hand, and the army behind it, was the empire. The earlier grades' wealth-and-kings telling and this single-cause Grade 9 telling belong together: the gold was real, and so was the taxing of its road.
+
+
 ## Say it to your companion
 
 Tell Ghana's story as position → tax → faith → fall. Your companion must catch the capital's name, the reach by 1000 AD, and the year the capital fell. Then swap roles.

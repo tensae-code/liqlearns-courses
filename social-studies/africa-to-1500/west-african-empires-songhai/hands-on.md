@@ -7,3 +7,6 @@ Lay out two boxes. Into Sunni Ali's box put conquest cards (Timbuktu taken, Moss
 
 ## Gold road redrawn
 On the bend map from the lesson, draw the old gold road north across the desert — then draw the new road the Europeans opened, south to the coast. Say in one sentence what the new road did to Songhai.
+
+## Three-empire line (Grade 9)
+Draw one timeline carrying Ghana, Mali and Songhai in sequence, each with its Grade 9 power-source written beneath (trade taxed; Niger and Timbuktu; trade and forest gold) and Songhai's end marked at Tondibi, 1591.

@@ -19,3 +19,13 @@ Manikongo — the king.
 
 Ocean on one side, the Kwango on the other.
 That was Kongo.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+The map opens on the Niger. Small lights begin to drift — a village here, a village there.
+
+Centuries pass in seconds. The lights reach the Congo basin; they reach the eastern lakes.
+
+On the lower river, the lights gather into a kingdom: Kongo. Movement becomes a state.

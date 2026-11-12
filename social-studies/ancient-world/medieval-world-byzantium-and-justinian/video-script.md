@@ -9,3 +9,13 @@ Its walls were strong. Its gold was deep. Its army stood.
 Justinian took back the west, wrote the laws into one Code,
 raised Hagia Sophia, and stole silk from China.
 Byzantium kept the old world alive.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+Rome falls in the west — the map darkens. But in the east, one city still burns bright: Constantinople.
+
+A thousand years it stands — Orthodox, imperial, Roman to the end.
+
+1453. The Ottoman banners rise over the walls. The long empire closes its book.

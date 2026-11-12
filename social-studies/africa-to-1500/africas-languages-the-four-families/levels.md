@@ -11,3 +11,6 @@ Sub lesson 1 questions from the type files. Pass mark: name Afro-Asiatic, Nilo-S
 
 ## Sub lesson 2 — The most-spoken languages, and the Afro-Asiatic branches
 Sub lesson 2 questions from the type files. Pass mark: rank Swahili, Hausa and Yoruba; name the five Afro-Asiatic branches; place Amharic, Somali, Oromo, Tigrinya and Hausa correctly.
+
+## Sub lesson 3 — The Grade 9 survey — over a thousand languages, four super-families
+Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.

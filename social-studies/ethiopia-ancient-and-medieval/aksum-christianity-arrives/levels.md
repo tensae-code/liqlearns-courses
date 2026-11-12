@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: Name Frumentius (Abune Se
 
 ## Sub lesson 2 — The Nine Saints — the faith reaches the people
 Sub lesson 2 questions from the type files. Pass mark: Say the Nine Saints (5th century) carried the faith to the lower classes.
+
+## Sub lesson 3 — The Grade 9 book's long arc — Frumentius to an Ethiopian Patriarch
+Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.

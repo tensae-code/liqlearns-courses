@@ -7,3 +7,6 @@ Pass mark: the learner can do this part from memory — Why the East lasted: pos
 
 ## Sub lesson 2 — The keeper of Greco-Roman civilisation (teacher guide — evidence)
 Pass mark: the learner can do this part from memory — The guide's frame: Byzantium as the centre that kept Greco-Roman and Christian civilisation alive in Europe while the West declined, and the Crusades as Western Europe's military response in the Holy Land. Practice deepens with more items, then exact dates, exact names, and the cause-and-effect links between them.
+
+## Sub lesson 3 — The Grade 9 book's Byzantium — the empire that lasted a thousand years
+Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.

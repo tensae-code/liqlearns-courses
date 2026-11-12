@@ -37,3 +37,13 @@ The Tuaregs took Timbuktu itself.
 
 The gold road remained.
 The empire of Mansa Musa did not.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+The Niger bends across the map, carrying a faith with it — language, law, custom.
+
+A king's caravan pours east: Mansa Musa, 1312 to 1337, gold dusting the road to Mecca.
+
+Behind him, Timbuktu's lamps come on — manuscripts, scholars, mud-brick mosques.

@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 2)** Great Zimbabwe is still Zimbabwe's heritage emblem.
 **Answer: True**
+
+**5. (Sub lesson 3)** Mwene Mutapa was conquered by the Portuguese in the late 16th century.
+**Answer: True** — The book's closing date for it.
+
+**6. (Sub lesson 3)** Great Zimbabwe was founded by the Rozwi in 1450.
+**Answer: False** — Great Zimbabwe begins c.1000; the Rozwi founded Mwene Mutapa after 1450.

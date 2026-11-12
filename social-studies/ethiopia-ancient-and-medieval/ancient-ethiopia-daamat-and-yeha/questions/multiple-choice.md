@@ -18,3 +18,18 @@ a) Only a priest  b) Religious guardian, chief judge and war commander  c) A sea
 a) War with Egypt  b) Close political ties between Ethiopia and South Arabia  c) The coming of Christianity  d) Trade with Rome only
 **Answer: b) Close political ties between Ethiopia and South Arabia** — Borrowed royal titles show close political ties.
 
+**5.** Which was NOT named among the pre-Aksumite principalities?
+a) Metera  b) Kaskase  c) Gondar
+**Answer: c) Gondar** — Gondar is two thousand years later.
+
+**6.** The pre-Aksumite setting is tied to —
+a) the Red Sea and the northern highlands  b) Lake Turkana  c) the Congo basin
+**Answer: a) the Red Sea and the northern highlands** — Coast and highlands.
+
+**7.** The guide says these sites were initiated by —
+a) the Habashat and Agazi  b) the Zagwe  c) Greek merchants
+**Answer: a) the Habashat and Agazi** — Migrants from southern Arabia (teacher guide — evidence).
+
+**8.** The book's point is that Aksum —
+a) was Ethiopia's first polity of any kind  b) was not the first centralised polity of the region  c) had no predecessors worth naming
+**Answer: b) was not the first centralised polity of the region** — Principalities rose and fell before it.

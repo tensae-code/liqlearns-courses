@@ -20,3 +20,13 @@ But gold learned a new road — to the coast.
 Rivals pressed from the east.
 And in 1591 Morocco came over the desert,
 and the bend's last great empire fell.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+The third empire rises on the Niger bend — Songhai, taxing the desert roads.
+
+Forest gold climbs north into its markets. Its kings pray toward Mecca.
+
+1591. Moroccan banners cross the desert. Tondibi. The last of the three empires falls.

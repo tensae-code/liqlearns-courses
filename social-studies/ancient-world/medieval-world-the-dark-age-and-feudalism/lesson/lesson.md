@@ -14,6 +14,13 @@ The medieval first age: **Greek and Roman civilisation fallen, cities decayed, p
 
 [Picture 11361 — a tenant giving his land to a lord]
 
+## Grade 9 depth — The Grade 9 book's feudal society — lords, knights, church and manor
+
+Out of the Dark Age, the Grade 9 book draws **feudal society** whole. The **Catholic Church and feudal lords controlled land and people — and therefore power**: in a world where land is wealth, holding land is ruling.
+
+The economy was **agricultural**, its productivity **low but rising**. Society was ordered in **estates**, and its mounted soldiers were the **knights**. The unit's working picture is the **manor village** — lord's hall, church, peasant strips — the small world in which most lives were lived entire. The glossary word to hold is **manor**: the estate that was at once farm, village and government.
+
+
 ## Say it to your companion
 
 Tell your companion what fell in the Dark Age and what shone through it, then walk the feudal bargain step by step: land sold, land gathered, land given up for protection.

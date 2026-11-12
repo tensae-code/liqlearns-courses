@@ -8,3 +8,9 @@ Say whether each statement is true or false.
 **Answer: False** — Mars was war's god; Neptune ruled the sea, Venus love.
 **3.** War-captive slaves worked on patrician estates.
 **Answer: True** — Slavery stood under the three classes.
+
+**4.** The Colosseum is an amphitheatre.
+**Answer: True** — Pictured in the section.
+
+**5.** Rome began as an empire.
+**Answer: False** — Kingdom first, then Republic, then Empire.

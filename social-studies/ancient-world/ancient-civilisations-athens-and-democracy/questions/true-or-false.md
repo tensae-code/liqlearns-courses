@@ -8,3 +8,9 @@ Say whether each statement is true or false.
 **Answer: True** — Workshop, boat and market people.
 **3.** In Athens a small council made all laws without citizens.
 **Answer: False** — The citizens themselves made law and policy.
+
+**4.** Greece is called the birthplace of Western civilisation in the book.
+**Answer: True** — Its framing.
+
+**5.** The Greek city-states formed one united kingdom.
+**Answer: False** — Never politically united.

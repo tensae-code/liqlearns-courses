@@ -11,3 +11,8 @@ Say whether each statement is true or false.
 **3.** Mukarrib was an Ethiopian title invented at Yeha.
 **Answer: False** — It was a South Arabian title used by Da'amat's kings.
 
+**4.** Da'amat is one of six named pre-Aksumite principalities.
+**Answer: True** — Punt, Hawlti-Melazo, Addi-Seglemeni, Metera, Kaskase, Da'amat.
+
+**5.** The pre-Aksumite states were cut off from the outside world.
+**Answer: False** — They interacted with the world beyond.

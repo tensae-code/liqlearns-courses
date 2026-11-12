@@ -45,3 +45,8 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 9 extension (Ethiopia Wave 4, 2026-11-12)
+
+A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's India — Indus cities, Hinduism and Buddhism** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
+- ADD IMAGE [Picture 22522]: a picture of an Indus city street with drains and canals, and a Buddha figure — the student studies the picture and names what it proves.

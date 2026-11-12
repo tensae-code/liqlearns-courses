@@ -8,3 +8,9 @@ Say whether each statement is true or false.
 **Answer: False** — Constantine founded the city; Justinian built Hagia Sophia.
 **3. (Sub lesson 2)** The guide names the Crusades as Western Europe's military response in the Holy Land.
 **Answer: True** — Part of the guide's Byzantium frame (teacher guide — evidence).
+
+**4. (Sub lesson 3)** Byzantium outlasted the western Roman Empire by about a thousand years.
+**Answer: True** — The book's framing.
+
+**5. (Sub lesson 3)** Byzantium's capital was Rome.
+**Answer: False** — Constantinople.

@@ -11,3 +11,6 @@ Sub lesson 1 questions from the type files. Pass mark: give the name's meaning; 
 
 ## Sub lesson 2 — Mwene Mutapa succeeds
 Sub lesson 2 questions from the type files. Pass mark: name the successor state and the title's meaning; give the book's 1629 ending as the book states it.
+
+## Sub lesson 3 — The Grade 9 book's south — consolidation, Mutapa and the Khoi-Khoi
+Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.

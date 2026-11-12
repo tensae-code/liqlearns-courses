@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 2)** The guide divides Egyptian history into three periods: Old, Middle and New Kingdoms.
 **Answer: True** — teacher guide — evidence.
+
+**5. (Sub lesson 3)** Civilian officials supported the pharaoh's rule.
+**Answer: True** — Officials served the god-king.
+
+**6. (Sub lesson 3)** The Grade 9 book dates Egypt's civilisation from the early 4th millennium BC.
+**Answer: True** — Its opening dating.

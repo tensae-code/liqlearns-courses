@@ -10,3 +10,13 @@ The second, 24 metres, still stands.
 The third, 22 metres, was taken to Italy —
 and came home in 2005.
 Carved power. That is Aksum.
+
+---
+
+Grade 9 story addition (Ethiopia Wave 4):
+
+The map opens on a highland city. Stelae rise like stone towers — Aksum, first century AD.
+
+The colour spreads: across the Red Sea to Arabia, west to the Abay, south toward Shewa.
+
+At Adulis, dhows unload. Plough, tribute, trade — the three legs of an empire.
