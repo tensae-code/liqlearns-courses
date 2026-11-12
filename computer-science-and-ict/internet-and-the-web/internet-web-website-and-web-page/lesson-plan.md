@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Internet against Web** — the internet is the global network; the World Wide Web is the means of reaching the information on it
 2. **Website, web page, home page** — a website is a page or linked pages; a web page is a single page; the home page is the first page, linking onward — and why people make pages
 
+3. **The Web in depth — server, hyperlink, URL (Grade 8)** — the WWW as part of the internet (invented 1991, Tim Berners-Lee); pages stored on a web server, holding hyperlinks; the URL's two parts (Grade 8 growth, Wave 3 band B2)
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -30,6 +32,7 @@ Paper and a pencil.
 ## The run of the lesson (in order)
 1. **Do it first** — the learner sorts four words — internet, Web, website, web page — by size, biggest first, before the definitions (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
+   - ADD IMAGE [Picture 11720]: a picture of pages joined by hyperlink threads into a website, one page carrying its two-part URL — the student traces a hyperlink and splits the URL aloud.
    - ADD IMAGE [Picture 10512]: a picture of a website drawn as a small book — cover is the home page, pages are web pages — the student points to cover and pages and names each one.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).

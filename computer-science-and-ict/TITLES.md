@@ -217,3 +217,21 @@ MIN.
 **Presentations** (band B1, from Ethiopia Grade 8): PowerPoint
 — Making a Slideshow; Inserting Slides · Copying, Cutting and
 Deleting Slides.
+
+**Internet and the Web** (band B2, from Ethiopia Grade 8):
+Static and Dynamic Web Pages · FTP — Moving Big Files · HTTP —
+How a Web Page Is Requested and Delivered · Creating an Email
+Account — Gmail Sign-Up · The Parts of an Email Address ·
+Using Email — Inbox, Reading, Composing, Forwarding · Unit 4
+in Short — the Internet. Grown in this band: The Internet (Sub
+lesson 2 — internet services: WWW, email, Telnet, FTP),
+Internet, Web, Website and Web Page (Sub lesson 3 — the Web in
+depth) and Accessing a Website (Sub lesson 3 — searching the
+internet by keyword, the five steps in order).
+
+**Computers in Society** (band B2, from Ethiopia Grade 8):
+Social Networks — Connecting in Virtual Communities · Facebook
+— Profiles and Creating an Account · Telegram — Messaging over
+Wi-Fi and Mobile Internet · LinkedIn, YouTube and Twitter ·
+Benefits of Social Networks · Risks of Social Networks — and
+Using Them Properly.

@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: tell internet and Web apa
 
 ## Sub lesson 2 — Website, web page, home page
 Sub lesson 2 questions from the type files. Pass mark: sort the three words and say why pages are made.
+
+## Sub lesson 3 — The Web in depth — server, hyperlink, URL (Grade 8)
+Sub lesson 3 questions from the type files. Pass mark: say where a page is stored, what a hyperlink is, who invented the WWW and when, and split a URL into protocol identifier and resource name.

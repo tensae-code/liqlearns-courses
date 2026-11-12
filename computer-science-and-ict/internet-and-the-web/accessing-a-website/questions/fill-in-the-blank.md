@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 1)** Search by ______ when you know the topic but not the address.
 **Answer: keyword**
+
+**4. (Sub lesson 3)** You type one or more _______ (search terms) into the search engine.
+**Answer: keywords**

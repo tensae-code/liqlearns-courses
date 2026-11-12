@@ -10,3 +10,9 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 2)** A single page of text, images, sound or video is a web ______.
 **Answer: page**
+
+**4. (Sub lesson 3)** A link to another web page is called a _______.
+**Answer: hyperlink**
+
+**5. (Sub lesson 3)** Web pages can be viewed through browsers such as Google Chrome, Internet Explorer and Mozilla _______.
+**Answer: Firefox**

@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Two routes to a page** — by address — type it, follow links (the Ministry of Education worked example); by keyword — 'the Victory of Adwa', 'preventive mechanisms of Covid-19'
 2. **The ISP — and judging research (teacher guide — evidence)** — connecting needs an Internet Service Provider (Ethio-telecom); the Abebe Bikila research task is judged on finding and reporting, with official sources named
 
+3. **Searching the internet — keywords and results (Grade 8)** — browsing as searching, with Google and Yahoo; the five steps in order — engine, keywords, Enter, results, click or return (Grade 8 growth, Wave 3 band B2)
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Reach information by keyword search.
 3. Name what an ISP is and Ethiopia's example, Ethio-telecom.
 4. Do the Bikila research properly: half a page or more, keywords listed, official sources preferred.
+5. Search by the Grade 8 five steps, in order, and return to the results page for more options when the first click disappoints.
 
 ## What you need
 A computer connected to the internet; paper for the research report.
@@ -30,6 +33,8 @@ A computer connected to the internet; paper for the research report.
 ## The run of the lesson (in order)
 1. **Do it first** — the learner tries to reach information about Ethiopian Grade 7 students starting from the Ministry's address, as the book works it (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
+   - ADD IMAGE [Picture 11726]: a picture of a keyword typed in a search box above a list of result links — the student reads the keyword and points to a result they would open.
+   - ADD GIF [GIF 11727]: a picture of typing a keyword, pressing Enter and results appearing — the student says each step as it happens.
    - ADD IMAGE [Picture 10517]: a picture of the two routes — typing an address, typing a keyword — converging on one page — the student traces both routes to the same page.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).

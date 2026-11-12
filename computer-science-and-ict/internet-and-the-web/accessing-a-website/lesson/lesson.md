@@ -14,12 +14,29 @@ Your task, set by the book itself: find information about Ethiopian Grade 7 stud
 
 Neither route works until you are connected, and connecting requires an **Internet Service Provider** — an ISP. Ethiopia's example is **Ethio-telecom**. The book's practice: research the athlete **Abebe Bikila** and present your findings; and open the **Ethiopian Airlines** site. The teacher guide adds how that research is judged: there is no single correct answer — it is assessed on whether you can actually **find** information, write a report of about **half a page or more**, and **list the keywords you used**. And a warning the guide insists on: false material about the athlete circulates online, so steer to **official sources** — the World Athletics Federation and Ethiopian Athletics Federation sites.
 
+## Sub lesson 3 — Searching the internet — keywords and results (Grade 8)
+
+Grade 8 works the keyword route as a full practical. **Browsing** information is **searching or finding information on the internet**, made easier by **search engines**. People use **Google and Yahoo** to find **images, books, currency conversions, definitions, news and movies** — with **Google the most popular**. The search, in the book's order:
+
+1. **Open a search engine using a web browser.**
+2. **Type one or more keywords (search terms).**
+3. **Press Enter.**
+4. **A list of relevant websites — the search results — is displayed.**
+5. **Click a link to open an interesting site — or return to the results page for more options.**
+
+The book's own practice: browse for the **Abay River** and for **famous athletes in Ethiopia**.
+
+[Picture 11726 — a keyword typed, results listed]
+
+[GIF 11727 — typing a keyword, results appearing]
+
 ## Say it to your companion
 
-Tell your companion the two routes, when each is used, what an ISP is, and Ethiopia's example.
+Tell your companion the two routes, when each is used, what an ISP is, Ethiopia's example — and the five searching steps in order.
 
 ## Do It Yourself
 
 1. Reach the Ministry of Education site by address and describe one link journey.
 2. Find one fact by keyword search and record the exact keywords.
 3. Write why official sources matter, in two sentences.
+4. Search — for real or on paper — for the Abay River, writing down your exact keywords and the first three results.

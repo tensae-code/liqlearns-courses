@@ -75,3 +75,14 @@ and Presentations (2) titles opened. Doing-lessons keep the
 books' exact step orders, including the five-step Save As
 order. Grade 8 now lacks only Unit 4 (band B2, in flight). The
 course now stands at 122 lessons.
+
+**Band B2 (Grade 8, Unit 4) — BUILT 2026-11-12:** 13 new
+lessons + 3 grown, 170 questions added, 21 media filed
+(pictures/GIFs 11719–11739; most of the band's range was
+already taken by other streams, so the band filed the verified
+free block and overwrote nothing) — Internet and the Web (7 new
++ 3 grown, including the Gmail sign-up practical in the book's
+exact twelve steps) and the Computers in Society title opened
+(6, social networks and their benefits and risks). **Grade 8
+now stands complete: 76 lessons across its six units.** The
+course now stands at 135 lessons.

@@ -25,3 +25,15 @@ a) one page, or a collection of related linked pages  b) always exactly 100 page
 **6. (Sub lesson 2)** People make web pages to —
 a) share information and news, sell or advertise, express a view  b) hide all information  c) replace computers  d) stop communication
 **Answer: a) share information and news, sell or advertise, express a view** — the book's three reasons.
+
+**7. (Sub lesson 3)** The World Wide Web was invented in 1991 by —
+a) Tim Berners-Lee  b) the Ministry  c) Google  d) no one — it always existed
+**Answer: a) Tim Berners-Lee — 1991.**
+
+**8. (Sub lesson 3)** A web page is stored on —
+a) a web server  b) a printer  c) a keyboard  d) a flash disk only
+**Answer: a) a web server — a document on the WWW, stored on a web server.**
+
+**9. (Sub lesson 3)** The two main components of a URL are —
+a) username and password  b) protocol identifier and resource name  c) sender and subject  d) request and response
+**Answer: b) protocol identifier and resource name**

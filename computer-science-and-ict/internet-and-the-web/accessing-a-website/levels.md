@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: reach a page both ways an
 
 ## Sub lesson 2 — The ISP — and judging research (teacher guide — evidence)
 Sub lesson 2 questions from the type files. Pass mark: name the ISP, and say how the research task is judged and where to trust.
+
+## Sub lesson 3 — Searching the internet — keywords and results (Grade 8)
+Sub lesson 3 questions from the type files. Pass mark: run the five searching steps in order and say what a search engine, a keyword and the search results are.
