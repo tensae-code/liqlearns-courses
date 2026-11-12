@@ -211,3 +211,19 @@ summary's relative-vs-absolute teaching — a topic the unit
 body never covers — is filed as summary-only growth in the
 two reference lessons and flagged as such in both. The
 course now stands at 365 lessons.
+
+**Band D1 (Grade 10, Unit 1) — BUILT 2026-11-12:** 10 new
+lessons + 4 grown, 145 questions, 24 media filed
+(pictures/GIFs 14100–14116, 14120–14126) — Files at
+Grade 10 depth: extensions and the full table, directory
+structure, absolute and relative paths, conversion,
+import and export, the file-naming rules (a new lesson
+standing on the teacher guide's key, labelled), backup
+and recovery, backing up in Windows, zipping. Book errors
+taught corrected and named in sources: Figure 1.5 used
+for two figures, the backup practical's steps numbered 4
+and 5, PE 1.3 printed before PE 1.2, "Covert" for
+convert, "flowing conditions" for following conditions.
+**Grade 10 now stands complete: 80 new lessons across its
+six units** (plus growths in 17 earlier lessons). The
+course now stands at 375 lessons.
