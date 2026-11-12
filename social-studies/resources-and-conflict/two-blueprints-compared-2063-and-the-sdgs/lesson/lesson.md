@@ -12,7 +12,7 @@ Two plans for the future stand in front of you: one written by Africa for Africa
 
 Against it stands the United Nations' **17 Sustainable Development Goals** — Agenda 2030 — the world's goal set. The book walks the set **goal by goal**; the closing goals it works through include **Goal 15, Life on Land; Goal 16, Peace, Justice and Strong Institutions; and Goal 17, Partnerships for the Goals**. Seventeen goals, each with its own targets, covering the whole world's development — Africa's countries included, but not Africa alone.
 
-[Picture 36004 — the 17 SDG tiles beside Agenda 2063's aspirations]
+[Picture 36704 — the 17 SDG tiles beside Agenda 2063's aspirations]
 
 ## Sub lesson 3 — The comparison — indicator by indicator
 

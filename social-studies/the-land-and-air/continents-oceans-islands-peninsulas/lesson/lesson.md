@@ -12,7 +12,7 @@ The Earth's surface is shared unevenly between land and water. Set out on the wo
 
 There are **five oceans**. The **Pacific** is the largest and deepest of them, covering about **a third of the whole Earth** by itself. The others are the Atlantic, the Indian, the Arctic and the Southern Ocean. Learn the five as one set — every later lesson about coasts, currents and climates stands on this map.
 
-[Picture 36000 — a world map with the five oceans labelled and three coastal features zoomed]
+[Picture 36700 — a world map with the five oceans labelled and three coastal features zoomed]
 
 ## Sub lesson 3 — Coastal features — islands, peninsulas, isthmuses
 

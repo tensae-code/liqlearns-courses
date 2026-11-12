@@ -31,7 +31,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
    - ADD IMAGE [Picture 21319]: a picture of a map of Africa with mineral symbols and the league-table leaders flagged — South Africa's three, tantalum with Ethiopia, bauxite and iron ore — the student finds each flagged mineral and names its producing country.
    - ADD AUDIO: a voice reading the lesson's key words and figures aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
-   - ADD IMAGE [Picture 36002]: a picture of a mine beside an unpaved village road — the student names the gap the picture shows between producing wealth and benefiting from it.
+   - ADD IMAGE [Picture 36702]: a picture of a mine beside an unpaved village road — the student names the gap the picture shows between producing wealth and benefiting from it.
 3. **Say it to your companion** — lesson/lesson.md.
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level (levels.md).

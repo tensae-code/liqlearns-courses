@@ -8,7 +8,7 @@ Africa is often described in two opposite ways — very rich, and very poor. Bef
 
 The promise is real, and it is numbered. Africa holds **about 1.3 billion people**, including a **large working-age population**, and **rich human and natural resources**. On those endowments, inclusive growth should be possible across the continent's low- to high-income states: people to work, learn and build, and resources to build with.
 
-[Picture 36003 — a resources/hurdles balance over the continent]
+[Picture 36703 — a resources/hurdles balance over the continent]
 
 ## Sub lesson 2 — The hurdles — the named historical burdens
 

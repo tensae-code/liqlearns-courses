@@ -22,7 +22,7 @@ Keep Ethiopia's line in view: a home-country entry in a world league. The point 
 
 The league table is only half the story. The book closes the section on the **problems of mineral utilisation in Africa**: holding a world-leading share of a mineral is not the same as using that wealth well. Mineral wealth can be dug and sold while the people who live above it see little of its value — the mine works, the wealth travels out, and the problems of using the resource stay behind. That gap — between **having** minerals and **benefiting** from them — is the problem this part names. Whenever you read a league table after this, ask the second question as well: not only *who produces what*, but *who gains from it, and what stands in the way*.
 
-[Picture 36002 — a mine beside an unpaved village road]
+[Picture 36702 — a mine beside an unpaved village road]
 
 ## Sub lesson 4 — Where the world's great resources lie (teacher guide — evidence)
 

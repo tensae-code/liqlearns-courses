@@ -12,7 +12,7 @@ A **natural resource** is what people extract and use from an **environment they
 
 Resources split into two kinds by one test: does the amount renew, or is it fixed? **Renewable** resources replenish as fast as they are used — **sunlight** and **wind** are the book's examples; using them today does not shrink tomorrow's supply. **Non-renewable** resources exist in **fixed amounts** — **petroleum** and **coal** are the book's examples; every barrel and every lump used is gone, and no new supply is being made on any timescale that matters to us.
 
-[Picture 36001 — a sun/wind pair against a coal/oil pair, renewable against fixed]
+[Picture 36701 — a sun/wind pair against a coal/oil pair, renewable against fixed]
 
 ## Sub lesson 3 — Ecosystem services and sustainable use
 
