@@ -1274,3 +1274,17 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11038 | pictures/11038.webp | crust materials: the three rock families | Social Studies — Materials of the Crust |
 | 11039 | pictures/11039.gif | lava cooling and hardening | Social Studies — Materials of the Crust |
 | 11040 | pictures/11040.webp | a map of Ethiopia's rock regions | Social Studies — Rocks in Ethiopia |
+| 11150 | pictures/11150.webp | people and the land, both ways | Social Studies — People and Resources — The Two-Way Relationship |
+| 11151 | pictures/11151.webp | keeping food, old ways and new ways | Social Studies — People and Resources — The Two-Way Relationship |
+| 11152 | pictures/11152.webp | sorting natural resources: four boxes | Social Studies — People and Resources — Kinds of Natural Resources |
+| 11153 | pictures/11153.webp | five resources, five troubles | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
+| 11154 | pictures/11154.webp | where people settle, and where they do not | Social Studies — People and Resources — Why People Settle Where They Do |
+| 11155 | pictures/11155.webp | population density: the four bands | Social Studies — People and Resources — Crude Density |
+| 11156 | pictures/11156.webp | three densities, three questions | Social Studies — People and Resources — Physiological and Agricultural Density |
+| 11157 | pictures/11157.webp | two slopes, two futures | Social Studies — People and Resources — Resource Depletion in Ethiopia |
+| 11158 | pictures/11158.webp | one missing thing breaks the whole chain | Social Studies — People and Resources — Resource Depletion in Ethiopia |
+| 11159 | pictures/11159.webp | four pressures on Ethiopia's resources | Social Studies — People and Resources — Resource Depletion in Ethiopia |
+| 11160 | pictures/11160.webp | too many, too few, just right (balance scale, three states) | Social Studies — People and Resources — Too Many, Too Few, Just Right |
+| 11161 | pictures/11161.gif | rain washing soil off a bare slope | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
+| 11162 | pictures/11162.gif | one storm carrying the topsoil away | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
+| 11163 | pictures/11163.gif | the tree line retreats as houses multiply | Social Studies — People and Resources — Resource Depletion in Ethiopia |

@@ -71,6 +71,23 @@ never taught from; where a guide key contradicts itself (the
 Grade 8 guide's tax-history key) the tension is carried honestly
 in the lesson sources.
 
+**The syllabus as pacing reference (teacher evidence):** the
+Grade 7 guide closes with the full Social Studies syllabus
+(printed pp. 119–142): a content flowchart setting Grade 7
+against Grade 8 for every thematic area, the minimum learning
+competencies per unit for both grades, and the Grade 7 syllabus
+proper — outcomes, competencies, contents, learning strategies
+and assessment per unit, with the period budget per unit. It is
+filed here as the course's pacing and Grade 8-progression
+reference (teacher evidence): it confirms, for example, that
+Grade 8 takes the forces shaping the Earth's surface, the
+atmosphere and weather/climate, slavery and colonialism, and
+modern Ethiopian history — the ground the later titles of this
+course build on. Where the syllabus promises content the Amhara
+student book lacks (crust materials, human evolution, optimum
+population), the guide placements file it as guide-only content
+and the lessons say so.
+
 **Acceptance reckoning:** this part of the course is taught in
 1 country (Ethiopia) from its own student books, except the
 lessons whose sources state they stand on teacher-guide evidence

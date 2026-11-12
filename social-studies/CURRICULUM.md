@@ -41,6 +41,15 @@ Band records land here as each band is built and verified.
   change; population and resources) stand on teacher-guide
   evidence only, counted nowhere. No guide coverage claimed for
   maps/globes/GPS — the guide has none.
+- **People and Resources — BUILT** (Grade 7 student
+  Chapter 3 + teacher guide Unit 3): 8 lessons, 121 questions,
+  pictures 11150–11160, GIFs 11161–11163 (all frame-checked).
+  One guide-only lesson (too many, too few, just right — the
+  guide's §3.2 optimum-population framework) stands on
+  teacher-guide evidence only, counted nowhere; guide parts
+  also fold into two pupil lessons as labelled evidence. The
+  guide's §3.4 resettlement key is wrong for its section and
+  is disowned in the sources.
 - **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
   Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
   pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).
