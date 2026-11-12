@@ -1,9 +1,11 @@
 # Sources — Adding light, subtracting light — colour mixing
 
-countries: Ethiopia
+countries: Ethiopia, Finland
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
+
+**Book 3:** *Oppilastyö — Valon aaltoluonne (Pupil practical: The nature of light; printed title "Oppilastyö: Valon luonne")* (student practical with teacher/model-answer sections) — Finland, Grade 7 (level given in the document as yläkoulu, lower secondary), authors Ilona Savolainen & Tomi Koivisto, University of Jyväskylä students. Repo path: grade-07/gov/finland/physics/student/finland-g07-aoe3803-oppilastyo-valo.pdf. Bytes: 545,144 (exact match). PDF pages: 8. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 8 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,11 +14,12 @@ countries: Ethiopia
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 10 Student Textbook*, printed pp. 240–249 |
 | Formulas and worked numbers | Ethiopia, *Grade 10 Student Textbook*, printed pp. 240–249 |
 | Unit 6 — Electromagnetic Waves and Geometrical Optics pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher's Guide*, printed pp. 155–202 |
+| Why things have colour — absorption vs reflection of wavelengths (the green leaf / chlorophyll example) | Finland, *Oppilastyö — Valon aaltoluonne*, model answer, PDF p. 4 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Finland).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
 The student book prints "magneta" throughout §6.9 where "magenta" is meant, and one §6.9 item says filters "reflect" where the sense is transmit; both are taught corrected in the lesson (magenta; a filter transmits some light and absorbs the rest) and named only here.
 
-Searchable tags: adding light, subtracting light — colour mixing, grade 10 physics, unit 6, additive: r+g = yellow, g+b = cyan, b+r = magenta, r+g+b = white., subtractive primaries cyan, magenta, yellow each absorb one light primary., a magenta surface reflects red and blue and absorbs green.
+Searchable tags: adding light, subtracting light — colour mixing, grade 10 physics, unit 6, additive: r+g = yellow, g+b = cyan, b+r = magenta, r+g+b = white., subtractive primaries cyan, magenta, yellow each absorb one light primary., a magenta surface reflects red and blue and absorbs green., finland

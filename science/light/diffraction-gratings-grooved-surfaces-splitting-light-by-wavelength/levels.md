@@ -1,0 +1,4 @@
+# Diffraction gratings — grooved surfaces splitting light by wavelength — depth
+
+Whole-lesson pass mark: the learner states what a grating is (fine, even grooves on the scale of a wavelength), explains the fan of colours as groove-copies reinforcing wavelength by wavelength at different angles, demonstrates it with a CD and torch, and contrasts the grating honestly with the prism — answering the lesson's questions from the lesson text.
+This lesson has three sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — sweeping the CD's spectrum at different tilts, matching colours to their wavelengths in order, and reasoning about what a grating would show for a single-colour lamp until the learner can predict a spectrum before making it.

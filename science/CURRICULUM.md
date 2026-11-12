@@ -491,6 +491,7 @@ solar-system comparison lessons.
 11. **Reflection — laws, mirror images and the periscope** (`light/reflection-laws-mirror-images-and-the-periscope`) — reflection splits into regular (polished surfaces) and diffuse (rough surfaces) under the same two laws; a plane mirror's virtual image has four properties, and two mirrors build a periscope (Grade 8 General Science)
 12. **Refraction — why the spoon looks broken** (`light/refraction-why-the-spoon-looks-broken`) — when light crosses obliquely into a different transparent medium its direction changes at the boundary — bending towards the normal going in, away coming out (Grade 8 General Science)
 13. **Dispersion — splitting and remixing white light** (`light/dispersion-splitting-and-remixing-white-light`) — white light is a mixture of seven colours — violet, indigo, blue, green, yellow, orange, red — split by a prism because each colour bends differently, and remixed by Newton's disc (Grade 8 General Science)
+14. **Diffraction gratings — grooved surfaces splitting light by wavelength** (`light/diffraction-gratings-grooved-surfaces-splitting-light-by-wavelength`) — a surface of fine, even grooves — a CD is one — returns a copy of the wave from every groove, and each wavelength reinforces at its own angle, fanning white light into a spectrum ordered purely by wavelength (Finland, Grade 7 pupil practical — Oppilastyö: Valon aaltoluonne)
 
 ## Unit 6 — Weather and Seasons
 
@@ -1616,6 +1617,7 @@ solar-system comparison lessons.
 18. **Comparing the planets — a model of distance, size and behaviour** (`earth-and-space/comparing-the-planets-model`) — the guide teaches planet comparison as model-building — one scaled model, built on the playground or with string and a bead — teacher-guide evidence only, acceptance 0 (Grade 8 General Science)
 19. **Earth — the planet suited for life** (`earth-and-space/earth-the-planet-suited-for-life`) — the guide's nine reasons Earth can hold life — liquid water, the right distance, the right temperature, the right moon and more — teacher-guide evidence only, acceptance 0 (Grade 8 General Science)
 20. **The Lambda-CDM model of the universe** (`earth-and-space/the-lambda-cdm-model-of-the-universe`) — the standard model of cosmology as the unit's capstone — an expanding universe from a hot, dense beginning (galaxy redshift; the cosmic microwave background), cold dark matter as most of the matter (weighed by galaxies' spin, never seen), and Lambda — the dark energy accelerating the expansion; the recipe ≈5% ordinary matter, 27% dark matter, 68% dark energy (Ecuador, Física 1ro BGU, Tema 21).
+21. **The aurora — how northern lights form** (`earth-and-space/the-aurora-how-northern-lights-form`) — the northern lights (revontulet) as a three-link chain: charged particles streamed from the Sun, Earth's magnetic field funnelling them down at the poles, and upper-air gases glowing from the collisions — oxygen green and red, nitrogen blue-violet — teacher-training evidence only, acceptance 0 (Finland, Grade 7 — Pieniä digiprojekteja yläkouluun)
 
 
 ## Unit 20 — Motion, Force and Energy
@@ -1636,6 +1638,8 @@ solar-system comparison lessons.
 14. **Energy — degradation: why useful energy is lost as heat** (`motion-force-and-energy/energy-degradation-why-useful-energy-turns-to-heat`) — energy is never destroyed, but in every conversion some of it degrades — spreading out as heat that cannot be gathered back — and efficiency measures the leak (Grade 7, Argentina — Cuadernos para el aula, NAP)
 15. **How electricity is generated — power stations from source to grid** (`motion-force-and-energy/how-electricity-is-generated-power-stations-to-the-grid`) — an energy source turns a turbine, the turbine spins a generator, and the grid carries the electricity home — the whole generation chain, source to socket (Grade 7, Argentina — Cuadernos para el aula, NAP)
 16. **Force, motion and energy — problem set** (`motion-force-and-energy/force-motion-and-energy-problem-set`) — the unit's review problems worked as one set — reading a speed–time graph, gravity on a falling ball, kinetic energy calculated backwards (Grade 7 General Science)
+17. **Air resistance and the parachute** (`motion-force-and-energy/air-resistance-and-the-parachute`) — drag, the air's push-back, grows with speed and with area facing the air; a tissue-paper parachute makes so much of it that drag balances weight and the fall settles slow and steady — bigger canopy, gentler descent — instructor-pack evidence only, acceptance 0 (Finland, Grade 1 recorded — Fysiikkaa: Tutkitaan ilmaa ja lämpöä)
+18. **Lift — how a wing's pressure difference holds a glider up** (`motion-force-and-energy/lift-how-a-wing-holds-a-glider-up`) — a wing's curved top leaves lower pressure above and higher below, and the difference is lift: paper-helicopter rotors and engineless gliders both fly on it, a glider paying with height at the rate of its glide ratio G = D/H — instructor-pack evidence only, acceptance 0 (Finland, Grade 1 recorded — Fysiikkaa: Tutkitaan ilmaa ja lämpöä)
 
 
 ## Unit 21 — Sound
@@ -1645,6 +1649,7 @@ solar-system comparison lessons.
 3. **Hearing — the path from vibration to brain** (`sound/hearing-the-path-from-vibration-to-brain`) — hearing is a relay in order — object vibrates, air vibrated, vibrations reach the ear, inner ear vibrates, electrical signals carry to the brain (Grade 8 General Science)
 4. **Echoes at work — echolocation and ultrasound** (`sound/echoes-at-work-echolocation-and-ultrasound`) — reflected sound at a boundary is an echo, heard separately only when it returns at least 0.1 s after the original — bats, dolphins, sonar and ultrasound above 20 kHz put it to work (Grade 8 General Science)
 5. **Noise pollution — harm, rights and compromise** (`sound/noise-pollution-harm-rights-and-compromise`) — noise pollution is sound that is loud, long-lasting, unpleasant or harmful — its hearing harm named, and the rights on both sides argued to a compromise (Grade 8 General Science)
+6. **Making sound with code — a programmable tone generator** (`sound/making-sound-with-code-a-programmable-tone-generator`) — Finland's way of teaching sound: a micro:bit (or its MakeCode simulator) plays the frequency you set, so pitch and loudness become numbers you choose, match by ear against a played tone, and stack into a looped composition (Finland, Grade 7 — Yläkoulun äänioppi, micro:bit lesson plan)
 
 ## Unit 22 — Heat
 

@@ -1,10 +1,12 @@
 # Sources — Light — a wave you can see
 
-countries: Ethiopia, Brazil
+countries: Ethiopia, Brazil, Finland
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
 **Book 3:** *Física — Ensino Médio, Livro Didático Público* (student textbook) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Governo do Estado do Paraná. Title as printed: Física — Ensino Médio, Livro Didático Público — a state public textbook, recorded for Brazil as it is. Grade 10 (Ensino Médio). Student book. Release: mid-size-books, asset grade-10-gov-brazil-physics-student-full-year.pdf. Byte size: 6,449,200. PDF pages: 232. Page rule: printed p. N ≈ PDF p. N. Verdict: COMPLETE — read in full (72,833 words) in the 2026-11-12 Physics expansion read; ends with epilogue references at printed p. 232. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/brazil-placements.md.
+
+**Book 4:** *Oppilastyö — Valon aaltoluonne (Pupil practical: The nature of light; printed title "Oppilastyö: Valon luonne")* (student practical with teacher/model-answer sections) — Finland, Grade 7 (level given in the document as yläkoulu, lower secondary), authors Ilona Savolainen & Tomi Koivisto, University of Jyväskylä students. Repo path: grade-07/gov/finland/physics/student/finland-g07-aoe3803-oppilastyo-valo.pdf. Bytes: 545,144 (exact match). PDF pages: 8. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 8 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,11 +15,12 @@ countries: Ethiopia, Brazil
 | Formulas and worked numbers | Ethiopia, *Grade 10 Student Textbook*, printed pp. 186–189 |
 | Unit 6 — Electromagnetic Waves and Geometrical Optics pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher's Guide*, printed pp. 155–202 |
 | The nature of light and its properties (Brazil) | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Eletromagnetismo, Ch. 12 A Natureza da Luz e suas Propriedades, printed p. 183 |
+| Light as a transverse wave — wavelength defined and pictured (model answer) | Finland, *Oppilastyö — Valon aaltoluonne*, model answer, PDF p. 3 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Finland).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
 The student book's Unit 6 summary prints the speed of light split across lines as "2.99792458×108 m/s = 3.00× 108 m/s"; the value itself is correct and is taught as 2.99792458×10⁸ m/s ≈ 3.00×10⁸ m/s.
 
-Searchable tags: light — a wave you can see, grade 10 physics, unit 6, light is the visible band of the em spectrum., in a uniform medium light travels in straight lines (the ray model)., c ≈ 3.00×10⁸ m/s in vacuum; light slows in materials.
+Searchable tags: light — a wave you can see, grade 10 physics, unit 6, light is the visible band of the em spectrum., in a uniform medium light travels in straight lines (the ray model)., c ≈ 3.00×10⁸ m/s in vacuum; light slows in materials., finland
