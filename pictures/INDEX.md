@@ -835,3 +835,18 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 8911 | pictures/8911.webp | five literary-element cards around an open book | Amharic — Writing About Stories |
 | 8912 | pictures/8912.gif | a cause-and-effect chain lighting box by box | Amharic — Writing About Stories |
 | 8913 | pictures/8913.webp | a student lying awake in a small rented room at night (short fiction) | Amharic — Writing About Stories |
+| 9600 | pictures/9600.webp | our instruments: masenqo, kebero, washint, krar named in Amharic + transliteration | Performing and Visual Arts — Our Instruments |
+| 9601 | pictures/9601.webp | we too have music: five instruments including the trumpet | Performing and Visual Arts — Hearing Each Instrument |
+| 9602 | pictures/9602.webp | beat instruments: six named | Performing and Visual Arts — Beat Instruments |
+| 9603 | pictures/9603.webp | church instruments: bell, qachil, tsenatsil | Performing and Visual Arts — Church Instruments |
+| 9604 | pictures/9604.webp | kinds of traditional music: four occasions | Performing and Visual Arts — Kinds of Traditional Music |
+| 9605 | pictures/9605.webp | shilela and fukera: the chanter, back and forth | Performing and Visual Arts — Kinds of Traditional Music |
+| 9610 | pictures/9610.webp | notes 4-2-1: whole (open oval, no stem), half (open + stem), quarter (filled + stem) | Performing and Visual Arts — Notes and Rests |
+| 9611 | pictures/9611.webp | rests, silent beats: whole rest hanging, half rest sitting, quarter rest | Performing and Visual Arts — Notes and Rests |
+| 9612 | pictures/9612.webp | the whole note: open ovals in colours, counted 1-2-3-4 | Performing and Visual Arts — Notes and Rests |
+| 9620 | pictures/9620.gif | a whole note held for exactly 4 counted beats | Performing and Visual Arts — Notes and Rests |
+| 9621 | pictures/9621.gif | a whole rest: a silent 4-beat count with a hand marking beats | Performing and Visual Arts — Notes and Rests |
+| 9622 | pictures/9622.gif | a drum playing sounded beats with a held rest: sound, sound, silence, sound | Performing and Visual Arts — Playing Notes and Rests |
+| 9623 | pictures/9623.gif | a kebero beaten with its stick | Performing and Visual Arts — Beat Instruments |
+| 9624 | pictures/9624.gif | a tsenatsil shaken | Performing and Visual Arts — Church Instruments |
+| 9625 | pictures/9625.gif | a praise chanter moving back and forth (shilela) | Performing and Visual Arts — Kinds of Traditional Music |
