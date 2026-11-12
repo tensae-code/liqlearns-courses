@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Fiji, Uganda, Kenya
 
 **Book 5:** *Secondary Physics — Student's Book One* (student textbook) — Kenya, Kenya Literature Bureau (KLB), Fourth Edition; © Ministry of Education, Kenya. Title as printed: Secondary Physics — Student's Book One (KLB, Fourth Edition). Grade: Form One (Grade 9) · Student book · Kenya Literature Bureau; writers incl. Oliver Minishi, Erastus Muni, Hesborne Omolo, Grace Mwangasha; prologue: covers the Form One Physics syllabus under the 8-4-4 curriculum · Repo path: grade-09/approved-private/kenya/kenya-physics-form1-klb.pdf (read from the phase3-staging copy of the same path, 6,908,398 bytes) · Byte size: 6,908,398 (staging copy) · PDF pages: 301 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Cells and simple circuits, each ending in a Revision Exercise. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
+**Book 6:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The convection loop: warmed fluid expands, lightens, rises; cool fluid sinks; the sawdust beaker (Activity 7.19) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
@@ -22,8 +24,9 @@ countries: Ethiopia, Fiji, Uganda, Kenya
 | Ch 6: convection (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 6 — printed p. 109 |
 
 | Ch 7: convection (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 7: convection — printed p. ~185 |
+| Ch. 4 — heat transfer by convection (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 4 — printed p. 93 — heat transfer by convection (کانوکشن named in the TOC) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Uganda, Kenya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

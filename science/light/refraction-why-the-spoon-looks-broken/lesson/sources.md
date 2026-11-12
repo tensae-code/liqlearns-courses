@@ -1,6 +1,6 @@
 # Sources — Refraction — why the spoon looks broken
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia
 
 **Book 3:** *Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; writers incl. Chia Song Choy, Koay Kheng Chuan, Dr. Ooi Hean Beng et al.; Sasbadi Sdn. Bhd., first published 2019, ISBN 978-983-77-1530-1, Book Serial No. 0175KPM 2019. Grade: Form 4 (= Grade 10) · Kind: student · Files: grade-10/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-10/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level from the textbook's own contents pages). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 4 DLP asset 100,977,794 bytes, 316 PDF pages, Book Serial No. 0175/KPM 2019, ISBN 978-983-77-1530-1; Form 4 Malay asset 50,666,448 bytes, 298 PDF pages, Malay edition's own ISBN 978-967-5332-40-1). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 4:** *فیزیک — صنف دهم (Physics — Grade 10)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف دهم (Physics — Grade 10), Ministry of Education, Kabul. Grade: 10 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul. Repo path (record): grade-10/gov/afghanistan/فیزیک_صنف_دهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G10-Dr-physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–9 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The bend at the boundary: refraction defined; the perpendicular exception; the broken spoon (Activity 7.8) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 187–189 (student placement 53) |
 | Sub lesson 2 — Towards in, away out: denser/less dense bends; the one-plane law-form | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 187–189 (student placement 53) |
 | Refraction, refractive index, critical angle, total internal reflection (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | Ch. 6 Light and Optics, §6.1 Refraction of Light (Malaysia) | Malaysia, *Physics Form 4*, Ch. 6 Light and Optics, §6.1 Refraction of Light — printed p. 232 — incl. real/apparent depth |
+| Ch. 4 Refraction — laws of refraction and the parallel-sided plate (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 4 Refraction — printed p. 69 — laws of refraction p. 75, light through a parallel-sided plate p. 79 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Afghanistan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: that lesson carries refraction as one part of three at primary depth (coin and pencil); this item is a full Grade 8 section with the towards/away rule and the one-plane law-form, so it is built whole here.
 

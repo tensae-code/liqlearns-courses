@@ -1,6 +1,6 @@
 # Sources — Free fall — Galileo vs Aristotle
 
-countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only), Kuwait, Bulgaria
+countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only), Kuwait, Bulgaria, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evi
 
 **Book 7:** *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Dimova Z., Velchev N.; Pedagog 6, 2024. Grade 9 (Part 1 of 2), student — for classes with intensive foreign-language study, as printed on the cover · Filed in the records as "Grade 8": the big cover numeral is "8", but the cover's own subtitle reads «Първа част за 9. клас» (First part for Grade 9); it is cited here under its printed identity, Grade 9 Part 1, and the library holds NO regular Grade 8 Physics & Astronomy book under that label · Repo: release `mid-size-books-8`, asset `grade-08-gov-bulgaria-physics-and-astronomy-fizika-8-klas-pedagog6-2024.pdf` — 95,929,955 bytes (matched) · PDF pages: 162 · Printed page = PDF page (entry test folios 6–8 verified) · Verdict: COMPLETE as Part 1 (year review printed p. 151, project lesson p. 154, glossary p. 157, answers p. 160). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 8:** *فیزیک — صنف یازدهم (Physics — Grade 11)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف یازدهم (Physics — Grade 11), Ministry of Education, Kabul. Grade: 11 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul. Repo path (record): grade-11/gov/afghanistan/فیزیک_صنف_یازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G11-Dr-Physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–8 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Describing freely falling bodies — review of vertical motion | Grade 11 Student Textbook, printed pp. 75–79 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evi
 | Ch. 1 Lesson 3: free fall — Newton's vacuum tube, the hammer-feather idea (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 1 Lesson 3 — printed p. 7 |
 | Ch. 2, lesson 2-3 "Free Fall" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 62 |
 | L5 Free fall of bodies; laboratory: determining the acceleration in free fall (printed p. 29) (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, L5 Free fall of bodies; laboratory: determining the acceleration in free fall (printed p. 29) — printed p. 26 |
+| Ch. 2 — free fall (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 2 — printed p. 66 — free fall |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Palestine, Slovenia, Kuwait, Bulgaria).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Palestine, Slovenia, Kuwait, Bulgaria, Afghanistan).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

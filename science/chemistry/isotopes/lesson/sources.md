@@ -1,14 +1,17 @@
 # Sources — Isotopes
 
-countries: Ethiopia
+countries: Ethiopia, Afghanistan
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
+
+**Book 2:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Isotopes | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 91–95 (section 3.5.3) |
+| Ch. 6 — what an isotope is (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 6 — printed p. 143 — what an isotope is |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Afghanistan).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 

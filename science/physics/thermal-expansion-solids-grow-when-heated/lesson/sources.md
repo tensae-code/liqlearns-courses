@@ -1,6 +1,6 @@
 # Sources — Thermal expansion — solids grow when heated
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Ira
 
 **Book 7:** *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)* (student companion practical notebook) — Yemen, Yemen MoE (e-learning-moe.edu.ye imprint on every page). Grade: 10 · Student book (companion practical notebook) · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year-activities.pdf` — 7,791,104 bytes. PDF pages: 35. Printed page = PDF page − 1 (contents printed p. 5). Verdict: COMPLETE (11 named experiments, contents printed p. 5; the printed numbering skips one number, running to "Experiment 11" for the pressure law — a print numbering quirk, no experiment missing). Structure: one experiment per topic of the student book, each laid out as aim → theory → apparatus → steps → conclusion, using school/local materials. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 8:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Thermal expansion of solids | Grade 11 Student Textbook, printed pp. 190–195 |
@@ -26,7 +28,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Ira
 | Ch.5 L1 Heat and the expansion of bodies (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.5 L1 Heat and the expansion of bodies — printed p. 75 |
 | U8 The effect of heat on bodies: linear expansion of solids; volume expansion (printed p. 182) (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U8 The effect of heat on bodies: linear expansion of solids; volume expansion (printed p. 182) — printed p. 180 |
 | Exp. Finding the linear-expansion coefficient (Yemen, Grade 10) | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)*, Exp. Finding the linear-expansion coefficient — printed p. 23 |
+| Ch. 4 — thermal expansion (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 4 — printed p. 83 — thermal expansion |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, Uganda, Iraq, Yemen).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq, yemen

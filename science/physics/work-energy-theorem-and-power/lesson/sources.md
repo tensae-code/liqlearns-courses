@@ -1,6 +1,6 @@
 # Sources — Work–energy theorem; power
 
-countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria (teacher-guide evidence only), Sri Lanka, Sudan, United States, Kuwait
+countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria (teacher-guide evidence only), Sri Lanka, Sudan, United States, Kuwait, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria
 
 **Book 11:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الأول (Physics, Grade 12, Term 1 — student book)* — Kuwait. Grade 12, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait. Repo path: grade-12/gov/kuwait/physics/student/term-1.pdf (release full-quality-oversized-books). Bytes: 111,651,248 (exact vs record). PDF pages: 122. Offset: PDF page = printed page + 3 (proven: Unit 1 opener PDF 15 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Coverage gap in the secured set, carried on the record: the Grade 12 Term 1 applications book is not in the records. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 12:** *فیزیک — صنف یازدهم (Physics — Grade 11)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف یازدهم (Physics — Grade 11), Ministry of Education, Kabul. Grade: 11 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul. Repo path (record): grade-11/gov/afghanistan/فیزیک_صنف_یازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G11-Dr-Physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–8 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The work–energy theorem | Grade 11 Student Textbook, printed pp. 140–147 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only), Nigeria
 | Ch. 7 Work, Energy, and Energy Resources (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 7, printed p. 285 — work, KE and the work-energy theorem, potential energy, conservation, power, world energy use |
 | Ch. 7 Work, Energy, and Energy Resources (College Physics 2e) | United States, *College Physics 2e*, Ch. 7, printed p. 271 |
 | Ch. 1, lesson 1-2 "Work and Energy" (Kuwait, Grade 12 Term 1) | Kuwait, *Physics, Grade 12, Term 1 (student book)*, printed p. 23 |
+| Ch. 5 Work, Mechanical Energy and Power — work, kinetic energy and power (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 5 Work, Mechanical Energy and Power — printed p. 130 — work and kinetic energy p. 134, power p. 143 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Barbados, Sri Lanka, Sudan, United States, Kuwait).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Barbados, Sri Lanka, Sudan, United States, Kuwait, Afghanistan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
 Honesty/evidence note: the demonstrations section stands on teacher-guide evidence only (Grade 11 Teacher Guide, printed p. 55 and unit body — placement #12); the theorem and power teaching itself is pupil-taught from the student book, so the acceptance count stays at 1 country. The placement's Unit 4 minimum-competency checklist is recorded in full in the sources of the companion energy lesson (kinetic-and-potential-energy).
 

@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen
+countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 
 **Book 8:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 9:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 | Ch. 30 Atomic Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 30 Atomic Physics, printed p. 1411 — atomic spectra, X-rays, lasers |
 | Unit 4, Ch. 2, lesson 2-1 "The Atomic Nucleus" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 113 |
 | U5 Atomic physics: Dalton's and Thomson's models (printed p. 115), Rutherford's model (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U5 Atomic physics: Dalton's and Thomson's models (printed p. 115), Rutherford's model — printed p. 121 |
+| Ch. 5 — Thomson's and Rutherford's atomic models and spectra (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 5 — printed p. 115 — Thomson's atomic model p. 115, Rutherford's model p. 116; atomic and absorption spectra pp. 112–114 in the same strand |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

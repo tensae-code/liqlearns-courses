@@ -1,6 +1,6 @@
 # Sources — Seeing inside the body — X-ray, CT and MRI
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt
 
 **Book 6:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 7:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — X-rays | Grade 12 Student Textbook, printed pp. 12–14 |
@@ -26,7 +28,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt
 
 | Ch 8 X-rays: production, properties, hard and soft X-rays, uses and dangers (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 8 X-rays: production, properties, hard and soft X-rays, uses and dangers — printed p. 144 |
 | Ch.6 Applications of X-rays (medical imaging, crystal structure) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.6 Applications of X-rays (medical imaging, crystal structure) — printed p. 148 |
+| Ch. 5 — X-rays (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 5 — printed p. 123 — X-rays (شعاع ایکس, named in English in the TOC) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan).**
 
 Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt

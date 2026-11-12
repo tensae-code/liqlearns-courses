@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq
+countries: Ethiopia, Slovenia, Iraq, Afghanistan
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Slovenia, Iraq
 **Book 13:** *FIZIKA 9 — i-učbenik za fiziko v 9. razredu osnovne šole (interactive textbook for Physics in Grade 9 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Robert Repnik, Milan Svetec, Maja Jug, Tomaž Ahčin, Goran Bezjak, Zvonko Jagličič & Marko Gosak; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0199-8; approved by the Expert Council for General Education, 19.6.2014. Grade: 9 · Student (interactive textbook) · Repo path: grade-09/gov/slovenia/fizika-9-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-09-gov-slovenia-fizika-9-iucbenik.zip) · Bytes: 221,315,735 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Premo enakomerno gibanje) to p. 233 (closing tasks) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (433 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
 **Book 14:** *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)* (student textbook) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Sixth revised edition, 2023 / 1445H (revised from the 2021 Grade-7 Science book). Grade: 7 · Student book · Repo: release `mid-size-books`, asset `grade-07-gov-iraq-physics-student-full-year.pdf` — 32,972,568 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0; contents and lesson starts align). Verdict: COMPLETE (ends with Ch.5 chapter test, printed p. 88). Structure: 5 chapters / 12 lessons, each lesson built on the 5-stage learning cycle (engage–explore–explain–evaluate–extend) stated in the preface. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
+
+**Book 15:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -36,8 +38,9 @@ countries: Ethiopia, Slovenia, Iraq
 
 | Grade 6 — particles, sublimation, and Experiment 4 | Ethiopia, *Grade 6 Student Textbook*, printed pp. 70–74 |
 | Ch.1 L1 States of matter and their properties (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.1 L1 States of matter and their properties — printed p. 7 |
+| Ch. 3 Mechanical Properties of Matter — states of matter (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 3 Mechanical Properties of Matter — printed p. 56 — states of matter |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Iraq).**
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Iraq, Afghanistan).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

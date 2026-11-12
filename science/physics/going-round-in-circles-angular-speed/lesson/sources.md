@@ -1,6 +1,6 @@
 # Sources — Going round in circles — angular speed
 
-countries: Ethiopia, Ecuador, Bolivia, Egypt
+countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt
 
 **Book 4:** *Physics, Second Secondary — Term 2* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Phy_EN_SE2_SB_T2_.pdf · Byte size: 13,804,835 (= recorded size exactly) · PDF pages: 104 · Offset: PDF = printed through Ch.4 (proven footers: PDF pp.7–93 carry their own numbers, e.g. PDF p.93 footer "93"); Ch.5 content runs printed = PDF − 1 (proven: PDF p.96 header "95", p.104 header "103"). Verdict: COMPLETE — three units, five chapters, with summaries, misconception boxes and problem sets to the end. Verified language variant of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الثاني* (grade-11/gov/egypt/Phy_Ar_SE2_SB_T2_26.pdf, 13,725,920 bytes = recorded size exactly, 103 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 5:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Uniform circular motion — angular quantities | Grade 11 Student Textbook, printed pp. 79–83 |
 | Circular motion (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 3 Movimiento circular, printed p. 37 |
 | MCU: circular-motion equations, angular–linear velocity relation (Bolivia) | Bolivia, *Texto de Aprendizaje, Física, Cuarto Año*, MCU, PDF pp. 46–50 approx. |
 | Ch.4 Tangential velocity and the factors centripetal force depends on (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.4 Tangential velocity and the factors centripetal force depends on — printed p. 85 |
+| Ch. 1 — the relation between circular motion and SHM (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 1 — printed p. 15 — the relation between circular motion and SHM |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Bolivia, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

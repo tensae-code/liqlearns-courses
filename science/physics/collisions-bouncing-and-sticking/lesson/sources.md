@@ -1,6 +1,6 @@
 # Sources — Collisions — bouncing and sticking
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -9,13 +9,16 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 
 **Book 4:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 5:** *فیزیک — صنف یازدهم (Physics — Grade 11)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف یازدهم (Physics — Grade 11), Ministry of Education, Kabul. Grade: 11 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul. Repo path (record): grade-11/gov/afghanistan/فیزیک_صنف_یازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G11-Dr-Physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–8 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Collisions — elastic and perfectly inelastic | Grade 11 Student Textbook, printed pp. 157–161 |
 | Experiments demonstrating momentum and energy in collisions; elastic vs inelastic distinguished (teacher guide — evidence) | Papua New Guinea, *Physics, Upper Secondary Teacher Guide (OBE)*, Unit 11.3 Force and Motion (Dynamics), printed p. 32 |
 | Collisions — PHYS.1.3 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.1.3, printed p. 32 — elastic vs inelastic collisions |
 | U1 Two-dimensional collisions (elastic/inelastic treated by components) (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U1 Two-dimensional collisions (elastic/inelastic treated by components) — printed p. 10 |
+| Ch. 6 — collisions, elastic and inelastic (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 6 — printed p. 159 — collisions and conservation of linear momentum p. 159, elastic collision p. 162, inelastic collision p. 164 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United States, Yemen).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, United States, Yemen, Afghanistan).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
 
 Searchable tags: physics, grade 11, dynamics, collisions — bouncing and sticking, momentum, united states, yemen

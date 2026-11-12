@@ -1,6 +1,6 @@
 # Sources — Matter waves and the uncertainty principle
 
-countries: Italy, Fiji, United States, Iraq, Egypt, Kuwait, Bulgaria
+countries: Italy, Fiji, United States, Iraq, Egypt, Kuwait, Bulgaria, Afghanistan
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
@@ -16,6 +16,8 @@ countries: Italy, Fiji, United States, Iraq, Egypt, Kuwait, Bulgaria
 
 **Book 7:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 8:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.34 Le onde di probabilità: de Broglie waves, wave–particle duality, Heisenberg's uncertainty — PDF p. 280 |
@@ -28,8 +30,9 @@ countries: Italy, Fiji, United States, Iraq, Egypt, Kuwait, Bulgaria
 | Ch.5 The wave nature of the particle (de Broglie wavelength and electron waves) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.5 The wave nature of the particle (de Broglie wavelength and electron waves) — printed p. 129 |
 | Unit 4, Ch. 1, lesson 1-2 "Waves and Particles" — de Broglie wavelength and electron waves (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 104 |
 | L28 Wave properties of particles — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L28 Wave properties of particles — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief — printed p. 162 |
+| Ch. 5 — wave–particle duality, de Broglie waves and Heisenberg's uncertainty principle (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 5 — printed p. 129 — the dual nature of light p. 129, de Broglie wave speed p. 131, Heisenberg's uncertainty principles p. 132 |
 
-**Acceptance count: taught in 7 countries (Italy, Fiji, United States, Iraq, Egypt, Kuwait, Bulgaria).**
+**Acceptance count: taught in 8 countries (Italy, Fiji, United States, Iraq, Egypt, Kuwait, Bulgaria, Afghanistan).**
 
 Placement note, on the record: Fiji's Year 13 Strand 8 §8.2 “De Broglie Wavelength” was filed in the read as NEW LESSON NEEDED (fiji-placements.md, Book 3); under the Fiji merge ruling it is stocked into this existing lesson instead of a new one being built — this lesson covers de Broglie matter waves.
 

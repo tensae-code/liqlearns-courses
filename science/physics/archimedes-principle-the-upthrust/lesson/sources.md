@@ -1,6 +1,6 @@
 # Sources — Archimedes' principle — the upthrust
 
-countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen
+countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -41,6 +41,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 **Book 19:** *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)* (student companion practical notebook) — Yemen, Yemen MoE (e-learning-moe.edu.ye imprint on every page). Grade: 10 · Student book (companion practical notebook) · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year-activities.pdf` — 7,791,104 bytes. PDF pages: 35. Printed page = PDF page − 1 (contents printed p. 5). Verdict: COMPLETE (11 named experiments, contents printed p. 5; the printed numbering skips one number, running to "Experiment 11" for the pressure law — a print numbering quirk, no experiment missing). Structure: one experiment per topic of the student book, each laid out as aim → theory → apparatus → steps → conclusion, using school/local materials. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 20:** *فیزیک — صنف یازدهم (Physics — Grade 11)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف یازدهم (Physics — Grade 11), Ministry of Education, Kabul. Grade: 11 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul. Repo path (record): grade-11/gov/afghanistan/فیزیک_صنف_یازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G11-Dr-Physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–8 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Archimedes' principle and buoyant force | Grade 12 Student Textbook, printed pp. 96–100 |
@@ -64,7 +66,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 | L18 Archimedes' law; floating of bodies; laboratory: the Archimedean force and the floating condition (printed p. 87) (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, L18 Archimedes' law; floating of bodies; laboratory: the Archimedean force and the floating condition (printed p. 87) — printed p. 81 |
 | U3 Archimedes' principle and buoyancy (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U3 Archimedes' principle and buoyancy — printed p. 81 |
 | Exp.2 Archimedes' principle (Yemen, Grade 10) | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)*, Exp.2 Archimedes' principle — printed p. 8 |
+| Ch. 7 — Archimedes' law (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 7 — printed p. 183 — Archimedes' law |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 16 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda, kenya, iraq, yemen
