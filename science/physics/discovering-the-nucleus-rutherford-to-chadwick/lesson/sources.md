@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait
+countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait
 
 **Book 7:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 8:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
@@ -25,9 +27,10 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait
 | Bab 9, Subbab A Penemuan Inti Atom (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab A Penemuan Inti Atom — guide p. 200 |
 | Ch. 30 Atomic Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 30 Atomic Physics, printed p. 1411 — atomic spectra, X-rays, lasers |
 | Unit 4, Ch. 2, lesson 2-1 "The Atomic Nucleus" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 113 |
+| U5 Atomic physics: Dalton's and Thomson's models (printed p. 115), Rutherford's model (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U5 Atomic physics: Dalton's and Thomson's models (printed p. 115), Rutherford's model — printed p. 121 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait).**
+**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states
+Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states, yemen

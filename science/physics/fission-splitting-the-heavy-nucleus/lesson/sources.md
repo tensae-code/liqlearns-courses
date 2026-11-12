@@ -1,6 +1,6 @@
 # Sources — Fission — splitting the heavy nucleus
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Barbados, Malaysia, Indonesia, Kenya, Iraq, Kuwait, Bulgaria
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Barbados, Malaysia, Indonesia, Kenya, Iraq, Kuwait, Bulgaria, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -27,6 +27,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (cu
 
 **Book 12:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 13:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fission | Grade 11 Student Textbook, printed pp. 316–322 |
@@ -42,9 +44,10 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (cu
 | Ch.9 Nuclear physics (fission/fusion strand of the chapter) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.9 Nuclear physics (fission/fusion strand of the chapter) — printed p. 255 |
 | L41 Using nuclear energy (Bulgaria, Grade 7) | Bulgaria, *Физика и астрономия за 7. клас (Педагог 6, 2024)*, L41 Using nuclear energy — printed p. 92 |
 | L35 Nuclear reactions; L36 Fission of uranium; nuclear reactors (printed p. 192) (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L35 Nuclear reactions; L36 Fission of uranium; nuclear reactors (printed p. 192) — printed p. 189 |
+| U7 The chain reaction; peaceful nuclear reactors (printed p. 182) (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U7 The chain reaction; peaceful nuclear reactors (printed p. 182) — printed p. 181 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Malaysia, Indonesia, Kenya, Iraq, Kuwait, Bulgaria).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Malaysia, Indonesia, Kenya, Iraq, Kuwait, Bulgaria, Yemen).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, fission — splitting the heavy nucleus, chain reaction, kenya, iraq
+Searchable tags: physics, grade 11, nuclear physics, fission — splitting the heavy nucleus, chain reaction, kenya, iraq, yemen

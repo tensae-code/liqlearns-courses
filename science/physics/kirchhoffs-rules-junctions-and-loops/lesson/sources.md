@@ -1,6 +1,6 @@
 # Sources — Kirchhoff's rules — junctions and loops
 
-countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence only), Egypt, Mongolia
+countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence only), Egypt, Mongolia, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence onl
 
 **Book 8:** *Физик XI* (student textbook) — Mongolia. Title as printed: ФИЗИК XI — Grade 11 textbook of the 12-year school; authors M. Ganbat, Sh. Chadraabal, O. Altangoo et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2017, 148 pp.) Grade: Grade 11 · student · recorded size 10,859,195 bytes — **download matched EXACTLY; pdfinfo 151 pages**. Route used: https://econtent.edu.mn/content/11rangi/fizik/fizik-269.pdf (recorded page id=269). Verdict: COMPLETE (full text read; contents at PDF p. 5). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
+**Book 9:** *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)* (student textbook) — Yemen, Yemen MoE, same series/design as Grade 10. Grade: 11 · Student book · Repo: release `mid-size-books-2`, asset `grade-11-gov-yemen-physics-student-full-year.pdf` — 79,982,972 bytes. PDF pages: 274. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 10 evaluation at printed p. 270 closes the contents; closing pages present). Structure: 10 units — equilibrium of rigid bodies; periodic motions; sound waves; sound tones & resonance; light & vision devices; thermodynamics; heat engines; direct current; magnetism & magnetic effects of current; electrical measurements. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The junction rule | Grade 11 Student Textbook, printed pp. 265–269 |
@@ -31,9 +33,10 @@ countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence onl
 | “Loi des nœuds” units, Electricity part (teacher guide — evidence) | Morocco, *Al Marjie Physique Chimie, 1AC — Guide de l'enseignant(e)*, Partie 2, printed pp. 83–114 (located at PDF pp. 104–109) |
 | Ch.1 Kirchhoff's two laws, with multi-loop worked examples (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.1 Kirchhoff's two laws, with multi-loop worked examples — printed p. 17 |
 | §3.4 Цахилгаан хэлхээ (Electric circuits) (Mongolia, Grade 11) | Mongolia, *Физик XI*, §3.4 Цахилгаан хэлхээ (Electric circuits) — printed p. 97 |
+| U8 Direct current: electromotive force (printed p. 199) and Kirchhoff's laws for DC circuits (Yemen, Grade 11) | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U8 Direct current: electromotive force (printed p. 199) and Kirchhoff's laws for DC circuits — printed p. 202 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Italy, Fiji, Indonesia, Egypt, Mongolia).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Italy, Fiji, Indonesia, Egypt, Mongolia, Yemen).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, kirchhoff's rules — junctions and loops, junction, voltage, egypt
+Searchable tags: physics, grade 11, electrostatics and electric circuit, kirchhoff's rules — junctions and loops, junction, voltage, egypt, yemen

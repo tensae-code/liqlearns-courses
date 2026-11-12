@@ -1,18 +1,21 @@
 # Sources — Binding energy and mass defect
 
-countries: Ethiopia, Indonesia
+countries: Ethiopia, Indonesia, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
 **Book 2:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 3:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mass defect and binding energy | Grade 11 Student Textbook, printed pp. 299–304 |
 | Bab 9, Subbab B Defek Massa dan Energi Ikat (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab B Defek Massa dan Energi Ikat — guide p. 200 |
+| U7 Nuclear binding energy (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U7 Nuclear binding energy — printed p. 180 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Indonesia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Yemen).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, binding energy and mass defect, binding energy
+Searchable tags: physics, grade 11, nuclear physics, binding energy and mass defect, binding energy, yemen

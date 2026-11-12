@@ -1,6 +1,6 @@
 # Sources — Motion — displacement and velocity
 
-countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), United States, Cambodia
+countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), United States, Cambodia, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Ba
 
 **Book 6:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 7:** *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)* (student textbook) — Yemen, Republic of Yemen, Ministry of Education, Curriculum Sector / General Directorate of Curricula; printing 1448H – 2027 (cover). Grade: 10 · Student book · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year.pdf` — 13,235,390 bytes. PDF pages: 210. Printed page = PDF page − 1 (folios 3–7 verified on PDF pp. 4–8). Verdict: COMPLETE (Unit 8 evaluation, then appendices from printed p. 196; contents and closing pages agree). Structure: 8 units — physics & measurement; motion in a straight line; properties of solids and fluids; work, power & energy; electrostatics; electric current; thermal measurements; the effect of heat on bodies. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Displacement — the straight A-to-B change against the winding path | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 178–180 |
@@ -24,11 +26,12 @@ countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Ba
 | Linear motion — scalars/vectors, speed, velocity, acceleration, equations of motion (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | Ch. 2 Kinematics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 2 Kinematics — one-dimensional motion (chapter-level placement from the complete contents plus verified chapter content) |
 | Ch. 1 Lesson 1: rectilinear motion (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 1 Lesson 1 — printed p. 18 |
+| U2 Motion in a straight line: displacement and velocity (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U2 Motion in a straight line: displacement and velocity — printed p. 34 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, United States, Cambodia).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, United States, Cambodia, Yemen).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record note: the library also holds a second Ecuador file recorded as *Física, Tercero de Bachillerato* (grade-13/gov/ecuador/physics/student/full-year.pdf, release mid-size-books-8) whose interior is THIS SAME book — identical credits page, identical ISBN 978-9942-662-30-9, identical Primera edición 2024, identical índice of the same 21 temas at the same printed pages; only the cover grade numeral differs. It is an interior duplicate of the Ecuador book recorded above: it earns no book entries and no placements of its own, and Ecuador must not be counted as holding two BGU Physics books. LIBRARY DEBT: the grade-13 record needs a genuine Tercero de Bachillerato text or removal.
 
 Placement: Student item 80 — g07-student-placements.md (Unit 7). This lesson rests on the student book only.
 
-Searchable tags: displacement velocity distance-time graph slope grade 7 unit 7 ethiopia, ecuador, united states, cambodia
+Searchable tags: displacement velocity distance-time graph slope grade 7 unit 7 ethiopia, ecuador, united states, cambodia, yemen

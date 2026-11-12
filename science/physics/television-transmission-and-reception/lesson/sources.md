@@ -1,8 +1,12 @@
 # Sources — Television transmission and reception
 
-countries: Sudan
+countries: Sudan, Yemen
 
 **Book 1:** *الفيزياء — للصف الثالث الثانوي (Physics — Third Secondary Year), 2nd edition (2005)* (student textbook) — Sudan (authors' preface signed 2005; second-edition preface records deletions and additions). Grade 12 (Third Secondary) · Student book · Repo path: grade-12/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 6,295,128. PDF pages: 217. Offset: printed p. 2 ≈ PDF p. 11 (printed = PDF − 9). Verdict: COMPLETE — ends at printed p. 210 with the television-reception exercise set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
+
+**Book 2:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
+**Book 3:** *الأنشطة والتجارب العملية — الفيزياء — Grade 12 (Activities and Practical Experiments notebook)* (student companion practical notebook) — Yemen, Yemen MoE. Grade: 12 · Student book (companion practical notebook) · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year-activities.pdf` — 8,169,443 bytes. PDF pages: 35. Printed page = PDF page − 1 (contents printed p. 5, first experiment printed p. 6). Verdict: COMPLETE (10 experiments, contents printed p. 5). Structure: experiments track the student book's hardest units — AC, electronics, discharge, spectra, solar, radioactivity. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,9 +15,11 @@ countries: Sudan
 | Sub lesson 2 — The journey and the receiver's first jobs — tuning and separation | Sudan, *Physics — Third Secondary Year*, Book 4 close: TV transmitter/receiver block diagrams, 625-line scanning, printed p. 210 |
 | Sub lesson 3 — Rebuilding the picture — the screen paints in step | Sudan, *Physics — Third Secondary Year*, Book 4 close: TV transmitter/receiver block diagrams, 625-line scanning, printed p. 210 |
 | Do it first; key ideas; Do It Yourself | Sudan, *Physics — Third Secondary Year*, Book 4 close: TV transmitter/receiver block diagrams, 625-line scanning, printed p. 210 |
+| U4 Electronic devices: radio-wave sending/receiving and television transmission, reception and colour TV (printed pp. 95–105) — the television strands of the devices placement (Yemen, Grade 12) — stocked into this existing shared lesson per the Yemen merge brief; the placements file tags it NEW LESSON NEEDED: Electronic devices — cathode-ray tube, oscilloscope and television; the radar strand (printed p. 92) is NOT double-placed here — it stays counted in physics/radar-seeing-with-radio-waves via this note, exactly as the placements file directs | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U4 Electronic devices: radio-wave sending/receiving and television transmission, reception and colour TV (printed pp. 95–105) — the television strands of the devices placement — printed p. 85 |
+| Exp.6 Electric discharge through gases — the companion practical belonging to the devices unit, cited here as the placements support both devices lessons (Yemen, Grade 12) — stocked into this existing shared lesson per the Yemen merge brief; the placements file tags it NEW LESSON NEEDED: Electronic devices — cathode-ray tube, oscilloscope and television | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 12 (Activities and Practical Experiments notebook)*, Exp.6 Electric discharge through gases — the companion practical belonging to the devices unit, cited here as the placements support both devices lessons — printed p. 18 |
 
-**Acceptance count: taught in 1 country (Sudan).**
+**Acceptance count: taught in 2 countries (Sudan, Yemen).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sudan placement "Television transmission and reception" — sudan-placements.md, Book 3, Book 4 close, printed p. 210. The book closes with TV transmitter/receiver block diagrams and the 625-line scanning strand; no existing slug covered television. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: television, TV transmission, reception, scanning, 625 lines, vision signal, synchronising pulses, sudan, grade 12
+Searchable tags: television, TV transmission, reception, scanning, 625 lines, vision signal, synchronising pulses, sudan, grade 12, yemen

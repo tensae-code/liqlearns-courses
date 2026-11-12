@@ -1,6 +1,6 @@
 # Sources — The ideal gas law — weighing air
 
-countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria
+countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), 
 
 **Book 9:** *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Dimova Z., Velchev N.; Pedagog 6, 2024. Grade 9 (Part 1 of 2), student — for classes with intensive foreign-language study, as printed on the cover · Filed in the records as "Grade 8": the big cover numeral is "8", but the cover's own subtitle reads «Първа част за 9. клас» (First part for Grade 9); it is cited here under its printed identity, Grade 9 Part 1, and the library holds NO regular Grade 8 Physics & Astronomy book under that label · Repo: release `mid-size-books-8`, asset `grade-08-gov-bulgaria-physics-and-astronomy-fizika-8-klas-pedagog6-2024.pdf` — 95,929,955 bytes (matched) · PDF pages: 162 · Printed page = PDF page (entry test folios 6–8 verified) · Verdict: COMPLETE as Part 1 (year review printed p. 151, project lesson p. 154, glossary p. 157, answers p. 160). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 10:** *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)* (student companion practical notebook) — Yemen, Yemen MoE (e-learning-moe.edu.ye imprint on every page). Grade: 10 · Student book (companion practical notebook) · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year-activities.pdf` — 7,791,104 bytes. PDF pages: 35. Printed page = PDF page − 1 (contents printed p. 5). Verdict: COMPLETE (11 named experiments, contents printed p. 5; the printed numbering skips one number, running to "Experiment 11" for the pressure law — a print numbering quirk, no experiment missing). Structure: one experiment per topic of the student book, each laid out as aim → theory → apparatus → steps → conclusion, using school/local materials. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ideal-gas equation in a fluids unit | Grade 12 Student Textbook, printed pp. 80–82 |
@@ -32,7 +34,8 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), 
 | Ch.6 The general gas law (combined law) (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — First Term (English), 2025–2026*, Ch.6 The general gas law (combined law) — printed p. 94 |
 | §2.1 Идеал хий (The ideal gas) (Mongolia, Grade 11) | Mongolia, *Физик XI*, §2.1 Идеал хий (The ideal gas) — printed p. 38 |
 | L25 Adiabatic and isothermal processes; L26 Isochoric and isobaric processes (printed p. 127); laboratory: checking Gay-Lussac's law (printed p. 133); L27 The ideal gas and energy conservation in its processes (printed p. 135) (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, L25 Adiabatic and isothermal processes; L26 Isochoric and isobaric processes (printed p. 127); laboratory: checking Gay-Lussac's law (printed p. 133); L27 The ideal gas and energy conservation in its processes (printed p. 135) — printed p. 124 |
+| Exp. Verifying Boyle's law; Charles's law (printed p. 28); the pressure law (printed p. 30) (Yemen, Grade 10) | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)*, Exp. Verifying Boyle's law; Charles's law (printed p. 28); the pressure law (printed p. 30) — printed p. 25 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Italy, Malaysia, Indonesia, Egypt, Mongolia, Bulgaria, Yemen).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
-Searchable tags: physics, grade 12, fluid mechanics, the ideal gas law — weighing air, temperature, palestine, egypt
+Searchable tags: physics, grade 12, fluid mechanics, the ideal gas law — weighing air, temperature, palestine, egypt, yemen

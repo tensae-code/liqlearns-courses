@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -27,6 +27,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 
 **Book 12:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الثاني (Physics, Grade 11, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 11, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications, Units 2 start) and section 2 (student book, "2/2", Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait (1447–1448H printings). Repo path: grade-11/gov/kuwait/physics/student/term-2-workbook.pdf (release full-quality-oversized-books). Bytes: 178,960,357 (exact vs record). PDF pages: 199. Offset: section 1: PDF = printed + 3 (proven: contents PDF 12/14 carry folios 9/11; Unit 2 opener PDF 15 = printed 12); section 2 keeps the year's continuous printed pagination (Units 3–4 at printed pp. 92–173, contents at PDF 107) and its printed pages below are the book's own contents numbers. Verdict: COMPLETE read (both sections' contents read visually; chapter openers and content verified on contact sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 13:** *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)* (student textbook) — Yemen, Yemen MoE, same series/design as Grade 10. Grade: 11 · Student book · Repo: release `mid-size-books-2`, asset `grade-11-gov-yemen-physics-student-full-year.pdf` — 79,982,972 bytes. PDF pages: 274. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 10 evaluation at printed p. 270 closes the contents; closing pages present). Structure: 10 units — equilibrium of rigid bodies; periodic motions; sound waves; sound tones & resonance; light & vision devices; thermodynamics; heat engines; direct current; magnetism & magnetic effects of current; electrical measurements. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -43,7 +45,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 | §2.2 Гүйдлийн соронзон шинж (The magnetic property of current) (Mongolia, Grade 7) | Mongolia, *Физик VII*, §2.2 Гүйдлийн соронзон шинж (The magnetic property of current) — printed p. 53 |
 | §2.3 Цахилгаан соронзон (Electromagnets) (Mongolia, Grade 7) | Mongolia, *Физик VII*, §2.3 Цахилгаан соронзон (Electromagnets) — printed p. 61 |
 | §3.3 Гүйдлийн соронзон шинж (Mongolia, Grade 8) | Mongolia, *Физик VIII*, §3.3 Гүйдлийн соронзон шинж — printed p. 100 |
+| U9 The magnetic effect of an electric current; field of a current in a long straight wire (printed p. 238) (Yemen, Grade 11) | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U9 The magnetic effect of an electric current; field of a current in a long straight wire (printed p. 238) — printed p. 237 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait).**
+**Acceptance count: taught in 12 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen).**
 
-Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt
+Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen

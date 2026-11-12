@@ -1,6 +1,6 @@
 # Sources — Thermal expansion — solids grow when heated
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Ira
 
 **Book 5:** *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)* (student textbook) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Sixth revised edition, 2023 / 1445H (revised from the 2021 Grade-7 Science book). Grade: 7 · Student book · Repo: release `mid-size-books`, asset `grade-07-gov-iraq-physics-student-full-year.pdf` — 32,972,568 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0; contents and lesson starts align). Verdict: COMPLETE (ends with Ch.5 chapter test, printed p. 88). Structure: 5 chapters / 12 lessons, each lesson built on the 5-stage learning cycle (engage–explore–explain–evaluate–extend) stated in the preface. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 6:** *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)* (student textbook) — Yemen, Republic of Yemen, Ministry of Education, Curriculum Sector / General Directorate of Curricula; printing 1448H – 2027 (cover). Grade: 10 · Student book · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year.pdf` — 13,235,390 bytes. PDF pages: 210. Printed page = PDF page − 1 (folios 3–7 verified on PDF pp. 4–8). Verdict: COMPLETE (Unit 8 evaluation, then appendices from printed p. 196; contents and closing pages agree). Structure: 8 units — physics & measurement; motion in a straight line; properties of solids and fluids; work, power & energy; electrostatics; electric current; thermal measurements; the effect of heat on bodies. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
+**Book 7:** *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)* (student companion practical notebook) — Yemen, Yemen MoE (e-learning-moe.edu.ye imprint on every page). Grade: 10 · Student book (companion practical notebook) · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year-activities.pdf` — 7,791,104 bytes. PDF pages: 35. Printed page = PDF page − 1 (contents printed p. 5). Verdict: COMPLETE (11 named experiments, contents printed p. 5; the printed numbering skips one number, running to "Experiment 11" for the pressure law — a print numbering quirk, no experiment missing). Structure: one experiment per topic of the student book, each laid out as aim → theory → apparatus → steps → conclusion, using school/local materials. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Thermal expansion of solids | Grade 11 Student Textbook, printed pp. 190–195 |
@@ -20,7 +24,9 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Ira
 
 | Ch 7: expansion of solids (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 7 Expansion of solids, liquids and gases — printed p. 127 |
 | Ch.5 L1 Heat and the expansion of bodies (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.5 L1 Heat and the expansion of bodies — printed p. 75 |
+| U8 The effect of heat on bodies: linear expansion of solids; volume expansion (printed p. 182) (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U8 The effect of heat on bodies: linear expansion of solids; volume expansion (printed p. 182) — printed p. 180 |
+| Exp. Finding the linear-expansion coefficient (Yemen, Grade 10) | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)*, Exp. Finding the linear-expansion coefficient — printed p. 23 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Syria, Uganda, Iraq).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Syria, Uganda, Iraq, Yemen).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq
+Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq, yemen

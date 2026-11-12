@@ -1,6 +1,6 @@
 # Sources — The diode — a one-way gate for current
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait
+countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 
 **Book 7:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 8:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The p-n junction diode | Grade 12 Student Textbook, printed pp. 147–148 |
@@ -26,9 +28,10 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 
 | Ch 11: the p-n junction and semiconductor diode (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 11: the p-n junction and semiconductor diode — printed p. 192 |
 | Ch.8 The p–n junction, forward/reverse bias (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The p–n junction, forward/reverse bias — printed p. 176 |
+| U3 The PN junction; using the junction in AC rectification (printed p. 70) (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U3 The PN junction; using the junction in AC rectification (printed p. 70) — printed p. 67 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 
-Searchable tags: physics, grade 12, basics of electronics, the diode — a one-way gate for current, depletion, kenya, egypt
+Searchable tags: physics, grade 12, basics of electronics, the diode — a one-way gate for current, depletion, kenya, egypt, yemen
