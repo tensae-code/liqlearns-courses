@@ -42,6 +42,14 @@ Your own breath — and a hand on the ribs to feel the chest rise and fall.
 - GIF [GIF 13444] — a GIF of the bottle-lung model working → the student maps sheet and balloons onto diaphragm and lungs.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
+
+## Grade 8 depth (added 2026-11-12)
+The Grade 8 General Science book walks the whole air path (nose → alveoli), fixes the diaphragm-and-ribs pumping (the lungs have no muscle), sets the bottle-and-balloon lung as the unit project, and closes with a locally completed disease survey; the Grade 8 teacher guide adds a COVID-19 row, filed as labelled teacher evidence dated to the guide. Added slots:
+- ADD IMAGE [Picture 34107]: a picture of the air path as a branching tree ending in alveoli clusters — the student traces a breath from nose to alveoli, naming each part.
+- ADD GIF [GIF 34122]: the bottle-lung — pulling the diaphragm sheet down so the balloon lungs inflate — the student pulls and releases in time with it and says what moves the air.
+- ADD VIDEO: the FULL bottle-and-balloon lung build-along script appended in video-script.md, filmed (made later).
+- ADD AUDIO: the disease-survey names read aloud — the student repeats them and marks which are in the student book and which is the guide's dated row. (Described slot only — no audio file is made in this build.)
+
 ## If the learner is stuck
 - Swaps the gases → the rhyme is 'in with oxygen, out with carbon dioxide': the body takes what it needs and sends back what it has used.
 - Thinks there is one lung → a pair, one each side of the heart — two hands on two sides of the chest make it plain.

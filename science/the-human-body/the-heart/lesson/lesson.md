@@ -22,6 +22,16 @@ The Grade 5 book gives the system its three actors — **heart, vessels and bloo
 
 [GIF 13442 — a dot of blood travelling both loops in turn]
 
+## Grade 8 — four chambers, valves, and the pulmonary exceptions
+At Grade 8 depth the system is framed by a water-tower analogy: a tower holds water high and pipes carry it to every house — the heart is the body's tower and pump, the vessels its pipes. The heart's **four chambers** work with **valves** that open one way only, so blood never flows backwards. The vessels keep their Grade 5 rule — arteries away, veins back — with the **pulmonary exceptions** flagged: the **pulmonary artery** carries **oxygen-poor** blood (to the lungs), because a vessel is named by its direction, not by the blood it happens to carry.
+
+[Picture 34108 — the double loop drawn as two circuits sharing one heart, oxygen-rich and oxygen-poor sides colour-split]
+
+[GIF 34123 — the two loops' flow pulsing in turn around the heart]
+
+## Grade 8 — blood made in marrow; double circulation; the diseases
+Blood is **plasma** plus three cell kinds — **red cells, white cells and platelets** — and all its cells are **made in bone marrow**. It runs a **double circulation**: the **pulmonary loop** (heart ↔ lungs) and the **systemic loop** (heart ↔ whole body), two circuits sharing one heart; an outdoor game runs the circuit with petals carried as blood cells. The diseases of this system: **hypertension** (high blood pressure), **heart attack**, **stroke** and **heart failure**. At this depth the lesson cross-refers to Biology (The heart — chambers, valves, beat; Double circulation — lungs loop and body loop; What blood is made of; Diseases of the circulatory system); it does not copy or grow a Biology file.
+
 ## Say it to your companion
 Tell your companion: what is the heart made of, what does it pump, and how — contracting and relaxing — and how you know it beats faster after jumping.
 

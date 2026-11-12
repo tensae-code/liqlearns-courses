@@ -24,6 +24,16 @@ Breathing in (**ምጋት**) and out (**ኢ-ምጋት**) are named, and the air'
 
 [GIF 13444 — the diaphragm sheet pulled down and the balloons swelling]
 
+## Grade 8 — the air path, step by step
+At Grade 8 depth the road is walked in full: **nose → pharynx → larynx → trachea → bronchi → bronchioles → alveoli**, and it is at the alveoli that gas exchange happens — oxygen passes into the blood, carbon dioxide passes out. The pumping is done by the **diaphragm and the ribs**: the lungs themselves have **no muscle** — they are filled and emptied by the chest that works around them, exactly as the bottle-and-balloon model lung shows. A ventilator note connects the model to hospitals, where a machine does this pumping for a patient who cannot.
+
+[Picture 34107 — the air path as a branching tree ending in alveoli clusters]
+
+[GIF 34122 — the bottle-lung: pulling the diaphragm sheet down so the balloon lungs inflate]
+
+## Grade 8 — the disease survey; and COVID-19 (teacher guide — evidence, dated to the guide)
+The Grade 8 book closes the system with a health-centre survey pupils complete locally. The diseases: **asthma, sinusitis, influenza, COPD, bronchitis, pneumonia, TB (tuberculosis) and lung cancer**. The teacher guide adds one row the student book does not carry: **COVID-19** — taught, as the guide directs, as transmission-and-prevention: a dangerous worldwide respiratory disease, transmitted by close contact with an infected person or contaminated objects and carried through the air in sneezing and coughing. That row is **teacher-guide evidence dated to the guide** (the guide is a federal new-syllabus book, implemented from 2014 E.C.); it is not presented as current information. At this depth the lesson cross-refers to Biology (The breathing system — air's path to the alveoli; COVID-19 — the spiked virus; Tuberculosis and the BCG vaccine); it does not copy or grow a Biology file.
+
 ## Say it to your companion
 Tell your companion: how many lungs there are, what they feel like (spongy), what they take in, and what they give out.
 

@@ -8,6 +8,10 @@ countries: Ethiopia
 
 **Book 13:** *Grade 6 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ስድስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–63 (Units 1–3); Units 4–5 are NOT in the file (the contents page promises 5 units running to at least printed p. 105). Printed page = PDF page − 11. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-teacher-placements.md.
 
+**Book 14:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
+
+**Book 15:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia, Federal Ministry of Education new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C.; no bureau, publisher or publication year is printed anywhere in the file. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. PDF 141 pp. Printed page = PDF page (1:1). COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A spongy pair at work | Ethiopia, *Grade 4 Student Textbook*, §2.4, printed pp. 32–38 |
@@ -16,6 +20,9 @@ countries: Ethiopia
 | Grade 5 — the breathing road, part by part (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §2.3, printed pp. 22–24 |
 | Grade 5 — Experiment 2.2: the bottle-lung model; the air in and out; smoking | Ethiopia, *Grade 5 Student Textbook*, printed pp. 48–50 |
 
+| Grade 8 — the air path, step by step | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (nose → pharynx → larynx → trachea → bronchi → bronchioles → alveoli; diaphragm and ribs do the pumping — the lungs have no muscle; bottle-and-balloon model lung project; ventilator note), printed pp. 90–98 |
+| Grade 8 — the disease survey | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (health-centre survey table: asthma, sinusitis, influenza, COPD, bronchitis, pneumonia, TB, lung cancer), printed pp. 90–98 |
+| Grade 8 — COVID-19 added to the respiratory disease list (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 4, printed p. 78 — syllabus-level teacher evidence only, dated to the guide (see the pairing warning below): COVID-19 named as a dangerous worldwide respiratory disease, transmitted by close contact with an infected person or contaminated objects and carried through the air in sneezing and coughing, the teacher directed to supply further current information. It is taught in the lesson as transmission-and-prevention and labelled as guide evidence, never presented as current |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
@@ -23,5 +30,9 @@ The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this less
 Grade 5/6 extension (2026-11-12): the Grade 5 student book is COMPLETE. Experiment 2.3 (the smoking machine) is carried as a demonstration idea in the book's framing — it is not set as a pupil activity, and no smoking is performed. The Grade 6 teacher-guide row is evidence from a truncated scan.
 
 The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) are held; Units 4–5 (printed pp. 64–end, to at least p. 105) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
+
+Grade 8 extension (2026-11-12): the Grade 8 student book is COMPLETE and the Grade 8 teacher guide is COMPLETE.
+
+**Pairing warning (carried exactly as recorded in the placements):** the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Searchable tags: lungs, breathing, oxygen, carbon dioxide, spongy pair, the lungs and breathing

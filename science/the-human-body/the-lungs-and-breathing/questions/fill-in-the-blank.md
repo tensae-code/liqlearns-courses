@@ -13,3 +13,8 @@ Fill in each blank with the right word.
 **4. Breathing in is ______ (ምጋት/ኢ-ምጋት — pick the 'in' word).**
 **Answer: ምጋት**
 
+**5. The trachea splits into two ______, one to each lung.**
+**Answer: bronchi**
+
+**6. A machine that pumps air for a patient who cannot breathe alone is a ______.**
+**Answer: ventilator**

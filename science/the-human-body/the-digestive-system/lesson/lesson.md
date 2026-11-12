@@ -24,6 +24,16 @@ The Grade 5 book walks the same tube with the jobs spelled out. **Digestion** ru
 ## Grade 5 — keeping the digestive system healthy
 Three named troubles, with causes and responses. **Constipation** — answer: drink water, eat vegetables. **Gastritis/stomach ulcer** — the stomach's own acid is held off by its **mucus shield**; when the shield fails, the acid bites the wall. **Appendicitis** — **pain to the right of the navel means urgent care**: a burst appendix can kill.
 
+## Grade 8 — the journey of a meal: bolus, the gatekeeper, peristalsis
+At Grade 8 depth the journey is told as a story — bread and egg travelling the whole road, changing as they go. Chewed food, rolled by the tongue into a soft ball, is a **bolus**. At the throat stands a gatekeeper: the **epiglottis**, a flap that shuts the windpipe as you swallow, so food goes down the food road and not the air road. From there the tube itself does the carrying: **peristalsis** — a wave of squeezing that travels along the tube wall, pushing the food ahead of it, the way squeezing a hose behind a marble pushes the marble along. A ground game maps the whole tract outdoors, station by station.
+
+[Picture 34106 — the full tract drawn as a road, the meal's name changing at each stop: bolus → chyme → faeces]
+
+[GIF 34121 — peristalsis: a squeeze wave travelling down a tube, pushing a ball ahead of it]
+
+## Grade 8 — the stomach's guards, chyme, villi — and the diseases
+In the stomach, **pepsin** and acid attack the bolus and turn it into a soup called **chyme**. Acid strong enough to digest food would digest the stomach too, so the stomach protects itself two ways: a **mucus coat** lines its wall, and pepsin is **switched on only in place**, where it is needed. In the small intestine **bile** joins the work, and the chyme's goodness passes into the blood through **villi** — tiny finger-like folds that give the wall an enormous surface. The large intestine then **recovers water**, and what remains leaves as faeces. The diseases of this system: **ulcers**, **constipation**, **dysentery** (caused by *Entamoeba histolytica*), **liver cirrhosis** and **haemorrhoids**. At this depth the lesson cross-refers to Biology (Digestion — the whole journey; Absorption — the villi at work); it does not copy or grow a Biology file.
+
 ## Say it to your companion
 Walk your companion down the tube: name each part as the bite reaches it, in order, without skipping — mouth, pharynx, oesophagus, stomach, small intestine, large intestine, rectum, anus.
 

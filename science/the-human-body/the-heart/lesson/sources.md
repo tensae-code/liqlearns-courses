@@ -8,6 +8,8 @@ countries: Ethiopia
 
 **Book 13:** *Grade 6 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ስድስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–63 (Units 1–3); Units 4–5 are NOT in the file (the contents page promises 5 units running to at least printed p. 105). Printed page = PDF page − 11. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-teacher-placements.md.
 
+**Book 14:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A muscle that pumps | Ethiopia, *Grade 4 Student Textbook*, §2.4, printed pp. 32–38 |
@@ -15,6 +17,8 @@ countries: Ethiopia
 | Grade 5 — the heart in full; vessels; blood; two circulations | Ethiopia, *Grade 5 Student Textbook*, printed pp. 41–46 |
 | Grade 5 — blood groups and cells; the two circulations (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §2.1, printed pp. 13–18 |
 
+| Grade 8 — four chambers, valves, and the pulmonary exceptions | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (water-tower analogy; four chambers and valves; arteries, veins, capillaries; the pulmonary artery carrying oxygen-poor blood flagged), printed pp. 99–110 |
+| Grade 8 — blood made in marrow; double circulation; the diseases | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (blood as plasma plus red cells, white cells and platelets, all made in bone marrow; double circulation — pulmonary vs systemic loops; hypertension, heart attack, stroke, heart failure; outdoor circuit game with petals as blood cells), printed pp. 99–110 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
@@ -22,5 +26,7 @@ The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this less
 Grade 5/6 extension (2026-11-12): the Grade 5 student book is COMPLETE. The Grade 6 teacher-guide row is evidence from a truncated scan (see the guide note in this file's added rows).
 
 The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) are held; Units 4–5 (printed pp. 64–end, to at least p. 105) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
+
+Grade 8 extension (2026-11-12): the Grade 8 student book is COMPLETE. This extension rests on the student book only; no Grade 8 teacher-guide material is used in this lesson, so no pairing warning is needed here.
 
 Searchable tags: heart, heartbeat, muscle, pumps blood, contracting relaxing, the heart

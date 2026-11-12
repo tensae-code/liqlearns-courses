@@ -33,3 +33,22 @@ a) large intestine  b) appendix  c) small intestine
 a) appendicitis — urgent care  b) hunger only  c) a cold
 **Answer: a) appendicitis — urgent care**
 
+**9. Swallowed food, rolled into a soft ball, is called a —**
+a) chyme  b) bolus  c) villus
+**Answer: b) bolus**
+
+**10. The flap that shuts the windpipe when you swallow is the —**
+a) epiglottis  b) villus  c) mucus coat
+**Answer: a) epiglottis**
+
+**11. Food is pushed along the tube by —**
+a) gravity only  b) peristalsis — a travelling wave of squeezing  c) the heartbeat
+**Answer: b) peristalsis — a travelling wave of squeezing**
+
+**12. In the small intestine, food passes into the blood through —**
+a) villi  b) teeth  c) the epiglottis
+**Answer: a) villi**
+
+**13. Dysentery in this unit is caused by —**
+a) Entamoeba histolytica  b) a broken bone  c) cold air
+**Answer: a) Entamoeba histolytica**

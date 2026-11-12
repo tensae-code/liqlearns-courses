@@ -40,6 +40,13 @@ A bite of food to follow in the mind; paper, clay or cloth for the group model o
 - IMAGE [Picture 13440] — a picture of the tube with stomach, small intestine, appendix and large intestine labelled and their jobs captioned → the student names each part and its Grade 5 job.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
+
+## Grade 8 depth (added 2026-11-12)
+The Grade 8 General Science book walks the same system as a story — bread and egg from mouth to egestion — adding the bolus, the epiglottis as gatekeeper, peristalsis, pepsin switched on only in place behind a mucus coat, chyme, bile, absorption through villi, water recovery, and the diseases (ulcers, constipation, dysentery, liver cirrhosis, haemorrhoids). Added slots:
+- ADD IMAGE [Picture 34106]: a picture of the full tract drawn as a road with the meal's name changing at each stop (bolus → chyme → faeces) — the student names the meal at each stop.
+- ADD GIF [GIF 34121]: peristalsis — a squeeze wave travelling down a tube pushing a ball ahead of it — the student squeezes a soft tube behind a marble in time with it.
+- ADD AUDIO: the meal's three names read aloud (bolus, chyme, faeces) — the student says where each name belongs. (Described slot only — no audio file is made in this build.)
+
 ## If the learner is stuck
 - Mixes the order → the tube is a story with one road: mouth first, anus last, stomach before the intestines, small before large.
 - Thinks the stomach is the whole system → it is one stop on the road; the tube begins at the mouth and ends at the anus.

@@ -16,3 +16,11 @@ Say whether each sentence is true or false.
 **5. The large intestine makes digestive juices.**
 **Answer: False**
 
+**6. The stomach protects itself with a mucus coat lining its wall.**
+**Answer: True**
+
+**7. Pepsin works everywhere in the body at all times.**
+**Answer: False** — pepsin is switched on only in place, in the stomach, where it is needed.
+
+**8. The large intestine's main work in this story is recovering water.**
+**Answer: True**

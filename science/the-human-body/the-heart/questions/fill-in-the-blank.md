@@ -13,3 +13,8 @@ Fill in each blank with the right word.
 **4. Blood groups are found by ______ testing.**
 **Answer: serum**
 
+**5. The liquid part of blood, in which the cells float, is ______.**
+**Answer: plasma**
+
+**6. The loop between heart and lungs is the ______ loop.**
+**Answer: pulmonary**

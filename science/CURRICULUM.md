@@ -281,6 +281,28 @@ book, NOT edition-matched to the Amhara student book.
 Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSM-science-g8-u6.md`.
 
+Band GS-K (Grade 8, Unit 4 — Human Body Systems): 5
+new lessons in The Human Body plus 3 grown lessons,
+104 questions written, 14 media filed (pictures
+34100–34109, GIFs 34120–34123) — body systems working
+together, skin (with the guide's care routine as
+teacher evidence), muscles, the skeleton (with the
+guide's 300-to-206 fusing explanation as evidence),
+and reproduction, puberty and staying safe; the
+digestive system, lungs and heart are the same systems
+at greater depth and were grown in place (each now 30
+questions). The guide's COVID-19 row is filed inside
+the lungs lesson's sources as guide evidence DATED to
+the guide, never presented as current. The
+reproduction lesson's sources carry an honesty note:
+the Grade 8 book's printed ages (girls 11–13) and
+bleeding days (3–5) differ slightly from the Grade 6
+book behind the earlier lessons — each lesson keeps
+its own book's figures. Pairing carried exactly: the
+Grade 8 guide is a federal new-syllabus book, NOT
+edition-matched to the Amhara student book. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSK-science-g8-u4.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -330,6 +352,11 @@ Build log:
 20. **Cells — from one cell to a whole organism** (`the-human-body/from-one-cell-to-a-whole-organism`) — some organisms live as one cell doing everything, and multicellular organisms divide the labour across five levels: cell, tissue, organ, organ system, organism (Grade 7 General Science)
 21. **Cells — respiration: releasing energy from food** (`the-human-body/respiration-releasing-energy-from-food`) — cells release energy from glucose with oxygen in the mitochondria, making ATP; without enough oxygen they ferment instead — making alcohol or lactic acid, with far less energy (Grade 7 General Science)
 22. **Cells — photosynthesis and its partnership with respiration** (`the-human-body/photosynthesis-and-its-partnership-with-respiration`) — in chloroplasts, chlorophyll traps light to turn carbon dioxide and water into glucose and oxygen; photosynthesis and respiration interlock — each one's products are the other's raw materials (Grade 7 General Science)
+23. **The human body — systems working together** (`the-human-body/the-human-body-systems-working-together`) — a body system is a group of organs working together on one job — parts alone do nothing, organised systems do the work — and the body runs seven systems (Grade 8 General Science)
+24. **Skin — the integumentary system** (`the-human-body/skin-the-integumentary-system`) — the skin is a three-layer organ — epidermis, dermis, subcutaneous fat — with hair and nails built of keratin; it does five jobs from protection to temperature control (Grade 8 General Science)
+25. **Muscles — how movement happens** (`the-human-body/muscles-how-movement-happens`) — muscles move the body by pulling in pairs — skeletal, cardiac and smooth muscle; a flexor contracts while its extensor partner relaxes (Grade 8 General Science)
+26. **The skeleton — frame, joints and fractures** (`the-human-body/the-skeleton-frame-joints-and-fractures`) — the skeleton is one frame in two parts — axial (centre) and appendicular (limbs) — joined by joints with ligaments and cartilage; bones break in named ways and mend (Grade 8 General Science)
+27. **Reproduction, puberty and staying safe** (`the-human-body/reproduction-puberty-and-staying-safe`) — puberty brings primary and secondary characteristics (girls about 11–13, boys about 14–16 as printed); the male and female organs do the work of reproduction, and staying safe is part of the teaching (Grade 8 General Science)
 
 ## Unit 4 — Materials
 

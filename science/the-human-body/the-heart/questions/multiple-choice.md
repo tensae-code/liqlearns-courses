@@ -33,3 +33,22 @@ a) two  b) four — A, B, AB, O  c) eight
 a) heart and the whole body  b) heart and lungs  c) two lungs
 **Answer: b) heart and lungs**
 
+**9. The valves in the heart —**
+a) make blood  b) open one way only, so blood never flows backwards  c) carry oxygen
+**Answer: b) open one way only, so blood never flows backwards**
+
+**10. The pulmonary artery is an exception because it carries —**
+a) no blood  b) oxygen-rich blood to the body  c) oxygen-poor blood to the lungs
+**Answer: c) oxygen-poor blood to the lungs**
+
+**11. All the cells of the blood are made in the —**
+a) bone marrow  b) lungs  c) stomach
+**Answer: a) bone marrow**
+
+**12. Double circulation means —**
+a) two hearts  b) two loops — pulmonary and systemic — sharing one heart  c) blood flows twice as fast
+**Answer: b) two loops — pulmonary and systemic — sharing one heart**
+
+**13. Hypertension is —**
+a) low blood pressure  b) high blood pressure  c) a broken valve
+**Answer: b) high blood pressure**

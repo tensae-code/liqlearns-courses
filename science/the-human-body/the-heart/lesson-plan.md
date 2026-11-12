@@ -41,6 +41,13 @@ Room to jump on the spot; a quiet moment to feel the chest.
 - GIF [GIF 13442] — a GIF of a blood dot travelling both circulation loops → the student names each circuit as the dot runs it.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
+
+## Grade 8 depth (added 2026-11-12)
+The Grade 8 General Science book adds the water-tower analogy, valves, the pulmonary exceptions, blood as plasma plus cells made in bone marrow, double circulation named as two loops, and the diseases (hypertension, heart attack, stroke, heart failure), with an outdoor circuit game using petals as blood cells. Added slots:
+- ADD IMAGE [Picture 34108]: a picture of the double loop drawn as two circuits sharing one heart, oxygen-rich and oxygen-poor sides colour-split — the student traces one drop around both loops.
+- ADD GIF [GIF 34123]: the two loops' flow pulsing in turn around the heart — the student names each loop as the pulse runs it.
+- ADD AUDIO: the pulmonary-exception rule read aloud — the pulmonary artery carries oxygen-poor blood — the student repeats it and says why the name still fits. (Described slot only — no audio file is made in this build.)
+
 ## If the learner is stuck
 - Cannot feel the beat → press the flat hand firmly at the left of the chest and be still; jumping first makes the beat strong.
 - Thinks the heart is a pump like a bicycle pump, outside the muscles → it IS a muscle: its squeezing is its own muscle work.
