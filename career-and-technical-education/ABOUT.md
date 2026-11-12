@@ -72,6 +72,85 @@ promises health-and-safety teaching no Unit 5 section delivers
 (the review question on it is filed as assessment, and the gap
 is stated, never papered over).
 
+## The Grade 8 guide's front matter — methods, assessment, pacing (teacher evidence)
+
+The Grade 8 teacher's guide opens with a framing the lessons
+draw on throughout (Introduction, printed pp. 1–9). It is
+filed here at course level, as teacher evidence, at the
+section level the guide's image-only scan supports — cited at
+that depth, never finer.
+
+**The nine-method teaching catalogue** (*CTE Teacher's Guide,
+Grade 8*, Introduction, printed pp. 5–8; guide placement 2).
+The guide defines nine methods for this subject:
+
+- **Brainstorming** — open the topic, all ideas out loud, no
+  fear of being wrong.
+- **"Harmonizing (reorganizing) the brain"** — after
+  brainstorming, refine and reshape the scattered ideas into
+  relevant, comprehensible order.
+- **Explanation** — a talk that lets pupils realise the
+  information themselves: precise, level-matched, unambiguous
+  examples, connected main points, timed to the guide's
+  allocation.
+- **Questioning** — short simple questions, long pauses,
+  questions every level can engage with, praise and bonus
+  marks for participation.
+- **Discussion** — the core method for this practice-oriented
+  course: small-group, whole-class, then reflection; the
+  teacher joins as a participant, circulates, observes each
+  pupil, and draws in the inactive.
+- **Demonstration.**
+- **Guest speakers** — experts from different fields:
+  agricultural experts, micro and small enterprises,
+  development agents, banks, hotels, restaurants.
+- **Field visits and field work** — CTE is practical: pupils
+  visit a potential career's real job environment.
+- **Group project work** — reports and group representatives
+  presenting, building teamwork, cooperation, confidence and
+  writing skills.
+
+This catalogue is the course's Grade 8 CTE methods reference
+(teacher evidence); the per-lesson method choices recorded in
+the lessons draw on it.
+
+**The evaluation and follow-up system** (*CTE Teacher's
+Guide, Grade 8*, printed pp. 8–9, and the assessment tail of
+every lesson; guide placement 3). Assessment is continuous
+during class, supplemented before and after class. The
+teacher keeps evaluation sheets — a separate copy of the
+student list for each assessed area: **discussion, field
+work, raising questions, answering questions, effort to work
+hard, organising group work, and achievement in homework,
+quizzes and tests**. Follow-up is differentiated: pupils
+below the line get exercises and activities — rescue work —
+to reach the minimum competencies; pupils above it get work
+that stretches them further — extension work. The same
+check-and-remedy loop closes every lesson in the guide: if
+objectives are not met, determine what is not clear and plan
+a remedial activity. This seven-area continuous-assessment
+record and its rescue/extension follow-up are the course's
+Grade 8 CTE assessment pattern (teacher evidence).
+
+**The four unit plan tables — the pacing contract for Units
+1–4** (*CTE Teacher's Guide, Grade 8*, printed pp. 11, 20,
+37, 52; guide placement 4). Each unit opens with a plan table
+of periods, contents, learning competencies, suggested
+methodology and suggested follow-up/assessments. The budgets:
+Unit 1 Personal Career Selection — 4 periods (two 2-hour
+lessons); Unit 2 Self-Employment Opportunities — 12
+(reception 4, photocopier 4, enterprise activity 4); Unit 3
+Self-Employment Opportunities — 10 (construction/carpentry
+4, car tyres 2, retail business 4); Unit 4 Self-Employment
+Opportunities — 11 (hospitality events 3, food preparation 4,
+cleaning services 4). The tables also fix the out-of-class
+assessment diet: field reports, visit reports, class work,
+presentations, observations and tests. These four tables are
+filed here as the Grade 8 pacing reference for Units 1–4
+(teacher evidence). No plan tables for Units 5–7 survive in
+the copy in hand — they stand past the guide's break-off at
+printed p. 57 and are still owed with the complete copy.
+
 **Acceptance reckoning:** this part of the course is taught in
 1 country (Ethiopia) from its own student books, except any
 lesson whose sources state it stands on teacher-guide evidence
