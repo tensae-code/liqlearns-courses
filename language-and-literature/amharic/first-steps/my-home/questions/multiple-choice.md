@@ -25,3 +25,15 @@ a) መሶብ (mesob)  b) ሲኒ (sini)  c) ድስት (dist)
 **6. (Sub lesson 2)** Which of these is a helping-at-home job?
 a) breaking things  b) hiding the broom  c) cleaning the house
 **Answer: c) cleaning the house.**
+
+**7. (Sub lesson 3)** The little cup for coffee that you colour, draw again and colour is the —
+a) ጀበና  b) ሲኒ  c) መሶብ
+**Answer: b) ሲኒ** — the ሲኒ is the small coffee cup on its saucer.
+
+**8. (Sub lesson 3)** After you colour a picture of a thing in your home, what do you write under it?
+a) the thing's name  b) today's date only  c) nothing
+**Answer: a) the thing's name** — colour the picture and write its name.
+
+**9. (Sub lesson 3)** "Draw it again" means —
+a) look at the picture once and close the book  b) draw the same thing yourself on your own paper  c) tear the picture out
+**Answer: b) draw the same thing yourself** — look well, draw it again, then colour your drawing.

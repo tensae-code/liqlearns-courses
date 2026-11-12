@@ -25,6 +25,13 @@ Grapes — ወይን (weyn) — belong here too; the reading list of fruits name
 
 Now the sorting game of the book: in a mixed picture of fruits and vegetables, circle only the fruits. Sweet, from the tree or the plant, eaten as they are — that is a fruit.
 
+One fruit gets its own drawing work: the ማንጎ, the mango. Look at
+the mango picture well — its round, heavy shape, its smooth
+skin. Now draw the mango picture again, yourself, and colour
+your drawing.
+
+[Picture 21009 — a mango, coloured, and the same mango in outline to draw again and colour]
+
 ## Sub lesson 2 — Vegetables
 
 Vegetables grow in the garden — the garden vegetables, የጓሮ አትክልቶች. We cook them and eat them with our meal.

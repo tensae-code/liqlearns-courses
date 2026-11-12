@@ -25,3 +25,15 @@ a) ውሃ ማጠጫ (the watering can)  b) መኮትኮቻ (the hoe)  c) መቆ�
 **6. (Sub lesson 2)** A plant grows in this order —
 a) big, small, medium  b) medium, big, small  c) small, medium, big
 **Answer: c) small, medium, big** — a plant is small first; it cannot be big before it is small.
+
+**7. (Sub lesson 1)** In the first plant picture, what stands tall over the flower beds?
+a) a house  b) a big tree  c) a car
+**Answer: b) a big tree** — the big tree and the flower beds are the first plant picture of all.
+
+**8. (Sub lesson 1)** The tree picture with no colours in it is for —
+a) cutting out  b) colouring — colour the tree  c) counting only
+**Answer: b) colouring** — colour the trunk and the leaves, staying in the lines.
+
+**9. (Sub lesson 1)** Where does the flower in the colouring picture grow?
+a) in a pot  b) in a river  c) on a roof
+**Answer: a) in a pot** — colour the potted flower: petals, leaves and pot.

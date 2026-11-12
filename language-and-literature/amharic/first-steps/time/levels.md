@@ -12,3 +12,6 @@ Sub lesson 2 questions from the type files. Pass mark: say and write the thirtee
 
 ## Sub lesson 3 — The Grade 2 book's month drills
 Sub lesson 3 questions from the type files. Pass mark: sound the drilled month names and write all thirteen months in order from መስከረም.
+
+## Sub lesson 4 — Day and night: drawing the sky
+Sub lesson 4 questions from the type files. Pass mark: draw and colour what is seen in the sky in the day (the sun and clouds) and at night (the moon and stars), say which sky each thing belongs to, and colour the unicycle መንኮራኩር.

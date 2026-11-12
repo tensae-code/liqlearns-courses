@@ -33,3 +33,11 @@ a) ፬  b) ፭  c) ፮
 **8. (Sub lesson 4)** ፲ means —
 a) 9  b) 10 — አስር  c) 20
 **Answer: b) 10 — አስር.**
+
+**9. (Sub lesson 2)** Count the heart shapes in the picture, touching each one once. How many hearts are there?
+a) 5  b) 7  c) 9
+**Answer: b) 7** — colour the hearts, count them one by one, and circle 7, the number of the count.
+
+**10. (Sub lesson 2)** After you count a set of shapes, what do you circle?
+a) the biggest shape  b) the first shape  c) the number of the count
+**Answer: c) the number of the count** — the last number you say is how many there are.

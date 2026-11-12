@@ -10,7 +10,7 @@ When we move a thing, our hands do one of three things.
 
 **Push — መግፋት.** Your hands send the thing away from you. Children pushing a loaded cart together, pushing a table to its place — that is pushing.
 
-[GIF 8160 — push, then pull the cart]
+[GIF 8160 — push the cart, pull it back, then lift the box]
 
 **Pull — መጎተት.** The thing comes towards you. Pulling a cart behind you is pulling.
 
@@ -38,6 +38,8 @@ And exercise has its own order. Watch, then do it with me:
 4. Arms down.
 
 Playing together is moving together too: children cleaning up together, building blocks together, eating together. That togetherness is መተባበር እና አንድነት — cooperation and unity.
+
+[Picture 21000 — children playing and working together: cleaning up, building blocks, sharing food]
 
 ## Say it to your companion
 

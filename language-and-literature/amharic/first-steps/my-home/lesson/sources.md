@@ -23,6 +23,7 @@ countries: Ethiopia
 | Sub lesson 1 — draw a house picture yourself (የቤት ሥዕል ሣሉ) | KG2, printed p.151 |
 | Sub lesson 2 — copy-write the household names: ጀበና (jebena), ኩባያ (kubaya), ጭልፋ (ch'ilfa), ቢለዋ (bilewa), ሰሀን (sahan), ድስት (dist), ሲኒ (sini), መሶብ (mesob) — Picture 8019 | KG2, printed p.152 |
 | Sub lesson 2 — helping at home: daily activities — cleaning the house, washing things, cooking food; write the action from the picture | KG3, *Level Two (Age 6)*, printed p.125 |
+| Sub lesson 3 — colour the picture and write its name; colour the ሲኒ (sini cup), draw it again and colour — Picture 21010 | KG3, *Level Two (Age 6)*, printed pp.135–136 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

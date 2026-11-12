@@ -25,6 +25,14 @@ On paper, write 1–10 in a row. Under each, write its Ge'ez
 numeral: ፩ ፪ ፫ ፬ ፭ ፮ ፯ ፰ ፱ ፲. Read the line forwards, then
 backwards, then point at any numeral and say its name.
 
+## The picture-card game
+A memory check a teacher can play (SUPPORTING — a teacher check,
+played as a game, never as a test): show the child a picture card
+— a card with a counted set on it — for a few seconds. Then hide
+it among two other cards, face up together, and ask: "Which card
+did I show you before?" The child picks out the earlier-shown
+card. Change the cards and play again.
+
 ## If it is hard
 Work with real things, not only pictures: count stones, sticks
 and pencils you can hold, and say which number is bigger and

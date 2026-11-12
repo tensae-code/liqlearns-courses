@@ -22,6 +22,14 @@ find where the road ends. New treasure, new road, every day —
 the joining is the game, the treasure is the excuse.
 
 ## If it is hard
+Signs a grown-up can watch for in small-hand work (SUPPORTING —
+the fine motor delay indicators, Table 2): the child cannot yet
+hold a ball in one hand; throwing, catching and bouncing are
+poor; an object cannot yet be passed from hand to hand; pencil
+holding is poor; the fingers hurt in finger tasks; the child is
+clumsy in finger tasks. Seeing a sign is never a label on the
+child — it only says: use the support activities below.
+
 Fine-motor support activities — Ethiopia's own Special Needs
 toolkit exercises for small hands, written as help, never as a
 label on the child (SUPPORTING — SNE toolkit, printed pp.15–17).

@@ -2454,6 +2454,20 @@ and lift; step 4's hold never opens while the pencil tilts back).
 - 14537 — 14537.webp — "IP addresses — every device's own address" — lesson networks/ip-addresses-ipv4-and-ipv6
 - 14538 — 14538.webp — "IP address classes and network masks" — lesson networks/ip-address-classes-and-network-masks
 
+| 21000 | pictures/21000.webp | children playing and working together — cleaning up, building blocks, sharing food | Amharic — First Steps — Play and Moving |
+| 21001 | pictures/21001.webp | a big tree standing over beds of flowers | Amharic — First Steps — Plants |
+| 21002 | pictures/21002.webp | the tree in outline, ready to colour | Amharic — First Steps — Plants |
+| 21004 | pictures/21004.webp | a fat person and a thin person; short hair and long hair | Amharic — First Steps — My Body |
+| 21005 | pictures/21005.webp | two children exchanging greetings, shaking hands | Amharic — First Steps — My Body |
+| 21006 | pictures/21006.webp | seven heart shapes to colour and count | Amharic — First Steps — Counting |
+| 21007 | pictures/21007.webp | instruments of the world board — guitar, drum, piano, saxophone, violin | Amharic — First Steps — Music Instruments of the World |
+| 21008 | pictures/21008.webp | walia, gazelle and red fox, biggest to smallest | Amharic — First Steps — Size and Quantity |
+| 21009 | pictures/21009.webp | a mango coloured, and the same mango in outline to draw again | Amharic — First Steps — Food |
+| 21010 | pictures/21010.webp | a sini cup coloured, and the same sini in outline | Amharic — First Steps — My Home |
+| 21011 | pictures/21011.webp | the unicycle (መንኮራኩር) in outline, ready to colour | Amharic — First Steps — Time |
+| 21012 | pictures/21012.webp | the day sky (sun, clouds) and the night sky (moon, stars) | Amharic — First Steps — Time |
+| 21144 | pictures/21144.gif | big ball beside small ball, then many stars beside few stars | Amharic — First Steps — Size and Quantity |
+| 21145 | pictures/21145.webp | a flower in its pot in outline, ready to colour | Amharic — First Steps — Plants |
 | 21200 | pictures/21200.webp | listening first: look, guess, listen — prediction board | Amharic — Story — Listening Stories |
 | 21201 | pictures/21201.webp | the children of our neighbourhood — the shola tree | Amharic — Story — Reading Stories |
 | 21202 | pictures/21202.webp | cross at the zebra crossing — the two pots | Amharic — Story — Reading Stories / Reading Passages |

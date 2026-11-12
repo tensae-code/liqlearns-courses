@@ -41,7 +41,8 @@ A small cart or box, a light box to lift, and open space to run and jump. Nothin
 ## The run of the lesson (in order)
 1. **Do it first** — the learner pushes a real cart or box across the floor, then pulls it back, then runs and jumps on the spot — before any word is explained (lesson/lesson.md).
 2. **The explanation** — the three ways we move things (push, pull, lift), then the ways our own bodies move (run, jump, throw, carry), the four arm positions, and moving together with friends (lesson/lesson.md).
-   - ADD GIF [GIF 8160]: a picture of a child pushing a cart, then pulling it back — the student pushes and pulls a real cart or box along with it.
+   - ADD GIF [GIF 8160]: a picture of a child pushing a cart, then pulling it back, then lifting a box up — the student pushes, pulls and lifts a real cart or box along with it.
+   - ADD IMAGE [Picture 21000]: a picture of children playing and working together — cleaning up together, building blocks together, sharing food at one table — the student points to each together-thing and says what the children are doing together.
    - ADD GIF [GIF 8161]: a picture of a child doing the four arm positions in order — arms up, arms at the waist, arms on the chest, arms down — the student copies each position as it comes.
    - ADD GIF [GIF 8162]: a picture of a child learning to stand on one leg — first holding a wall, then letting go for a second — the student tries it the same safe way (support GIF, from the supports).
    - ADD AUDIO: a voice naming each movement as it is done — መግፋት … መጎተት … ማንሳት … መሮጥ … መዝለል — the student does the movement when they hear its name.
@@ -52,7 +53,8 @@ A small cart or box, a light box to lift, and open space to run and jump. Nothin
 6. **Do It Yourself** — lesson/lesson.md.
 
 ## Add-ons for this lesson (the full list)
-- GIF [GIF 8160]: a picture of a child pushing a cart, then pulling it back — the student pushes and pulls a real cart or box along with it.
+- GIF [GIF 8160]: a picture of a child pushing a cart, then pulling it back, then lifting a box up — the student pushes, pulls and lifts a real cart or box along with it.
+- IMAGE [Picture 21000]: a picture of children playing and working together — cleaning up, building blocks, sharing food — the student points to each together-thing and says what the children are doing together.
 - GIF [GIF 8161]: a picture of a child doing the four arm positions in order — arms up, arms at the waist, arms on the chest, arms down — the student copies each position as it comes.
 - GIF [GIF 8162]: a picture of a child learning to stand on one leg — first holding a wall, then letting go for a second — the student tries it the same safe way (support GIF, from the supports).
 - AUDIO: a voice naming each movement as it is done — መግፋት … መጎተት … ማንሳት … መሮጥ … መዝለል — the student does the movement when they hear its name.
@@ -69,3 +71,11 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** Picture 21000
+(children playing and working together, the KG1 picture slot) was
+added to Sub lesson 2; GIF 8160 was remade so it shows push, pull
+AND lift, as KG2 printed p.45 names all three; and the gross motor
+delay indicator list (SNE toolkit Table 1, printed p.13,
+SUPPORTING) was carried into hands-on.md's "If it is hard" section,
+ahead of the support activities already there.

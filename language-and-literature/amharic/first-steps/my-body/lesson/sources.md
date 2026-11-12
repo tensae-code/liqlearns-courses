@@ -13,6 +13,7 @@ countries: Ethiopia
 | Sub lesson 1 — colouring the body parts, boy and girl outlines | KG1, *Beginner Level (Age 4)*, printed pp.5–6 |
 | Sub lesson 1 — body parts picture page and the separate eyes, ear, hands, feet pictures | KG1, printed pp.22–23 |
 | Sub lesson 1 — the fifteen labelled parts (ግንባር, ቅንድብ, አይን, አፍንጫ, አንገት, ደረት, እጅ, ጭን, ፀጉር, ጆሮ, ጥርስ, ትከሻ, ሆድ, ጉልበት, እግር) on Picture 8010 | KG2, *Level One (Age 5)*, printed p.9 |
+| Sub lesson 1 — physical appearance (አካላዊ መገለጫ): fat/thin (ወፍራም/ቀጭን), short hair/long hair — Picture 21004; children exchanging greetings (ሰላምታ ሲለዋወጡ) — Picture 21005 | KG2, *Level One (Age 5)*, printed p.3 |
 | Sub lesson 1 — tracing the body-part picture; drawing the female and male pictures again | KG2, printed pp.10, 142 |
 | Sub lesson 1 — the fully labelled figure | KG3, *Level Two (Age 6)*, printed p.77 |
 | Sub lesson 2 — the sense organs' jobs (አይን ለማየት, አፍንጫ ለማሽት, ምላስ ለመቅመስ, ጆሮ ለመስማት) and circling words that are NOT body parts | KG3, printed p.78 |
@@ -28,9 +29,13 @@ The placements give the KG3 sense jobs for four senses in words
 by the hand and skin — is carried in Picture 8011 and the lesson
 from the five-sense-organs set the Training module names
 (SUPPORTING), and is labelled as such in the table above, not
-silently added. KG2 p.3's appearance words (fat/thin, short/long
-hair) and greetings picture sit in the greetings/appearance strand
-and are not built here. No book errors were flagged by the
-placements for these pages.
+silently added. KG2 p.3's appearance words (fat/thin ወፍራም/ቀጭን,
+short/long hair) and its greetings picture (ሰላምታ ሲለዋወጡ) are
+built in Sub lesson 1 of this lesson (stocked 2026-11-12, Amharic
+fix build; Pictures 21004–21005) — an earlier version of this note
+said they were not built here, which the fix build corrected. The
+KG3 p.145 opposite pair ወፍራም/ቀጭን in word/same-and-opposite-words
+is a different placement and stays there. No book errors were
+flagged by the placements for these pages.
 
-Searchable tags: my body, የሰውነት ክፍሎች, body parts, five senses, አይን, አፍንጫ, ምላስ, ጆሮ, እጅ, sense organs
+Searchable tags: my body, የሰውነት ክፍሎች, body parts, five senses, አይን, አፍንጫ, ምላስ, ጆሮ, እጅ, sense organs, appearance አካላዊ መገለጫ, fat ወፍራም, thin ቀጭን, greetings ሰላምታ

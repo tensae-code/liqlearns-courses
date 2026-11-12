@@ -4,6 +4,24 @@
 
 Look out of the door, or think of the nearest tree. A plant has parts, like you have parts. Point in the air: where is the plant's bottom part, the part under the ground? Where is its top part? Now let us name them all.
 
+## First, look at the plants
+
+Before the parts, look at the plants themselves — big and green and alive.
+
+[Picture 21001 — a big tree and beds of flowers]
+
+Here is a big tree, tall over the flower beds. The flowers grow in rows, many colours together. This is the plants' world: እፅዋት — plants.
+
+Now take your colours. Colour the tree — its trunk brown, its leaves green, in the tree's own outline:
+
+[Picture 21002 — the tree picture, ready to colour]
+
+And colour the flower in its pot — petals, leaves and pot, each in the colour you choose:
+
+[Picture 21145 — the potted flower, ready to colour]
+
+Colouring slowly, staying in the lines, is the first plant work of all.
+
 ## Sub lesson 1 — Parts of a plant
 
 [Picture 8067 — parts of a plant]

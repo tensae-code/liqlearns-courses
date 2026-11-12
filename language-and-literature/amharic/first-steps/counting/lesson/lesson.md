@@ -57,7 +57,7 @@ you count the number. The counting rule never changes: touch each
 thing once, say one number for each, and the last number is the
 whole count.
 
-[GIF 8122 — a finger tapping counters one by one, the counter filling 1 to 5]
+[GIF 8122 — a finger tapping counters one by one, the counter filling 1 to 20]
 
 Now the other way round: here is a set — flowers, carrots, candles,
 balls, cars, leaves. Count the set first, then find its number.
@@ -89,6 +89,16 @@ Write the numbers 0–4 in a row. Then keep the line whole: when a
 number is missing from a line — 1, 2, _, 4, 5 — say the missing
 one. A caterpillar's body and a rabbit's path to its carrot both
 hide one number; the counting line tells you which.
+
+One more counting page, with shapes: here are heart shapes.
+Colour the hearts, then count them — touch each heart once and
+say its number — and circle the number of the count.
+
+[Picture 21006 — seven heart shapes, some coloured, some waiting to colour]
+
+There are seven hearts. Colour the ones that are still white,
+count them all again, and circle 7: that is the number of the
+count.
 
 ## Sub lesson 3 — Counting to 20 and number names
 

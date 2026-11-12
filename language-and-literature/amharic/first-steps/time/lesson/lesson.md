@@ -53,9 +53,27 @@ And the before-and-after game: which month comes **before** ጥቅምት? መስ
   in order, without the chart. (The verb pattern on the same
   pages is taught in Verbs and Tenses.)
 
+## Sub lesson 4 — Day and night: drawing the sky
+
+A day has two skies. In the day, the sky holds the sun and the
+clouds. At night, the sky holds the moon and the stars.
+
+[Picture 21012 — the day sky with the sun, and the night sky with the moon and stars]
+
+Now draw them yourself. Draw and colour the things seen in the
+sky in the day: the sun, bright, and the clouds under it. Draw
+and colour the things seen in the sky at night: the moon and the
+stars around it.
+
+The same page holds one more colouring picture: the መንኮራኩር
+(menk'orakur) — the unicycle, the bicycle with only one wheel.
+Colour the unicycle: its one big wheel, its seat, its pedals.
+
+[Picture 21011 — the unicycle መንኮራኩር, ready to colour]
+
 ## Say it to your companion
 
-Say a day; your companion says the next day. Go all the way round the week. Then months: say one; your companion says the next — all the way to ጳጉሜን.
+Say a day; your companion says the next day. Go all the way round the week. Then months: say one; your companion says the next — all the way to ጳጉሜን. Then tell your companion: what do you see in the sky in the day? What do you see in the sky at night?
 
 ## Do It Yourself
 

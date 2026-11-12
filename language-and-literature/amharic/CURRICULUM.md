@@ -163,6 +163,10 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
     the peoples.
 32. **Basic Needs** (`first-steps/basic-needs`) — food, clothes,
     shelter: what everyone needs.
+33. **Music Instruments of the World**
+    (`first-steps/world-music-instruments`) — the big board of
+    world instruments in the KG2 workbook (guitar, drum, piano,
+    saxophone, violin…) (fix build, 2026-11-12).
 
 ## Unit 2 — Fidel
 

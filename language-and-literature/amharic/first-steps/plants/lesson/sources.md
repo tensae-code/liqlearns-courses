@@ -6,8 +6,13 @@ countries: Ethiopia
 
 **Book 2:** *Pre-Primary Practice Workbook, Level Two (Age 6)* (student workbook) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, © 2015 E.C., 171 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/pre-primary/kg3-placements.md.
 
+**Book 3:** *Pre-Primary Practice Workbook, Beginner Level (Age 4)* (student workbook) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, © 2015 E.C., Amharic medium, 119 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/pre-primary/kg1-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
+| Opening world — big tree and flower beds photos (እፅዋት) — Picture 21001 | Book 3 (KG1), printed p.72 |
+| Opening world — colour the tree picture — Picture 21002 | Book 3 (KG1), printed p.73 |
+| Opening world — colour the flower picture (potted flower) — Picture 21145 | Book 3 (KG1), printed p.75 |
 | Plants photo page; colour the plant picture (rose and tree) — the lesson's opening world | Book 1 (KG2), printed pp.28–29 |
 | Sub lesson 1 — Parts of a plant (አበባ flower, ቅጠል leaf, ፍሬ fruit, ግንድ stem/trunk, ስር root) | Book 1 (KG2), printed p.78 |
 | Sub lesson 1 — Parts of a plant, copy-write (ቅርንጫፍ branch, ግንድ trunk, ቅጠል leaf, አበባ flower, ፍሬ fruit, ስር root) | Book 2 (KG3), printed p.3 |
@@ -17,6 +22,6 @@ countries: Ethiopia
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Honesty notes. KG1's plant pages (printed pp.72, 73, 75 — big tree and flower beds, colour the tree, colour the flower picture) are early colouring work in the same strand; this lesson's taught content rests on the KG2 and KG3 pages in the table, which are the pages that name and order the parts, the care and the growth, so only those pages are cited. No page in the table was unreadable, and no reading in it is marked uncertain in the placements.
+Honesty notes. KG1's plant pages (printed pp.72, 73, 75 — big tree and flower beds, colour the tree, colour the flower picture) are early colouring work in the same strand; they are stocked as the lesson's opening world (added 2026-11-12, Amharic fix build), while the pages that name and order the parts, the care and the growth are the KG2 and KG3 pages in the table. No page in the table was unreadable, and no reading in it is marked uncertain in the placements.
 
 Searchable tags: plants, እፅዋት, parts of a plant, የእፅዋት የአካል ክፍል, root, ስር, trunk, ግንድ, branch, ቅርንጫፍ, leaf, ቅጠል, flower, አበባ, fruit, ፍሬ, watering, garden tools, plant growth

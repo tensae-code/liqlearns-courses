@@ -29,3 +29,15 @@ a) the ear  b) the tongue  c) the hand
 **7. (Sub lesson 2)** You smell coffee with your —
 a) eye  b) nose  c) knee
 **Answer: b) nose** — አፍንጫ ለማሽት.
+
+**8. (Sub lesson 1)** The wide, round person in the picture is —
+a) ቀጭን (thin)  b) ወፍራም (fat)  c) ረዥም (long)
+**Answer: b) ወፍራም** — ወፍራም is fat; ቀጭን is thin.
+
+**9. (Sub lesson 1)** The child whose ፀጉር grows down past the shoulders has —
+a) short hair  b) no hair  c) long hair
+**Answer: c) long hair** — short hair stops close to the head; long hair grows down.
+
+**10. (Sub lesson 1)** When two children meet and shake hands, ሰላምታ ሲለዋወጡ, they are —
+a) exchanging greetings  b) exchanging shoes  c) counting
+**Answer: a) exchanging greetings** — they face each other, smile, shake hands and say ሰላም.

@@ -52,7 +52,23 @@ stands where the family eats, the ድስት cooks where food is made.
 And a home is kept by helping: cleaning the house, washing
 things, cooking food. Your hands can do one of these jobs today.
 
-## Say it to your companion
+## Sub lesson 3 — Colour it, draw it, write its name
+
+Now the home things get drawing work of their own. Take a
+picture of a thing in your home: colour the picture, and write
+the thing's name under it.
+
+The ሲኒ gets the full work. First, colour the ሲኒ — the little
+coffee cup on its saucer.
+
+[Picture 21010 — a ሲኒ, coloured, and the same ሲኒ in outline to draw again and colour]
+
+Then draw the ሲኒ again, yourself, on your own paper — the round
+cup, the coffee inside, the saucer under it — and colour your
+drawing. Under it, write its name: ሲኒ.
+
+Colour it. Draw it again. Write its name. A thing you have drawn
+and named is a thing you know.
 
 Tell your companion about your home: "My home has a መኝታ ቤት. The
 መሶብ is in our home. I help by …" — name one room, one thing, and

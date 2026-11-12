@@ -32,6 +32,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
    (jebena), ኩባያ (kubaya), ጭልፋ (ch'ilfa), ቢለዋ (bilewa), ሰሀን
    (sahan), ድስት (dist), ሲኒ (sini), መሶብ (mesob) — plus helping at
    home: cleaning the house, washing things, cooking food.
+3. **Colour it, draw it, write its name** — colour a home picture
+   and write its name; colour the ሲኒ, draw it again yourself,
+   colour the drawing, and write ሲኒ under it.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is the
@@ -65,6 +68,10 @@ Your own home. Nothing else.
    - ADD AUDIO: a voice naming the rooms and the eight things
      slowly — the student repeats and points at the real thing at
      home. Described only in this build; no audio file is made.
+   - ADD IMAGE [Picture 21010]: a picture of a ሲኒ (sini cup),
+     coloured, beside the same ሲኒ in outline — the student
+     colours the cup, draws it again, colours the drawing and
+     writes ሲኒ under it.
 3. **Say it to your companion** — "In my home, the … is in the …"
    (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the walk
@@ -80,6 +87,8 @@ Your own home. Nothing else.
   each room.
 - IMAGE [Picture 8019] — the eight household things board → the
   student names each thing in Amharic.
+- IMAGE [Picture 21010] — a coloured ሲኒ and its outline → the
+  student colours, draws again, colours and writes ሲኒ.
 - AUDIO — the room and thing names read aloud (slot only).
 - VIDEO — the video-script filmed (made later).
 
@@ -100,3 +109,10 @@ page in lesson/sources.md (KG1 home pp.8–14; KG2 home pp.11–14, 51,
 56, 60, 151–152; KG3 helping at home p.125). A teacher sending this
 lesson sends the lesson and its question list as they are —
 choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** Sub lesson 3 —
+"Colour it, draw it, write its name" — was appended, stocking KG3
+printed pp.135–136 (colour the picture and write its name; colour
+the ሲኒ, draw it again and colour) with Picture 21010 and four
+(Sub lesson 3) questions. The ሲኒ name itself still rests on KG2
+p.152 in Sub lesson 2; pp.135–136 are its drawing pages.

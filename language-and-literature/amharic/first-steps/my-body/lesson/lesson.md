@@ -31,6 +31,24 @@ knee. The whole leg and the foot at its end are the **እግር** (igir).
 Point to each part on the picture. Then point to it on your own
 body. Say its name out loud.
 
+Bodies do not all look the same. That is አካላዊ መገለጫ — how a
+person looks. Look at these people:
+
+[Picture 21004 — a fat person and a thin person; a child with short hair and a child with long hair]
+
+One person is **ወፍራም** (wefram) — fat, wide and round. The next
+is **ቀጭን** (qech'in) — thin, narrow. One child has short hair —
+ፀጉር that stops close to the head. The next child has long hair —
+ፀጉር that grows down past the shoulders. Fat or thin, short hair
+or long hair — every body is a good body, and now you can say how
+each one looks.
+
+And when children meet, they greet each other: ሰላምታ ሲለዋወጡ —
+exchanging greetings. They face each other, smile, and shake
+hands, and each one says ሰላም — peace, hello.
+
+[Picture 21005 — two children exchanging greetings, shaking hands]
+
 ## Sub lesson 2 — The five senses
 
 Five parts of your body are helpers. They bring the world to you.

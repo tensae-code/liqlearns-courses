@@ -16,3 +16,8 @@ and say what each room is for.
 Sub lesson 2 questions from the type files. Pass mark: name the
 household things, including ጀበና, ኩባያ, ጭልፋ, ቢለዋ, ሰሀን, ድስት, ሲኒ, መሶብ,
 match things to their rooms, and name a helping-at-home job.
+
+## Sub lesson 3 — Colour it, draw it, write its name
+Sub lesson 3 questions from the type files. Pass mark: colour a
+home picture and write its name; colour the ሲኒ, draw it again,
+colour the drawing, and write ሲኒ under it.

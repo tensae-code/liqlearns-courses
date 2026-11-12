@@ -61,6 +61,8 @@ Your own body. A mirror helps, but is not needed.
    - ADD IMAGE [Picture 8010]: a picture of a child figure with all
      fifteen parts labelled in Amharic and English — the student
      points to each part on the picture, then on their own body.
+   - ADD IMAGE [Picture 21004]: a picture of a fat person and a thin person, and of a child with short hair and a child with long hair — the student points and says ወፍራም, ቀጭን, short hair, long hair.
+   - ADD IMAGE [Picture 21005]: a picture of two children exchanging greetings (ሰላምታ ሲለዋወጡ), shaking hands — the student greets their companion the same way and says ሰላም.
    - ADD IMAGE [Picture 8011]: a picture of the five senses in five
      panels — eye, nose, tongue, ear, hand — the student says what
      each one does.
@@ -90,6 +92,10 @@ Your own body. A mirror helps, but is not needed.
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 8010] — the labelled body figure → the student
   points and names.
+- IMAGE [Picture 21004] — fat and thin, short hair and long hair →
+  the student points and says how each person looks.
+- IMAGE [Picture 21005] — two children exchanging greetings → the
+  student greets a companion the same way.
 - IMAGE [Picture 8011] — the five senses board → the student says
   what each sense does.
 - GIF [GIF 8012] — the pointing dot visiting eye, ear, nose,
@@ -115,3 +121,11 @@ page in lesson/sources.md (KG1 "My body"; KG2 "Me, my body,
 feelings" p.9–10 and p.142; KG3 "Body, senses, movement, direction"
 pp.77–79). A teacher sending this lesson sends the lesson and its
 question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** KG2 printed p.3
+was stocked inside Sub lesson 1 — the appearance words ወፍራም
+(fat) / ቀጭን (thin) and short hair / long hair (Picture 21004),
+and the children exchanging greetings, ሰላምታ ሲለዋወጡ (Picture
+21005) — with three (Sub lesson 1) questions added. These were
+previously noted in sources.md as "not built here"; that note is
+corrected.

@@ -5,6 +5,9 @@ The lesson with your hands and your feet, not only your eyes.
 ## Sort the kitchen
 With a grown-up, take real fruits and vegetables from the kitchen — or draw them on paper and cut them out. Make two piles: fruits, vegetables. Say each name in Amharic as it goes into its pile.
 
+## Draw the mango again
+Look at a real mango, or at the mango picture, for a long moment. Then draw the mango again on your own paper — the round heavy shape, the little stem — and colour it. Say its name as you work: ማንጎ.
+
 ## Build a full meal
 Draw a big plate. Draw or place on it: a grain food, a vegetable, an egg, and draw a cup of milk and a fruit beside the plate. Say what each thing is. That is a balanced meal.
 

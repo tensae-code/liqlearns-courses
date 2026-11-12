@@ -64,7 +64,8 @@ tops. Paper and a pencil.
    counting sets; zero and the climb to 10; counting to 20 and the
    number names; the Ge'ez numerals (lesson/lesson.md).
    - ADD IMAGE [Picture 8110]: a picture of the number card for 1 — the big numeral 1, its name አንድ, and 1 star counter — the student says the name and counts the star. Pictures 8111–8118 are the same card for 2–9 (ሁለት 2 … ዘጠኝ 9), each with its own count of star counters; the sets are counters, standing in for the books' banana, cups, strawberries, pencils, spoons, lions, apples, cars and lemons.
-   - ADD GIF [GIF 8122]: a picture of a finger tapping star counters one by one while the counter underneath fills 1, 2, 3, 4, 5 — the student counts aloud with the taps, touching each star as it lights.
+   - ADD GIF [GIF 8122]: a picture of a finger tapping counters one by one while the counter underneath fills 1, 2, 3 … all the way to 20 — the student counts aloud with the taps, touching each counter as it lights.
+   - ADD IMAGE [Picture 21006]: a picture of seven heart shapes, some coloured and some waiting — the student colours the hearts, counts them touching each once, and circles the number of the count, 7.
    - ADD AUDIO in the 1–9 part: a voice counting aloud — አንድ … ዘጠኝ — while the student counts real things. (Audio slot — described only, made later.)
    - ADD IMAGE [Picture 8119]: a picture of two jars — one empty, marked 0 ዜሮ, and one full of biscuits, marked ብዙ (many) — the student says which jar has zero.
    - ADD AUDIO in the zero part: a voice reading the numbers 0–10 with their Ge'ez numeral names. (Audio slot — described only, made later.)
@@ -89,7 +90,9 @@ tops. Paper and a pencil.
   and its count of star counters → the student says the name and
   counts the stars.
 - GIF 8122 — a finger tapping counters one by one, the counter
-  filling 1–5 → the student counts aloud with the taps.
+  filling 1–20 → the student counts aloud with the taps.
+- IMAGE 21006 — seven heart shapes to colour and count → the
+  student colours, counts touching each heart once, and circles 7.
 - IMAGE 8119 — an empty jar (0 ዜሮ) beside a full jar → the student
   says which jar has zero.
 - IMAGE 8121 — the 0–20 number line with missing numbers → the
@@ -126,3 +129,13 @@ page in lesson/sources.md (the three Addis Ababa pre-primary
 workbooks, Beginner Level, Level One and Level Two). A teacher
 sending this lesson sends the lesson and its question list as they
 are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** KG2 printed p.93
+(colour the heart shapes and circle the number of the count) was
+stocked in Sub lesson 2 with Picture 21006 and two questions; GIF
+8122 was remade so the finger-tap counter fills 1 to 20, as the
+KG3 counting work names; the SNE picture-card teacher check
+(SUPPORTING, printed pp.24–25) was added to hands-on.md; and the
+KG3-exit list (SUPPORTING, printed pp.30–31) is now carried in
+full in sources.md, with its items cited in the lessons that teach
+them.

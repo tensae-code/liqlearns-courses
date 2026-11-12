@@ -65,6 +65,8 @@ cups. A heavy box and a light box (an empty one) to lift.
    pairs; then weight (lesson/lesson.md).
    - ADD IMAGE [Picture 8132]: a picture of a big lion (ትልቅ) beside a small mouse (ትንሽ) — the student says which is big and which is small, using the Amharic words.
    - ADD IMAGE [Picture 8133]: a picture of three jars — one full (ሙሉ) with many stars, one empty (ባዶ), one with few stars (ጥቂት) — the student names each jar's amount.
+   - ADD GIF [GIF 21144]: a picture of a big ball beside a small ball, then nine stars beside two stars — the student says ትልቅ/ትንሽ for the balls and ብዙ/ጥቂት for the stars.
+   - ADD IMAGE [Picture 21008]: a picture of the walia, the gazelle and the red fox in size order — the student circles the biggest (the walia) and the smallest (the red fox).
    - ADD AUDIO in the size part: a voice reading the comparing pairs — ትልቅ … ትንሽ, ብዙ … ጥቂት, ከባድ … ቀላል — the student repeats each pair and points at a real example. (Audio slot — described only, made later.)
    - ADD GIF [GIF 8134]: a picture of a child figure straining at a big heavy box (ከባድ) that barely moves, while a second figure lifts a small light box (ቀላል) easily — the student says which box is heavy and which is light.
 3. **Say it to your companion** — point at two things; your
@@ -87,6 +89,10 @@ cups. A heavy box and a light box (an empty one) to lift.
   amount: ሙሉ, ባዶ, ጥቂት.
 - GIF 8134 — a heavy box that will not lift and a light box lifted
   easily → the student names ከባድ and ቀላል.
+- GIF 21144 — a big ball beside a small ball, then many stars
+  beside few → the student says ትልቅ/ትንሽ and ብዙ/ጥቂት.
+- IMAGE 21008 — the walia, the gazelle and the red fox in size
+  order → the student circles the biggest and the smallest.
 - AUDIO — the comparing word pairs read aloud (slot, described
   only — no audio is made in this build).
 - VIDEO — the video-script filmed (made later) → the student says
@@ -112,3 +118,13 @@ page in lesson/sources.md (the Addis Ababa pre-primary workbooks,
 Beginner Level and Level One, with the Level Two ordering work
 cross-referenced). A teacher sending this lesson sends the lesson
 and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** KG3 printed p.97
+(circle the biggest/smallest — walia, red fox, gazelle) was
+stocked in Sub lesson 1 with Picture 21008 and two questions; the
+missing big/small–many/few comparison GIF was made as GIF 21144
+(KG2 media summary); and hands-on.md's "If it is hard" section now
+carries the full cognitive indicator list (Table 5) and all the
+named teacher checks from SNE printed pp.24–25 (SUPPORTING),
+plus the exit list's bigger/smaller-with-real-objects citation
+(printed pp.30–31).

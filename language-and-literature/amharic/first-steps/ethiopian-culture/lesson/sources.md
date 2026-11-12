@@ -16,6 +16,6 @@ countries: Ethiopia
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-KG1's instrument page (printed p.61) names five instruments; the sixth, begena በገና, comes from KG3 printed pp.51–52, where all six are named together — the lesson teaches the KG3 set of six, as the brief directs. The KG2 world-instruments page (printed p.54 — guitars, piano, saxophone) is a music lesson item, not Ethiopian culture, and is not taught here. Audio for every instrument is a described slot only (see lesson-plan.md) — no audio is made in this build. Every placement line for this lesson was built in full.
+KG1's instrument page (printed p.61) names five instruments; the sixth, begena በገና, comes from KG3 printed pp.51–52, where all six are named together — the lesson teaches the KG3 set of six, as the brief directs. The KG2 world-instruments page (printed p.54 — guitars, drums, piano, saxophone, violin) is a music lesson item, not Ethiopian culture; it is taught in the first-steps lesson Music Instruments of the World (built 2026-11-12, Amharic fix build), not here. Audio for every instrument is a described slot only (see lesson-plan.md) — no audio is made in this build. Every placement line for this lesson was built in full.
 
 Searchable tags: Ethiopian culture ባህል, instruments, masenqo ማሲንቆ, washint ዋሽንት, krar ክራር, kebero ከበሮ, begena በገና, tsenatsil ፅናፅል, celebrations እንቁጣጣሽ, food ዶሮ ወጥ, dance ውዝዋዜ, mesob መሶብ

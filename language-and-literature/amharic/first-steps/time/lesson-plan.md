@@ -22,6 +22,8 @@ it is proved:
 
 1. **The days of the week** — the seven days in Ethiopia's order: ሰኞ, ማክሰኞ, ረቡዕ, ሀሙስ, አርብ, ቅዳሜ, እሁድ — to say, sing and copy-write.
 2. **The months of Ethiopia** — all thirteen months in order — መስከረም, ጥቅምት, ህዳር, ታህሳስ, ጥር, የካቲት, መጋቢት, ሚያዝያ, ግንቦት, ሰኔ, ሐምሌ, ነሐሴ, ጳጉሜን — with before-and-after questions.
+3. **The Grade 2 book's month drills** — sound the drilled month names and write all thirteen months in order from መስከረም.
+4. **Day and night: drawing the sky** — draw and colour what is seen in the sky in the day (sun, clouds) and at night (moon, stars); colour the unicycle መንኮራኩር.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -70,3 +72,5 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 3 — The Grade 2 book's month drills: sound the drilled month names and write all thirteen months in order from መስከረም.
+
+**Growth note (2026-11-12, Amharic fix build — pre-primary band):** Sub lesson 4 was appended, stocking KG3 printed p.114 (colour the unicycle መንኮራኩር; draw and colour the things seen in the sky at night and in the day) with Pictures 21011–21012 and three (Sub lesson 4) questions. ADD IMAGE [Picture 21012]: the day sky (sun, clouds) and the night sky (moon, stars) — the student draws and colours both skies. ADD IMAGE [Picture 21011]: the unicycle in outline — the student colours its one wheel, seat and pedals.

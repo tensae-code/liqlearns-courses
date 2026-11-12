@@ -41,3 +41,15 @@ a) Fidel by fidel, then whole  b) Backwards  c) By singing only
 **10. (Sub lesson 3)** How many Ethiopian months does the review ask you to write?
 a) Thirteen  b) Twelve  c) Seven
 **Answer: a) Thirteen** — the thirteen months in order.
+
+**11. (Sub lesson 4)** What do you see in the sky in the day?
+a) the moon and stars  b) the sun and clouds  c) only darkness
+**Answer: b) the sun and clouds** — draw and colour them in the day sky.
+
+**12. (Sub lesson 4)** What do you draw in the night sky?
+a) the moon and the stars  b) the sun  c) rain only
+**Answer: a) the moon and the stars** — the night sky holds the moon and stars.
+
+**13. (Sub lesson 4)** The መንኮራኩር (menk'orakur) you colour has how many wheels?
+a) two  b) three  c) one
+**Answer: c) one** — a unicycle has only one big wheel.

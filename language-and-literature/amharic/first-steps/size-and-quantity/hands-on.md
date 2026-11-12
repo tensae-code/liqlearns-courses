@@ -24,7 +24,18 @@ to biggest. Say the comparing sentence for the whole line:
 "ትንሽ, then bigger, then ትልቅ." Shuffle and order them again.
 
 ## If it is hard
-Sort real objects smallest → biggest and sort by shape with
-your hands, the SNE toolkit's own ordering and sorting checks
-(printed pp.24–25): real things you can hold, one step at a
-time, with the right way shown, never a failure label.
+Signs a grown-up can watch for (SUPPORTING — the cognitive delay
+indicators, Table 5): attention that is short; forgetting what
+was told or shown within the hour; poor imitation; slow
+language; not yet grasping ideas at the child's own age level.
+Seeing a sign is never a label — it only says: use the checks
+and supports below, in play form.
+
+Teacher checks, played as games (SUPPORTING, the toolkit's own
+checks): sort real objects smallest → biggest; sort by shape
+(circle, triangle, square); sort colours by same and different
+— all with real things you can hold, one step at a time, with
+the right way shown, never a failure label. And ask consequence
+questions, the thinking kind: "What happens if people don't
+drink water for a long time?" There is no single right sentence
+— the child thinks, and says what would happen.

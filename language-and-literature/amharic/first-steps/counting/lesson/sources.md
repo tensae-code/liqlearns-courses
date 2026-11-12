@@ -32,6 +32,8 @@ countries: Ethiopia
 | Sub lesson 2 — copy-write the numbers 0–4 in a row | Book 2 (KG2), printed p.88 |
 | Sub lesson 2 — count the picture and write the number; count identical pictures and write how many; read the number and match it to the counted picture; count the picture and circle its number | Book 2 (KG2), printed pp.72, 94, 114–115, 154, 162 |
 | Sub lesson 2 — fill the missing numbers: caterpillar sequences 1–9; numbered circles on the rabbit-to-carrot path | Book 2 (KG2), printed pp.155–156 |
+| Sub lesson 2 — colour the heart shapes and circle the number of the count (seven hearts) — Picture 21006 | Book 2 (KG2), printed p.93 |
+| Hands-on — the picture-card game: pick out an earlier-shown picture card from among others (teacher check) (SUPPORTING) | Book 4 (SNE toolkit) (SUPPORTING), printed pp.24–25 |
 | Sub lesson 3 — counting: the thing counted and the counter (መቁጠር፡- ተቆጣሪ እና ቆጣሪ) | Book 3 (KG3), printed p.29 |
 | Sub lesson 3 — write the next number in the sequence (0 _ 2 _ 4 _ _ 7 _ 8 _) | Book 3 (KG3), printed p.30 |
 | Sub lesson 3 — read + copy-write number words አንድ 1 … አምስት 5, with "how many?" counting | Book 3 (KG3), printed p.31 |
@@ -45,7 +47,7 @@ countries: Ethiopia
 | Sub lesson 4 — Ge'ez numerals: read + copy-write ፮=6 ፯=7 ፰=8 ፱=9 ፲=10 | Book 3 (KG3), printed p.113 |
 | Sub lesson 4 — fill the missing Ge'ez numerals (፩ _ ፫ _ ፭ _ ፯ _ ፱); write Ge'ez numerals in words | Book 3 (KG3), printed p.164 |
 | Sub lesson 4 — match the Western (Hindu-Arabic) numeral to the Ge'ez numeral, 1–3 and 4–6 | Book 2 (KG2), printed pp.73, 116 |
-| KG3-exit note (SUPPORTING) — the system's own "ready for Grade 1" list includes orally memorising numbers to 100 and orally counting; NOT taught in this lesson — see the honesty paragraph | Book 4 (SNE toolkit) (SUPPORTING), printed pp.30–31 |
+| KG3-exit list, carried in full (SUPPORTING) — the system's own "ready for Grade 1" list for the last KG year: writing left to right; how to hold a pencil; keeping to the lines of an exercise book; using the pages of an exercise book and keeping a margin; proper body position while writing; reading left to right; letters and letter names; numbers and number names; orally memorising numbers to 100; orally counting and which number is bigger/smaller, using real objects (sticks, pencils, rulers); texts carry meaning — a story read, then narrated from pictures. Each item is taught in its own lesson (pencil hold and lines/margin in first-steps/pre-writing, letters in fidel/the-fidel, bigger/smaller with real objects in first-steps/size-and-quantity, numbers and story-meaning here and in story/first-stories), and each of those lessons now cites these same pages; the oral-counting-to-100 item is NOT taught in this lesson — see the GAP paragraph | Book 4 (SNE toolkit) (SUPPORTING), printed pp.30–31 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

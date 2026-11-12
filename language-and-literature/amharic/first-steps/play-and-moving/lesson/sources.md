@@ -14,6 +14,8 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — Push, pull, lift | KG1, *Pre-Primary Practice Workbook, Beginner Level (Age 4)*, printed p.49 (pushing and pulling, መግፋትና መጎተት); KG2, *Pre-Primary Practice Workbook, Level One (Age 5)*, printed p.45 (pushing, pulling and lifting) |
 | Sub lesson 2 — Run, jump, move | KG1 printed p.44 (cooperation and unity, መተባበር እና አንድነት); KG2 printed pp.44–45 (various movements) and p.68 (sports movement); KG3, *Pre-Primary Practice Workbook, Level Two (Age 6)*, printed p.81 (jumping and running gymnastics; carrying, pushing, pulling), p.91 (physical exercise — the four arm positions) and p.106 (developing the big muscles) |
+| Picture 21000 — children playing and working together (cleaning up, building blocks, sharing food) | KG1, *Pre-Primary Practice Workbook, Beginner Level (Age 4)* — picture slot named in the KG1 placements, "Moving my body / play" section (no single page; the togetherness content itself is KG1 printed p.44, Sub lesson 2 above) |
+| If it is hard — gross motor delay indicator list (SUPPORTING) | SNE toolkit, *Assessment and Support for Students with Special Needs in Pre-primary Schools*, Table 1, printed p.13 (unsteady walk, poor balance, uncoordinated running, can't jump small objects, stairs difficulty, falls when changing direction, needs help walking) |
 | If it is hard — gross-motor support activities (SUPPORTING) | SNE toolkit, *Assessment and Support for Students with Special Needs in Pre-primary Schools*, printed pp.13–15 (rope walking, one-leg stand, jump-over-line progressions) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**

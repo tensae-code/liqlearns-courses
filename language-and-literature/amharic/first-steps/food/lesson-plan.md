@@ -48,6 +48,7 @@ The pictures in the lesson. Real fruits and vegetables from the home kitchen for
    its picture at its exact place (lesson/lesson.md).
    - ADD IMAGE [Picture 8063]: a picture of ten fruits on a woven mesob — apple, avocado, mango, watermelon, orange, pineapple, papaya, lemon, banana, strawberries — the student points at each fruit and says its name.
    - ADD AUDIO at the fruits: a voice saying each fruit's Amharic name slowly — ፖም … ማንጎ … ሙዝ … — the student says each name after the voice.
+   - ADD IMAGE [Picture 21009]: a picture of a mango, coloured, beside the same mango in outline — the student draws the mango again and colours their drawing.
    - ADD IMAGE [Picture 8069]: a drawn board of six garden vegetables, each in its own box with its name under it — ጥቅልጎመን cabbage, ቲማቲም tomato, ካሮት carrot, ድንች potato, ቀይ ሽንኩርት red onion, ቃሪያ pepper — the student names each vegetable.
    - ADD IMAGE [Picture 8070]: a drawn picture of a full meal — a plate of injera with vegetable and lentil wats and an egg, a cup of milk ወተት beside it, and fruit beside that — the student points and says what makes the meal full: grains, vegetables, egg, milk, fruit.
 3. **Say it to your companion** — the learner tells their
@@ -63,6 +64,7 @@ The pictures in the lesson. Real fruits and vegetables from the home kitchen for
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 8063] — the ten fruits on a mesob → the student points and names each fruit.
+- IMAGE [Picture 21009] — a coloured mango and its outline → the student draws the mango again and colours it.
 - AUDIO — the fruits' Amharic names, one by one → the student repeats each name.
 - IMAGE [Picture 8069] — six garden vegetables in boxes → the student names each vegetable.
 - IMAGE [Picture 8070] — a full, balanced meal with milk and fruit → the student says what the meal holds.
@@ -80,3 +82,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** KG3 printed p.39
+(draw the mango picture again and colour it) was stocked in Sub
+lesson 1 and in hands-on.md, with Picture 21009.

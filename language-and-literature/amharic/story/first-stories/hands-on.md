@@ -35,5 +35,17 @@ alone, and act it before you answer questions about it — small
 steps, in the story method's own order (SNE toolkit and the
 training module's three passes — SUPPORTING; see sources.md).
 
+Two memory games a teacher can play, from the toolkit's own
+checks (SUPPORTING — teacher checks, played as games, never as
+tests):
+- **The red marker game:** show the child a red marker for three
+  or four seconds. Hide it among two other markers. After ten
+  minutes of other play, ask: "Which one did I show you?" The
+  child picks out the red marker they saw before.
+- **The story card game:** show the child one of the story
+  picture cards (8215, 8216). Put it back among the other cards,
+  face up together, and ask the child to pick out the card they
+  were shown earlier. Change the card and play again.
+
 ## Added 2026-11-12 — care for a real book
 Cover a book at home, clean its outside gently, and put a bookmark in it — the four cares of sub lesson 5, done for real.

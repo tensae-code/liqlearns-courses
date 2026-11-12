@@ -28,6 +28,11 @@ nearly empty, holding only a few.
 
 [Picture 8133 — the full jar, the empty jar, and the jar with few]
 
+Watch the pairs move: first a big ball beside a small ball, then
+many stars beside few stars.
+
+[GIF 21144 — big beside small, then many beside few]
+
 **ሰፊ — wide · ጠባብ — narrow.** How wide a thing opens: a wide
 vase against a narrow vase.
 
@@ -37,6 +42,19 @@ long tree against a short tree.
 Say the pairs on the books' own pictures: lion and mouse, full
 and nearly-empty bead jars, wide and narrow vases, tall and
 short trees. The word always answers: compared to what?
+
+Now sort by size with Ethiopia's own animals. Here are three:
+the **ዋሊያ** (walia), the mountain animal with the curved horns;
+the **አጋዘን** (agazen), the gazelle; and the **ቀይ ቀበሮ** (qey
+q'ebero), the red fox.
+
+[Picture 21008 — the walia, the gazelle and the red fox, biggest to smallest]
+
+Put them in size order. The walia is the biggest — ትልቅ. The
+gazelle stands in the middle. The red fox is the smallest —
+ትንሽ. Circle the biggest animal. Circle the smallest animal.
+That circling is the comparing work itself: look, compare, and
+mark the biggest and the smallest.
 
 ## Sub lesson 2 — How heavy
 

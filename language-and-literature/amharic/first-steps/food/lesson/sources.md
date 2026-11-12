@@ -15,6 +15,7 @@ countries: Ethiopia
 | Sub lesson 1 — Fruits, named (ፖም apple, አቮካዶ avocado, ማንጎ mango, ሀባብ watermelon, ብርቱካን orange, አናናስ pineapple, ፓፓያ papaya, ሎሚ lemon, ሙዝ banana, እንጆሪ strawberry) | Book 2 (KG2), printed p.79 |
 | Sub lesson 1 — Circle the ones that are fruits (mixed fruit/vegetable grid) | Book 2 (KG2), printed p.80 |
 | Sub lesson 1 — Reading: kinds of fruit (አቮካዶ, ወይን grapes, ብርቱካን, ፖም, ሙዝ, ሀባብ, ማንጎ…); copy-write fruit names (ማንጎ, ፓፓያ, ብርቱካን, ወይን…); write the fruits' names under their pictures | Book 3 (KG3), printed pp.7–8, 106 |
+| Sub lesson 1 / hands-on — draw the mango picture again and colour it — Picture 21009 | Book 3 (KG3), printed p.39 |
 | Sub lesson 2 — Kinds of garden vegetables photo page; circle the ones that are vegetables | Book 2 (KG2), printed pp.81–82 |
 | Sub lesson 2 — Reading: garden vegetables (ጥቅልጎመን cabbage, ቲማቲም tomato, ቀይ ስር red beetroot, ቀይ ሽንኩርት red onion, ድንች potato, ቃሪያ pepper); copy-write them | Book 3 (KG3), printed p.9 |
 | Sub lesson 3 — Healthy eating: a full meal contains all food contents; a balanced diet is good for health; matching ካሮት carrot, ቲማቲም, ጎመን greens | Book 3 (KG3), printed p.48 |
