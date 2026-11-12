@@ -28,13 +28,34 @@
 - Word Play — `word-play`
 
 ## Unit 4 — Sentence (`sentence`)
-Building — lands with the next commit of this course.
+- Persons and Pronouns — `persons-and-pronouns`
+- One and Many — `one-and-many`
+- He, She and They — `he-she-and-they`
+- Saying What Is Happening Now — `saying-what-is-happening-now`
+- Joining Sentences — `joining-sentences`
+- Cause and Effect — `cause-and-effect`
+- Doubled Letters in Words — `doubled-letters-in-words`
 
 ## Unit 5 — Speaking (`speaking`)
-Building — lands with the next commit of this course.
+- Introducing Yourself — `introducing-yourself`
+- Greetings — `greetings`
+- Saying What I Like — `saying-what-i-like`
+- Describing Pictures and Places — `describing-pictures-and-places`
+- Talking Together — `talking-together`
+- Directions and Where Things Are — `directions-and-where-things-are`
+- Buying and Selling — `buying-and-selling`
+- The Oromo Marriage Custom — `the-oromo-marriage-custom`
 
 ## Unit 6 — Writing (`writing`)
-Building — lands with the next commit of this course.
+- Building Sentences — `building-sentences`
+- First Written Pieces — `first-written-pieces`
+- Telling and Explaining in Writing — `telling-and-explaining-in-writing`
+- The Paragraph — `the-paragraph`
+- Kinds of Writing — `kinds-of-writing`
 
 ## Unit 7 — Listening (`listening`)
-Building — lands with the next commit of this course.
+- Barii Ganama — `barii-ganama`
+- Listening to the World — `listening-to-the-world`
+- Listening to Rivers — `listening-to-rivers`
+- Listening to History and Heroes — `listening-to-history-and-heroes`
+- Listening to Stories and Talk — `listening-to-stories-and-talk`

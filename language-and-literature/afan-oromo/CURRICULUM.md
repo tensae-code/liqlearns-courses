@@ -33,5 +33,9 @@ Tips are ours; the lessons are the guides'.
 21 lessons, 379 questions, 47 pictures and 11 GIFs filed
 (pictures 9850–9907), a video script in every lesson.
 
-**Units 4–7 (Sentence, Speaking, Writing, Listening) —
-building:** they land with the next commit of this course.
+**Units 4–7 (Sentence, Speaking, Writing, Listening) — BUILT
+2026-11-12:** 25 lessons, 427 questions, 25 pictures and 7 GIFs
+filed (pictures 9925–9961), a video script in every lesson.
+
+**The whole course stands at 46 lessons, 806 questions, 72
+pictures and 18 GIFs.**

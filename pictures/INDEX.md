@@ -1063,3 +1063,35 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9905 | pictures/9905.gif | a white flower filling with yellow | Afan Oromo — Word |
 | 9906 | pictures/9906.gif | days lighting up across the week | Afan Oromo — Word |
 | 9907 | pictures/9907.gif | boat, train and plane each moving in their own band | Afan Oromo — Reading |
+| 9925 | pictures/9925.webp | the pronoun chart | Afan Oromo — Sentence |
+| 9926 | pictures/9926.gif | clock hands moving to a named time (9:00) | Afan Oromo — Listening |
+| 9927 | pictures/9927.webp | the weather report and its clothes | Afan Oromo — Listening |
+| 9928 | pictures/9928.webp | the one-and-many chart | Afan Oromo — Sentence |
+| 9929 | pictures/9929.webp | he did, she did, they did | Afan Oromo — Sentence |
+| 9930 | pictures/9930.webp | happening now — jira / jiru sentences | Afan Oromo — Sentence |
+| 9931 | pictures/9931.gif | one book becoming many books | Afan Oromo — Sentence |
+| 9932 | pictures/9932.webp | punctuation at work | Afan Oromo — Sentence |
+| 9933 | pictures/9933.webp | cause and effect pairs | Afan Oromo — Sentence |
+| 9934 | pictures/9934.webp | doubled letters and clusters | Afan Oromo — Sentence |
+| 9935 | pictures/9935.webp | introducing yourself — the four things said | Afan Oromo — Speaking |
+| 9936 | pictures/9936.webp | greetings for the times of day | Afan Oromo — Speaking |
+| 9937 | pictures/9937.webp | what my body parts do | Afan Oromo — Speaking |
+| 9938 | pictures/9938.webp | describing the land | Afan Oromo — Speaking |
+| 9939 | pictures/9939.webp | telling a sequence — coffee and morning strips | Afan Oromo — Speaking |
+| 9940 | pictures/9940.webp | directions map — school, house, suuqii | Afan Oromo — Speaking |
+| 9941 | pictures/9941.webp | buying and selling — the market stall | Afan Oromo — Speaking |
+| 9942 | pictures/9942.webp | the Oromo marriage custom — the gathering | Afan Oromo — Speaking |
+| 9943 | pictures/9943.webp | building sentences — three columns | Afan Oromo — Writing |
+| 9944 | pictures/9944.webp | first written pieces — five blocks | Afan Oromo — Writing |
+| 9945 | pictures/9945.webp | the outline (gumee) for Faayidaa Barnootaa | Afan Oromo — Writing |
+| 9946 | pictures/9946.gif | a runner breaking the finish tape | Afan Oromo — Listening |
+| 9947 | pictures/9947.webp | the paragraph and its topic sentence | Afan Oromo — Writing |
+| 9948 | pictures/9948.webp | kinds of writing — four doors | Afan Oromo — Writing |
+| 9949 | pictures/9949.webp | barii ganama — early morning | Afan Oromo — Listening |
+| 9951 | pictures/9951.webp | history and heroes — Adwa, Derartu Tulu, Abbabach Goobanaa | Afan Oromo — Listening |
+| 9952 | pictures/9952.webp | stories and talk — the traveller in the bean field | Afan Oromo — Listening |
+| 9953 | pictures/9953.gif | coffee roasted, ground and poured | Afan Oromo — Speaking |
+| 9954 | pictures/9954.gif | a boy running (fiige), then a girl running (fiigde) | Afan Oromo — Sentence |
+| 9955 | pictures/9955.gif | the doubled letter held — biyya's yy swelling | Afan Oromo — Sentence |
+| 9960 | pictures/9960.webp | listening to rivers — Abbayyaa and Hawaas | Afan Oromo — Listening |
+| 9961 | pictures/9961.gif | river water over a fall | Afan Oromo — Listening |
