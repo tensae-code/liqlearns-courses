@@ -1231,7 +1231,6 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11098 | pictures/11098.webp | satellites beaming to a plane, a ship and a hand receiver | Social Studies — Maps and Globes — GPS |
 | 11099 | pictures/11099.webp | the three-figure Homo line and Ethiopia's fossil sites | Social Studies — Human Evolution — Fossils and the First Humans |
 | 11100 | pictures/11100.webp | two population pyramids: wide-based and column-shaped | Social Studies — Population — Measuring Change |
-| 11101 | pictures/11101.webp | a balance scale in three states: people-heavy, balanced, resource-heavy | Social Studies — Population and Resources — Too Many, Too Few, Just Right |
 | 11102 | pictures/11102.webp | transport history: walker, pack animal, wooden cart, modern vehicles | Social Studies — Transport — Kinds of Transport |
 | 11000 | pictures/11000.webp | a three-band course map: geography, history, today | Social Studies — What Social Studies Is |
 | 11001 | pictures/11001.webp | a night sky over an Ethiopian village | Social Studies — The Universe and Space |

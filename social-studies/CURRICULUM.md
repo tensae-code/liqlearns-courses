@@ -35,11 +35,13 @@ Band records land here as each band is built and verified.
   nowhere. The guide's garbled Activity 1.2 rotation key is not
   taught and is disowned in the sources.
 - **Population, Transport and Maps — BUILT** (Grade 7 student
-  Chapter 2 + teacher guide Unit 2): 20 lessons, 208 questions,
+  Chapter 2 + teacher guide Unit 2): 19 lessons, 196 questions,
   pictures 11080–11102, GIFs 11088 + 11091 (both frame-checked).
-  Three guide-only lessons (human evolution; population measuring
-  change; population and resources) stand on teacher-guide
-  evidence only, counted nowhere. No guide coverage claimed for
+  Two guide-only lessons (human evolution; population measuring
+  change) stand on teacher-guide evidence only, counted nowhere.
+  The guide's §3.2 optimum-population framework was first built
+  here as well; it now stands once, in People and Resources
+  (dedup, 2026-11-12). No guide coverage claimed for
   maps/globes/GPS — the guide has none.
 - **People and Resources — BUILT** (Grade 7 student
   Chapter 3 + teacher guide Unit 3): 8 lessons, 121 questions,

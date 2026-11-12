@@ -8,7 +8,7 @@ Now picture three learners in that same classroom, with a library, a laboratory 
 
 Somewhere between the two is the class where everything is used well and nobody is crushed. **Just right.**
 
-A whole country is that classroom, and its resources are the chairs. This lesson names the three states.
+A whole country is that classroom, and its resources are the chairs. Or picture a boat: too many people aboard and it sits low and slow, taking water; too few and there are not enough hands to row. This lesson names the three states.
 
 [Picture 11160 — too many, too few, just right]
 
