@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3.** True or false: availability is the opposite: it has nothing to do with information available to authorised users whenever they require it.
 **Answer: False** — availability is about information available to authorised users whenever they require it.
+
+**4.** Installing the latest operating system updates is one of the nine habits.
+**Answer: True** — habit five.
+
+**5.** A software-installation problem should be reported to the police.
+**Answer: False** — it goes to the service provider or a certified technician.

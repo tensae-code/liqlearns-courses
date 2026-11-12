@@ -17,6 +17,9 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Define flowchart and pseudocode.
 2. State each notation's strength.
 3. Convert a tiny algorithm between the two forms.
+4. Define pseudocode: a design aid in structured English, no rigid rules, no language commitment.
+5. Write the sum of two numbers in pseudocode.
+6. State pseudocode's keyed benefits and its main difference from a flowchart (teacher guide — evidence).
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +29,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20930]: a picture of one algorithm, two notations — shapes and lines — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — a flowchart, pseudocode, flowchart's strength, pseudocode's strength — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15729]: a picture of one problem shown three ways — flowchart, pseudocode, first lines of code — with matching steps aligned (Grade 10) — the student follows one step across all three.
+   - ADD IMAGE [Picture 15730]: a picture of a circle with its perimeter and area pseudocode beside it (teacher guide — evidence) — the student reads the pseudocode against the circle.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +41,9 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20930] — a picture of one algorithm, two notations — shapes and lines → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (a flowchart, pseudocode, flowchart's strength, pseudocode's strength) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15729] — one problem, three ways (Grade 10) → the student follows one step across all three.
+- IMAGE [Picture 15730] — the circle in pseudocode (teacher guide — evidence) → the student reads the pseudocode against the circle.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

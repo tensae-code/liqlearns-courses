@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is Ethiopia's federal Information Network Security Agency, the national cyber-security agency. (Name the term.)
 **Answer: INSA**
+
+**4.** InfoSec is short for ______ security.
+**Answer: information**
+
+**5.** Computer security is also called ______ security in this book.
+**Answer: cyber**

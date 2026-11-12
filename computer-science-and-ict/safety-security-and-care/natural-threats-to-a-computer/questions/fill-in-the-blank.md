@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is get yourself to safety before rescuing the computer. (Name the term.)
 **Answer: the first move in a fire**
+
+**4.** The group's survey asks how the school's computers, copied data and ______ are protected.
+**Answer: programs**
+
+**5.** Planning against natural threats belongs to the ______ family of prevention.
+**Answer: non-technical**

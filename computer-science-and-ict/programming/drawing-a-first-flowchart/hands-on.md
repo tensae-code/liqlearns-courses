@@ -8,3 +8,6 @@ Draw the garden chart alone. Then in pairs, argue every symbol — then swap: th
 ## Unplugged flowchart
 Act a flowchart out: pupils are symbols, a ball is the flow. Run the garden policy both ways.
 
+
+## Draw both, swap and trace
+Draw both Grade 10 charts on paper. Swap with a partner: trace theirs box by box with a finger, saying each symbol's name and job aloud — any box you cannot name is a question to bring back to the lesson.

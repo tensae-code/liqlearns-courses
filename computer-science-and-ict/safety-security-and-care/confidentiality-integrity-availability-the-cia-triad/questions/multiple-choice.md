@@ -25,3 +25,15 @@ a) availability only  b) integrity  c) the network  d) nothing
 **6.** An ICT service for disabled students arriving late breaks —
 a) confidentiality  b) availability  c) privacy  d) the triad's name
 **Answer: b) availability** — it was not there when required.
+
+**7.** How many habits does the book's anti-attack checklist hold?
+a) five  b) seven  c) nine  d) twelve
+**Answer: c) nine** — from strong passwords to avoiding scams.
+
+**8.** Identity theft is reported to —
+a) the local police  b) a computer technician  c) the internet café  d) nobody
+**Answer: a) the local police** — crime goes to police; repairs to technicians.
+
+**9.** Denial of service is the failure of —
+a) confidentiality  b) integrity  c) availability  d) privacy
+**Answer: c) availability** — the service cannot be reached.

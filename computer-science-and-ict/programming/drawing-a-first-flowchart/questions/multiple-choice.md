@@ -29,3 +29,19 @@ a) a flowchart accepting two numbers and displaying their sum and product  b) sc
 **7. (Sub lesson 3)** A flowchart can represent —
 a) only computer programs  b) non-computational, human processes too  c) only mathematics  d) nothing on paper
 **Answer: b) non-computational, human processes too**
+
+**8. (Sub lesson 4)** In the add-two-numbers chart, 'Read A and B' sits in —
+a) a terminator  b) an input parallelogram  c) a decision diamond  d) a process rectangle
+**Answer: b) an input parallelogram** — reading is input.
+
+**9. (Sub lesson 4)** C = A + B sits in —
+a) a process rectangle  b) an input parallelogram  c) a terminator  d) a decision diamond
+**Answer: a) a process rectangle** — adding is the process.
+
+**10. (Sub lesson 4)** In the sign-test chart, x = −3 takes the path that writes —
+a) not negative  b) negative  c) zero  d) nothing
+**Answer: b) negative** — x less than zero → negative.
+
+**11. (Sub lesson 4)** The decision diamond in the sign test splits the flow into —
+a) one path  b) two message paths  c) three paths  d) a loop
+**Answer: b) two message paths** — negative / not negative.

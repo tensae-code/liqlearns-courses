@@ -10,3 +10,9 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 2)** A ______ is not recognised by name.
 **Answer: Guest**
+
+**4. (Sub lesson 3)** Guest accounts are common in internet ______.
+**Answer: cafés**
+
+**5. (Sub lesson 3)** Changes to accounts require ______ access.
+**Answer: administrator**

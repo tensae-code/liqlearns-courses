@@ -14,6 +14,18 @@ Earthquakes, flooding and lightning storms lead to fires, extreme temperatures a
 
 The teacher's keyed procedure is lab-specific. On a fire outbreak in the lab or server room: switch off the main electrical supply; vacate the room; inform the person in charge — the laboratory coordinator or teacher; call for help; and try to extinguish only with the appropriate fire extinguisher, never water. Prevention: keep the computer room free of stored combustible material — boxes, packaging and manuals are stored elsewhere; inspect power cords and repair frayed or damaged ones at once; keep systems cleaned of dust, because dust is kindling; train everyone and display the fire emergency plan; and schedule regular inspection of the fire protection systems. The consequences are stated plainly: computers do not survive fires — if the flames spare the case and boards, the heat can melt the hard drive and the solder — and a power surge can damage the motherboard and hard drive and slow performance.
 
+## Grade 10 depth — non-technical prevention: planning against natural threats
+
+Natural disasters **cannot be prevented** — but their damage **can be reduced by careful planning**. That planning is the **non-technical** family of prevention, and Grade 10 teaches its measures:
+
+- **keeping the computer in a secure location**;
+- **storing data safely**;
+- **protecting programs and data**.
+
+The unit's group work then turns the measures on the school itself: survey **how the school's own computers, copied data and programs are in fact protected** — where the machines sit, where the copies live, and what would survive a flood or a fire.
+
+[Picture 15713 — safe place, safe storage]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: earthquakes, flooding and lightning lead to fires, extreme temperatures and electric shocks — physical damage and loss of data — and in a fire, the person gets to safety before the computer. Then name the key words of this lesson — fire damage, extreme temperature, a lightning surge, the first move in a fire — and say what each one means.

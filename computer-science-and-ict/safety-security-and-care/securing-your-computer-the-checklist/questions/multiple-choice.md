@@ -25,3 +25,19 @@ a) look colourful  b) begin https:// with a valid certificate  c) advertise gift
 **6.** A message about money owed, 'from the government', by social media —
 a) must be answered at once  b) is a scam pattern: the government does not contact you that way about money owed  c) needs your PIN  d) is a software update
 **Answer: b) is a scam pattern: the government does not contact you that way about money owed**
+
+**7.** Prevention strategies split into —
+a) technical and non-technical  b) fast and slow  c) old and new  d) home and school
+**Answer: a) technical and non-technical** — the book's two families.
+
+**8.** A UPS is —
+a) a kind of virus  b) a protective electrical device giving battery backup in an outage  c) a user account  d) a firewall rule
+**Answer: b) a protective electrical device giving battery backup in an outage** — brick two of the wall.
+
+**9.** Encrypting data protects because —
+a) files become smaller  b) lost, stolen or hacked files cannot be read  c) files print faster  d) accounts multiply
+**Answer: b) lost, stolen or hacked files cannot be read** — encryption's purpose in the table.
+
+**10.** Copy protection's components include —
+a) encryption, DRM controls, licensing and watermarks  b) keyboards and mice  c) backups only  d) passwords only
+**Answer: a) encryption, DRM controls, licensing and watermarks** — the guide's keyed four (teacher guide — evidence).

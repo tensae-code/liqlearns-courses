@@ -20,6 +20,22 @@ Trace the chart twice — once down the Yes path, once down the No path — as t
 
 [GIF 20948 — tracing the Yes path, then the No path]
 
+## Sub lesson 4 — Grade 10 worked flowcharts — add two numbers; positive or negative
+
+Two complete Grade 10 solutions model the craft.
+
+**Add two numbers.** The algorithm description — **read A and B, add them, assign the sum to C, display C** — is drawn as **start → input → process → output → end**: terminator, parallelogram (read A and B), rectangle (C = A + B), parallelogram (display C), terminator.
+
+**Positive or negative.** Read **x**; then a **decision**: **if x is less than zero, write that it is negative; otherwise write that it is not negative**. Drawn, the **decision diamond splits the flow into its two message paths** — follow the marker in the GIF down the first chart, box by box, the way every flowchart is read.
+
+[Picture 15725 — the two worked flowcharts]
+
+## Sub lesson 4 — Watch the flow build
+
+The chart is built **symbol by symbol, in order** — start, input, process, output, end — and read the same way: by following the flow.
+
+[GIF 15726 — a marker travelling down the add-two-numbers chart]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: a flowchart can carry a human process too — the school garden policy becomes Start, a decision diamond, two process paths and End. Then name the key words of this lesson — the garden policy, the decision diamond's question, the speed-check bands, pair work in flowchart lessons — and say what each one means.

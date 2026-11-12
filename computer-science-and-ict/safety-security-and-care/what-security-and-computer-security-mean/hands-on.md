@@ -8,3 +8,6 @@ On paper, write six uses of a school computer — three allowed, three not allow
 ## Guard the room
 Walk around your classroom. Name everything that is protected, and what protects it. Say which protection is a thing and which is a rule.
 
+
+## Nine acts wall
+Write the nine guarded-against acts on nine cards. Pin them around a drawn computer. A partner points at a card; you give a one-line school example of that act being prevented.

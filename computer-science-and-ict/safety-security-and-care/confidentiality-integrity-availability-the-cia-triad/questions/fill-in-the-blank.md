@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is the three security requirements: confidentiality, integrity and availability. (Name the term.)
 **Answer: the CIA triad**
+
+**4.** Habit one: use ______ passwords.
+**Answer: strong**
+
+**5.** Protect your ______ — habit eight guards your identity online.
+**Answer: e-identity**

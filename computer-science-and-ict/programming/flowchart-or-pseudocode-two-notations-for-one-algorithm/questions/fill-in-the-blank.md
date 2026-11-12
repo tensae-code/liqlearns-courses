@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is closer to program instructions. (Name the term.)
 **Answer: pseudocode's strength**
+
+**4.** π is the circumference-to-______ ratio, about 3.14159.
+**Answer: diameter**
+
+**5.** Pseudocode's structured words state the major program ______.
+**Answer: functions**

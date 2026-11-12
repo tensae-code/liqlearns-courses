@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3.** True or false: flowchart's strength is the opposite: it has nothing to do with visually appealing and can be easier to understand.
 **Answer: False** — flowchart's strength is about visually appealing and can be easier to understand.
+
+**4.** Pseudocode commits the designer to one programming language.
+**Answer: False** — no commitment to any language.
+
+**5.** Pseudocode bridges best to code because it already follows the code's logic.
+**Answer: True** — the guide's keyed difference.

@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Building the chart** — Start and End terminators and the decision diamond 'Has the school a botanical garden?' with Yes and No arrows to the two process boxes.
 3. **Tracing and testing the chart** — the speed-check and sum-and-product practicals test the same skills on new problems.
 
+4. **Grade 10 worked flowcharts — add two numbers; positive or negative** — two complete Grade 10 solutions: the add-two-numbers chart from its algorithm description, and the sign test whose decision diamond splits the flow into two message paths
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Draw the garden-policy flowchart complete and correct.
 2. Trace both paths and say what each reaches.
 3. Build the speed-check and sum-and-product charts.
+4. Draw the add-two-numbers flowchart from its algorithm description.
+5. Draw the sign-test flowchart with its decision diamond and two message paths.
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -33,6 +37,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
    - ADD IMAGE [Picture 20932]: a picture of the garden-policy flowchart, complete — the student studies each part of the picture and names what it shows.
    - ADD GIF [GIF 20948]: a picture of a dot tracing the Yes path, then the No path, through the garden-policy chart — the student follows the dot down both paths and says which process each path reaches.
    - ADD AUDIO: a voice reading this lesson's key words aloud — the garden policy, the decision diamond's question, the speed-check bands, pair work in flowchart lessons — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15725]: a picture of the two finished Grade 10 flowcharts side by side, the second's diamond highlighted — the student traces both charts box by box.
+   - ADD GIF [GIF 15726]: a picture of the add-two-numbers chart building symbol by symbol in order — the student follows the flow as each box lands.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -44,6 +50,9 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - GIF [GIF 20948] — a picture of a dot tracing the Yes path, then the No path, through the garden-policy chart → the student follows the dot down both paths and says which process each path reaches.
 - AUDIO — a voice reading the key words aloud (the garden policy, the decision diamond's question, the speed-check bands, pair work in flowchart lessons) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15725] — the two Grade 10 worked flowcharts → the student traces both charts.
+- GIF [GIF 15726] — the chart building symbol by symbol (Grade 10) → the student follows the flow.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

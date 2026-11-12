@@ -184,3 +184,17 @@ and named in sources: "Figure 4.3 shows virtual meetings"
 (the figure is 4.4), "Create Motion Twee" for Tween,
 "contract" for "extract" in the unit overview. The
 course now stands at 337 lessons.
+
+**Band D5 (Grade 10, Units 5–6) — BUILT 2026-11-12:** 13 new
+lessons + 11 grown, 232 questions, 36 media filed
+(pictures/GIFs 15700–15735) — Security at Grade 10 depth
+(what insecurity costs society, privacy vs security,
+backup and firewall in Windows, antivirus, creating user
+accounts, cyber security) and programming grown up
+(algorithm characteristics, add/decide/loop writing,
+flowchart loops, the IDE and its kinds, the guide's worked
+problems). Book errors taught corrected and named in
+sources: the Figure 5.14 jump, "PROGRAMING" in the unit
+outcomes header, "fineness" for finiteness, the guide's
+"ambiguous" for unambiguous and "unaccusable" for
+inaccessible. The course now stands at 350 lessons.

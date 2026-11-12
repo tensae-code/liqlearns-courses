@@ -17,6 +17,9 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Define each leg of the CIA triad.
 2. Apply all three to the school marks example.
 3. Say what a triangle of triple constraints means: all three at once.
+4. Recite the nine habits against cyber-attack.
+5. Send each kind of trouble to the right help: police vs service provider/technician.
+6. Restate the triad as protection's three aims, with denial of service as availability's failure.
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +29,7 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20903]: a picture of the cia triangle — a mark sheet at its centre — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — confidentiality, integrity, availability, the CIA triad — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15716]: a picture of a nine-item checklist poster with a tenth line — police for crime, technician for repairs (Grade 10) — the student checks habits off and routes two troubles correctly.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +40,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20903] — a picture of the cia triangle — a mark sheet at its centre → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (confidentiality, integrity, availability, the CIA triad) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15716] — the nine habits poster (Grade 10) → the student checks habits off and routes troubles to the right help.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

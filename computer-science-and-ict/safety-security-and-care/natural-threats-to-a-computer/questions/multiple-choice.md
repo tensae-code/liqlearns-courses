@@ -25,3 +25,11 @@ a) water  b) the appropriate fire extinguisher  c) a blanket of paper  d) nothin
 **6.** Dust in a computer room matters because —
 a) it looks untidy  b) dust is kindling  c) it slows typing  d) it blocks Wi-Fi
 **Answer: b) dust is kindling**
+
+**7.** Non-technical prevention against natural disasters works by —
+a) stopping the disaster  b) careful planning that reduces the damage  c) buying more computers  d) ignoring the risk
+**Answer: b) careful planning that reduces the damage** — disasters cannot be prevented; damage can be reduced.
+
+**8.** Which is one of the three measures?
+a) keeping the computer in a secure location  b) deleting backups  c) leaving machines on the floor  d) sharing passwords
+**Answer: a) keeping the computer in a secure location** — with storing data safely and protecting programs and data.

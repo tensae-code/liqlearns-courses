@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is treat urgency, too-good-to-be-true offers and requests for personal information as suspicious — when in doubt, do not click. (Name the term.)
 **Answer: think before you click**
+
+**4.** Backup copies may live on an external hard drive, CD, flash memory or a ______ backup site.
+**Answer: cloud (online)**
+
+**5.** Non-technical prevention is keyed as administrative policies, procedures and ______ with assigned responsibilities.
+**Answer: standards**

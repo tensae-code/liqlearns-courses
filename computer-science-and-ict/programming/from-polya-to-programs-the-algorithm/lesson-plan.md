@@ -17,6 +17,9 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. State the computing four steps.
 2. Define an algorithm exactly, with its three marks: finite, unambiguous, clear start and end.
 3. Judge whether a set of instructions is an algorithm.
+4. Give the three definitions of an algorithm.
+5. Say what a program is: an algorithm converted into executable code.
+6. State that algorithms are language-independent, with the same output in any language.
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +29,7 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20927]: a picture of from polya to programs — 'plan' becomes 'algorithm' — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — an algorithm, the computing steps, unambiguous, finite — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15720]: a picture of a recipe card and a program listing side by side, both headed 'steps, in order, no guessing' (Grade 10) — the student matches recipe moves to algorithm moves.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +40,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20927] — a picture of from polya to programs — 'plan' becomes 'algorithm' → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (an algorithm, the computing steps, unambiguous, finite) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15720] — recipe and algorithm side by side (Grade 10) → the student matches the two step by step.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

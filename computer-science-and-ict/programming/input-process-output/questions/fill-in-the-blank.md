@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is the single-CPU information-processing model framing all the unit's problem solving. (Name the term.)
 **Answer: the IPO model**
+
+**4.** In the book's worked thread, A + B is stored into ______.
+**Answer: C**
+
+**5.** Step 4 expresses the algorithm in precise ______.
+**Answer: notation**

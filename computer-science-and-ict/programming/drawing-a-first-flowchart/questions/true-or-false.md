@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** True or false: the speed-check bands — 40 km/h and under is reasonable speed; 40–60 is medium — be careful; over 60 is excessive speed, high risk.
 **Answer: True**
+
+**4. (Sub lesson 4)** The add-two-numbers chart runs start → input → process → output → end.
+**Answer: True** — five symbols in that order.
+
+**5. (Sub lesson 4)** For x = 5 the sign test writes 'negative'.
+**Answer: False** — otherwise → not negative.

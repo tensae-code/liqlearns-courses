@@ -25,3 +25,15 @@ a) authorised use  b) unauthorised use  c) computer security  d) a network servi
 **6.** Computer security works in two directions —
 a) printing and scanning  b) preventing and detecting unauthorised use  c) buying and selling computers  d) typing and deleting
 **Answer: b) preventing and detecting unauthorised use**
+
+**7.** Information security defends information against —
+a) unauthorised access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction  b) dust and sunlight only  c) slow networks  d) homework
+**Answer: a) unauthorised access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction** — the nine acts, listed whole.
+
+**8.** Computer security is the same defence applied to —
+a) paper files only  b) computing devices and networks, including the whole internet  c) one classroom  d) printed books
+**Answer: b) computing devices and networks, including the whole internet** — private and public networks too.
+
+**9.** Facilities were traditionally protected to prevent —
+a) theft of or damage to hardware, theft of or damage to information, and disruption of service  b) visitors  c) lessons  d) repairs
+**Answer: a) theft of or damage to hardware, theft of or damage to information, and disruption of service** — the three reasons.

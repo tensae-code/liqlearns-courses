@@ -25,3 +25,15 @@ a) is the most powerful  b) lets anyone sign in, not recognised by name  c) need
 **6. (Sub lesson 1)** The protection this lesson teaches for accounts is —
 a) locks on the door only  b) passwords  c) fingerprints only  d) nothing
 **Answer: b) passwords** — passwords on user accounts.
+
+**7. (Sub lesson 3)** A user account is —
+a) a collection of settings and permissions deciding what its user can and cannot do  b) a folder of games  c) a password alone  d) a kind of cable
+**Answer: a) a collection of settings and permissions deciding what its user can and cannot do** — the Grade 10 definition.
+
+**8. (Sub lesson 3)** The account most users should hold is —
+a) Administrator  b) Standard  c) Guest  d) none
+**Answer: b) Standard** — everyday work, bounded power.
+
+**9. (Sub lesson 3)** The checking route goes —
+a) Windows icon → Control Panel → User Accounts → Add or Remove User Accounts  b) Settings → Update & Security → Windows Security  c) Start → Backup and Restore  d) File → Save As
+**Answer: a) Windows icon → Control Panel → User Accounts → Add or Remove User Accounts** — then review the accounts present.

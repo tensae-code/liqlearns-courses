@@ -17,6 +17,9 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. State the IPO model.
 2. Map the average example onto it step by step.
 3. Label input, process and output in new examples.
+4. List the seven problem-solving steps in order.
+5. Write an everyday act as an algorithm (the book's activity).
+6. State the guide's five steps and the input–process–output skeleton (teacher guide — evidence).
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +29,9 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20929]: a picture of input, process, output — keyboard, cpu, screen — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — input, process, output, the IPO model — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15717]: a picture of a seven-step staircase from 'understand the problem' to 'expected result', with A + B = C as its worked thread (Grade 10) — the student climbs the staircase naming each step.
+   - ADD IMAGE [Picture 15719]: a picture of five step-cards over an input → process → output strip (teacher guide — evidence) — the student maps the average-of-three example onto the strip.
+   - ADD GIF [GIF 15718]: a picture of the values A and B flowing into an 'add' box and C flowing out (Grade 10) — the student names input, process and output as the values move.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +42,10 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20929] — a picture of input, process, output — keyboard, cpu, screen → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (input, process, output, the IPO model) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15717] — the seven steps staircase (Grade 10) → the student climbs it naming each step.
+- IMAGE [Picture 15719] — five steps over the IPO strip (teacher guide — evidence) → the student maps the average of three onto it.
+- GIF [GIF 15718] — A and B flowing in, C flowing out (Grade 10) → the student names the stages as values move.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

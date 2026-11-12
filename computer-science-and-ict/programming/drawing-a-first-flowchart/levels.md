@@ -11,3 +11,6 @@ Sub lesson 2 questions from the type files. Pass mark: the learner can draw the 
 ## Sub lesson 3 — Tracing and testing the chart
 Sub lesson 3 questions from the type files. Pass mark: the learner can trace both paths and build the two practical charts.
 
+
+## Sub lesson 4 — Grade 10 worked flowcharts — add two numbers; positive or negative
+Sub lesson 4 questions from the type files. Pass mark: draw both Grade 10 charts from their descriptions and trace the diamond's two paths with a finger, naming each message.

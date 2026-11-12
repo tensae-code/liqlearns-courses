@@ -17,6 +17,9 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Define security and computer security in your own words.
 2. Say what 'unauthorised' means, with the textbook example.
 3. Name INSA and its job.
+4. Define information security with its nine guarded-against acts.
+5. Define computer security as the same defence over devices, networks and the whole internet.
+6. State the three traditional reasons facilities are protected.
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +29,7 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20900]: a picture of a shield over a computer — insa guards the country — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — security, computer security, unauthorised use, INSA — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15700]: a picture of a shield over a computer and its files with the three protected things listed around it — the student reads the three and matches each to the definition.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +40,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20900] — a picture of a shield over a computer — insa guards the country → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (security, computer security, unauthorised use, INSA) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15700] — the shield over hardware, information and service (Grade 10) → the student matches the three protected things to the definitions.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

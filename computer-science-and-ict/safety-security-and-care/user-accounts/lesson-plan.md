@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Computer security and the account** — security protects against theft of and damage to hardware and information, and disruption of service; an account is a user name plus password for logging in
 2. **The three kinds of account** — Administrator controls the whole computer; Standard does everyday tasks without installing; Guest is anyone, not recognised by name
 
+3. **The accounts at Grade 10 depth — powers, and checking who is there** — the account as settings and permissions; the three types tabled by power, with the daily-use warning; and the route for checking existing accounts
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Define a user account: user name plus password.
 3. Give each account kind's powers and limits.
 4. Say which account everyday work belongs on.
+5. Define a user account as settings and permissions.
+6. Give the Grade 10 powers table for Administrator, Standard and Guest.
+7. Run the account-checking route in order.
 
 ## What you need
 A computer with user accounts if you can look at one; paper and a pencil.
@@ -31,6 +36,7 @@ A computer with user accounts if you can look at one; paper and a pencil.
 1. **Do it first** — the learner thinks of a shared school computer and what could go wrong if everyone could do everything on it (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10524]: a picture of three account cards ranked by what each may do — the student reads each card and ranks the three by power.
+   - ADD IMAGE [Picture 15710]: a picture of three account cards ranked by power, the Guest card marked 'no privacy', with the checking route under them (Grade 10) — the student runs the route and ranks the cards.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -40,6 +46,8 @@ A computer with user accounts if you can look at one; paper and a pencil.
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10524] — a picture of three account cards ranked by what each may do → the student reads each card and ranks the three by power.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15710] — the Grade 10 account cards and checking route → the student runs the route and ranks the cards.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

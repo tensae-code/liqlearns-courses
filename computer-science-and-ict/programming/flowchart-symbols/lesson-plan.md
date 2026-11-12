@@ -17,6 +17,8 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Name the seven symbols and each one's job.
 2. Choose the right symbol for a given step.
 3. Say where terminators always appear.
+4. Say why natural language cannot carry an algorithm, and name the two precise representations.
+5. Define a flowchart: boxes joined by arrows showing information and control flow.
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +28,7 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20931]: a picture of flowchart symbols — the seven, labelled — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — the terminator, the decision diamond, the input/output symbol, the connector — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15724]: a picture of the Grade 10 symbol set as a labelled legend — oval, parallelogram, rectangle, diamond, and the joining arrow — the student names each symbol and its job.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +39,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20931] — a picture of flowchart symbols — the seven, labelled → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (the terminator, the decision diamond, the input/output symbol, the connector) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15724] — the Grade 10 symbol legend → the student names each symbol and its job.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

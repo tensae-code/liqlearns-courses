@@ -10,3 +10,9 @@ Fill each blank with the right word or words.
 
 **3.** _____ is an algorithm ends — it does not run forever. (Name the term.)
 **Answer: finite**
+
+**4.** An algorithm transforms ______ into output.
+**Answer: input**
+
+**5.** One definition calls an algorithm a ______ step-by-step procedure.
+**Answer: finite**

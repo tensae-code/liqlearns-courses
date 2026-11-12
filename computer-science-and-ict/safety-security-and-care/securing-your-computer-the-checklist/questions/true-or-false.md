@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3.** True or false: daily scans and backups is the opposite: it has nothing to do with daily full system scans, and a periodic backup schedule so data is retrievable.
 **Answer: False** — daily scans and backups is about daily full system scans, and a periodic backup schedule so data is retrievable.
+
+**4.** Making old computers' hard drives unreadable is one of the guide's seven ways to protect data.
+**Answer: True** — keyed in the guide's list.
+
+**5.** User accounts are a non-technical prevention measure.
+**Answer: False** — creating and changing user accounts sits in the technical table.

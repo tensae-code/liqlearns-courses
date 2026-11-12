@@ -14,6 +14,18 @@ One school computer, thirty pupils, and everyone able to do everything — insta
 
 Windows offers three kinds. The **Administrator** controls the whole computer: can install programs and let others use the machine. A **Standard** account is for everyday tasks: it runs existing programs, but **cannot install programs or make big changes**. A **Guest** account lets anyone sign in — the guest is **not recognised by name**. Power is given by need: the administrator holds the keys because someone must; everyone else works safely inside limits.
 
+## Sub lesson 3 — The accounts at Grade 10 depth — powers, and checking who is there
+
+Grade 10 redefines the account: a **user account** is the **collection of settings and permissions deciding what its user can and cannot do**, protecting that user's files and folders from others. The three Windows types, tabled by power:
+
+- **Administrator** — access to **everything**: installs software, changes security settings, creates and manages users. The **first account made when Windows 10 is installed** is one — but **daily use should not be the administrator account**.
+- **Standard** — **everyday work** and personalising (screensaver, theme), but **no access to others' files** and no big changes — **the account most users should hold**.
+- **Guest** — for **temporary users**, **one per computer**, with **no privacy** since anyone can sign in; access to installed programs but not to others' personal folders; common in **internet cafés**.
+
+**Checking existing accounts** runs, in order: click the **Windows icon** → type **Control Panel** → open it → **User Accounts** → **Add or Remove User Accounts** → review the accounts present. Changes need administrator access; without it, the contact is the **local administrator or service provider**.
+
+[Picture 15710 — the three accounts at Grade 10, and the checking route]
+
 ## Say it to your companion
 
 Tell your companion the three account kinds, from most power to least, with one power and one limit for each.

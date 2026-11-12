@@ -8,3 +8,6 @@ Take the printed checklist to a real computer. Tick what is done, cross what is 
 ## Too-good-to-be-true drill
 Write three scam-style messages using urgency and prizes. A partner marks the suspicion signs in each.
 
+
+## Wall inspection
+Walk the school computer room with the seven-brick list. Tick each brick the room actually has; write the missing bricks as a one-page report for the school.

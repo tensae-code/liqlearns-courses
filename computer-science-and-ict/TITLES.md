@@ -413,3 +413,21 @@ Grown by band D2 (Grade 10 depth added, not duplicated): `networks/wired-and-wir
 - Multimedia and hypermedia — linear vs linked — `multimedia/multimedia-and-hypermedia-linear-vs-linked/`
 
 Grown by band D4 (Grade 10 depth added, not duplicated): `multimedia/multimedia-many-forms-one-presentation/` (Grade 10 opening, printed pp. 139–140).
+
+**Band D5 — Grade 10 Units 5–6 (Security; Fundamentals of Programming), 13 new lessons:**
+
+- What insecurity costs — impact on society — `safety-security-and-care/what-insecurity-costs-society/`
+- Privacy and security — rights vs locks — `safety-security-and-care/privacy-and-security-rights-and-locks/`
+- Backup and firewall in Windows — `safety-security-and-care/backup-and-firewall-in-windows/`
+- Antivirus software — scan, detect, remove — `safety-security-and-care/antivirus-software-scan-detect-remove/`
+- Creating a new user account — `safety-security-and-care/creating-a-new-user-account/`
+- Cyber security — defending everything connected — `safety-security-and-care/cyber-security-defending-everything-connected/`
+- What makes an algorithm good — six characteristics — `programming/what-makes-an-algorithm-good-six-characteristics/`
+- Writing algorithms — add, decide, loop — `programming/writing-algorithms-add-decide-loop/`
+- Loops in flowcharts — initialise, compute, test, increment — `programming/loops-in-flowcharts-initialise-compute-test-increment/`
+- The IDE — one home for editing, compiling, debugging — `programming/the-ide-one-home-for-editing-compiling-debugging/`
+- Benefits of an IDE — set up fast, work fast, learn, match — `programming/benefits-of-an-ide-set-up-fast-work-fast-learn-match/`
+- Kinds of IDE — multi-language, mobile, HTML, cloud — `programming/kinds-of-ide-multi-language-mobile-html-cloud/`
+- Writing algorithms — worked problems — `programming/writing-algorithms-worked-problems/`
+
+Grown by band D5 (Grade 10 depth added, not duplicated): `safety-security-and-care/what-security-and-computer-security-mean/`; `safety-security-and-care/malware-trojans-viruses-worms-spyware-ransomware/`; `safety-security-and-care/securing-your-computer-the-checklist/`; `safety-security-and-care/user-accounts (+ new Sub lesson 3)/`; `safety-security-and-care/natural-threats-to-a-computer/`; `safety-security-and-care/confidentiality-integrity-availability-the-cia-triad/`; `programming/input-process-output/`; `programming/from-polya-to-programs-the-algorithm/`; `programming/flowchart-symbols/`; `programming/drawing-a-first-flowchart (+ new Sub lesson 4)/`; `programming/flowchart-or-pseudocode-two-notations-for-one-algorithm/`.

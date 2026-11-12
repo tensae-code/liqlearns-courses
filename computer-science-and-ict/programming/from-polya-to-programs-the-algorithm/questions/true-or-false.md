@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3.** True or false: unambiguous is the opposite: it has nothing to do with each instruction means exactly one thing — no gaps to fall into.
 **Answer: False** — unambiguous is about each instruction means exactly one thing — no gaps to fall into.
+
+**4.** A well-written algorithm is free of logic errors.
+**Answer: True** — and easy to code in any high-level language.
+
+**5.** An algorithm is tied to one programming language.
+**Answer: False** — language-independent plain instructions.

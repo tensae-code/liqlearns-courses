@@ -17,6 +17,8 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 1. Recite the book's seven securing steps.
 2. Apply the teacher's longer checklist to your own accounts and devices.
 3. Run the checklist on a real machine and report what was missing.
+4. Split prevention into technical and non-technical, and list the seven technical measures.
+5. Name copy protection's four components and the guide's seven ways to protect data (teacher guide — evidence).
 
 ## What you need
 Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one is available — paper works too.
@@ -26,6 +28,8 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 20920]: a picture of securing your computer — the checklist poster — the student studies each part of the picture and names what it shows.
    - ADD AUDIO: a voice reading this lesson's key words aloud — the firewall, the password rule here, daily scans and backups, think before you click — the student listens, then says each word and what it means.
+   - ADD IMAGE [Picture 15704]: a picture of a defence wall of seven labelled bricks — backup, UPS, antispyware, firewall, encryption, antivirus, user accounts — the student names each brick's job.
+   - ADD IMAGE [Picture 15705]: a picture of a file wearing four guards — key, rights shield, licence badge, watermark (teacher guide — evidence) — the student names each guard.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +40,9 @@ Paper and a pencil. Where the lesson is a doing-lesson, a school computer if one
 - IMAGE [Picture 20920] — a picture of securing your computer — the checklist poster → the student studies each part of the picture and names what it shows.
 - AUDIO — a voice reading the key words aloud (the firewall, the password rule here, daily scans and backups, think before you click) → the student listens and repeats each word with its meaning.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
+
+- IMAGE [Picture 15704] — the seven-brick technical wall (Grade 10) → the student names each brick's job.
+- IMAGE [Picture 15705] — copy protection's four guards (teacher guide — evidence) → the student names each guard.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

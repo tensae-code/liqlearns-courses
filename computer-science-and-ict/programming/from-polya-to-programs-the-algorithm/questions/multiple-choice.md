@@ -25,3 +25,19 @@ a) understand  b) make a plan becomes develop an algorithm  c) execute  d) revie
 **6.** Instructions that could mean two different things fail the algorithm test of being —
 a) finite  b) unambiguous  c) written  d) numbered
 **Answer: b) unambiguous**
+
+**7.** An algorithm is —
+a) a sequence of unambiguous, step-by-step instructions  b) any list of words  c) a computer brand  d) a kind of cable
+**Answer: a) a sequence of unambiguous, step-by-step instructions** — precise, and in order.
+
+**8.** A program is —
+a) an algorithm converted into code a computer can execute  b) a printed recipe  c) a flowchart symbol  d) an input device
+**Answer: a) an algorithm converted into code a computer can execute** — the algorithm, made executable.
+
+**9.** The same algorithm in two different languages gives —
+a) different outputs  b) the same output  c) no output  d) an error
+**Answer: b) the same output** — algorithms are language-independent.
+
+**10.** The book's teaching analogy compares an algorithm to —
+a) a map  b) a recipe for doro wot, followed step by step  c) a song  d) a photograph
+**Answer: b) a recipe for doro wot, followed step by step** — read the steps, execute in sequence.

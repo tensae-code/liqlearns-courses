@@ -10,3 +10,12 @@ Say whether each statement is true or false.
 
 **3.** True or false: output is the opposite: it has nothing to do with what the computer produces — images, text and sound.
 **Answer: False** — output is about what the computer produces — images, text and sound.
+
+**4.** A computer does only what it is told.
+**Answer: True** — the unit's opening fact.
+
+**5.** Writing the steps of cooking shiro wot produces an algorithm.
+**Answer: True** — the book's opening activity.
+
+**6.** The seven steps end with the instructions executing to the expected result.
+**Answer: True** — step seven.

@@ -8,3 +8,6 @@ In pairs: one draws a 4-step algorithm as shapes, one writes it as pseudocode. S
 ## Reader test
 Show both forms to someone outside the class. Ask which they understood faster, and why.
 
+
+## Three ways for one problem
+Take 'area of a rectangle'. Produce all three: flowchart, pseudocode, and the first lines of any code you know — steps aligned across the three, as in Picture 15729.
