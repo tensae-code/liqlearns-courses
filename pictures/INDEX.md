@@ -1416,6 +1416,11 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11716 | pictures/11716.webp | two flags facing across Africa, aid and arms arrows crossing | Social Studies — The Modern World — The Cold War — What It Was and What It Did to Africa |
 | 11717 | pictures/11717.gif | a ship's line circling a globe and closing on Spain | Social Studies — The Modern World — Exploration — Columbus, Vespucci and Magellan |
 | 11718 | pictures/11718.gif | a steam piston driving a factory shaft | Social Studies — The Modern World — The Industrial Revolution — What Changed and Why England First |
+| 12033 | pictures/12033.webp | CV in its five sections | Career and Technical Education — Getting Hired — Your CV |
+| 12034 | pictures/12034.webp | one-page business plan template | Career and Technical Education — Starting a Business — The Business Plan — Money, Marketing and Backup |
+| 12047 | pictures/12047.gif | coins dropping into a saving pot, fill rising per cycle | Career and Technical Education — Starting a Business — Saving — the Entrepreneur's Own Funding |
+| 12048 | pictures/12048.gif | interview question bubble grows from the employer, answer bubble replies from the candidate | Career and Technical Education — Getting Hired — The Job Interview |
+| 12049 | pictures/12049.webp | employability's four supports | Career and Technical Education — Getting Hired — Employability — Ready for Work |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |

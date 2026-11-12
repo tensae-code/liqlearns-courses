@@ -23,3 +23,15 @@ full book list, the two truncated image-only teacher guides
 
 Building — Ethiopia Wave 3 (CTE, Grades 7–8).
 Band records land here as each band is built and verified.
+
+- **Getting Hired + Starting a Business — BUILT** (Grade 7
+  student Units 6–8 + Grade 8 student Units 5–7; no
+  teacher-guide placements exist for these units and none is
+  claimed): Getting Hired 12 lessons, 125 questions; Starting a
+  Business 8 lessons, 85 questions. Pictures 12033 + 12034 +
+  12049, GIFs 12047 (saving pot) + 12048 (interview bubbles),
+  both frame-checked; all other slots described-only. Grade 8's
+  deeper treatment sits inside the same lessons as later
+  "Deeper" sub lessons. The G8 Unit 6 review's swapped
+  gossip/dissatisfaction definitions are taught corrected and
+  named in the sources.
