@@ -641,3 +641,37 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - From .py to .pyc to the PVM — how Python runs — `programming/from-py-to-pyc-to-the-pvm-how-python-runs/`
 - Bugs and debugging — turning on [DEBUG ON] — `programming/bugs-and-debugging-turning-on-debug-on/`
 - Breakpoints and stepping — hunting a TypeError — `programming/breakpoints-and-stepping-hunting-a-typeerror/`
+
+**Band F1 — Grade 12 Unit 1 (Information Systems and Their Applications), 31 new lessons:**
+
+- Ethics and law in information systems — `computers-in-society/ethics-and-law-in-information-systems/`
+- Privacy — your data spread across systems — `computers-in-society/privacy-your-data-spread-across-systems/`
+- Digital ownership — ask the creator first — `computers-in-society/digital-ownership-ask-the-creator-first/`
+- Information gathering — check the request before you answer it — `computers-in-society/information-gathering-check-the-request/`
+- Security breaches, liability and reporting them — `computers-in-society/security-breaches-liability-and-reporting-them/`
+- How information systems change society — gains and problems — `computers-in-society/how-information-systems-change-society/`
+- Screens and socialising — the family and café problem — `computers-in-society/screens-and-socialising/`
+- Cyberbullying — hurtful content and exposed private information — `computers-in-society/cyberbullying-hurtful-content-online/`
+- Social media and gaming addiction — `computers-in-society/social-media-and-gaming-addiction/`
+- Plagiarism — other people's work is not yours — `computers-in-society/plagiarism-other-peoples-work-is-not-yours/`
+- Cybercrime — and defending your country's digital resources — `computers-in-society/cybercrime-and-defending-digital-resources/`
+- Automation, lost jobs and new skills — `computers-in-society/automation-lost-jobs-and-new-skills/`
+- E-waste — what is inside a thrown-away device — `computers-in-society/e-waste-what-is-inside-a-thrown-away-device/`
+- Green technology and paperless systems — `computers-in-society/green-technology-and-paperless-systems/`
+- Health effects of information systems — benefits and harms — `computers-in-society/health-effects-of-information-systems/`
+- Intellectual property — owning a creative work — `computers-in-society/intellectual-property-owning-a-creative-work/`
+- Trade secrets — valuable information kept confidential — `computers-in-society/trade-secrets-valuable-information-kept-confidential/`
+- Patents — an exclusive right for an invention — `computers-in-society/patents-an-exclusive-right-for-an-invention/`
+- Copyright — automatic protection for original works — `computers-in-society/copyright-automatic-protection-for-original-works/`
+- Trademarks — the sign that tells enterprises apart — `computers-in-society/trademarks-the-sign-that-tells-enterprises-apart/`
+- Digital identity — your information that exists online — `computers-in-society/digital-identity-your-information-online/`
+- Digital identity management — limit, check and correct your data — `computers-in-society/digital-identity-management-limit-check-correct/`
+- The National ID project and Digital Ethiopia 2025 — `computers-in-society/the-national-id-project-and-digital-ethiopia-2025/`
+- Digital collaboration — working together through technology — `computers-in-society/digital-collaboration-working-together-through-technology/`
+- Digital collaboration components — people first — `computers-in-society/digital-collaboration-components-people-first/`
+- Collaborative tools — communication, files, projects, charts and notes — `computers-in-society/collaborative-tools-five-kinds/`
+- Digital collaboration components — devices are the connection — `computers-in-society/digital-collaboration-components-devices/`
+- Collaborating on a shared document — group practical — `computers-in-society/collaborating-on-a-shared-document-group-practical/`
+- Digital citizenship — active and thoughtful, not just careful — `computers-in-society/digital-citizenship-active-and-thoughtful/`
+- Raising a national voice online — the GERD campaign — `computers-in-society/raising-a-national-voice-online-the-gerd-campaign/`
+- Mobile health — care delivered by phone (guide-only, teacher evidence) — `computers-in-society/mobile-health-care-delivered-by-phone/`

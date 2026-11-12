@@ -405,3 +405,35 @@ keys as the build's answer source. **Grade 12 Units
 2, 4 and 6 now stand built; Units 1, 3 and 5 follow
 in Bands F1, F3 and F5.** The course now stands at
 519 lessons.
+
+**Band F1 (Grade 12, Unit 1) — BUILT 2026-11-12:** 31 new
+lessons, 372 questions, 45 media filed (pictures/GIFs
+29700–29744) — Information Systems and Their
+Applications in the Computers in Society title:
+ethics and law, privacy, ownership, information
+gathering and consent, security breaches with INSA
+reporting, society's gains and problems, socialising,
+cyberbullying, addiction, plagiarism, cybercrime,
+automation and jobs, e-waste, green technology,
+health effects, intellectual property (trade secrets,
+patents, copyright, trademarks), digital identity and
+the National ID project, digital collaboration with
+its group practical, digital citizenship and the
+GERD campaign — plus ONE guide-only lesson, Mobile
+health, standing on teacher evidence alone with
+acceptance count 0. All new: the Grade 11 society
+lessons named as growth targets do not exist in the
+tree, so nothing was grown and nothing duplicated.
+Book disagreements taught as printed and flagged in
+sources: INSA "Agency" (student book) vs
+"Administration" (guide); the IP "Office" (student,
+eipo.gov.et) vs "Authority" (guide); "Asena" printed
+for Asana (p.20); Brainstorming 1.7 numbered twice,
+the "(IR)" competency and the guide's copy-pasted
+Discussion strategy. Teacher evidence throughout:
+online-banking risk, the monitoring debate, the
+five-step plagiarism method, jobs lost and made,
+the fuller health chain, the patent/trademark
+distinction, the three-way IP comparison table, the
+Ambassador competition. The course now stands at
+550 lessons.
