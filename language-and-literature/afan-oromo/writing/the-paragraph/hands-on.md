@@ -10,3 +10,4 @@ Paragraphs from the class's own writing are pinned around the room, their topic 
 
 ## Elephant watch
 From the guide's model as told in the lesson — elephants greeting with entwined trunks, mourning their dead, drawing water — pairs write their own one-idea paragraph about an animal they know, then swap and hunt each other's three parts.
+- **Write the market (sub lesson 4, G7 supplement).** The market picture (12501) is shown to the whole class: learners first point and name everything in it aloud, then write their three-paragraph text from it — scene, happenings, message — and swap texts to check: can your partner point at everything you named? Punctuation and capitals are checked last, in pairs.

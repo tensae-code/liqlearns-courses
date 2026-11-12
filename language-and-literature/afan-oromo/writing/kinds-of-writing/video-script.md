@@ -13,3 +13,6 @@ Door three — a life: **seenaa jireenyaa**. Yours — or another's!
 Door four — change a mind: **barruu amansiisaa**. Reasons — then the ask!
 
 Four kinds of writing. You can write them all!
+
+Door five — the poem! **Walaloo** — a topic given, the figures shining: **malleen dubbii**!
+Write it. Stand. Read it aloud. Hear the class — and make it stronger.

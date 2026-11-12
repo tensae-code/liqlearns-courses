@@ -25,6 +25,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 1. **What a paragraph is** — paragraph writing (keeyyata) taught explicitly: a paragraph is the smallest unit of writing carrying one idea, built of a topic sentence (hima ijoo), supporting sentences and a concluding sentence (Grade 7 guide, Ch. 1).
 2. **Where the topic sentence stands** — the topic sentence can stand at the start, middle, end, or start-and-end of the paragraph; the guide's model paragraph — elephants greeting, mourning and drawing water (Grade 7 guide, Ch. 1, summary only).
 3. **Paragraphs on social topics** — learners compose a three-paragraph text on given topics and build functional sentences (himoota tajaajila) (Grade 7 guide, Ch. 7).
+4. **Writing from a picture** — the message of a picture (ergaa fakkiiwwanii) written as a three-paragraph text, the picture read both ways, punctuation and capitalisation checked (Grade 7 guide, Ch. 9, Exercise 8 and the writing teaching text; G7 supplement, built 2026-11-12 from the completed re-read).
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -39,13 +40,14 @@ the gate pool.
 2. Name its three parts: topic sentence (hima ijoo), supporting sentences, concluding sentence.
 3. Say the four places a topic sentence can stand: start, middle, end, start-and-end.
 4. Write a three-paragraph text on a social topic, building functional sentences (himoota tajaajila).
+5. Write a three-paragraph text from a picture — its message (ergaa fakkiiwwanii) — and check its punctuation and capital letters.
 
 ## What you need
 Paper and a pencil.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner reads a wall of sentences with no breaks and feels where the ideas change — that feeling is the paragraph (lesson/lesson.md).
-2. **The explanation** — the paragraph taught explicitly as the Grade 7 guide teaches it: its definition, its three parts, the topic sentence's four standings; the model paragraph; then paragraphs on social topics (lesson/lesson.md).
+2. **The explanation** — the paragraph taught explicitly as the Grade 7 guide teaches it: its definition, its three parts, the topic sentence's four standings; the model paragraph; then paragraphs on social topics; and (the supplement) a whole text grown from a picture (lesson/lesson.md).
    - ADD IMAGE [IMAGE 9947] in Sub lesson 1: a picture of a paragraph drawn as three stacked blocks — the topic sentence block at the top labelled hima ijoo, supporting sentence blocks in the middle, the concluding sentence block at the base — with a small side panel showing the topic sentence in its four standings — the student points to each block and names its part before writing a paragraph of their own.
    - ADD AUDIO in Sub lesson 2: a voice reading a short paragraph slowly, sentence by sentence — the student listens and marks where the topic sentence stands — start, middle, end, or start-and-end.
 3. **Say it to your companion** — hunt each other's topic sentences — read a paragraph and point to where its hima ijoo stands (lesson/lesson.md).

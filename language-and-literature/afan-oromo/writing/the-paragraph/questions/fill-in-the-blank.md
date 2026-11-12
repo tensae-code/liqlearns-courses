@@ -17,3 +17,6 @@ Fill each blank with the right word.
 
 **4. (Sub lesson 2)** A topic sentence that opens the paragraph and returns to close it stands at the ______.
 **Answer: start-and-end.**
+
+**5. (Sub lesson 4)** Writing the message of a picture is called ergaa ______.
+**Answer: fakkiiwwanii** — a text grown from a picture, the book's Exercise 8 task.

@@ -15,3 +15,6 @@ Write what each prompt asks.
 
 **4. (Sub lesson 4)** Write a persuasive paragraph: learners should read every day.
 **A good answer:** at least two reasons standing in a row, and the ask last.
+
+**5. (Sub lesson 5)** Write a short poem (walaloo) on a topic of your choice — four to eight lines, lines gathered in stanzas, each line beginning with a capital. Work in at least two figures of speech and name them in the margin. Under the poem, write one piece of feedback you would act on to strengthen it.
+**Answer guidance: the book's Exercise 7 shape (printed p. 135): a poem on a topic, figures of speech used (malleen dubbii — the toolbox is Word — Figures of Speech), presented aloud, feedback taken.**

@@ -12,3 +12,6 @@ Write what each prompt asks.
 
 **3. (Sub lesson 3)** Write a three-paragraph text on the topic: neighbours helping each other.
 **A good answer:** three paragraphs, one idea each, each with its topic sentence findable.
+
+**4. (Sub lesson 4)** Write a three-paragraph text from the market picture (Picture 12501): paragraph one sets the scene, paragraph two walks through the happenings detail by detail, paragraph three gives the picture's message. Check every full stop and capital letter when you finish.
+**Answer guidance: three paragraphs in the book's shape; every named thing pointable in the picture; punctuation and capitalisation checked (the guide's Exercise 8 task, printed p. 125, with its writing teaching text at printed p. 130).**

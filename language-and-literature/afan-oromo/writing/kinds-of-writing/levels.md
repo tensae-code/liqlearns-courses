@@ -18,3 +18,6 @@ Sub lesson 3 questions from the type files. Pass mark: write a short life story 
 ## Sub lesson 4 — Persuasive writing — barruu amansiisaa
 Sub lesson 4 questions from the type files. Pass mark: write a persuasive paragraph with at least two reasons standing before its ask.
 
+## Sub lesson 5 — Writing a poem — walaloo (G7 supplement, 2026-11-12)
+Sub lesson 5 questions from the type files. Pass mark: write a poem on a given topic using at least two figures of speech (malleen dubbii), present it to the class, and name one thing the feedback changed.
+

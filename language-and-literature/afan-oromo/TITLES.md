@@ -26,6 +26,7 @@
 - Animals — `animals`
 - My Body and the Senses — `my-body-and-the-senses`
 - Word Play — `word-play`
+- Figures of Speech — Malleen Dubbii — `figures-of-speech`
 
 ## Unit 4 — Sentence (`sentence`)
 - Persons and Pronouns — `persons-and-pronouns`
@@ -35,6 +36,8 @@
 - Joining Sentences — `joining-sentences`
 - Cause and Effect — `cause-and-effect`
 - Doubled Letters in Words — `doubled-letters-in-words`
+- Complex Sentences — Himoota Xaxamoo — `complex-sentences`
+- Connectives — Walqabsiistota — `connectives`
 
 ## Unit 5 — Speaking (`speaking`)
 - Introducing Yourself — `introducing-yourself`
@@ -59,3 +62,6 @@
 - Listening to Rivers — `listening-to-rivers`
 - Listening to History and Heroes — `listening-to-history-and-heroes`
 - Listening to Stories and Talk — `listening-to-stories-and-talk`
+- Farruu Qotiyyoo — `farruu-qotiyyoo`
+- Afwalaloo — Oral Poetry — `afwalaloo`
+- The Kinds of Afwalaloo — `kinds-of-afwalaloo`

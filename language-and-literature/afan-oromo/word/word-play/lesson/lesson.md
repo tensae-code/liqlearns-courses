@@ -54,6 +54,32 @@ And the day has its **action words**, learned from pictures — the hygiene set:
 
 A web for things, a set for actions — carry both, and the Word title is complete.
 
+## Sub lesson 6 — Vocabulary in use
+
+The Grade 7 book's Chapter 9 ends by putting its whole word-hoard to **work** — its answer keys are a lesson in themselves, in three kinds of work. [Picture 12502 — "Bishaan ol hinyaa'u…" and "…jette harreen": two halves of a saying joining into one.]
+
+**Finish the idiom.** Saying-phrases wait for their missing ends; the book's key completes them: **…hinfuudhani**; **ilma afaan hinurgaahu**; **halkan beekkachiise**; **kan barana jedhe hinoolu**; **ollaan birmata**; and the donkey's famous word — **"bishaan ol hinyaa'u," jette harreen** — *"water doesn't flow upward," said the donkey.*
+
+**Verbs in their present dress.** The chapter's verbs, in the present-tense forms the key uses: **nicaraana, ni aada, niyuusa, niharqa, nibukumsa, nikorrisa, niqasaati / kofalti, niwacci, ni iyya, nikaakkisti** — hear how each one carries the *ni-* of the present.
+
+**Synonym sets, sorted.** The chapter's same-meaning words: **ciibsata; gaana; goromtii; maseena / dhabduu; daa'ima; qubeellaa; Amartii; lootii** — each standing beside the word it matches in the chapter's talk.
+
+**Meanings from the sentence — hiika galumsaa.** And the chapter review's last skill: a word's meaning is settled by the sentence it stands in. The review sets sixteen sentences asking exactly that — what does this word mean HERE? The context decides, exactly as it did in sub lesson 3.
+
+### Now you try
+
+Complete it, and say who "said" it: "Bishaan ol hinyaa'u…" *(Answer: "…jette harreen" — the donkey said it.)*
+
+## Sub lesson 7 — More words of the same meaning
+
+Chapter 10 — the oral-poetry chapter — keeps a synonym hoard of its own (its Exercise 8). Learn the set: **weedduu** (the song of longing itself); **sakaaluu = takaaluu** — one word in two dresses, the pair this sub lesson's picture is built on [Picture 12503 — sakaaluu = takaaluu, two word cards of the same meaning]; **gorora; gosa; danqaraa; gatii; kaarruu; gufuun; magaala; maraachaa**.
+
+You will meet *weedduu* again as a kind of afwalaloo in the listening lessons. And the same exercise asks you to sort sayings by their **figures of speech** — that sorting lives whole in the Figures of Speech lesson (sub lesson 4), where the toolbox is taught one figure at a time.
+
+### Now you try
+
+Which two words in the set are one word in two dresses? Then use **gatii** in a sentence of your own. *(Answer: sakaaluu = takaaluu.)*
+
 ## Say it to your companion
 
 Opposites duel: one fires a word, the other must answer its opposite within three heartbeats — furdaa! qallaa! Then the web game: one names the centre (meeshaalee barnootaa), the other must hang three materials on it. Last, mime a hygiene action; its Afaan Oromoo name is the prize.

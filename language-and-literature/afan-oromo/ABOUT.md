@@ -27,6 +27,18 @@ book list (books.json) credits these guides to an "Oromia
 Education Bureau". That line is wrong — the guides are Addis
 Ababa (Finfinnee) bureau books, and the lessons cite them so.
 
+**One supplement, from a completed re-read.** The Grade 7
+guide's placements file first reached the builders cut off
+inside Chapter 9; a full re-read on 2026-11-12 completed it
+(Chapter 9's tail and the whole of Chapter 10 — the
+oral-poetry chapter), and a supplement was built from those
+eleven placements the same day: six new lessons and five new
+sub lessons, listed in CURRICULUM.md. The Chapter 10 reading
+(a childhood remembered) is stocked by its answer keys only —
+the reading's own text is not printed in the guide, and the
+praise song of the plough-ox is carried as a summary, its
+text staying in the guide for the teacher to sing from.
+
 **The two framings are kept apart.** The Grade 3/4 guides teach
 the language to learners who speak another language first; the
 Grade 7 guide teaches children who already speak it at home.

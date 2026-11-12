@@ -15,3 +15,6 @@ Sub lesson 2 questions from the type files. Pass mark: name the four standings, 
 ## Sub lesson 3 — Paragraphs on social topics
 Sub lesson 3 questions from the type files. Pass mark: compose a three-paragraph text on a given topic — one idea per paragraph — and mark each topic sentence.
 
+## Sub lesson 4 — Writing from a picture (G7 supplement, 2026-11-12)
+Sub lesson 4 questions from the type files. Pass mark: write a three-paragraph text from a picture — the picture's message (ergaa fakkiiwwanii) — with every named thing pointable in the picture, and punctuation and capitals checked.
+

@@ -25,3 +25,10 @@ a) Habit-forming  b) A kind of boat  c) A lake  d) A colour
 **6. (Sub lesson 6)** In the work reading, the reader names the reading's words and —
 a) Sings them  b) Answers questions from the reading  c) Forgets them  d) Draws a boat
 **Answer: b) Answers questions from the reading**
+
+**7. (Sub lesson 7)** The childhood reading's questions are answered in which voice?
+a) the third person — "she did, she was"
+b) the first person — "I did, I remember"
+c) commands — "do this"
+d) questions only
+**Answer: b) the first person** — the reading is a remembering, and its narrator answers for her own childhood (the guide's key, printed pp. 134–135).

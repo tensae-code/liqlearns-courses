@@ -14,6 +14,7 @@ countries: Ethiopia
 | A patriot hero's life — scanning for facts (teacher guide — evidence) | Grade 7 TG, Ch. 9 — reading biography of a hero evidenced by its answer key, printed p. 121 (the hero's name is not stated in the key and is not guessed) |
 | Addiction and its harms (teacher guide — evidence) | Grade 7 TG, Ch. 8 — reading *Araada* (addiction): main idea reported orally; words explained from context (answers, printed p. 101), printed pp. 100–101, 104 |
 | Reading — work (teacher guide — evidence) | Grade 4 TG, Ch. 8 — a reading about work (*dubbisa hojii*): its words named and questions answered, printed pp. 40, 42 |
+| A childhood remembered (teacher guide — evidence) — Picture 12510 drawn for LiqLearns for this part | Grade 7 TG, Ch. 10 — a reading evidenced by its answer keys: pre-reading words settled (dawoo; muka/cufaa; hidhaa/wadaroo/funyoo/tushaa; qaabachuu) and first-person answers (a famous girl, beautiful teeth, play — tapha), printed pp. 134–135; the reading's text is NOT printed in the guide and is not reconstructed here (G7 supplement, built 2026-11-12 from the completed re-read) |
 
 **Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
@@ -21,8 +22,8 @@ Honesty: there is NO Afan Oromo student book in hand for any grade — no studen
 
 Framing: this lesson mixes framings and names them: the water, volunteering, hero and addiction parts rest on the Grade 7 **mother-tongue** guide; the rainbow and work parts rest on the Grade 4 **second-language** guide. The two framings are never merged silently — each row of the table above names its own guide.
 
-The Grade 7 placements file in hand ends mid-sentence inside Chapter 9 (its Chapter 10 placements are missing from the file); nothing from Grade 7 Chapter 10 is used anywhere in this lesson. The hero of sub lesson 4 is not named in the guide's answer key and is not named or guessed here; the year is given as the key prints it (1912, printed in the key as '19125A.L.H.').
+The Grade 7 placements file was completed by a full re-read on 2026-11-12 (Chapter 9's tail and the whole of Chapter 10); sub lesson 7 is stocked from that completed reading (Chapter 10), and no other part of this lesson draws on Chapter 10. The hero of sub lesson 4 is not named in the guide's answer key and is not named or guessed here; the year is given as the key prints it (1912, printed in the key as '19125A.L.H.').
 
 Chapter-title note: the Grade 7 guide's table of contents and its chapter head give Chapter 4 different titles — a slip the placements flag; no Chapter 4 reading is used in this lesson, and the flag is recorded here because this lesson cites the Grade 7 book.
 
-Searchable tags: reading our world, water lakes Xaanaa Abijaataa Hara Danbal, rainbow sabbata waaqaa, volunteering tola ooltummaa, Henry Dunant, scanning, addiction araada, work hojii
+Searchable tags: reading our world, water lakes Xaanaa Abijaataa Hara Danbal, rainbow sabbata waaqaa, volunteering tola ooltummaa, Henry Dunant, scanning, addiction araada, work hojii, a childhood remembered, tapha, first person

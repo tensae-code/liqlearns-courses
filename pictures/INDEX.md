@@ -1750,6 +1750,67 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11338 | pictures/11338.webp | a presentation — slides and layouts | Computer Science and ICT — PowerPoint — Making a Slideshow; Inserting Slides |
 | 11339 | pictures/11339.webp | copy, cut and delete — on slides | Computer Science and ICT — Copying, Cutting and Deleting Slides |
 | 11340 | pictures/11340.gif | a slide duplicated, then one deleted | Computer Science and ICT — Copying, Cutting and Deleting Slides |
+| 11719 | pictures/11719.webp | internet services — WWW, E-MAIL, TELNET, FTP | Computer Science and ICT — The Internet |
+| 11720 | pictures/11720.webp | the Web — pages and URLs | Computer Science and ICT — Internet, Web, Website and Web Page |
+| 11721 | pictures/11721.webp | static or dynamic? — the same page on two days | Computer Science and ICT — Static and Dynamic Web Pages |
+| 11722 | pictures/11722.gif | the dynamic page refreshing into new content | Computer Science and ICT — Static and Dynamic Web Pages |
+| 11723 | pictures/11723.webp | FTP — moving big files | Computer Science and ICT — FTP — Moving Big Files |
+| 11724 | pictures/11724.webp | HTTP — the round trip in four steps | Computer Science and ICT — HTTP — Request and Response |
+| 11725 | pictures/11725.gif | a request travelling to the server and the page travelling back | Computer Science and ICT — HTTP — Request and Response |
+| 11726 | pictures/11726.webp | searching the internet — keyword typed, results listed | Computer Science and ICT — Accessing a Website |
+| 11727 | pictures/11727.gif | typing a keyword, pressing Enter and results appearing | Computer Science and ICT — Accessing a Website |
+| 11728 | pictures/11728.webp | creating a Gmail account — the twelve steps | Computer Science and ICT — Creating an Email Account — Gmail |
+| 11729 | pictures/11729.webp | the parts of an email address | Computer Science and ICT — The Parts of an Email Address |
+| 11730 | pictures/11730.webp | using email — the mailbox in four parts | Computer Science and ICT — Using Email — Inbox, Reading, Composing, Forwarding |
+| 11731 | pictures/11731.gif | clicking Compose and the compose pane opening | Computer Science and ICT — Using Email — Inbox, Reading, Composing, Forwarding |
+| 11732 | pictures/11732.webp | social networks — people linked through seven platforms | Computer Science and ICT — Social Networks — Connecting in Virtual Communities |
+| 11733 | pictures/11733.webp | Facebook — a profile page | Computer Science and ICT — Facebook — Profiles and Creating an Account |
+| 11734 | pictures/11734.webp | Telegram — a chat sending a photo, a document, a location pin | Computer Science and ICT — Telegram — Messaging over Wi-Fi and Mobile Internet |
+| 11735 | pictures/11735.gif | a message being sent and "online" appearing | Computer Science and ICT — Telegram — Messaging over Wi-Fi and Mobile Internet |
+| 11736 | pictures/11736.webp | three platforms, three jobs — LinkedIn, YouTube, Twitter | Computer Science and ICT — LinkedIn, YouTube and Twitter |
+| 11737 | pictures/11737.webp | benefits of social networks — the five benefits | Computer Science and ICT — Benefits of Social Networks |
+| 11738 | pictures/11738.webp | risks of social networks — a warning over a phone | Computer Science and ICT — Risks of Social Networks — and Using Them Properly |
+| 11739 | pictures/11739.webp | Unit 4 in short — the whole unit on one page | Computer Science and ICT — Unit 4 in Short — the Internet |
+| 12900 | pictures/12900.webp | the home network | Computer Science and ICT — What a Computer Network Is |
+| 12901 | pictures/12901.gif | a file travelling phone to laptop | Computer Science and ICT — What a Computer Network Is |
+| 12902 | pictures/12902.webp | four shifts networks bring | Computer Science and ICT — What a Computer Network Is |
+| 12903 | pictures/12903.webp | the four elements | Computer Science and ICT — The Four Elements Every Network Needs |
+| 12904 | pictures/12904.webp | end devices — hosts | Computer Science and ICT — End Devices — Where Messages Start and End |
+| 12905 | pictures/12905.webp | a NIC and its socket | Computer Science and ICT — The Network Interface Card |
+| 12906 | pictures/12906.webp | a signal rebuilt | Computer Science and ICT — Repeaters — Boosting a Fading Signal |
+| 12907 | pictures/12907.gif | the wave rebuilt by a repeater | Computer Science and ICT — Repeaters — Boosting a Fading Signal |
+| 12908 | pictures/12908.webp | switch against hub | Computer Science and ICT — Switches — Sending Packets Only Where They Belong |
+| 12909 | pictures/12909.gif | switch against hub | Computer Science and ICT — Switches — Sending Packets Only Where They Belong |
+| 12910 | pictures/12910.webp | two networks, one router | Computer Science and ICT — Routers — Joining Networks and Picking the Route |
+| 12911 | pictures/12911.gif | a message routed across | Computer Science and ICT — Routers — Joining Networks and Picking the Route |
+| 12912 | pictures/12912.webp | a WAP joining waves to wires | Computer Science and ICT — Wireless Access Points |
+| 12913 | pictures/12913.webp | a shared rule-book | Computer Science and ICT — Protocols — the Rules Devices Share |
+| 12914 | pictures/12914.webp | wired and wireless media | Computer Science and ICT — Wired and Wireless Media |
+| 12915 | pictures/12915.gif | light down a fibre strand | Computer Science and ICT — Wired and Wireless Media |
+| 12916 | pictures/12916.webp | a drawn network diagram | Computer Science and ICT — Drawing a Network Diagram — and Inspecting the School Network |
+| 12917 | pictures/12917.webp | one network, four labels | Computer Science and ICT — Four Ways to Sort Networks |
+| 12918 | pictures/12918.webp | devices cabled together | Computer Science and ICT — Wired Networks |
+| 12919 | pictures/12919.webp | devices radiating to a WAP | Computer Science and ICT — Wireless Networks |
+| 12920 | pictures/12920.webp | one person, Bluetooth links | Computer Science and ICT — PAN — the One-Person Network |
+| 12921 | pictures/12921.webp | one building's LAN | Computer Science and ICT — LAN — a Building's Network |
+| 12922 | pictures/12922.webp | a city joined as one network | Computer Science and ICT — MAN — a City's Network |
+| 12923 | pictures/12923.webp | city networks joining worldwide | Computer Science and ICT — WAN — Country- and World-Sized Networks |
+| 12924 | pictures/12924.webp | nodes along one backbone | Computer Science and ICT — Bus Topology |
+| 12925 | pictures/12925.webp | five nodes, every link drawn | Computer Science and ICT — Mesh Topology |
+| 12926 | pictures/12926.gif | a cut link, messages rerouting | Computer Science and ICT — Mesh Topology |
+| 12927 | pictures/12927.webp | devices radiating from a switch | Computer Science and ICT — Star Topology |
+| 12928 | pictures/12928.gif | a message through the switch | Computer Science and ICT — Star Topology |
+| 12929 | pictures/12929.webp | nodes in a ring, one direction | Computer Science and ICT — Ring Topology — and the Four Shapes Compared |
+| 12930 | pictures/12930.gif | a signal circulating the ring | Computer Science and ICT — Ring Topology — and the Four Shapes Compared |
+| 12931 | pictures/12931.webp | a ring of equal computers | Computer Science and ICT — Peer-to-Peer Networks |
+| 12932 | pictures/12932.webp | clients around one server | Computer Science and ICT — Client-Server Networks — and Peer-to-Peer Compared |
+| 12933 | pictures/12933.webp | benefits hanging off one network | Computer Science and ICT — What Networks Are Good For |
+| 12934 | pictures/12934.webp | a virus hopping machine to machine | Computer Science and ICT — The Costs and Risks of Networks |
+| 12935 | pictures/12935.gif | a virus hopping machine to machine | Computer Science and ICT — The Costs and Risks of Networks |
+| 12936 | pictures/12936.webp | Ethio-telecom and INSA side by side | Computer Science and ICT — Investigating Ethio-telecom and INSA |
+| 12937 | pictures/12937.webp | five attacks, five first protections | Computer Science and ICT — Investigating Ethio-telecom and INSA |
+| 12938 | pictures/12938.webp | five steps to a shared network | Computer Science and ICT — Project: Set Up a Small Peer-to-Peer Network |
+| 12939 | pictures/12939.gif | a shared folder opened from a second computer | Computer Science and ICT — Project: Set Up a Small Peer-to-Peer Network |
 | 11400 | pictures/11400.webp | desert types and rainfall bars | Social Studies — Global Issues — What a Desert Is |
 | 11401 | pictures/11401.webp | desertification panels, land losing its cover | Social Studies — Global Issues — Desertification |
 | 11402 | pictures/11402.gif | GIF: topsoil washing away in the rain | Social Studies — Global Issues — Desertification |
@@ -1955,3 +2016,17 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 13246 | pictures/13246.gif | ice shrinking to water on the spoon | Science — Experiment 1: melting ice and boiling water |
 | 13247 | pictures/13247.webp | pupils fixing the wind vane | Science — Making a wind vane and rain gauge |
 | 13248 | pictures/13248.webp | two debaters and a class | Science — Debating change: new foods or old ways? |
+| 12501 | pictures/12501.webp | a busy market scene with three stalls to write about | Afan Oromo — Writing |
+| 12502 | pictures/12502.webp | two halves of a saying joining into one | Afan Oromo — Word |
+| 12503 | pictures/12503.webp | two word cards of the same meaning — sakaaluu = takaaluu | Afan Oromo — Word |
+| 12504 | pictures/12504.webp | a complex sentence — the standing clause carrying the leaning clause, joined by yoo | Afan Oromo — Sentence |
+| 12505 | pictures/12505.gif | two clause cards sliding together into one long sentence | Afan Oromo — Sentence |
+| 12506 | pictures/12506.webp | two sentence cards joined by the gold link word fi | Afan Oromo — Sentence |
+| 12507 | pictures/12507.gif | two sentence cards sliding together as a connective clicks into place | Afan Oromo — Sentence |
+| 12508 | pictures/12508.webp | a farmer ploughing a straight furrow behind a pair of oxen | Afan Oromo — Listening |
+| 12509 | pictures/12509.gif | an ox team ploughing — the furrow line extending behind the share | Afan Oromo — Listening |
+| 12510 | pictures/12510.webp | children playing in a village yard — a ball, a skipping rope, a hut and a tree | Afan Oromo — Reading |
+| 12511 | pictures/12511.webp | a girl reading her own poem aloud to the class | Afan Oromo — Writing |
+| 12512 | pictures/12512.webp | an elder reciting poetry to a circle of seated listeners at dusk | Afan Oromo — Listening |
+| 12513 | pictures/12513.webp | the kinds of afwalaloo in a picture strip — weedduu, sirba, eebba, faaruu gootaa, hurursa | Afan Oromo — Listening |
+| 12514 | pictures/12514.webp | figures of speech in a picture strip — a boy beside a lion, a speaking hyena, an odaa tree | Afan Oromo — Word |

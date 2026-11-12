@@ -62,6 +62,25 @@ The last reading of this lesson is about **work** — *hojii* — the reading th
 
 Its way is the day's work in words: the reading is read, **its words are named** — each hard word pulled out and made plain — and then **questions are answered** from it. Work in the reading is many-handed: farming, building, teaching, trading, driving — the same jobs this course names in its word lessons. After reading, say which work in the text your own family knows best, and one thing that work gives the people around it.
 
+## Sub lesson 7 — A childhood remembered
+
+Chapter 10 of your Grade 7 book — the oral-poetry chapter — carries one more reading, and it reaches this lesson by its **answer keys**: the guide works the reading with its class, but the reading's own page is not printed in the guide. So here we do what the key honestly lets us do: learn its words, and follow its answers. The reading is a life remembered — a **famous girl** (*mucayyoo nama beekamaa*) looks back at her childhood: her **beautiful teeth**, and the **play** — *tapha* — of those days. [Picture 12510 — children playing in a village yard: a hut, a tree, a ball, a skipping rope.]
+
+**Its words first** (the guide's before-reading work):
+
+- **dawoo** — the word the key settles first;
+- **muka / cufaa** — a pair from the reading's world;
+- **hidhaa / wadaroo / funyoo / tushaa** — the rope-and-tying family: tying, rope, cord;
+- **qaabachuu** — catching hold, grasping.
+
+**Then its answers.** The questions on this reading are answered in the **first person** — *I did, I was, I remember* — because the reading is a remembering: its narrator answers for her own childhood. When you answer questions on it, answer as she does: in the first person, from inside the memory.
+
+What the key remembers: a girl the people know; teeth remembered as beautiful; and above all the **play** — the games of a village childhood, which the picture above keeps.
+
+### Now you try
+
+Answer in the first person, as the narrator answers: *"When I was a child, the play I loved was…"* — finish it from your own childhood, and you have done this reading's own work.
+
 ## Say it to your companion
 
 Take the water reading. Before: each of you guesses two facts it will hold. During: read it aloud between you and tick the guesses that came true. After: each reports one fact the other did not guess. Then swap roles on the hero's story — one scans, one asks for facts.

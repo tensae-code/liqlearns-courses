@@ -27,3 +27,10 @@ a) trumpeting  b) entwining trunks  c) stamping
 **6. (Sub lesson 3)** A three-paragraph text on one topic holds —
 a) one idea in all three  b) three ideas, one per paragraph  c) no ideas
 **Answer: b) three ideas, one per paragraph** — the paragraph rule scales without changing.
+
+**7. (Sub lesson 4)** Writing from a picture, the book's way, you —
+a) copy the picture's caption word for word
+b) look slowly, state details in complete sentences, and build three paragraphs — scene, happenings, message
+c) write one sentence only, so nothing is missed
+d) describe a different picture from memory
+**Answer: b)** — picture into text and text into picture, three paragraphs, finishing marks checked.

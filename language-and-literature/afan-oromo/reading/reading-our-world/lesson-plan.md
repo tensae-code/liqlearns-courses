@@ -28,6 +28,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 4. **A patriot hero's life — scanning for facts** — the G7 Ch. 9 biography read for specific information (scanning): Wallagga and Najjoo, Hoolataa Gannatii, 1912, Captain Juuliyoo, 1970, fighting at 18 — the hero unnamed in the key and unnamed here.
 5. **Addiction and its harms** — the G7 Ch. 8 reading Araada: the main idea reported orally; its words explained from context (amaleeffannaa — habit-forming; dhugaatii nama macheessu — an intoxicating drink).
 6. **Reading — work** — the G4 Ch. 8 reading about work (dubbisa hojii): its words named and questions answered.
+7. **A childhood remembered** — the Grade 7 oral-poetry chapter's reading, evidenced by its answer keys: its words worked before reading (dawoo; muka/cufaa; hidhaa/wadaroo/funyoo/tushaa; qaabachuu), then the reading followed by its answers — a famous girl's childhood, her beautiful teeth, the play (tapha) — answered in the first person; the reading's text is not printed in the guide and is not reconstructed here (G7 Ch. 10 keys; G7 supplement, built 2026-11-12 from the completed re-read).
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -41,13 +42,14 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 4. Say what volunteering (tola ooltummaa) is and who Henerii Duunaa is in the reading.
 5. Scan a life story for single facts — places, years, an age.
 6. Report the main idea of the addiction reading and explain amaleeffannaa from context.
+7. Work a reading that reaches you by its keys alone: settle its words beforehand, follow its answers, and answer in the first person, as its narrator answers.
 
 ## What you need
 Paper and a pencil. Coloured pencils if you draw the rainbow.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner predicts what a reading about water will say before meeting its facts.
-2. **The explanation** — six readings worked the before/during/after way: water, the rainbow, volunteering, a hero scanned for facts, addiction, and work (lesson/lesson.md).
+2. **The explanation** — seven readings worked the before/during/after way: water, the rainbow, volunteering, a hero scanned for facts, addiction, work, and (the supplement) a childhood remembered — the last evidenced by its keys alone (lesson/lesson.md).
    - ADD IMAGE [Picture 9888]: a picture of a lake with a small boat on it and a hippo at its shore, trees behind — the student names the lake things in Afaan Oromoo — qurxummii, naacha, roobii — and the boats bidiruu, doonii, yabala.
    - ADD GIF [GIF 9903]: a picture of a rainbow's bands appearing one by one over green fields, each band filling from the same foot of the bow — the student names each colour in Afaan Oromoo as its band appears.
    - ADD IMAGE [Picture 9862]: a picture of a rainbow over fields with its bands labelled in the colour words diimaa, keelloo, magariisa, cuquliisa — the student reads the labels and lists the rainbow's colours from the picture.

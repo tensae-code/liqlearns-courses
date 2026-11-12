@@ -12,3 +12,6 @@ Say true or false. If it is false, say why.
 
 **3. (Sub lesson 3)** Himoota tajaajila are functional sentences — sentences that do their jobs.
 **True.**
+
+**4. (Sub lesson 4)** In picture-writing, a reader of your text should be able to point at everything you named in the picture.
+**Answer: True** — the picture and the text must speak the same things, both ways.

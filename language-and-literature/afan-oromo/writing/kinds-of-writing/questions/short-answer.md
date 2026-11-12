@@ -12,3 +12,7 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 4)** Give the model's three reasons in order.
 **Answer:** health (diseases of lungs, teeth and mouth; smoke harming neighbours belongs with community) — money (treatment costs burdening the family budget) — community (loss of acceptance; neighbours exposed) — then the ask.
+
+**4. (Sub lesson 5)** After you present your poem, what does the book have you do, and why?
+**Answer: take the teacher's feedback on the poem — so the poem can be strengthened before it is finished.**
+*Why it matters: in the book's shape, a poem is not finished when it is written; it is finished when it has been heard and answered.*

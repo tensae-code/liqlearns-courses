@@ -19,3 +19,6 @@ Sub lesson 5 questions from the type files. Pass mark: report the reading's main
 
 ## Sub lesson 6 — Reading — work
 Sub lesson 6 questions from the type files. Pass mark: say what the work reading asks and answer one question from it in a full sentence.
+
+## Sub lesson 7 — A childhood remembered (G7 supplement, 2026-11-12)
+Sub lesson 7 questions from the type files. Pass mark: settle the reading's words from its key (dawoo; hidhaa and its rope-family; qaabachuu), say whose childhood it is and what its key remembers in it, and answer one question from it in the first person, as its narrator answers.

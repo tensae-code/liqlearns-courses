@@ -39,3 +39,17 @@ filed (pictures 9925–9961), a video script in every lesson.
 
 **The whole course stands at 46 lessons, 806 questions, 72
 pictures and 18 GIFs.**
+
+**G7 supplement — BUILT 2026-11-12:** the Grade 7 placements
+file was completed by a full re-read — Chapter 9's tail (3
+placements) and the whole of Chapter 10 (8 placements) — and
+all eleven placements were stocked the same day. Six NEW
+lessons: Complex Sentences and Connectives (Sentence);
+Farruu Qotiyyoo, Afwalaloo — Oral Poetry, and The Kinds of
+Afwalaloo (Listening); Figures of Speech (Word). Five new
+sub lessons inside built lessons: The Paragraph 4, Word Play
+6–7, Reading Our World 7, Kinds of Writing 5. Pictures and
+GIFs 12501–12514, drawn and frame-checked.
+
+**The whole course now stands at 52 lessons, 911 questions,
+83 pictures and 21 GIFs.**

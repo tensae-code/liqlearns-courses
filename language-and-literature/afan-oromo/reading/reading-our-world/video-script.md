@@ -9,3 +9,7 @@ Water: rain and springs. Lakes: **Xaanaa. Abijaataa. Hara Danbal.**
 The rainbow — **sabbata waaqaa** — wears the colour words you know.
 A hero's life: scan it. Places, years, facts — your eyes hunt them.
 Read the world. It is all one book.
+
+And one more reading — **a childhood, remembered**: a famous girl, her bright teeth, the **tapha** — the play!
+Its words come first, as always: **dawoo** — **hidhaa** — **qaabachuu**.
+The reading's own page lives outside our book — so we follow it by its answers, and answer as she answers: *I…*

@@ -15,6 +15,8 @@ countries: Ethiopia
 | Meanings in context (teacher guide — evidence) | Grade 7 TG, Ch. 1 — vocabulary in context: word-meaning matching and verb-pair sets from the reading (answers), printed pp. 6–7 |
 | Building whole words (teacher guide — evidence) | Grade 3 TG, Ch. 5 — word-building answers: bineensa, qalama, mallattoo, mammaaksa, alaabaa; gaara, naacha, raacha, saree (answer key), printed p. 20 |
 | The school word-web and everyday actions (teacher guide — evidence) | Grade 4 TG, Ch. 10 — school things word-web (answer key), printed p. 59; Grade 3 TG, Ch. 8 — hygiene action words from pictures (answer key), printed p. 36 |
+| Vocabulary in use (teacher guide — evidence) — Picture 12502 drawn for LiqLearns for this part | Grade 7 TG, Ch. 9 — the chapter's answer keys put to work: idiom-phrase completions, present-tense verb forms and synonym sets (answers, printed pp. 123–124), and the chapter review's contextual meanings (hiika galumsaa) in sixteen sentences (printed p. 127) (G7 supplement, built 2026-11-12 from the completed re-read) |
+| More words of the same meaning (teacher guide — evidence) — Picture 12503 drawn for LiqLearns for this part | Grade 7 TG, Ch. 10 — Exercise 8's synonym words (weedduu, sakaaluu/takaaluu, gorora, gosa, danqaraa, gatii, kaarruu, gufuun, magaala, maraachaa), printed pp. 135–136 (G7 supplement, built 2026-11-12) |
 
 **Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
@@ -22,4 +24,4 @@ Honesty: there is NO Afan Oromo student book in hand for any grade — no studen
 
 Framing: this lesson mixes framings and names them: the opposites, whole words, word-web and hygiene parts rest on the Grade 3–4 **second-language** guides; the idioms/synonyms and meanings-in-context parts rest on the Grade 7 **mother-tongue** guide (its contents and answer keys). Each row names its own guide.
 
-Searchable tags: word play, opposites, hiika faallaa, synonyms, hiika walfakkii, idioms, jechamoota, meanings in context, word building, mammaaksa, word web, meeshaalee barnootaa, hygiene actions
+Searchable tags: word play, opposites, hiika faallaa, synonyms, hiika walfakkii, idioms, jechamoota, meanings in context, word building, mammaaksa, word web, meeshaalee barnootaa, hygiene actions, vocabulary in use, hiika galumsaa, idiom completions, sakaaluu, takaaluu

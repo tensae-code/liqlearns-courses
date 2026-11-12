@@ -35,3 +35,10 @@ a) describe  b) convince  c) narrate
 **8. (Sub lesson 4)** The model's argument is against —
 a) group study  b) smoking tobacco  c) coffee
 **Answer: b) smoking tobacco** — health, money, community, then the ask.
+
+**9. (Sub lesson 5)** The book's poem task (Exercise 7) asks you to write a walaloo —
+a) with no figures of speech at all
+b) using figures of speech (malleen dubbii), then present it and take the teacher's feedback
+c) by copying a printed poem exactly
+d) that nobody is allowed to hear
+**Answer: b)** — the poem is written with the figures, presented aloud, and answered with feedback.

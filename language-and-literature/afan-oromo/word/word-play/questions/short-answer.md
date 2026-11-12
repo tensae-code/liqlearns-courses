@@ -16,3 +16,11 @@ Answer in a word or a short sentence.
 
 **5. (Sub lesson 5)** Name three materials hanging on the school web.
 **Answer: Any three of: qubeessaa, dabtara, maarkarii, haqxuu, gabatee gurraacha, kobbee, sarartuu**
+
+**6. (Sub lesson 6)** Give three present-tense verb forms from the chapter's key.
+**Answer: any three of nicaraana, ni aada, niyuusa, niharqa, nibukumsa, nikorrisa, niqasaati/kofalti, niwacci, ni iyya, nikaakkisti** — each carrying the ni- of the present.
+*Why it matters: the chapter's verbs are learned in the forms the book itself uses them.*
+
+**7. (Sub lesson 7)** Name five of the oral-poetry chapter's synonym words.
+**Answer: any five of weedduu, sakaaluu, takaaluu, gorora, gosa, danqaraa, gatii, kaarruu, gufuun, magaala, maraachaa.**
+*Why it matters: the set is the poetry chapter's word-hoard — the words its songs are built from.*

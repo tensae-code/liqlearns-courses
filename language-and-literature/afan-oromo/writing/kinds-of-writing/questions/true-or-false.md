@@ -12,3 +12,6 @@ Say true or false. If it is false, say why.
 
 **3. (Sub lesson 4)** In the model, the ask comes before the reasons.
 **False** — reasons stand first (health, money, community); the ask lands last.
+
+**4. (Sub lesson 5)** A poem written for the book's task may carry figures of speech — a comparison here, a symbol there.
+**Answer: True** — the task asks for them by name: *malleen dubbii*.

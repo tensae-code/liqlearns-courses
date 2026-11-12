@@ -13,3 +13,7 @@ Answer in a word or a short sentence.
 
 **4. (Sub lesson 6)** What two things does the work reading ask of its reader?
 **Answer: Its words are named (made plain) and its questions are answered**
+
+**5. (Sub lesson 7)** Whose childhood does the Chapter 10 reading remember, and what two things does its key remember about her?
+**Answer: a famous girl's (mucayyoo nama beekamaa) — her beautiful teeth, and the play (tapha) of her childhood.**
+*Why it matters: the reading reaches us by its key, so the key's facts are the reading's facts here — nothing beyond them is claimed.*

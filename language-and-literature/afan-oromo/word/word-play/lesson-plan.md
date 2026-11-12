@@ -27,6 +27,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 3. **Meanings in context** — word-meaning matching and verb-pair sets from the reading (G7 Ch. 1 answers): nyaachuu/qopheessuu, uffachuu/miiccuu/bitachuu, dhuguu/dhaabuu, dubbisuu/barreessuu…
 4. **Building whole words** — word-building answers (G3 Ch. 5): bineensa, qalama, mallattoo, mammaaksa, alaabaa; gaara, naacha, raacha, saree.
 5. **The school word-web and everyday actions** — school things word-web (G4 Ch. 10 answer key): qubeessaa, dabtara, maarkarii, haqxuu, gabatee gurraacha, kobbee, sarartuu under meeshaalee barnootaa; hygiene action words (G3 Ch. 8): qaama dhiqachuu, qeensa qorachuu, rifeensa murachuu, kophee miiccuu, kubbaa taphachuu, huccuu miccachuu.
+6. **Vocabulary in use** — the Grade 7 chapter's own answer keys put to work: idiom-phrases completed (…hinfuudhani; ilma afaan hinurgaahu; ollaan birmata; "bishaan ol hinyaa'u," jette harreen), present-tense verb forms used (nicaraana, ni aada, niyuusa…), synonym sets sorted (ciibsata, gaana, goromtii, maseena/dhabduu…), and meanings settled from the sentence they stand in — hiika galumsaa (G7 Ch. 9 answers and chapter review; G7 supplement, built 2026-11-12 from the completed re-read).
+7. **More words of the same meaning** — the oral-poetry chapter's synonym set: weedduu, sakaaluu/takaaluu, gorora, gosa, danqaraa, gatii, kaarruu, gufuun, magaala, maraachaa (G7 Ch. 10, Exercise 8; G7 supplement, built 2026-11-12).
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -39,13 +41,15 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Settle a word's meaning from its context, using the verb sets.
 4. Read whole built words: bineensa, qalama, mallattoo, mammaaksa, alaabaa.
 5. Name the school word-web (meeshaalee barnootaa) and the hygiene action set.
+6. Complete the chapter's idiom-phrases, use its present-tense verb forms, sort its synonym sets, and settle a word's meaning from its sentence (hiika galumsaa).
+7. Give the poetry chapter's same-meaning words — sakaaluu is takaaluu — and use them in sentences.
 
 ## What you need
 Paper and a pencil. Soap and water for the hand-washing that ends the lesson honestly.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner guesses the opposite of dheeraa and reads mammaaksa whole.
-2. **The explanation** — opposites and synonym/antonym matching; idioms and synonyms in use; meanings from context; whole words built; the school word-web and the hygiene action set (lesson/lesson.md).
+2. **The explanation** — opposites and synonym/antonym matching; idioms and synonyms in use; meanings from context; whole words built; the school word-web and the hygiene action set; and (the supplement) the Grade 7 chapters' vocabulary put to work — idioms completed, verbs in their present forms, synonyms sorted, meanings settled from context (lesson/lesson.md).
    - ADD IMAGE [Picture 9883]: a picture of a strip of three opposite pairs: a fat figure beside a thin one, a tall tree beside a short one, a white sheet beside a black one — the student reads each pair aloud — word and opposite — then gives the three opposites from memory.
    - ADD IMAGE [Picture 9884]: a picture of two word cards sliding together, their edges meeting, for words of like meaning — the student says what joins the cards: the same meaning.
    - ADD IMAGE [Picture 9886]: a picture of a word-web: the centre card meeshaalee barnootaa with seven cards around it — a pencil, an exercise book, a marker, an eraser, a blackboard, a ruler and one more — the student reads the web from the centre out, naming each material.

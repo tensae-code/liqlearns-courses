@@ -25,3 +25,17 @@ a) meeshaalee manaa  b) meeshaalee barnootaa  c) gosoota manaa  d) dubbisa hojii
 **6. (Sub lesson 5)** Kubbaa taphachuu is —
 a) Washing clothes  b) Cutting nails  c) Playing ball  d) Washing shoes
 **Answer: c) Playing ball**
+
+**7. (Sub lesson 6)** Complete the saying-phrase: "Bishaan ol hinyaa'u…"
+a) …jette fardiin
+b) …jette harreen
+c) …jette leenciin
+d) …jette sareen
+**Answer: b) …jette harreen** — "Water doesn't flow upward," said the donkey — the book's printed key.
+
+**8. (Sub lesson 7)** Sakaaluu is the same-meaning partner of —
+a) gorora
+b) takaaluu
+c) magaala
+d) danqaraa
+**Answer: b) takaaluu** — one word in two dresses (the poetry chapter's Exercise 8 set).

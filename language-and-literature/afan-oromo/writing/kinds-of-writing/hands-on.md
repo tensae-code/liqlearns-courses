@@ -10,3 +10,4 @@ Descriptive paragraphs are read aloud with names removed. The class must say who
 
 ## Reasons auction
 For persuasion: pairs collect reasons for their position on cards, then "bid" them in order — strongest last before the ask, as the model builds health, money, community, ask. The class judges which ordering persuades.
+The class poetry reading (sub lesson 5, G7 supplement): the lesson closes as the book's Exercise 7 closes — each learner stands and reads their walaloo aloud from the front of the class, Picture 12511's scene made real; the teacher's feedback is given kindly and at once, and each poet writes the one change they will make before leaving.

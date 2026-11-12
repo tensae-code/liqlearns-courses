@@ -14,3 +14,7 @@ Last: the concluding sentence. The idea lands.
 Where does the heart stand? At the start! In the middle!
 At the end! Or start — and end again!
 You choose. You are the writer!
+
+And one more gift from the same book — **a picture hands you a text**:
+Look slowly. Point at everything. Write what the picture says — **ergaa fakkiiwwanii**!
+Three paragraphs from one seeing — and every sentence checked, capital to full stop.

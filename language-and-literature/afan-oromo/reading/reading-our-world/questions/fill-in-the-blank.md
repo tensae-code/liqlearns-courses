@@ -10,3 +10,6 @@ Fill each blank with the right word or sound.
 
 **3. (Sub lesson 6)** The work reading is called dubbisa ____.
 **Answer: hojii**
+
+**4. (Sub lesson 7)** The play at the heart of the remembered childhood is called ______ in Afaan Oromoo.
+**Answer: tapha** — the games of the village yard.

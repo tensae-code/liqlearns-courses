@@ -39,6 +39,22 @@ Learners write **their own life story** and **a famous person's**, checked for o
 
 Notice the build: reason on reason — health, money, community — then the ask. Learners write a **four-paragraph persuasive text** of their own on that shape.
 
+## Sub lesson 5 — Writing a poem
+
+There is a **fifth kind** of writing in your Grade 7 book, and it lives in the poetry chapter: **writing a poem** — a *walaloo*. The book's task (its Exercise 7) is plain: write a poem **on a given topic**, using **figures of speech** — *malleen dubbii* — then **present** your poem, and take the **teacher's feedback** on it. [Picture 12511 — a girl reading her own poem aloud to the class, the board behind her carrying the word *walaloo*.]
+
+Work it in the book's shape:
+
+1. **Take the topic.** The poem is written on a given topic — a person, a place, a season, a feeling. Hold the topic in one word before you write a line.
+2. **Choose your figures.** A poem is built with the toolbox: a comparison (akkasaa or iddeessa), a symbol from the book's stock (fakkoomii), life given to a thing (nameessa). Pick two or three and place them on purpose — the whole toolbox is taught in Word — Figures of Speech.
+3. **Mind the shape.** Lines (*bo'oo*) gathered in stanzas (*buufata*), each line beginning with a capital — the shape the Afwalaloo listening lesson names.
+4. **Present it.** Read your poem aloud, as a walaloo is made to be carried — by mouth, to listeners.
+5. **Take the feedback.** The teacher answers your poem; use what is said to strengthen one line before the poem is finished.
+
+### Now you try
+
+Choose a topic in one word. Write four lines on it with one comparison worked in — then read them aloud to a companion and take their feedback on the comparison alone.
+
 ## Say it to your companion
 Blind reading. Exchange one piece each — narrative, description, biography, persuasion, whichever you wrote best. Read without asking, and name the kind from the writing alone: what is this piece *doing* — telling, showing, living, convincing? Then swap the writer's own answer and argue any mismatch.
 

@@ -35,6 +35,22 @@ Texts are paragraphs in a row, each still one idea. The social-relations chapter
 
 The paragraph rule scales without changing: one paragraph, one idea; one text, one road through its ideas, paragraph by paragraph.
 
+## Sub lesson 4 — Writing from a picture
+
+A paragraph does not need a story handed to it — a picture can hand it one. Your Grade 7 book teaches this as its own writing task: **ergaa fakkiiwwanii** — *writing the message of a picture*. [Picture 12501 — a busy market scene: three stalls, baskets of fruit, buyers and sellers, the sun up.]
+
+Work it the book's way:
+
+1. **Look slowly.** What is happening in the picture? Who is there? Where are they — and what is each one doing?
+2. **Read both ways.** The picture speaks in things you can point at; your words must speak back the same things. Picture into text, text into picture: a reader of your paragraph should be able to point at everything you named.
+3. **State details in whole sentences.** The rule from your earlier work holds: a detail lives in a complete sentence — pointed details make a description live.
+4. **Build three paragraphs.** The first sets the scene — where, when, who. The second walks through what is happening, detail by detail. The third gives the picture's **message** — what this scene shows about life.
+5. **Check the finishing marks.** Go back over your sentences the way your book asks on every piece of writing: each sentence ends with its full stop, and each new sentence begins with a capital letter.
+
+### Now you try
+
+Write the first paragraph only, from the market picture: set the scene in three or four sentences. Then swap with a companion — can they point at everything you named?
+
 ## Say it to your companion
 Trade paragraphs. Read your companion's paragraph and do three things: say its one idea in your own words, point to its topic sentence and name its standing, and check the concluding sentence lands the idea. If you find two ideas, show the seam where the paragraph should split.
 

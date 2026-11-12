@@ -26,6 +26,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 2. **Describing a person — barruu addeessaa** — descriptive writing: the model subject Mooneet, with descriptive answers; a personal-data table; learners write a three-paragraph descriptive text (Grade 7 guide, Ch. 6).
 3. **Biography — seenaa jireenyaa** — biography writing taught explicitly: the two kinds — a personal life story (your own life, written by you) and another person's life story; learners write their own and a famous person's (Grade 7 guide, Ch. 4).
 4. **Persuasive writing — barruu amansiisaa** — persuasive writing with the guide's printed model (summary only): an argument against smoking tobacco; learners write a four-paragraph persuasive text (Grade 7 guide, Ch. 3).
+5. **Writing a poem — walaloo** — a fifth kind, from the poetry chapter: learners write a poem on a given topic using figures of speech (malleen dubbii), present it to the class, and take the teacher's feedback (Grade 7 guide, Ch. 10, Exercise 7; G7 supplement, built 2026-11-12 from the completed re-read). The figures themselves are taught whole in Word — Figures of Speech.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -40,13 +41,14 @@ the gate pool.
 2. Write a descriptive text (barruu addeessaa) of a person in three paragraphs.
 3. Tell the two kinds of biography (seenaa jireenyaa) apart — your own life written by you, another's life written by you — and write a short one.
 4. Write a persuasive text (barruu amansiisaa) on the guide's model shape: an argument that works to convince.
+5. Write a poem (walaloo) on a given topic using figures of speech, present it aloud, and use the feedback to strengthen it.
 
 ## What you need
 Paper and a pencil.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner writes four openings — a story, a description, a life, an argument — one sentence each, and feels how different the four jobs are (lesson/lesson.md).
-2. **The explanation** — the four kinds in the Grade 7 strand's own building order: narrative, describing a person, biography, persuasive — each with its model held as summary (lesson/lesson.md).
+2. **The explanation** — the four kinds in the Grade 7 strand's own building order: narrative, describing a person, biography, persuasive — each with its model held as summary — and (the supplement) a fifth kind from the poetry chapter: the poem (lesson/lesson.md).
    - ADD IMAGE [IMAGE 9948] at the start of the explanation: a picture of the four kinds of writing as four doors — a road for the narrative, a portrait for the descriptive, a timeline for the biography, a speaking trumpet for the persuasive — each labelled with its Afaan Oromoo name — the student names each door's kind and its job before choosing a kind to write.
    - ADD AUDIO in Sub lesson 4: a voice reading a short persuasive argument, reason by reason, at speaking pace — the student listens and counts the reasons, then says where the ask stands — first or last.
 3. **Say it to your companion** — read each other's pieces blind and name the kind from the writing alone before the writer confirms (lesson/lesson.md).
