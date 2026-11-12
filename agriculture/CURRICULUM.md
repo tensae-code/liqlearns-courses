@@ -65,3 +65,19 @@ ethiopia-2026-11-11/build-logs/.
   frame-checked).
   The band created the agriculture/ tree itself; the course
   files were opened by the coordinator with Band B.
+
+- **Coverage-audit fix pass (2026-11-12)** — the audit found
+  224 of 239 placements stocked; all 15 misses were the Grade 11
+  teachers' guide fold that Bands A–C never made. The fix build
+  mirrored the Grade 12 fold: the guide's way and methods
+  library now stand as Sub lessons 3–4 of
+  first-steps/how-this-course-is-taught (labelled evidence);
+  the ten missing unit summaries stand as labelled evidence
+  rows in 69 lessons' sources; and two new lessons in Farm
+  Business and Technology carry the Grade 11 MLC list and the
+  Grade 11 Syllabus (five themes, 89 periods). The Grade 11
+  student book's Figure References (p. 261) are filed in
+  ABOUT.md, whose opening promise was corrected to match what
+  it holds. Agriculture stands at **199 lessons, 239 of 239
+  placements stocked, 0 citation mismatches**. Build log:
+  ethiopia-2026-11-11/build-logs/fix-agriculture.md.

@@ -13,3 +13,9 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 2)** Self-checks are judged once, at the year's end only.
 **Answer: False**
+
+**5. (Sub lesson 3)** In the Grade 11 guide, field work is structural, with reports shared with the whole class.
+**Answer: True**
+
+**6. (Sub lesson 4)** The Grade 11 library gives feedback on field and group work as presentations.
+**Answer: True**

@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The eras, and Ethiopia's picture | Ethiopia, *Agriculture, Student Textbook, Grade 11*, printed pp. 5–8 |
 | Sub lesson 2 — Why yields lag | Ethiopia, *Agriculture, Student Textbook, Grade 11*, printed pp. 5–8 |
 | Economic frame — agriculture's GDP, export and employment shares (teacher guide — evidence) | Ethiopia, *Agriculture, Teachers' Guide, Grade 11*, printed pp. V–VIII — guide placement 2: agriculture over 40% of GDP, over 90% of foreign exchange, over 80% of employment, folded in by Wave 4 Band D |
+| Whole lesson (teacher guide — evidence) | Ethiopia, *Agriculture, Teachers' Guide, Grade 11*, printed pp. 1–17 — guide placement 4: the Unit 1 guide's standard treatment of lessons 1.1–1.6 (competencies per section, pre-lesson gathering of crop samples and pictures, brainstorming openings, the domestication selection criteria — seed size, flavour, climate tolerance, ease of transport, availability and predictability across seasons — restated in the overview, and a Unit Assessment with answer keys); no content beyond the student book, folded in by the Agriculture fix build |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

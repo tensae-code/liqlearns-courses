@@ -10,6 +10,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 - Sub lesson 1 — Student-centered learning, the teacher redeployed: The guide's doctrine: student-centered learning does not diminish the teacher — it redeploys the teacher's exp…
 - Sub lesson 2 — The lesson skeleton — competencies to self-check: Each unit guide follows one skeleton: Competencies first; the content overview; a teaching-learning process bu…
+- Sub lesson 3 — The Grade 11 guide's way — the same skeleton, and the class keeps leaving the classroom: The Grade 11 guide scripts every lesson the same way — competencies, overview, Pre-Lesson Preparation from the pedagogical centre, brainstorming opening, body with answer keys, unit assessment — with field work structural and the school backyard as practice farm.
+- Sub lesson 4 — The Grade 11 methods library: The shared toolkit — guest speakers, group work capped at seven mixed learners, note-taking from the textbook, feedback as presentations, continuous assessment.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -19,6 +21,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. State the student-centered doctrine and the teacher's redeployed role.
 2. Recite the lesson skeleton in order.
 3. Audit a real lesson plan against the skeleton.
+4. Recite the Grade 11 skeleton, naming where Pre-Lesson Preparation and field work sit.
+5. Name the methods library's caps and feedback rule (groups of at most seven; feedback as presentations).
 
 ## What you need
 A lesson plan to audit; a notebook.
@@ -27,6 +31,7 @@ A lesson plan to audit; a notebook.
 1. **Do it first** — the learner tries the lesson's doing before any explanation (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 26689]: a picture of the lesson skeleton drawn as a flowchart from competencies to the 'Can you' self-check — the student studies the picture and names its parts from the lesson.
+   - ADD IMAGE [Picture 36400]: a picture of the Grade 11 lesson skeleton drawn as a flowchart from competencies to unit assessment, with field work running throughout — the student studies the picture and names its parts from the lesson.
    - ADD AUDIO: the lesson read aloud (described slot only; made later) — the student listens and follows the text.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
@@ -36,6 +41,7 @@ A lesson plan to audit; a notebook.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 26689] — a picture of the lesson skeleton drawn as a flowchart from competencies to the 'Can you' self-check → the student studies the picture and names its parts from the lesson.
+- IMAGE [Picture 36400] — a picture of the Grade 11 lesson skeleton drawn as a flowchart from competencies to unit assessment, with field work running throughout → the student studies the picture and names its parts from the lesson.
 - AUDIO: the lesson read aloud in the super-simple voice (described slot only; made later) → the student listens and follows the text.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

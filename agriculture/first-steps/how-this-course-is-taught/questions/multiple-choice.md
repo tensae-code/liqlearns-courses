@@ -25,3 +25,15 @@ a) only copying notes  b) only exams  c) brainstorming, buzz groups, pair work, 
 **6. (Sub lesson 2)** Each lesson or unit closes with —
 a) a new textbook  b) a 'Can you: Yes/No' self-check list  c) a fee
 **Answer: b) a 'Can you: Yes/No' self-check list**
+
+**7. (Sub lesson 3)** In the Grade 11 guide, Pre-Lesson Preparation gathers materials from —
+a) the school pedagogical centre  b) a city shop  c) the learners' homes only
+**Answer: a) the school pedagogical centre**
+
+**8. (Sub lesson 3)** The Grade 11 guide treats the school backyard as —
+a) a playground  b) a practice farm  c) a store
+**Answer: b) a practice farm**
+
+**9. (Sub lesson 4)** Grade 11 group work is capped at —
+a) five students  b) ten students  c) seven students
+**Answer: c) seven students**

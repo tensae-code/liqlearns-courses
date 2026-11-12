@@ -7,3 +7,9 @@ Pass mark: the learner can state and use this part's teaching in their own words
 
 ## Sub lesson 2 — The lesson skeleton — competencies to self-check
 Pass mark: the learner can state and use this part's teaching in their own words and answer its gate questions (the sub lesson's whole question set is the gate pool).
+
+## Sub lesson 3 — The Grade 11 guide's way — the same skeleton, and the class keeps leaving the classroom
+Pass mark: the learner can state and use this part's teaching in their own words and answer its gate questions (the sub lesson's whole question set is the gate pool).
+
+## Sub lesson 4 — The Grade 11 methods library
+Pass mark: the learner can state and use this part's teaching in their own words and answer its gate questions (the sub lesson's whole question set is the gate pool).

@@ -6297,3 +6297,6 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36500 | pictures/36500.webp | a solution-C-style transition development: gridded elevation, opened fan, 12-part divided circle | Technology & Design — worked-developments-the-answer-plates |
 | 36501 | pictures/36501.webp | a hexagonal-prism net (solution B): six numbered stations, dashed fold lines, hexagon end faces | Technology & Design — worked-developments-the-answer-plates |
 | 36502 | pictures/36502.webp | five drawing-board sheets climbing in steps — the course-intro picture | Technology & Design — ABOUT (course-level) |
+| 36400 | pictures/36400.webp | the fixed lesson skeleton as a flowchart | agriculture/first-steps/how-this-course-is-taught |
+| 36401 | pictures/36401.webp | the Grade 11 minimum learning competencies as 16 unit tiles | agriculture/farm-business-and-technology/minimum-learning-competencies-grade-11-agriculture |
+| 36402 | pictures/36402.webp | the Grade 11 syllabus period chart — five themes, 89 periods | agriculture/farm-business-and-technology/the-grade-11-agriculture-syllabus-themes-and-periods |
