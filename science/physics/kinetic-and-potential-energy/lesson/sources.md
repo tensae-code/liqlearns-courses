@@ -1,6 +1,6 @@
 # Sources — Kinetic and potential energy
 
-countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicaragua, Sri Lanka, Slovenia, United States, Cambodia, Egypt, Mongolia, Bulgaria, Belarus, Bhutan
+countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicaragua, Sri Lanka, Slovenia, United States, Cambodia, Egypt, Mongolia, Bulgaria, Belarus, Bhutan, Uzbekistan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -37,6 +37,8 @@ countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicara
 
 **Book 17:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 18:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Kinetic and potential energy | Grade 11 Student Textbook, printed pp. 136–143 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Argentina, Bahrain (solutions-manual evidence only), Nicara
 | §30 Potential energy; §31 Kinetic energy and the total energy of a system (printed p. 172) (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §30 Potential energy; §31 Kinetic energy and the total energy of a system (printed p. 172) — printed p. 166 |
 
 | Ch. 3: energy — PE = mgh and KE = ½mv² — printed p. 49 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 3: energy — PE = mgh and KE = ½mv² — printed p. 49 |
+| Ch. II, Tema 27: kinds of energy (Ep = mgh, Ek = mv²/2, thermal/electric/nuclear/solar); power N = A/t, the watt, horsepower table (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. II, Tema 27: kinds of energy (Ep = mgh, Ek = mv²/2, thermal/electric/nuclear/solar); power N = A/t, the watt, horsepower table — printed p. 66 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Argentina, Nicaragua, Sri Lanka, Slovenia, United States, Cambodia, Egypt, Mongolia, Bulgaria, Belarus, Bhutan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 13 countries (Ethiopia, Argentina, Nicaragua, Sri Lanka, Slovenia, United States, Cambodia, Egypt, Mongolia, Bulgaria, Belarus, Bhutan, Uzbekistan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

@@ -1,6 +1,6 @@
 # Sources — Flow rate and kinds of flow
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt
 
 **Book 7:** *Physics, Second Secondary — First Term* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year (cover and title page). Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Physics_EN_Secondary2_TR1.pdf · Byte size: 29,643,367 (= recorded size exactly) · PDF pages: 99 · Offset: printed pages follow the segment the part sits in — front matter and Units 1–2: PDF = printed (proven: PDF p.27 footer "27", p.39 footer "39", p.45 footer "45"); the Properties-of-Matter segment: printed = PDF − 1 (proven: PDF p.63 header "62", p.79 header "78"); the Gas Laws segment: PDF = printed again (PDF p.82 header "82" … p.98 header "98"). Verdict: COMPLETE — all four units, six chapters, chapter summaries and exercise sets present to the end. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الأول* (grade-11/gov/egypt/Physics_Arabic_2_Secondary_TR1.pdf, 16,164,999 bytes = recorded size exactly, 98 PDF pages), and the French edition, *Physique, Deuxième année secondaire — Premier semestre* (grade-11/gov/egypt/Physics_F_Secondary2_TR1.pdf, 26,076,189 bytes = recorded size exactly, 99 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 8:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fluid flow — steady, turbulent, and flow rate | Grade 12 Student Textbook, printed pp. 103–104 |
@@ -27,7 +29,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt
 | Ch 10 Fluid flow: types of flow (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 10 Fluid flow: types of flow — printed p. 193 |
 | Ch. 1 Lesson 8: fluid dynamics (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 1 Lesson 8 — printed p. 106 |
 | Ch.4 Liquid flow: laminar and turbulent flow (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — First Term (English), 2025–2026*, Ch.4 Liquid flow: laminar and turbulent flow — printed p. 51 |
+| Ch. II, Tema 25: forces on a body moving in liquid/gas: laminar vs turbulent flow, dynamic pressure, the two-paper-sheets experiment, kite and wing lift (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. II, Tema 25: forces on a body moving in liquid/gas: laminar vs turbulent flow, dynamic pressure, the two-paper-sheets experiment, kite and wing lift — printed p. 61 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan).**
 
 Searchable tags: physics, grade 12, fluid mechanics, flow rate and kinds of flow, laminar, sri lanka, united states, uganda, kenya, cambodia, egypt

@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Slovenia, Afghanistan
 
 **Book 4:** *فیزیک — صنف دهم (Physics — Grade 10)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف دهم (Physics — Grade 10), Ministry of Education, Kabul. Grade: 10 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul. Repo path (record): grade-10/gov/afghanistan/فیزیک_صنف_دهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G10-Dr-physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–9 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 5:** *ФИЗИКА 8 (Fizika 8)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition, translator T. Asilov; imprint: 160 pp. bibliographic, contents end printed p. 158; print run 25,500). Grade: 8 · Student book (Russian-medium edition) · Repo path: grade-08/gov/uzbekistan/physics/full-year.pdf. Byte size: 62,348,665. PDF pages: 161. Offset: printed p. N = PDF p. N+3 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; the complete contents (printed pp. 157–158) were read and every chapter's opening and closing-summary pages were read and matched against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Current makes a field: the compass swings, settles, reverses (Activity 7.38); more current and coiling strengthen the field | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 224–225 (student placement 69) |
@@ -17,8 +19,9 @@ countries: Ethiopia, Slovenia, Afghanistan
 | Magnetic force: Elektromagnet (The electromagnet) (Slovenia) | Slovenia, *Fizika 9*, Magnetic force: Elektromagnet (The electromagnet) — printed p. 207 (unit folder 199) |
 | Ch. 8 — field of a straight conductor and of a coil, forces between current-carrying wires (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 8 — printed p. 209 — field of a long straight conductor p. 209, field of a coil p. 212, forces between two current-carrying wires p. 215 |
 | Ch. 4 Electromagnetism — the magnetic effect of an electric current (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 Electromagnetism — printed p. 60 — the magnetic effect of an electric current |
+| Ch. III, Temas 33–34: electromagnets and their uses; lab: build and test the simplest electromagnet (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. III, Temas 33–34: electromagnets and their uses; lab: build and test the simplest electromagnet — printed pp. 82–84 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Afghanistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan).**
 
 Summary-claim guard: the Unit 7 summary (printed pp. 228–230) states things no section teaches — including direction claims around electron current — and none of that un-taught summary material is carried into this lesson; the lesson teaches only §7.5.3's own content, as the placements direct.
 

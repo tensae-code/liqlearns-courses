@@ -1,8 +1,10 @@
 # Sources — The gas laws — Boyle, Charles and the pressure law
 
-countries: Palestine
+countries: Palestine, Uzbekistan
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
+
+**Book 2:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,8 +12,9 @@ countries: Palestine
 | Sub lesson 2 — Charles's law and the pressure law — heat it and something must give | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 112 |
 | Sub lesson 3 — The combined law — all three at once | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 112 |
 | Do it first; key ideas; Do It Yourself | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 112 |
+| Ch. I, Temas 6–7: isothermal/isobaric/isochoric processes (isoprocesses); the equation of state of an ideal gas (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Temas 6–7: isothermal/isobaric/isochoric processes (isoprocesses); the equation of state of an ideal gas — printed pp. 20–22 |
 
-**Acceptance count: taught in 1 country (Palestine).**
+**Acceptance count: taught in 2 countries (Palestine, Uzbekistan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Palestine placement "The gas laws — Boyle, Charles and the pressure law" — palestine-placements.md, Book 1, Unit 3, Ch. 2: Thermodynamics, printed p. 112 — a topic no existing slug covers at this depth. It sits in science/physics/ and is registered in CURRICULUM.md Unit 18.
 

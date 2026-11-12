@@ -1,8 +1,10 @@
 # Sources — The oscillating LC circuit and electrical resonance
 
-countries: Egypt
+countries: Egypt, Uzbekistan
 
 **Book 1:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
+**Book 2:** *ФИЗИКА 8 (Fizika 8)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition, translator T. Asilov; imprint: 160 pp. bibliographic, contents end printed p. 158; print run 25,500). Grade: 8 · Student book (Russian-medium edition) · Repo path: grade-08/gov/uzbekistan/physics/full-year.pdf. Byte size: 62,348,665. PDF pages: 161. Offset: printed p. N = PDF p. N+3 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; the complete contents (printed pp. 157–158) were read and every chapter's opening and closing-summary pages were read and matched against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,9 @@ countries: Egypt
 | Sub lesson 2 — The natural frequency of the LC circuit | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 4: The oscillating (LC) circuit and electrical resonance — printed p. 108 |
 | Sub lesson 3 — Resonance and the tuned radio circuit | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 4: The oscillating (LC) circuit and electrical resonance — printed p. 108 |
 | Do it first; key ideas; Do It Yourself | Egypt, *Physics, Third Secondary (English), 2025–2026*, as cited in the rows above |
+| Ch. VI, Temas 55–58: inductance of a coil; the EM field of steady and alternating current; EM oscillations and the energy of the magnetic field; the oscillating circuit, T = 2π√(LC) in the chapter glossary (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. VI, Temas 55–58: inductance of a coil; the EM field of steady and alternating current; EM oscillations and the energy of the magnetic field; the oscillating circuit, T = 2π√(LC) in the chapter glossary — printed pp. 137–143 |
 
-**Acceptance count: taught in 1 country (Egypt).**
+**Acceptance count: taught in 2 countries (Egypt, Uzbekistan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Egypt placement "The oscillating (LC) circuit and electrical resonance" — egypt-placements.md, Book 4 (Grade 12 English), Unit 1, Ch. 4, printed p. 108 — a full lesson strand no existing slug covers. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

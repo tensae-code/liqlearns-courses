@@ -1,10 +1,12 @@
 # Sources — Using solar energy — thermal and photovoltaic generation
 
-countries: Yemen
+countries: Yemen, Uzbekistan
 
 **Book 1:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
 **Book 2:** *الأنشطة والتجارب العملية — الفيزياء — Grade 12 (Activities and Practical Experiments notebook)* (student companion practical notebook) — Yemen, Yemen MoE. Grade: 12 · Student book (companion practical notebook) · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year-activities.pdf` — 8,169,443 bytes. PDF pages: 35. Printed page = PDF page − 1 (contents printed p. 5, first experiment printed p. 6). Verdict: COMPLETE (10 experiments, contents printed p. 5). Structure: experiments track the student book's hardest units — AC, electronics, discharge, spectra, solar, radioactivity. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
+**Book 3:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,8 +15,9 @@ countries: Yemen
 | Sub lesson 2 — Thermal generation — heat first, then electricity | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U8 Thermal generation of energy — printed p. 193 |
 | Sub lesson 3 — Photovoltaic generation — light straight to electricity | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U8 Electrical (photovoltaic) generation (printed p. 194); and Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 12 (Activities and Practical Experiments notebook)*, Exp.8 Collecting and exploiting solar energy — printed p. 23 |
 | Do it first; key ideas; Do It Yourself | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, as cited in the rows above |
+| Ch. II, Tema 35: heliotechnics — solar-energy technology and its prospects in Uzbekistan (own way) (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. II, Tema 35: heliotechnics — solar-energy technology and its prospects in Uzbekistan (own way) — printed p. 88 |
 
-**Acceptance count: taught in 1 country (Yemen).**
+**Acceptance count: taught in 2 countries (Yemen, Uzbekistan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Yemen placements “Using solar energy — thermal and photovoltaic generation” — yemen-placements.md, Book 4, U8 (printed p. 192) and Book 5, Exp. 8 (printed p. 23), the two tags built once here with both books cited. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

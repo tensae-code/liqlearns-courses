@@ -1,6 +1,6 @@
 # Sources — Air pressure around us
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Kenya, Cambodia (private-booklet evidence only), Yemen, Belarus, Bhutan
+countries: Ethiopia, Finland (instructor-pack evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Kenya, Cambodia (private-booklet evidence only), Yemen, Belarus, Bhutan, Uzbekistan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Slovenia, Malaysia
 
 **Book 10:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 11:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Atmospheric pressure — bottle experiments | Grade 12 Student Textbook, printed pp. 90–92 |
@@ -38,7 +40,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Slovenia, Malaysia
 | §33 Gases and their weight; §34 Atmospheric pressure (printed p. 134) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §33 Gases and their weight; §34 Atmospheric pressure (printed p. 134) — printed p. 131 |
 
 | Ch. 2: atmospheric pressure, barometers, and pressure in weather forecasting — printed pp. 41–42 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 2: atmospheric pressure, barometers, and pressure in weather forecasting — printed pp. 41–42 |
+| Ch. II, Tema 23: Torricelli's experiment (760 mm Hg ≈ 101,360 Pa); barometers and manometers (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. II, Tema 23: Torricelli's experiment (760 mm Hg ≈ 101,360 Pa); barometers and manometers — printed p. 55 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Malaysia, Kenya, Yemen, Belarus, Bhutan).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Malaysia, Kenya, Yemen, Belarus, Bhutan, Uzbekistan).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, air pressure around us, pressure, finland, kenya, cambodia, yemen
