@@ -13,7 +13,7 @@ sources, as provenance.
 
 ## The courses in this folder
 
-- **Ethiopia** — [`ethiopia/`](ethiopia/) · 382 lessons: the Moral
+- **Ethiopia** — [`ethiopia/`](ethiopia/) · 384 lessons: the Moral
   Education opening levels (morals and manners, Grades 1–6 teacher
   guides), the young citizen's rights-and-law level, the Citizenship
   Education levels (Grades 7–10 student books with their guides), and

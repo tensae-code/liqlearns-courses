@@ -120,8 +120,21 @@ own value-per-unit shape and is not merged into the levels above)*:
     Community Participation (2) · The Pursuit of Wisdom (4).
     46 lessons.
 
-**Totals: 382 lessons** (Moral opening 132 · Moral civics strand
-20 · Citizenship Education 184 · older generation 46).
+**Totals: 384 lessons** (Moral opening 132 · Moral civics strand
+20 · Citizenship Education 186 · older generation 46).
+
+*Standing note on the count (2026-11-12, finisher): the build
+design's own summary line said 382, counting Citizenship Education
+as 184 — its pupil-taught lessons only. The design's title table
+and band lists count all 186 citizenship lessons, including the
+two evidence-only ones (Children's rights — the Convention in
+plain words; Democratic Values in Indigenous Institutions), and
+the course as built stands at 186: the total is 384. One name
+appears twice in the design by its own order — Features of Human
+Rights is two lessons: the Grade 7 four features (universal,
+inherent, inalienable, indivisible) at
+`human-rights/features-of-human-rights`, and the Grade 10 six
+marks at `human-rights/features-of-human-rights-g10`.*
 
 ## Where the build stands
 
@@ -151,6 +164,25 @@ and verified:
   questions; pictures 28000–28083 + 28200–28258, 14 GIFs
   frame-checked; teacher-guide evidence only throughout,
   0-countries acceptance in every lesson. Commit 9a4727563.
-- Bands C3 (Levels 15–21, Grades 7–8) and C4 (Levels 17–27 depth
-  + Levels 22–27) — records land as each band is verified and
-  committed.
+- **Band C3 (Citizenship Grades 7–8) — BUILT**: 72 lessons,
+  888 questions; pictures 28600–28767, 7 GIFs frame-checked.
+  Its own titles (belonging-and-citizenship 5,
+  the-state-and-government 13, human-rights 11,
+  taking-part-and-peace 10) are in commit 3caaa37d7; its
+  lessons inside the shared titles (democracy 9,
+  law-and-the-constitution 12, thinking-like-a-citizen 12)
+  are committed together with Band C4. One evidence-only
+  lesson: Children's rights — the Convention in plain words.
+- **Band C4 (Citizenship Grades 9–10 depth + Levels 22–27) —
+  BUILT**: 91 lessons, 797 questions; pictures 28800–28999
+  (192 pictures + 8 GIFs, drawn renders, every GIF frame-checked).
+  Committed together with Band C3's 33 lessons inside the shared
+  titles (democracy 9, law-and-the-constitution 12,
+  thinking-like-a-citizen 12), as the C3 record promised. The
+  design's two Features of Human Rights lessons stand as two:
+  the Grade 7 four features at `human-rights/features-of-human-rights`
+  and the Grade 10 six marks at
+  `human-rights/features-of-human-rights-g10`. One evidence-only
+  lesson: Democratic Values in Indigenous Institutions.
+  **The course is complete: 384 lessons** (see the standing note
+  on the count above).

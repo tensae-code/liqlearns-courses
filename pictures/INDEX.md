@@ -4894,6 +4894,206 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 28765 | pictures/28765.webp | Picture — a maze solved three ways, one thinker frozen at the entrance | Civics and Citizenship — Ethiopia — Getting better at critical thinking — strategies that work |
 | 28766 | pictures/28766.webp | Picture — a woman at a fork with a water pot, a bird above one path | Civics and Citizenship — Ethiopia — Critical thinking in problem solving — evidence before omens |
 | 28767 | pictures/28767.webp | Picture — a key labelled critical thinking unlocking a door labelled problem solved | Civics and Citizenship — Ethiopia — Critical thinking in problem solving — evidence before omens |
+| 28800 | pictures/28800.webp | Phone, ATM, drone, GPS and smartwatch around one pupil | Civics and Citizenship — Ethiopia — Digital Technology — What It Is |
+| 28801 | pictures/28801.webp | A student at the centre of a web of connections (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Digital Technology — What It Is |
+| 28802 | pictures/28802.webp | A cultural festival filmed and shared with pride | Civics and Citizenship — Ethiopia — Culture and Digital Technology |
+| 28803 | pictures/28803.webp | A family table where two phones have silenced the meal | Civics and Citizenship — Ethiopia — Culture and Digital Technology |
+| 28804 | pictures/28804.webp | A woven pattern and a phone screen merging into one cloth (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Culture and Digital Technology |
+| 28805 | pictures/28805.webp | Four panels — video call, fast message, online lesson, online shop | Civics and Citizenship — Ethiopia — What Digital Technology Is For |
+| 28806 | pictures/28806.webp | Four doors from one phone (teacher guide — evidence) | Civics and Citizenship — Ethiopia — What Digital Technology Is For |
+| 28807 | pictures/28807.webp | The code list as a phone-shaped poster | Civics and Citizenship — Ethiopia — Codes of Conduct Online |
+| 28808 | pictures/28808.webp | A phone screen with seven rules being ticked (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Codes of Conduct Online |
+| 28809 | pictures/28809.webp | Six labelled shields around a phone | Civics and Citizenship — Ethiopia — Codes of Conduct Online |
+| 28810 | pictures/28810.webp | A farmer checking a price message at a market stall | Civics and Citizenship — Ethiopia — Communicating Well Through Digital Media |
+| 28811 | pictures/28811.webp | Two chat windows — one confused, one calm (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Communicating Well Through Digital Media |
+| 28812 | pictures/28812.webp | A false headline racing across three phones | Civics and Citizenship — Ethiopia — Challenges of Digital Media |
+| 28813 | pictures/28813.gif | One false post passing from phone to phone, faster and faster | Civics and Citizenship — Ethiopia — Challenges of Digital Media |
+| 28814 | pictures/28814.webp | A balance — a phone at a desk against a phone all night in bed | Civics and Citizenship — Ethiopia — Digital Technology and the Citizen — The Double Edge |
+| 28815 | pictures/28815.webp | A phone splitting one scene in two (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Digital Technology and the Citizen — The Double Edge |
+| 28816 | pictures/28816.webp | A grandmother smiling at a video call | Civics and Citizenship — Ethiopia — Digital Technology and Emotions — Gains and Harms |
+| 28817 | pictures/28817.webp | A pupil alone at a full family table, lit by a phone | Civics and Citizenship — Ethiopia — Digital Technology and Emotions — Gains and Harms |
+| 28818 | pictures/28818.webp | Seven panels across one town street | Civics and Citizenship — Ethiopia — Digital Technology and Social Life — Gains and Harms |
+| 28819 | pictures/28819.webp | A shuttered telephone kiosk beside teenagers with mobile phones | Civics and Citizenship — Ethiopia — Digital Technology and Social Life — Gains and Harms |
+| 28820 | pictures/28820.webp | A pupil comparing two sources, a question mark turning into a tick | Civics and Citizenship — Ethiopia — Digital Technology and Ethical Values — Gains and Harms |
+| 28821 | pictures/28821.webp | A pupil at night between two glowing contradictory scrolls | Civics and Citizenship — Ethiopia — Digital Technology and Ethical Values — Gains and Harms |
+| 28822 | pictures/28822.webp | One desk, five doors — Information, People, Learning, Work, Invention | Civics and Citizenship — Ethiopia — Opportunities for Young Citizens Online |
+| 28823 | pictures/28823.webp | Five open doors from one phone (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Opportunities for Young Citizens Online |
+| 28824 | pictures/28824.webp | Two assignment pages — one copied and stamped, one earned | Civics and Citizenship — Ethiopia — Unethical Use — Cheating, Plagiarism, Piracy |
+| 28825 | pictures/28825.webp | An evidence tray (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Unethical Use — Cheating, Plagiarism, Piracy |
+| 28826 | pictures/28826.webp | A mask held in front of a phone's camera | Civics and Citizenship — Ethiopia — Unethical Use — Identity Theft and Harmful Content |
+| 28827 | pictures/28827.webp | One document on a plinth above parliament, courts and a charter of rights | Civics and Citizenship — Ethiopia — What a Constitution Is |
+| 28828 | pictures/28828.webp | A constitution book opened to a diagram of its own parts (teacher guide — evidence) | Civics and Citizenship — Ethiopia — What a Constitution Is |
+| 28829 | pictures/28829.webp | One bound constitution beside a bundle of custom scrolls | Civics and Citizenship — Ethiopia — Kinds of Constitution |
+| 28830 | pictures/28830.webp | A two-by-two grid — locked door, open door, split power, one tower | Civics and Citizenship — Ethiopia — Kinds of Constitution |
+| 28831 | pictures/28831.webp | Six pillars holding one roof labelled 'the constitution' | Civics and Citizenship — Ethiopia — Principles of a Constitution |
+| 28832 | pictures/28832.webp | A ruler's raised hand stopped by an open constitution | Civics and Citizenship — Ethiopia — Constitutionalism — Limited Government in Practice |
+| 28833 | pictures/28833.webp | A tiger made of paper behind a real fence (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Constitutionalism — Limited Government in Practice |
+| 28834 | pictures/28834.webp | Three aged manuscripts with crowns above them | Civics and Citizenship — Ethiopia — Ethiopia's Constitutions — From Kibre Negest to 1995 |
+| 28835 | pictures/28835.webp | A timeline — coronation, 1931, exile, federation, 1955 | Civics and Citizenship — Ethiopia — Ethiopia's Constitutions — From Kibre Negest to 1995 |
+| 28836 | pictures/28836.webp | A timeline with an empty gap, 1974–1987 | Civics and Citizenship — Ethiopia — Ethiopia's Constitutions — From Kibre Negest to 1995 |
+| 28837 | pictures/28837.webp | The federal map with two houses and five principles as its foundation | Civics and Citizenship — Ethiopia — Ethiopia's Constitutions — From Kibre Negest to 1995 |
+| 28838 | pictures/28838.webp | A timeline of five documents, the last opened at Chapter 3 (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Ethiopia's Constitutions — From Kibre Negest to 1995 |
+| 28839 | pictures/28839.webp | Pottery wheels, with elders settling a dispute behind | Civics and Citizenship — Ethiopia — Indigenous Knowledge — What It Is |
+| 28840 | pictures/28840.webp | An elder telling a proverb to children (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Indigenous Knowledge — What It Is |
+| 28841 | pictures/28841.webp | Elders in a circle under a tree, two disputants reconciled | Civics and Citizenship — Ethiopia — Indigenous Knowledge and Responsible Citizens — Settling Conflicts |
+| 28842 | pictures/28842.webp | Three scenes — reconciliation, work party, protected grove (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Indigenous Knowledge and Responsible Citizens — Settling Conflicts |
+| 28843 | pictures/28843.webp | Three workshop panels — a loom, a forge, a carver's bench | Civics and Citizenship — Ethiopia — Indigenous Knowledge and Responsible Citizens — Local Technologies |
+| 28844 | pictures/28844.gif | A shuttle crossing a loom, back and forth | Civics and Citizenship — Ethiopia — Indigenous Knowledge and Responsible Citizens — Local Technologies |
+| 28845 | pictures/28845.webp | Konso terraces beside layered Gedeo agroforestry | Civics and Citizenship — Ethiopia — Indigenous Knowledge and Responsible Citizens — Caring for the Land |
+| 28846 | pictures/28846.webp | Women raising siinqee sticks between two groups of men | Civics and Citizenship — Ethiopia — Indigenous Social Institutions |
+| 28847 | pictures/28847.webp | Neighbours carrying a coffin together, under an idir banner | Civics and Citizenship — Ethiopia — Indigenous Social Institutions |
+| 28848 | pictures/28848.webp | A circle of savers drawing lots over a money pot | Civics and Citizenship — Ethiopia — Indigenous Social Institutions |
+| 28849 | pictures/28849.webp | A shared feast table beside a field of farmers at one harvest | Civics and Citizenship — Ethiopia — Indigenous Social Institutions |
+| 28850 | pictures/28850.webp | Five labelled scenes of the institutions (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Indigenous Social Institutions |
+| 28851 | pictures/28851.gif | a money pot passing hand to hand around a circle of members | Civics and Citizenship — Ethiopia — Indigenous Social Institutions |
+| 28852 | pictures/28852.webp | A coffee ceremony drawn three regional ways | Civics and Citizenship — Ethiopia — Understanding Culture |
+| 28853 | pictures/28853.webp | A mirror woven from language, dress, food and festival threads (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Understanding Culture |
+| 28854 | pictures/28854.webp | Many differently dressed figures under one shared roof beam | Civics and Citizenship — Ethiopia — What Multiculturalism Is |
+| 28855 | pictures/28855.webp | Many cultural threads woven into one cloth (teacher guide — evidence) | Civics and Citizenship — Ethiopia — What Multiculturalism Is |
+| 28856 | pictures/28856.webp | Four pillars under one pediment — Accept, Respect, Tolerate, Appreciate | Civics and Citizenship — Ethiopia — Pillars of a Multicultural Society |
+| 28857 | pictures/28857.webp | Five pillars holding one roof labelled Ethiopia (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Pillars of a Multicultural Society |
+| 28858 | pictures/28858.webp | A church and a mosque on one street, neighbours greeting between | Civics and Citizenship — Ethiopia — Forms of Diversity |
+| 28859 | pictures/28859.webp | A pupil using a wheelchair leading a group presentation | Civics and Citizenship — Ethiopia — Forms of Diversity |
+| 28860 | pictures/28860.webp | A market crowd with four callouts (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Forms of Diversity |
+| 28861 | pictures/28861.webp | Differently dressed nations in one line, holding one rope | Civics and Citizenship — Ethiopia — Unity in Diversity |
+| 28862 | pictures/28862.webp | Many rivers of different colours joining one dam lake (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Unity in Diversity |
+| 28863 | pictures/28863.webp | Three overlapping circles — Culture, Religion, Language — over a map | Civics and Citizenship — Ethiopia — Elements of Diversity |
+| 28864 | pictures/28864.webp | A patchwork map of Ethiopia (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Elements of Diversity |
+| 28865 | pictures/28865.webp | Two roads — figures flattened uniform, and figures distinct under one flag | Civics and Citizenship — Ethiopia — Accommodating Diversity |
+| 28866 | pictures/28866.webp | A house with many rooms beside a single melting pot (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Accommodating Diversity |
+| 28867 | pictures/28867.webp | A teacher arriving with a bag to a village welcome | Civics and Citizenship — Ethiopia — Diversity Management in Ethiopia — And the Balance |
+| 28868 | pictures/28868.webp | A balance — 'our differences, respected' against 'one nation', level | Civics and Citizenship — Ethiopia — Diversity Management in Ethiopia — And the Balance |
+| 28869 | pictures/28869.webp | A gardener tending many different crops in one field (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Diversity Management in Ethiopia — And the Balance |
+| 28870 | pictures/28870.gif | a balance scale tipping, then levelling as both pans are filled | Civics and Citizenship — Ethiopia — Diversity Management in Ethiopia — And the Balance |
+| 28871 | pictures/28871.webp | A traveller at a bus stop, thought-bubbles of the four parts | Civics and Citizenship — Ethiopia — What Problem-Solving Is |
+| 28872 | pictures/28872.webp | A gap between two cliffs, a bridge half-built (teacher guide — evidence) | Civics and Citizenship — Ethiopia — What Problem-Solving Is |
+| 28873 | pictures/28873.webp | Three desks — two turned away, a third pupil between them | Civics and Citizenship — Ethiopia — Problem-Solving in Practice — Mending a Friendship |
+| 28874 | pictures/28874.webp | The six gains as six tools laid out on a school desk | Civics and Citizenship — Ethiopia — Why Problem-Solving Matters |
+| 28875 | pictures/28875.webp | Two toolkits open on one table (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Why Problem-Solving Matters |
+| 28876 | pictures/28876.webp | One solver facing a blocked path, three alternative routes drawn | Civics and Citizenship — Ethiopia — The Good Problem Solver |
+| 28877 | pictures/28877.webp | A figure with five labelled tools (teacher guide — evidence) | Civics and Citizenship — Ethiopia — The Good Problem Solver |
+| 28878 | pictures/28878.webp | A four-step staircase with one worked school problem climbing it | Civics and Citizenship — Ethiopia — Stages of Problem-Solving |
+| 28879 | pictures/28879.gif | A figure climbing the four stages, ticking each one off | Civics and Citizenship — Ethiopia — Stages of Problem-Solving |
+| 28880 | pictures/28880.webp | Two gears meshed — Analyse and Invent — turning one solution cog | Civics and Citizenship — Ethiopia — Improving Problem-Solving — Thinking Critically and Creatively |
+| 28881 | pictures/28881.webp | Two former disputants shaking hands over a shared desk | Civics and Citizenship — Ethiopia — Problem-Solving and the Good Citizen |
+| 28882 | pictures/28882.webp | Ethiopia at the centre of a web of handshakes with its neighbours | Civics and Citizenship — Ethiopia — Foreign Relations — What They Are |
+| 28883 | pictures/28883.webp | A country's table with three chairs — peace, development, influence (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Foreign Relations — What They Are |
+| 28884 | pictures/28884.webp | A shield labelled 'sovereignty' over a port of Ethiopian goods at Djibouti | Civics and Citizenship — Ethiopia — National Interest |
+| 28885 | pictures/28885.webp | A ship with compass and chart beside a second ship drifting | Civics and Citizenship — Ethiopia — Foreign Policy |
+| 28886 | pictures/28886.webp | Two negotiators across a table, a signed paper between them | Civics and Citizenship — Ethiopia — Instruments of Foreign Policy |
+| 28887 | pictures/28887.webp | A scale — trade goods one side, a sheathed sword laid last | Civics and Citizenship — Ethiopia — Instruments of Foreign Policy |
+| 28888 | pictures/28888.webp | A handshake, a trade ship and a sheathed sword, in that order (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Instruments of Foreign Policy |
+| 28889 | pictures/28889.webp | A Horn map — rivers across borders, the dam on the Abay | Civics and Citizenship — Ethiopia — Ethiopia and Its Region |
+| 28890 | pictures/28890.webp | Ethiopian peacekeepers beside a village market reopening | Civics and Citizenship — Ethiopia — Ethiopia and Its Region |
+| 28891 | pictures/28891.webp | Three arrows on one map — port, oil, power | Civics and Citizenship — Ethiopia — Ethiopia and Its Region |
+| 28892 | pictures/28892.webp | a map of the Horn with trade routes from Ethiopia, the Djibouti route boldest | Civics and Citizenship — Ethiopia — Ethiopia and Its Region |
+| 28893 | pictures/28893.webp | The two Greek words as two stones forming one arch lettered 'rule by the people' | Civics and Citizenship — Ethiopia — Democracy and Democratization |
+| 28894 | pictures/28894.webp | A road with three waypoints — authoritarian, semi-democracy, democracy — travellers walking it slowly | Civics and Citizenship — Ethiopia — Democracy and Democratization |
+| 28895 | pictures/28895.webp | A road with three signposts and a country walking it (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Democracy and Democratization |
+| 28896 | pictures/28896.webp | A ballot box with party flags on one side and neighbourhood association banners on the other | Civics and Citizenship — Ethiopia — Who Builds Democracy — Parties, Civil Society, Interest Groups, Media |
+| 28897 | pictures/28897.webp | A conveyor belt carrying citizens' petitions to a government building, beside a printing press and a radio tower | Civics and Citizenship — Ethiopia — Who Builds Democracy — Parties, Civil Society, Interest Groups, Media |
+| 28898 | pictures/28898.webp | Four figures around a ballot box — party agent, association leader, union voice, journalist (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Who Builds Democracy — Parties, Civil Society, Interest Groups, Media |
+| 28899 | pictures/28899.webp | A polling station scene with the nine functions as a checklist board beside the ballot box | Civics and Citizenship — Ethiopia — Democratic Institutions |
+| 28900 | pictures/28900.webp | A party office door open to a mixed crowd, the nine functions as leaflets on its table | Civics and Citizenship — Ethiopia — Democratic Institutions |
+| 28901 | pictures/28901.webp | A watchdog seated (kindly) outside a ministry door with a folder of public advice in its mouth | Civics and Citizenship — Ethiopia — Democratic Institutions |
+| 28902 | pictures/28902.webp | A ballot box guarded by an electoral-commission seal, three branches drawn as three pillars behind it (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Democratic Institutions |
+| 28903 | pictures/28903.webp | One street at two dates, the second showing a new clinic, a meeting hall and voters where none stood before | Civics and Citizenship — Ethiopia — Democracy and Social Transformation |
+| 28904 | pictures/28904.webp | Neighbours in a circle talking across a table, with ropes of connection drawn between houses behind them | Civics and Citizenship — Ethiopia — Democracy and Social Transformation |
+| 28905 | pictures/28905.webp | Neighbours building a community hall, a handshake labelled reciprocity at the centre (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Democracy and Social Transformation |
+| 28906 | pictures/28906.webp | Three columns lettered Liberty, Justice, Equality, each split into its three named parts | Civics and Citizenship — Ethiopia — Democratic Values — Liberty, Justice, Equality |
+| 28907 | pictures/28907.webp | An elders' assembly under a tree, its values lettered on the branches | Civics and Citizenship — Ethiopia — Democratic Values in Indigenous Institutions |
+| 28908 | pictures/28908.webp | A three-sided prism labelled Social, Economic, Political with one citizen standing at its centre | Civics and Citizenship — Ethiopia — Aspects of Democracy — Social, Economic, Political |
+| 28909 | pictures/28909.webp | A three-legged stool labelled social, economic, political, a citizen seated level on it (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Aspects of Democracy — Social, Economic, Political |
+| 28910 | pictures/28910.webp | A wide circle labelled governance with a smaller building labelled government inside it (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Governance and Good Governance — The Concepts |
+| 28911 | pictures/28911.webp | A public office with a short queue, a posted chart of fees and a clock showing service on time (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Governance and Good Governance — The Concepts |
+| 28912 | pictures/28912.webp | Citizens speaking at a public counter while an official records their words | Civics and Citizenship — Ethiopia — Governance and Good Governance — The Concepts |
+| 28913 | pictures/28913.webp | An office door open with a budget poster, a suggestion box and a queue being served in turn | Civics and Citizenship — Ethiopia — Elements of Good Governance |
+| 28914 | pictures/28914.webp | An eight-spoked wheel, one element per spoke, a public office at the hub (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Elements of Good Governance |
+| 28915 | pictures/28915.webp | One town with a clinic, a school and a market all reached by one good road | Civics and Citizenship — Ethiopia — What Good Governance Does |
+| 28916 | pictures/28916.webp | A road, a clinic and a market rising from a foundation stone labelled good governance (teacher guide — evidence) | Civics and Citizenship — Ethiopia — What Good Governance Does |
+| 28917 | pictures/28917.webp | Five hands of different ages holding one rope level and untangled | Civics and Citizenship — Ethiopia — What Good Governance Does |
+| 28918 | pictures/28918.webp | A bridge labelled 'good governance' with two cracked piers lettered Poverty and Corruption | Civics and Citizenship — Ethiopia — Challenges to Good Governance |
+| 28919 | pictures/28919.webp | A governance wheel with three stones in its path labelled poverty, corruption, inefficiency (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Challenges to Good Governance |
+| 28920 | pictures/28920.webp | A clinic shelf empty where medicine boxes should stand, with a 'closed — come tomorrow' note on the door | Civics and Citizenship — Ethiopia — When Governance Fails |
+| 28921 | pictures/28921.webp | A clinic shelf emptied, a court file gathering dust, a dark office window — one street, three failures (teacher guide — evidence) | Civics and Citizenship — Ethiopia — When Governance Fails |
+| 28922 | pictures/28922.webp | Five labelled doors off one corridor lettered Bribery, Embezzlement, Fraud, Nepotism, Extortion | Civics and Citizenship — Ethiopia — Corruption — What It Is and Its Forms |
+| 28923 | pictures/28923.webp | Citizens at a budget hearing with the town's spending drawn as a pie on a board | Civics and Citizenship — Ethiopia — Fighting Corruption |
+| 28924 | pictures/28924.webp | A newspaper front page beside a courtroom scales, one beam of light joining them | Civics and Citizenship — Ethiopia — Fighting Corruption |
+| 28925 | pictures/28925.webp | Five hands — citizen, teacher, journalist, clerk, judge — lifting one stone labelled corruption (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Fighting Corruption |
+| 28926 | pictures/28926.webp | One calm figure seated at the centre of a calm village, the same calm drawn at two scales | Civics and Citizenship — Ethiopia — Peace — Inner and Outer |
+| 28927 | pictures/28927.webp | Four panels — a calm face, a calm village, a just village, a silent but sullen village (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Peace — Inner and Outer |
+| 28928 | pictures/28928.webp | Two villages — one silent with doors barred, one noisy with a market and a mediation under a tree | Civics and Citizenship — Ethiopia — Peace — Positive and Negative |
+| 28929 | pictures/28929.webp | A cracked communal water pot with three labelled cracks | Civics and Citizenship — Ethiopia — When Peace Is Absent |
+| 28930 | pictures/28930.webp | An empty market street with a closed school and clinic behind shuttered doors | Civics and Citizenship — Ethiopia — When Peace Is Absent |
+| 28931 | pictures/28931.webp | A village with five cracks — unsafe homes, broken friendships, a closed market, an empty school, a fleeing family (teacher guide — evidence) | Civics and Citizenship — Ethiopia — When Peace Is Absent |
+| 28932 | pictures/28932.webp | Former opponents jointly raising the first wall of a shared building | Civics and Citizenship — Ethiopia — Peace Building |
+| 28933 | pictures/28933.gif | A broken rope being re-tied knot by knot between two hands | Civics and Citizenship — Ethiopia — Peace Building |
+| 28934 | pictures/28934.webp | Two former opponents replanting a boundary hedge together (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Peace Building |
+| 28935 | pictures/28935.webp | Elders' circle with two disputants both rising and shaking hands, a compensation calf led between them | Civics and Citizenship — Ethiopia — Indigenous Conflict Resolution — Features |
+| 28936 | pictures/28936.webp | Elders hearing two disputing families beneath a tree, hands being shaken at the end (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Indigenous Conflict Resolution — Features |
+| 28937 | pictures/28937.webp | A map of Ethiopia with the eight named systems lettered over their regions | Civics and Citizenship — Ethiopia — Indigenous Conflict Resolution in Ethiopia |
+| 28938 | pictures/28938.webp | A whole village eating together after a settlement, the two reconciled families at one table | Civics and Citizenship — Ethiopia — Indigenous Institutions and Peace |
+| 28939 | pictures/28939.webp | A healer blessing two reconciled men while their extended families watch in one circle | Civics and Citizenship — Ethiopia — Indigenous Institutions and Peace |
+| 28940 | pictures/28940.webp | A village institution house with its door open to the path, people of both sides entering (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Indigenous Institutions and Peace |
+| 28941 | pictures/28941.webp | Two storeys of one house lettered Federal and Regional sharing one roof labelled 'the constitution' | Civics and Citizenship — Ethiopia — Federalism — The Meaning |
+| 28942 | pictures/28942.webp | Flood relief boats from several regions converging on one flooded village (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Federalism — The Meaning |
+| 28943 | pictures/28943.webp | A layer cake with two cleanly separated layers and a knife that cannot cross between them | Civics and Citizenship — Ethiopia — Types of Federalism — Dual and Cooperative |
+| 28944 | pictures/28944.webp | A marble cake with colours swirled through both layers, beside the layer cake | Civics and Citizenship — Ethiopia — Types of Federalism — Dual and Cooperative |
+| 28945 | pictures/28945.webp | Two diagrams — two sealed boxes of power, and two overlapping gears turning one road-building machine (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Types of Federalism — Dual and Cooperative |
+| 28946 | pictures/28946.webp | Two keys to one strongroom, neither able to open it alone | Civics and Citizenship — Ethiopia — Features of Federalism |
+| 28947 | pictures/28947.webp | One large book on a shelf above two smaller government buildings, both looking up to it | Civics and Citizenship — Ethiopia — Features of Federalism |
+| 28948 | pictures/28948.webp | A constitution as a referee standing between federal and state teams (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Features of Federalism |
+| 28949 | pictures/28949.webp | Nine labelled tiles forming one shield over a map divided into regions | Civics and Citizenship — Ethiopia — Advantages and Disadvantages of Federalism |
+| 28950 | pictures/28950.webp | Two clerks pointing at each other across one unanswered citizen's letter | Civics and Citizenship — Ethiopia — Advantages and Disadvantages of Federalism |
+| 28951 | pictures/28951.webp | A balance with the advantages as weights of light, the disadvantages as weights of stone (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Advantages and Disadvantages of Federalism |
+| 28952 | pictures/28952.webp | Ethiopia's regional map with three lists beside it lettered Federal, State, Shared | Civics and Citizenship — Ethiopia — Federalism in Ethiopia |
+| 28953 | pictures/28953.webp | Two assembly halls — one of population representatives, one of nations' representatives — under one roof | Civics and Citizenship — Ethiopia — Federalism in Ethiopia |
+| 28954 | pictures/28954.webp | A map of Ethiopia's regions held in one frame, the House of the Federation seated above it (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Federalism in Ethiopia |
+| 28955 | pictures/28955.webp | A balance with 'self-rule' and 'one union' as its two pans and a hand steadying the beam | Civics and Citizenship — Ethiopia — Federalism in Ethiopia — Challenges |
+| 28956 | pictures/28956.webp | A newborn's hand holding one card lettered 'rights — because human' | Civics and Citizenship — Ethiopia — Human Rights — The Concept |
+| 28957 | pictures/28957.webp | Six interlocking rings lettered with the six features, no ring removable alone | Civics and Citizenship — Ethiopia — Features of Human Rights |
+| 28958 | pictures/28958.webp | Three trees of increasing breadth planted in 1789, 1917 and 1970 soil, labelled by their fruits | Civics and Citizenship — Ethiopia — Generations of Human Rights |
+| 28959 | pictures/28959.webp | A three-generation family portrait labelled with the three generations of rights, a constitution in the grandfather's hands (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Generations of Human Rights |
+| 28960 | pictures/28960.webp | The constitution opened at Chapter Three with the sampled rights as a contents column | Civics and Citizenship — Ethiopia — Human Rights in Ethiopia's Constitution |
+| 28961 | pictures/28961.webp | A seesaw balanced with 'my rights' and 'my duties' at equal weight | Civics and Citizenship — Ethiopia — Obligations for Human Rights — Citizens and the State |
+| 28962 | pictures/28962.webp | Three concentric guards around one child at a school desk lettered Respect, Protect, Fulfil | Civics and Citizenship — Ethiopia — Obligations for Human Rights — Citizens and the State |
+| 28963 | pictures/28963.webp | Three verbs as three doors a state must walk through, a citizen holding the last door open (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Obligations for Human Rights — Citizens and the State |
+| 28964 | pictures/28964.webp | One declaration scroll at the centre with treaty booklets radiating from it by year | Civics and Citizenship — Ethiopia — Protecting Human Rights — World, Regional and Ethiopian Instruments |
+| 28965 | pictures/28965.webp | Three shields lettered Africa, Americas, Europe above an Ethiopian courthouse and commission building | Civics and Citizenship — Ethiopia — Protecting Human Rights — World, Regional and Ethiopian Instruments |
+| 28966 | pictures/28966.webp | A pupil's hand over the heart before a flag, with a workshop, a library and a field drawn small behind | Civics and Citizenship — Ethiopia — Patriotism — The Meaning |
+| 28967 | pictures/28967.webp | Two figures under one flag — a soldier of the old wars and a young engineer-teacher of today (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Patriotism — The Meaning |
+| 28968 | pictures/28968.webp | Two figures — one holding a constitution, one holding a sword — both facing the same flag | Civics and Citizenship — Ethiopia — Types of Patriotism — Six Types |
+| 28969 | pictures/28969.webp | A nurse, a teacher and an athlete under one flag-raising scene | Civics and Citizenship — Ethiopia — Types of Patriotism — Six Types |
+| 28970 | pictures/28970.gif | A flag being raised at dawn (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Types of Patriotism — Six Types |
+| 28971 | pictures/28971.webp | A market trader and a tree-planter shaking hands over a seedling in a sack of grain | Civics and Citizenship — Ethiopia — Types of Patriotism — Six Types |
+| 28972 | pictures/28972.webp | Six panels under one flag — a constitution, a battlefield grave, a builder, a flag-raising, a factory, a tree planter (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Types of Patriotism — Six Types |
+| 28973 | pictures/28973.webp | Three foundation stones lettered Equality, Tolerance, Loyalty under one house | Civics and Citizenship — Ethiopia — Bases of Patriotism |
+| 28974 | pictures/28974.webp | Many differently dressed figures converging from a map's corners toward one hill labelled Adwa 1896 | Civics and Citizenship — Ethiopia — Bases of Patriotism |
+| 28975 | pictures/28975.webp | A flagpole planted on three foundation stones labelled equality, tolerance, loyalty (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Bases of Patriotism |
+| 28976 | pictures/28976.webp | A stadium crowd of all ages under one waving flag | Civics and Citizenship — Ethiopia — Why Patriotism Matters |
+| 28977 | pictures/28977.webp | A nurse returning a banknote across a desk while a queue of patients watches | Civics and Citizenship — Ethiopia — Traits of Patriots — And the Nurse Offered 500 Birr |
+| 28978 | pictures/28978.webp | A nurse at a hospital desk turning away an envelope, a queue of patients behind her treated in order (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Traits of Patriots — And the Nurse Offered 500 Birr |
+| 28979 | pictures/28979.webp | Two history books open — one page clear with sources footnoted, one page smudged with invented scenes crossed out | Civics and Citizenship — Ethiopia — Duties of Patriots |
+| 28980 | pictures/28980.webp | Many hands carrying one large water pot together, one hand trying to tip it toward itself | Civics and Citizenship — Ethiopia — Duties of Patriots |
+| 28981 | pictures/28981.webp | A teacher opening a crate of new library books before a crowd of pupils and elders | Civics and Citizenship — Ethiopia — Duties of Patriots |
+| 28982 | pictures/28982.webp | A volunteer repairing a community water point while neighbours bring tools (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Duties of Patriots |
+| 28983 | pictures/28983.webp | A village market stall with goods lettered from four continents, string lines running from the stall to a world map | Civics and Citizenship — Ethiopia — Globalization — The Meaning |
+| 28984 | pictures/28984.webp | A globe webbed with routes — ships, cables, flights, ideas — in four colours for the four dimensions (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Globalization — The Meaning |
+| 28985 | pictures/28985.webp | Four windows of one house — a parliament, a port, a family chat screen, a festival | Civics and Citizenship — Ethiopia — Dimensions of Globalization |
+| 28986 | pictures/28986.webp | A port crane loading Ethiopian coffee beside a conference table of many flags | Civics and Citizenship — Ethiopia — Advantages of Globalization |
+| 28987 | pictures/28987.webp | A remittance counter beside a coffee cup lettered with three cities' names | Civics and Citizenship — Ethiopia — Advantages of Globalization |
+| 28988 | pictures/28988.webp | A two-pan balance over a globe — goods, messages and money on one pan; a fading language, a closed workshop and a virus route on the other (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Advantages of Globalization |
+| 28989 | pictures/28989.webp | A traditional clothes stall closing while a fast-food sign lights up opposite | Civics and Citizenship — Ethiopia — Disadvantages of Globalization |
+| 28990 | pictures/28990.webp | Four warning signs — a factory gate closed, an empty wallet, a clinic queue, a smokestack — over one globe | Civics and Citizenship — Ethiopia — Disadvantages of Globalization |
+| 28991 | pictures/28991.webp | Farmers jointly clearing an irrigation channel while a school class watches and records | Civics and Citizenship — Ethiopia — Fighting Globalization's Harms |
+| 28992 | pictures/28992.webp | Three shields lettered Protect, Prevent, Promote standing over a village, neighbouring flags joined behind | Civics and Citizenship — Ethiopia — Fighting Globalization's Harms |
+| 28993 | pictures/28993.webp | A village irrigation channel maintained by its own people, a regional map, and a prize medal for a local inventor (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Fighting Globalization's Harms |
+| 28994 | pictures/28994.webp | A magnifying glass over a world map, with three gauges lettered Scope, Urgency, Centrality | Civics and Citizenship — Ethiopia — Global Issues — The Concept |
+| 28995 | pictures/28995.webp | A world map with eight issues as labelled storm clouds and markers — climate change, poverty and inequality, population explosion, corruption, unemployment, disease, violence, terrorism (teacher guide — evidence) | Civics and Citizenship — Ethiopia — Global Issues — The Concept |
+| 28996 | pictures/28996.webp | The book's climate figure redrawn — a glacier, a flood, a cleared forest, a warming sun, polluted air, a wildfire and a fouled sea in one panorama | Civics and Citizenship — Ethiopia — Global Issues — Climate Change |
+| 28997 | pictures/28997.gif | Floodwater rising step by step against a coastal village's wall marks | Civics and Citizenship — Ethiopia — Global Issues — Climate Change |
+| 28998 | pictures/28998.webp | Two panels — a widening gap between two houses, and a crowded hillside cleared tree by tree | Civics and Citizenship — Ethiopia — Global Issues — Poverty and Population |
+| 28999 | pictures/28999.webp | Three signposts on one road — a closed factory gate, a clinic's disease chart climbing, a cordoned street | Civics and Citizenship — Ethiopia — Global Issues — Work, Disease, Terror |
 | 26900 | pictures/26900.webp | one dimension drawn both ways — aligned figure and horizontal figure | Technology & Design — Dimensioning — lines, symbols |
 | 26901 | pictures/26901.webp | plate dimensioned twice — Ø20 size; 50 / 30 location to centre | Technology & Design — Size and location dimensions |
 | 26902 | pictures/26902.webp | stepped bar in chain (30/40/50) and parallel (30/70/120 from datum) arrangements | Technology & Design — Arranging dimensions |
