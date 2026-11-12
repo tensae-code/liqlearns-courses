@@ -557,3 +557,18 @@ The first lesson also carries the Grade 11 book's own shape (student item 1: the
 - Description lists in HTML — `internet-and-the-web/description-lists-in-html/`
 
 Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/internet-web-website-and-web-page/` (+ Sub lesson 4, the Web's four foundations — HTML, HTTP, web server, web browser; Berners-Lee, CERN, 1989 as the Grade 11 book states it; the Grade 8 part of the same lesson gives 1991, each taught as its own book states).
+
+**Band E3 — Grade 11 Unit 3 (Database Management), 12 new lessons — the Databases title opens:**
+
+- File-based data management — separate files, duplicated data — `databases/file-based-data-management-separate-files-duplicated-data/`
+- The database approach and the DBMS — `databases/the-database-approach-and-the-dbms/`
+- Entities, attributes and relationships — `databases/entities-attributes-and-relationships/`
+- One-to-one, one-to-many, many-to-many — `databases/one-to-one-one-to-many-many-to-many/`
+- Drawing an ERD — `databases/drawing-an-erd/`
+- The relational data model — tables of rows and columns — `databases/the-relational-data-model-tables-of-rows-and-columns/`
+- Primary keys and foreign keys — `databases/primary-keys-and-foreign-keys/`
+- Creating a database in Microsoft Access — `databases/creating-a-database-in-microsoft-access/`
+- Creating a table and entering records in Access — `databases/creating-a-table-and-entering-records-in-access/`
+- Creating a query in Access — `databases/creating-a-query-in-access/`
+- Query criteria — asking for exactly the records you want — `databases/query-criteria-asking-for-exactly-the-records-you-want/`
+- Queries across multiple tables — `databases/queries-across-multiple-tables/`

@@ -303,3 +303,22 @@ guide's "HMTL", "Got to Section…", Activity 4.9's
 .png/.jpg mismatch, and review model #4's nested head
 (its layout used, its head markup not). The course now
 stands at 447 lessons.
+
+**Band E3 (Grade 11, Unit 3) — BUILT 2026-11-12:** 12 new
+lessons, 149 questions, 22 media filed (pictures/GIFs
+16900–16921) — the Databases title opens: file-based
+data and its problems, the database approach and the
+DBMS, entities/attributes/relationships, the three
+relationship types, drawing an ERD, the relational
+model, primary and foreign keys, and Access taken step
+by step (create a database, create a table and enter
+records, queries, criteria, queries across tables) —
+the book's step order kept exactly. Book errors taught
+corrected and named in sources: the summary's stray
+"Emerging Technologies" bullet (p.71), Figure 3.8 cited
+vs 3.7 captioned, "RDMS" for RDBMS, "Figure 314",
+"Kebel/Kebele"; the guide's "Micrsosoft" and its
+"square" where the student book says "rectangle" (the
+student book followed). **Grade 11 now stands complete:
+84 new lessons across its six units** (plus one growth).
+The course now stands at 459 lessons.
