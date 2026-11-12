@@ -1,6 +1,6 @@
 # Sources — Falling and thrown objects
 
-countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan
+countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan
 
 **Book 5:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 6:** *Фізіка. 9 клас (пад рэд. А. А. Сакольскага) (Physics, Grade 9)* (student textbook — study aid / вучэбны дапаможнік) — Belarus, Isachenkava, Palchyk & Sokolski, ed. Sokolski; Minsk, «Народная асвета», 2010 (signed to print 28.07.2010); ISBN 978-985-03-1373-7; Belarusian-language edition (transl. from Russian by N. H. Liauchuk). Grade: 9 · Student book · Repo: release `mid-size-books-7`, asset `grade-09-gov-belarus-physics-student-full-year.pdf` — 17,769,911 bytes (matched asset). PDF pages: 216 (book 213 printed pp.). Printed page ≈ PDF page − 2 at the back (contents at printed p. 213). Verdict: COMPLETE (Ch.4 Laboratory experiment at printed p. 183, appendix p. 203, answers p. 209, contents and colophon present). Structure: Introduction (matter, space, time; scalars and vectors); Ch.1 Kinematics (§§4–15); Ch.2 Dynamics (§§16–26); Ch.3 Conservation laws (§§27–32); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Vertical motion and free fall | Grade 11 Student Textbook, printed pp. 70–74 |
@@ -21,7 +23,9 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan
 | Ch. 2 Force and Motion I, §2.3 Free Fall Motion (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.3 Free Fall Motion — printed p. 46 |
 | Ch 3: motion under the acceleration of gravity (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 30 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan).**
+| §24 Motion of a body under gravity (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §24 Motion of a body under gravity — printed p. 124 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 
 **Book 13:** *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)* (student textbook) — Yemen, Yemen MoE, same series/design as Grade 10. Grade: 11 · Student book · Repo: release `mid-size-books-2`, asset `grade-11-gov-yemen-physics-student-full-year.pdf` — 79,982,972 bytes. PDF pages: 274. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 10 evaluation at printed p. 270 closes the contents; closing pages present). Structure: 10 units — equilibrium of rigid bodies; periodic motions; sound waves; sound tones & resonance; light & vision devices; thermodynamics; heat engines; direct current; magnetism & magnetic effects of current; electrical measurements. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 14:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -47,6 +49,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 | §3.3 Гүйдлийн соронзон шинж (Mongolia, Grade 8) | Mongolia, *Физик VIII*, §3.3 Гүйдлийн соронзон шинж — printed p. 100 |
 | U9 The magnetic effect of an electric current; field of a current in a long straight wire (printed p. 238) (Yemen, Grade 11) | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U9 The magnetic effect of an electric current; field of a current in a long straight wire (printed p. 238) — printed p. 237 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen).**
+| §33 The magnetic field of a current; §34 Fields of a straight conductor and of a coil, the electromagnet (printed p. 128) (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §33 The magnetic field of a current; §34 Fields of a straight conductor and of a coil, the electromagnet (printed p. 128) — printed p. 126 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus).**
 
 Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen

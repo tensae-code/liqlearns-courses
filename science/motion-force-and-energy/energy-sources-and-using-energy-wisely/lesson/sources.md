@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -28,6 +28,8 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 
 **Book 12:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 13:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sources: non-renewable (wood as the book lists it, fossil fuels, nuclear fuels) and renewable (sun, wind, water) | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 194–195 |
@@ -47,7 +49,9 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 | Ch.8 Energy-sources technology (fossil, hydro, nuclear, then solar/wind/biofuel/tidal technology) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.8 Energy-sources technology (fossil, hydro, nuclear, then solar/wind/biofuel/tidal technology) — printed p. 147 |
 | U8 Solar energy: energy and its greatest source, kinds of solar radiation (printed p. 189) (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U8 Solar energy: energy and its greatest source, kinds of solar radiation (printed p. 189) — printed p. 185 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
+| §8 Combustion; specific heat of combustion of fuel (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §8 Combustion; specific heat of combustion of fuel — printed p. 34 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 

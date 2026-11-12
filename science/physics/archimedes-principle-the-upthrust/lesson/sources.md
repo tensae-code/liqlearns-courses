@@ -1,6 +1,6 @@
 # Sources — Archimedes' principle — the upthrust
 
-countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan
+countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan, Belarus
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -43,6 +43,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 **Book 20:** *فیزیک — صنف یازدهم (Physics — Grade 11)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف یازدهم (Physics — Grade 11), Ministry of Education, Kabul. Grade: 11 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul. Repo path (record): grade-11/gov/afghanistan/فیزیک_صنف_یازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G11-Dr-Physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–8 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 21:** *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 7)* (student textbook) — Belarus, Isachenkava L. A. & Liashchynski Yu. Dz., ed. Isachenkava; Minsk, «Народная асвета», 2009; ISBN 978-985-03-1200-6; approved by the Ministry of Education of the Republic of Belarus; Belarusian-language edition (transl. from Russian by T. R. Siarzhant). Grade: 7 · Student book · Repo: release `mid-size-books-7`, asset `grade-07-gov-belarus-physics-student-full-year.pdf` — 23,443,492 bytes (matched asset; archive.org source copy identical). PDF pages: 184. Printed page ≈ PDF page (contents printed pp. 180–181 inside the PDF; §1 folio 6 verified). Verdict: COMPLETE (Ch.4 Laboratory experiment, 3 appendices, answers to exercises at printed p. 178, contents and colophon present). Structure: Ch.1 Motion and forces (§§1–15); Ch.2 Work and energy, simple mechanisms (§§16–26); Ch.3 Pressure (§§27–38); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Archimedes' principle and buoyant force | Grade 12 Student Textbook, printed pp. 96–100 |
@@ -68,6 +70,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 | Exp.2 Archimedes' principle (Yemen, Grade 10) | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)*, Exp.2 Archimedes' principle — printed p. 8 |
 | Ch. 7 — Archimedes' law (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 7 — printed p. 183 — Archimedes' law |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| §36 Action of liquid and gas on an immersed body; §37 Archimedes' law, conditions for floating (printed p. 147) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §36 Action of liquid and gas on an immersed body; §37 Archimedes' law, conditions for floating (printed p. 147) — printed p. 144 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan, Belarus).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda, kenya, iraq, yemen

@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan
 
 **Book 6:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 7:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The convection loop: warmed fluid expands, lightens, rises; cool fluid sinks; the sawdust beaker (Activity 7.19) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
@@ -26,7 +28,9 @@ countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan
 | Ch 7: convection (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 7: convection — printed p. ~185 |
 | Ch. 4 — heat transfer by convection (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 4 — printed p. 93 — heat transfer by convection (کانوکشن named in the TOC) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan).**
+| §5 Convection (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §5 Convection — printed p. 20 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

@@ -1,6 +1,6 @@
 # Sources — Centripetal acceleration — always toward the centre
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya, Kuwait
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 **Book 7:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 8:** *Фізіка. 9 клас (пад рэд. А. А. Сакольскага) (Physics, Grade 9)* (student textbook — study aid / вучэбны дапаможнік) — Belarus, Isachenkava, Palchyk & Sokolski, ed. Sokolski; Minsk, «Народная асвета», 2010 (signed to print 28.07.2010); ISBN 978-985-03-1373-7; Belarusian-language edition (transl. from Russian by N. H. Liauchuk). Grade: 9 · Student book · Repo: release `mid-size-books-7`, asset `grade-09-gov-belarus-physics-student-full-year.pdf` — 17,769,911 bytes (matched asset). PDF pages: 216 (book 213 printed pp.). Printed page ≈ PDF page − 2 at the back (contents at printed p. 213). Verdict: COMPLETE (Ch.4 Laboratory experiment at printed p. 183, appendix p. 203, answers p. 209, contents and colophon present). Structure: Introduction (matter, space, time; scalars and vectors); Ch.1 Kinematics (§§4–15); Ch.2 Dynamics (§§16–26); Ch.3 Conservation laws (§§27–32); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal acceleration | Grade 11 Student Textbook, printed pp. 83–86 |
@@ -27,7 +29,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 | Ch 2 Uniform circular motion: angular displacement, centripetal acceleration and force (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 2 Uniform circular motion: angular displacement, centripetal acceleration and force — printed p. 37 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya, Kuwait).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+| §14 Curvilinear motion, linear and angular speed on a circle; §15 Acceleration of a point moving on a circle (printed p. 70) (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §14 Curvilinear motion, linear and angular speed on a circle; §15 Acceleration of a point moving on a circle (printed p. 70) — printed p. 65 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

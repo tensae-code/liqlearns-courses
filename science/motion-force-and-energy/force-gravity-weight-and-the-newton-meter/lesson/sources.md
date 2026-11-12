@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-gui
 
 **Book 8:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 9:** *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 7)* (student textbook) — Belarus, Isachenkava L. A. & Liashchynski Yu. Dz., ed. Isachenkava; Minsk, «Народная асвета», 2009; ISBN 978-985-03-1200-6; approved by the Ministry of Education of the Republic of Belarus; Belarusian-language edition (transl. from Russian by T. R. Siarzhant). Grade: 7 · Student book · Repo: release `mid-size-books-7`, asset `grade-07-gov-belarus-physics-student-full-year.pdf` — 23,443,492 bytes (matched asset; archive.org source copy identical). PDF pages: 184. Printed page ≈ PDF page (contents printed pp. 180–181 inside the PDF; §1 folio 6 verified). Verdict: COMPLETE (Ch.4 Laboratory experiment, 3 appendices, answers to exercises at printed p. 178, contents and colophon present). Structure: Ch.1 Motion and forces (§§1–15); Ch.2 Work and energy, simple mechanisms (§§16–26); Ch.3 Pressure (§§27–38); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravity at every position of a falling ball | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
@@ -34,7 +36,9 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-gui
 
 | Ch 4: force of gravity and weight (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 — printed p. 66 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Malaysia, Uganda).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| §8 The phenomenon of attraction, gravity; §10 Weight of a body (printed p. 42) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §8 The phenomenon of attraction, gravity; §10 Weight of a body (printed p. 42) — printed p. 34 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Placement: Student item 83 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK NOTE: the student book's contents lists §7.4.2 twice (gravity, then measuring force; the second should be §7.4.3) — a contents misprint only; the body sections are taught here in their true order.
 

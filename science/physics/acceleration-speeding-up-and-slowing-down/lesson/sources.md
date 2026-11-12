@@ -1,6 +1,6 @@
 # Sources — Acceleration — speeding up and slowing down
 
-countries: Ethiopia, Slovenia, Bulgaria, Afghanistan
+countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Slovenia, Bulgaria, Afghanistan
 
 **Book 4:** *فزیک — صنف نهم (Physics — Grade 9)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف نهم (Physics — Grade 9; the book spells the subject فزیک), Ministry of Education, Kabul. Grade: 9 · Student book, Dari · Edition/year: print year 1399 HS (2020/21), Kabul (cover and book-data page read from the secured file itself; book-data page gives subject فزیک, grade نهم, language Dari, publisher the ministry's curriculum directorate). Repo path (record): grade-09/gov/afghanistan/فیزیک_صنف_نهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy, recovered via the pusher-token GitHub route: migrated release asset grade-09-gov-afghanistan-c50fc67530.pdf in release mid-size-books-7 (asset id 703601239), 12,068,089 bytes, 81 PDF pages. Verdict: COMPLETE — full contents with printed pages read; body read across all four chapters. Printed ↔ PDF offset: printed p. 1 = PDF p. 8 (7 pages of front matter); printed pp. run 1–74 plus chapter questions. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 5:** *Фізіка. 9 клас (пад рэд. А. А. Сакольскага) (Physics, Grade 9)* (student textbook — study aid / вучэбны дапаможнік) — Belarus, Isachenkava, Palchyk & Sokolski, ed. Sokolski; Minsk, «Народная асвета», 2010 (signed to print 28.07.2010); ISBN 978-985-03-1373-7; Belarusian-language edition (transl. from Russian by N. H. Liauchuk). Grade: 9 · Student book · Repo: release `mid-size-books-7`, asset `grade-09-gov-belarus-physics-student-full-year.pdf` — 17,769,911 bytes (matched asset). PDF pages: 216 (book 213 printed pp.). Printed page ≈ PDF page − 2 at the back (contents at printed p. 213). Verdict: COMPLETE (Ch.4 Laboratory experiment at printed p. 183, appendix p. 203, answers p. 209, contents and colophon present). Structure: Introduction (matter, space, time; scalars and vectors); Ch.1 Kinematics (§§4–15); Ch.2 Dynamics (§§16–26); Ch.3 Conservation laws (§§27–32); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Speeding up and slowing down — acceleration in a straight line | Grade 11 Student Textbook, printed pp. 48–53 |
@@ -17,7 +19,9 @@ countries: Ethiopia, Slovenia, Bulgaria, Afghanistan
 | L2 Speed and acceleration; L3 Rectilinear uniformly accelerated motion (printed p. 14); L4 Rectilinear variable motion (printed p. 20) (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, L2 Speed and acceleration; L3 Rectilinear uniformly accelerated motion (printed p. 14); L4 Rectilinear variable motion (printed p. 20) — printed p. 12 |
 | Ch. 1 — acceleration (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 1 — printed p. 11 — acceleration |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Bulgaria, Afghanistan).**
+| §11 Acceleration; §12–13 Speed, path and coordinate with constant acceleration (printed pp. 54–59) (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §11 Acceleration; §12–13 Speed, path and coordinate with constant acceleration (printed pp. 54–59) — printed p. 51 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

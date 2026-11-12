@@ -1,6 +1,6 @@
 # Sources — Capacitors — storing charge
 
-countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan
+countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan, Belarus
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 
 **Book 13:** *فیزیک — صنف دهم (Physics — Grade 10)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف دهم (Physics — Grade 10), Ministry of Education, Kabul. Grade: 10 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul. Repo path (record): grade-10/gov/afghanistan/فیزیک_صنف_دهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G10-Dr-physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–9 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 14:** *Фізіка. 10 клас (Physics, Grade 10)* (student textbook — study aid) — Belarus, Hromyka A. U., Zenkovich U. I., Lutsevich A. A., Slesar I. E.; Minsk, «Адукацыя і выхаванне», 2013 (signed to print 13.06.2013); Belarusian-language edition. Grade: 10 · Student book · Repo: release `mid-size-books-7`, asset `grade-10-gov-belarus-physics-student-full-year.pdf` — 9,997,702 bytes (matched asset). PDF pages: 274. Printed page ≈ PDF page − 4 at the back (contents printed pp. 268–270). Verdict: COMPLETE (Laboratory experiment at printed p. 249, appendix p. 260, answers p. 264, contents and colophon present). Structure: Molecular physics — Ch.1 Foundations of molecular-kinetic theory (§§1–8); Ch.2 Foundations of thermodynamics (§§9–12); Electrodynamics — Ch.3 Electrostatics (§§13–21); Ch.4 Direct current (§§22–23); Ch.5 Current in different media (§§24–28); Ch.6 Magnetic field & electromagnetic induction (§§29–35). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capacitors and capacitance | Grade 11 Student Textbook, printed pp. 270–273 |
@@ -45,7 +47,9 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 | U5 Capacitance and capacitors; connecting capacitors in circuits (printed p. 132) (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U5 Capacitance and capacitors; connecting capacitors in circuits (printed p. 132) — printed p. 127 |
 | Ch. 6 — capacitance, the parallel-plate capacitor and joining capacitors (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 6 — printed p. 160 — capacitance concept p. 160, parallel-plate capacitor p. 161, joining capacitors p. 164 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| §20 Capacitance; capacitors; capacitance of a parallel-plate capacitor (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §20 Capacitance; capacitors; capacitance of a parallel-plate capacitor — printed p. 143 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan, Belarus).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

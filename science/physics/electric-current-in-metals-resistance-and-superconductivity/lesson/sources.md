@@ -1,10 +1,12 @@
 # Sources — Electric current in metals — resistance and temperature, superconductivity
 
-countries: Italy, Bulgaria
+countries: Italy, Bulgaria, Belarus
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 2: Onde, campo elettrico e magnetico* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 2: Onde, campo elettrico e magnetico. Grades 10–11 span (filed Grade 11) · Student book · First edition March 2012 (colophon), with “Physics in English” sections · Repo: release `mid-size-books-6`, asset `grade-11-gov-italy-physics-student-full-year.pdf` — 26,364,503 bytes (matched asset) · PDF pages: 452 · Offset: placements cite chapter and PDF page (the printed contents pages are typographically corrupt in the text layer, so the structure was taken from the chapter openers and section headings throughout the text, which are intact). Verdict: COMPLETE (the volume runs Ch. 15 through Ch. 26, closing with the magnetic field, as its title promises). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
 **Book 2:** *Физика и астрономия за 9. клас, Втора част (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Velchev N.; Pedagog 6, 2024. Grade 9 (Part 2 of 2), student — intensive foreign-language track, as printed · Repo: release `mid-size-books-8`, asset `grade-09-gov-bulgaria-physics-and-astronomy-fizika-9-klas-pedagog6-2024.pdf` — 71,874,235 bytes (matched) · PDF pages: 130 · Printed page = PDF page (folios 5–8 verified) · Verdict: COMPLETE as Part 2 (glossary printed p. 125, answers p. 128). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
+
+**Book 3:** *Фізіка. 10 клас (Physics, Grade 10)* (student textbook — study aid) — Belarus, Hromyka A. U., Zenkovich U. I., Lutsevich A. A., Slesar I. E.; Minsk, «Адукацыя і выхаванне», 2013 (signed to print 13.06.2013); Belarusian-language edition. Grade: 10 · Student book · Repo: release `mid-size-books-7`, asset `grade-10-gov-belarus-physics-student-full-year.pdf` — 9,997,702 bytes (matched asset). PDF pages: 274. Printed page ≈ PDF page − 4 at the back (contents printed pp. 268–270). Verdict: COMPLETE (Laboratory experiment at printed p. 249, appendix p. 260, answers p. 264, contents and colophon present). Structure: Molecular physics — Ch.1 Foundations of molecular-kinetic theory (§§1–8); Ch.2 Foundations of thermodynamics (§§9–12); Electrodynamics — Ch.3 Electrostatics (§§13–21); Ch.4 Direct current (§§22–23); Ch.5 Current in different media (§§24–28); Ch.6 Magnetic field & electromagnetic induction (§§29–35). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,7 +17,9 @@ countries: Italy, Bulgaria
 | Do it first; key ideas; Do It Yourself | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 2: Onde, campo elettrico e magnetico*, as cited in the rows above |
 | L5 Electric current in metals — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief (Bulgaria, Grade 9 Part 2) | Bulgaria, *Физика и астрономия за 9. клас, Втора част (Педагог 6, 2024)*, L5 Electric current in metals — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief — printed p. 33 |
 
-**Acceptance count: taught in 2 countries (Italy, Bulgaria).**
+| §24 Current in metals; temperature dependence of metal resistance; superconductivity — tagged NEW LESSON NEEDED in belarus-placements.md and stocked into this existing shared lesson per the Belarus merge brief (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §24 Current in metals; temperature dependence of metal resistance; superconductivity — printed p. 168 |
+
+**Acceptance count: taught in 3 countries (Italy, Bulgaria, Belarus).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Electric current in metals — resistance and temperature, superconductivity” — italy-placements.md, Book 2, Ch.23, PDF p. 282 — the same current-in-metals gap named for Belarus G10 / Bulgaria G9 in this expansion. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the current lessons.
 
