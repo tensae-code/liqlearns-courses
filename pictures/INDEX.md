@@ -5664,3 +5664,71 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 22467 | pictures/22467.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — mass-wasting-when-slopes-give-way |
 | 22468 | pictures/22468.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — malthus-population-against-food |
 | 22469 | pictures/22469.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-gap-between-rich-and-poor-countries |
+| 32300 | Experiment 2.1 dilution series — purple fading beaker by beaker | science/materials/matter-the-particle-theory |
+| 32301 | Democritus timeline (teacher evidence) | science/materials/matter-the-particle-theory |
+| 32302 | Scent particles spreading across a room | science/materials/matter-diffusion |
+| 32303 | GIF: ink blooming through a jar of water | science/materials/matter-diffusion |
+| 32304 | Three states as particle diagrams | science/materials/solids-liquids-and-gases |
+| 32305 | GIF: ice melting, then water steaming | science/materials/solids-liquids-and-gases |
+| 32306 | GIF: a solid vanishing straight into vapour — sublimation (teacher evidence) | science/materials/solids-liquids-and-gases |
+| 32307 | Six-arrow state-change diagram, sublimation and deposition highlighted (teacher evidence) | science/materials/solids-liquids-and-gases |
+| 32308 | Experiment 2.3 — four substances in water | science/materials/properties-that-identify-a-thing |
+| 32309 | Paper aflame vs nail only glowing — chemical properties | science/materials/properties-that-identify-a-thing |
+| 32310 | Experiment 2.4 six-element gallery | science/materials/elements-compounds-and-mixtures |
+| 32311 | Salt solution vs oil-and-water — homogeneous and heterogeneous mixtures | science/materials/mixtures-and-how-to-separate-them |
+| 32312 | GIF: vinegar fizzing on chalk powder | science/materials/chemical-change-burning-and-gas-making |
+| 32313 | Injera chain grain to flour to batter to injera, steps tagged | science/materials/changes-useful-and-harmful |
+| 32314 | Separation decision chart — property to method | science/materials/mixtures-and-how-to-separate-them |
+| 32315 | GIF: iron filings jumping to a magnet | science/materials/separating-magnet-and-evaporation |
+| 32316 | Magnet over filings-and-sulfur mix | science/materials/separating-magnet-and-evaporation |
+| 32317 | Three-stage strip: muddy, settled, filtered | science/materials/separating-settling-pouring-and-filtering |
+| 32318 | Separatory funnel, two layers and stopcock labelled | science/materials/separating-the-separatory-funnel |
+| 32319 | GIF: stopcock draining the lower layer to the boundary | science/materials/separating-the-separatory-funnel |
+| 32320 | Distillation train flask to condenser to receiver, araki named | science/materials/separating-distillation |
+| 32321 | Winnowing: grain falls, chaff blows | science/materials/separating-local-methods |
+| 32322 | GIF: winnowing — grain falls straight, chaff blows aside | science/materials/separating-local-methods |
+| 32700 | Three early microscopes in a row — Janssen 1590s, Hooke 1665, Leeuwenhoek 1670s | science/the-human-body/the-microscope-seeing-the-unseen |
+| 32701 | An ant at natural, hand-lens and compound size | science/the-human-body/simple-and-compound-microscopes |
+| 32702 | Fully labelled compound-microscope diagram | science/the-human-body/parts-of-the-compound-microscope |
+| 32703 | Correct carrying grip (arm and base) beside the bottle microscope | science/the-human-body/using-a-microscope-and-making-your-own |
+| 32704 | Hooke's cork honeycomb beside pond animalcules | science/the-human-body/the-discovery-of-the-cell |
+| 32705 | Plant and animal cells side by side — shared parts one colour, plant-only parts green | science/the-human-body/inside-a-cell-organelles-and-their-jobs |
+| 32706 | Three shaped cells — disc, spindle, branched — with jobs | science/the-human-body/cell-shape-size-and-function |
+| 32707 | Five-step organisation staircase — cell to organism | science/the-human-body/from-one-cell-to-a-whole-organism |
+| 32708 | Mitochondrion with glucose and oxygen in, energy, carbon dioxide and water out | science/the-human-body/respiration-releasing-energy-from-food |
+| 32709 | Photosynthesis and respiration cycle — leaf and animal gas arrows | science/the-human-body/photosynthesis-and-its-partnership-with-respiration |
+| 32710 | GIF: focus knob turning, blurred fibre sharpening to in focus | science/the-human-body/using-a-microscope-and-making-your-own |
+| 32711 | GIF: animalcules darting in a pond-water drop | science/the-human-body/the-discovery-of-the-cell |
+| 32712 | GIF: gas arrows cycling leaf to animal to leaf | science/the-human-body/photosynthesis-and-its-partnership-with-respiration |
+| 26400 | pictures/26400.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — climate-change-what-the-words-mean |
+| 26401 | pictures/26401.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — what-climate-change-does |
+| 26402 | pictures/26402.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — mitigation-cutting-emissions-growing-sinks |
+| 26403 | pictures/26403.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — adapting-ethiopian-farming-to-climate-change |
+| 26404 | pictures/26404.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — the-gedeo-way-tradition-protecting-nature |
+| 26405 | pictures/26405.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — mechanisation-power-gains-and-costs |
+| 26406 | pictures/26406.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — tillage-tools-and-the-tractor |
+| 26407 | pictures/26407.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — sprayers-incubators-and-hand-tools |
+| 26408 | pictures/26408.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — nutrition-the-basic-words |
+| 26409 | pictures/26409.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — energy-nutrients-carbs-fats-proteins |
+| 26410 | pictures/26410.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — vitamins-minerals-and-water |
+| 26411 | pictures/26411.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — the-six-food-groups |
+| 26412 | pictures/26412.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — food-security-is-not-nutrition-security |
+| 26413 | pictures/26413.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — nutrition-sensitive-agriculture |
+| 26414 | pictures/26414.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — malnutrition-forms-causes-and-answers |
+| 26415 | pictures/26415.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — diversified-food-production-why-variety-matters |
+| 26416 | pictures/26416.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — strategies-for-a-diverse-diet |
+| 26417 | pictures/26417.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — enriching-food-four-household-techniques |
+| 26418 | pictures/26418.webp | drawn diagram for the lesson (see its lesson plan) | Agriculture — traditional-and-wild-foods-ethiopias-hidden-nutrition |
+| 26419 | pictures/26419.gif | drawn diagram for the lesson (see its lesson plan) | Agriculture — what-climate-change-does |
+| 26420 | pictures/26420.gif | drawn diagram for the lesson (see its lesson plan) | Agriculture — tillage-tools-and-the-tractor |
+| 26421 | pictures/26421.gif | drawn diagram for the lesson (see its lesson plan) | Agriculture — sprayers-incubators-and-hand-tools |
+| 26422 | pictures/26422.gif | drawn diagram for the lesson (see its lesson plan) | Agriculture — enriching-food-four-household-techniques |
+| 24700 | pictures/24700.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — indifference-curves-and-the-indifference-map |
+| 24701 | pictures/24701.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — marginal-rate-of-substitution |
+| 24702 | pictures/24702.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — when-income-changes-parallel-shifts |
+| 24703 | pictures/24703.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — when-a-price-changes-pivots-of-the-budget-line |
+| 24704 | pictures/24704.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — consumer-optimum-where-the-curve-touches-the-line |
+| 24705 | pictures/24705.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — from-price-changes-to-the-demand-curve |
+| 24706 | pictures/24706.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — long-run-equilibrium-why-profits-are-competed-away |
+| 24707 | pictures/24707.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — measuring-gdp-value-added-at-every-stage |
+| 24708 | pictures/24708.gif | drawn motion diagram for the lesson (see its lesson plan) | Social Studies — the-circular-flow-of-income |
