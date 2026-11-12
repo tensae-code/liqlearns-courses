@@ -386,7 +386,22 @@ here as they land; counts are per band from the build logs.
   evidence stacked into 12 standing lessons, including a
   corrected surplus calculation and corrected Activity 4.1 key
   figures, named in sources only.
-- Band E (G12 student) registers here as it lands.
+- **Band E — Grade 12 student, PARTIAL** (33 lessons, 497
+  questions; pictures 25200–25232 incl. 7 GIFs): the original
+  builder's session ended mid-band. A completion pass verified
+  all 33 standing lessons in full (shape, question counts —
+  497, matching the coordinator's count), corrected four
+  substantively wrong media drafts before filing (a price
+  ceiling/floor drawn on the wrong sides, swapped labour
+  labels, struck-through captions, clipped axis labels) and
+  filed the 33 media files. Coverage: 35 of 115 placements.
+  **80 placements were never built** — the full list by number
+  stands in the build log (wave4-econ-E-g12.md); they remain
+  owed as a follow-up build (Band E2), including placement 81
+  (Idir), which gets only comparative treatment inside a
+  standing lesson. Economics therefore closes this wave at
+  492 of 572 placements stocked, with the G12 remainder named,
+  not hidden.
 
 ## Ethiopia History Grade 11 + Grade 10 placements — built 2026-11-12 (Wave 4 History Band C; pictures 23100–23131 range)
 

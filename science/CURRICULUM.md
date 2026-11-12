@@ -156,6 +156,30 @@ student book — guide material is syllabus-level
 teacher evidence only. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSI-science-g8-u2.md`.
 
+Band GS-F (Grade 7, Unit 6 — The Earth): 8 new
+lessons, 100 questions, 15 media filed (pictures/GIFs
+33100–33114). Six open the NEW title Earth and Space
+(TITLES entry 19; Unit 19 below) — the Earth's shape,
+evidence and dimensions (Table 6.1's figures taught;
+the summary's 40,008 km polar circumference NOT
+taught, flagged in sources), inside the Earth,
+rotation and revolution, the four spheres, the
+atmosphere and its five layers (guide-only, acceptance
+0 — the student book does not carry it; the guide's
+argon figure taught as printed and flagged, not
+silently corrected), and measuring the too-big and
+the too-small (guide-only short lesson, acceptance
+0). Two cycle lessons are NEW in Our Environment
+(carbon cycle, water cycle — neither title held a
+cycle lesson; the Biology treatments are a different
+depth and were not grown). Guide item 12 is filed as
+labelled evidence inside the shape lesson. Pairing
+carried exactly: the Grade 7 guide is an Addis Ababa
+bureau book, NOT edition-matched to the Amhara student
+book — guide material is syllabus-level teacher
+evidence only. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSF-science-g7-u6.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -338,6 +362,8 @@ teacher evidence only. Build log:
 7. **Resources people make — and looking after them** (`our-environment/resources-people-make`) — things people create for use — dam, mosque, church, school, hospital — are human-made resources; as shared property they must be used and kept prop…
 8. **Waste, flies, germs and trachoma** (`our-environment/waste-flies-germs-and-trachoma`) — waste dumped anywhere breeds flies, and flies carry germs from waste to people's bodies — one named result is trachoma, an eye disease that untreat…
 9. **What waste is and its three kinds** (`our-environment/what-waste-is-and-its-three-kinds`) — waste is what is left over after things are used — leftover food and products, human and animal waste — and it comes in three states: solid waste, …
+10. **Cycles — the carbon cycle** (`our-environment/cycles-the-carbon-cycle`) — carbon travels in a loop — released into the air by respiration and burning, taken in by plants for photosynthesis, passed to animals that eat the plants, returned by death and decomposition, and stored away in fossil fuels until burning releases it again (Grade 7 General Science)
+11. **Cycles — the water cycle** (`our-environment/cycles-the-water-cycle`) — water travels in an endless loop — evaporation and transpiration rise, condensation gathers the vapour into clouds, precipitation returns it as rain, and flow carries it back to the water bodies (Grade 7 General Science)
 
 ## Unit 12 — Family, School and Community
 
@@ -1321,3 +1347,13 @@ teacher evidence only. Build log:
 298. **Writing a laboratory report** (`chemistry/writing-a-laboratory-report`) — correct significant figures and units throughout — wrong sig figs "amount to lying about the precision";
 299. **Writing chemical equations** (`chemistry/writing-chemical-equations`) — Step 1: write the word equation (hydrogen + nitrogen → ammonia;
 300. **Writing electron configurations** (`chemistry/writing-electron-configurations`) — The Aufbau principle: electrons fill the lowest-energy orbitals first, in the filling order the diagram gives.
+
+
+## Unit 19 — Earth and Space
+
+1. **The Earth — shape, evidence and dimensions** (`earth-and-space/the-earth-shape-evidence-and-dimensions`) — the Earth is an oblate sphere — slightly flattened at the poles, bulged at the equator — known from evidence you can check: ships, different times, the eclipse shadow, and photographs from space; its size is fixed by Table 6.1's figures (Grade 7 General Science)
+2. **Inside the Earth — crust, mantle, core** (`earth-and-space/inside-the-earth-crust-mantle-core`) — the Earth has three layers — crust outside, mantle in the middle, core at the centre — each with its own thickness, contents and share of the whole, learned through the boiled-egg comparison (Grade 7 General Science)
+3. **The Earth — rotation, revolution, day-night and seasons** (`earth-and-space/rotation-revolution-day-night-and-seasons`) — the Earth spins on a 23.5°-tilted axis once in 24 hours (rotation — day and night) and travels around the Sun once in 365¼ days (revolution) — and the fixed tilt is what makes the seasons, opposite in the two hemispheres (Grade 7 General Science)
+4. **The Earth — four spheres, one system** (`earth-and-space/the-earths-four-spheres`) — the Earth works as four joined spheres — lithosphere, hydrosphere, biosphere and atmosphere — so interdependent that a change in any one of them changes the others (Grade 7 General Science)
+5. **The Earth — the atmosphere and its five layers** (`earth-and-space/the-atmosphere-and-its-five-layers`) — the atmosphere known two ways: by what it is made of (mostly nitrogen, then oxygen, with argon, carbon dioxide and the rare gases) and by its five stacked layers, from the troposphere to the exosphere — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+6. **Measuring the too-big and the too-small** (`earth-and-space/measuring-the-too-big-and-the-too-small`) — some quantities cannot be measured directly — the Earth is too big to wrap a tape around, and continental drift is too slow to watch — so science measures them indirectly — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)

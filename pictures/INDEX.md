@@ -5770,3 +5770,57 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 32917 | GIF: a fish's fins and tail beating as it swims | science/animals/animals-fish |
 | 32918 | GIF: a dolphin rising to breathe at the surface | science/animals/animals-mammals |
 | 32919 | GIF: a paramecium swimming, cilia rippling | science/animals/protists-protozoa-and-algae |
+| 33700 | Two rival pictures of matter — atoms vs endless dividing | science/materials/early-ideas-of-the-atom-democritus-against-aristotle |
+| 33701 | Cutting foil thinner and thinner (teacher evidence) | science/materials/early-ideas-of-the-atom-democritus-against-aristotle |
+| 33702 | Inside the atom — nucleus with protons and neutrons, electrons around | science/materials/inside-the-atom-protons-neutrons-electrons |
+| 33703 | Isotopes of one element — same protons, different neutrons | science/materials/isotopes-and-why-atomic-masses-are-not-whole-numbers |
+| 33704 | Atoms joined into molecules — monoatomic, diatomic, polyatomic | science/materials/molecules-atoms-joined |
+| 33705 | GIF: hydrogen atoms travelling in and joining oxygen, atoms staying whole | science/materials/molecules-atoms-joined |
+| 25200 | pictures/25200.webp | the Grade 12 eight-unit road map | Social Studies — macroeconomics-the-whole-economy-at-once |
+| 25201 | pictures/25201.webp | three dials feeding one HDI gauge | Social Studies — the-human-development-index |
+| 25202 | pictures/25202.gif | the same basket, its price tag changing year by year | Social Studies — the-consumer-price-index-and-inflation |
+| 25203 | pictures/25203.webp | price-level line rising, dipping, rising, with the three labels | Social Studies — inflation-deflation-and-disinflation |
+| 25204 | pictures/25204.webp | an inflation speedometer from creeping to hyperinflation | Social Studies — how-fast-is-inflation-creeping-to-hyperinflation |
+| 25205 | pictures/25205.webp | a population pyramid with the 14–60 band highlighted | Social Studies — the-labour-force-and-the-unemployment-rate |
+| 25206 | pictures/25206.webp | two trade balance scales, Ethiopia and China 2020 | Social Studies — the-balance-of-trade |
+| 25207 | pictures/25207.gif | dominoes labelled Mexico 1995, Asia 1997–98, Russia, Argentina falling in sequence | Social Studies — financial-crises-and-contagion |
+| 25208 | pictures/25208.webp | six signposts, one per school of thought | Social Studies — schools-of-macroeconomic-thought |
+| 25209 | pictures/25209.webp | four tributaries joining one river labelled AD | Social Studies — aggregate-demand-and-its-four-components |
+| 25210 | pictures/25210.webp | an upward SRAS curve with left and right shift arrows | Social Studies — short-run-aggregate-supply |
+| 25211 | pictures/25211.gif | a supply shock animating — SRAS shifts left, prices up, output down | Social Studies — ad-as-equilibrium-and-shocks |
+| 25212 | pictures/25212.webp | one jacket, two rupee price tags under two exchange rates | Social Studies — exchange-rates-the-price-of-a-currency |
+| 25213 | pictures/25213.webp | a factory, its smoke over a laundry line, and two cost curves drawn apart | Social Studies — externalities-private-cost-social-cost |
+| 25214 | pictures/25214.webp | a control panel with six gauges, one per policy objective | Social Studies — macroeconomic-policy-objectives-and-instruments |
+| 25215 | pictures/25215.webp | labour demand and supply curves crossing at the market wage | Social Studies — wage-determination-in-the-labour-market |
+| 25216 | pictures/25216.webp | two panels — a ceiling with empty shelves, a floor with a piled surplus | Social Studies — price-ceilings-and-price-floors |
+| 25217 | pictures/25217.webp | a timeline of birr rates 2.48, 2.50, 2.30, 2.07 | Social Studies — ethiopias-exchange-rate-history-the-gold-peg-era |
+| 25218 | pictures/25218.webp | three average-rate lines against income — rising, flat, falling | Social Studies — progressive-proportional-and-regressive-taxes |
+| 25219 | pictures/25219.gif | value stacking stage by stage through three hands | Social Studies — vat-how-value-added-tax-works |
+| 25220 | pictures/25220.webp | a poverty line drawn across a crowd, heads below it counted | Social Studies — measuring-poverty-the-headcount-index |
+| 25221 | pictures/25221.webp | people in a pit of different depths under a poverty line | Social Studies — the-poverty-gap-depth-and-severity |
+| 25222 | pictures/25222.webp | five quintile bars, the last towering at 51 percent | Social Studies — quintiles-deciles-and-the-kuznets-ratio |
+| 25223 | pictures/25223.gif | the Lorenz curve bowing further from the diagonal as inequality grows | Social Studies — the-lorenz-curve |
+| 25224 | pictures/25224.webp | the Lorenz diagram with the lens area shaded | Social Studies — the-gini-coefficient |
+| 25225 | pictures/25225.gif | the Iqub pot rotating around a circle of members | Social Studies — iqub-and-debo-rotating-credit-and-labour |
+| 25226 | pictures/25226.webp | a GTP scoreboard — target 11 percent, achieved 9.2, with three engine bars | Social Studies — gtp-performance-what-actually-grew |
+| 25227 | pictures/25227.webp | sources and sinks — nature feeding the economy, waste flowing back | Social Studies — the-economy-and-the-environment-sources-and-sinks |
+| 25228 | pictures/25228.webp | a milestone timeline above an inverted-U Kuznets curve | Social Studies — environmental-awareness-and-the-kuznets-curve |
+| 25229 | pictures/25229.gif | the poverty-environment circle turning once | Social Studies — the-poverty-environment-nexus |
+| 25230 | pictures/25230.webp | the greenhouse effect scaled to the whole atmosphere | Social Studies — global-warming-and-greenhouse-gases |
+| 25231 | pictures/25231.webp | a century thermometer with the three gases' shares as a pie | Social Studies — climate-change-what-it-is-and-what-causes-it |
+| 25232 | pictures/25232.webp | seedlings planted on a terraced hillside under CRGE and Green Legacy banners | Social Studies — ethiopias-climate-strategy-crge-and-green-legacy |
+| 33100 | The oblate sphere with equatorial and polar circumferences and both diameters | science/earth-and-space/the-earth-shape-evidence-and-dimensions |
+| 33101 | Flat-disc and flat-square Earth ideas beside the oblate sphere (guide evidence) | science/earth-and-space/the-earth-shape-evidence-and-dimensions |
+| 33102 | Earth cutaway: crust, mantle, core with thicknesses, boiled-egg inset | science/earth-and-space/inside-the-earth-crust-mantle-core |
+| 33103 | Earth at four orbit positions, seasons labelled for both hemispheres | science/earth-and-space/rotation-revolution-day-night-and-seasons |
+| 33104 | The Earth's four spheres overlapping | science/earth-and-space/the-earths-four-spheres |
+| 33105 | The atmosphere's five layers stacked with boundaries | science/earth-and-space/the-atmosphere-and-its-five-layers |
+| 33106 | The air's composition pie (argon as printed in the guide, flagged) | science/earth-and-space/the-atmosphere-and-its-five-layers |
+| 33107 | Globe measured with string beside creeping-continent arrows | science/earth-and-space/measuring-the-too-big-and-the-too-small |
+| 33108 | The carbon-cycle landscape with its five moves | science/our-environment/cycles-the-carbon-cycle |
+| 33109 | The water-cycle landscape: evaporation, transpiration, condensation, precipitation | science/our-environment/cycles-the-water-cycle |
+| 33110 | GIF: a ship sinking hull-first below the curve | science/earth-and-space/the-earth-shape-evidence-and-dimensions |
+| 33111 | GIF: Earth spinning on its tilted axis, day side sweeping | science/earth-and-space/rotation-revolution-day-night-and-seasons |
+| 33112 | GIF: carbon tokens travelling the loop — air, plant, animal, ground | science/our-environment/cycles-the-carbon-cycle |
+| 33113 | GIF: water rising as vapour, clouding, raining and flowing back | science/our-environment/cycles-the-water-cycle |
+| 33114 | GIF: a plane cruising in the lower stratosphere above weather clouds | science/earth-and-space/the-atmosphere-and-its-five-layers |

@@ -1,0 +1,18 @@
+# Sources — Cycles — the water cycle
+
+countries: Ethiopia
+
+**Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — The pan-and-ice experiment (vapour condensing on a cold pan bottom); evaporation from surface water; transpiration from plants; condensation into droplets | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 6, printed pp. 166–168 |
+| Sub lesson 2 — Precipitation as rain; soil absorption and flow back to water bodies; the loop with no starting point, which is why Earth's water endures | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 6, printed pp. 166–168 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Placement decision, stated for the record: no water-cycle lesson exists in the Our Environment or Soil and Water titles (checked both trees at build time; Soil and Water teaches water's uses, drought and water bodies, not the cycle), so this is a NEW lesson in Our Environment, as the brief directs. A secondary-depth Biology lesson on the water cycle exists under the Biology title; it is a different treatment at a different depth and was not grown.
+
+The video script for this lesson is FULL, as the placement requires: it walks through the pan-and-ice condensation experiment step by step.
+
+Searchable tags: water cycle, evaporation, transpiration, condensation, precipitation, pan and ice experiment, Ethiopia Grade 7 General Science Unit 6
