@@ -890,3 +890,41 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9014 | pictures/9014.gif | a music note, a theatre mask and a drawing sliding together into one | Performing and Visual Arts — How the Arts Belong Together |
 | 9015 | pictures/9015.gif | a Genna player swinging a curved stick and striking the ball | Performing and Visual Arts — Festivals and Their Arts |
 | 9016 | pictures/9016.gif | a long pestle pounding grain in a tall mortar, rising and falling | Performing and Visual Arts — Old Arts and Today's Arts |
+| 9150 | pictures/9150.webp | a free red scribble over coloured strokes | Performing and Visual Arts — First Marks and Scribbles |
+| 9151 | pictures/9151.webp | line models: across, down, slanting, curved | Performing and Visual Arts — Lines in Every Direction |
+| 9152 | pictures/9152.webp | zigzag, wave and loop patterns | Performing and Visual Arts — Lines in Every Direction |
+| 9153 | pictures/9153.webp | coloured filled ovals and ellipses | Performing and Visual Arts — Shapes You Can Draw |
+| 9154 | pictures/9154.webp | outline shapes waiting for colour | Performing and Visual Arts — Colouring Inside Shapes |
+| 9155 | pictures/9155.webp | geometric shapes: pyramid, circle, square, rectangle | Performing and Visual Arts — Shapes You Can Draw |
+| 9156 | pictures/9156.webp | open shapes from nature: flowers, leaf, cloud, person | Performing and Visual Arts — Shapes You Can Draw |
+| 9157 | pictures/9157.webp | forms: cylinder, cube, cone, shaded | Performing and Visual Arts — Shapes You Can Draw |
+| 9158 | pictures/9158.webp | a house built from shapes | Performing and Visual Arts — Shapes You Can Draw |
+| 9159 | pictures/9159.webp | a car built from shapes | Performing and Visual Arts — Shapes You Can Draw |
+| 9160 | pictures/9160.webp | drawing and colouring an orange | Performing and Visual Arts — Colouring Inside Shapes |
+| 9161 | pictures/9161.webp | four cultural practices: threshing, dancing, genna, coffee roasting | Performing and Visual Arts — Drawing What Our Culture Does |
+| 9162 | pictures/9162.webp | drawings pinned up in a row | Performing and Visual Arts — Appreciating Drawing |
+| 9163 | pictures/9163.webp | three paint pots: red, yellow, blue | Performing and Visual Arts — The Primary Colours |
+| 9164 | pictures/9164.webp | the primaries as balloons and glasses of coloured liquid | Performing and Visual Arts — The Primary Colours |
+| 9165 | pictures/9165.webp | clothes of different colours (a sorting set) | Performing and Visual Arts — The Primary Colours |
+| 9166 | pictures/9166.webp | a mixing diagram: three overlapping circles making green, orange, purple | Performing and Visual Arts — Mixing Colours |
+| 9167 | pictures/9167.webp | green grass, leaves and a maize field | Performing and Visual Arts — Green Around Us |
+| 9168 | pictures/9168.webp | yellow adey flowers and bananas; red roses | Performing and Visual Arts — Colours Around Us |
+| 9169 | pictures/9169.webp | blue sky over water, and the green-yellow-red flag | Performing and Visual Arts — Colours Around Us |
+| 9170 | pictures/9170.webp | a red T-shirt, a green-and-yellow sports shirt, a blue jacket | Performing and Visual Arts — Colours on Clothes |
+| 9171 | pictures/9171.webp | a family in their everyday clothes | Performing and Visual Arts — Colours on Clothes |
+| 9172 | pictures/9172.webp | traditional dress and its colours | Performing and Visual Arts — Colours on Clothes |
+| 9173 | pictures/9173.webp | red: sunrise, flag, red flowers, red soil | Performing and Visual Arts — Colours Around Us |
+| 9174 | pictures/9174.webp | yellow: sun, yellow flowers, turmeric | Performing and Visual Arts — Colours Around Us |
+| 9175 | pictures/9175.webp | regular shapes | Performing and Visual Arts — Shapes You Can Draw |
+| 9176 | pictures/9176.webp | shapes built from lines | Performing and Visual Arts — Shapes You Can Draw |
+| 9177 | pictures/9177.webp | joined and coloured geometric designs | Performing and Visual Arts — Shapes You Can Draw |
+| 9178 | pictures/9178.webp | drawings made in the primary colours | Performing and Visual Arts — The Primary Colours |
+| 9180 | pictures/9180.gif | a pencil scribbling freely in loops | Performing and Visual Arts — First Marks and Scribbles |
+| 9181 | pictures/9181.gif | lines drawn stroke by stroke: across, down, diagonal | Performing and Visual Arts — Lines in Every Direction |
+| 9182 | pictures/9182.gif | a zigzag then a wave, drawn without lifting | Performing and Visual Arts — Lines in Every Direction |
+| 9183 | pictures/9183.gif | an oval drawn in one stroke | Performing and Visual Arts — Shapes You Can Draw |
+| 9184 | pictures/9184.gif | colouring staying inside an outline | Performing and Visual Arts — Colouring Inside Shapes |
+| 9185 | pictures/9185.gif | lines joining up into a closed shape | Performing and Visual Arts — Shapes You Can Draw |
+| 9186 | pictures/9186.gif | red and yellow paint stirred into orange | Performing and Visual Arts — Mixing Colours |
+| 9187 | pictures/9187.gif | shapes sliding together into a house | Performing and Visual Arts — Shapes You Can Draw |
+| 9188 | pictures/9188.gif | a pencil shading a cylinder from light to dark | Performing and Visual Arts — Shapes You Can Draw |

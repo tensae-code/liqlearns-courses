@@ -59,8 +59,15 @@ lessons are the books'.
   Festivals and Their Arts; Old Arts and Today's Arts; Our
   Community's Values), 226 questions, 17 media filed (pictures/GIFs
   9000–9016, all drawn and frame-checked).
-- Remaining groups (Visual Art; Music — Listening + Songs; and
-  the upper-grade depth the read placed beyond the first map —
-  upper-grade music and drama) are being built and registered
-  here as they land. See ABOUT.md for the full book list and the
-  acceptance reckoning.
+- **Visual Art — Drawing + Colours — BUILT 2026-11-12:** all 11
+  lessons (First Marks and Scribbles; Lines in Every Direction;
+  Shapes You Can Draw; Colouring Inside Shapes; Drawing What Our
+  Culture Does; Appreciating Drawing; The Primary Colours; Mixing
+  Colours; Green Around Us; Colours Around Us; Colours on
+  Clothes), 152 questions, 38 media filed (pictures/GIFs
+  9150–9178, 9180–9188, all drawn and frame-checked).
+- Remaining groups (Visual Art — Making; Music — Listening +
+  Songs; and the upper-grade depth the read placed beyond the
+  first map — upper-grade music, drama, drawing) are being built
+  and registered here as they land. See ABOUT.md for the full book
+  list and the acceptance reckoning.
