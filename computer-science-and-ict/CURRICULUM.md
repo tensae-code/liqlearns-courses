@@ -468,3 +468,35 @@ answer sets, Ethiopian example sets, and the six-step
 database project rubric (filed in the queries-across
 lessons' hands-on; ABOUT-worthy). The course now
 stands at 564 lessons.
+
+**Band F5 (Grade 12, Unit 5) — BUILT 2026-11-12:** 20 new
+lessons and 3 grown, 250 questions newly written (242
+in the new lessons, 8 in the growths), 28 media filed
+(pictures/GIFs 31300–31320, 31330–31336) — Maintenance
+and Troubleshooting in the Hardware title: installing
+and uninstalling on PC and phone (the book's seven
+steps and procedures kept exactly), the three taught
+problems (frozen application, slow computer, sound),
+Disk Defragmenter, Disk Cleanup, Windows Update,
+Check Disk, System Restore, then network
+troubleshooting end to end — the frame, the six basic
+problems, steps 1 to 6, the command-line tools
+(ipconfig, ping, tracert, nslookup, netstat) and the
+hardware tools. Pairing note carried exactly: the
+guide gives NO teaching section for the student
+book's §5.5 Network Maintenance Tools, so that lesson
+rests on the student book alone and its sources say
+so; the guide's crimper/cable-tester definitions sit
+inside it as labelled evidence only. Book errors
+respected: "Activity 5.2" used twice; Figures 5.12/
+5.13 laid out swapped (the correct Task Manager route
+taught); the guide's "5.8" answer filed by topic as
+Activity 5.7's; the printed "Window Update" search
+term flagged. Growths were hand-edited into the real
+Grade 11 files only — a read-only scope check confirms
+no other hardware lesson was touched. **GRADE 12 IS
+NOW COMPLETE: 125 new lessons across its six units
+(plus growths in 12 earlier lessons), and with it the
+Information Technology build from Ethiopia's twelve
+books is finished.** The course now stands at
+584 lessons.

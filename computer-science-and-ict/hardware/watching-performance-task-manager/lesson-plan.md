@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Diagnostic tools — and the book's route in** — Diagnostic tools are software for diagnosing hardware problems; makers supply their own. The book's route: Ctrl+Alt+Delete together, choose Task Manager, open the Performance tab.
 2. **The quick view — and two carried notes** — CPU, memory, disk and Ethernet at a glance. Restarting clears unwanted temporary load; an application near 100% CPU should be disabled and started again.
 
+3. **Restarting Windows Explorer when the computer freezes (Grade 12 teacher guide — evidence)** — GROWN 2026-11-12 (Wave F, band F5): Ctrl+Alt+Delete → Task Manager → Processes tab → restart Windows Explorer; then the held power button; unplugging last resort only (Grade 12 Teacher Guide, printed pp. 104–105). GIF 31336.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

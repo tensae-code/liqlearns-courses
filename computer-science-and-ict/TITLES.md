@@ -693,3 +693,27 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - Filtering by date, AND, OR and BETWEEN — `databases/filtering-by-date-and-or-and-between/`
 - ORDER BY — ascending and descending results — `databases/order-by-ascending-and-descending-results/`
 - Grown with Grade 12 depth (new sub lessons): the relational data model; creating a table and entering records in Access; primary keys and foreign keys; the database approach and the DBMS; creating a database in Microsoft Access; creating a query in Access; one-to-one, one-to-many, many-to-many (the Relationships window); query criteria; queries across multiple tables (carries the guide's six-step database project checklist in its hands-on).
+
+**Band F5 — Grade 12 Unit 5 (Maintenance and Troubleshooting), 20 new lessons + 3 grown:**
+
+- Installation, updates and device drivers — `hardware/installation-updates-and-device-drivers/`
+- Installing software on a PC — `hardware/installing-software-on-a-pc/`
+- Installing apps on mobile devices — use the proper store — `hardware/installing-apps-on-mobile-devices/`
+- Uninstalling software on a PC — `hardware/uninstalling-software-on-a-pc/`
+- Uninstalling and disabling apps on a phone — `hardware/uninstalling-and-disabling-apps-on-a-phone/`
+- Troubleshooting — find the fault, find its cause — `hardware/troubleshooting-find-the-fault-find-its-cause/`
+- Fixing a slow or frozen application — `hardware/fixing-a-slow-or-frozen-application/`
+- Fixing a slow computer — malware and full disk — `hardware/fixing-a-slow-computer-malware-and-full-disk/`
+- Fixing sound that is not working — `hardware/fixing-sound-that-is-not-working/`
+- Disk Cleanup — deleting the files a disk no longer needs — `hardware/disk-cleanup-deleting-files-a-disk-no-longer-needs/`
+- Windows Update — downloading fixes and features — `hardware/windows-update-downloading-fixes-and-features/`
+- Check Disk and closing stuck programs — `hardware/check-disk-and-closing-stuck-programs/`
+- System Restore — rolling back to when it worked — `hardware/system-restore-rolling-back-to-when-it-worked/`
+- Network troubleshooting — detect, then fix — `hardware/network-troubleshooting-detect-then-fix/`
+- Six basic network problems — cable to overload — `hardware/six-basic-network-problems/`
+- Step 1 — identify the network problem — `hardware/step-1-identify-the-network-problem/`
+- Steps 2–6 — test a scenario, fix, verify, document — `hardware/steps-2-to-6-test-a-scenario-fix-verify-document/`
+- Command-line tools — ipconfig and ping — `hardware/command-line-tools-ipconfig-and-ping/`
+- Command-line tools — tracert, nslookup and netstat — `hardware/command-line-tools-tracert-nslookup-and-netstat/`
+- Hardware tools for network maintenance — crimper to multimeter — `hardware/hardware-tools-for-network-maintenance/`
+- Grown with Grade 12 depth: defragmenting — putting a file's pieces back together (item 105); watching performance — Task Manager (the Restart Explorer key); preventive maintenance — keeping dust out (the guide's definition as teacher evidence).

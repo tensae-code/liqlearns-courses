@@ -11,6 +11,9 @@ countries: Ethiopia
 | Fragmentation defined; scattered pieces slow the reading | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 5, printed pp. 124–125 |
 | The defragmenter defined; the four steps in order; the 0% note | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 5, printed pp. 124–125 |
 | Fragmentation defined in plain consequence terms; the defragmentation GIF (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 5, printed pp. 95–98 |
+| Sub lesson 3 — the Grade 12 depth: files broken and stored in unmanaged space; Disk Defragmenter stores each file in one sequence, speeding data retrieval and overall performance; access by typing "Disk Defragment" in the Windows search box (GROWTH, Wave F band F5) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 146–147 |
+
+**Book 3 (growth):** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under GEQIP-E. No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md (item 105).
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

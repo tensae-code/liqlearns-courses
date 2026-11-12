@@ -30,3 +30,14 @@ a) Event Viewer  b) Defragment and Optimize Drives  c) Device Manager  d) Backup
 a) needs urgent defragmentation  b) needs no defragmentation  c) is broken  d) must be formatted
 **Answer: b) needs no defragmentation** — the book's note: no work needed.
 
+**8. (Sub lesson 3)** In the Grade 12 depth, a fragmented disk's files are —
+a) deleted  b) broken and stored in unmanaged space  c) compressed  d) renamed
+**Answer: b) broken and stored in unmanaged space** — so the computer is slow to bring the fragments together to open them (Grade 12 Student Textbook, printed pp. 146–147).
+
+**9. (Sub lesson 3)** Disk Defragmenter rearranges files so each file is —
+a) copied twice  b) stored in one sequence  c) hidden  d) printed
+**Answer: b) stored in one sequence** — reducing fragmentation and speeding data retrieval.
+
+**10. (Sub lesson 3)** The Grade 12 route to Disk Defragmenter is —
+a) typing "Disk Defragment" in the Windows search box  b) right-clicking the desktop  c) opening Device Manager  d) the Recycle Bin
+**Answer: a) typing "Disk Defragment" in the Windows search box.**

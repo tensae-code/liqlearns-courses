@@ -11,3 +11,5 @@ Say whether each sentence is true or false.
 **3. (Sub lesson 2)** Ethernet is one of the four measures on the Performance tab.
 **Answer: True** — CPU, memory, disk, Ethernet.
 
+**4. (Sub lesson 3)** Windows Explorer is found in Task Manager's Processes tab. (teacher guide — evidence)
+**Answer: True** — that is where the guide's key restarts it from.

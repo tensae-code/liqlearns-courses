@@ -26,6 +26,8 @@ Make it a **monthly habit**: clean the **vents, ports and keyboards** every mont
 
 > **Teacher evidence:** the guide keys dust in the same consequence terms — dust leads to **overheating and component failure** (teacher guide, printed pp. 95–98).
 
+> **Teacher evidence — the Grade 12 definition (GROWN 2026-11-12, Wave F band F5):** the Grade 12 guide's review answers define preventive maintenance as **regular and systematic inspection, cleaning and replacement of worn parts, materials and systems**, which **prevents failure by keeping them in good working order** (Grade 12 Teacher Guide — evidence, printed pp. 111–112). The dust work in this lesson is that definition with its sleeves rolled up.
+
 ## Say it to your companion
 
 Define preventive maintenance in your own words, name its three kinds of work, then give the three dust methods in order and the monthly habit.

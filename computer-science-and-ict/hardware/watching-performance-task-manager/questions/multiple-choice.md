@@ -26,3 +26,14 @@ a) damages the disk  b) clears unwanted temporary load  c) deletes backups  d) c
 a) left alone  b) disabled and started again  c) deleted at once  d) given more memory by hand
 **Answer: b) disabled and started again** — the second carried note.
 
+**7. (Sub lesson 3)** A computer is completely frozen. The guide's FIRST rescue is — (teacher guide — evidence)
+a) unplug the power cable  b) open Task Manager with Ctrl+Alt+Delete and restart Windows Explorer  c) remove the battery  d) hold the power button
+**Answer: b) open Task Manager with Ctrl+Alt+Delete and restart Windows Explorer** — Explorer sits in the Processes tab (Grade 12 Teacher Guide, printed pp. 104–105).
+
+**8. (Sub lesson 3)** The guide's second frozen-computer step is — (teacher guide — evidence)
+a) restart Explorer again  b) press and hold the power button for 5 to 10 seconds  c) unplug at once  d) close one application
+**Answer: b) press and hold the power button for 5 to 10 seconds** — force shutdown, only after the Explorer restart fails.
+
+**9. (Sub lesson 3)** Unplugging the power cable is — (teacher guide — evidence)
+a) the first step  b) never allowed  c) the last resort, after the other options  d) a weekly habit
+**Answer: c) the last resort, after the other options** — or remove a laptop's battery, likewise last.

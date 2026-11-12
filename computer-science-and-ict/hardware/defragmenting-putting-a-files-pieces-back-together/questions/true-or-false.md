@@ -11,3 +11,5 @@ Say whether each sentence is true or false.
 **3. (Sub lesson 2)** You select the drive before clicking Optimize.
 **Answer: True** — step three, then step four.
 
+**4. (Sub lesson 3)** Defragmenting improves overall performance by speeding data retrieval. (Grade 12 depth)
+**Answer: True** — each file in one sequence is faster to bring together and open.

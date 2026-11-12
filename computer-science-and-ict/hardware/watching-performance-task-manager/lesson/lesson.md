@@ -25,6 +25,12 @@ Two notes travel with the tool:
 - **Restarting clears unwanted temporary load** — a slow machine with no fault found may simply need a restart.
 - An application sitting **near 100% CPU** should be **disabled and started again**.
 
+## Sub lesson 3 — Restarting Windows Explorer when the computer freezes (Grade 12 teacher guide — evidence)
+
+> **Teacher evidence — GROWN 2026-11-12 (Wave F, band F5)** from the Grade 12 guide's ordered answer key (teacher guide — evidence, printed pp. 104–105). For a **completely frozen computer**, the guide's first rescue is a Task Manager move: open Task Manager with **Ctrl+Alt+Delete**, find **Windows Explorer** in the **Processes tab** and **restart it**. Only if that fails does the key escalate — **press and hold the power button for 5 to 10 seconds**, and **last resort only, unplug the power cable** (or remove a laptop's battery).
+
+[GIF 31336 — Ctrl+Alt+Delete opening Task Manager and Windows Explorer being restarted]
+
 ## Say it to your companion
 
 Tell your companion the three steps to the Performance tab, the four measures it shows, and the two carried notes. They check you against the lesson.

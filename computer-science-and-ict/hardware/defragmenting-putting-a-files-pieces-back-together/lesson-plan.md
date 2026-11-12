@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Fragmentation — what it is and why it slows the machine** — As files are deleted and updated, a file's pieces get scattered into non-adjacent spaces; reading scattered files takes the system longer. (The guide's plain-consequence definition — teacher evidence — says the same.)
 2. **Defragmenting — the book's steps (doing)** — Search Windows Administrative Tools and open it; double-click Defragment and Optimize Drives; select the drive; click Optimize. A drive at 0% fragmented needs no defragmentation.
 
+3. **The Grade 12 depth — fragmentation in unmanaged space, and the search-box route** — GROWN 2026-11-12 (Wave F, band F5) from the Grade 12 book: files broken and stored in unmanaged space; each file rearranged into one sequence; access by typing "Disk Defragment" in the Windows search box (Grade 12 Student Textbook, Unit 5, printed pp. 146–147). Picture 31320, GIF 31334.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
