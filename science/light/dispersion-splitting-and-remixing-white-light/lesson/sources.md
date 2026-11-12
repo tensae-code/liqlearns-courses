@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria
 
 **Book 5:** *الفيزياء والكيمياء للصف الثامن الأساسي (Physics & Chemistry, Grade 8 Basic)* (student textbook) — Syria, Ministry of Education; 2025–2026 printing (1446H), first printed 2018–2019. Combined physics-and-chemistry book. Image-only PDF — read from rendered pages (title, full contents, unit openers, closing pages). Grade: 8 · Student book · Release: full-quality-oversized-books · Asset: grade-08-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 176,346,073 (matched asset) · PDF pages: 160 · Offset: printed page = PDF page (folios 2–8 verified). Verdict: COMPLETE (U4 unit questions at printed p. 159, the last page). Structure: U1 Structural chemistry; U2 Motion & forces (physics); U3 Electricity (physics); U4 Light (physics). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
+**Book 6:** *الفيزياء — للصف الثالث الثانوي (Physics — Third Secondary Year), 2nd edition (2005)* (student textbook) — Sudan (authors' preface signed 2005; second-edition preface records deletions and additions). Grade 12 (Third Secondary) · Student book · Repo path: grade-12/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 6,295,128. PDF pages: 217. Offset: printed p. 2 ≈ PDF p. 11 (printed = PDF − 9). Verdict: COMPLETE — ends at printed p. 210 with the television-reception exercise set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The prism splits white light: the seven colours (VIBGYOR), violet bending most; sunlight as a mixture; the rainbow as nature's dispersion | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 189–190 (student placement 54) |
@@ -20,8 +22,9 @@ countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria
 | Ch. 22 Refraction and Colour — critical angle, TIR in optical fibres, dispersion, pure spectrum, colours of objects | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 22 Refraction and Colour, printed p. 318 |
 | Theme: lenses and decomposing white light (rainbow) (programme evidence) | Haiti, *Programme détaillé NS, Physique 2e année*, Theme: lenses and decomposing white light (rainbow), printed p. 57 |
 | U4 Dispersion of light (Syria) | Syria, *Physics & Chemistry, Grade 8 Basic*, U4 Dispersion of light — printed p. 153 |
+| Book 2 (2-4-7): the prism and spectrum colours (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. 102 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Finland, Barbados, Syria).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, Barbados, Syria, Sudan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: the primary lesson's disc is painted in three colours (blue, red, green) at primary depth; this item teaches the full seven-colour VIBGYOR fan with differential refraction and the seven-segment disc, so it is built whole here.
 

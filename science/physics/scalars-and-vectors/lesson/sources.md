@@ -1,6 +1,6 @@
 # Sources — Scalars and vectors
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy
+countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -15,6 +15,9 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 
 
 **Book 7:** *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2020, ISBN 9788808938060. Title as printed: Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica. Grades 9–10 span of the liceo course (filed Grade 9) · Student book · New edition, Geneva preface February 2020 · Repo: release `mid-size-books-6`, asset `grade-09-gov-italy-physics-student-full-year.pdf` — 87,948,360 bytes (matched asset) · PDF pages: 553 · Offset: front matter is roman-numbered (index at printed pp. IV–X); placements cite printed (theory) pages as cited from the book's index. Verdict: COMPLETE (index closes with Ch. 11, “Verso l'esame” at printed p. 510 and the analytic index at p. 514). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
+
+**Book 8:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scalars and vectors; kinds of vectors | Grade 11 Student Textbook, printed pp. 17–21 |
@@ -24,8 +27,9 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 | Theme 1 Topic 7: scalars and vectors (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1*, Theme 1 Topic 7, printed p. 20 |
 | Theme 1 Topic 2: vectors (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2*, Theme 1 Topic 2, printed p. 3 |
 | Vectors (Italy) | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.1 Vectors: components (printed p. 19), multiplying a vector by a vector (p. 22), vector quantities for equilibrium (p. 26) — printed p. 18 |
+| Unit 1 Vectors: scalar vs vector quantities, introduced through locating Sennar and Kosti from Khartoum (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 1 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Palestine, Italy).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 

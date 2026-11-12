@@ -1,6 +1,6 @@
 # Sources — Calorimetry — mixing hot and cold
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only)
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,13 +10,16 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only)
 
 **Book 4:** *Programme détaillé NS, Physique 3e année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 3e année. Grade: 12 (3e année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-12/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via GitHub Contents-raw by the finisher reader after the first reader's source route returned a bot-check page twice; 96,721 bytes, no size in record) · PDF pages: 8 · Offset: this file is the detailed programme table alone (printed pp. 2–8) — no common front matter/programme cadre. Verdict: COMPLETE as filed (detailed programme only — same record-shape difference as Book 4, not a truncation of the detailed programme itself). Full text read (1,836 words). The placements here are from this detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
 
+**Book 5:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Calorimetry — the method of mixtures | Grade 11 Student Textbook, printed pp. 203–212 |
 | Thermal equilibrium activity (two thermometers, nested cups) | Palestine, *Physics for Grade 10*, Unit 3, Ch. 1: Heat and Its Effect on Materials, printed p. 92 |
 | Theme: heat exchanges, measuring quantities of heat (programme evidence) | Haiti, *Programme détaillé NS, Physique 2e année*, Theme: heat exchanges, measuring quantities of heat, printed p. 52 |
 | Theme: Conservation de l'énergie — calorimetry re-used to show energy transfers inside an isolated system; microscopic description of the transfers (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Conservation de l'énergie, PDF p. 5 |
+| Unit 5: heat quantity measurement and units (joule, kilocalorie) (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 162 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* and *Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* and *Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, calorimetry — mixing hot and cold, specific heat, palestine

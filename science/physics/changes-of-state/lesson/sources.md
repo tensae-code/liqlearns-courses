@@ -1,6 +1,6 @@
 # Sources — Changes of state
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only)
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 
 **Book 4:** *Curriculum Guidelines — Physics, Grades 10, 11, 12* (curriculum — teacher/curriculum evidence, NOT a student book, cited as it is) — Bahamas, Ministry of Education, Department of Education, 2010. Title as printed: Curriculum Guidelines — Physics, Grades 10, 11, 12 (Ministry of Education, Department of Education, 2010). Grade: 10–12 · Kind: curriculum (teacher/curriculum evidence — NOT a student book) · Edition/year: 2010 (PDF generated 27 Jan 2012) · Repo path: grade-10/gov/bahamas/curriculum/bahamas-bgcse-physics-curriculum-grades-10-12.pdf. Byte size: 3,560,520 (exact match to record) · PDF pages: 316 · Offset: printed p. ii = PDF p. 2; printed scope table pp. xiii–xiv ≈ PDF pp. 13–14; Scope of Work printed p. 53 onward. Verdict: COMPLETE — read in full (text layer, 84,778 words); identity confirmed on title page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bahamas-placements.md.
 
+**Book 5:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Change of phase | Grade 11 Student Textbook, printed pp. 196–202 |
 | Heating/cooling curves, melting/boiling factors (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiii |
+| Unit 5 (5-9): the three states of matter and state changes incl. sublimation (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 179 |
 
 | Properties and states of water — the year's first physics (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 1: Les propriétés de l'eau; les états de l'eau, printed p. 3 |
 | Temperature as a measurable physical quantity, tied to change of state and accident prevention (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 5e année*, Palier 3, Leçon 21, printed p. 25 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Sudan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, changes of state, temperature

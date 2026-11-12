@@ -1,6 +1,6 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum
 
 **Book 5:** *الفيزياء والكيمياء للصف السابع الأساسي (Physics & Chemistry, Grade 7 Basic)* (student textbook) — Syria, Syrian Arab Republic, Ministry of Education; NCCD developed-curriculum edition, first printed 2017–2018 (title page). Combined physics-and-chemistry book. Grade: 7 · Student book · Release: mid-size-books-4 · Asset: grade-07-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 67,265,164 (matched asset) · PDF pages: 168, with a text layer · Offset: printed page = PDF page − 1 (printed folio 165 on PDF p. 166). Verdict: COMPLETE (final project, the thermal insulating flask, runs to the last pages). Structure (physics): U1 Motion & dynamics; U2 Pressure & Archimedes' thrust; U3 Matter & heat; U4 Matter & energy (atom/sound mixed unit). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
+**Book 6:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Motion and rest — the two-station puzzle and the definitions | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 172–173 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum
 | Bloc 2: Galilean relativity of motion, reference systems (curriculum programme — evidence) | Andorra, *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*, Bloc 2, printed p. 24 |
 | Bloc 2: all motion is defined relative to a reference system (Galileo framing), against the intuitive idea of "natural motion" (curriculum programme — evidence, second-year deepening) | Andorra, *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)*, Bloc 2, printed p. 15 |
 | U1 Motion and rest (reference body, trajectory, average speed; opens with the car airbag/Newton hook) (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U1 Motion and rest (reference body, trajectory, average speed; opens with the car airbag/Newton hook) — printed p. 8 |
+| Ch 2: motion and rest relative to a frame (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 11 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Syria).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Syria, Sudan).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
 
 Placement: Student item 77 — g07-student-placements.md (Unit 7, printed pp. 172–199 of the student book). This lesson rests on the student book only. Cross-reference: the Materials title's Motion, distance and speed lesson treats relative motion at primary (Grade 5) depth; this is a NEW Grade 7-depth lesson in the new Motion, Force and Energy title, not a copy or growth of that file.
 
