@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (t
 
 **Book 19:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 20:** *Physics, Second Secondary — Term 2* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Phy_EN_SE2_SB_T2_.pdf · Byte size: 13,804,835 (= recorded size exactly) · PDF pages: 104 · Offset: PDF = printed through Ch.4 (proven footers: PDF pp.7–93 carry their own numbers, e.g. PDF p.93 footer "93"); Ch.5 content runs printed = PDF − 1 (proven: PDF p.96 header "95", p.104 header "103"). Verdict: COMPLETE — three units, five chapters, with summaries, misconception boxes and problem sets to the end. Verified language variant of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الثاني* (grade-11/gov/egypt/Phy_Ar_SE2_SB_T2_26.pdf, 13,725,920 bytes = recorded size exactly, 103 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Experiment 4 — the straight tube and the bent tube | Ethiopia, *Grade 4 Student Textbook*, §2.6, printed pp. 59–60 |
@@ -37,11 +39,12 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (t
 | Ch 8: rectilinear propagation, rays and beams (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 8: rectilinear propagation, rays and beams — printed p. 201 |
 | Unit 3 Ch.6 L1 Light and its properties (transparent/translucent/opaque, shadows, eclipses) (Iraq, Grade 8) | Iraq, *الفيزياء كتاب الطالب للصف الثاني المتوسط (Physics, Student Book, Second Intermediate = Grade 8)*, Unit 3 Ch.6 L1 Light and its properties (transparent/translucent/opaque, shadows, eclipses) — printed p. 71 |
 | Ch. 4 Lesson 1: geometrical optics and models of light (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 4 Lesson 1 — printed p. 138 |
+| Unit 2, Ch.3 Light travels in straight lines (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Unit 2, Ch.3 Light travels in straight lines — printed p. 50 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia, Egypt).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. Flame safety: in the book the candle is the class's light source; this lesson keeps the candle as adult-handled, with a torch named as the home substitute.
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE.
 
-Searchable tags: light travels straight, straight lines, candle tube experiment, energy, bounces into eyes, light travels in straight lines, kenya, iraq, cambodia
+Searchable tags: light travels straight, straight lines, candle tube experiment, energy, bounces into eyes, light travels in straight lines, kenya, iraq, cambodia, egypt

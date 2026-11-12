@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq
 
 **Book 8:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 9:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -30,7 +32,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq
 
 | Ch 6: field pattern of a straight current-carrying conductor (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 6: field pattern of a straight current-carrying conductor — printed p. 117 |
 | Ch.6 Electricity and magnetism §§6-1–6-5 (field of a straight wire and of a loop, the electromagnet and its uses) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.6 Electricity and magnetism §§6-1–6-5 (field of a straight wire and of a loop, the electromagnet and its uses) — printed p. 111 |
+| Ch.2 Magnetic field due to a current in a straight wire, a circular loop and a solenoid (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.2 Magnetic field due to a current in a straight wire, a circular loop and a solenoid — printed p. 31 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq).**
+**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt).**
 
-Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq
+Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt

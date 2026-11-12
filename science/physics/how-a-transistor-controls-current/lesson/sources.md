@@ -1,6 +1,6 @@
 # Sources — How a transistor controls current
 
-countries: Ethiopia, Barbados, Malaysia
+countries: Ethiopia, Barbados, Malaysia, Egypt
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Barbados, Malaysia
 
 **Book 3:** *Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; Koay Kheng Chuan, Chia Song Choy et al.; Penerbit Bestari Sdn. Bhd., first published 2020, ISBN 978-983-092-447-2, Book Serial No. 0130. Grade: Form 5 (= Grade 11) · Kind: student · Files: grade-11/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-11/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level; Ch. 1, 2 and 4 section titles confirmed against the bilingual KSSM module contents). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 5 DLP asset 89,457,972 bytes, 267 PDF pages, Book Serial No. 0130/KPM 2020, ISBN 978-983-092-447-2; Form 5 Malay asset 85,778,654 bytes, 268 PDF pages, Malay edition's own ISBN 978-983-092-446-5). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 4:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How a transistor works — biasing and the current rule | Grade 12 Student Textbook, printed pp. 156–157 |
 | Ch. 31 Putting Electronics to Work — switches and electronic switching applications | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 31 Putting Electronics to Work, printed p. 483 |
 | Ch. 5 Electronics, §5.3 Transistor (Malaysia) | Malaysia, *Physics Form 5*, Ch. 5, §5.3 Transistor — printed p. 187 — transistor as amplifier and automatic switch |
+| Ch.8 The transistor as amplifier and as switch (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The transistor as amplifier and as switch — printed p. 182 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Malaysia, Egypt).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 
-Searchable tags: physics, grade 12, basics of electronics, how a transistor controls current, junction
+Searchable tags: physics, grade 12, basics of electronics, how a transistor controls current, junction, egypt

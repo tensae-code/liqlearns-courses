@@ -1,6 +1,6 @@
 # Sources — Communication — radio, satellites and fiber optics
 
-countries: Ethiopia, Sudan, Indonesia, United States, Iraq
+countries: Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sudan, Indonesia, United States, Iraq
 
 **Book 5:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 6:** *Physics, Second Secondary — Term 2* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Phy_EN_SE2_SB_T2_.pdf · Byte size: 13,804,835 (= recorded size exactly) · PDF pages: 104 · Offset: PDF = printed through Ch.4 (proven footers: PDF pp.7–93 carry their own numbers, e.g. PDF p.93 footer "93"); Ch.5 content runs printed = PDF − 1 (proven: PDF p.96 header "95", p.104 header "103"). Verdict: COMPLETE — three units, five chapters, with summaries, misconception boxes and problem sets to the end. Verified language variant of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الثاني* (grade-11/gov/egypt/Phy_Ar_SE2_SB_T2_26.pdf, 13,725,920 bytes = recorded size exactly, 103 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Physics in communication | Grade 12 Student Textbook, printed pp. 20–23 |
@@ -19,7 +21,8 @@ countries: Ethiopia, Sudan, Indonesia, United States, Iraq
 | Bab 5, Subbab D Pemanfaatan GEM (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 5, Subbab D Pemanfaatan GEM — guide p. 125 — uses of EM waves |
 | Capture and transmission of waves — PHYS.4.5 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.4.5, printed p. 181 — capture and transmission of waves |
 | Ch.9 §§9-3–9-5 (wireless-wave propagation, the mobile phone, satellites) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.9 §§9-3–9-5 (wireless-wave propagation, the mobile phone, satellites) — printed p. 161 (opener list) |
+| Ch.3 Optical fibres (enrichment) — light kept inside the fibre by total reflection (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.3 Optical fibres (enrichment) — light kept inside the fibre by total reflection — printed p. 61 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Indonesia, United States, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt).**
 
-Searchable tags: physics, grade 12, application of physics in other fields, communication — radio, satellites and fiber optics, magnet, united states, iraq
+Searchable tags: physics, grade 12, application of physics in other fields, communication — radio, satellites and fiber optics, magnet, united states, iraq, egypt

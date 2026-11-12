@@ -1,6 +1,6 @@
 # Sources — Ohm's law
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka,
 
 **Book 8:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 9:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ohm's law — ohmic and non-ohmic conductors | Grade 11 Student Textbook, printed pp. 245–246 |
@@ -28,9 +30,10 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka,
 | Book 3 (3-3-7): Ohm's law for the complete circuit, emf and internal resistance (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. 150 |
 | Ch. 20 Electric Current, Resistance, and Ohm's Law (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 20, printed p. 923 — current, resistance, Ohm's law, electric power |
 | Ch. 20 Electric Current, Resistance, and Ohm's Law (College Physics 2e) | United States, *College Physics 2e*, Ch. 20, printed p. 870 |
+| Ch.1 Ohm's law proper (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.1 Ohm's law proper — printed p. 10 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, ohm's law, voltage, ecuador, sri lanka, united states
+Searchable tags: physics, grade 11, electrostatics and electric circuit, ohm's law, voltage, ecuador, sri lanka, united states, egypt

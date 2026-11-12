@@ -1,6 +1,6 @@
 # Sources — Motors and generators
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji, Indonesia, Uganda
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji, Indonesia, Uganda, Egypt
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 
 **Book 8:** *Physics Home-Study Learning — Senior Four (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 · ISBN 978-9970-00-199-6 — COVID-19 home-study material for Terms 2 and 3. Title as printed: Physics Home-Study Learning — Senior Four. Grade: Senior Four (Grade 11) · Student (self-study) book · Repo path: grade-11/gov/uganda/physics/student/home-study.pdf (release asset: mid-size-books-2). Byte size: 6,924,932 (release index size = downloaded) · PDF pages: 65 (= books.json recorded pages) · Offset: chapters at PDF pp. 7–60. Verdict: COMPLETE — the full Term 2 + Term 3 self-study booklet, 8 chapters. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 9:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relays and the electric bell | Grade 12 Student Textbook, printed pp. 134–137 |
@@ -31,7 +33,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 
 | Chapter: The Principle of Electric Motor; d.c. motor operation (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, The Principle of the Electric Motor chapter — PDF p. 32 |
 | Lesson 2: AC and DC Generators (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Lesson 2: AC and DC Generators — PDF p. 42 |
+| Ch.3 The AC dynamo (generator) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.3 The AC dynamo (generator) — printed p. 72 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, Fiji, Indonesia, Uganda).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, Fiji, Indonesia, Uganda, Egypt).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
-Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator, uganda
+Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator, uganda, egypt
