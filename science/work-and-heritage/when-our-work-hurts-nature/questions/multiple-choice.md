@@ -22,3 +22,10 @@ a) grow richer  b) erode — lose its soil  c) turn to stone
 a) ordinary work done without care  b) wild animals only  c) the rain alone
 **Answer: a) ordinary work done without care** — Work without care is the subject.
 
+**6. (Sub lesson 3) The region's industry towns in the book's map include —**
+a) Debre Berhan, Bahir Dar, Kombolcha, Bure and Minjar Arerti  b) only Addis Ababa  c) no towns
+**Answer: a) Debre Berhan, Bahir Dar, Kombolcha, Bure and Minjar Arerti** — Those five are named on the map.
+
+**7. (Sub lesson 3) Misusing resources damages —**
+a) their amount and quality  b) nothing  c) only their colour
+**Answer: a) their amount and quality** — Amount and quality.

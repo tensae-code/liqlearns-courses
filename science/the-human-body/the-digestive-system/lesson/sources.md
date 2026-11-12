@@ -23,6 +23,8 @@ countries: Ethiopia
 
 | Grade 8 — the journey of a meal: bolus, the gatekeeper, peristalsis | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (bread and egg travelling mouth to egestion; bolus; epiglottis as gatekeeper; peristalsis; hose-and-marble model; ground game), printed pp. 80–89 |
 | Grade 8 — the stomach's guards, chyme, villi — and the diseases | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (pepsin and acid; mucus coat; pepsin switched on only in place; chyme; bile; absorption through villi; water recovered in the large intestine; ulcers, constipation, dysentery (Entamoeba histolytica), liver cirrhosis, haemorrhoids), printed pp. 80–89 |
+| Chapter 2 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 2 summary + review, printed pp. 62–65 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to them. The teacher-guide rows are evidence for the same teaching and never count as pupil-taught. There is no full national Grade 4 teacher guide in hand; nothing here claims it.

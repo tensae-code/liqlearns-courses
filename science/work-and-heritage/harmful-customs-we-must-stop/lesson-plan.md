@@ -13,6 +13,16 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The harmful list, named plainly** — the book sorts practices into useful and harmful.
 2. **Their harms, and how they are prevented** — each harmful practice carries its harm: early marriage steals schooling and health; feasting beyond one's means ruins a family's living; cutting practices wound the body and can bring lasting damage; smoking and drunkenness destroy health and work.
 
+3. **Grade 5: the full list, and Zerfe's story** — the Grade 5 harmful list and Zerfe's story (plot summary only)
+4. **Grade 5: cutting girls' genitals** — its defences and its printed harms
+5. **Grade 5: uvula cutting** — what the uvula is, the three friends' dialogue (summarised), the harm list
+6. **Grade 5: gum extraction and teething** — teething at 6–8 months; fact against belief
+7. **Grade 5: abduction and rape** — definitions, reasons, harms, the Dawit/Mulunesh case (summarised)
+8. **Grade 5: early marriage** — Table 6.1, causes against harms, including fistula
+9. **Grade 5: stopping harmful practices** — awareness, religious fathers and respected persons, kebele and government laws
+10. **Grade 6: the definition, and the East Africa list** — the definition and the four named practices
+11. **Grade 6: teach, prevent, rescue** — the three-step strategy and the kebele-office field task
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -38,6 +48,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 12025] — a picture of a girl staying in school with books → the student studies it and names what it shows.
+- IMAGE [Picture 36008] — a picture of a community meeting under a tree → the student names who must be part of stopping harmful practices.
+- IMAGE [Picture 36009] — a picture of a three-step staircase labelled teach, prevent, rescue → the student says the strategy's order.
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

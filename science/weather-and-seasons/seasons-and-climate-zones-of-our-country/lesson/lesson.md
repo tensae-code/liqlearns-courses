@@ -24,6 +24,10 @@ The Grade 6 book widens the zones lesson to the region. East Africa sits in the 
 
 [Picture 13454 — the region's wettest and driest zones on the eight-type map, simplified]
 
+## Grade 5 — Ethiopia's five climate zones, and why high air is cold
+
+By altitude the whole country stacks into five zones: **bereha** (desert), **qolla**, **weyna dega**, **dega** and **wurch** (frost). As you climb, temperature falls and rainfall rises. And the book explains why: high places are cold because their thin, dust-free air cannot hold the sun's heat, while lowland air is thick and heat-holding. Place your own home in its zone.
+
 ## Say it to your companion
 Take your companion up the mountain: name each zone, its heat, its towns, its clothes. At the top, turn and ask the control questions: why is it colder here? What else, besides height, moves a climate?
 

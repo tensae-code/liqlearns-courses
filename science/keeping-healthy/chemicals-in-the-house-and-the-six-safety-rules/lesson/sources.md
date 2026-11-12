@@ -9,6 +9,8 @@ countries: Ethiopia
 | The home's chemical shelf — and the child's special danger | Ethiopia, *Grade 4 Student Textbook*, §5.2, printed pp. 139–141 |
 | The six safety rules | Ethiopia, *Grade 4 Student Textbook*, §5.2, printed pp. 139–141 |
 
+| Chapter 5 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 5 summary + review, printed pp. 146–148 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.

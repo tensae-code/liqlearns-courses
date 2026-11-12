@@ -41,3 +41,7 @@ a) today's world exactly  b) the world of 2011  c) no real world
 **10. (Sub lesson 5) Why does the publication year matter?**
 a) it changes the colours  b) things change — the map describes its own time  c) it does not matter
 **Answer: b) things change — the map describes its own time** — Roads, towns and conditions change; the year fixes which world is shown.
+
+**11. (Sub lesson 1) Chapter 1 review: on the map you measure —**
+a) the region's border length  b) the teacher's desk  c) a river's depth
+**Answer: a) the region's border length** — Measuring the region's border length on the map.

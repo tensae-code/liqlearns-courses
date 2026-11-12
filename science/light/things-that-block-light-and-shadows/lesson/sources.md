@@ -18,6 +18,8 @@ countries: Ethiopia
 | Grade 4 — the shadow experiment: the dark place behind the blocker (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.4, printed pp. 61–63 |
 | Grade 4 — the shadow experiment: the dark place behind the blocker (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — Oromia edition*, §1.6, printed pp. 13–17 |
 
+| Chapter 2 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 2 summary + review, printed pp. 62–65 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. Teacher-guide rows are evidence and never count as pupil-taught.

@@ -22,6 +22,8 @@ countries: Ethiopia
 | Grade 5 — drought: causes, effects, the rainfall map, satellites | Ethiopia, *Grade 5 Student Textbook*, printed pp. 160–164 |
 | Grade 6 — drought and famine remembered; the Rift; coping together | Ethiopia, *Grade 6 Student Textbook*, printed pp. 170–173 |
 
+| Chapter 5 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 5 summary + review, printed pp. 146–148 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies. The SNNP guide's syllabus additionally asks pupils to relate the rainfall map to drought-prone areas on Ethiopia's political map (teacher guide — evidence, SNNP printed pp. 116–125); it is a classroom mapping task and is noted here, not taught as lesson content. Teacher-guide rows never count as pupil-taught.

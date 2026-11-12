@@ -17,3 +17,7 @@ a) very fine smooth grains  b) big rough grains that will not hold together  c) 
 **4. Which soil is the fertile one?**
 a) loam  b) pure sand  c) pure clay
 **Answer: a) loam**
+
+**5. Chapter 3 review: the soil-uses mind-map is completed for —**
+a) the three main soils and their uses  b) one stone  c) a river
+**Answer: a) the three main soils and their uses** — The review's soil-uses mind-map.

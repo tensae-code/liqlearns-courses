@@ -15,6 +15,8 @@ countries: Ethiopia
 | Our region's location in the teacher guides (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed pp. 23–27 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 4, Oromia edition*, printed pp. 18, 27–30 (teacher guide — evidence) |
 | Famous and important places of our region (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed pp. 27–36 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 4, Oromia edition*, printed pp. 30–32 (teacher guide — evidence) |
 
+| Chapter 1 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 1 summary + review, printed pp. 16–18 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 COMPLETE: the Grade 4 student book's contents promise 5 chapters ending at printed p.148 and the file's final printed page is 148.

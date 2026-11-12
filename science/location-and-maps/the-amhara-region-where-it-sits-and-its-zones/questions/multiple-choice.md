@@ -26,3 +26,10 @@ a) weather  b) absolute location in latitude and longitude  c) population
 a) historical heritage places  b) last week's market prices  c) homework
 **Answer: a) historical heritage places** — Heritage places, natural places, zones and institutions (teacher guide — evidence).
 
+**7. (Sub lesson 2) Chapter 1 review: the sports-competition activity takes bearings of —**
+a) all 13 zone capitals  b) two towns  c) one school
+**Answer: a) all 13 zone capitals** — Bearings of all 13 zone capitals.
+
+**8. (Sub lesson 2) Chapter 1 review: the pictured attractions map asks you to locate —**
+a) Simien Park, Lalibela, the Gondar castles, Ankober palace, Gish Abbay, Lake Tana islands, Shonke mosque  b) only markets  c) only rivers
+**Answer: a) Simien Park, Lalibela, the Gondar castles, Ankober palace, Gish Abbay, Lake Tana islands, Shonke mosque** — Those are the pictured attractions.

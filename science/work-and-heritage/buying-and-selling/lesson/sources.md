@@ -20,6 +20,8 @@ countries: Ethiopia
 | Bringing natural resources to market — legal and illegal trade (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed pp. 100–102 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 4, Oromia edition*, printed pp. 65–69 (teacher guide — evidence) |
 | Trade — raw goods out, factory goods in | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 157 |
 
+| Chapter 4 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 4 summary + review, printed pp. 133–135 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 COMPLETE: contents promises 5 chapters ending at printed p.92 and the file's final printed page is 92.

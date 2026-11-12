@@ -58,3 +58,6 @@ a) under 8.9%  b) about 43%  c) over half
 a) closes farms  b) creates jobs and stirs other sectors  c) stops trade
 **Answer: b) creates jobs and stirs other sectors** — Jobs, and life stirred in farming, transport and trade around it.
 
+**15. (Sub lesson 1) Chapter 4 review: 13 products are sorted into —**
+a) cottage, modern, or both  b) old or new  c) big or small
+**Answer: a) cottage, modern, or both** — Cottage/modern/both — the review's sorting task.

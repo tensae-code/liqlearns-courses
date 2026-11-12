@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1) Healthy food has no unusual smell, taste or appearance.**
 **Answer: True**
+
+**4. (Sub lesson 3) The student's chart includes covering and storing food properly.**
+**Answer: True** — That is the chart's first method.

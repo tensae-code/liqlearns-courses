@@ -26,3 +26,6 @@ a) 180°  b) 45°  c) 90°
 a) south-east  b) north-west  c) west
 **Answer: a) south-east** — The second worked result of the five-step method.
 
+**7. (Sub lesson 1) Chapter 1 review: a bearing is practised in the review by —**
+a) a sports-competition activity over the zone capitals  b) singing  c) skipping
+**Answer: a) a sports-competition activity over the zone capitals** — The review's bearing practice.

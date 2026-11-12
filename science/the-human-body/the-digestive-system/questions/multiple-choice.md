@@ -52,3 +52,11 @@ a) villi  b) teeth  c) the epiglottis
 **13. Dysentery in this unit is caused by —**
 a) Entamoeba histolytica  b) a broken bone  c) cold air
 **Answer: a) Entamoeba histolytica**
+
+**14. Chapter 2 review: the food tube's order begins —**
+a) mouth, pharynx, oesophagus  b) stomach first  c) anus first
+**Answer: a) mouth, pharynx, oesophagus** — Mouth, pharynx, oesophagus — the organs as reviewed.
+
+**15. Chapter 2 review: the organ that follows the stomach in the tube is the —**
+a) small intestine  b) liver  c) heart
+**Answer: a) small intestine** — Small intestine follows stomach.

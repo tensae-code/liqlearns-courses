@@ -20,6 +20,14 @@ The Grade 5 chapter opens with two stories: a shopkeeper who cannot function wit
 ## Grade 6 — Ayele and Seada (story); addiction and the region's drugs; borders and sport
 **Ayele and Seada** (plot summary only): close friends in Debre Berhan town, both Grade 6 pupils who support their schooling by selling lottery tickets and face masks into the evening. Following friends who do the same work, they take up cigarettes and other smoked things, and sometimes chew chat. Their homeroom teacher, noticing, is angered — but decides to **rescue the pupils rather than merely punish** them; the class discusses why the teacher counts the behaviour a problem and what she could do. Addiction restated: taken by mouth or injection, repeated use makes an addict — **ruled by the substance, unable to control himself, unable to stop, neglecting himself, his whole social life shaken**; both addictive chemicals and narcotic drugs **alter the body's normal functioning** — pain-relieving medicines such as **aspirin** and **alcohol** drinks are the printed examples of function-altering chemicals. The region's named narcotic drugs: **chat, cigarettes, cocaine, heroin and morphine** — in East Africa best-known are **chat and cigarettes**, the cigarette carrying the stimulant **nicotine**, chat carrying **cathinone**. Two discussion fields close the teaching: **contraband movements across the region's borders** — what should East African countries do together? — and **doped athletes**: the Olympic committee medically tests famous athletes, strips the medals of users and bars them — why is this done, why do athletes use the drugs, and is using them proper?
 
+## Grade 2 — the printed story of chat and cigarettes (plot summary only)
+
+The Grade 2 book's short printed story is told here as a plot summary only: a man who uses chat and cigarettes heavily keeps missing work; he quarrels; he runs short of money; he commits offences; he falls ill — in his lungs, his teeth, his gums and his stomach — and he ends bedridden at home.
+
+## Grade 3 — stimulated first, then dulled
+
+The Grade 3 book names the same family — chat, alcohol and cigarettes — as natural or human-made poisonous chemicals. Its sequence is the lesson's sharpest line: users are **first stimulated, then dulled** — and then irritable, drunk, anxious and hopeless. The book teaches the harms to users, and how people can be kept from addiction.
+
 ## Say it to your companion
 Tell your companion the three stimulants, the five harms in the book's counting, and the roll-call of successful people who keep away.
 

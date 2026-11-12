@@ -44,6 +44,8 @@ countries: Ethiopia
 | Grade 5 — elements, instruments, averages; how rain forms (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §3.1, printed pp. 38–48 |
 | Grade 6 — East Africa's weather at region scale (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §3.1, printed pp. 43–45 |
 
+| Chapter 3 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 3 summary + review, printed pp. 96–99 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–54 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.

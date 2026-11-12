@@ -14,6 +14,10 @@ As population grows, demand grows with it: more farmland is cleared, more firewo
 
 Too many animals on too little grass — overgrazing — strips the cover; backward land use does the same. Bare land erodes: the rain takes the soil, and the farm itself is eaten by the work that was meant to feed it. The pressure can be eased: plant trees, graze in turns, use land wisely, and find other energy.
 
+## Sub lesson 3 — Grade 4: how our work helps or harms
+
+People and environment support each other. Our direct needs — food, clothing, shelter — and our indirect needs — energy sources and industrial raw materials — both come from nature, so resources must be developed and used properly: misuse damages their amount and their quality. The book's mind-map sorts the effects: positive — soil fertility improves; negative — fertility falls, and plant and animal variety shrink. Its map names the region's main industry towns: Debre Berhan, Bahir Dar, Kombolcha, Bure and Minjar Arerti.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: how economic activity can harm natural resources — growing demand for farmland and firewood, lacking energy alternatives, overgrazing and backward land use stripping forest and eroding soil — and how the pressure can be eased. Then answer one question they ask you about it.

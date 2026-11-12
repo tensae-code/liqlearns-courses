@@ -48,3 +48,7 @@ a) physical property  b) chemical property
 **12. (Sub lesson 2)** A nail heated in a flame —
 a) becomes a new substance  b) only heats; it stays a nail
 **Answer: b) only heats; it stays a nail** — unlike paper, which burns.
+
+**13. (Sub lesson 1) Chapter 2 review (table completion): a material is told from another by its —**
+a) properties  b) price only  c) owner
+**Answer: a) properties** — Properties identify a thing, as reviewed.

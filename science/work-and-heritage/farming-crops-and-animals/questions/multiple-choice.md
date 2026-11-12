@@ -82,3 +82,6 @@ a) 10th  b) 1st  c) 5th
 a) moving more often  b) better feed, health care and improved breeds  c) keeping more animals on less land
 **Answer: b) better feed, health care and improved breeds** — Feed, health care and breeds are the modern method's three tools.
 
+**21. (Sub lesson 4) Chapter 4 review: the chapter's main livelihood is —**
+a) mixed farming  b) fishing only  c) mining only
+**Answer: a) mixed farming** — Mixed farming — the chapter synthesis as reviewed.

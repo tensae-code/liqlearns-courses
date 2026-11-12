@@ -18,6 +18,8 @@ countries: Ethiopia
 
 | Grade 5 — properties at the bench: Experiments 3.1–3.3 | Ethiopia, *Grade 5 Student Textbook*, printed pp. 59–63 |
 
+| Chapter 2 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 2 summary + review, printed pp. 62–65 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies. The student book lists eight properties for its pencil worked example; the placement record names colour, length, hardness and shape among them, so this lesson names those four and does not invent the other four. Teacher-guide rows are evidence and never count as pupil-taught. There is no full national Grade 4 teacher guide in hand; nothing here claims it.

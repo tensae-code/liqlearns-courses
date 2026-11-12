@@ -25,6 +25,8 @@ countries: Ethiopia
 | Grade 5 — risk, the danger of relaxing, and Table 6.2's sort; Grade 6 — across East Africa | Ethiopia, *Grade 5 Student Textbook*, printed pp. 174–176 |
 | Grade 5 — risk, the danger of relaxing, and Table 6.2's sort; Grade 6 — across East Africa | Ethiopia, *Grade 6 Student Textbook*, printed p. 165 |
 
+| Chapter 5 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 5 summary + review, printed pp. 146–148 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 3 student book's §5.4 statement that HIV can pass from mother to child “by breastfeeding” is the book's own simplification, flagged in its placements and kept here as the book's placement. The Grade 1 teacher guide's contents (§5.2, printed pp. 73–81+) promise the same topic at Grade 1 with compassion to children and families living with HIV — but those guide pages are NOT in the truncated library file, so no Grade 1 content is built from them; they are noted here only as contents evidence.

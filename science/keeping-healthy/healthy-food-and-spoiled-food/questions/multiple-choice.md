@@ -17,3 +17,11 @@ a) leaving it in the sun uncovered  b) salting it  c) throwing it on the ground
 **4. (Sub lesson 1) Which plate is the healthy one?**
 a) grains, vegetables and egg  b) only sweets  c) fried snacks and sweets
 **Answer: a) grains, vegetables and egg**
+
+**5. (Sub lesson 3) The student's chart says to use —**
+a) river water as it comes  b) treated or boiled water  c) no water
+**Answer: b) treated or boiled water** — Treated or boiled water.
+
+**6. (Sub lesson 3) Raw foods that should be cooked should —**
+a) be eaten raw  b) not be eaten raw  c) be left uncovered
+**Answer: b) not be eaten raw** — Do not eat raw foods that should be cooked.

@@ -12,6 +12,8 @@ countries: Ethiopia
 | Map signs and symbols | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed pp. 17–18 |
 | Reading a map's date | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 16 |
 
+| Chapter 1 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 1 summary + review, printed pp. 16–18 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.

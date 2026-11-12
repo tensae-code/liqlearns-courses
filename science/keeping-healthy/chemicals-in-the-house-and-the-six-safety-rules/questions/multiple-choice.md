@@ -21,3 +21,7 @@ a) storing  b) buying only what will be used, and only the amount needed  c) tea
 **5. (Sub lesson 2) Before using a chemical, you should —**
 a) shake it hard  b) read and follow the caution label  c) pour it into a cup
 **Answer: b) read and follow the caution label**
+
+**6. (Sub lesson 1) Chapter 5 review: household chemicals are answered across —**
+a) HIV, chemicals, stimulants and drought items  b) only songs  c) only maps
+**Answer: a) HIV, chemicals, stimulants and drought items** — Chemicals are one of the review's four grounds.

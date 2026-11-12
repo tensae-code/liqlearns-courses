@@ -17,6 +17,8 @@ countries: Ethiopia
 **Book 7:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
 **Book 8:** *አካባቢ ሳይንስ አምስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 5* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 7. The file holds printed pp. 1–75 only (TRUNCATED — see the honesty note below). Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-teacher-placements.md
 
+**Book 13:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Where things are, inside and around us (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 1*, printed pp. 2–3 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)*, guide §1.1, printed p. 2 (teacher guide — evidence) |
@@ -25,6 +27,7 @@ countries: Ethiopia
 | What a map is | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 3–5; Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed p. 17 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 4, Oromia edition*, printed p. 20 (teacher guide — evidence) |
 | Map and globe — two ways to show the Earth | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed pp. 11–12 |
 | What a map is (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 5*, printed pp. 2–3 (teacher guide — evidence) |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

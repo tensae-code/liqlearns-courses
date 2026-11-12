@@ -11,6 +11,8 @@ countries: Ethiopia
 **Book 8:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል — Environmental Science Student Textbook, Grade 5* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md
 **Book 9:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
 
+**Book 13:** *Environmental Science Teacher Guide, Grade 5* (አካባቢ ሳይንስ አምስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: printed pp. 1–75 held (Units 1–3); Units 4–5 missing. Printed page = PDF page − 7. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What absolute location is (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 3*, printed p. 4 (teacher guide — evidence) |
@@ -20,6 +22,8 @@ countries: Ethiopia
 | Ethiopia's absolute location | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 6 |
 | What Ethiopia's location causes | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 7 |
 | East Africa's extent — the region's four corners | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 8 |
+
+| Ethiopia's relative and absolute location (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §1.2, printed pp. 4–6 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

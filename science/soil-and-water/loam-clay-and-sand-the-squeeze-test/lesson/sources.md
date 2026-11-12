@@ -8,6 +8,8 @@ countries: Ethiopia
 |---|---|
 | Three soils, three answers in the hand | Ethiopia, *Grade 4 Student Textbook*, §3.3, printed pp. 75–76 |
 
+| Chapter 3 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 3 summary + review, printed pp. 96–99 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.

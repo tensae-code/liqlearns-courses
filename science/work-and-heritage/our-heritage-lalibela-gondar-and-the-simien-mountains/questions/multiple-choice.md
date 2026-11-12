@@ -54,3 +54,6 @@ a) libraries and museums  b) churches and mosques  c) offices and archives
 a) only new newspapers  b) records and writings of the past  c) farm tools only
 **Answer: b) records and writings of the past** — Libraries and archives keep the written record.
 
+**14. (Sub lesson 1) Chapter 4 review: pupils interview about —**
+a) a local heritage site and a local famous person  b) a shop price  c) a bus timetable
+**Answer: a) a local heritage site and a local famous person** — The review's heritage interview task.

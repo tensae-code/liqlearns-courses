@@ -17,6 +17,10 @@ And food is **preserved** — kept safe for longer — the ways the guide's answ
 
 [Picture 12110 — fresh food beside spoiled food with flies over it]
 
+## Sub lesson 3 — Keeping food safe: the student's own chart
+
+The student book's own methods chart for protecting food from contamination: cover and store food properly; wash cooking utensils; use latrines and keep them clean; do not eat stale food; use treated or boiled water; do not eat raw foods that should be cooked; and keep personal and environmental cleanliness. The book also sends pupils home to ask their families' own storage methods for meat, for milk and for injera.
+
 ## Say it to your companion
 Tell your companion the healthy-food rules and the spoiled-food danger signs. Your companion names a food; you judge it — healthy, unhealthy, or spoiled — and give your reason.
 

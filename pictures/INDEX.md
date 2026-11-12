@@ -6311,3 +6311,13 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36220 | The seven-unit journey — Grade 9 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-9-way |
 | 36221 | The six-unit journey — Grade 10 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-10-way |
 | 36222 | The five-unit journey — Grade 12 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-12-way |
+| 36000 | a family's three meals in a day | science/keeping-healthy/food-what-food-is |
+| 36001 | the four food groups in a four-part circle | science/keeping-healthy/food-the-four-food-groups |
+| 36002 | flies landing on uncovered food | science/keeping-healthy/food-how-food-gets-spoiled |
+| 36003 | many Ethiopian foods spread out to sort | science/keeping-healthy/food-where-our-food-comes-from |
+| 36004 | a child figure with the six nutrients around it | science/keeping-healthy/food-the-six-nutrients |
+| 36005 | a family table with foods from every nutrient group | science/keeping-healthy/food-a-balanced-diet |
+| 36006 | injera with wots, genfo and chechebsa on a mesob | science/work-and-heritage/our-food-heritage-traditional-dishes-of-the-amhara-region |
+| 36007 | cleaning materials beside a clean latrine | science/keeping-healthy/keeping-our-home-clean |
+| 36008 | a community meeting under a tree | science/work-and-heritage/harmful-customs-we-must-stop |
+| 36009 | a three-step staircase: teach, prevent, rescue | science/work-and-heritage/harmful-customs-we-must-stop |

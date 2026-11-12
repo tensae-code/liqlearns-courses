@@ -4,10 +4,20 @@ countries: Ethiopia
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
+**Book 13:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
+
+**Book 14:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143. Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
+
+**Book 15:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022). COMPLETE: printed pp. 1–95. Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Where the pressure comes from | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed p. 74 |
 | Overgrazing and backward land use | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed p. 74 |
+
+| Grade 4: how our work helps or harms | Ethiopia, *Environmental Science Student Textbook, Grade 4*, §4.3.3, printed pp. 119–120 |
+| Grade 4: how our work helps or harms (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, printed pp. 98–100 (teacher guide — evidence) |
+| Grade 4: how our work helps or harms (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — Oromia edition*, printed pp. 63–65 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

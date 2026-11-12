@@ -308,3 +308,34 @@ Presentation notes for §§5.1–5.6 (printed pp. 130–142) — including the p
 
 ### G12 Teacher's Guide #9 — Answers apparatus (teacher guide — evidence) — printed pp. 64, 104, 126, 146–150 (whole book)
 The per-unit "Answer for the unit end questions" sections give the official solutions to the student book's end-of-unit questions — worked numerically for gravitation (p. 64), fluids (p. 104) and transformers (p. 126), and as complete truth tables for the logic circuits (pp. 146–150). The printed answers establish that one student-book circuit reduces to a single OR gate, and restate the positive/negative-logic conventions in full. Filed here as the marking standard for the corresponding student-book items across all Grade 12 Physics lessons.
+
+## Environmental Science — front-matter, course-shape and contents evidence (Ethiopia)
+
+The items below are filed in ABOUT because they describe the books' own shape,
+introductions and contents — they are evidence about the course's sources, not
+learner lessons.
+
+- **G1T #2 — Grade 1 Teacher Guide (Addis Ababa Bureau), per-unit period map (labelled guide evidence).** The guide's contents + period-distribution table gives Unit 1 = 42 periods, Unit 2 = 54 periods, Unit 3 = 54 periods (the Unit 4/5 allocations sit in the part of the guide not held). Book: *Grade 1 Environmental Science Teacher Guide*, Addis Ababa City Administration Education Bureau, © 2015 E.C., printed pp. iii–v, 0. (teacher guide — evidence)
+
+- **G2T #1 — Grade 2 Teacher Guide introduction (labelled guide evidence).** The guide's introduction presents Environmental Science as the study of environmental problems and people's influence on the environment — ecology, geology and life conditions; people cause water, soil and air pollution, and the science develops ways to solve these problems and protect the environment. Its stated reasons for teaching children: environmental problems are worldwide; development work affects the environment; living sustainably; using natural resources sustainably; strengthening ecosystem protection. Book: *Grade 2 Environmental Science Teacher Guide*, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. vi–vii. (teacher guide — evidence)
+
+- **G5S #1 — Grade 5 Student Textbook: the six-chapter shape and the widening to Ethiopia.** Where Grades 2–4 spiralled around the pupil's kebele → woreda → zone → Amhara Region, Grade 5 re-centres everything on **Ethiopia** — its location, climate, rivers, minerals and wildlife, peoples, languages, heritage and economy, and Ethiopia-wide urgent issues. The five-chapter spiral becomes **six chapters**: (1) Location of Ethiopia, (2) Living Things, (3) Matter, Motion and Simple Machines, (4) Ethiopia's Natural Environment, (5) Social Environment, (6) Comprehensive and Urgent Issues. Chapters open with learning outcomes and key-word boxes, science chapters carry numbered formal experiments, and every chapter closes with a summary and review questions. Book: *Environmental Science Student Textbook, Grade 5*, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. ii–v and chapter openings throughout.
+
+### Contents-only guide tails — contents evidence (text not held)
+
+Each entry below rests on a guide's contents listing only. The guide text for
+these units is **not held**; nothing below claims their content beyond what the
+contents pages name. Each is marked: **contents listing only — text not held**.
+
+- **G1S #12 — Amhara Grade 1 guide (held as "student"), Chapter 3 introduction, printed p. 27 — contents listing only — text not held.** Introduction-only: the chapter's expected competencies are that pupils will name the weather conditions of their area and the elements of weather. §3.1 content is NOT HELD, and the real Grade 1 student textbook has never been held.
+- **G1T #21 — Grade 1 Teacher Guide (Addis Ababa), Unit 4 contents, printed pp. 55–72 — contents listing only — text not held.** Unit 4 (Social Environment): what we need to live; family members and their roles; things needed to live in our area; what we find in our school; playing and working together; school rules.
+- **G1T #22 — Grade 1 Teacher Guide (Addis Ababa), Unit 5 contents, printed pp. 73–81+ — contents listing only — text not held.** Unit 5 (Cross-cutting issues): road safety; what HIV/AIDS is.
+- **G2T #20 — Grade 2 Teacher Guide, Unit 4 contents, printed pp. 62–80 — contents listing only — text not held.** Unit 4 contents, including §4.2 (doing tasks together at school and developing peer relations) at printed p. 72.
+- **G2T #21 — Grade 2 Teacher Guide, Unit 5 contents, printed pp. 82–89+ — contents listing only — text not held.** Unit 5 contents; the unit title was not legible in the contents read and is not invented here.
+- **G3T #16 — Grade 3 Teacher Guide, §3.4 contents, printed p. 67 — contents listing only — text not held.** §3.4: proper and improper waste-disposal methods seen at school and in our woreda.
+- **G3T #17 — Grade 3 Teacher Guide, §3.5 + Unit 3 summary contents, printed pp. 71–75 — contents listing only — text not held.** §3.5: effects of improper waste disposal; Unit 3 summary questions/answers.
+- **G3T #18 — Grade 3 Teacher Guide, Unit 4 contents, printed pp. 76–100 — contents listing only — text not held.** Unit 4: §4.1 cultural diversity; §4.2 the main economic activities in their sub-city.
+- **G3T #19 — Grade 3 Teacher Guide, Unit 5 contents, printed pp. 101–117 — contents listing only — text not held.** Unit 5 subtopics at printed pp. 101, 103, 104, 113, 116–117 per the contents numerals; titles were not legible in the contents read and are not invented here.
+- **G5T #21 — Grade 5 Teacher Guide, Unit 4 contents, printed pp. 76–97 — contents listing only — text not held.** Unit 4 (Ethiopia's culture and economy): cultural diversity; the main language families; cultural heritages; traditional and modern institutions; the basis and history of cultural diversity and biodiversity; major economic sectors; types of industry; types of tourism industry.
+- **G5T #22 — Grade 5 Teacher Guide, Unit 5 contents, printed pp. 98–106 — contents listing only — text not held.** Unit 5 (Cross-cutting issues): §5.2 chemicals in our woreda and improper use of medicines (p. 102); §5.3 harmful traditional practices in our town (p. 104); §5.4 drought and famine (p. 106); §5.1's title was not legible in the contents read and is not invented here.
+- **G6T #18 — Grade 6 Teacher Guide, Unit 5 contents, printed pp. 98–105 — contents listing only — text not held.** Unit 5 (Cross-cutting issues): §5.1 HIV/AIDS in Ethiopia; §5.2 chemicals in our woreda and improper medicine use (p. 99); §5.3 harmful traditional practices in our town (p. 103); §5.4 drought and famine (~p. 105).

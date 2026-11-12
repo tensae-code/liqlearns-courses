@@ -40,3 +40,10 @@ a) low reach of health services  b) too many clinics  c) cold weather
 a) abstinence  b) sharing carefully  c)  luck
 **Answer: a) abstinence**
 
+**11. Chapter 5 review: the diagram to complete shows —**
+a) HIV/AIDS spread and effects  b) a food web  c) a water cycle
+**Answer: a) HIV/AIDS spread and effects** — The HIV spread-and-effects diagram.
+
+**12. Chapter 5 review (short-answer style): AIDS has —**
+a) a simple cure  b) no cure once caught  c) no effects
+**Answer: b) no cure once caught** — No cure once caught, as taught and reviewed.

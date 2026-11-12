@@ -26,3 +26,10 @@ a) a wedding  b) a ploughing only  c) an exam
 a) wearing and respecting our own dress with pride  b) hiding it  c) tearing it
 **Answer: a) wearing and respecting our own dress with pride** — Traditional dress is honoured.
 
+**7. (Sub lesson 4) A custom that helps nature is —**
+a) free grazing everywhere  b) tethering livestock instead of free grazing  c) cutting church forests
+**Answer: b) tethering livestock instead of free grazing** — Tethering helps protect soil and water.
+
+**8. (Sub lesson 4) Forests are grown around —**
+a) markets only  b) places of worship — churches and mosques  c) roads only
+**Answer: b) places of worship — churches and mosques** — Church and mosque forests.

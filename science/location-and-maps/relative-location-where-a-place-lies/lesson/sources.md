@@ -26,6 +26,8 @@ countries: Ethiopia
 | Ethiopia among its neighbours | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 4; Ethiopia, *Environmental Science Teacher Guide, Grade 5*, printed pp. 6–8 (teacher guide — evidence) |
 | How long our borders are | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 5 |
 
+| Ethiopia's relative and absolute location (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §1.2, printed pp. 4–6 (teacher guide — evidence) |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 TRUNCATED: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 (to printed p. 89+) are missing. Every part from this book is teacher-guide evidence.

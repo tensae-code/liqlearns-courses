@@ -48,6 +48,10 @@ Two farmings stand side by side. **Traditional farming**, for home consumption, 
 
 Ethiopia's animals carry world rankings: **1st in Africa and 10th in the world for cattle**. Livestock contributes **30% of GDP** and ranks **2nd among foreign-exchange earners**. Pastoralists move with their herds where water is scarce. The two methods: **traditional** — kept with crop farming or alone, with too little grazing land capping its yield — and **modern** — better feed, health care and improved breeds giving better results, though still not widespread. The book's ways to improve agriculture overall: control erosion, use profitable technology, strengthen land management, use improved extension services.
 
+## The region's economic activities — the guides' five-activity set (teacher guide — evidence)
+
+The two regional Grade 4 teacher guides teach the region's main economic activities as a set — the activities pictured as farming, trade, crafts and herding, inside the region's agriculture-led economy this lesson teaches from the student books. Their rows stand in this lesson's sources as labelled teacher-guide evidence.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: agriculture, the country's backbone — what 'economy' means, and farming's two halves: crop production and animal rearing, with the crops and animals named. Then answer one question they ask you about it.

@@ -24,3 +24,7 @@ a) a body light passes through freely  b) a body that blocks light  c) a light s
 **6. In Experiment 5, a shadow is —**
 a) the lightless place made where an opaque body blocks light's path  b) a kind of candle  c) the flame's reflection
 **Answer: a) the lightless place made where an opaque body blocks light's path**
+
+**7. Chapter 2 review: a shadow forms where —**
+a) an opaque body blocks light's straight path  b) light bends around corners  c) the sun sets
+**Answer: a) an opaque body blocks light's straight path** — The shadow item as reviewed.

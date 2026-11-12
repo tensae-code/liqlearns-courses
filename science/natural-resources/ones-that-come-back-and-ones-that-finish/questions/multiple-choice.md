@@ -29,3 +29,6 @@ a) never touched  b) used with care  c) burned quickly
 a) seven — gold, copper, diamond, iron, brass, salt, stone  b) two  c) none
 **Answer: a) seven — gold, copper, diamond, iron, brass, salt, stone**
 
+**8. (Sub lesson 1) Chapter 3 review: a resource that comes back after use is called —**
+a) non-renewable  b) renewable  c) waste
+**Answer: b) renewable** — Renewable, as reviewed.

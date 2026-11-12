@@ -46,3 +46,6 @@ a) factory goods  b) raw farm goods and minerals  c) only flowers
 a) 86% coffee  b) 94% copper  c) 20% coffee
 **Answer: b) 94% copper** — Zambia leans 94% on copper; Burundi's 86% is coffee.
 
+**12. (Sub lesson 1) Chapter 4 review: trade links —**
+a) countryside and town — the farmer sells produce and buys factory goods  b) two towns only  c) no one
+**Answer: a) countryside and town — the farmer sells produce and buys factory goods** — The rural↔urban buying/selling chain as reviewed.

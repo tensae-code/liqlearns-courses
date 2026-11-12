@@ -33,3 +33,10 @@ a) only Ethiopia's highlands  b) northern and southern Kenya and the Rift margin
 a) three  b) five  c) eight
 **Answer: c) eight**
 
+**9. (Sub lesson 1) High places are cold because —**
+a) their thin, dust-free air cannot hold the sun's heat  b) the sun never reaches them  c) snow makes them
+**Answer: a) their thin, dust-free air cannot hold the sun's heat** — Thin, dust-free air cannot hold the heat.
+
+**10. (Sub lesson 1) The five zones, low to high, end with —**
+a) bereha  b) wurch (frost)  c) qolla
+**Answer: b) wurch (frost)** — Wurch, the frost zone, is highest.

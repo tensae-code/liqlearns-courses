@@ -37,3 +37,6 @@ a) Tahsas 10, 2012 E.C.  b) Meskel 2000 E.C.  c) never
 a) 1966 and 1977 E.C.  b) 1900 and 1950 E.C.  c) 2015 and 2020 E.C.
 **Answer: a) 1966 and 1977 E.C.**
 
+**10. (Sub lesson 1) Chapter 5 review: the diagram to analyse links —**
+a) drought and famine, cause and effect  b) rain and snow only  c) towns and roads
+**Answer: a) drought and famine, cause and effect** — The drought↔famine cause-and-effect diagram.

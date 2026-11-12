@@ -20,6 +20,10 @@ When people quarrel, elders mediate: ሽምግልና is the traditional reconcil
 
 Traditional song and dance are kept customs: music gladdens, unites people and carries peace, love and hope — there are work songs, wedding songs and development songs. The class rehearses and performs a local song and dance (such as the Gondar traditional dance). And caring for the elderly is a child's moral duty.
 
+## Sub lesson 4 — Customs that help nature
+
+The Grade 4 book's completion table names customs that help nature: growing forests around places of worship — church forests and mosque forests; keeping graveyard groves; and tethering livestock instead of free grazing, which helps protect soil and water. Behind the table stands its reason: our food, clothes, energy, clean air, clean water and shelter all come from natural resources, so people and nature must stay in a healthy relationship.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: the useful traditional practices — honouring traditional dress, respecting elders, hospitality to guests, respecting work, elder mediation (ሽምግልና), traditional song and dance, and caring for the elderly. Then answer one question they ask you about it.

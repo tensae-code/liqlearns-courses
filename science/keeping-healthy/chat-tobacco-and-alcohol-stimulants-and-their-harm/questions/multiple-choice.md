@@ -41,3 +41,14 @@ a) only punish them  b) rescue them rather than merely punish  c) ignore them
 a) keep their medals  b) are stripped of medals and barred  c) are praised
 **Answer: b) are stripped of medals and barred**
 
+**11. In the Grade 2 story, the heavy chat-and-cigarette user ends —**
+a) promoted at work  b) bedridden at home, ill in lungs, teeth, gums and stomach  c) richer
+**Answer: b) bedridden at home, ill in lungs, teeth, gums and stomach** — That is the story's plot.
+
+**12. The Grade 3 sequence for users is —**
+a) dulled, then stimulated  b) first stimulated, then dulled — irritable, drunk, anxious and hopeless  c) nothing changes
+**Answer: b) first stimulated, then dulled — irritable, drunk, anxious and hopeless** — First stimulated, then dulled.
+
+**13. Chapter 5 review: stimulants are answered across the review beside —**
+a) HIV, chemicals and drought  b) only weather  c) only maps
+**Answer: a) HIV, chemicals and drought** — Stimulants are one of the review's four grounds.

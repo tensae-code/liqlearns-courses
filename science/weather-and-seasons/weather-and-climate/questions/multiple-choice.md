@@ -44,3 +44,10 @@ a) added only  b) added and divided by 12  c) multiplied
 a) Asia, dry  b) the Atlantic, moist  c) the poles
 **Answer: b) the Atlantic, moist**
 
+**12. (Sub lesson 1) Chapter 3 review: climate is judged from —**
+a) one hot day  b) long-term records over many years  c) one week
+**Answer: b) long-term records over many years** — Climate is the long pattern, as reviewed.
+
+**13. (Sub lesson 1) Chapter 3 review: the class action plan includes —**
+a) planting trees and cleaning waste  b) burning waste openly  c) damming every stream
+**Answer: a) planting trees and cleaning waste** — Plant trees, clean waste — the review's action plan.
