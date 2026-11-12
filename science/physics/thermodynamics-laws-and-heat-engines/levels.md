@@ -1,0 +1,4 @@
+# Thermodynamics — the laws and heat engines — depth
+
+Whole-lesson pass mark: the learner states the first law (ΔU = Q − W, energy conserved), the second law (heat flows hot to cold; no engine turns all its heat into work) and the third law (absolute zero unreachable), describes a heat engine as hot source → work → cold sink, and computes a simple efficiency — answering the lesson's questions from the lesson text.
+This lesson has three sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — first-law bookkeeping on small numbers, second-law verdicts on everyday claims (a fridge that cools with its door open, a "perfect" engine), and efficiency calculations for steam and petrol engines, ending at the Carnot cap set by the two temperatures.

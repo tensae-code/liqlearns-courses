@@ -1,0 +1,4 @@
+# The Lambda-CDM model of the universe — depth
+
+Whole-lesson pass mark: the learner states the model's three pieces in their own words — a hot dense beginning and expanding universe (Big Bang, evidenced by redshift and the cosmic microwave background), cold dark matter as most of the matter (evidenced by galaxy rotation and clusters), and Lambda as the dark energy behind the accelerating expansion — and gives the universe's rough recipe, answering the lesson's questions from the lesson text.
+This lesson has three sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — reading redshift as stretching light, weighing a galaxy from its spin, and assembling the full name from its pieces until the learner can defend each piece with its own observation.
