@@ -52,6 +52,15 @@ Band records land here as each band is built and verified.
   also fold into two pupil lessons as labelled evidence. The
   guide's §3.4 resettlement key is wrong for its section and
   is disowned in the sources.
+- **Africa after 1500 — BUILT** (Grade 8 student Chapter 5,
+  student book alone — no teacher evidence; the Grade 8 guide's
+  Units 4–7 are not in hand): 12 lessons, 174 questions,
+  pictures 11650–11661, GIF 11662 (triangle-route ship,
+  frame-checked). The book's OAU charter date (printed June 25)
+  is taught corrected to May 25, 1963, and its Accra 1958 count
+  (printed "6", eight listed) is taught as the eight, both named
+  in the sources. One assessment-stock item (Samori Toure) was
+  not built — no placement gives teachable content for him.
 - **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
   Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
   pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).

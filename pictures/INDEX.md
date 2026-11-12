@@ -1343,6 +1343,19 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11161 | pictures/11161.gif | rain washing soil off a bare slope | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
 | 11162 | pictures/11162.gif | one storm carrying the topsoil away | Social Studies — People and Resources — Water, Air, Forest, Wildlife and Soil |
 | 11163 | pictures/11163.gif | the tree line retreats as houses multiply | Social Studies — People and Resources — Resource Depletion in Ethiopia |
+| 11650 | pictures/11650.webp | old slave routes | Social Studies — Africa after 1500 — Slavery before the Atlantic Trade |
+| 11651 | pictures/11651.webp | the Atlantic triangle | Social Studies — Africa after 1500 — The Atlantic Slave Trade — Why Africa |
+| 11652 | pictures/11652.webp | Senegal-to-Angola coast, gun cycle | Social Studies — Africa after 1500 — The Atlantic Slave Trade — Scale, Coasts and the Gun Cycle |
+| 11653 | pictures/11653.webp | British patrol ship stops slave ship | Social Studies — Africa after 1500 — The Atlantic Slave Trade — How It Ended |
+| 11654 | pictures/11654.webp | coast to interior, Scramble | Social Studies — Africa after 1500 — Colonisation — The Road to the Scramble |
+| 11655 | pictures/11655.webp | Berlin Conference / Article 34 | Social Studies — Africa after 1500 — Colonisation — The Berlin Conference |
+| 11656 | pictures/11656.webp | partition by holder, Fashoda | Social Studies — Africa after 1500 — Colonisation — The Partition and Fashoda |
+| 11657 | pictures/11657.webp | indirect vs direct rule panels | Social Studies — Africa after 1500 — Colonisation — Direct and Indirect Rule |
+| 11658 | pictures/11658.webp | ruled border cutting one people | Social Studies — Africa after 1500 — Colonisation — Its Effects on Africa |
+| 11659 | pictures/11659.webp | North Africa independence years | Social Studies — Africa after 1500 — Decolonisation — North Africa |
+| 11660 | pictures/11660.webp | Ghana/Kenya/South Africa panels | Social Studies — Africa after 1500 — Decolonisation — Ghana, Kenya and the South |
+| 11661 | pictures/11661.webp | two camps merging into the OAU table | Social Studies — Africa after 1500 — African Unity — The Founding of the OAU |
+| 11662 | pictures/11662.gif | ship sailing the triangle (Europe → Africa → Americas → Europe) | Social Studies — Africa after 1500 — The Atlantic Slave Trade — Why Africa |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
