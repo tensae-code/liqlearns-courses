@@ -61,6 +61,16 @@ Band records land here as each band is built and verified.
   (printed "6", eight listed) is taught as the eight, both named
   in the sources. One assessment-stock item (Samori Toure) was
   not built — no placement gives teachable content for him.
+- **Culture and Work — BUILT** (Grade 8 student Chapter 2 +
+  teacher guide Unit 2): 26 lessons, 298 questions, pictures
+  11500–11527, GIF 11512 (loom shuttle, frame-checked). Guide
+  Unit 2 material folds into pupil lessons as labelled teacher
+  evidence; no guide-only lessons. The guide's tax-history
+  self-contradiction (Aksumite taxation vs Zera Yacob's "first
+  tax system") is taught as both lines with the tension named,
+  never silently resolved. Optimum-population watch: the Grade 8
+  books carry no such placement at all — the framework stands
+  once, in People and Resources, untouched.
 - **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
   Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
   pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).

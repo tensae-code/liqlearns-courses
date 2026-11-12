@@ -1356,6 +1356,34 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11660 | pictures/11660.webp | Ghana/Kenya/South Africa panels | Social Studies — Africa after 1500 — Decolonisation — Ghana, Kenya and the South |
 | 11661 | pictures/11661.webp | two camps merging into the OAU table | Social Studies — Africa after 1500 — African Unity — The Founding of the OAU |
 | 11662 | pictures/11662.gif | ship sailing the triangle (Europe → Africa → Americas → Europe) | Social Studies — Africa after 1500 — The Atlantic Slave Trade — Why Africa |
+| 11500 | pictures/11500.webp | one community's day | Social Studies — Culture and Work — What Culture Is |
+| 11501 | pictures/11501.webp | elder speaking, speech becoming a written page | Social Studies — Culture and Work — Language |
+| 11502 | pictures/11502.webp | flag, dress pattern, festival sounds with meanings | Social Studies — Culture and Work — Symbols |
+| 11503 | pictures/11503.webp | two boxes, material / spiritual | Social Studies — Culture and Work — Material and Spiritual Culture |
+| 11504 | pictures/11504.webp | four change-process panels | Social Studies — Culture and Work — How Cultures Borrow, Merge and Invent |
+| 11505 | pictures/11505.webp | town square, many groups | Social Studies — Culture and Work — Multiculturalism in Ethiopia |
+| 11506 | pictures/11506.webp | three-step staircase of levels | Social Studies — Culture and Work — Economic Activities — The Three Levels |
+| 11507 | pictures/11507.webp | three sortings of farming | Social Studies — Culture and Work — Kinds of Farming |
+| 11508 | pictures/11508.webp | one trunk, fuel / industry arrows | Social Studies — Culture and Work — Forest Products |
+| 11509 | pictures/11509.webp | mine cross-section, deep and shallow seams | Social Studies — Culture and Work — Mining |
+| 11510 | pictures/11510.webp | five fishing grounds | Social Studies — Culture and Work — Fishing Grounds |
+| 11511 | pictures/11511.webp | home workshop: loom, forge, pottery wheel | Social Studies — Culture and Work — Cottage Industries |
+| 11512 | pictures/11512.gif | loom shuttle crossing the warp | Social Studies — Culture and Work — Cottage Industries |
+| 11513 | pictures/11513.webp | textile mill vs shipyard (light / heavy) | Social Studies — Culture and Work — Modern Light and Heavy Industry |
+| 11514 | pictures/11514.webp | train, ship, plane with loads | Social Studies — Culture and Work — Services, Transport and Tourism |
+| 11515 | pictures/11515.webp | country outline, internal / import / export arrows | Social Studies — Culture and Work — Internal and External Trade and Its Uses |
+| 11516 | pictures/11516.webp | five market actors chain | Social Studies — Culture and Work — Supply, Demand and Consumer Rights |
+| 11517 | pictures/11517.webp | federal / regional / joint three-column chart | Social Studies — Culture and Work — Tax in Federal Ethiopia |
+| 11518 | pictures/11518.webp | seven benefit tiles (teacher guide — evidence) | Social Studies — Culture and Work — Tax in Federal Ethiopia |
+| 11519 | pictures/11519.webp | many farmers/little harvest vs few farmers/surplus (teacher guide — evidence) | Social Studies — Culture and Work — Economic Activities — The Three Levels |
+| 11520 | pictures/11520.webp | two villages judging one act differently | Social Studies — Culture and Work — Cultural Values |
+| 11521 | pictures/11521.webp | market trade groups, each its own way | Social Studies — Culture and Work — Culture and Identity |
+| 11522 | pictures/11522.webp | villages joining by road, phone, market | Social Studies — Culture and Work — Globalisation and Cultural Change |
+| 11523 | pictures/11523.webp | farm with crops and animals | Social Studies — Culture and Work — Agriculture |
+| 11524 | pictures/11524.webp | cotton in, cloth out | Social Studies — Culture and Work — What Manufacturing Is |
+| 11525 | pictures/11525.webp | two villages exchanging what each lacks | Social Studies — Culture and Work — What Trade Is |
+| 11526 | pictures/11526.webp | two origin theories, equal weight | Social Studies — Culture and Work — Two Theories of Human Origin |
+| 11527 | pictures/11527.webp | teaching / imitation / transmission arrows (teacher guide — evidence) | Social Studies — Culture and Work — What Culture Is |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
