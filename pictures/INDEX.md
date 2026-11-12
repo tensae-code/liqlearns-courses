@@ -4397,3 +4397,48 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 29630 | pictures/29630.gif | a meson passing back and forth holding the nucleons together | Physics — The strong force — the nucleus's glue |
 | 29635 | pictures/29635.gif | pushing a door at the handle vs near the hinge | Physics — Torque — the twisting effect of a force |
 | 29624 | pictures/29624.gif | the flow arrows fading as temperatures equalise | Physics — What heat is |
+| 28500 | pictures/28500.webp | the award pupil in four panels | Civics and Citizenship — Ethiopia — Good citizenship — obey the law and be responsible |
+| 28501 | pictures/28501.webp | an anti-corruption club poster | Civics and Citizenship — Ethiopia — Good citizenship — obey the law and be responsible |
+| 28502 | pictures/28502.webp | tolerance and patriotism in two panels | Civics and Citizenship — Ethiopia — Good citizenship — tolerance and patriotism |
+| 28503 | pictures/28503.webp | trait cards sorted: virtues and vices | Civics and Citizenship — Ethiopia — Virtue ethics — what a good person would do |
+| 28504 | pictures/28504.webp | a wolf and a fox across a stolen hen | Civics and Citizenship — Ethiopia — Virtue ethics — what a good person would do |
+| 28505 | pictures/28505.webp | a young tree staked straight | Civics and Citizenship — Ethiopia — Virtue ethics — what a good person would do |
+| 28506 | pictures/28506.webp | five steps to an ethical decision | Civics and Citizenship — Ethiopia — Making an ethical decision — five steps |
+| 28507 | pictures/28507.webp | a lost wallet handed back | Civics and Citizenship — Ethiopia — Virtues — honesty |
+| 28508 | pictures/28508.webp | a spider climbing a cave wall, a king watching | Civics and Citizenship — Ethiopia — Virtues — courage |
+| 28509 | pictures/28509.webp | the spider's seventh attempt | Civics and Citizenship — Ethiopia — Virtues — courage |
+| 28510 | pictures/28510.gif | a spider climbing, slipping, climbing again | Civics and Citizenship — Ethiopia — Virtues — courage |
+| 28511 | pictures/28511.webp | a sister pouring water at a spring | Civics and Citizenship — Ethiopia — Virtues — compassion |
+| 28512 | pictures/28512.webp | a wolf looking down at a fox in a well | Civics and Citizenship — Ethiopia — Virtues — compassion |
+| 28513 | pictures/28513.webp | two sisters sharing an umbrella and a loaf | Civics and Citizenship — Ethiopia — Virtues — compassion |
+| 28514 | pictures/28514.webp | pupils sharing books and food | Civics and Citizenship — Ethiopia — Virtues — generosity |
+| 28515 | pictures/28515.webp | a farmer sharing seed grain | Civics and Citizenship — Ethiopia — Virtues — generosity |
+| 28516 | pictures/28516.webp | scales: identical tasks, identical rewards | Civics and Citizenship — Ethiopia — Virtues — fairness |
+| 28517 | pictures/28517.webp | a classroom courtroom | Civics and Citizenship — Ethiopia — Virtues — fairness |
+| 28518 | pictures/28518.webp | studying, with football and sweets set aside | Civics and Citizenship — Ethiopia — Virtues — self-discipline |
+| 28519 | pictures/28519.webp | clock, closed game, open book — in that order | Civics and Citizenship — Ethiopia — Virtues — self-discipline |
+| 28520 | pictures/28520.webp | pausing at a fork: two crossings | Civics and Citizenship — Ethiopia — Virtues — prudence |
+| 28521 | pictures/28521.webp | testing the rope bridge plank by plank | Civics and Citizenship — Ethiopia — Virtues — prudence |
+| 28522 | pictures/28522.webp | tax, information, participation in three panels | Civics and Citizenship — Ethiopia — Civic virtues — tax, information, participation |
+| 28523 | pictures/28523.webp | the tax scale: larger income, larger share | Civics and Citizenship — Ethiopia — Civic virtues — tax, information, participation |
+| 28524 | pictures/28524.webp | one classroom, two kinds of citizenship | Civics and Citizenship — Ethiopia — Why good citizenship and virtue ethics matter |
+| 28525 | pictures/28525.webp | a market street running smoothly | Civics and Citizenship — Ethiopia — Why good citizenship and virtue ethics matter |
+| 28526 | pictures/28526.webp | a graduate split: books, and heart and scales | Civics and Citizenship — Ethiopia — Why good citizenship and virtue ethics matter |
+| 28527 | pictures/28527.webp | a bridge held by virtue cables | Civics and Citizenship — Ethiopia — Why good citizenship and virtue ethics matter |
+| 28528 | pictures/28528.webp | a woman gathering children at her door | Civics and Citizenship — Ethiopia — Virtues in daily life — Abebech Gobena |
+| 28529 | pictures/28529.webp | a growing circle of children, virtues around | Civics and Citizenship — Ethiopia — Virtues in daily life — Abebech Gobena |
+| 28530 | pictures/28530.webp | three pupils, a phone refused | Civics and Citizenship — Ethiopia — What Ethics Is |
+| 28531 | pictures/28531.webp | keys handed over: a building given | Civics and Citizenship — Ethiopia — Integrity — Word and Deed Matching |
+| 28532 | pictures/28532.webp | eight marks around one figure | Civics and Citizenship — Ethiopia — Integrity — Word and Deed Matching |
+| 28533 | pictures/28533.webp | a promise kept at a school gate | Civics and Citizenship — Ethiopia — Integrity — Word and Deed Matching |
+| 28534 | pictures/28534.webp | seven value plaques, integrity largest | Civics and Citizenship — Ethiopia — Integrity — Word and Deed Matching |
+| 28535 | pictures/28535.webp | three professionals at their posts | Civics and Citizenship — Ethiopia — Loyalty — Faithfulness at Every Level |
+| 28536 | pictures/28536.webp | neighbours rebuilding a house together | Civics and Citizenship — Ethiopia — Concern for Others — Having a Place for People |
+| 28537 | pictures/28537.webp | holding a door for an elder | Civics and Citizenship — Ethiopia — Respect for Others — Dignity for Being Human |
+| 28538 | pictures/28538.webp | a school gate and its rule-board | Civics and Citizenship — Ethiopia — Abiding by the Law — Rules, Then Laws |
+| 28539 | pictures/28539.webp | shoe-shining, with books beside | Civics and Citizenship — Ethiopia — Commitment to Excellence — Responsibility Through Hardship |
+| 28540 | pictures/28540.webp | one street shown twice | Civics and Citizenship — Ethiopia — Why Ethical Values Matter |
+| 28541 | pictures/28541.webp | lit streets and dark lanes | Civics and Citizenship — Ethiopia — Why Ethical Values Matter |
+| 28542 | pictures/28542.webp | a teacher at a classroom door, traits around | Civics and Citizenship — Ethiopia — Applied Ethics — Professional and Environmental |
+| 28543 | pictures/28543.webp | one school corner, before and after | Civics and Citizenship — Ethiopia — Applied Ethics — Professional and Environmental |
+| 28544 | pictures/28544.webp | a professional's desk and a planted tree | Civics and Citizenship — Ethiopia — Applied Ethics — Professional and Environmental |

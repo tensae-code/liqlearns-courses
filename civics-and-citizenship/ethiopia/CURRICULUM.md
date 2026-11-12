@@ -136,7 +136,12 @@ and verified:
   Moral civics strand, Grades 1–6 guides): 20 lessons, 240
   questions; pictures 28400–28419; every lesson teacher-guide
   evidence only. Commit c7c9a28f4 (with the course frame).
+- **The Older Course (Level 28) — BUILT** (band G11, Civics and
+  Ethical Education Grade 11, 2002 E.C.): 46 lessons in the older
+  course's own eleven units, 609 questions; pictures 29000–29045,
+  GIFs 29046–29049; older-generation teacher-guide evidence
+  throughout. Commit c7fb8ff99.
 - Bands M1 (Levels 1–6), M2 (Levels 7–12 + Level 1's deepening),
   C2 (Level 14), C3 (Levels 15–21, Grades 7–8), C4 (Levels 17–27
-  depth + Levels 22–27), G11 (Level 28) — records land as each
-  band is verified and committed.
+  depth + Levels 22–27) — records land as each band is verified
+  and committed.
