@@ -449,13 +449,17 @@ Full pass (started 2026-11-09 after his sample approval):
 Holding a Pencil step GIFs (added 2026-11-11) — the first moving
 pictures in this index. Files are real .gif files, 2 seconds each,
 frame-checked against the lesson's five-step grip before filing.
-Steps 2 and 4 are NOT yet made: 7888 and 7890 are reserved for them
-and no files exist under those numbers yet (step 2's beak pinch and
-step 4's tilt-back still owed — two generation attempts failed the
-frame check and were dropped, not filed).
+All five steps are now made: steps 2 and 4 (7888, 7890) were
+finished 2026-11-11 after earlier attempts failed the frame check
+and were dropped, not filed — the shipped clips are cut from the
+frame-checked windows where the pinch / tilt-back mechanic is
+exactly right (one plush paw only; step 2's two-digit beak pinch
+and lift; step 4's hold never opens while the pencil tilts back).
 
 | Number | File | Tag (what it shows) | Used in |
 |---|---|---|---|
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |
+| 7888 | pictures/7888.gif | GIF — step 2 of the grip: close up, the little brother's thumb and first finger close on the pencil like a bird's beak and lift it cleanly off the paper, held in the two-finger pinch | Pencil and Lines — Holding a pencil (step 2) |
 | 7889 | pictures/7889.gif | GIF — step 3 of the grip: close up, the pencil rests across the little brother's middle finger with thumb and first finger resting lightly on top, settling still onto the paper — resting, not squeezed | Pencil and Lines — Holding a pencil (step 3) |
+| 7890 | pictures/7890.gif | GIF — step 4 of the grip: close up, the held pencil tilts back until its barrel rests in the soft place of the little brother's hand, the grip never letting go — resting, not squeezed | Pencil and Lines — Holding a pencil (step 4) |
 | 7891 | pictures/7891.gif | GIF — step 5 of the grip: the little brother writes a wavy line with the grip, the pencil leaning back at an angle like a small tree leaning, the grip the same all the way | Pencil and Lines — Holding a pencil (step 5) |
