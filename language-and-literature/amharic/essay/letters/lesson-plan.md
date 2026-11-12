@@ -103,3 +103,7 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 9 — Grade 7: my greeting letter — the follow-on writing.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 10 — **Informal writing (teacher guide — evidence)** — ኢ-መደበኛ ጽሁፍ taught from a model informal paragraph (የኢ-መደበኛ ፅሁፍ ሞዴል አንቀፅ), the Grade 7 guide's writing part for Ch.2.
+- Sub lesson 11 — **Letters and a life (teacher guide — evidence)** — the Grade 10 guide's writing part: personal and job-application letters (የግልና የሥራ ደብዳቤ) + writing a life history, with sample letters, sample biographies and a sample sales contract as materials.

@@ -37,3 +37,7 @@ a) Socks  b) Shoes  c) A towel
 **9. (Sub lesson 6)** The two paragraphs describe —
 a) two different countries  b) the attractiveness of your school or home area  c) a story's ending
 **Answer: b) the attractiveness of your school or home area** — your own school or area — described so a stranger can stand there.
+
+**10. (Sub lesson 7)** አንቀፅ አመዛዛኝ ድርሰት is —
+a) a balanced-paragraph essay  b) a one-line note  c) a poem
+**Answer: a) a balanced-paragraph essay**

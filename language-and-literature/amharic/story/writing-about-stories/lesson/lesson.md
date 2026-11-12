@@ -313,6 +313,9 @@ Before formal courts, one of Ethiopia's judgement systems was the traditional li
 
 Two Grade 7 writing tasks. First, complete two given paragraph openings: 'our class's clever students…' and 'one day I went down to the river to wash clothes with my beloved dog Bobbi…' — a completion must honour the opening's voice and direction. Second, arrange six scrambled sentences into one paragraph — the set text explains how addiction begins: addiction is the habit from cigarettes, chat, drugs and alcohol; some fall in wanting to do everything others do; adolescents take smoking and chat as signs of civilisation, bigness, freedom and maturity; some are trapped not wanting to lose addicted friends' love; many enter not knowing themselves or addiction's harm. Order is found by sense-links: definition first, then the doors in, then the trap.
 
+## Sub lesson 14 — Who is in the tale? — Characters, ገፀ ባህሪ (teacher guide — evidence)
+
+This part is teacher-guide evidence: the guide's own definition box (ማስታወሻ) for a character. A ገፀ ባህሪ (character) is an imagined person or thing created by the author, who acts in the tale's world — the box names people, animals, birds and other things, standing in for real people and acting in their place. Learn to hunt characters the tale's way: who acts? Who speaks? Who changes? Follow the Martyr Mother tale with those questions — mother and son — then retell how much you understood, bring your own similar tales, and exchange tales in groups. Characters are also taught from student books in this lesson; this box is the Grade 3 guide's own definition, standing as evidence beside them.
 ## Say it to your companion
 
 Tell your companion a story you know, walking its shape out loud:

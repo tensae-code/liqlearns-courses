@@ -58,6 +58,22 @@ Words can change their shape — and when the shape changes, the meaning changes
 
 Point: one book. Many books. One — many. In your notebook the same change happens with words: read the singular, write the plural. What exactly grows on the word is something your eye learns word by word, the way it learned the fidel rows: by seeing true pairs, again and again.
 
+## Sub lesson 5 — Hear a story and retell it — Chapter 4's listening (teacher guide — evidence · SECOND-LANGUAGE)
+
+Chapter 4 of the second-language guide — Commands and Instructions — carries its own listening part, stocked here as labelled evidence inside this, the guide's Chapter 4 lesson.
+
+**ታሪክን አዳምጠው ደግመው ይናገራሉ** — learners **hear a story, and retell it**. Not answer about it: retell it — the story heard in the new language, carried back out in the learner's own speaking. It is the chapter's listening proof: the ears took it in, the mouth gives it back, in order.
+
+This stands beside the chapter's command-carrying work (Sub lesson 3) — the same chapter asks the new speaker to *do* what is heard and to *retell* what is heard: body and voice, both checking understanding.
+
+## Sub lesson 6 — How speaking is checked, and how grammar is taught — the guide's closing notes (teacher guide — evidence · SECOND-LANGUAGE)
+
+At the end of the guide's unheaded grammar-and-assessment block stand two pieces of closing guidance, stocked here as labelled evidence — the second-language course's method evidence from this guide.
+
+**Assessing speaking (printed p.149).** Speaking is checked by **short-answer monitoring, short tests, and story retelling** — small, frequent, spoken checks, named beside the guide's repeating assessment bank.
+
+**Teaching grammar (printed p.151).** The block's last word on method: teach grammar **with practical exercises and practical observation** — grammar is learned by doing it and by watching it work, not by reciting its rules. The grammar parts of this lesson (the -ች gender change, singular and plural) are the block's own examples of that rule in action.
+
 ## Say it to your companion
 
 Take the word መጣ. Split it aloud for your companion — መ, ጣ — then join it: መጣ. Now give your companion a command and watch them do it; then take a command from them and do it. Finish with the pair: say መጣ, then add the tail and say መጣች, and tell your companion what changed.

@@ -58,6 +58,9 @@ Join verb and suffix: **ሳቀ -ች, ጠራ -ን, መጣ -ሁ, ጻፈ -ኣችሁ
 
 Complete the starter: oppression of women may seem lessened, but many still live under the yoke of wrong. List kinds of abuse — naming them is the first step to ending them.
 
+## Sub lesson 6 — Grade 4 Unit 4 opens: Gender — ስርዓተ ያታ (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 4 is ስርዓተ ያታ (Gender — the order of gender relations, as printed) — eighteen periods, as far as the secured file goes. Its objectives run across the four skills, with a listening text on the division of labour and a vocabulary part on loanwords. The division-of-labour listening stands in Listening Stories as evidence from this guide, and the loanwords stand in Building Words; this opener holds the unit's frame. The secured scan ends at printed p.42 inside this unit — the rest of Unit 4 and Units 5–10 are not in the file.
 ## Say it to your companion
 
 Tell your companion the chapter word — **ሥርዓተፆታ** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

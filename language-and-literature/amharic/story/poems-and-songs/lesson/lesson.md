@@ -406,6 +406,12 @@ The poem (by ዋለልኝ, 2001, adapted) is summarised by its calls. The mounta
 
 Grandmothers (እማማ) dressed in beauty, hair braided and wrapped in fine kuta, sitting in the sun, call the children and bless them wholesale. They counsel from their own childhood: sweeping and cleaning the house, brewing coffee, fulfilling the family's need, helping mother, serving relative and neighbour, growing up in peace and love, trusting without suspicion — and because they served everyone in uprightness (ቅንነት), everyone blessed them that their age lengthen. The work done in childhood has borne fruit: who is like them, a full 100 years? Love and peace benefit oneself too; intrigue and conflict shorten life. 'What bears fruit tomorrow — do good now!' The warnings close it: insulting the great, glaring at the neighbour, wasting time in bad places and in jest — these curse the age to shorten. The book's questions compare child-raising then and now, and sort the poem's good and bad characters.
 
+## Sub lesson 26 — Explaining sayings — the Grade 9 guide's second task (teacher guide — evidence)
+
+Inside the Grade 9 guide's Chapter 2 writing part — the part whose first task, the descriptive essay about a famous woman, is stocked in Writing Essays — stands a second task for this lesson's territory, stocked here as labelled evidence.
+
+Learners **explain the meanings of given sayings/proverbs (አባባሎች)** — and the guide prepares the ground first: a **short explanation of why sayings matter** precedes the task. A saying is a community's experience folded small; explaining one means unfolding it — what it pictures, and what it advises — in plain words of your own.
+
 ## Say it to your companion
 
 Perform your group's piece — poem, song or chant — to another

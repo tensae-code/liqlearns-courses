@@ -116,6 +116,17 @@ The Grade 4 book opens by explaining its own way of working. Every task wears a 
 
 The same front pages state the fidel method in the book's own two words. **ማጣመር** — blending: read a word's parts, then blend them into the whole word. **መነጠል** — splitting: read the whole word, then split it into its fidel units. You have done both through this whole lesson — ገ + በ + ረ blended into ገበረ, and ገበረ split back into ገ በ ረ. The Grade 4 book names the same two moves at its front, because every chapter that follows leans on them.
 
+## Sub lesson 8 — Writing: joining fidel on the line — the teacher's checklist (teacher guide — evidence)
+
+This part is teacher-guide evidence — the last page of the secured Grade 1 guide file. It is the teacher's tick-list (✓) for the writing strand, and it tells you exactly what good joining looks like. Write the new fidel by joining their lines correctly. Write ባሉስት ሆሄ (three-letter) words from the joined fidel. Read fidel aloud, in order and out of order. Practise the sounds on slate, on the blackboard, on coloured paper and on cards — on paper, on the line, on the board. Work through the list and tick each thing you can truly do. The unit's writing strand continues past this page, but that page is not in the secured file, and this course claims nothing past it.
+## Sub lesson 9 — Words into syllables — ምእላድ: the Grade 10 guide (teacher guide — evidence)
+
+This lesson blends and segments at the level of fidels, from the early grades' books. The Grade 10 guide works one level up, and its part is stocked here as labelled evidence: the **syllable (ምእላድ)**.
+
+Learners **split words into syllables** (ምእላድ መነጣጠል) and **combine syllables into words** (ማቀናጀት) — the whole word taken apart into its beats, and the beats built back into the word. The chapter's assessment (printed p.10) checks the syllable work alongside the chapter's letters and vocabulary: oral questions, notebook checks — and the syllables, split and rejoined correctly.
+
+The operation is the grown-up twin of this lesson's fidel work: what the young learner does with letters, the Grade 10 learner does with syllables.
+
 ## Say it to your companion
 
 Blend three fidel your companion names, and read the word in one go. Then split a word your companion says, fidel by fidel. Take away its first fidel and say the new word. Finish together: clap the letters of ጨጨት — three claps — and chant መናጩ, ዋናጩ, ቂናጩ.

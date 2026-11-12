@@ -17,3 +17,15 @@ a) everyone uses it as if it were theirs alone  b) everyone uses it gently and l
 **4. (Sub lesson 1)** The book-care message opens —
 a) only the Grade 7 book  b) both the Grade 7 and Grade 8 books  c) a teacher guide only
 **Answer: b) both the Grade 7 and Grade 8 books** — the same የጥንቃቄ መልዕክት opens both student books.
+
+**5. (Sub lesson 4)** What carries the story in a book?
+a) Only the pictures  b) The print — the written words  c) The cover colour
+**Answer: b) The print — the written words** — Print carries the story; pictures help.
+
+**6. (Sub lesson 4)** Where does reading a book start?
+a) At the last page  b) At the front, and the pages follow in order  c) In the middle
+**Answer: b) At the front, and the pages follow in order** — Open at the front and follow the pages in order.
+
+**7. (Sub lesson 4)** In this strand, learners —
+a) handle books and point as they follow  b) tear out pages  c) only listen, never touch a book
+**Answer: a) handle books and point as they follow** — Learners handle books and point.

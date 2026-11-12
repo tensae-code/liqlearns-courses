@@ -44,6 +44,9 @@ The weather is today's sky. The season is the long stretch of days. A day inside
 - Write sentences with መስከረም and ፈነዳ — the book's own two
   words: the month when the adey flower bursts open.
 
+## Sub lesson 4 — Match the season to its months — the guide's keys (teacher guide — evidence)
+
+This part is teacher-guide evidence: the matching task and its printed keys. The task: match each season to its months (ወቅቶችን ከወራት ጋር ማዛመድ). The guide's keys stand here as the checked answers: the matching answers ሐለተ/አወነተ (as printed), and the letter answers 1. ለ 2. ሀ 3. መ 4. ሐ, with the month sets on the charts (ጥቅምት, ታህሳስ, የካቲት in one set; መጋቢት, ግንቦት in another). Do the matching from what you know of the seasons first — ክረምት, መኸር, በጋ, በልግ — then check against the key. The seasons text itself stands in Listening Stories; this part is its task and key.
 ## Say it to your companion
 
 Tell your companion: today's weather, the season we are in now, and what that season usually brings. Then ask your companion: what is the weather at your home today?

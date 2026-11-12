@@ -23,3 +23,8 @@ Sub lesson 5 questions from the type files. Pass mark: convert three sentences i
 ## Sub lesson 6 — Grade 8: joining into compound sentences — the book's own pages
 Sub lesson 6 questions from the type files. Pass mark: join three sentence pairs, naming the relation each conjunction declares.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 7 — Joining words in a real paragraph (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

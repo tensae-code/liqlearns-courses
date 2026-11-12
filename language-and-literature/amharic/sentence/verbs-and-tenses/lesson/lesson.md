@@ -118,6 +118,20 @@ The stem never moves: በላ stays በላ. Only the tail changes — ሁ, ህ, �
 
 The ሰበረ paradigm and the past/non-past work of this lesson are stocked from Grade 8's later pages; the discussion chapters set the same grammar earlier in the book, and their pages are cited here now. Chapter 1 (pp.13–14): classify sentences as affirmative, negative or interrogative, and write the verbs ከፈተ, መከረ, ፈለገ, ወደቀ, ዘፈነ, ከበረ in their 2nd-person plural and 3rd-person plural forms — the persons change, the verb's body changes with them. Chapter 2 (p.31): write 6 sentences in past (ሀላፊ), present (አሁን) and future (ወደፊት) time, on a model given — beside the institutions talk that stands in Speaking and Performing.
 
+## Sub lesson 8 — Verbs with ተ-: spotting derived verb forms (teacher guide — evidence)
+
+This part is teacher-guide evidence: ተወላክ ግሶች — derived verb forms, the verbs built with ተ- and its family of changes. Hunt them where they really live: pick the derived forms out of sentences, and out of whole paragraphs — including inside the paragraph-type texts you met in this unit. Then use each form you find in a sentence of your own, and take the correction. The guide's assessment is observation again: watch learners identifying the forms and using them in sentences. A derived verb is a verb with a history — ተ- on the front is the mark that something was done, happened, or was made to happen; spotting the mark is the first step to reading the history.
+## Sub lesson 9 — Verbs that carry time: የጊዜ ተውላከ ግስ — and the trial test (teacher guide — evidence)
+
+This part is teacher-guide evidence: የጊዜ ተውላከ ግስ — the verb form that carries time, showing when a thing happened or will happen (አንደ ነገር መቼ እንደተከሰተ ወይም እንደሚከሰተ የሚገልጽ). Pick the tense forms out of sentences and out of a prepared chart, then use them in sentences of your own and be checked. The guide's printed answers name the time expressions — በጣት, ትናንት (yesterday), ዛሬ ጠዋት (this morning), በሚቀጥለው አመት (next year), ባለፈው ሳምንት (last week), ዘወትር (always) — and chart forms (ወዲያውኑ/ኤሁን, ዛሬ/ያለፈው አመት, ነገ/ሌሊት, as printed). A verb that carries time answers two questions at once: what happened, and when. The guide closes the unit by advising a trial test at its end (የሙክራ ፈተና — 'it is good to give a trial test at this unit's end'): a practice run that shows learner and teacher what is truly held before the real thing. Tense verbs are taught from student books in this lesson's earlier parts; this part is the Grade 6 guide's own tense work and trial test, as evidence.
+## Sub lesson 10 — The present tense — the Addis guides' own pages (teacher guide — evidence)
+
+The present tense taught in this lesson stands under student-book citations. The two Addis guides' own pages for the same named grammar are stocked here as labelled evidence.
+
+**Grade 7 guide (Chapter 2 grammar).** The present tense (የአሁን ጊዜ): learners first **identify which of the given sentences are in the present tense**, then **form present-tense sentences** of their own. Spot it, then make it — the guide's two-step order.
+
+**Grade 8 guide (Chapter 2 grammar).** Tense work in two directions: a short note on **the past tense (የኅላፊ ጊዜ**, as the guide prints it), and the chapter's listed grammar content — **identify sentences containing present-tense verbs (የአሁን ጊዜ ግስ) and form sentences using present-tense verbs**. The past is noted; the present is practised.
+
 ## Say it to your companion
 
 Tell your companion: Amharic divides time into ሀላፊ and ኢሀላፊ — ሰበረ against ይሰብራል. Then walk the በላ family from እኔ to እነርሱ without stopping. Last, read አዜብ ለእናቷ ብር ላከች and let your companion ask "what?" and "to whom?" — you answer ብር and ለእናቷ.

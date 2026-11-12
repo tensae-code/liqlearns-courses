@@ -17,3 +17,11 @@ a) Your handwriting  b) That you understood — the action itself is the check  
 **4. (Sub lesson 4)** መጣች means —
 a) "He came"  b) "She came"  c) "They came"
 **Answer: b) "She came"** — መጣ ("he came") + -ች turns the word toward the female (ወደ ሴት).
+
+**5. (Sub lesson 5)** Chapter 4's listening asks learners to hear a story and then —
+a) retell it (ደግመው ይናገራሉ)  b) copy it silently  c) forget it
+**Answer: a) retell it (ደግመው ይናገራሉ)**
+
+**6. (Sub lesson 6)** The guide's closing notes say grammar should be taught with —
+a) rule recitation only  b) practical exercises and practical observation  c) translation lists
+**Answer: b) practical exercises and practical observation**

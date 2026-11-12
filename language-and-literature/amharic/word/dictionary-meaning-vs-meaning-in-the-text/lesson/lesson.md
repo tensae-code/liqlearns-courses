@@ -16,6 +16,9 @@ The heritage chapter repeats the two-layer work on its own words. Dictionary def
 
 The play chapter sharpens the same skill: some phrases are explained as they stand IN the text — መንቀሳቀሻዬን ቀምተው…, ሽበት የወረረው, ሌላ ውል ፈርሙ, እንደገና ሽማግሌ ላከ — and words are then built into sentences in their similar and opposite meanings (model: ደልደል ያለ → similar ወፈር ያለ, opposite ከሳ ያለ; words: ማጋዝ, ቁልል, ተሸፈነ, ተበጥሯል, አጣደፈኝ, እንዳቀረቀሩ). A phrase's in-text meaning is often a whole situation compressed; outside the text, the same words return to their dictionary homes. Keep the two apart and you will never mistake a play's idiom for a dictionary entry.
 
+## Sub lesson 4 — One word, two lives: meaning in the text, meaning outside (teacher guide — evidence)
+
+This part is teacher-guide evidence — the last content of the secured Grade 6 guide file. The guide names the words and phrases from the city-farming listening to be written on the board for close work (ጥቅር ስለዳ ላይ የሚጻፉት ቃላትና ሀረጎች): ጫንቃ ላይ, ከተመዘገብኩበት, የከተማ ግብርና (urban farming), ኤቻዥቾ (as printed), የተስፋ ጭላንጭል (a ray of hope), በባንክ ማስቀመጥ (saving in a bank), ማቅረብ, ኤየጨመረ. Then the close work itself: each word's meaning inside the text (በምንባብ ውስጥ ያለው ፍቺ) set against its meaning outside it (ከምንባቡ ውጪ), with paired example sentences — መዝገት and ማሳደግ each shown in two senses. One word, two lives: the sentence it stands in decides which life it is living. The file ends mid-exercise at printed p.36; nothing past it is claimed. This lesson is exactly about that difference — dictionary life against text life — and this part is the Grade 6 guide's own board list and paired work, as evidence.
 ## Say it to your companion
 
 Tell your companion the main thing each sub lesson taught, in your own words, in order. Your companion asks one question about each part, and you answer from the lesson. Then swap.

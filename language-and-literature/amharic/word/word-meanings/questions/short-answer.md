@@ -92,3 +92,18 @@ two apart.
 
 **28. (Sub lesson 28)** What must your built sentence preserve from the reading?
 **Answer:** The word's contextual meaning — the same meaning, in your own sentence.
+
+**29. (Sub lesson 36)** What material does the Grade 7 guide name for teaching common and uncommon words, and what do learners do with the uncommon ones?
+**Answer:** A chart (ሰንጠረዥ); learners identify the uncommon words and write them.
+
+**30. (Sub lesson 37)** The Grade 8 guide's vocabulary work is bound to what, chapter by chapter?
+**Answer:** To each chapter's own text — its words are taken from the text just read.
+
+**31. (Sub lesson 38)** Give the Grade 9 guide's keyed meaning of መጋጨት.
+**Answer:** መጣላት / አለመስማማት — conflict, disagreement.
+
+**32. (Sub lesson 39)** Why does the Grade 9 guide print no fixed antonym key for Chapter 8?
+**Answer:** Because acceptable antonyms vary — the guide leaves them open, to be confirmed with the learners.
+
+**33. (Sub lesson 40)** How are the technology and IT profession words learned in the Grade 10 guide?
+**Answer:** Their meanings are found from websites, presented in class, and used in sentences.

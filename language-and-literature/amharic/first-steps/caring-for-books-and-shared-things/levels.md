@@ -12,3 +12,9 @@ Sub lesson 2 questions from the type files. Pass mark: show how to cover a book 
 
 ## Sub lesson 3 — Shared things beyond books
 Sub lesson 3 questions from the type files. Pass mark: name three shared things at school and one care rule for each.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 4 — How a Book Works — print concepts (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

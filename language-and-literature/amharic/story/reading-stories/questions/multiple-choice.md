@@ -277,3 +277,39 @@ a) four thousand birr  b) five thousand birr  c) nothing
 **69. (Sub lesson 36)** Nuru stopped Efrem by —
 a) running away  b) pushing him with all his strength as he raised his foot  c) calling the cat
 **Answer: b) pushing him with all his strength as he raised his foot** — he pushed Efrem backwards, and they grappled until the elder came.
+
+**70. (Sub lesson 37)** In these reading steps, learners point to —
+a) the page numbers  b) the changing fidel inside words  c) the pictures only
+**Answer: b) the changing fidel inside words** — Point to the ተተኻሪ ፊደል inside words.
+
+**71. (Sub lesson 37)** The riddle text is re-read —
+a) once only, silently  b) together, part by part  c) backwards
+**Answer: b) together, part by part** — Re-read together, in parts.
+
+**72. (Sub lesson 37)** The answer to the house riddle is —
+a) ትምህርት ቤት (school)  b) ቤት (a house)  c) ገበያ (market)
+**Answer: b) ቤት (a house)** — ቤት — a house.
+
+**73. (Sub lesson 38)** Reading questions are answered in —
+a) three to seven minutes  b) a whole day  c) no set time
+**Answer: a) three to seven minutes** — 3–7 minutes.
+
+**74. (Sub lesson 38)** After answering, learners —
+a) hide their books  b) explain their answers to classmates  c) leave the room
+**Answer: b) explain their answers to classmates** — Explain answers to classmates.
+
+**75. (Sub lesson 38)** The introduction paragraph is —
+a) skipped  b) shared round the class  c) read by the teacher only
+**Answer: b) shared round the class** — Shared round the class.
+
+**76. (Sub lesson 39)** Questions on the reading are answered in —
+a) three to five minutes  b) one hour  c) a week
+**Answer: a) three to five minutes** — 3–5 minutes.
+
+**77. (Sub lesson 39)** A group presents its answer through —
+a) its leader (መሪ)  b) a stranger  c) no one — it stays silent
+**Answer: a) its leader (መሪ)** — Through the group's leader.
+
+**78. (Sub lesson 39)** Before the reading, words are changed from —
+a) singular to plural only  b) plural to singular  c) Amharic to English
+**Answer: b) plural to singular** — Plural → singular.

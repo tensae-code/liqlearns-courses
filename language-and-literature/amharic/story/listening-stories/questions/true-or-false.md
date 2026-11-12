@@ -90,3 +90,21 @@ Say if the sentence is true or false.
 
 **30. (Sub lesson 44)** The listening asks you to compare Ethiopia's ancient and current forest cover.
 **Answer: True**
+
+**31. (Sub lesson 45)** In the Grade 7 guide, the Abbay listening is assessed on contextual meanings (አውዳዊ ፍቺ) of words from the text.
+**Answer: True**
+
+**32. (Sub lesson 45)** The Grade 7 guide prints a source for the volunteer's story: ተምሳሌት, «አፁብ ድንቅ ኢትዮጵያዊያን ሴቶች».
+**Answer: True**
+
+**33. (Sub lesson 46)** The Grade 8 guide's inclusion note is repeated at the listening and reading parts of every chapter in hand.
+**Answer: True**
+
+**34. (Sub lesson 47)** In the heritage listening, shillela war chants and poems are counted as heritage.
+**Answer: True**
+
+**35. (Sub lesson 48)** The Zeyse marriage listening stands in the Grade 9 guide's Unity in Diversity chapter.
+**Answer: True**
+
+**36. (Sub lesson 49)** The Grade 10 guide tells teachers their own extra exercises should teach the skills in integration (በቅንጅት).
+**Answer: True**

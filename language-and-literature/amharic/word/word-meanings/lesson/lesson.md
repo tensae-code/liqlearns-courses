@@ -291,6 +291,79 @@ Grade 7's artist chapter matches words to their definitions: ሠዓሊ painter, 
 
 Two context sets. The Desert Journey's synonyms (p.90): ተኗል, ማፅናናት, ወለል ብሎ, እንክብካቤ (care), ተቀየረ, አሰቃያቸው, ያቃጥላል, የደም እንባ (tears of blood), ትካዜ (daze of grief) — the vocabulary of a town mourning its youths. The family-planning chapter's set (p.22): contextual meanings first, then sentences built from them — the words must work in YOUR sentences with the same meaning they carried in the reading. እንክብካቤ is the set's heart: the care whose absence the whole journey story mourns.
 
+## Sub lesson 29 — Words from the Clothes text — the guide's answer key (teacher guide — evidence)
+
+This part is teacher-guide evidence: the printed answer key for the Clothes unit's word work (ትዕዛዝ ፩). The keyed answers, in order, are: 1. በቀለ 2. ነጠቆ 3. ለማዳ 4. ዴለበ 5. ብስል. Work the learner-book task first, from the clothes text you heard — then check yourself against the key, word by word. A key is not for copying before you try; it is the checked answer source you mark your own try against. Where your answer differs, go back to the text and find why.
+## Sub lesson 30 — Words from the Fox story — blended-word answers (teacher guide — evidence)
+
+This part is teacher-guide evidence: word work from the Rooster and the Fox story. Meanings come from the text first — each word is met inside the story before it is explained. The letter key stands as printed: 1. ሠ 2. ሐ 3. ለ 4. መ 5. ሀ. And the blended-word answers from the story are: 1. ጀመረች 2. አፋነ 3. ቀበሮው 4. ወደጫካ 5. ለመናገር. Blend each answer back into its fidel and split it again — the story's own words are the blending practice. ቀበሮው carries the fox himself: ቀበሮ (fox) with its ending on.
+## Sub lesson 31 — Words from Marta's Diary — pairs and the picture key (teacher guide — evidence)
+
+This part is teacher-guide evidence: word pairs worked from the diary text — ሰበሰበ/ዶማ, ረዘመ/ቀጠቀጠ, ሰላጠ/ደለበ (as printed) — each pair met in class and used, not just listed. The picture-matching key (የስዕል ማዝመድ ተግባር መልስ) stands as the checked answers: 1. ሐ 2. ሀ 3. መ 4. ሠ 5. ለ. Match first, then check against the key. The guide's inclusion note stands here too: blind learners work with adapted styles (በተለያዩ ዘዴዎች) so the matching is theirs as well. Some of these same words return inside the rearrange table in Blending and Segmenting, cited to the next page — this part is their first meeting, in the diary.
+## Sub lesson 32 — Words from the Martyr Mother — the guide's keys (teacher guide — evidence)
+
+This part is teacher-guide evidence: the word keys for the Martyr Mother tale (the tale itself stands in Listening Stories). Antonym/synonym answers: 1. ንገረችው 2. መስዋዕት 3. ሸናዔ 4. ደክማ 5. ሰፍታ 6. ምትክ የማይገኝለት፣ አንድ ብቻ. Context and fill answers: 1. ሙተው 2. መልክ ጥሩ 3. ብዙ 4. ተንደላቅቆ፣ ተመችች 5. አግሁ 6. መድስታት. Synonym-fill key: 1. አረፈ፣ ተጠበሰ 2. ተበክሎ፣ ቅሽሽ 3. ሳድንህ፣ ስታድንህ 4. የተወደሰ፣ የተመሰገነ 5. መቆጨት. Do the tale's word tasks first — opposites, sames, and meaning-from-the-sentence — then mark against these keys. The writing half of the placement asks for answers developed in three to five short paragraphs, discussed as a class; the materials are word cards, various tales and the chalk board.
+## Sub lesson 33 — Meaning from the sentence around it — the Grade 5 task and key (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 5 guide's own contextual-meaning work (ዓውዳዊ ፍቺ). The reading part first runs fluently, keeping intonation; then the words part teaches meaning-from-context with flash cards as the named aid: meet the word inside its sentence, let the sentence around it tell you what it must mean, then check. The printed key for Task 1: 1. ሀ 2. መ 3. ሀ 4. ሀ 5. ሀ. Contextual meaning is stocked in this lesson from the Grade 3 and Grade 4 guides in earlier parts; this part is the Grade 5 guide's task, aid and key, standing as its own evidence — same skill, new text, new words.
+## Sub lesson 34 — Reading: words that mean nearly the same — the guide's key (teacher guide — evidence)
+
+This part is teacher-guide evidence: the reading work after the Bikila listening, and its similar-meaning key. The reading approach: pre-reading questions discussed in groups, the reading itself, then questions. Task 3 asks for the similar meanings of words from the text — words that mean nearly the same. The printed key: ሀ. ሀሊት፣ ፍሰሃ ለ. ጥንካሬ ሐ. የበለጠ መ. ምሳሌ. Find each word's near-twin in the text's own language first; near-same is not exactly-same — ሀሊት and ፍሰሃ lean on each other without being one word twice. Then check against the key.
+## Sub lesson 35 — Word meanings in their sentences — the split-and-context key (teacher guide — evidence)
+
+This part is teacher-guide evidence: new words met the Grade 6 way — by split-and-context. Each word is matched to the meaning it carries in its sentence: split the word if it helps, read the sentence around it, and let the two together fix the meaning. The printed key for the task: 1. ሠ 2. ሰ 3. ሸ 4. ለ 5. ሀ 6. ሐ 7. መ. The unit's aids are two prepared charts — one of antonyms (የቃላት ተቃራኒ ፍቺ) and one holding similar and opposite meanings together for comparison. Do the matching from the sentences first; the key only confirms. A meaning learned inside its sentence stays attached to that sentence — which is where you will meet the word again.
+## Sub lesson 36 — Common words and uncommon words — the Grade 7 guide's chart (teacher guide — evidence)
+
+The Grade 7 guide's Chapter 1 vocabulary part sorts the language's words by how often they meet you, and teaches the sorting with a **chart (ሰንጠረዥ)** — the material the guide itself names.
+
+A **ተዘውታሪ word** is a **common** word: one that turns up again and again, in text after text. A **ያልተዘውታሪ word** is **uncommon**: it rarely appears, so it must be caught and kept when it does.
+
+The task is plain: read, **identify the uncommon words, and write them** — the common words carry you, the uncommon words are the catch. A reader who can tell the two apart knows where a text will be easy and where it will resist.
+
+## Sub lesson 37 — Chapter vocabulary work — the Grade 8 guide's matching (teacher guide — evidence)
+
+The Grade 8 guide's vocabulary parts are chapter-bound by design, and they run on two moves, stocked here as labelled evidence.
+
+**Chapter 1 (Work Ethics).** Learners give **contextual meanings** (አውዳዊ ፍቺ) of words taken from the chapter's text — the meaning the word carries *there*, in that passage — and **match words with their similar meanings**.
+
+**Chapter 2 (Cultural Heritage).** The same work again on the new chapter's words: match words with similar meanings, and the assessment checks both halves — **contextual-meaning giving and correct matching**.
+
+The words themselves belong to each chapter's student-book text; the guide's contribution is the method and the check, and it is the method that is stocked here.
+
+## Sub lesson 38 — The Grade 9 guide's chapter vocabulary — mediation, gender, science, epidemics (teacher guide — evidence)
+
+The Grade 9 guide sets a vocabulary part inside every chapter. Four chapters' work is stocked here as labelled evidence, with the guide's keyed answers where it prints them.
+
+**Chapter 1 (Mediation).** Synonyms and antonym matching **from the mediation reading**, set as homework and checked against the passage. The guide's sample synonym answer is kept as printed: **ቅደም ተከተል = የአሰራር ቅደም ተከተል** — "procedure / order of work".
+
+**Chapter 2 (Gender).** Contextual meanings and synonym meanings, worked individually. Keyed answer: **መጋጨት = መጣላት / አለመስማማት** — "conflict / disagreement".
+
+**Chapter 3 (Science and Technology).** Synonym matching, and completing phrases from the chapter's reading.
+
+**Chapter 4 (Epidemics).** Contextual meanings with synonym matching; the keyed glosses stand as printed: **መገለል** — being kept apart, excluded; **ግብግብ** — rivalry, a scramble; **አዳጋች** — hard to control.
+
+## Sub lesson 39 — The Grade 9 guide's chapter vocabulary — environment, tax, the story, synonyms (teacher guide — evidence)
+
+Four more chapters of the Grade 9 guide's vocabulary work, stocked as labelled evidence with their keyed glosses.
+
+**Chapter 6 (Environment).** Contextual meanings with antonym matching; the glosses belong to the degraded-land reading's world: **እርከን** — a small check-dam, a terrace; **ካብ** — a stone fence; **መኖ** — animal fodder; **ደንብ** — a by-law, a regulation.
+
+**Chapter 8 (Tax).** Contextual meanings and antonyms — and here the guide deliberately **leaves the antonym answers open**: acceptable antonyms vary, it tells the teacher, and they must be confirmed with the learners. An answer key that trusts the class.
+
+**Chapter 9 (the «እናቲቱ» story).** Contextual meanings drawn from the story, with **ten keyed glosses** printed — among them ረበበ, ሰበቀ, ከሰለ, ተመረቀ, ሠወረ, መድፈን, ዘገነ, ቋረረ, ስስ.
+
+**Chapter 10 (Patriotism).** Synonym matching on the chapter's words — the year's vocabulary work closing on the same move it practised throughout.
+
+## Sub lesson 40 — Direct meaning, contextual meaning, and the words of technology — the Grade 10 guide's own pages (teacher guide — evidence)
+
+This lesson already teaches direct (dictionary) meaning against contextual meaning, from earlier guides' pages, and denotative against connotative meaning from this guide's later chapters. The Grade 10 guide's **own first pages** for the same named work are stocked here as labelled evidence, so the guide is cited where it actually teaches it.
+
+**Chapter 1 (printed p.9).** Vocabulary is taught as two kinds of meaning side by side: the **direct (dictionary) meaning** and the **contextual meaning** — the course's founding distinction, in this guide's own first chapter.
+
+**Chapter 3 (printed pp.27–29).** The distinction at work: **underlined words in context first**, dictionary (synonym) meanings second, with a partial key printed — መያዝ glossed in its contextual sense. Context first, dictionary second: that order is the method.
+
+**Chapter 2's profession words (printed p.19).** The technology chapter's vocabulary: **technology and IT profession words** — learners find their meanings **from websites**, present them in class, and **build sentences** using them. The newest words in the course are learned the newest way the guides know: looked up online, spoken aloud, and used.
+
 ## Say it to your companion
 
 Explain አውዳዊ ፍቺ to your companion in your own words. Then

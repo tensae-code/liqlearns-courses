@@ -81,3 +81,6 @@ lesson and its question list as they are — choosing, not remaking.
 **Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
 
 - Sub lesson 3 — Grade 5 and 6: the main-idea paragraph, a poem's message in prose, and the school-week news item: Writing: the main idea of the Fatuma reading in one paragraph; A poem's message in prose — 'Life Is a Pair of Legs'; A news item (ዜና) on the school's week.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 4 — **A report on the COVID period (teacher guide — evidence)** — the Grade 9 guide's report (ዘገባ) writing: note + examples; groups of 3–5 collect information, write and present. (The guidance is printed under the guide's grammar heading — the book's own cross-labelling quirk.)

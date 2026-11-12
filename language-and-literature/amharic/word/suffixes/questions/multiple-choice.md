@@ -62,3 +62,14 @@ a) እንቅልፋችሁ — your sleep  b) እንቅልፍኣችሁዎች  c) �
 a) ዘመን + -ኣቸው  b) ዘመና + ቸው  c) ዘ + መናቸው
 **Answer: a) ዘመን + -ኣቸው** — the Grade 6 book's own split.
 
+**16. (Sub lesson 8)** A split shows —
+a) root word + suffix  b) two roots only  c) a whole sentence
+**Answer: a) root word + suffix** — ዋና ቃል + ቅጥያ.
+
+**17. (Sub lesson 8)** The matching key has —
+a) ten items  b) three items  c) no key
+**Answer: a) ten items** — Ten matches.
+
+**18. (Sub lesson 8)** መረጥ-ኡችሁ splits as root —
+a) ኡችሁ  b) መረጥ  c) ምች
+**Answer: b) መረጥ** — Root መረጥ.

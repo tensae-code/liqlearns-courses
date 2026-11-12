@@ -233,6 +233,50 @@ Two linked skills. Main-and-detail writing (pp.30–31): a paragraph in main-and
 
 Two Grade 8 cause-and-effect essays. 'አውቆ አበድ' — Going Mad Knowingly (pp.8–9): a 3-paragraph cause-and-effect essay built on the embezzlement story — the causes that lead a worker to feign madness, and the effects that fall on him when the act is exposed. The climate essay (p.130): 'ሰው ሠራሽ የአየር ንብረት ለውጥ ምክንያቶችና ውጤቶች' — Causes and Effects of Man-Made Climate Change — from its bigar: causes — forest devastation, industries' and vehicles' gas emissions → atmospheric carbon dioxide increases and the gases' balance is disturbed → effects — ice melting, ocean level rising, water evaporation increasing → unexpected rain and flood, land inundation, temperature increase. A cause-and-effect essay is a chain, not a list: each link must pull the next.
 
+## Sub lesson 16 — Persuasive writing, and the essay that keeps the language's structure — the Addis guides (teacher guide — evidence)
+
+Two essay parts from the Addis guides, stocked as labelled evidence.
+
+**Persuasive writing (አሳማኝ ጽሑፍ) — Grade 7 guide.** Chapter 3's writing part is writing that aims to *convince*: persuasive writing, set as **two tasks with assessment**. It stands beside the argumentative essay taught elsewhere in this lesson — persuasion is its own named kind in this guide, with its own tasks.
+
+**The structured essay — Grade 8 guide.** Chapter 1's grammar part sends learners out to **gather material** and write an essay **keeping the language's proper structure** (የቋንቋውን ተገቢ መዋቅር ጠብቀው). The assessment is a completeness check: it verifies **that all learners can write** — the structure rule is not decoration, it is what the essay is marked on.
+
+## Sub lesson 17 — The descriptive essay — the Grade 9 guide's own settings (teacher guide — evidence)
+
+This course teaches descriptive **paragraphs** from the student books; the descriptive **essay** — a whole essay that describes — is set three times by the Grade 9 guide and never from a student book. All three settings are stocked here as labelled evidence.
+
+**About a famous woman (Chapter 2).** A descriptive essay (ስዕላዊ ድርሰት) about **one famous woman of Ethiopia or the learners' area** — taught for one full period, then set as homework. The same writing part adds a second task: **explain the meanings of given sayings/proverbs (አባባሎች)**, after a short explanation of why sayings matter (that half is also stocked in Poems and Songs, where sayings live).
+
+**From an outline (Chapter 5).** The descriptive essay (ገላጭ ድርሰት) again: the teacher first organises **starter ideas as an outline (አስተዋጽኦ)**, learners write from it — and **every learner must attempt the essay**, with follow-up. Nobody is excused from describing.
+
+**A traditional game (Chapter 7, inside the grammar part).** In groups of five, learners write a descriptive essay on **a traditional game local young people play at social gatherings** — description practised on something the writers have played and watched.
+
+## Sub lesson 18 — An essay on a season, and saying it in your own words — the Grade 9 guide (teacher guide — evidence)
+
+Two Grade 9 guide writing parts, stocked as labelled evidence.
+
+**The four-seasons essay (Chapter 6).** Groups of five use the outline tool (ቢጋር) and choose **one season — ክረምት (the rainy season), ፀደይ (spring), በጋ (the dry season) or በልግ (autumn)** — and write an essay describing **that season's true character in Ethiopia**. The seasons are named in this course's First Steps lessons from the workbooks; the essay that describes one, at length, is this guide's setting.
+
+**Paraphrase, then a paragraph (Chapter 9).** Learners **rewrite phrases and sentences in their own words** — paraphrase — expressing the same content in new wording, and then write a paragraph of their own. The chapter's grammar part adds its twin skill: reordering jumbled sentences into a coherent paragraph. Saying the same thing in your own words is the bridge between reading other people's writing and writing your own.
+
+## Sub lesson 19 — A model essay, four ways of correcting, and two approaches to writing — the Grade 10 guide (teacher guide — evidence)
+
+Two Grade 10 guide method parts, stocked as labelled evidence — how essays get *corrected*, and how writing itself is *approached*.
+
+**The model essay and the correction repertoire (Chapter 3).** Essay writing is explained from the note, a **model essay** is read in turns, then learners write on given topics. Correction is a system with four named hands, alternated as needed: **self-correction**, **peer correction (የብጤ እርማት)**, **group correction**, and **teacher correction**. The learner-centred point is the guide's own: the teacher's red pen is only one of four correctors, and not the first.
+
+**Process against product (Chapter 5).** Writing can be taught two ways: the **product approach (ውጤት ተኮር)** judges the finished piece; the **process approach (ሂደት ተኮር)** teaches through models, moving from easier to harder work — and the process approach is the one the guide **recommends** as suiting learners. Its working tools: writing with **connectors (አያያዥ ቃላት)**, and its harvest is **six abilities** writing practice builds — using the writing system correctly; removing unneeded information and phrasing; using punctuation properly; expressing ideas so a reader understands; showing relations between parts of a text; using discourse markers to keep flow. Practice must be continuous, without boredom or gaps. (Paragraph-level process writing stands in Descriptive Paragraphs under the Grade 5 guide's citation; this is the essay-level contrast, at this guide's pages.)
+
+## Sub lesson 20 — Writing by lot, writing what you understood, and a short text on migration — the Grade 10 guide (teacher guide — evidence)
+
+Three Grade 10 guide writing parts, stocked as labelled evidence.
+
+**Cultural practices, assigned by lot (Chapter 6).** Paragraphs and essays on **local cultural practices**: tasks 1–4 are **distributed by lot (በዕጣ)** — chance, not choice, gives each learner a practice to write about — and **every piece gets careful checking and feedback**.
+
+**Writing what you understood (Chapter 9).** Learners write what they understood about **unity and diversity** and explain the reading's idea in writing. The guide's practice sequence: build **sentences of different sizes** in your own phrasing first, then **a paragraph organised around one idea**. And a craft note teachers are told not to skip: **monitor learners' handwriting**, give practice where needed — **do not leave handwriting as a small thing**.
+
+**A short text on migration (Chapter 10).** Learners write a short text on migration and **share ideas in writing**, following the writing guidance of Chapters 4–5 — the method lives earlier in the guide and is carried forward by reference.
+
 ## Say it to your companion
 
 Your companion names three writing jobs: explaining how a jebena

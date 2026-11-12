@@ -48,6 +48,9 @@ Put the bracketed word into its correct plural form inside the sentence — the 
 
 Review whole: hunt the -ኣት words; sort words into singular and plural; and write a short tale about two animals who are natural enemies.
 
+## Sub lesson 6 — Grade 3 Unit 3 opens: Tales — ተረት (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 3 is ተረት (Tales) — as far as the secured file goes, since it ends inside this unit. Its objectives: retell a heard tale; name the main characters (ዋና ገፀ ባህሪያት) in a tale; read short tales aloud watching the punctuation; write the tale's main idea; guess new words' meanings from the reading; and pick out nouns (ስሞች) in different texts. Part 1 opens with pre-listening questions (ቅድመ ማዳመጥ ጥያቄዎች). The unit's tale — the Martyr Mother — stands in Listening Stories; this opener is the frame it is heard inside. The secured scan ends at printed p.31 inside this unit.
 ## Say it to your companion
 
 Tell your companion the chapter word — **ታሪኮች** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

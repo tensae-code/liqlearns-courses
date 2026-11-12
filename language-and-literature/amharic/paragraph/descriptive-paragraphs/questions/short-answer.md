@@ -16,3 +16,6 @@ Answer in a few words, or one sentence.
 
 **5. (Sub lesson 6)** How can the two paragraphs be divided?
 **Answer:** By near view and far view, or by the place's look and its life — one subject, two aspects.
+
+**6. (Sub lesson 7)** Name two traditional household items from the chapter's word-stock lists.
+**Answer:** E.g. ሸክላ ድስት (a clay pot) and ብረት-ማጣድ (an iron implement).

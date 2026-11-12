@@ -78,3 +78,31 @@ a) times of day  b) placeholders for the punctuation marks you must supply  c) p
 **19. (Sub lesson 10)** The father's conclusion is —
 a) ride always  b) whatever you do, you cannot please everyone  c) never travel with a donkey
 **Answer: b) whatever you do, you cannot please everyone** — the fable's moral, spoken by the father at the passage's end.
+
+**20. (Sub lesson 11)** Dictation means writing words —
+a) from a picture  b) from the voice alone  c) from memory of colours
+**Answer: b) from the voice alone** — Hear it, then write it.
+
+**21. (Sub lesson 11)** Which mark ends a question?
+a) ።  b) ?  c) ፣
+**Answer: b) ?** — The question mark ?.
+
+**22. (Sub lesson 11)** ትምህርት in the dictation list means —
+a) clothes  b) education/schooling  c) a river
+**Answer: b) education/schooling** — ትምህርት — education.
+
+**23. (Sub lesson 12)** The teacher writes on the board —
+a) only the marks  b) the marks and their names  c) only the names
+**Answer: b) the marks and their names** — Marks AND names.
+
+**24. (Sub lesson 12)** After the explanation, learners —
+a) do the ሀ and ለ tasks  b) go home  c) start a new unit
+**Answer: a) do the ሀ and ለ tasks** — Do the two tasks.
+
+**25. (Sub lesson 12)** The teacher checks that marks —
+a) are big  b) sit in the right place in sentences  c) are coloured
+**Answer: b) sit in the right place in sentences** — Right place in the sentence.
+
+**26. (Sub lesson 13)** የስርዓተ ነጥብ ዓይነቶች means —
+a) the fidel orders  b) the parts of speech  c) the punctuation types
+**Answer: c) the punctuation types**

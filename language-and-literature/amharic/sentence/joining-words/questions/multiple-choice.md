@@ -45,3 +45,15 @@ a) is in the past  b) has been made non-binding, so it cannot stand alone  c) is
 **11. (Sub lesson 6)** 'ዛፍ ሲጠፋ እምባጮ አድባር ይሆናል' joins its halves by —
 a) contrast  b) time — WHEN a tree is lost  c) a list
 **Answer: b) time — WHEN a tree is lost** — ሲ- marks the time clause: when the tree is lost, the stump becomes a seat.
+
+**12. (Sub lesson 7)** ነገር ግን means —
+a) and  b) but / however  c) because
+**Answer: b) but / however** — ነገር ግን — but.
+
+**13. (Sub lesson 7)** ስለዚህ means —
+a) yesterday  b) so / therefore  c) under
+**Answer: b) so / therefore** — So, therefore.
+
+**14. (Sub lesson 7)** The conjunctions here are found —
+a) in a word list only  b) inside a real paragraph  c) on the cover
+**Answer: b) inside a real paragraph** — Inside a real paragraph.

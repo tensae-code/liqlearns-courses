@@ -43,3 +43,16 @@ Sub lesson 6 questions from the type files. Pass mark: build ቤተመንግሥ�
 ## Sub lesson 7 — Grade 7: compound families — ሥነ, ፀረ, ቤተ, ሕገ
 Sub lesson 7 questions from the type files. Pass mark: build three compounds, one each from ቤተ-, ሕገ- and ፀረ-, and say what each means.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 8 — Unit 3 word tasks — the guide's keys, and who is included (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 9 — Building words: join the parts, fix the ending (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 10 — ድርብ ቃላት — compound words in the guides' own term, and word formation (teacher guide — evidence)
+Sub lesson 10 questions from the type files. Pass mark: give the guides' term for compound words (ድርብ ቃላት) beside this lesson's ጥምር ቃላት; state the appendix's three demands (form, use correctly, give literary meaning); name word formation's Amharic title (የቃላት ምስረታ).

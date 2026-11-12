@@ -118,3 +118,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 20 — Grade 7+8: turning statements into questions and commands.
 - Sub lesson 21 — Grade 8: correcting agreement errors; scrambled word order.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 22 — **Federal guides' sentence pages (teacher guide — evidence)** — Grade 9: classify 10 sentences simple/complex (ተራና ውስብስብ); Grade 10: combine, pick out, create complex sentences; Grade 9: the punctuation kinds (የስርዓተ ነጥብ ዓይነቶች) explained from the student-book note.
+- Sub lesson 23 — **Phrases (teacher guide — evidence)** — ሐረግ: pick phrases out of real text and build complete sentences from them (Grade 10 guide, Ch.5 grammar).

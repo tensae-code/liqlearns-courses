@@ -138,3 +138,10 @@ as they are — choosing, not remaking.
 - Sub lesson 6 — Grade 7: antonyms — the Tis Abay chapter's set.
 - Sub lesson 7 — Grade 7: opposites in context + Grade 8: synonym sets.
 - Sub lesson 8 — Grade 8: the bat cloze bank, Maru matching and word halves.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 9 — Synonym match, antonym fill — then swap and mark (teacher guide — evidence) (G5-U1-5, Grade 5 Amharic Teacher Guide, printed pp. 10–11).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 10 — **Mediation-reading synonyms and antonyms (teacher guide — evidence)** — the Grade 9 guide's Ch.1 vocabulary: synonym + antonym matching from the mediation reading, as homework; sample keyed pair ቅደም ተከተል = የአሰራር ቅደም ተከተል.

@@ -61,3 +61,27 @@ a) ማንጎ - ዎች  b) ማ - ንጎዎች  c) ማን - ጎዎች
 **15. (Sub lesson 5)** What does ንጹህ mean?
 a) Dirty  b) Clean, pure  c) Freedom
 **Answer: b) Clean, pure** — ንጹህ means clean/pure; ነጻነት is freedom.
+
+**16. (Sub lesson 6)** Unit 1 is —
+a) Protecting the Environment — የአካባቢ ጥበቃ  b) Gender  c) Trade
+**Answer: a) Protecting the Environment — የአካባቢ ጥበቃ** — የአካባቢ ጥበቃ.
+
+**17. (Sub lesson 6)** አውዳዊ ፍቺ means —
+a) figurative meaning  b) contextual meaning — meaning from its place in the text  c) no meaning
+**Answer: b) contextual meaning — meaning from its place in the text** — Contextual meaning.
+
+**18. (Sub lesson 6)** Figurative meaning in Amharic here is —
+a) ፍካሬያዊ  b) አውዳዊ  c) ቀጥተኛ only
+**Answer: a) ፍካሬያዊ** — ፍካሬያዊ ፍቺ.
+
+**19. (Sub lesson 7)** A complex sentence here is told from a simple one by —
+a) its length in pages  b) having two or more verbs / joined parts  c) its colour
+**Answer: b) having two or more verbs / joined parts** — Complex = joined, more than one verb-part.
+
+**20. (Sub lesson 7)** Ideas from texts are written —
+a) copied word for word  b) in your own words  c) not at all
+**Answer: b) in your own words** — In your own words.
+
+**21. (Sub lesson 7)** The summary page is the guide's —
+a) yellow unit summary page  b) contents page  c) cover
+**Answer: a) yellow unit summary page** — The yellow ማጠቃለያ page.

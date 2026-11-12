@@ -224,3 +224,15 @@ remaking.
 - Sub lesson 32 — Grade 8: ግን ምን ነካን!? — But What Touched Us!?.
 - Sub lesson 33 — Grade 8: ዘመን ያልሻረው ጥበብ — Tangible Heritage.
 - Sub lesson 34 — Grade 8: አለሚቱና መምህሯ — Alemitu and Her Teacher.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 35 — Reading: Being Clean — main idea or detail? (teacher guide — evidence) (G5-U1-4, Grade 5 Amharic Teacher Guide, printed pp. 7–9).
+- Sub lesson 36 — Reading: Cleanliness — nine questions (teacher guide — evidence) (G5-U2-3, Grade 5 Amharic Teacher Guide, printed pp. 18–19).
+- Sub lesson 37 — Fluent reading: error board, then beat the clock (teacher guide — evidence) (G6-U1-3, Grade 6 Amharic Teacher Guide, printed pp. 4–5).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 38 — **Reading with a chart, a discussion and a key (teacher guide — evidence)** — the Grade 7 guide's big sequence-of-events chart and printed model answers (በናሙናነት የተመረጡ ጥያቄዎች መልስ); the Grade 8 guide's pre-reading discussion (የቅድመ ምንባብ ጥያቄዎች) before the Chapter 1 text.
+- Sub lesson 39 — **Three Grade 9 guide readings (teacher guide — evidence)** — «የሽማግሌው ምርቃት» (true/false with reasons; the gender follow-up — work and study shared equally); «ሳይንስ እና ቴክኖሎጂ ለዘላቂ ልማት» (key T,T,F,F,T; 'science is knowing, technology is making'); «ወረርሽኝ እና ሥነልቦናዊ ምላሾች» (rumours, isolation, missed coffee ceremonies, the serotonin explanation).
+- Sub lesson 40 — **Three more Grade 9 guide readings (teacher guide — evidence)** — «የተራቆተ አካባቢን ማልማት» (10 minutes' silent reading; 15 statements sorted cause/preparation/care/result); «ግብር መክፈል» (T/F + MC keys; credited to a Walta Media & Communication corporate report, Hamle 24, 2009 E.C.); «የልማት አርበኛው ጄኔራል» (pre-reading discussion on ቅርስ, prediction, timed reading, MC key).
+- Sub lesson 41 — **Two Grade 10 guide readings (teacher guide — evidence)** — «ቴክኖሎጂ» (biotechnology, information technology, artificial intelligence ሰው-ሰራሽ አእምሮ; difficult words extracted for the vocabulary part); «ሱስና ማገገሚያ መንገዶች» (deep/wide strategies, prediction check after two paragraphs, tone ድምጸት and theme; the coffee-addiction debate; the guide's true/false warning).

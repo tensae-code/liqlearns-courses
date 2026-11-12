@@ -30,6 +30,8 @@ countries: Ethiopia
 
 **Book 14:** *Amharic Student Textbook, Grade 8* (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ ምህረቴ, አምባው ደምሴ ቀኜ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 176 PDF pp., printed pp. 1–164. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
 
+**Book 15:** *Grade 6 Amharic Teacher Guide (የአማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መጽሐፍ, ፮ (6)ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum. Page rule: printed page = PDF page − 6. The secured file ends at printed p.36 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g06-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — K-W-L style table on road traffic (what I know / want to know / learned) | Ethiopia, *Amharic Student Textbook, Grade 1*, printed p.82 |
@@ -78,6 +80,10 @@ countries: Ethiopia
 | Sub lesson 15 — vocabulary — cloze, child labour | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 95–96 |
 | Sub lesson 15 — vocabulary — cloze set, climate change | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 139–140 |
 | Sub lesson 16 — vocabulary — water words cloze (names of waters) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 70 |
+| Sub lesson 17 — Split and Guess: መነጠልና ማገመር — Ethiopia's own word-attack strategy (teacher guide — evidence) | Ethiopia, *Grade 6 Amharic Teacher Guide*, printed p. 6 |
+| Picture 31201 — drawn evidence chart for Sub lesson 17 (teacher guide — evidence) | Built from Sub lesson 17 above: Ethiopia, *Grade 6 Amharic Teacher Guide*, printed p. 6 |
+| Sub lesson 18 — the teaching principles (የማስተማር መርሆዎች) (teacher guide — evidence): contents organised to develop reading and writing; comprehension through pre-, during- and post-listening/reading tasks; teach learners to predict, monitor their own understanding and evaluate; timely feedback; working out a word's meaning from the text itself | Ethiopia, *Grade 7 Amharic Teacher Guide*, printed p.6 (PDF p.6) (placement 2) |
+| Sub lesson 19 — comparison/contrast paragraphs and essays (አመዛዛኝ አንቀጽ / ድርሰት) (teacher guide — evidence): set topics — Twitter and Facebook; phone and internet; email vs post; Telebirr and mobile banking; learners research on websites/documents via the internet; the guide advises inviting local professionals to explain points in class. The comparison paragraph in Sub lesson 5 stands under a Grade 5 student-book citation; this row adds the Grade 10 guide's own page and stocks the contrast, essay, research and professional-visit parts that stood nowhere | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.18 (placement 13) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The crossword's ANSWERS and RULES are the guide's own, printed at pp.18–19 as placed; the guide's grid drawing itself is an image in a scanned-image PDF and its exact cell layout is not recoverable from the placements' text — Picture 8529's grid is drawn in this build to hold exactly the printed answers, with crossings where the answers' own fidel allow (ጀግና/ግንብኛ share ግ; ንብ shares ን and ብ with ግንብኛ; አክሱም/አክስት share አ; ሱሪ starts from አክሱም's ሱ; ትራስ starts from አክስት's ት; ኬራር crosses ትራስ at ራ). No claim is made that the drawn layout is the book's printed layout. (2) Sub lesson 4 rests on teacher-guide evidence only and is labelled so; the lesson's acceptance count stands on Sub lessons 1–3, which are pupil-taught across the student books. (3) The Grade 4 teacher guide is a partial scan; pp.18–19 are inside the secured pages.
@@ -88,5 +94,7 @@ G9–G10 growth honesty notes: (6) Sub lessons 8–11 rest on teacher-guide evid
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: study skills, KWL chart, concept web, ቢጋር, cause and effect, ዝናብ ዘነበ ጎርፍ ተከሰተ, fidel crossword, ጀግና ንብ አክሱም, word games, data table, ሰንጠረዥ, headache, የራስምታት, ማይግሬን, teff seed, ምርጥ ዘር, ማኛ ቁንጮ ዱከም ኮራ ንጉሥ, note-taking, ማስታወሻ, Fasilides, አርሶአደር, three stages, ቅድመ ማዳመጥ, በማዳመጥ ጊዜ, ድህረ ማዳመጥ, reading stages, speaking stages, መግቢያ, ማለማመጃ, ማፍለቂያ, የወል ንበት, extensive reading, መጠነ ሰፊ ንባብ, listening strategies, ውጤታማ የማዳመጥ ብልሃቶች, revision questions, የክለሳ ጥያቄዎች

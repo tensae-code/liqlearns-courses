@@ -82,3 +82,15 @@ a) no ox was lost  b) his verse argument answered every point — 'your argument
 **20. (Sub lesson 13)** In the ordered paragraph, the first sentence should —
 a) tell a story  b) define addiction — the habit from cigarettes, chat, drugs and alcohol  c) give the conclusion only
 **Answer: b) define addiction — the habit from cigarettes, chat, drugs and alcohol** — definition first; then how people enter; then the trap.
+
+**21. (Sub lesson 14)** A character (ገፀ ባህሪ) is —
+a) always a real person  b) an imagined person or thing created by the author, acting in the tale  c) the author themself
+**Answer: b) an imagined person or thing created by the author, acting in the tale** — Created by the author, acting in the tale.
+
+**22. (Sub lesson 14)** Characters can be —
+a) only people  b) people, animals, birds and other things  c) only places
+**Answer: b) people, animals, birds and other things** — People, animals, birds, things.
+
+**23. (Sub lesson 14)** After the tale, groups —
+a) exchange tales  b) sit silently  c) copy the tale
+**Answer: a) exchange tales** — Exchange tales.

@@ -46,3 +46,18 @@ Answer in a few words, or one sentence.
 
 **15. (Sub lesson 15)** What story does the አውቆ አበድ essay build on?
 **Answer:** The embezzlement story — the cash worker who feigned madness in court.
+
+**16. (Sub lesson 16)** What does the Grade 8 guide's essay assessment check?
+**Answer:** That all learners can write — the essay kept the language's proper structure (የቋንቋውን ተገቢ መዋቅር).
+
+**17. (Sub lesson 17)** In Chapter 5's setting, what does the teacher organise before learners write the descriptive essay?
+**Answer:** The starter ideas, as an outline (አስተዋጽኦ) — and every learner must attempt the essay.
+
+**18. (Sub lesson 18)** What is paraphrase, as the Grade 9 guide sets it?
+**Answer:** Rewriting phrases and sentences so they express the same content in one's own words.
+
+**19. (Sub lesson 19)** Which writing approach does the Grade 10 guide recommend, and what is its Amharic name?
+**Answer:** The process approach — ሂደት ተኮር.
+
+**20. (Sub lesson 20)** What does the Grade 10 guide tell teachers about learners' handwriting?
+**Answer:** Monitor its improvement and give practice where needed — do not leave handwriting as a small thing.

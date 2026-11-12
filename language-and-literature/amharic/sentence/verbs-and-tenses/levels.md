@@ -27,3 +27,16 @@ Sub lesson 6 questions from the type files. Pass mark: give ወደቀች's patte
 ## Sub lesson 7 — Grade 8: verb forms for persons — the discussion chapters' work
 Sub lesson 7 questions from the type files. Pass mark: write two verbs in their 2nd and 3rd person plural forms and three timed sentences.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 8 — Verbs with ተ-: spotting derived verb forms (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 9 — Verbs that carry time: የጊዜ ተውላከ ግስ — and the trial test (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 10 — The present tense — the Addis guides' own pages (teacher guide — evidence)
+Sub lesson 10 questions from the type files. Pass mark: give each guide's order: Grade 7 — identify, then form; Grade 8 — note the past tense, then identify and form present-tense verb sentences.

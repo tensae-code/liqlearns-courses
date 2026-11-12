@@ -97,6 +97,14 @@ Pick out singular and plural nouns in sentences, as the Grade 5 book sets it —
 
 Grade 8's Iddir listening carries a full number workout. Words into plural forms: ሴት, በሬ, ጥቁር, ነገር, መጣሁ, ፈላጊ, ሰበርክ, ክፋ, አንተ — with models given. Plurals back into singulars: ነገረኞች, ምሁራን, መስፈርቶች, ጥበቦች, መሰከራችሁ, መከርን, ነጮች, እነርሱ, እኛ. Notice that pronouns and verbs change their number too, not nouns alone — አንተ (you, one) stands in the list beside ሴት (woman) to prove it. Strip a plural back by removing its plural piece; build a plural by adding the piece the word's own shape takes.
 
+## Sub lesson 8 — Singular and plural — the Addis guides' chart and sentences (teacher guide — evidence)
+
+Singular and plural stand in this lesson under student-book and federal-guide citations. The two Addis guides' own pages are stocked here as labelled evidence.
+
+**The chart (Grade 7 guide).** Chapter 3's grammar part is **singular and plural number (ነጠላና ብዙ ቁጥር)**; the assessment verifies learners **can distinguish singular and plural**, and the named material is **a chart showing singular and plural** — the two numbers laid side by side where the eye can compare them.
+
+**Inside sentences (Grade 8 guide).** Chapter 3's grammar part moves the same knowledge into use: the singular/plural marker words must be **used correctly inside sentences**, and the assessment checks correct use of **ነጠላ and ብዙ ቁጥር** where they actually live — in sentences, not in lists.
+
 ## Say it to your companion
 
 Tell your companion: a plural word names two or more and carries a plural piece — -ኦች, -ዎች or -አች. Make ቀሚስ many for them (ቀሚሶች), then strip ገበሬዎች back to one (ገበሬ) and let them name the piece that fell off.

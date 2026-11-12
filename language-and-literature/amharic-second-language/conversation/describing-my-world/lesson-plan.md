@@ -72,3 +72,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (the Addis Ababa Grade 3 teacher guide for Amharic as a Second Language — teacher-guide evidence, SECOND-LANGUAGE, counted nowhere as pupil-taught). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 6 — **Reading for the gist (teacher guide — evidence · SECOND-LANGUAGE)** — Ch.14: read a text and state its main idea (ፍሬ ሀሳብ); true/false from the pictures (p.155); form and complete sentences.
+- Sub lesson 7 — **Time-indicating suffixes (teacher guide — evidence · SECOND-LANGUAGE)** — ጊዜ አመልካች ቅጥያዎች: add them to words following the model, and write them.

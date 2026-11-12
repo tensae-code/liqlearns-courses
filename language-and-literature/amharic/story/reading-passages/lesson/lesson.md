@@ -729,6 +729,51 @@ Craftsmanship time has not erased. Axum's obelisks (ሐውልቶች), made betwe
 
 Alemitu, a Grade 8 student who keeps hearing her area's temperature is rising, organises questions and interviews her Social Science teacher, W/ro Weynshet. Climate change is not fully man-made, but human activity has a large share: population growth and expanding industries raise energy use, producing harmful chemicals that form a greenhouse-gas accumulation; building clears forests and creates pollution. Natural causes stand beside them. Continental drift: hundreds of millions of years ago the continents were joined, centred on Africa; they split and drifted — the Atlantic opened as the Americas separated — and Ethiopia's Afar rift is the same process still happening, changing how oceans distribute temperature and moisture. Volcanic eruption shades sunlight briefly with its particles, yet releases much carbon dioxide with lasting effect. The sun's light varies in an 11-year cycle; the ice age 500 years ago is known to have come from decreased sunlight, and scholars explain the current warming may be from increased sunlight. The text is an interview — learn from its form as well as its facts: a prepared questioner, an expert answering in parts.
 
+## Sub lesson 35 — Reading: Being Clean — main idea or detail? (teacher guide — evidence)
+
+This part is teacher-guide evidence: the reading ንጽህ መሆን (Being Clean) with its printed keys. Before reading, predict from the pictures. In the reading work, separate each paragraph's main idea from its secondary details — that sorting is the skill. The keys stand as the checked answers. True/false task: 1. እውነት 2. ሀስት 3. ሀስት 4. እውነት 5. ሀስት. Main-idea matching (each paragraph's main idea to its paragraph number): 1. ሐ 2. ለ 3. መ 4. ሀ. Detail questions: 1. ለ 2. ሀ 3. መ 4. ሐ 5. ለ. Do the sorting first, paragraph by paragraph — main idea in one hand, details in the other — then mark against the keys.
+## Sub lesson 36 — Reading: Cleanliness — nine questions (teacher guide — evidence)
+
+This part is teacher-guide evidence: a reading worked the guide's standard way — before, during, after — with its printed multiple-choice key, and an inclusion note the course must not lose. The key: 1. ለ 2. መ 3. ለ 4. ሀ 5. ሀ 6. መ 7. መ 8. ለ 9. ለ — nine questions, nine checked answers; do the reading's questions first, then mark. The inclusion note: if a Braille version of the book exists, the blind learner uses it (በብሬል የተገለበጠ መጽሐፍ ካለ እንደጠቅም ያድርግ) — the same reading, in fingers instead of eyes. After the reading, the unit works the synonyms and antonyms of the text's new words.
+## Sub lesson 37 — Fluent reading: error board, then beat the clock (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 6 guide's timed fluent reading. Learners read in turns while the teacher records their errors on the board — the error board: every stumble is written where all can see it, without blame, because it is the class's worklist. Difficult words are separated out and their meanings guessed from the passage. Then a timed re-read (ጋታ በማድረግ — against the time), with questions answered. Weak readers practise repeatedly until the reading holds. Errors first, on the board, in the open — then the clock. A timed re-read you have prepared for, error by error, is a race you can win.
+## Sub lesson 38 — Reading with a chart, a discussion and a key — the Addis guides' reading parts (teacher guide — evidence)
+
+Two reading parts from the Addis Ababa guides, stocked as labelled evidence — how a reading lesson is *run*, in the guides' own way.
+
+**The sequence chart and the model answers (Grade 7 guide, Chapter 2).** The reading part's named materials include a **big chart showing the sequence of events** (የሁነቶችን ቅደም ተከተል የሚያሳይ ሰንጠረዥ): the story's happenings laid out in their order, so a reader can point to what came first, what followed, and what the end grew from. And the guide prints **model answers for selected questions** (በናሙናነት የተመረጡ ጥያቄዎች መልስ) — the teacher's own answer key for the chapter, so checking is done against the guide's answers, not invented ones. Its vocabulary work gives similar meanings of words in context.
+
+**Reading that begins with talk (Grade 8 guide, Chapter 1).** Before the Chapter 1 text is read at all, the class works through **pre-reading questions** (የቅድመ ምንባብ ጥያቄዎች) **in discussion**. The reading starts in speech: what do we expect, what do we already know — then the text is opened.
+
+## Sub lesson 39 — Three readings from the Grade 9 guide — a blessing, science, and epidemics of the mind (teacher guide — evidence)
+
+Three Grade 9 guide readings, stocked as labelled evidence; every text belongs to the student book and is summarised, never transcribed.
+
+**«የሽማግሌው ምርቃት» — The Elder's Blessing.** Pre-reading discussion, silent reading, then **true/false with reasons**. The guide steers the follow-up discussion to its gender point: household work must **not** be divided into "women's work" and "men's work"; parents should make **sons and daughters work and study equally** and create no gender-based difference.
+
+**«ሳይንስ እና ቴክኖሎጂ ለዘላቂ ልማት» — Science and Technology for Sustainable Development.** Paired silent reading; the guide's true/false key runs **T, T, F, F, T**; and its keyed teaching point is kept word for word in sense: **science is knowing, technology is making/applying**.
+
+**«ወረርሽኝ እና ሥነልቦናዊ ምላሾች» — Epidemics and Psychological Responses.** The keyed answers walk through how people once reached for traditional medicine, the fear of isolation, exaggerated rumours, greetings avoided, COVID-19 suspected in any illness, religious gatherings and coffee ceremonies missed — and the text's **serotonin** explanation for fever-like feelings under fear and stress.
+
+## Sub lesson 40 — Three more readings from the Grade 9 guide — a degraded area, paying tax, the General (teacher guide — evidence)
+
+Three more Grade 9 guide readings, stocked as labelled evidence, summaries only.
+
+**«የተራቆተ አካባቢን ማልማት» — Developing a Degraded Area.** Ten minutes' **silent reading**, then a keyed sorting task: **15 statements** are classified as **cause** of degradation, **preparation** for planting, **care** so seedlings do not dry, or **result** of development. Terracing and digging planting pits are preparation; a protection by-law and keeping animals out are care; denser forest and more animal fodder are results.
+
+**«ግብር መክፈል» — Paying Tax.** Silent reading, group answers reported in turn, with **true/false and multiple-choice keys** supplied by the guide. The guide credits the passage to a **Walta Media & Communication corporate report, Hamle 24, 2009 E.C.** — the reading's own source, printed with it.
+
+**«የልማት አርበኛው ጄኔራል» — The Development-Patriot General.** The reading opens with a **pre-reading pair discussion on the meaning of heritage (ቅርስ)** and prediction from the title; then **timed silent reading**; the guide supplies a **multiple-choice key**.
+
+## Sub lesson 41 — Two readings from the Grade 10 guide — technology, and addiction with its recovery (teacher guide — evidence)
+
+Two Grade 10 guide readings, stocked as labelled evidence, summaries only.
+
+**«ቴክኖሎጂ» — Technology.** The reading names three fields: **biotechnology**, **information technology**, and **artificial intelligence** (ሰው-ሰራሽ አእምሮ). Its classroom job: learners **extract the difficult words** from the text and record them, carrying them into the chapter's vocabulary part.
+
+**«ሱስና ማገገሚያ መንገዶች» — Addiction and the Ways of Recovery.** Read with **deep and wide reading strategies** (ጥልቅና ሰፊ የንባብ ስልቶች): stop **after two paragraphs**, check the class's predictions against the pre-reading answers, predict the rest, then finish; and identify the text's **tone (ድምጸት)** and **theme**. Inside this same reading part the guide sets a debate: **can coffee addiction be counted a dangerous drug?** And it leaves a warning every question-writer should keep: true/false questions alone **cannot measure comprehension** — after answering, learners must **find the evidence in the text**.
+
 ## Say it to your companion
 
 Take one passage. Say its main idea in ONE sentence. Your

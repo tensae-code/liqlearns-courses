@@ -132,3 +132,18 @@ Answer in a short sentence, from the story you heard.
 
 **44. (Sub lesson 44)** Name two benefits of forests from the hearing.
 **Answer:** Any two of: cleaning man-made polluted air, cooling the earth, holding biodiversity resources, protecting soil and water.
+
+**45. (Sub lesson 45)** In the volunteer's life story, what did she search for after returning from America, and what did she do when she did not find it?
+**Answer:** She searched for a school able to serve children affected by autism; finding none, she began serving her community herself.
+
+**46. (Sub lesson 46)** What is the Amharic term both guides use for blind learners in these notes?
+**Answer:** አይነ ስውራን.
+
+**47. (Sub lesson 47)** Name the two sources the Grade 8 guide prints for its heritage texts.
+**Answer:** The Ethiopia Tourism book and the former Grade 11 student book.
+
+**48. (Sub lesson 48)** What do learners do with the marriage types after hearing the Zeyse listening text?
+**Answer:** They classify them — sorting the regular traditional marriage from the chapter's other forms, against the guide's key.
+
+**49. (Sub lesson 49)** In «አንዱ ለሌላው ምንድን ነው?», how are unity and diversity presented?
+**Answer:** As twin concepts — seemingly opposite, but belonging together.

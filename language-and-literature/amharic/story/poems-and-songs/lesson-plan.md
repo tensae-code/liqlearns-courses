@@ -196,3 +196,6 @@ are — choosing, not remaking.
 - Sub lesson 23 — Grade 8: poem words and collecting oral poems.
 - Sub lesson 24 — Grade 8: ጥሪ — The Call.
 - Sub lesson 25 — Grade 8: አሁን መልካም ሥሩ! — Do Good Now!.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 26 — **Explaining sayings (teacher guide — evidence)** — explain the meanings of given sayings/proverbs (አባባሎች), after the guide's short explanation of why sayings matter (Grade 9 guide, Ch.2 writing part).

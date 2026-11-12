@@ -131,3 +131,14 @@ Sub lesson 35 questions from the type files. Pass mark: retell the story and exp
 ## Sub lesson 36 — Grade 8: የኑሩ ትዝታ — Nuru's Memory
 Sub lesson 36 questions from the type files. Pass mark: retell the memory and state the elder's judgement.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 37 — Reading: The House — reading steps for the riddle text (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 38 — Reading questions: the Fox story (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 39 — Reading አባማው ግቢ, and group work: present your group's answer (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

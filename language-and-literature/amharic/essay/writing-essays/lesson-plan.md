@@ -111,3 +111,10 @@ lesson and its question list as they are — choosing, not remaking.
 - Sub lesson 13 — Grade 8: the narrative essay — the book's own definition.
 - Sub lesson 14 — Grade 8: main idea and detail; the bigar essay plan.
 - Sub lesson 15 — Grade 8: cause and effect — አውቆ አበድ; man-made climate change.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 16 — **Persuasive writing + the structured essay (teacher guide — evidence)** — Grade 7: አሳማኝ ጽሑፍ, two tasks with assessment. Grade 8: gather material and write keeping the language's proper structure (የቋንቋውን ተገቢ መዋቅር); assessment checks all can write.
+- Sub lesson 17 — **The descriptive essay (teacher guide — evidence)** — the Grade 9 guide's three settings: a famous woman (ስዕላዊ ድርሰት, taught a full period, then homework); from an outline (ገላጭ ድርሰት, አስተዋጽኦ, every learner attempts it); a traditional game described in groups of five.
+- Sub lesson 18 — **A season essay + paraphrase (teacher guide — evidence)** — groups of five pick ክረምት, ፀደይ, በጋ or በልግ and describe its true character in Ethiopia, from the ቢጋር outline; paraphrase — rewrite phrases/sentences in one's own words, then write a paragraph.
+- Sub lesson 19 — **Model essay, correction repertoire, two approaches (teacher guide — evidence)** — the model essay read in turns; correction by self, peer (የብጤ እርማት), group, teacher, alternated. Process (ሂደት ተኮር) vs product (ውጤት ተኮር) approaches — process recommended; connectors (አያያዥ ቃላት); the six abilities writing builds.
+- Sub lesson 20 — **Three Grade 10 writing parts (teacher guide — evidence)** — cultural-practice tasks 1–4 distributed by lot (በዕጣ), with checking and feedback on every piece; writing what was understood about unity and diversity (sentences of different sizes → one-idea paragraph) + the handwriting note; a short text on migration, sharing ideas in writing.

@@ -32,4 +32,7 @@ else moved.
 Sub lesson 4 questions from the type files. Pass mark: match ጓደኛ to ወዳጅ and the Wise Girl set, and match ያናጋል to ያረጋጋል and the antonym set.
 
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
 
+## Sub lesson 5 — Words about friends and play (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

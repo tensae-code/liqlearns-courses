@@ -10,3 +10,6 @@ Answer in a few words, or one sentence.
 
 **3. (Sub lesson 2)** What is the Amharic word the book uses for a news report of your day?
 **Answer: ዘገባ (zegeba).**
+
+**4. (Sub lesson 4)** How is the COVID report produced, in the guide's stages?
+**Answer:** Groups of 3–5 collect information together, then write the report and present it.

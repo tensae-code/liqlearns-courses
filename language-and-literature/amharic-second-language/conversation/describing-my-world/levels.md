@@ -16,3 +16,11 @@ Sub lesson 4 questions from the type files. Pass mark: name the three house type
 
 ## Sub lesson 5 — The world around me, and stories in order
 Sub lesson 5 questions from the type files. Pass mark: describe Picture 8579 thing by thing and in whole sentences, and put the shuffled Picture 8589 strip into the order of the story heard.
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 6 — Reading for the gist — Chapter 14's reading (teacher guide — evidence · SECOND-LANGUAGE)
+Sub lesson 6 questions from the type files. Pass mark: state the gist task in the guide's term (ፍሬ ሀሳብ) and the picture check (true/false from the pictures, printed p.155).
+
+## Sub lesson 7 — Time-indicating suffixes — Chapter 14's word work (teacher guide — evidence · SECOND-LANGUAGE)
+Sub lesson 7 questions from the type files. Pass mark: give the suffix family's name (ጊዜ አመልካች ቅጥያዎች) and its task (add to words following the model; write them).

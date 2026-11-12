@@ -45,3 +45,19 @@ a) Splitting a word into fidel units  b) Blending — reading a word's parts and
 **11. (Sub lesson 7)** መነጠል on ገበረ gives…?
 a) ገበረ whole only  b) ገ በ ረ — its fidel units  c) በገረ
 **Answer: b) ገ በ ረ** — Splitting reads the whole word into its fidel units, one by one.
+
+**12. (Sub lesson 8)** Three-letter words in the checklist are called —
+a) ባሉስት ሆሄ  b) ተዛውታሪ ቃላት  c) የምዕራፉ ማጠቃለያ
+**Answer: a) ባሉስት ሆሄ** — ባሉስት ሆሄ — three-letter words.
+
+**13. (Sub lesson 8)** Fidel are practised —
+a) in one place only  b) on slate, blackboard, coloured paper and cards  c) never aloud
+**Answer: b) on slate, blackboard, coloured paper and cards** — Many surfaces, and read aloud.
+
+**14. (Sub lesson 8)** This page is —
+a) the guide's first page  b) the last page of the secured file (printed p.35)  c) from Unit 10
+**Answer: b) the last page of the secured file (printed p.35)** — Printed p.35 — the file ends here.
+
+**15. (Sub lesson 9)** ምእላድ is —
+a) a paragraph  b) a syllable  c) a punctuation mark
+**Answer: b) a syllable**

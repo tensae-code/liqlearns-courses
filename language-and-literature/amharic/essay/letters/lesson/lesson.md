@@ -218,6 +218,20 @@ Two official-writing skills the Grade 6 book sets together. (1) Write spelled-ou
 
 After the poem of the old neighbourhood, Grade 7 sets a greeting letter of your own: write a greeting letter (የሰላምታ ደብዳቤ) to a friend or family member, on the full model stocked in this lesson's greeting-letter sub lesson — date, sender, school and town, the greeting part, the body part, the closing part, signature. A follow-on letter is a test of transfer: the model was learned in another chapter; here it is used unprompted, on a person you really know, about things that really happened.
 
+## Sub lesson 10 — Informal writing — the Grade 7 guide's model paragraph (teacher guide — evidence)
+
+Between the personal letter and the formal kinds stands a writing the Grade 7 guide teaches by name: **informal writing (ኢ-መደበኛ ጽሁፍ)** — writing that is not bound by the formal frame.
+
+It is taught from a **model informal paragraph** (የኢ-መደበኛ ፅሁፍ ሞዴል አንቀፅ), the material the guide names for the part: learners read the model, see how a paragraph can carry news and feeling in plain, unceremonious words, and write their own in its manner. The letter kinds in this lesson each keep a shape; informal writing is the guide's reminder that not all writing wears one — a message to a friend, written straight, is still writing, and it has its own model to learn from.
+
+## Sub lesson 11 — Letters and a life — the Grade 10 guide's writing part (teacher guide — evidence)
+
+The Grade 10 guide's first writing part joins the two kinds this course keeps apart, and it is stocked here as labelled evidence so the guide's own page stands cited for both.
+
+The part teaches **personal and job-application letters** (የግልና የሥራ ደብዳቤ) together with **writing a person's life history** (የሕይወት ታሪክ). Its named materials show the joining: **sample letters, sample biographies — and a sample sales contract** — the paper world an adult writes in, all of it set before the class at once.
+
+The personal and application letters themselves stand in this lesson's earlier sub lessons under student-book citations; a person's life history has its own lesson (Life Stories), where this same guide page is stocked for the biography half. This part keeps the guide's page, its pairing, and its materials.
+
 ## Say it to your companion
 
 Name the letter kind for each errand, and why: (1) thanking

@@ -95,3 +95,7 @@ Sub lesson 24 questions from the type files. Pass mark: state the poem's call an
 ## Sub lesson 25 — Grade 8: አሁን መልካም ሥሩ! — Do Good Now!
 Sub lesson 25 questions from the type files. Pass mark: summarise the grandmothers' counsel and its warning.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 26 — Explaining sayings — the Grade 9 guide's second task (teacher guide — evidence)
+Sub lesson 26 questions from the type files. Pass mark: state the task (explain the meanings of given sayings, አባባሎች) and what precedes it (a short explanation of why sayings matter).

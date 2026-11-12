@@ -28,3 +28,7 @@ Sub lesson 5 questions from the type files. Pass mark: build describing-word phr
 ## Sub lesson 6 — Grade 7: two descriptive paragraphs — my school, my area
 Sub lesson 6 questions from the type files. Pass mark: write two descriptive paragraphs on your school and edit them.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 7 — The big chart, the design note, and the balanced essay — the Grade 8 guide (teacher guide — evidence)
+Sub lesson 7 questions from the type files. Pass mark: name the part's three writings (the copied big-chart note; the design/pattern note; the balanced-paragraph essay) and two household items from its word stock.

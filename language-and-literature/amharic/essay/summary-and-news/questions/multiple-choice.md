@@ -34,3 +34,6 @@ a) Positions keep changing — the back leg will be front  b) Legs cannot speak 
 a) The school's activities of one week  b) A poem's message  c) A private letter
 **Answer: a) The school's activities of one week** — what happened, where, when, who took part.
 
+**9. (Sub lesson 4)** The Grade 9 guide's report is written on —
+a) a football match  b) the rainy season  c) the COVID period
+**Answer: c) the COVID period**

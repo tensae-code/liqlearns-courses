@@ -126,3 +126,11 @@ a) its facts  b) its form — it now asks  c) its subject
 **31. (Sub lesson 21)** 'እነዚህ በሬዎች ናቸው' is repaired from its scramble by —
 a) changing the words  b) returning each part to its place — subject before the being-verb  c) adding a question
 **Answer: b) returning each part to its place — subject before the being-verb** — order, not wording, was the fault.
+
+**32. (Sub lesson 22)** The Grade 10 guide's complex-sentence work is threefold: combine, pick out of a paragraph, and —
+a) translate them  b) create their own  c) memorise them
+**Answer: b) create their own**
+
+**33. (Sub lesson 23)** The Grade 10 guide's phrase work is: pick phrases out, then —
+a) build complete sentences from them  b) translate them word by word  c) count their letters
+**Answer: a) build complete sentences from them**

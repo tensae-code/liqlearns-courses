@@ -21,3 +21,7 @@ a) exactly two lines  b) at least five lines  c) one line per pupil
 **5. (Sub lesson 4)** Error correction comes —
 a) before writing  b) after the paragraph is composed whole  c) instead of writing
 **Answer: b) after the paragraph is composed whole** — compose first, correct second — two readings, two eyes.
+
+**6. (Sub lesson 5)** In the Grade 7 guide's Task 2, learners check a paragraph by —
+a) reading their own paragraph aloud twice  b) exchanging notebooks and working on each other's paragraph  c) copying the model paragraph
+**Answer: b) exchanging notebooks and working on each other's paragraph**

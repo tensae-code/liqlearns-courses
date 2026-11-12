@@ -173,3 +173,7 @@ a) one seedling  b) ten seedlings (አስር ችግኝ)  c) a fence
 **43. (Sub lesson 25)** The poem's title-call is —
 a) wait for tomorrow  b) do good NOW — what bears fruit tomorrow is planted today  c) rest in old age
 **Answer: b) do good NOW — what bears fruit tomorrow is planted today** — አሁን መልካም ሥሩ — the fruit of tomorrow is today's good.
+
+**44. (Sub lesson 26)** አባባሎች are —
+a) sayings / proverbs  b) drum rhythms  c) place names
+**Answer: a) sayings / proverbs**

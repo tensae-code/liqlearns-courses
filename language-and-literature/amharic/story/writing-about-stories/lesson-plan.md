@@ -121,3 +121,7 @@ lesson and its question list as they are — choosing, not remaking.
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 12 — Grade 7: በላ ልበልሃ — the verse court itself.
 - Sub lesson 13 — Grade 7: finishing paragraphs, ordering addiction sentences.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 14 — Who is in the tale? — Characters, ገፀ ባህሪ (teacher guide — evidence) (G3-U3-3, Grade 3 Amharic Teacher Guide, printed p. 25).

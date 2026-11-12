@@ -76,3 +76,18 @@ Answer in a few words, or one sentence.
 
 **25. (Sub lesson 27)** How does she answer the cut-heel verse?
 **Answer:** 'If people knew, what grieves you? Come to me, and I'll hold you night and day.'
+
+**26. (Sub lesson 30)** In the Grade 8 guide's speaking pattern, what happens before learners present to the class?
+**Answer:** The questions are discussed first (as a class, or in pairs in Chapter 2); only then do learners present.
+
+**27. (Sub lesson 31)** Into what three kinds are the harms classified in the Grade 9 guide's speaking task?
+**Answer:** Economic harm, social harm and health harm.
+
+**28. (Sub lesson 32)** What two officers does a tax-speech group of five choose?
+**Answer:** A chair and a reporter.
+
+**29. (Sub lesson 33)** Give the Grade 10 guide's speaking maxim in Amharic, and in English.
+**Answer:** ንግግርን ማስተማር የሚቻለው በንግግር ነው — speaking is learned by speaking.
+
+**30. (Sub lesson 34)** Name the three field-report topics on local culture.
+**Answer:** Cultural performances in the area; how traditional-medicine knowledge is transmitted and kept secret; traditional marriage in the area.

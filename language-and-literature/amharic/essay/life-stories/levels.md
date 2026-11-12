@@ -35,5 +35,7 @@ Sub lesson 7 questions from the type files. Pass mark: run the recorded-life met
 ## Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card
 Sub lesson 8 questions from the type files. Pass mark: turn the data card's facts — name, parents, birth, motto, records, investment — into one flowing paragraph, then edit and rewrite it as the review sets.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
 
-
+## Sub lesson 9 — Researching a person's life — the federal guides' method (teacher guide — evidence)
+Sub lesson 9 questions from the type files. Pass mark: give the researched profile's steps in order (choose a well-known local person → gather by asking people → organise → present in writing) and name the Grade 10 guide's material for life-history writing (sample biographies).

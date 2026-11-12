@@ -50,3 +50,6 @@ a) In Arsi — Chialo, Tiyo woreda, 1966 E.C.  b) In Gondar, 1970 E.C.  c) In Ad
 a) Turns its rows of facts into one flowing paragraph  b) Copies the rows as they stand  c) Shortens it to one sentence
 **Answer: a) Turns its rows of facts into one flowing paragraph** — facts in rows → a life in order.
 
+**13. (Sub lesson 9)** In the Grade 9 guide's researched profile, information about the person is gathered —
+a) by asking people who know them  b) only from newspapers  c) by guessing politely
+**Answer: a) by asking people who know them**

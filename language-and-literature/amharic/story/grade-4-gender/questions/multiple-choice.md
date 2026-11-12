@@ -49,3 +49,15 @@ a) True  b) False  c) Only in towns
 **12. (Sub lesson 5)** What did the doctor order for the overworked mother?
 a) More work  b) A week's rest — heart strain from overwork  c) Medicine only
 **Answer: b) A week's rest — heart strain from overwork** — Heart strain from overwork; a week's rest — the family finally sees her burden.
+
+**13. (Sub lesson 6)** Unit 4 is —
+a) Gender — ስርዓተ ያታ  b) Trade — ንግድ  c) Sport
+**Answer: a) Gender — ስርዓተ ያታ** — ስርዓተ ያታ.
+
+**14. (Sub lesson 6)** Its listening text concerns —
+a) the division of labour  b) river travel  c) weaving
+**Answer: a) the division of labour** — Division of labour.
+
+**15. (Sub lesson 6)** The unit runs —
+a) 6 periods  b) 18 periods  c) 40 periods
+**Answer: b) 18 periods** — 18 periods.

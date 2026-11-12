@@ -133,3 +133,43 @@ Sub lesson 27 questions from the type files. Pass mark: match five art words to 
 ## Sub lesson 28 — Grade 7: words of grief and care; the p.22 context set
 Sub lesson 28 questions from the type files. Pass mark: explain እንክብካቤ and የደም እንባ and build one sentence from a p.22 word.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 29 — Words from the Clothes text — the guide's answer key (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 30 — Words from the Fox story — blended-word answers (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 31 — Words from Marta's Diary — pairs and the picture key (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 32 — Words from the Martyr Mother — the guide's keys (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 33 — Meaning from the sentence around it — the Grade 5 task and key (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 34 — Reading: words that mean nearly the same — the guide's key (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 35 — Word meanings in their sentences — the split-and-context key (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 36 — Common words and uncommon words — the Grade 7 guide's chart (teacher guide — evidence)
+Sub lesson 36 questions from the type files. Pass mark: tell a ተዘውታሪ word from a ያልተዘውታሪ word in the guide's own terms, and state the task (identify and write the uncommon words).
+
+## Sub lesson 37 — Chapter vocabulary work — the Grade 8 guide's matching (teacher guide — evidence)
+Sub lesson 37 questions from the type files. Pass mark: state the two moves of the Grade 8 guide's vocabulary work (contextual meanings of the text's words; matching similars) and what its assessment checks.
+
+## Sub lesson 38 — The Grade 9 guide's chapter vocabulary — mediation, gender, science, epidemics (teacher guide — evidence)
+Sub lesson 38 questions from the type files. Pass mark: give the two printed keyed answers (ቅደም ተከተል's synonym; መጋጨት's meaning) and the three Chapter 4 glosses with their senses.
+
+## Sub lesson 39 — The Grade 9 guide's chapter vocabulary — environment, tax, the story, synonyms (teacher guide — evidence)
+Sub lesson 39 questions from the type files. Pass mark: give the four Chapter 6 glosses with their senses; state the Chapter 8 rule (antonym answers left open — acceptable answers vary, confirmed with the learners).
+
+## Sub lesson 40 — Direct meaning, contextual meaning, and the words of technology — the Grade 10 guide's own pages (teacher guide — evidence)
+Sub lesson 40 questions from the type files. Pass mark: state the two meaning kinds and the guide's working order (underlined words in context first, dictionary meanings second); describe the IT-words task (meanings from websites, presented, used in sentences).

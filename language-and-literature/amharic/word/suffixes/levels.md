@@ -27,4 +27,7 @@ Pass mark: sort the keyed pieces by where they enter — ኢ- and መ- are prefi
 Sub lesson 7 questions from the type files. Pass mark: build አድናቂዎቹን step by step, split እንቅልፋችሁ into stem and ending, and split ዘመናቸው = ዘመን + -ኣቸው.
 
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
 
+## Sub lesson 8 — Split the word: root and suffix — and ten matches (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

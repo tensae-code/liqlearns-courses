@@ -84,3 +84,11 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 9 — Grade 7: punctuation in dialogue and repair work.
 - Sub lesson 10 — Grade 8: punctuating a passage — the father, the son and the donkey.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 11 — Dictation words and the question mark (teacher guide — evidence) (G2-U1-8, Grade 2 Amharic Teacher Guide, printed pp. 7–8).
+- Sub lesson 12 — Punctuation marks and their names (teacher guide — evidence) (G3-U2-7, Grade 3 Amharic Teacher Guide, printed p. 21).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 13 — **The punctuation kinds, the Grade 9 guide's note (teacher guide — evidence)** — የስርዓተ ነጥብ ዓይነቶች explained from the student-book note after the concepts exercise (Ch.7 writing part).

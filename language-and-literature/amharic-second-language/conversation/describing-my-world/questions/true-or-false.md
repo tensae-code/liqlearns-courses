@@ -10,3 +10,9 @@ Say "true" or "false" out loud, and say why.
 
 **3. (Sub lesson 4)** In the houses chapter, if you name a room or a house part wrongly, the wrong name is left alone so you do not feel bad.
 **Answer: False** — wrong naming is corrected with the right term, and right naming is praised (printed pp.152–154). Correction, kindly given, is how the names stick.
+
+**4. (Sub lesson 6)** In Chapter 14, learners answer true/false questions from the pictures.
+**Answer: True**
+
+**5. (Sub lesson 7)** Learners add the time-indicating suffixes following a model, and write them.
+**Answer: True**

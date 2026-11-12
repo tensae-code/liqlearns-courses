@@ -13,3 +13,6 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 6)** Editing comes after the two paragraphs are composed.
 **Answer: True**
+
+**5. (Sub lesson 7)** In this Grade 8 guide part, learners copy the big wall-chart (ቢጋር) note into their notebooks.
+**Answer: True**

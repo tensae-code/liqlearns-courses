@@ -18,6 +18,16 @@ countries: Ethiopia
 
 **Book 8:** *Amharic Student Textbook, Grade 8* (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ ምህረቴ, አምባው ደምሴ ቀኜ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 176 PDF pp., printed pp. 1–164. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
 
+**Book 9:** *Grade 2 Amharic Teacher Guide (አማርኛ እንደመጀመሪያ ቋንቋ የመምህር መምሪያ, ፪ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 8. The secured file ends at printed p.34 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g02-teacher-placements.md.
+
+**Book 10:** *Grade 5 Amharic Teacher Guide (አማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መምሪያ መጽሐፍ, ፭ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum. Page rule: printed page = PDF page − 5. The secured file ends at printed p.42 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g05-teacher-placements.md.
+
+**Book 11:** *Grade 7 Amharic Teacher Guide* (አማርኛ እንደ መጀመሪያ ቋንቋ, የመምህር መምሪያ, ፯ኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 7. Read page by page in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g07-teacher-placements.md. The secured file holds printed pp.1–46 only (Chapters 1–3 complete, Chapter 4 cut off) — nothing past printed p.46 is cited anywhere in this lesson.
+
+
+**Book 12:** *Amharic as a Federal Language, Teacher Guide, Grade 10 (አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, አሥረኛ ክፍል)* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University, first edition 2014 E.C., prepared under GEQIP-E, 116 PDF pp. Page rule: printed page = PDF page − 5 (body folios run 1–92). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g10-teacher-placements.md. No Grade 10 student book exists in the records — this guide is evidence only, never a pupil book.
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — compound words (ጥምር ቃላት): ፍኖተ-ሰላም → ፍኖተሰላም; ደብረማርቆስ, ደብረብርሃን, ደብረታቦር; አዲስአበባ, ባሕርዳር, ቀይባሕር; pupils write five compounds | Ethiopia, *Amharic Student Textbook, Grade 2*, printed pp.41, 43 (placement 40) |
@@ -43,11 +53,19 @@ countries: Ethiopia
 
 | Sub lesson 7 — compound words — ሥነ / ፀረ / ቤተ / ሕገ families | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 31 |
 | Sub lesson 7 — vocabulary — compound pairs | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 38–39 |
+| Sub lesson 8 — Unit 3 word tasks — the guide's keys, and who is included (teacher guide — evidence) | Ethiopia, *Grade 2 Amharic Teacher Guide*, printed p. 24 |
+| Sub lesson 9 — Building words: join the parts, fix the ending (teacher guide — evidence) | Ethiopia, *Grade 5 Amharic Teacher Guide*, printed pp. 22–23 |
+| Sub lesson 10 — compound words (ድርብ ቃላት), the guide's own term and page (teacher guide — evidence): write compound words following the given model. Sub lesson 1 teaches compound words as ጥምር ቃላት under Grade 2/3 student-book and Grade 3 guide citations; this row adds the Grade 7 guide's own term and page | Ethiopia, *Grade 7 Amharic Teacher Guide*, printed p.37 (placement 19) |
+| Sub lesson 10 — word formation (የቃላት ምስረታ) (teacher guide — evidence): form words using the word-formation rules/sounds (የቃላት መመስረቻ ድምጾች); vocabulary built by collecting new words from the texts. The lesson's word-formation parts stand under Grade 2/3/4 citations; this row adds the Grade 10 guide's own page | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.82 (placement 58) |
+| Sub lesson 10 — compound words (ድርብ ቃላት) in sentences (teacher guide — evidence): write compound words and use them in sentences; the appendix adds — form them, use them correctly, give literary meaning | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.89 (placement 64) |
+| GIF 31511 — two words joining into one compound word, drawn for this sub lesson | Drawn render made in this build (PIL, cream-paper style), from the rows above |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The loanword table and the compound-word sets of Sub lesson 1's music-like sets rest on teacher-guide evidence, labelled in the table; the compound, reduplication and -ኛ/-ነት work is placed in the student textbooks. (2) Reduplication: the G2 placement names the process ("word formation by reduplication") and gives ፍራፍሬ and ቅጠላቅጠል; the lesson's "the echo means more of the thing" is the plain sense of those two placed examples, stated as explanation, not as a quoted book rule. (3) መርከብ is kept with the source the G4 guide's table prints for it (ጣሊያንኛ, Italian), marked "(as placed)" in the lesson — the placement is copied exactly, not corrected from outside knowledge. (4) The G4 guide's table is headed "12-row" in the placements and lists eleven word-rows with ጉድፈቻ/አባሪ sharing one row's Oromo source; the lesson prints the rows as placed. (5) The Grade 3 guide's compound sets (ጨፍ, ጨሪ, ብልጫ…) are printed exactly as placed, without invented glosses — the placements give no glosses for them. (6) Pictures 8455 and 8456 and GIF 8461 are drawn media made for this lesson from the placed joins, endings and table; GIF 8461 was frame-checked at frames 1/7/13/20 (words travelling one by one into the Amharic box) before filing. The brief offered a drawn map instead of the GIF; the GIF worked, so no map was needed.
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: building words, compound words, ውስብስብ ሆሄያት, ጥምር ቃላት, reduplication, ፍራፍሬ, ቅጠላቅጠል, ነገረኛ, ታማኝነት, -ኛ, -ነት, loanwords, የውስጠ ቃላት, ቆጮ, ሞባይል, ሱቅ, ቢሮ, ፖስታ

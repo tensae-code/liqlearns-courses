@@ -127,6 +127,9 @@ Match the synonyms as the book sets them: ጓደኛ ↔ ወዳጅ (friend), ሰ�
 Match the antonyms (ተቃራኒ) from the hate-speech-as-litter essay: ያናጋል ↔ ያረጋጋል (stirs up ↔ calms), ጥላቻ ↔ ፍቅር (hatred ↔ love), ውጫዊ ↔ ውስጣዊ (outer ↔ inner), and their companions. Antonyms as a system stand in this lesson and in Same and Opposite Words; this part stocks the Grade 5 book's own set at its own page. (The word-order unscrambling that rides with it stands in the Writing Sentences lesson.)
 
 
+## Sub lesson 5 — Words about friends and play (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Unit 4 related-words set. The words come from the Two Friends story's play world — ጨዋታዎች (playthings and games) and መጫወቻ (play materials) — the things friends play with, named and used in talk about friends. Learn the set the unit's way: say each word, say what it is for, then use it in a sentence about your own friend and your own play. A word you can use about your own life is a word you keep.
 ## Say it to your companion
 
 Grow a web in talk: one of you names a centre word — ቤተሰብ,

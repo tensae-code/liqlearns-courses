@@ -68,6 +68,12 @@ Split the suffixes off: **ማንጎዎች** splits into **ማንጎ - ዎች** �
 
 Write a paragraph naming fruit-bearing plants and their uses — the mango that feeds and shades, and the others you know. Name the plant, then its use; that is the paragraph's spine.
 
+## Sub lesson 6 — Grade 4 Unit 1 opens: Protecting the Environment — የአካባቢ ጥበቃ (teacher guide — evidence)
+
+This part is teacher-guide evidence. Grade 4 Unit 1 is የአካባቢ ጥበቃ (Protecting the Environment). Its objectives: state the gist of readings heard; pick out the main idea of a grade-level text; give words' contextual (አውዳዊ) and figurative (ፍካሬያዊ) meanings; and write complex sentences using conjunction words. Its parts are listening-and-speaking, reading, words and writing, and its listening topic is what green areas are and why they matter. The listening text itself stands in Listening Stories as evidence from this guide; this opener is the unit's map.
+## Sub lesson 7 — Unit 1 Check: Environment (teacher guide — evidence)
+
+This part is teacher-guide evidence: the yellow summary page (የምዕራፍ ማጠቃለያ) for Unit 1. By its end learners have developed listening, reading, speaking and writing; know contextual and figurative meaning and their use; picked out conjunctions and sentence types; given synonyms and antonyms; told simple (ነጠላ) sentences from complex ones; written complex sentences with conjunctions; and written ideas from texts in their own words. Work through the list as a self-check: each line you can truly do is one proof; any line you cannot is the part to revisit before moving on.
 ## Say it to your companion
 
 Tell your companion the chapter word — **አካባቢ ጥበቃ** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

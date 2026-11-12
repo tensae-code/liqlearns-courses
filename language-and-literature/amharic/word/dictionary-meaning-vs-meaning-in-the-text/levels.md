@@ -12,3 +12,9 @@ Sub lesson 2 questions from the type files. Pass mark: work one heritage word th
 
 ## Sub lesson 3 — Play words — in the text and out of it
 Sub lesson 3 questions from the type files. Pass mark: explain one play phrase as it stands in the text, and build a similar/opposite sentence pair from one play word.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 4 — One word, two lives: meaning in the text, meaning outside (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

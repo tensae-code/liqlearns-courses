@@ -65,3 +65,19 @@ Sub lesson 14 questions from the type files. Pass mark: expand one summary sente
 ## Sub lesson 15 — Grade 8: cause and effect — አውቆ አበድ; man-made climate change
 Sub lesson 15 questions from the type files. Pass mark: write a three-link cause chain in which each link pulls the next.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 16 — Persuasive writing, and the essay that keeps the language's structure — the Addis guides (teacher guide — evidence)
+Sub lesson 16 questions from the type files. Pass mark: name the Grade 7 guide's writing kind (persuasive, አሳማኝ ጽሑፍ) and its setting (two tasks with assessment); state the Grade 8 structure rule and its assessment check.
+
+## Sub lesson 17 — The descriptive essay — the Grade 9 guide's own settings (teacher guide — evidence)
+Sub lesson 17 questions from the type files. Pass mark: name the three descriptive-essay settings and one exact detail each (a famous woman + sayings task; the outline አስተዋጽኦ + every learner attempts; a traditional game in groups of five).
+
+## Sub lesson 18 — An essay on a season, and saying it in your own words — the Grade 9 guide (teacher guide — evidence)
+Sub lesson 18 questions from the type files. Pass mark: name the four seasons as the guide lists them and the tool used (ቢጋር); define paraphrase in the guide's terms (same content, one's own words) and name its companion task (a paragraph; jumbled sentences reordered).
+
+## Sub lesson 19 — A model essay, four ways of correcting, and two approaches to writing — the Grade 10 guide (teacher guide — evidence)
+Sub lesson 19 questions from the type files. Pass mark: name the four correction hands in the guide's order of kind (self, peer, group, teacher) and give peer correction's Amharic name; state which approach the guide recommends and name three of the six abilities.
+
+## Sub lesson 20 — Writing by lot, writing what you understood, and a short text on migration — the Grade 10 guide (teacher guide — evidence)
+Sub lesson 20 questions from the type files. Pass mark: state how the cultural-practice tasks are given out (by lot, በእጣ) and what every piece receives; give the unity-and-diversity writing sequence (sentences of different sizes, then a one-idea paragraph) and the handwriting instruction.

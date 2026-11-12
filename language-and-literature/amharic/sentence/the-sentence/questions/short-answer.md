@@ -34,3 +34,9 @@ Answer in a few words.
 
 **11. (Sub lesson 21)** Name three error kinds the p.46 work corrects.
 **Answer:** Subject–verb number agreement, possessives, and word choice.
+
+**12. (Sub lesson 22)** How many sentences does the Grade 9 guide set for simple/complex classification?
+**Answer:** Ten sentences, against the guide's key.
+
+**13. (Sub lesson 23)** From what kinds of text are the phrases picked, per the chapter's materials?
+**Answer:** Real standing text — the chapter lists short and long fiction, poems, articles and research articles.

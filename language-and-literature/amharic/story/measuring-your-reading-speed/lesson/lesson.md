@@ -14,6 +14,9 @@ The Grade 8 fluency lesson prints a passage — 'The Impact of Global Warming' �
 
 Now score it, exactly as the book's worked example does. The example student reached the line counted 102, but 4 words after her slash were unread — so her speed is 102 − 4 = 98 words per minute. She made 6 error marks, so her CORRECT reading is 98 − 6 = 92 words per minute. Her comprehension was 4 out of 5 questions — 80%. Three numbers, three different things: speed (how much you covered), correct speed (how much you covered cleanly), comprehension (how much you understood). A blank record form follows in the book for your own three numbers, attempt by attempt. Improving reading means lifting correct speed and comprehension together — never raw speed alone.
 
+## Sub lesson 3 — Timed fluent reading: the ዘገባ task (teacher guide — evidence)
+
+This part is teacher-guide evidence: timed fluent reading (አቅላጥፎ ማንበብ) on a short text called ዘገባ (a report). The teacher sets the time (የማያከብት ጊዜ — the time is fixed and kept), and learners re-read the text at the set speed, with correct voice and correct words, watching the punctuation as they go. A reader who struggles repeats the reading until it runs fluent — repetition is the method, not a punishment. Time, voice, words, punctuation: when all four hold together inside the set time, the reading is fluent. Timed reading for other guides' texts stands elsewhere in this course; this part is the Grade 3 guide's own ዘገባ task.
 ## Say it to your companion
 
 Tell your companion the main thing each sub lesson taught, in your own words, in order. Your companion asks one question about each part, and you answer from the lesson. Then swap.

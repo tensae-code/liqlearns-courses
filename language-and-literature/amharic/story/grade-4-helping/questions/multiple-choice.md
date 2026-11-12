@@ -53,3 +53,27 @@ a) Blessing  b) Grandmother  c) A wise person
 **13. (Sub lesson 5)** ስደት means…?
 a) Harvest  b) Migration — leaving family and area for a foreign country  c) A market
 **Answer: b) Migration — leaving family and area for a foreign country** — ስደት is migration, with its hopes and its costs.
+
+**14. (Sub lesson 6)** Unit 3 is —
+a) Mutual Help — መረዳዳት  b) Water — ውሃ  c) Sport
+**Answer: a) Mutual Help — መረዳዳት** — መረዳዳት.
+
+**15. (Sub lesson 6)** This unit's grammar target is —
+a) suffixes — ቅጥያዎች  b) only punctuation  c) only spelling of names
+**Answer: a) suffixes — ቅጥያዎች** — ቅጥያዎች.
+
+**16. (Sub lesson 6)** The listening text is —
+a) እህትማማችች — Siblings  b) a market text  c) a road song
+**Answer: a) እህትማማችች — Siblings** — Siblings.
+
+**17. (Sub lesson 7)** The fluency trio is —
+a) accuracy, speed, expression  b) loud, louder, loudest  c) read, copy, draw
+**Answer: a) accuracy, speed, expression** — ትክክለኛነት, ፍጥነት, ገላጭነት.
+
+**18. (Sub lesson 7)** ቤታችን means —
+a) your house (m)  b) my house  c) our house
+**Answer: c) our house** — ቤታችን — our house.
+
+**19. (Sub lesson 7)** Words were split into —
+a) prefix, stem, suffix  b) beginning only  c)  rhymes
+**Answer: a) prefix, stem, suffix** — Prefix + stem + suffix.

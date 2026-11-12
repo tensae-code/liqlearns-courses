@@ -47,3 +47,13 @@ Sub lesson 7 questions from the type files. Pass mark: match three Grade 8 synon
 ## Sub lesson 8 — Grade 8: the bat cloze bank, Maru matching and word halves
 Sub lesson 8 questions from the type files. Pass mark: give the antonyms of ጦርነት and ድል and join one word-half pair.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 9 — Synonym match, antonym fill — then swap and mark (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 10 — Synonyms and antonyms from the mediation reading — the Grade 9 guide (teacher guide — evidence)
+Sub lesson 10 questions from the type files. Pass mark: give the guide's sample keyed pair and state how the task is set (matching from the mediation reading, as homework, checked against the passage).

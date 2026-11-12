@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2)** A news report of yesterday must be read aloud as part of the book's task.
 **Answer: True** — write the ዘገባ and read it in class (p.151).
+
+**4. (Sub lesson 4)** In the Grade 9 guide, the report is only written — it is never presented.
+**Answer: False — the groups present it as well**

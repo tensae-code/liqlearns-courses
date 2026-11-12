@@ -66,3 +66,11 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 7 — Grade 8: verb forms for persons — the discussion chapters' work.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 8 — Verbs with ተ-: spotting derived verb forms (teacher guide — evidence) (G5-U3-5, Grade 5 Amharic Teacher Guide, printed pp. 34–37).
+- Sub lesson 9 — Verbs that carry time: የጊዜ ተውላከ ግስ — and the trial test (teacher guide — evidence) (G6-U3-6, Grade 6 Amharic Teacher Guide, printed pp. 29–30).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 10 — **The present tense, the guides' pages (teacher guide — evidence)** — Grade 7: identify present-tense sentences, then form them. Grade 8: a short note on the past tense (የኅላፊ ጊዜ); identify and form sentences with present-tense verbs (የአሁን ጊዜ ግስ).

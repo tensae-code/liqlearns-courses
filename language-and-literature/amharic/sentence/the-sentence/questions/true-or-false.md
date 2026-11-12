@@ -46,3 +46,9 @@ Say true or false.
 
 **15. (Sub lesson 21)** Subject–verb number agreement is one of the p.46 error kinds.
 **Answer: True**
+
+**16. (Sub lesson 22)** የስርዓተ ነጥብ ዓይነቶች is the heading for the punctuation types in the Grade 9 guide's note.
+**Answer: True**
+
+**17. (Sub lesson 23)** ሐረግ is the guide's term for a phrase.
+**Answer: True**

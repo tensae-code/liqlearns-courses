@@ -41,3 +41,31 @@ a) ጨመረ  b) ጨረሰ  c) መጣ
 **10. (Sub lesson 7)** Writing a verb for a different person changes —
 a) only its translation  b) the verb's own form  c) nothing
 **Answer: b) the verb's own form** — person lives in the verb's form — ሰበርክ, ሰበራችሁ, ሰበሩ.
+
+**11. (Sub lesson 8)** ተወላክ ግሶች are marked by —
+a) ተ- derived forms  b) a question mark  c) capital letters
+**Answer: a) ተ- derived forms** — ተ- derived verb forms.
+
+**12. (Sub lesson 8)** Forms are hunted —
+a) in word lists only  b) in sentences and whole paragraphs  c) on the cover
+**Answer: b) in sentences and whole paragraphs** — In real sentences/paragraphs.
+
+**13. (Sub lesson 8)** After spotting a form, you —
+a) drop it  b) use it in a sentence of your own  c) translate it away
+**Answer: b) use it in a sentence of your own** — Use it yourself.
+
+**14. (Sub lesson 9)** የጊዜ ተውላከ ግስ shows —
+a) who acted  b) when it happened or will happen  c) where it happened
+**Answer: b) when it happened or will happen** — The time.
+
+**15. (Sub lesson 9)** ትናንት means —
+a) tomorrow  b) yesterday  c) always
+**Answer: b) yesterday** — Yesterday.
+
+**16. (Sub lesson 9)** የሙክራ ፈተና is —
+a) a final exam  b) a trial/practice test at the unit's end  c) a song
+**Answer: b) a trial/practice test at the unit's end** — A trial test.
+
+**17. (Sub lesson 10)** The Grade 7 guide's present-tense order is —
+a) form sentences only, never identify  b) memorise a list of verbs  c) identify present-tense sentences first, then form them
+**Answer: c) identify present-tense sentences first, then form them**

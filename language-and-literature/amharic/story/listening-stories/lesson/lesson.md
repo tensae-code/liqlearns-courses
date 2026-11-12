@@ -939,6 +939,8 @@ The climate chapter's listening asks: list forests' benefits; what are forests' 
 
 Two listening texts the Grade 7 teacher guide carries, stocked here as labelled evidence — the texts themselves belong to the student book and are summarised, never transcribed.
 
+[Picture 31500 — the Abbay river and the Grand Dam, with its 16 generating units]
+
 **«አባይ» — the Abbay (the dam listening).** A factual listening text on the Abbay (the Nile) and the Grand Dam. The guide's own figures stand inside the text: the dam's dimensions, and its **16 generating units of 375–400 MW each**. While listening, learners work the text's underlined words and phrases; the assessment checks **contextual meanings** (አውዳዊ ፍቺ) of words taken from the text. Where the school has it, a recorded audio (መቅረፀ ድምፅ) is the named material.
 
 **A volunteer's life story.** The second listening tells of a woman who returned to Ethiopia from America — the text dates a return to **1973 E.C.** — and searched for a school able to serve **children affected by autism**. Finding none, she began serving her community herself. The guide prints its source for this text: ተምሳሌት, «አፁብ ድንቅ ኢትዮጵያዊያን ሴቶች» — "Example: Atsub Dinq Ethiopian Women". Its vocabulary task matches words under column "ሀ" with their similars under column "ለ". A life heard whole: return, search, service.
@@ -959,6 +961,8 @@ The Grade 8 guide's Chapter 2 listening, «ቅርሶች በኢትዮጵያ» —
 
 The text defines **heritage** by its material and spiritual content: things that witness historical change across prehistory and history, in science, history and culture. Among Ethiopia's heritages it names historical sites; the **shillela war chants and poems** sung in wartime; **monuments** raised to remember sacrifice; and it says **Ethiopia holds the largest number of UNESCO-registered heritages**, with the **ደብዳቤ letters** and the history of **ዳግማዊ ምኒልክ (Menelik II)** among the registered literary heritages.
 
+[Picture 31502 — heritage: a stela and an open manuscript]
+
 The guide prints where its texts came from: the **Ethiopia Tourism book** and the **former Grade 11 student book** — a listening with its sources named on its own page.
 
 ## Sub lesson 48 — The traditional marriage of the Zeyse — the Grade 9 guide's listening (teacher guide — evidence)
@@ -975,6 +979,77 @@ Two Grade 10 guide listenings, stocked as labelled evidence with their teaching 
 
 **«አንዱ ለሌላው ምንድን ነው?» — "What is One to the Other?"** The Unity and Diversity chapter's listening: unity and diversity are presented as **twin concepts** — seemingly opposite, belonging together. The same chapter carries the guide's integrated-skills note: the book is organised to grow listening with speaking and reading with writing **together**, so a teacher's own extra exercises should likewise teach the skills **in integration (በቅንጅት)**, never as strangers.
 
+## Sub lesson 50 — Grade 1 Unit 1 opens: Family — ቤተሰብ (teacher guide — evidence)
+
+This part is teacher-guide evidence. The Grade 1 guide opens Unit 1, ቤተሰብ (Family), with its objectives: retell a heard story to a friend, relate the story to your own family, read the theme words, know the new fidel and the sounds of words, and write single fidel and words. Its contents run the unit cycle — listening, listening-and-speaking, related words, print concepts, new fidel, shape sorting, words, blending and segmenting, reading, writing, and the unit check. Use this opener to see the whole unit before its parts: every Grade 1 unit in this course follows this same shape.
+[Picture 31200 — guide evidence chart]
+
+## Sub lesson 51 — Listening: My Family — the unit's first family story (teacher guide — evidence)
+
+This part is teacher-guide evidence, and it is a different listening from the Nuradin story later in the unit. The teacher first talks about the picture, then reads the family story aloud. The class then answers from their own families: who is in a family — father, mother, children and relatives. Listen, then name the people in your own family the same way: አባት (father), እናት (mother), ልጅ (child), and the relatives around them. The story itself is told as a summary only — the doing here is naming your own family from what you heard.
+## Sub lesson 52 — Unit 1 Check: Family (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 1 Unit 1 summary check (የምዕራፉ ማጠቃለያ). Show what the Family unit taught. Retell the unit's presented story in order, in your own words. Work with the unit's new fidel — ከ, ወ, ቀ among them — and write words with them. The teacher assesses by watching and listening (observation), not by a written exam: retelling, fidel and written words are the three things checked. If you can do those three, the unit is proved.
+## Sub lesson 53 — Grade 1 Unit 2 opens: Home — ቤት (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 2 is ቤት (Home). Its opener's objectives: from listening, pick out the food items found in the home; name kitchen and home items and say what each is used for; read letter shapes; meet new fidel and words; and write two-letter words. The unit then runs the same cycle as Unit 1 — listening riddle, reading, sounds, writing, and its own check. Hold the theme word ቤት in mind: everything in this unit lives inside a home.
+## Sub lesson 54 — Unit 2 Check: Home (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Unit 2 summary check. Retell the unit's main story — the house story, ቤት. Work with the unit's new fidel (ከ and the ጠ–ነ set, as printed), and write words and read them back. As in Unit 1, the teacher checks by an observation checklist: the retelling, the new fidel, and words written and read back. Three proofs, and the Home unit is done.
+## Sub lesson 55 — Grade 1 Unit 3 opens: School — ትምህርት ቤት (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 3 is ትምህርት ቤት (School). Its objectives: listen to stories and retell them; pick out the school words; read the related words; meet new fidel and diphthong sounds; and write two-letter words. Everything in the unit stands in a school — its compound, its blackboard, its pupils and its gate — and the unit's stories (the Environment Club, the Late Student) are stocked in this course from this guide as evidence in their own parts.
+## Sub lesson 56 — Unit 3 Check: School (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Unit 3 summary check. Retell the unit's head story — the ትምህርት ቤት (School) story. Work with the unit's new fidel (the ገ–የ–ዘ set, as printed): blend them into words and write the words. The teacher checks by observation: retelling, blending, and writing. Blend first, then write — the check follows the unit's own order.
+## Sub lesson 57 — Grade 1 Unit 4 opens: Friends — ጓደኝሞች (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 4 is ጓደኝሞች (Friends) — as far as the secured guide file goes, since the file ends inside this unit. Its objectives: retell a heard text; learn the friends-related words and their meanings; write related words; meet new fidel and sounds; and read sounds and words. The unit's story, Two Friends, and its word work stand in this course in their own parts; this opener is the map of the unit. Note honestly: the secured scan ends at printed p.35, inside this unit — the rest of Unit 4 and Units 5–10 are not in the file and are not claimed anywhere in this course.
+## Sub lesson 58 — Grade 2 Unit 1 opens: Clothes — ልብስ (teacher guide — evidence)
+
+This part is teacher-guide evidence. Grade 2 Unit 1 is ልብስ (Clothes). Its objectives: grasp the main idea of a heard text and state it; give the meanings of given words; segment three-fidel words; and join fidel and write words. Grade 2 keeps Grade 1's 18-period cycle and adds its own new work — look-alike fidel, compound fidel and timed fluent reading. This opener is the unit's map; its clothes text, word key and checks stand in their own parts in this course.
+## Sub lesson 59 — Unit 1 Check: Clothes (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 2 Clothes unit check. Re-read የበዓል ልብስ (Holiday Clothes). Use words built with ሞክሸ (look-alike) and ውሰብሰብ (compound) fidel, and state their meanings. The guide adds one more direction: the teacher gives catch-up tasks for learners who were left behind — a check is also a rescue, not only a judgement. Show the re-reading, the special-fidel words and their meanings, and the unit is proved.
+## Sub lesson 60 — Grade 2 Unit 2 opens: Seasons — ወቅቶች (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 2 is ወቅቶች (Seasons). Its objectives include: write different ideas drawn from a heard text; blend and segment sounds; write four-fidel related words; and use the four punctuation marks (አራት ኅፁብ). Ethiopia's four seasons and their months are the unit's heard text, stocked in this lesson in its own part; this opener is the map that holds the unit together — listening, matching, poem, blending, dictation and check.
+## Sub lesson 61 — Unit 2 Check: Seasons (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Seasons unit check. Re-read የኢትዮጵያ ወቅቶች (Ethiopia's Seasons). Write four-fidel words. Name and write the days of the week (የሳምንቱ ቀናት). Rearrange a word's fidel positions to make new words — the Grade 2 move: same fidel, new order, new word. The check closes with the learner book's summary exercises. Seasons, week-days, four-fidel words and the rearranging move: four proofs for one unit.
+## Sub lesson 62 — Grade 2 Unit 3 opens: Stories — ታሪክት (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 3 is ታሪክት (Stories). Its objectives: give an oral report (ቃላዊ ዘገባ) of a heard text's main idea; write the main idea of a read text; use the four punctuation marks in sentences; write four-fidel related words; and use ቃለ አጋኖ (quotation marks) and the question mark. The unit's story — the Rooster and the Fox — stands in Reading Stories; this opener frames how the unit listens to it, talks about it, mines its words, and checks it all at the end.
+## Sub lesson 63 — Listening to a story: who, where, what happened (teacher guide — evidence)
+
+This part is teacher-guide evidence: how the Grade 2 guide teaches listening to a story. Before listening, the pre-listening questions wake up what you already know. While listening, hold three things: the main idea, the characters (ገጸ ባሕርይ — who is in it), and the sequence — what happened first, next, last. After listening, retell the story in order, in your own words. Who, where, what happened: three hooks, and any story can be carried on them. Practise on the Rooster and the Fox: name the two characters, say where it happens, and retell its trick in order.
+## Sub lesson 64 — Unit 3 Check: Stories (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Stories unit check, the fullest check yet. Re-read አውራ ዶሮና ቀበሮ (The Rooster and the Fox). Show four-fidel words and antonyms (opposite words). Rearrange fidel to make new words, and turn plurals back into singulars. Read አዲስ አበባ (Addis Ababa). Write sentences using the four punctuation marks, the question mark and quotation marks. Six proofs in one check — the unit's whole toolkit, shown once, in order.
+## Sub lesson 65 — Grade 2 Unit 4 opens: The Vegetable Garden — የአትክልት ቦታ (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 4 is የአትክልት ቦታ (The Vegetable Garden) — as far as the secured file goes, since it ends inside this unit. Its objectives: give the meanings of words from a heard text; pick out the special, distinct idea in a text; tell ቃለ አጋኖ (quotation marks) from the question mark; and put the correct end punctuation on single sentences. The unit's heard text is Marta's Diary, stocked in this lesson; this opener is its map. The secured scan ends at printed p.34 inside this unit — the rest of Unit 4 and Units 5–10 are not in the file.
+## Sub lesson 66 — Grade 5 Unit 1 opens: Cleanliness — ንጽህናት (teacher guide — evidence)
+
+This part is teacher-guide evidence. Grade 5 Unit 1 is ንጽህናት (Cleanliness). Its objectives: reflect aloud on your attitudes to cleanliness after listening; state a text's gist after reading; write a one-paragraph piece with a partner about a shared moment; answer questions from a reading; give synonyms and antonyms; and pick out proper nouns (የተጻወጉ ስሞች). Its contents run: expressing what was heard, picking main ideas from silent reading, synonyms and antonyms, the paragraph's components, and common against proper nouns. The unit's tale, reading and word work stand in this course in their own parts; this opener is their frame — and note that the Grade 5 guide as a whole is listed for ABOUT in this build's log, since ABOUT's book list does not yet carry it.
+## Sub lesson 67 — Listening method: clear the hard words first (teacher guide — evidence)
+
+This part is teacher-guide evidence: a listening method, taught before the tale it introduces (the Reading Children tale stands in this lesson in its own part). Before listening, predict from the learner-book cover picture and the title, and answer orally. Then the guide's key move: the teacher writes the tale's blocking words on the board and the class explains their meanings FIRST — expressly so that unknown words do not become an obstacle that makes you miss what you hear. One question is read before the tale; listen for it and note key points; a few answer orally. During listening the teacher reads clearly, stopping at the marked points to ask the in-text questions. After: answers are compared in pairs, then corrected as a class. Inclusion stands here too: learners with hearing difficulty sit in the front seats and get support in other ways. Clear the words, then listen — the method is the lesson.
+## Sub lesson 68 — Grade 5 Unit 2 opens: Cleanliness and Hygiene — ጽዳትና ንጽህና (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 2 is ጽዳትና ንጽህና (Cleanliness and Hygiene). Its objectives: answer questions on what you hear; describe the actions people take to keep clean; read fluently at grade level; choose a topic and write a paragraph; discuss new content words; and build the structure (መዋቅር) of ምስላድ word-forms. Its contents: taking outline notes while listening, group discussion, fluent reading, paragraph writing, new-word discussion and word-formation. The unit's listening text and its nine-question reading stand in this course in their own parts; this opener is their frame.
+## Sub lesson 69 — Grade 5 Unit 3 opens: Habit and Custom — ልማድ (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 3 is ልማድ (Habit and Custom). Its objectives: listen to a story and retell it; read aloud keeping fitting intonation (ድምጽት — the voice's tune); distinguish paragraph types (የአንቀጽ አይነቶች); give words' contextual meanings; and pick out derived verb forms (ተወላክ ግሶች) inside sentences. Its heard text — the Dawro New Year, ዮክ ቤኤ — and its paragraph and verb work stand in this course in their own parts; this opener shows the unit climbing: from hearing a custom, to reading about it, to taking its writing apart.
+## Sub lesson 70 — Traffic Safety Check: four questions and a group pledge (teacher guide — evidence)
+
+This part is teacher-guide evidence — the last page of the secured Grade 5 guide file. After the taxi story (which stands in this lesson in its own part), the closing work runs: two comprehension tasks under አዳምጦ መረጃት (listening information); a set of four multiple-choice questions answered from the summary; then group discussion in groups of three to five — the discussion that ends in the friends' pledge to raise traffic-safety awareness, family first, then school, then community. The named aid is በድምጽ የተቀዳ ምንባብና ማጫወቻ መሳሪያ — the recorded reading and a playback device: the story can be heard again from a recording while the class checks itself. Four questions, one pledge, one recording: the unit closes by doing, together. The file ends here, mid-unit; nothing past printed p.42 is claimed.
+## Sub lesson 71 — Grade 6 Unit 1 opens: Cultural Dress — ባህላዊ አለባበስ (teacher guide — evidence)
+
+This part is teacher-guide evidence. Grade 6 Unit 1 is ባህላዊ አለባበስ (Cultural Dress). Its objectives: read at a fitting speed keeping intonation; build sentences following word order; give the meanings of complex words from the text; read words by joining them; and use punctuation (ስርዓተ ንባብ) properly. Its contents: expressing heard ideas, fluent reading, new words, paragraph writing, and common nouns (የወል ስም). The unit's dress listening — the three dresses — stands in this lesson in its own part; this opener is the frame the Grade 6 task guide draws around it. Note: the Grade 6 guide as a whole is listed for ABOUT in this build's log, since ABOUT's book list does not yet carry it.
+## Sub lesson 72 — Grade 6 Unit 2 opens: Famous Athletes — ታዋቂ አትሌቶች (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 2 is ታዋቂ አትሌቶች (Famous Athletes). Its objectives: pick out suffixes (ቅጥያዎች) inside words; build words by joining suffixes; state the main idea of varied readings; and read keeping intonation while grasping what the punctuation means. Its contents: note-taking from listening, joining and splitting words, paragraph composition, similar-meaning words, and common nouns. The unit's listening — the life of Abebe Bikila — stands in this lesson and in Life Stories in its own parts; this opener shows the unit's double heart: a hero's life to hear, and the suffix system to master.
 ## Say it to your companion
 
 Choose one story you heard. Retell it to your companion in

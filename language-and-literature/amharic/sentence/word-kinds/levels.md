@@ -63,3 +63,19 @@ Sub lesson 17 questions from the type files. Pass mark: classify three adverbs b
 ## Sub lesson 18 — Grade 8: words that describe nouns and verbs
 Sub lesson 18 questions from the type files. Pass mark: pick both modifiers out of three sentences and write one sentence with both.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 19 — Three-letter words: writing them, and nouns against verbs (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 20 — Common nouns and proper nouns — ወንዝ or አባይ? (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 21 — Proper or common? The big mixed chart (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 22 — Word classes at work in sentences — the Grade 10 guide (teacher guide — evidence)
+Sub lesson 22 questions from the type files. Pass mark: state the Chapter 5 outcome (show how a word's class changes in a sentence) and reproduce the Chapter 7 key in order (verb, adverb, verb, noun, adjective, verb, pronoun).

@@ -7,3 +7,6 @@ Say true or false.
 
 **2. (Sub lesson 10)** The people's cries in the passage take exclamation marks.
 **Answer: True**
+
+**3. (Sub lesson 13)** The Grade 9 guide explains the punctuation types from the student-book note.
+**Answer: True**

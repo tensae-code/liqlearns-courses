@@ -135,3 +135,13 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 16 — Grade 7: names of waters — the cloze of waters.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 17 — Split and Guess: መነጠልና ማገመር — Ethiopia's own word-attack strategy (teacher guide — evidence) (G6-U1-4, Grade 6 Amharic Teacher Guide, printed p. 6).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 18 — **The teaching principles (teacher guide — evidence)** — the Grade 7 guide's spine: pre-/during-/post-listening/reading tasks; predict, monitor, evaluate; expression grows on chances + timely feedback; working out a word's meaning from the text itself.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 19 — **Comparison and contrast, the Grade 10 guide (teacher guide — evidence)** — አመዛዛኝ አንቀጽ / ድርሰት on Twitter/Facebook, phone/internet, email vs post, Telebirr and mobile banking; internet research; invited local professionals.

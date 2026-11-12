@@ -60,6 +60,22 @@ And the last skill of this lesson is about **order**. Sometimes you hear a story
 
 Listen to the story's four beats: in the morning, the child is at home. Then — on the road. Then — at school. Then — the book is open, and reading begins. Now shuffle the strip in your mind and set it right: house, road, school, book. A story you can put in order is a story you understood.
 
+## Sub lesson 6 — Reading for the gist — Chapter 14's reading (teacher guide — evidence · SECOND-LANGUAGE)
+
+Chapter 14 — Types of Houses — carries a reading part beyond its house words, stocked here as labelled evidence in the guide's Chapter 14 lesson.
+
+**Read for the gist.** Learners read a text and state its **main idea (ፍሬ ሀሳብ)** — not every word, the fruit of the text: what it is *about*, in one breath.
+
+**Pictures that answer.** On printed p.155 the check is visual: learners answer **true/false from the pictures** — what the picture shows against what the text said.
+
+**Sentences, formed and finished.** The same part has learners **form sentences and complete sentences** — reading that turns back into making: gist taken in, sentences put out.
+
+## Sub lesson 7 — Time-indicating suffixes — Chapter 14's word work (teacher guide — evidence · SECOND-LANGUAGE)
+
+Chapter 14's second word-level part, stocked here as labelled evidence: **time-indicating suffixes (ጊዜ አመልካች ቅጥያዎች)**.
+
+Learners **add the time-indicating suffixes to words, following the model**, and **write them** — a suffix that tells *when*, attached the model's way, practised in writing. It is this course's first suffix family beyond the -ች gender change and the singular/plural work of the grammar block: suffixes that carry time, as those carried person and number.
+
 ## Say it to your companion
 
 Name your body parts while your companion points at them on the figure, then on you. Take Picture 8579: describe the scene while your companion points at each thing as you name it — if you name a thing that is not there, they catch you kindly. Finish by telling the strip's story (Picture 8589) aloud, picture by picture, in order.

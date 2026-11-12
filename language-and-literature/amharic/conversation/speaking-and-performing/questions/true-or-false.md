@@ -70,3 +70,21 @@ Say whether each sentence is true or false.
 
 **23. (Sub lesson 27)** His 'chaff of your door' verse is answered by 'be the fruit, and I'll taste you'.
 **Answer: True**
+
+**24. (Sub lesson 30)** In the Grade 8 guide's Chapter 3, groups present through their representatives as an informative speech (በመረጃ ሰጪ ንግግር መልክ).
+**Answer: True**
+
+**25. (Sub lesson 30)** The Grade 7 teacher guide carries its own help-note for running a debate and rules of debate presentation (የክርክር አቀራረብ).
+**Answer: True**
+
+**26. (Sub lesson 31)** In the industry speaking part, groups of five research industrial villages (የኢንዱስትሪ መንደሮች) and report in a speech.
+**Answer: True**
+
+**27. (Sub lesson 32)** The local-hero speech is about a person famous in the learner's own area for serving the country.
+**Answer: True**
+
+**28. (Sub lesson 33)** The observed-reality speeches are invented stories; learners must not use anything they have actually seen.
+**Answer: False — learners speak on behaviour and harms they have seen in their own neighbourhood or home**
+
+**29. (Sub lesson 34)** Conversation extenders are coached so that learners' speeches do not stay short.
+**Answer: True**

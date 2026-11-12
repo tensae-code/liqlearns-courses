@@ -66,3 +66,6 @@ Answer in a short sentence, from the poem or song.
 
 **22. (Sub lesson 25)** Name two warnings from the poem's close.
 **Answer:** Any two of: insulting the great, glaring at the neighbour, spending time in bad places, nagging parents, wasting time in jest.
+
+**23. (Sub lesson 26)** In which Grade 9 guide writing part does the sayings task stand, and what is that part's first task?
+**Answer:** Chapter 2's writing part; its first task is the descriptive essay about a famous woman (stocked in Writing Essays).

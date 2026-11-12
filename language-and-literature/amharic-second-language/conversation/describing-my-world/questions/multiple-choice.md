@@ -21,3 +21,11 @@ a) The apartment  b) The tukul  c) The corrugated-roof house
 **5. (Sub lesson 5)** In Picture 8579, the animal eating grass by the river is —
 a) A cow  b) A horse  c) A lion
 **Answer: a) A cow** — and the goat grazes on the other side of the path.
+
+**6. (Sub lesson 6)** ፍሬ ሀሳብ is —
+a) the main idea — the gist of a text  b) the last word of a text  c) a picture's frame
+**Answer: a) the main idea — the gist of a text**
+
+**7. (Sub lesson 7)** ጊዜ አመልካች ቅጥያዎች are —
+a) colour words  b) house names  c) time-indicating suffixes
+**Answer: c) time-indicating suffixes**

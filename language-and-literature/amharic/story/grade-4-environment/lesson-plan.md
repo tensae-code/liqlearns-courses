@@ -55,3 +55,8 @@ The lesson page. Paper and a pencil.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md — the Grade 4 Amharic Student Textbook, pupil-taught. This lesson was built in the 2026-11-12 Amharic fix build to stock the Grade 4 chapter placements the coverage audit found missing; it is one whole new lesson, built complete in one pass.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 6 — Grade 4 Unit 1 opens: Protecting the Environment — የአካባቢ ጥበቃ (teacher guide — evidence) (G4-U1-1, Grade 4 Amharic Teacher Guide, printed p. 1).
+- Sub lesson 7 — Unit 1 Check: Environment (teacher guide — evidence) (G4-U1-9, Grade 4 Amharic Teacher Guide, printed p. 13).

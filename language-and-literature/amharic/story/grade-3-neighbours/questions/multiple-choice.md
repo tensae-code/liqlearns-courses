@@ -61,3 +61,39 @@ a) ቅርብ  b) መጽሐፍ  c) ውኃ
 **15. (Sub lesson 5)** እነ- makes a plural by standing where?
 a) At the end  b) In front of names  c) In the middle
 **Answer: b) In front of names** — እነ- stands in front of names to make the plural.
+
+**16. (Sub lesson 6)** Unit 2 is —
+a) Neighbourliness — ጉርብትና  b) Use of Time  c) Work — ስራ
+**Answer: a) Neighbourliness — ጉርብትና** — ጉርብትና — neighbourliness.
+
+**17. (Sub lesson 6)** Among its objectives is giving —
+a) antonyms for words from a text  b) directions to the market  c) a weather report
+**Answer: a) antonyms for words from a text** — Antonyms from the text.
+
+**18. (Sub lesson 6)** Sentences in this unit are written using —
+a) punctuation  b) no marks at all  c) only capital letters
+**Answer: a) punctuation** — ስርዓተ ኅፁቦች — punctuation.
+
+**19. (Sub lesson 7)** The listening task's main purpose is to —
+a) measure how much was understood  b) fill time  c) test handwriting
+**Answer: a) measure how much was understood** — Measure understanding.
+
+**20. (Sub lesson 7)** The task links first to —
+a) learners' own experience  b) a foreign country  c) the market
+**Answer: a) learners' own experience** — Own experience first.
+
+**21. (Sub lesson 7)** The word task's second part builds —
+a) speaking skill on the same words  b) a crossword  c) a song
+**Answer: a) speaking skill on the same words** — የንግግር ክሂል — speaking items.
+
+**22. (Sub lesson 8)** The summary names which marks?
+a) Full stop, question mark and quotation  b) Only the colon  c) Only the slash
+**Answer: a) Full stop, question mark and quotation** — አራት ነጥብ, ጥያቄ ምልክት, ጥቅስ.
+
+**23. (Sub lesson 8)** Compound words in this unit were —
+a) ignored  b) picked out and commented on  c) only counted
+**Answer: b) picked out and commented on** — Picked out and commented.
+
+**24. (Sub lesson 8)** The verification bullets mirror —
+a) the four objectives  b) the contents page  c) another book
+**Answer: a) the four objectives** — The four objectives.

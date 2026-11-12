@@ -81,3 +81,18 @@ of a direct, dictionary meaning.
 
 **25. (Sub lesson 28)** እንክብካቤ means care — the tending whose absence the story mourns.
 **Answer: True**
+
+**26. (Sub lesson 36)** ተዘውታሪ means a common, frequently met word.
+**Answer: True**
+
+**27. (Sub lesson 37)** In the Grade 8 guide, the Chapter 2 vocabulary assessment checks contextual-meaning giving and correct matching.
+**Answer: True**
+
+**28. (Sub lesson 38)** In the Chapter 4 keyed glosses, አዳጋች means 'easy to control'.
+**Answer: False — it means hard to control**
+
+**29. (Sub lesson 39)** The Chapter 9 glosses are keyed from the «እናቲቱ» story's own words.
+**Answer: True**
+
+**30. (Sub lesson 40)** The Grade 10 guide's first chapter already teaches direct (dictionary) meaning beside contextual meaning.
+**Answer: True**

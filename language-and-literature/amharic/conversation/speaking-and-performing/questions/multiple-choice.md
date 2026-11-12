@@ -138,3 +138,47 @@ a) every topic  b) its brief — the peace ambassador speaks peace  c) no topic
 **34. (Sub lesson 27)** In the exchange, each of her verses —
 a) repeats his  b) answers his image and turns it  c) changes the subject
 **Answer: b) answers his image and turns it** — chaff becomes fruit; the wound becomes an invitation — each answer turns the image offered.
+
+**35. (Sub lesson 28)** ግብረ መልስ means —
+a) a riddle  b) feedback  c) a timetable
+**Answer: b) feedback** — Feedback.
+
+**36. (Sub lesson 28)** In this talk, the teacher —
+a) only listens silently  b) checks the questions, corrects, and gives feedback  c) reads a new story
+**Answer: b) checks the questions, corrects, and gives feedback** — Check, correct, feedback.
+
+**37. (Sub lesson 28)** A full answer to a story question is given —
+a) in one word  b) in a full sentence  c) by pointing only
+**Answer: b) in a full sentence** — Answer in a full sentence.
+
+**38. (Sub lesson 29)** Marta's Diary is retold —
+a) in your own words, in its order  b) backwards  c) by copying it
+**Answer: a) in your own words, in its order** — Own words, in order.
+
+**39. (Sub lesson 29)** Marta's father took her to —
+a) a market only  b) Hamle 19 Park — a special green place  c) the airport
+**Answer: b) Hamle 19 Park — a special green place** — To Hamle 19 Park.
+
+**40. (Sub lesson 29)** New words from the diary are practised —
+a) in sentences about real places  b) by silence  c) by tearing the page
+**Answer: a) in sentences about real places** — In your own sentences.
+
+**41. (Sub lesson 30)** The Grade 7 guide's speaking note tells the teacher to give special attention to —
+a) speaking speed  b) word choice (ለቃላት ምርጫ ልዩ ትኩረት)  c) loudness
+**Answer: b) word choice (ለቃላት ምርጫ ልዩ ትኩረት)**
+
+**42. (Sub lesson 31)** The Grade 9 guide's homework variant of the successful-women speech is a speech about —
+a) a chosen woman athlete  b) a famous general  c) a market trader
+**Answer: a) a chosen woman athlete**
+
+**43. (Sub lesson 32)** A Grade 9 guide discussion group of five appoints —
+a) five speakers and no officers  b) a chair and four discussants  c) a chair, a secretary and three discussants
+**Answer: c) a chair, a secretary and three discussants**
+
+**44. (Sub lesson 33)** The hospital role-play «ወደ ሆስፒታል መሄድ» is performed in groups of —
+a) two  b) five  c) the whole class at once
+**Answer: b) five**
+
+**45. (Sub lesson 34)** Which of these is one of the guide's quoted conversation extenders?
+a) «ከዚያስ?» — and then?  b) «ዝም በል» — be quiet  c) «አልቅሷል» — it is finished
+**Answer: a) «ከዚያስ?» — and then?**

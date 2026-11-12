@@ -77,6 +77,14 @@ idea first, then the sentences that carry it.
 
 Grade 7's writing in its first chapter: write ONE paragraph on a chosen topic — my garden plot, my classroom, the neighbourhood I grew up in, my birthday, my friends, a football field — then find and correct the writing errors in it. The order is the teaching: a paragraph is first composed whole, on one topic, and only then corrected. Correction is a second reading with a different eye — the composing eye asks 'is it said?'; the correcting eye asks 'is it right?' The same two-pass work is asked in Descriptive Paragraphs, whose sources now carry this page too.
 
+## Sub lesson 5 — The paragraph, finished and friend-checked — the Addis guides' writing parts (teacher guide — evidence)
+
+Two paragraph parts from the Addis guides, stocked as labelled evidence beside this lesson's student-book paragraphs — including the half that stood nowhere in the course before.
+
+**The paragraph, and a friend's eyes (Grade 7 guide).** Learners write a paragraph (አንቀጽ) **following the given instruction**, and the assessment verifies the paragraph was written per the instruction. Then comes Task 2: learners **exchange notebooks with a classmate and work on each other's paragraph** — peer review, in the guide's own task, at Grade 7: your paragraph is read by the reader it was written for, and you read theirs with the same care.
+
+**Completing the unfinished paragraph (Grade 8 guide).** The student book leaves a paragraph **begun but not finished**; the writing part is to **complete its idea** — take another writer's opening and carry it to its end without breaking its thread. The starter paragraphs this lesson teaches stand under Grade 3/4 student-book citations; this is the Grade 8 guide's own page for the same named work.
+
 ## Say it to your companion
 
 Read your companion the paragraph you grew. Your companion must

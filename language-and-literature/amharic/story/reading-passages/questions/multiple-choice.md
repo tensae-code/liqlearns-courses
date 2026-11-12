@@ -256,3 +256,55 @@ a) 12 gates  b) 5 gates and over 359 lanes  c) one gate
 **64. (Sub lesson 34)** The Afar rift is presented as —
 a) a finished crack  b) continental drift still happening  c) a river valley only
 **Answer: b) continental drift still happening** — the same splitting that opened the Atlantic is still happening in Afar.
+
+**65. (Sub lesson 35)** The reading's title is —
+a) ንጽህ መሆን — Being Clean  b) ዮክ ቤኤ  c) አባማው ግቢ
+**Answer: a) ንጽህ መሆን — Being Clean** — ንጽህ መሆን.
+
+**66. (Sub lesson 35)** The true/false key begins —
+a) 1. እውነት 2. ሀስት  b) 1. ሀስት 2. ሀስት  c) there is no key
+**Answer: a) 1. እውነት 2. ሀስት** — 1 true, 2 false…
+
+**67. (Sub lesson 35)** The core skill here is separating —
+a) main idea from detail  b) fact from song  c) title from author
+**Answer: a) main idea from detail** — Main idea vs detail.
+
+**68. (Sub lesson 36)** The key holds —
+a) nine answers  b) four answers  c) no answers
+**Answer: a) nine answers** — Nine MCQ answers.
+
+**69. (Sub lesson 36)** A blind learner uses —
+a) nothing  b) a Braille copy of the book, if one exists  c) another pupil's notes only
+**Answer: b) a Braille copy of the book, if one exists** — Braille copy if it exists.
+
+**70. (Sub lesson 36)** The reading approach runs —
+a) after only  b) before, during, after  c) during only
+**Answer: b) before, during, after** — Three stages.
+
+**71. (Sub lesson 37)** Errors during turn-reading are —
+a) hidden  b) recorded on the board  c) punished
+**Answer: b) recorded on the board** — On the board — the worklist.
+
+**72. (Sub lesson 37)** Difficult words are —
+a) skipped  b) separated out, meanings guessed from the passage  c) looked up only in English
+**Answer: b) separated out, meanings guessed from the passage** — Separated and guessed.
+
+**73. (Sub lesson 37)** The re-read is —
+a) untimed  b) timed — beat the clock  c) read once only
+**Answer: b) timed — beat the clock** — Timed re-read.
+
+**74. (Sub lesson 38)** The Grade 7 guide's big reading chart shows —
+a) the sequence of events (የሁነቶችን ቅደም ተከተል)  b) the class timetable  c) the fidel in order
+**Answer: a) the sequence of events (የሁነቶችን ቅደም ተከተል)**
+
+**75. (Sub lesson 39)** The Grade 9 guide's keyed point for the sustainable-development reading is —
+a) science is making, technology is knowing  b) science and technology are the same thing  c) science is knowing, technology is making/applying
+**Answer: c) science is knowing, technology is making/applying**
+
+**76. (Sub lesson 40)** In the degraded-area sorting task, terracing and digging planting pits count as —
+a) a result of development  b) preparation for planting  c) a cause of degradation
+**Answer: b) preparation for planting**
+
+**77. (Sub lesson 41)** The Grade 10 guide's technology reading names —
+a) biotechnology, information technology and artificial intelligence (ሰው-ሰራሽ አእምሮ)  b) only farming tools  c) only radio and television
+**Answer: a) biotechnology, information technology and artificial intelligence (ሰው-ሰራሽ አእምሮ)**

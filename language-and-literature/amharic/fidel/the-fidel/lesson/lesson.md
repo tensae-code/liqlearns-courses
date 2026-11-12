@@ -283,6 +283,9 @@ Now the chart is truly complete: the thirty-three families, the -ዋ forms, and 
   fidel, then read the review sentences: ከበሮ ተመታ። ኩኩ ሻሽ
   አሠረች።
 
+## Sub lesson 11 — The በ family and sounds at the start of words — guide drills (teacher guide — evidence)
+
+This part is teacher-guide evidence: the guide's drills for the በ family and for first sounds. A changing letter such as በ is shown inside words, and you listen for which word begins with the በ sound — the guide's answers are በር and በስ. Then first sounds: ቃባ begins with the ቀ sound, and ናቅ's first sound is picked out the same way. Clap and count the sounds in a word as you say it. The በ family itself is taught from the student books in this lesson; these drills are the guide's own practice for hearing where a word starts.
 ## Say it to your companion
 
 Read one whole family aloud to your companion — all seven forms, in order, no stopping. Then give a word for three of its forms. Then build a word from loose fidel while your companion watches, and let your companion read your word aloud. Swap: your companion builds, you read.

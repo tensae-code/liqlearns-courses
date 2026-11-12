@@ -256,6 +256,24 @@ Three conversion tasks of one family. Grade 7 (p.103): convert 10 statements int
 
 Two repairing grammars. Agreement (p.46): correct the agreement and grammar errors in given sentences — subject–verb number agreement, possessives, word choice — and rewrite them clean; the patriots talk shares the page. Word order (pp.50–51): correct scrambled word order in sentences — Amharic order is subject … object … verb, and a scrambled sentence is repaired by returning each part to its place, as Grade 7's copula lesson also practises (ናቸው እነዚህ በሬዎች → እነዚህ በሬዎች ናቸው). An error is found by reading the sentence against the rule it breaks; name the rule aloud before you mend.
 
+## Sub lesson 22 — Simple and complex sentences, and the punctuation kinds — the federal guides' pages (teacher guide — evidence)
+
+Three guide parts for work this lesson already teaches, stocked as labelled evidence so each guide's own page stands cited.
+
+**Simple and complex sentences — Grade 9 guide (Chapter 7).** ተራና ውስብስብ አረፍተ ነገሮች: learners **classify 10 sentences** as simple or complex, against the guide's key. (The descriptive-essay task printed inside the same part is stocked in Writing Essays.)
+
+**Complex sentences — Grade 10 guide (Chapter 6).** ውስብስብ አረፍተ ነገሮች worked three ways: **combine** given simple sentences into complex ones, **pick** complex sentences out of a paragraph, **create** their own.
+
+**The punctuation kinds — Grade 9 guide (Chapter 7 writing part).** The **punctuation types (የስርዓተ ነጥብ ዓይነቶች)** are explained from the student-book note, after the exercise in explaining concepts and phrases in one's own words. The kinds themselves stand in this lesson and in More Punctuation under student-book and Grade 6 guide citations; this page is the Grade 9 guide's own note for them.
+
+## Sub lesson 23 — Phrases — pick them out and build sentences from them: the Grade 10 guide (teacher guide — evidence)
+
+The Grade 10 guide's Chapter 5 grammar part is one clean move, stocked as labelled evidence: the **phrase (ሐረግ)**.
+
+Learners **pick phrases out** of standing text — finding the word-groups that hang together — and then **build complete sentences from them**: the phrase is the brick, the sentence the wall. Chapter 5's materials line up behind the work: short and long fiction, poems, articles, research articles — real text to quarry phrases from.
+
+This lesson's verb phrase (ማሰሪያ አንቀጽ) stands under other citations; the general phrase work — pick out, then build — is this guide's page, kept with its own citation.
+
 ## Say it to your companion
 
 Tell your companion: a sentence carries one complete idea, and it ends with ።, ? or !. Then take two short sentences of your own and join them with ስለ, the way the dialogue joins 1ኛ መወጣት እፈልጋለሁ and ሁልጊዜ አጠናለሁ. Your companion counts the verbs in your joined sentence: if there are two or more, they say "ውስብስብ!"

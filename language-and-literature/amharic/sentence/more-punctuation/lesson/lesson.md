@@ -118,6 +118,18 @@ Four Grade 7 punctuation tasks. Naming (p.16): identify the punctuation marks in
 
 Choose from the punctuation marks — quotation marks, !, ፤, ?, ፣ — and insert them into a passage: the fable of the father, son and donkey. A man sets out with his son and their donkey. People criticise them for walking while a donkey exists; both ride — people call them cruel to one donkey. The father walks and the son rides — people criticise the boy: 'the eighth wonder'. The son walks and the father rides — people beat their breasts at the cruelty. The father concludes: 'In this world, whatever you do, you cannot please everyone; if you fear what people will say, you can do nothing.' Punctuating it, you decide where the people's cries are exclamations, where the father's speech opens and closes, and where his conclusion's two halves are joined — the marks carry the fable's voices.
 
+## Sub lesson 11 — Dictation words and the question mark (teacher guide — evidence)
+
+This part is teacher-guide evidence, in two halves. Dictation: write the unit's words from the teacher's voice alone — ኤረራጠ, አሚላ, ፋፍቲ, ትምህርት, እጆ (as printed). Listen to the whole word, say it, then write it; dictation proves your ear and your hand agree. Punctuation: the question mark (?) ends a question — the guide teaches it inside dialogue ('ተማሪዎች እንደምን አይረችሁ?' — how are you, pupils?). Write your own spoken questions and close each one with ?. The question mark itself is also taught from a pre-primary workbook in First Punctuation; this part is the Grade 2 guide's own dictation list and dialogue practice, standing as evidence beside it.
+## Sub lesson 12 — Punctuation marks and their names (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 3 guide's punctuation lesson (ስርዓተ ኅፁቦች). The teacher explains what punctuation is and what each mark is for, from the learner-book note, adding their own explanation and examples — and writes the marks AND their names on the board (ስይዳው), so eye and ear learn each mark together. Then learners do the «ሀ» and «ለ» tasks, and the teacher checks that every mark sits in its right place inside the sentences. A mark you can name is a mark you can place: name it, place it, check it. Punctuation is taught from other books in this lesson's earlier parts; this part is the Grade 3 guide's own naming lesson, standing as evidence.
+## Sub lesson 13 — The punctuation kinds named — the Grade 9 guide's note (teacher guide — evidence)
+
+The punctuation kinds taught in this lesson stand under Grade 5/6 student-book and Grade 6 guide citations. The Grade 9 guide carries its own note for the same named set, and it is stocked here as labelled evidence.
+
+In its Chapter 7 writing part — the part on explaining concepts and phrases in one's own words — the guide has the **punctuation types (የስርዓተ ነጥብ ዓይነቶች) explained from the student-book note**, after the exercise. The kinds are the ones this lesson teaches; what this page adds is the federal guide's own explanation point for them, at its own page, so a learner who meets the kinds here can trace them to the Grade 9 classroom as well.
+
 ## Say it to your companion
 
 Read the seven feelings' cries from Picture 8728 aloud, one by one, and let your companion name each feeling before you say it. Then take a sentence your companion says and repeat it back inside quotation marks — their exact words, no changes. Finish by reading a sentence with a parenthesis in it: lower your voice for the aside inside the ቅንፍ, the way a sentence whispers.

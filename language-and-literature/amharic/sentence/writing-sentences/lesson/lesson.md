@@ -106,6 +106,30 @@ Unscramble five jumbled sentences into their correct order. The punctuation half
 Dictation: write the teacher's read-aloud sentences with correct punctuation while listening. Dictation stands in sub lesson 2 of this lesson from earlier books; this setting of it — sentences heard and written whole, marks and all — is the Grade 6 book's own, at its own pages. (The news item that rides with it stands in the Summary and News lesson.)
 
 
+## Sub lesson 6 — Writing two-letter words (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 1 writing strand. Two fidel join to make a two-letter word — the guide works joins of the በ+ቀ kind and sets words such as በር and በስ (and ቀዲ, as printed) in rows. Write each word on the line, in a row, keeping each fidel's shape clear and sitting on the line. Then read your row back aloud: a written word you can read is a word you own. The teacher checks letter formation on the line — shape first, speed later.
+## Sub lesson 7 — Writing ጠ, መ and ረ, and two-letter words (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Unit 2 writing strand. First copy the fidel row itself — ጠ መ ረ — each shape clear and on the line. Then build two-letter words from the unit's fidel, in the guide's patterns: ጠባ, መባ, ረዳ (as printed). Write each word in a row, then read the row back. Copying the single fidel first is not wasted time: a two-letter word is only as readable as the fidel inside it.
+## Sub lesson 8 — Repairing disordered sentences — the Grade 9 guide's two keys (teacher guide — evidence)
+
+This lesson's word-order repair stands under student-book citations. The Grade 9 guide sets the same work twice, with full keys, and its pages are stocked here as labelled evidence.
+
+**Chapter 4 (Epidemics).** Correcting disordered sentences: **word-order errors** and **agreement errors** — a subject and verb phrase mismatched in **number, gender or person**, and **misplaced connectors and prepositions** — scramble a sentence's message. The guide supplies **nine corrected model sentences**: the repair is learned against the guide's own fixed versions, not against taste.
+
+**Chapter 5 (Inclusiveness).** Word order in the sentence (የቃላት አገባብ) again: words out of their permitted place **distort structure and can change meaning**; learners **re-place the misplaced words**, with **nine corrected model sentences** supplied again.
+
+The nine sentences themselves belong to the student book and are not reproduced; what is stocked is the guide's error map and its keyed-repair method, twice over.
+
+## Sub lesson 9 — Sentences that obey the rules — the Grade 10 guide's correction set and its named grammar (teacher guide — evidence)
+
+Two Grade 10 guide grammar parts, stocked as labelled evidence.
+
+**The rules a sentence must obey (Chapter 3).** The guide states the grammatical rules a sentence must obey, then sets **six sentences for correction** (printed p.30) — ungrammatical sentences the learners must put right. Rules first, then the repair bench.
+
+**Building grammatically coherent sentences (Chapter 10).** The year's closing grammar: form **complete sentences whose grammatical combination is fulfilled (ሰዋስዋዊ ቅንጅት)**. The guide's appendix names the chapter's grammar plainly: keeping **subject–verb agreement (የስምና ግስ ስምምነት)** and strengthening sentence-building cohesion. Agreement is not a by-product here — it is this guide's named grammar for the chapter, and it is stocked under its own name.
+
 ## Say it to your companion
 
 Read your companion the sentence you built in Sub lesson 1. Your

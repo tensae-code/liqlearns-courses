@@ -10,3 +10,6 @@ Say true or false, and why.
 
 **3. (Sub lesson 7)** The p.31 work writes sentences in past, present and future time.
 **Answer: True**
+
+**4. (Sub lesson 10)** The Grade 8 guide's tense note names the past tense የኅላፊ ጊዜ, as printed.
+**Answer: True**

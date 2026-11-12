@@ -16,3 +16,9 @@ Sub lesson 4 questions from the type files. Pass mark: answer the sub lesson's q
 
 ## Sub lesson 5 — Writing for mothers, and review
 Sub lesson 5 questions from the type files. Pass mark: answer the sub lesson's questions from the lesson's own texts and word sets, and do its writing task in full sentences with correct punctuation.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 6 — Grade 4 Unit 4 opens: Gender — ስርዓተ ያታ (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

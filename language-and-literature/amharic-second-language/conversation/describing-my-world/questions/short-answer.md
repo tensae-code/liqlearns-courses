@@ -16,3 +16,9 @@ Answer out loud, pointing as you speak.
 
 **5. (Sub lesson 5)** Describe Picture 8579: name five things in it, then say one whole sentence about it.
 **Answer: any five of — the big tree, the small house, the river, the cow, the goat, the two children, the path — plus one true sentence** (e.g. "The children are walking on the path"), the describing chapter's work (አካባቢን መግለጽ).
+
+**6. (Sub lesson 6)** Besides stating the gist, what sentence work does Chapter 14's reading part set?
+**Answer:** Forming sentences and completing sentences.
+
+**7. (Sub lesson 7)** Which two suffix works of this course stand before the time-indicating suffixes?
+**Answer:** The -ች gender change (መጣ → መጣች) and singular/plural conversion, from the guide's grammar block.

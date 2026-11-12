@@ -16,6 +16,12 @@ countries: Ethiopia
 
 **Book 7:** *Amharic Student Textbook, Grade 8* (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ ምህረቴ, አምባው ደምሴ ቀኜ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 176 PDF pp., printed pp. 1–164. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
 
+**Book 8:** *Grade 7 Amharic Teacher Guide* (አማርኛ እንደ መጀመሪያ ቋንቋ, የመምህር መምሪያ, ፯ኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 7. Read page by page in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g07-teacher-placements.md. The secured file holds printed pp.1–46 only (Chapters 1–3 complete, Chapter 4 cut off) — nothing past printed p.46 is cited anywhere in this lesson.
+
+
+**Book 9:** *Grade 8 Amharic Teacher Guide* (አማርኛ እንደ መጀመሪያ ቋንቋ, የመምህር መምሪያ መጽሐፍ, ፰ኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau. Page rule: printed page = PDF page − 5. Read page by page in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-teacher-placements.md. The secured file holds printed pp.1–38 only (Chapters 1–3 complete, Chapter 4 cut off inside the listening part) — nothing past printed p.38 is cited anywhere in this lesson.
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — plural form -ኦች: ቀሚስ → ቀሚሶች | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.4 |
@@ -36,6 +42,8 @@ countries: Ethiopia
 | Sub lesson 5 — plurals at the instruments review (ክራር→ክራሮች…) (fix build: pp.85–86 were omitted before; placement G2 #77) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.85–86 |
 
 | Sub lesson 7 — grammar — singular/plural sets, Iddir chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 35–36 |
+| Sub lesson 8 — singular and plural number (ነጠላና ብዙ ቁጥር), the guide's own page (teacher guide — evidence): a chart showing singular and plural as material; assessment verifies learners can distinguish them. The lesson's parts stand under Grade 2/4 student-book, Grade 2/3 guide and Grade 9 federal-guide citations; this row adds the Grade 7 guide's own page | Ethiopia, *Grade 7 Amharic Teacher Guide*, printed p.38 (placement 20) |
+| Sub lesson 8 — singular and plural in sentences, the guide's own page (teacher guide — evidence): use the singular/plural markers correctly inside sentences; assessment checks correct use of ነጠላ / ብዙ ቁጥር. Same citations note as the row above; this row adds the Grade 8 guide's own page | Ethiopia, *Grade 8 Amharic Teacher Guide*, printed p.33 (placement 17) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The stripping key and the definition box rest on teacher-guide evidence (Grade 2 TG p.22; Grade 3 TG p.10); plural-making itself is pupil-taught in the Grade 2 and Grade 4 student books, so the lesson's acceptance count stands at 1 country. (2) Both teacher guides' secured files are truncated (Grade 2 at printed p.34, Grade 3 at printed p.31); every part used here sits inside the read spans. The Grade 2 guide's title-page names are partially legible in the scan, as the placements record; the book is cited by its cover identity. (3) The -ኣት plural family (አባል → አባላት) appears in the Grade 3 student book (p.21) but is not taught in this lesson — the brief for this lesson names -ኦች, -ዎች and the -አች stripping key only; -ኣት belongs to the wider suffix work and is not silently folded in. (4) No hardness numbers are written anywhere in this lesson — the books give none.

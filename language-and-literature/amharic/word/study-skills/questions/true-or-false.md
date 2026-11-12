@@ -40,3 +40,9 @@ Say whether each sentence is true or false.
 
 **13. (Sub lesson 16)** A ጉድጓድ (well) is dug; a ምንጭ (spring) rises by itself.
 **Answer: True**
+
+**14. (Sub lesson 18)** In the Grade 7 guide's principles, learners are taught to work out a word's meaning from the text itself.
+**Answer: True**
+
+**15. (Sub lesson 19)** አመዛዛኝ ድርሰት is the guide's term for the comparison/contrast essay.
+**Answer: True**

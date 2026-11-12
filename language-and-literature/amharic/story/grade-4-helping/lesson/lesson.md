@@ -50,6 +50,12 @@ Match stems to suffixes and write the joined words: **ሀብት -ኣማ**, **ጤ
 
 In pairs, complete a paragraph on **ስደት** — migration: leaving family and area for a foreign country. Write truly: what is left, what is hoped for, what it costs.
 
+## Sub lesson 6 — Grade 4 Unit 3 opens: Mutual Help — መረዳዳት (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 3 is መረዳዳት (Mutual Help). Its objectives include answering from listening, retelling the reading's content, and writing sentences using suffixes (ቅጥያዎች) — grammar now aims at word endings. Its contents: the listening text እህትማማችች (Siblings), the reading የመረዳዳት ጥግ (The Worth of Mutual Help), fluency work, and ቅጥያዎች. The siblings story and the fluency trio stand in this course in their own parts; this opener shows the unit's turn: from joining sentences to building words with endings.
+## Sub lesson 7 — Unit 3 Check: Mutual Help (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Unit 3 summary page. Learners retold the siblings story; read fluently by the trio — accuracy, speed, expression; split words into prefix, stem and suffix; built the ቤት forms (ቤትህ, ቤትሽ, ቤቴ, ቤታችን); and found conjunctions at work in a paragraph. Five proofs. If the paragraph hunt is the hardest, revisit the joining-words part in this course — the check expects you to find እና, ስለሆነም, ነገር ግን and ስለዚህ where they really stand, not where a list puts them.
 ## Say it to your companion
 
 Tell your companion the chapter word — **መረዳዳት** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

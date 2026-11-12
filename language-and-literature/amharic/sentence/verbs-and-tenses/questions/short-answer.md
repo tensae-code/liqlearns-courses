@@ -10,3 +10,6 @@ Answer in a few words.
 
 **3. (Sub lesson 7)** Name three verbs of the pp.13–14 person work.
 **Answer:** Any three of: ከፈተ, መከረ, ፈለገ, ወደቀ, ዘፈነ, ከበረ.
+
+**4. (Sub lesson 10)** What two things does the Grade 8 guide have learners do with present-tense verbs (የአሁን ጊዜ ግስ)?
+**Answer:** Identify sentences containing them, and form sentences using them.

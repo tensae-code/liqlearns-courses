@@ -57,3 +57,63 @@ a) Where cars park  b) Where pedestrians cross — black-and-white lines  c) A b
 **14. (Sub lesson 5)** Red, yellow and green on Ethiopia's flag are also…?
 a) Traffic colours only  b) Colours the colour web compares with the traffic light  c) Unrelated to the web
 **Answer: b) Colours the colour web compares with the traffic light** — The colour web sets the light's meanings beside the flag's.
+
+**15. (Sub lesson 6)** During-reading answers are given —
+a) copied from the page  b) in your own words  c) by the teacher only
+**Answer: b) in your own words** — In your own words.
+
+**16. (Sub lesson 6)** Paragraphs are read aloud —
+a) by one pupil all unit  b) to classmates, in turns  c) never
+**Answer: b) to classmates, in turns** — In turns.
+
+**17. (Sub lesson 6)** This part invents a plot for the reading —
+a) yes, freely  b) no — it teaches the method the placement gives  c) it copies another story
+**Answer: b) no — it teaches the method the placement gives** — No plot invented.
+
+**18. (Sub lesson 7)** Group 2's question asks about —
+a) causes of traffic accidents  b) types of clothes  c) river names
+**Answer: a) causes of traffic accidents** — Accident causes.
+
+**19. (Sub lesson 7)** Group 4 lists —
+a) pedestrian road-use rules  b) shopping rules  c) school songs
+**Answer: a) pedestrian road-use rules** — Pedestrian rules.
+
+**20. (Sub lesson 7)** After each talk, the other groups —
+a) leave  b) comment, and the teacher gives feedback  c) start singing
+**Answer: b) comment, and the teacher gives feedback** — Comment + feedback.
+
+**21. (Sub lesson 8)** Blind learners join fluency work by —
+a) sitting out  b) listening to a teacher-recorded reading on earphones  c) only hearing it once
+**Answer: b) listening to a teacher-recorded reading on earphones** — Recorded audio + earphones.
+
+**22. (Sub lesson 8)** ኢርፎን are —
+a) earphones  b) spectacles  c) gloves
+**Answer: a) earphones** — Earphones.
+
+**23. (Sub lesson 8)** The recorded reading can be re-listened to —
+a) never  b) at the learner's own pace, until fluent  c) only once a year
+**Answer: b) at the learner's own pace, until fluent** — Re-listen until fluent.
+
+**24. (Sub lesson 9)** The check includes working —
+a) a fidel crossword  b) a loom  c) a plough
+**Answer: a) a fidel crossword** — The fidel crossword.
+
+**25. (Sub lesson 9)** Fluency in the summary is noted with —
+a) recorded-audio support where needed  b) no support ever  c) a translator
+**Answer: a) recorded-audio support where needed** — Recorded-audio support.
+
+**26. (Sub lesson 9)** Words' meanings given here are —
+a) dictionary only  b) contextual meanings  c) guessed
+**Answer: b) contextual meanings** — Contextual meanings.
+
+**27. (Sub lesson 10)** The reading opens with —
+a) a spelling test  b) pre-reading picture questions  c) dictation
+**Answer: b) pre-reading picture questions** — Picture questions first.
+
+**28. (Sub lesson 10)** Fluent readers are used as —
+a) judges  b) models for the class  c) timekeepers only
+**Answer: b) models for the class** — Models.
+
+**29. (Sub lesson 10)** This page is —
+a) the file's last page, printed p.42  b) the contents page  c) from Unit 10
+**Answer: a) the file's last page, printed p.42** — Printed p.42 — the file ends here.

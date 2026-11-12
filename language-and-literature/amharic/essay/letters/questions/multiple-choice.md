@@ -46,3 +46,11 @@ a) Office abbreviation, subject code, file number, year  b) Year only  c) Subjec
 **11. (Sub lesson 9)** A greeting letter's parts, in order, are —
 a) body, date, signature  b) date and sender, greeting part, body part, closing part, signature  c) subject, body, stamp
 **Answer: b) date and sender, greeting part, body part, closing part, signature** — the model's order: heading, greeting, body, closing, signature.
+
+**12. (Sub lesson 10)** Informal writing (ኢ-መደበኛ ጽሁፍ) is taught in the Grade 7 guide from —
+a) a model informal paragraph  b) an official letterhead  c) a reference number
+**Answer: a) a model informal paragraph**
+
+**13. (Sub lesson 11)** The Grade 10 guide's writing part pairs letters with —
+a) a dictation exercise  b) writing a person's life history (የሕይወት ታሪክ)  c) a poem recitation
+**Answer: b) writing a person's life history (የሕይወት ታሪክ)**

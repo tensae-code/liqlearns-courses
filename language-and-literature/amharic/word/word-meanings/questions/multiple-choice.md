@@ -151,3 +151,107 @@ a) a painter  b) a mosaic — a picture built from coloured pieces  c) a stamp
 **35. (Sub lesson 28)** የደም እንባ — 'tears of blood' — means —
 a) joy  b) grief so deep it is figured as blood  c) anger
 **Answer: b) grief so deep it is figured as blood** — the journey story's grief vocabulary: tears figured as blood.
+
+**36. (Sub lesson 29)** The first keyed answer is —
+a) ብስል  b) በቀለ  c) ዴለበ
+**Answer: b) በቀለ** — Key order: በቀለ first.
+
+**37. (Sub lesson 29)** How many answers does this key give?
+a) Three  b) Five  c) Nine
+**Answer: b) Five** — Five answers.
+
+**38. (Sub lesson 29)** A printed key is used to —
+a) copy before trying  b) check your own try against it  c) replace the text
+**Answer: b) check your own try against it** — Try first, then check against the key.
+
+**39. (Sub lesson 30)** The blended-word answers come from —
+a) the Fox story  b) a clothes text  c) a song
+**Answer: a) the Fox story** — From the story's own words.
+
+**40. (Sub lesson 30)** ቀበሮው is built on —
+a) ዶሮ (rooster)  b) ቀበሮ (fox)  c) በሬ (ox)
+**Answer: b) ቀበሮ (fox)** — ቀበሮ — the fox.
+
+**41. (Sub lesson 30)** Meanings in this part are found —
+a) from the text first  b) from colours  c) from page numbers
+**Answer: a) from the text first** — Text first, example-led.
+
+**42. (Sub lesson 31)** The word pairs come from —
+a) Marta's Diary  b) the Fox story  c) a poem
+**Answer: a) Marta's Diary** — From the diary text.
+
+**43. (Sub lesson 31)** The picture-matching key begins —
+a) 1. ሐ 2. ሀ  b) 1. ለ 2. ለ  c) there is no key
+**Answer: a) 1. ሐ 2. ሀ** — 1. ሐ 2. ሀ 3. መ 4. ሠ 5. ለ.
+
+**44. (Sub lesson 31)** Blind learners in this task —
+a) are excused  b) use adapted styles  c) watch only
+**Answer: b) use adapted styles** — Adapted styles.
+
+**45. (Sub lesson 32)** How many answer sets does this part carry?
+a) One  b) Three — antonym/synonym, context/fill, synonym-fill  c) None
+**Answer: b) Three — antonym/synonym, context/fill, synonym-fill** — Three keyed sets.
+
+**46. (Sub lesson 32)** መስዋዕት in the keys connects to —
+a) sacrifice — the mother's own story word  b) a market price  c) a season
+**Answer: a) sacrifice — the mother's own story word** — መስዋዕት — sacrifice.
+
+**47. (Sub lesson 32)** Keys are used —
+a) before trying  b) after doing the tasks, to mark against  c) instead of the tale
+**Answer: b) after doing the tasks, to mark against** — Do first, then mark.
+
+**48. (Sub lesson 33)** ዓውዳዊ ፍቺ is —
+a) meaning from the sentence around the word  b) dictionary meaning only  c) a word's spelling
+**Answer: a) meaning from the sentence around the word** — Contextual meaning.
+
+**49. (Sub lesson 33)** The named teaching aid is —
+a) flash cards  b) a globe  c) a drum
+**Answer: a) flash cards** — Flash cards.
+
+**50. (Sub lesson 33)** Task 1's key runs —
+a) 1. ሀ 2. መ 3. ሀ 4. ሀ 5. ሀ  b) all ለ  c) there is no key
+**Answer: a) 1. ሀ 2. መ 3. ሀ 4. ሀ 5. ሀ** — 1ሀ 2መ 3ሀ 4ሀ 5ሀ.
+
+**51. (Sub lesson 34)** Task 3 asks for —
+a) opposites  b) similar meanings of the text's words  c) translations
+**Answer: b) similar meanings of the text's words** — Similar meanings.
+
+**52. (Sub lesson 34)** ጥንካሬ appears in the key at —
+a) ሀ  b) ለ  c) መ
+**Answer: b) ለ** — ለ. ጥንካሬ.
+
+**53. (Sub lesson 34)** Near-same words are —
+a) exactly identical  b) nearly the same, not identical  c) unrelated
+**Answer: b) nearly the same, not identical** — Nearly the same.
+
+**54. (Sub lesson 35)** Meanings here are fixed by —
+a) split + the sentence around the word  b) guessing alone  c) the word's colour
+**Answer: a) split + the sentence around the word** — Split-and-context.
+
+**55. (Sub lesson 35)** The key runs to —
+a) seven items  b) three items  c) twelve items
+**Answer: a) seven items** — Seven keyed items.
+
+**56. (Sub lesson 35)** The aids are —
+a) two prepared charts  b) a globe  c) a stopwatch
+**Answer: a) two prepared charts** — Two charts.
+
+**57. (Sub lesson 36)** A ያልተዘውታሪ word, in the Grade 7 guide's vocabulary part, is —
+a) a wrong word  b) a new-invented word  c) an uncommon word — one that rarely appears
+**Answer: c) an uncommon word — one that rarely appears**
+
+**58. (Sub lesson 37)** አውዳዊ ፍቺ means —
+a) a word's contextual meaning — the meaning it carries in that text  b) a word's spelling  c) a word's plural
+**Answer: a) a word's contextual meaning — the meaning it carries in that text**
+
+**59. (Sub lesson 38)** The Grade 9 guide's keyed synonym answer for ቅደም ተከተል is —
+a) የአካል ቅደም ተከተል  b) የአሰራር ቅደም ተከተል  c) የቃላት ቅደም ተከተል
+**Answer: b) የአሰራር ቅደም ተከተል**
+
+**60. (Sub lesson 39)** In the Chapter 6 glosses, መኖ means —
+a) animal fodder  b) a stone fence  c) a by-law
+**Answer: a) animal fodder**
+
+**61. (Sub lesson 40)** In the Grade 10 guide's Chapter 3 vocabulary work, what comes first?
+a) the dictionary meanings  b) a spelling list  c) the underlined words in their context
+**Answer: c) the underlined words in their context**

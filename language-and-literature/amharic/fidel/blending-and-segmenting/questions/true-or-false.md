@@ -10,3 +10,6 @@ Say true or false, and say why.
 
 **3. (Sub lesson 5)** ጨጨት gets three claps because it is built from three fidel.
 **Answer: True** — one clap per fidel: ጨ · ጨ · ት.
+
+**4. (Sub lesson 9)** The Grade 10 guide has learners both split words into syllables and combine syllables into words.
+**Answer: True**

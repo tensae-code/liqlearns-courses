@@ -29,3 +29,14 @@ Sub lesson 6 questions from the type files. Pass mark: blend the p.20 and p.39 r
 
 ## Sub lesson 7 — The Grade 4 book's method page: icons, and ማጣመር/መነጠል
 Pass mark: name what each task icon asks for, and show ማጣመር and መነጠል on one word each way — blend its parts into the word, then split the word into its fidel units.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 8 — Writing: joining fidel on the line — the teacher's checklist (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 9 — Words into syllables — ምእላድ: the Grade 10 guide (teacher guide — evidence)
+Sub lesson 9 questions from the type files. Pass mark: give the term ምእላድ and the two operations (splitting words into syllables; combining syllables into words).

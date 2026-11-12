@@ -58,6 +58,15 @@ Review the plurals whole: split the **-ኦች** suffix off words; make plurals w
 
 [GIF 21610 — a word splits into its stem and suffix]
 
+## Sub lesson 6 — Grade 3 Unit 2 opens: Neighbourliness — ጉርብትና (teacher guide — evidence)
+
+This part is teacher-guide evidence. Unit 2 is ጉርብትና (Neighbourliness). Its objectives: retell a similar story heard before, in full; read short texts fluently; give antonyms for words from a text; and write sentences using punctuation (ስርዓተ ኅፁቦች). Its five parts are listening-and-speaking, reading, words, writing and grammar. The unit's heard text — Good Neighbours — and its proverb reading stand in this course in their own parts; this opener frames them: hear, retell, read fluently, oppose words, punctuate sentences.
+## Sub lesson 7 — Neighbourliness: listening questions and word work (teacher guide — evidence)
+
+This part is teacher-guide evidence: the unit's first two tasks. The listening-information task (አዳምጦ መረጃት) runs as in Unit 1 — its main purpose, in the guide's own words, is to measure how much of the heard reading learners understood — and it links first to the learners' own experience of neighbours. The word task follows, and on its second page (ሐ) it turns into speaking-skill items built on the same words (የንግግር ክሂል): hear, answer, then speak with the words. Understanding is proved twice — once by answering, once by speaking.
+## Sub lesson 8 — Unit 2 Check: Neighbourliness (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Neighbourliness unit's summary and verification. The unit heard texts and retold them orally; read texts fluently; gave synonyms and antonyms; picked out compound words and commented on them; and learned the types of punctuation, their meaning and use — the full stop (አራት ነጥብ), the question mark and quotation (ቃለ አጋኖ, ጥያቄ ምልክት, ጥቅስ) used inside sentences. The verification bullets mirror the unit's four objectives, one for one. If you can retell, read fluently, oppose and match words, and punctuate — the unit is proved.
 ## Say it to your companion
 
 Tell your companion the chapter word — **ጉርብትና** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

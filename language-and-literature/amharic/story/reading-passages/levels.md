@@ -123,3 +123,28 @@ Sub lesson 33 questions from the type files. Pass mark: match each of the four s
 ## Sub lesson 34 — Grade 8: አለሚቱና መምህሯ — Alemitu and Her Teacher
 Sub lesson 34 questions from the type files. Pass mark: list the man-made and natural causes the teacher names, and say what form the text takes.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 35 — Reading: Being Clean — main idea or detail? (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 36 — Reading: Cleanliness — nine questions (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 37 — Fluent reading: error board, then beat the clock (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 38 — Reading with a chart, a discussion and a key — the Addis guides' reading parts (teacher guide — evidence)
+Sub lesson 38 questions from the type files. Pass mark: say what the Grade 7 guide's big chart shows (the sequence of events) and what its model answers are for; state when the Grade 8 guide's pre-reading questions are worked (discussed before the text is read).
+
+## Sub lesson 39 — Three readings from the Grade 9 guide — a blessing, science, and epidemics of the mind (teacher guide — evidence)
+Sub lesson 39 questions from the type files. Pass mark: state the Elder's Blessing follow-up point (household work not divided by gender; sons and daughters work and study equally); give the science/technology keyed point; name two keyed contents of the epidemics reading (e.g. rumours, the serotonin explanation).
+
+## Sub lesson 40 — Three more readings from the Grade 9 guide — a degraded area, paying tax, the General (teacher guide — evidence)
+Sub lesson 40 questions from the type files. Pass mark: give the four sorting heads of the degraded-area task and one example for preparation (terracing/planting pits); name the Paying Tax passage's printed credit (Walta, Hamle 24, 2009 E.C.); state the General reading's opening moves (discussion on ቅርስ, prediction, timed reading).
+
+## Sub lesson 41 — Two readings from the Grade 10 guide — technology, and addiction with its recovery (teacher guide — evidence)
+Sub lesson 41 questions from the type files. Pass mark: name the technology reading's three fields and its vocabulary job (extract difficult words); walk the recovery reading's strategy sequence in order and state the guide's warning about true/false questions.

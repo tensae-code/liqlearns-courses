@@ -59,3 +59,31 @@ a) ሸቀጣሸቀጥ  b) ሸቀጥሸቀጥጥ  c) አሸቀጠ
 **14. (Sub lesson 7)** ቤተመጽሐፍት is built from ቤተ- + መጻሕፍት and means —
 a) a church  b) a library  c) a court
 **Answer: b) a library** — ቤተ- 'house of' + books = the library, house of books.
+
+**15. (Sub lesson 8)** Key 1 begins with —
+a) ቅርስ  b) እንጠጠ  c) በረታ
+**Answer: b) እንጠጠ** — እንጠጠ is first in Key 1.
+
+**16. (Sub lesson 8)** The guide says other words —
+a) are always wrong  b) are possible, judged against the reading  c) must be punished
+**Answer: b) are possible, judged against the reading** — Other words possible — judged by the reading.
+
+**17. (Sub lesson 8)** Blind learners do the tasks —
+a) not at all  b) with the special-needs professional's support plan  c) alone without help
+**Answer: b) with the special-needs professional's support plan** — With a support plan.
+
+**18. (Sub lesson 9)** ምስላድ work means —
+a) building words by joining parts and fixing endings  b) copying sentences  c) naming pictures
+**Answer: a) building words by joining parts and fixing endings** — Join parts, fix endings.
+
+**19. (Sub lesson 9)** ትምህርትሽ in the joining answers is built on —
+a) ትምህርት (education)  b) ልጅ (child)  c) ቤት (house)
+**Answer: a) ትምህርት (education)** — ትምህርት + ending.
+
+**20. (Sub lesson 9)** Assessment here is —
+a) a written exam only  b) watching learners join and adjust correctly  c) homework marks
+**Answer: b) watching learners join and adjust correctly** — Watching the doing.
+
+**21. (Sub lesson 10)** The guides' own term for compound words in these pages is —
+a) ድርብ ቃላት  b) ነጠላ ቃላት  c) የውጭ ቃላት
+**Answer: a) ድርብ ቃላት**

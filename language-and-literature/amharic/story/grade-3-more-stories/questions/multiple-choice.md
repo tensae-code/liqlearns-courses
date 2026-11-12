@@ -61,3 +61,15 @@ a) Numbers  b) Story vocabulary  c) Pictures only
 **15. (Sub lesson 5)** Joining suffixes is the mirror of what?
 a) Splitting them off  b) Reading them  c) Copying them
 **Answer: a) Splitting them off** — Joining puts together what splitting took apart.
+
+**16. (Sub lesson 6)** Unit 3 is —
+a) Tales — ተረት  b) Road — መንገድ  c) Morals
+**Answer: a) Tales — ተረት** — ተረት — tales.
+
+**17. (Sub lesson 6)** ዋና ገፀ ባህሪያት are —
+a) the main characters  b) the page numbers  c) the morals only
+**Answer: a) the main characters** — Main characters.
+
+**18. (Sub lesson 6)** Part 1 opens with —
+a) a test  b) pre-listening questions  c) a song
+**Answer: b) pre-listening questions** — ቅድመ ማዳመጥ ጥያቄዎች.

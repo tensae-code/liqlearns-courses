@@ -84,3 +84,15 @@ Answer in a short sentence, from the passage.
 
 **28. (Sub lesson 34)** What form does this reading take?
 **Answer:** An interview — a student questioning her teacher, the answers in parts.
+
+**29. (Sub lesson 38)** What does the Grade 7 guide print at printed p.24 for the teacher's checking work?
+**Answer:** Model answers (በናሙናነት የተመረጡ ጥያቄዎች መልስ) for selected questions — the chapter's answer key.
+
+**30. (Sub lesson 39)** Name the substance the epidemics reading uses to explain fever-like feelings under fear and stress.
+**Answer:** Serotonin.
+
+**31. (Sub lesson 40)** To what is the Paying Tax passage credited in the Grade 9 guide?
+**Answer:** A Walta Media & Communication corporate report, Hamle 24, 2009 E.C.
+
+**32. (Sub lesson 41)** In the recovery reading, what happens after the class has read two paragraphs?
+**Answer:** Reading stops; predictions are checked against the pre-reading answers, the rest is predicted, and then the text is finished.

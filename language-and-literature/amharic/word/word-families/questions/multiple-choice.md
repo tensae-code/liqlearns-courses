@@ -40,3 +40,14 @@ a) "That time does not erase"  b) "That time builds"  c) "Quickly forgotten"
 a) ፍቅር — love  b) ያናጋል  c) ውጫዊ
 **Answer: a) ፍቅር — love** — the Littering essay's antonym set.
 
+**10. (Sub lesson 5)** ጨዋታዎች means —
+a) school books  b) playthings and games  c) cooking pots
+**Answer: b) playthings and games** — ጨዋታዎች — playthings/games.
+
+**11. (Sub lesson 5)** መጫወቻ are —
+a) play materials  b) winter clothes  c) food items
+**Answer: a) play materials** — መጫወቻ — play materials.
+
+**12. (Sub lesson 5)** The words are learned by —
+a) using them in talk about your own friends and play  b) copying them once, silently  c) translating them away
+**Answer: a) using them in talk about your own friends and play** — Use them about your own life.

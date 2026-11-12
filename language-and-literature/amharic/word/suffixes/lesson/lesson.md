@@ -159,6 +159,9 @@ Separate a word into ዋና ቃል (root/stem word) and መድረሻ ቅጥያ (
 Split words into root and suffix as the Grade 6 book sets it: ዘመናቸው = ዘመን + -ኣቸው; then አካባቢያችን, ልጃቸው, ሰዎች, አገራት. Stem-and-suffix splitting stands in sub lessons 1 and 4 from other books and pages; this part stocks the Grade 6 book's own set at its own page.
 
 
+## Sub lesson 8 — Split the word: root and suffix — and ten matches (teacher guide — evidence)
+
+This part is teacher-guide evidence, in two halves. First, ten matches: words whose meanings are close (ተመሳሳይ ፍቺ) are matched — printed key, Task 1: 1. መ 2. ረ 3. በ 4. ሐ 5. ቀ 6. ሀ 7. ሸ 8. ሠ 9. ሰ 10. ለ. Then the splitting: words are split into ዋና ቃል (the root word) + ቅጥያ (suffix) — worked answers: ተወዳዳሪ-ምች-ኡ (shown in the guide's splitting as ከ-ተወዳዳሪ-ምች-ኡ), መረጥ-ኡችሁ, ንጽጽና-ኡች-ኡችው-ን, ወጤት-ኡማ-ገተ-ኡች ን (as printed). Split slowly: find the root that can stand alone, then name each piece hung on it and what that piece adds. Suffix splitting is stocked in this lesson from the Grade 4 guide and student books in earlier parts; this part is the Grade 6 guide's own matches and splits, as evidence.
 ## Say it to your companion
 
 Tell your companion: a ቅጥያ is a little piece on a word — before the stem or after it. Peel ውን off ክፍያውን for them. Then say the four house words — ቤቴ, ቤትህ, ቤትሽ, ቤታችን — and let your companion guess whose house each one is. Then build: give your companion the stem ኢትዮጵያ and let them add -አዊ; give them ሆድ and let them add -ኣም. Last, grow a family together: say the root ቆረጠ aloud, then its family — ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ — one form each, in turn. Then sort the pieces: say ኢ-, -አዊ, መ-, -ነት, -ኦሽ one by one, and let your companion call "prefix — before!" or "suffix — after!" for each one.

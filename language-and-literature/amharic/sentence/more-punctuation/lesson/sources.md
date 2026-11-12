@@ -16,6 +16,13 @@ countries: Ethiopia
 
 **Book 7:** *Amharic Student Textbook, Grade 8* (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ ምህረቴ, አምባው ደምሴ ቀኜ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 176 PDF pp., printed pp. 1–164. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
 
+**Book 8:** *Grade 2 Amharic Teacher Guide (አማርኛ እንደመጀመሪያ ቋንቋ የመምህር መምሪያ, ፪ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 8. The secured file ends at printed p.34 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g02-teacher-placements.md.
+
+**Book 9:** *Grade 3 Amharic Teacher Guide (አማርኛ እንደ መጀምሪያ ቋንቋ የመምህር መምሪያ, ፫ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 5. The secured file ends at printed p.31 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g03-teacher-placements.md.
+
+**Book 10:** *Amharic as a Federal Language, Teacher Guide, Grade 9 (አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, ዘጠነኛ ክፍል)* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University, 124 PDF pp. Page rule: printed page = PDF page − 4 (body folios run 1–95; the syllabus appendix is separately foliated 1–25). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g09-teacher-placements.md. No Grade 9 student book exists in the records — this guide is evidence only, never a pupil book.
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the exclamation mark (ትዕምርተአንክሮ !) follows strongly emotional speech; the seven feelings catalogued with their exclamations: ድንጋጤ shock (ዋይ! ወይኔ!), መገረም surprise (ጉድ! ጉድ እኮ ነው!), ደስታ joy (የምሥራች! እንኳን ደሰ አለህ!), ትካዜ despair (እህህ…! ምን ልሁን!…), ዛቻ threat (ቆይ አሳይሃለሁ! እንገናኛለን!), ማሞገስ admiration (ጎሽ! አበጀህ! ጎበዝ!), ማበረታት encouragement (አይዞህ! አትፍራ! በርታ!) | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.96–97 |
@@ -48,11 +55,16 @@ countries: Ethiopia
 | Sub lesson 9 — field-trip punctuation | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 58 |
 | Sub lesson 9 — punctuating a dialogue | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 90 |
 | Sub lesson 10 — punctuating a passage — the father, the son and the donkey | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 117 |
+| Sub lesson 11 — Dictation words and the question mark (teacher guide — evidence) | Ethiopia, *Grade 2 Amharic Teacher Guide*, printed pp. 7–8 |
+| Sub lesson 12 — Punctuation marks and their names (teacher guide — evidence) | Ethiopia, *Grade 3 Amharic Teacher Guide*, printed p. 21 |
+| Sub lesson 13 — the punctuation types (የስርዓተ ነጥብ ዓይነቶች), the guide's own page (teacher guide — evidence): explained from the student-book note. The kinds taught earlier stand under Grade 5/6 student-book and Grade 6 guide citations; this row adds the Grade 9 guide's own page | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 9*, printed p.66 (placement 45) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The name እዝባር is used by the books for two different marks: the Grade 5 student book (printed pp.82–83) gives እዝባር as the slash (/), while the Grade 6 teacher guide (printed pp.28–29) gives እዝባር as the « » quotation marks. This lesson teaches the slash sense (pupil-taught, Grade 5) and records the teacher guide's quotation-mark sense in the parts table above as evidence; the lesson does not merge the two. Relatedly, the Grade 6 student book (printed pp.54–55) uses እዝባር for the figure/register form of dates and reference numbers — the same slash work taught in Sub lesson 3. (2) The Grade 6 teacher guide's introduction (printed p.VI) twice calls its companion book "Grade 7" — a template carry-over error flagged in the placements; the guide's cover, title page and content are Grade 6, and it is cited as such. Its ቅንፍና part is used here as labelled evidence for the parentheses the Grade 6 student book teaches directly. (3) The Grade 5 colon's printed glyph is ፡- (ኹለት ነጥብ ከሰረዝ — two dots with a dash); the charts draw it exactly so. (4) No hardness numbers are written anywhere in this lesson — the books give none.
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: more punctuation, ስርዓተ ነጥቦች, exclamation mark, ትዕምርተአንክሮ, ቃለአጋኖ, seven feelings, ድንጋጤ, መገረም, ደስታ, ትካዜ, ዛቻ, ማሞገስ, ማበረታት, quotation marks, ትዕምርተጥቅስ, single quotation marks, ነጠላ ትዕምርተጥቅስ, colon, ኹለት ነጥብ ከሰረዝ, ፡-, slash, እዝባር, ት/ቤት, dash, ሠረዝ, parentheses, ቅንፍ, ቅንፍና, ellipsis, ሦስት ነጠብጣቦች, abbreviations, ምሕጻረቃል, አንድ ነጥብ, መስ., ወሮ., እ.ማ.ማ.ኮ

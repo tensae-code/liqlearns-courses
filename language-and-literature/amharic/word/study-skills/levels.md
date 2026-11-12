@@ -64,3 +64,18 @@ Sub lesson 15 questions from the type files. Pass mark: complete one bank passag
 ## Sub lesson 16 — Grade 7: names of waters — the cloze of waters
 Sub lesson 16 questions from the type files. Pass mark: complete water cloze sentences and order the waters by size.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 17 — Split and Guess: መነጠልና ማገመር — Ethiopia's own word-attack strategy (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 18 — The teaching principles — the Grade 7 guide's spine (teacher guide — evidence)
+Sub lesson 18 questions from the type files. Pass mark: recite the principles set in order: the three task movements, the reader's three habits (predict, monitor, evaluate), chances plus timely feedback, and meaning worked out from the text itself.
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 19 — Comparison and contrast — the Grade 10 guide's paragraphs, essays and research (teacher guide — evidence)
+Sub lesson 19 questions from the type files. Pass mark: name the four set topic pairs, the research route (websites/documents via the internet), and the guide's advice (invite local professionals to explain points in class).

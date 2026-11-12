@@ -10,3 +10,9 @@ Say "true" or "false" out loud, and say why.
 
 **3. (Sub lesson 4)** Adding -ች to a verb can change it from "he" to "she".
 **Answer: True** — መጣ → መጣች: "he came" becomes "she came".
+
+**4. (Sub lesson 5)** In the second-language guide, retelling a heard story is a listening check.
+**Answer: True**
+
+**5. (Sub lesson 6)** Story retelling appears in the guide both as a listening task and as a speaking-assessment tool.
+**Answer: True**

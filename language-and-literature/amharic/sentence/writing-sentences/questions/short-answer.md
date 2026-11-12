@@ -10,3 +10,9 @@ Answer in a few words, or one sentence.
 
 **3. (Sub lesson 3)** When you read a mixed-up sentence aloud and your voice trips, what does the trip tell you?
 **Answer: a word is out of its place.**
+
+**4. (Sub lesson 8)** Name the three agreement features a subject and verb phrase can mismatch in, in the guide's error list.
+**Answer:** Number, gender and person.
+
+**5. (Sub lesson 9)** Give the appendix's Amharic name for subject–verb agreement.
+**Answer:** የስምና ግስ ስምምነት.

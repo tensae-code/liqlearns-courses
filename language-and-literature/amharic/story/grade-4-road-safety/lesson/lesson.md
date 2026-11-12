@@ -60,6 +60,21 @@ Build the colour web: what red, yellow and green mean on the traffic light — a
 
 Build new words by matching stems to suffixes — **-ኣማ, -ነት, -ኣዊ, -ኦሽ, -ኣም, -ኧኛ**: **ደርቅ + ኦሽ = ድርቆሽ**. Each suffix changes the word's work; say the new word in a sentence to prove it.
 
+## Sub lesson 6 — Reading: የሸራፊ ታሪክ (teacher guide — evidence)
+
+This part is teacher-guide evidence: a reading inside the Road Safety unit, printed as የሸራፊ ታሪክ (as printed in the guide). Work it the unit's way. Before reading, answer the learner book's pre-reading questions from what you already know. During reading, answer the questions in your own words — not copied lines. Read the paragraphs aloud to classmates in turns, then retell the gist to each other. The placement gives the method and the title, not a plot summary — so this part teaches exactly that: a reading approached in three moves (before, during, after), with the gist retold at the end. No plot is invented for it here.
+## Sub lesson 7 — Group talk: traffic — what it is, what causes accidents, how we prevent them (teacher guide — evidence)
+
+This part is teacher-guide evidence: the unit's group discussion. Groups prepare talks and present them, on the guide's printed questions. Group 1: የትራፊክ እንቅስቃሴ ማለት ምን ማለት ነው? — what is traffic movement? Group 2: what are the causes of traffic accidents? Group 3: how can traffic accidents be prevented? Group 4: list the pedestrian road-use rules you know. The other groups comment on each talk, and the teacher gives feedback at the end. Prepare your group's answer so one voice can present it and every member can defend it — a group talk is proved when any member can answer a question on it.
+## Sub lesson 8 — Reading fluently with earphones — teacher-recorded audio (teacher guide — evidence)
+
+This part is teacher-guide evidence: fluency work with a technology support the course has not carried before. The fluency work runs on the learner-book passage and a poem. For blind learners, the teacher records their own voice reading the text — or an audio version of it — and the learners listen with earphones (ኢርፎን, በጀሮ ማዳመጫ — earphones, a listening device in the ear) and join the same fluency work as everyone else. A short two-to-three-minute audio may be prepared as well. The method matters beyond this unit: a recorded voice plus earphones turns any reading text into one a blind learner can re-read alone, at their own pace, until it runs fluent.
+## Sub lesson 9 — Unit 2 Check: Road Safety (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Unit 2 summary page. By its end learners can sing and explain the road-safety song; give words' contextual meanings; replace a word with its synonym inside a sentence; say what makes a word a word; work a fidel crossword; discuss traffic in groups; read fluently — with recorded-audio support where it is needed; and build word webs. Check yourself line by line against that list. The song, the word work, the crossword, the group talk and the fluency each stand in this course in their own parts; this page is the proof they add up to one unit.
+## Sub lesson 10 — Reading: የዶታ አክሱት (teacher guide — evidence)
+
+This part is teacher-guide evidence — the last page of the secured Grade 4 guide file. The reading, የዶታ አክሱት (as printed), opens with pre-reading picture questions: look at the reading's picture and say what it shows before a word is read. The class reads in turns, with group discussion, and the teacher sets stop-points through the text — places to pause, check understanding, and predict. Fluent readers are used as models for the class: hear a fluent voice, then read your turn toward it. The guide file ends on this page, mid-unit; nothing past printed p.42 is claimed anywhere in this course.
 ## Say it to your companion
 
 Tell your companion the chapter word — **የመንገድ ደህንነት** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

@@ -106,3 +106,43 @@ a) place  b) time  c) manner
 **26. (Sub lesson 18)** In ጎበዟ ልጅ, ጎበዟ is a —
 a) verb-modifier  b) noun-modifier  c) conjunction
 **Answer: b) noun-modifier** — ጎበዟ (clever) describes the girl — a noun-modifier (የስም ገላጭ).
+
+**27. (Sub lesson 19)** ሰበረ belongs with —
+a) the nouns (ስሞች)  b) the verbs (ግሶች)  c) neither
+**Answer: b) the verbs (ግሶች)** — ሰበረ is a doing word — a verb.
+
+**28. (Sub lesson 19)** በቀሎ belongs with —
+a) the nouns (ስሞች)  b) the verbs (ግሶች)  c) the sounds only
+**Answer: a) the nouns (ስሞች)** — በቀሎ names a thing — a noun.
+
+**29. (Sub lesson 19)** The sorting question is —
+a) 'How long is it?'  b) 'Does it name a thing, or do something?'  c) 'What colour is it?'
+**Answer: b) 'Does it name a thing, or do something?'** — Name or do — that sorts nouns from verbs.
+
+**30. (Sub lesson 20)** አባይ (Abay) is —
+a) a common noun  b) a proper noun  c) a verb
+**Answer: b) a proper noun** — Proper — one particular river.
+
+**31. (Sub lesson 20)** ወንዝ (river) is —
+a) a proper noun  b) a common noun  c) an adjective
+**Answer: b) a common noun** — Common — any river.
+
+**32. (Sub lesson 20)** ነብር (leopard) is keyed as —
+a) proper  b) common  c) neither
+**Answer: b) common** — Common.
+
+**33. (Sub lesson 21)** The sorting aid is —
+a) a mixed-noun chart  b) two tidy lists  c) a song
+**Answer: a) a mixed-noun chart** — የተወያየ ስንጠረዥ — mixed chart.
+
+**34. (Sub lesson 21)** The sorting rule asks —
+a) 'How is it spelled?'  b) 'One particular thing, or any of its kind?'  c) 'How long is it?'
+**Answer: b) 'One particular thing, or any of its kind?'** — Particular vs any-of-kind.
+
+**35. (Sub lesson 21)** Special-needs learners get —
+a) no tasks  b) extra tasks  c) the same single task only
+**Answer: b) extra tasks** — Extra tasks.
+
+**36. (Sub lesson 22)** The Chapter 7 classification key runs —
+a) verb, adverb, verb, noun, adjective, verb, pronoun  b) noun, noun, verb, verb, pronoun, adjective, adverb  c) adjective, noun, pronoun, verb, adverb, verb, verb
+**Answer: a) verb, adverb, verb, noun, adjective, verb, pronoun**

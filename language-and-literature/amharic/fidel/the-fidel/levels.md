@@ -40,3 +40,9 @@ Sub lesson 9 questions from the type files. Pass mark: read each derived family 
 
 ## Sub lesson 10 — The Grade 1 book's own practice pages
 Sub lesson 10 questions from the type files. Pass mark: form the ሀ and ለ families from the book's page, read the ኘ sentences, and fill the mixed grid's gaps.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 11 — The በ family and sounds at the start of words — guide drills (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

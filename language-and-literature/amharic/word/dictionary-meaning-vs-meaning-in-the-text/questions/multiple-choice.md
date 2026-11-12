@@ -17,3 +17,15 @@ a) dancing  b) storing / putting into store  c) singing
 **4. (Sub lesson 1)** ትውፊት belongs to which layer's list in the first work?
 a) the text layer only  b) the dictionary layer  c) neither
 **Answer: b) the dictionary layer** — ትውፊት is in the first list — dictionary definitions.
+
+**5. (Sub lesson 4)** የተስፋ ጭላንጭል means —
+a) a ray of hope  b) a bank book  c) a city plot
+**Answer: a) a ray of hope** — A ray of hope.
+
+**6. (Sub lesson 4)** The close work sets a word's meaning in the text against —
+a) its spelling  b) its meaning outside the text  c) its translation
+**Answer: b) its meaning outside the text** — In-text vs outside.
+
+**7. (Sub lesson 4)** የከተማ ግብርና is —
+a) urban farming  b) sea fishing  c) mountain herding
+**Answer: a) urban farming** — Urban farming.

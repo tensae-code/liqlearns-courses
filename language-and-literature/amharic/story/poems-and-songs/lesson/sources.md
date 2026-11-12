@@ -25,6 +25,9 @@ countries: Ethiopia
 
 **Book 15:** *Amharic as a Federal Language, Teacher Guide, Grade 10 (አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, አሥረኛ ክፍል)* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University, first edition 2014 E.C., prepared under GEQIP-E, 116 PDF pp. Page rule: printed page = PDF page − 5 (body folios run 1–92). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g10-teacher-placements.md. No Grade 10 student book exists in the records — this guide is evidence only, never a pupil book.
 
+**Book 16:** *Amharic as a Federal Language, Teacher Guide, Grade 9 (አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, ዘጠነኛ ክፍል)* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University, 124 PDF pp. Page rule: printed page = PDF page − 4 (body folios run 1–95; the syllabus appendix is separately foliated 1–25). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g09-teacher-placements.md. No Grade 9 student book exists in the records — this guide is evidence only, never a pupil book.
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — አበባ አየሁሽ (teacher guide — evidence): the poem chanted; group performance — one መሪ (leader) + three receivers perform the ጭራፍ in turns; teacher may adapt the performance | Ethiopia, *Grade 2 Amharic Teacher Guide*, printed p.12 |
@@ -89,6 +92,7 @@ countries: Ethiopia
 | Sub lesson 23 — vocabulary — poem words + summarise and collect oral poems (fieldwork) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 26 |
 | Sub lesson 24 — poem — ጥሪ (The Call) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 87–88 |
 | Sub lesson 25 — poem — አሁን መልካም ሥሩ! (Do Good Now!) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 114–116 |
+| Sub lesson 26 — explaining sayings/proverbs (አባባሎች) (teacher guide — evidence): explain the meanings of given sayings, after a short explanation of why sayings matter. The same writing part's descriptive-essay task is stocked in Writing Essays | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 9*, printed p.18 (placement 15) |
 **Acceptance count: taught in 1 country (Ethiopia).** Most poems and songs are pupil-taught from the student books; the flower poem's performance method, the road-safety song's text and the rhyme sets stand on teacher-guide evidence, labelled above. Sub lessons 5–9 (the 2026-11-12 growth) are pupil-taught from the Grade 5–8 student books, with one Grade 6 teacher-guide poem labelled (teacher guide — evidence). Sub lessons 10–12 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the federal Grade 10 guide's Poetry chapter (Book 15); there is no Grade 10 student book in the records, so nothing in sub lessons 10–12 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils.
 
 Honesty notes: (1) Poems and songs are taught as summaries plus named refrains only — the only verse fragments quoted are the short ones the placements themselves print (ግራ ቀኝ ግራ; መናጩ ዋናጩ ቂናጩ; "ዓመት ዓውደዓመት ድገምና…"). No poem or song is transcribed in full. (2) The teacher-guide files are truncated scans (G1 ends p.35, G2 p.34, G4 p.42); every guide item used here is inside those spans. (3) Pictures 8324, 8325, 8326 and GIF 8332 are drawn renders made for this lesson, looked at before filing (GIF frames 1/7/13/20 checked full-frame).

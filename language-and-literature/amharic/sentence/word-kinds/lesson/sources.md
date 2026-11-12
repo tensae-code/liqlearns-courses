@@ -22,6 +22,12 @@ countries: Ethiopia
 
 **Book 10:** *አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, አሥረኛ ክፍል (Amharic as a Federal Language, Teacher Guide, Grade 10)* (teacher guide — evidence) — Ethiopia, Ministry of Education / Hawassa University, first edition 2014 E.C., prepared under GEQIP-E, 116 PDF pages; printed folios run 1–92 for the body. Page rule: printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g10-teacher-placements.md.
 
+**Book 11:** *Grade 1 Amharic Teacher Guide (አማርኛ እንደመጀመሪያ ቋንቋ የመምህር መምሪያ, ፩ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 7. The secured file ends at printed p.35 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g01-teacher-placements.md.
+
+**Book 12:** *Grade 5 Amharic Teacher Guide (አማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መምሪያ መጽሐፍ, ፭ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum. Page rule: printed page = PDF page − 5. The secured file ends at printed p.42 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g05-teacher-placements.md.
+
+**Book 13:** *Grade 6 Amharic Teacher Guide (የአማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መጽሐፍ, ፮ (6)ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum. Page rule: printed page = PDF page − 6. The secured file ends at printed p.36 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g06-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — NOUNS (ስም) defined: words that name things (ሰው, ዛፍ, ድመት); pick the nouns out of a word list | Ethiopia, *Grade 3 Amharic Student Textbook*, printed p.36 |
@@ -68,6 +74,12 @@ countries: Ethiopia
 | Sub lesson 17 — adverb picking | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 103–104 |
 | Sub lesson 17 — adverbs exercise, boast-poems chapter | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 155 |
 | Sub lesson 18 — noun/verb modifiers (የስም ገላጭ / የግስ ገላጭ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 20 |
+| Sub lesson 19 — Three-letter words: writing them, and nouns against verbs (teacher guide — evidence) | Ethiopia, *Grade 1 Amharic Teacher Guide*, printed pp. 25–26 |
+| Sub lesson 20 — Common nouns and proper nouns — ወንዝ or አባይ? (teacher guide — evidence) | Ethiopia, *Grade 5 Amharic Teacher Guide*, printed pp. 12–13 |
+| Picture 31202 — drawn evidence chart for Sub lesson 20 (teacher guide — evidence) | Built from Sub lesson 20 above: Ethiopia, *Grade 5 Amharic Teacher Guide*, printed pp. 12–13 |
+| Sub lesson 21 — Proper or common? The big mixed chart (teacher guide — evidence) | Ethiopia, *Grade 6 Amharic Teacher Guide*, printed p. 10 |
+| Sub lesson 22 — words in correct sentences; word-class change in sentences (teacher guide — evidence): build sentences with given complex words; show how a word's word class changes when it enters a sentence | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed pp.46–47 (placement 33) |
+| Sub lesson 22 — parts of speech in context (የንግግር ክፍሎች) (teacher guide — evidence): classify bold-underlined words from their context; key — verb, adverb, verb, noun, adjective, verb, pronoun | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed pp.65–66 (placement 46) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The six kinds are taught in the Grade 3 student book's own order — the grammar spine recorded in the placements (NOUN p.36 → VERB p.53 → ADJECTIVE p.72 → CONJUNCTION p.83 → ADVERB p.98 → PREPOSITION p.137); the preposition definition used is Grade 4's (p.137, Baye 2009), because the spine's last step is the Grade 3 market usage at its own p.137 — both pages are cited, neither is hidden. (2) Both teacher guides' secured files are truncated (Grade 3 at printed p.31, Grade 4 at printed p.42); every teacher-guide part used here sits inside the read spans (G3 TG p.11; G4 TG p.7). (3) The Grade 4 Teacher Guide's title page wrongly reads "student book, Part 1" (template anomaly in the placements); it is cited as the teacher guide its cover, footers and content show. (4) No hardness numbers are written anywhere in this lesson — the books give none.
@@ -80,5 +92,7 @@ G9–G10 growth honesty notes: (9) Sub lessons 12–13 rest on TEACHER-GUIDE EVI
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
 
 **Honesty — the Grade 7 book's p. 155 figure slip (2026-11-12 fix build):** at printed p. 155 the book files a praise-poem under the figure 'ነገር ግን' (but/however); the adverbs exercise on that page is carried above as an exercise-page citation only, and the mis-filed figure is taught in Figures of Speech (ዘይቤ), not here.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: word kinds, parts of speech, noun, ስም, verb, ግስ, past-tense verbs, የኃላፊ ጊዜ ግስ, adjective, ቅጽል, አይነግሮች, conjunction, አያያዥ ቃላት, መስታጽምር, adverb, ተውሳከግስ, preposition, መስተዋድድ, ሰው ዛፍ ድመት, የዋህ ልጅ ቀይ በሬ ወፍራም በግ, common noun, ወል ስም, proper noun, የተጸውኦ ስም, collective noun, ጥቅል ስም, መንጋ, pronoun, ተውላጠስም, መደብ, demonstrative, ጠቋሚ, interrogative, መጠይቅ ተውላጠስም, countable, የሚቆጠሩ ስሞች, uncountable, የማይቆጠሩ ስሞች, ተውላጠ ስሞች, ስም ገላጭ, ረጅም ቀሚስ, አዲስ መኪና, ጎጂ ልማድ, ትላልቅ, የቃላት ክፍሎች

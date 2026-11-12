@@ -87,6 +87,16 @@ Read the poem ሕይወት ጥንድ እግር ("Life Is a Pair of Legs"): life 
 The writing that rides with the Grade 6 dictation: write a ዜና — a news item — reporting your school's one week of activities: what happened, where, when, and who took part, in news order. The school-week news task stands in sub lesson 2 of this lesson from the Grade 4 book (the same task in a different book); this part stocks the Grade 6 book's own setting of it at its own page. The dictation half of the placement stands in the Writing Sentences lesson.
 
 
+## Sub lesson 4 — A report on the COVID period — the Grade 9 guide's report writing (teacher guide — evidence)
+
+The news report (ዘገባ) taught earlier in this lesson stands under student-book citations. The Grade 9 guide's own report-writing part is stocked here as labelled evidence — a report with a real subject and a research stage.
+
+**The subject:** the **COVID period** — the years of the epidemic, as the learners themselves lived them.
+
+**The guidance:** the guide teaches report writing with its **note and examples** first (in the guide's own layout the guidance is printed under the chapter's grammar heading — a cross-labelling quirk of this book, recorded here so the page is not doubted).
+
+**The work:** learners form **groups of 3–5**, **collect information** together, then **write the report and present it** to the class. A report, in this guide, is researched in company and spoken as well as written.
+
 ## Say it to your companion
 
 Read your companion your one-paragraph summary. Your companion

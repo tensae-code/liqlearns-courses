@@ -82,3 +82,23 @@ a) a strong paragraph  b) a heap  c) a conclusion
 **20. (Sub lesson 15)** In the climate bigar, increased carbon dioxide leads to —
 a) colder oceans  b) the gases' balance disturbed, then ice melting and seas rising  c) more forests
 **Answer: b) the gases' balance disturbed, then ice melting and seas rising** — the chain runs causes → disturbed balance → melting, rising, flooding.
+
+**21. (Sub lesson 16)** አሳማኝ ጽሑፍ is —
+a) persuasive writing  b) a shopping list  c) a greeting letter
+**Answer: a) persuasive writing**
+
+**22. (Sub lesson 17)** The Grade 9 guide's first descriptive-essay setting describes —
+a) a famous building  b) one famous woman of Ethiopia or the learners' area  c) the class timetable
+**Answer: b) one famous woman of Ethiopia or the learners' area**
+
+**23. (Sub lesson 18)** The four seasons the groups choose among are —
+a) ክረምት, በጋ, ክረምት, በጋ  b) only ክረምት and በጋ  c) ክረምት, ፀደይ, በጋ, በልግ
+**Answer: c) ክረምት, ፀደይ, በጋ, በልግ**
+
+**24. (Sub lesson 19)** Peer correction in the Grade 10 guide is —
+a) የብጤ እርማት  b) የራስ እርማት only  c) never allowed
+**Answer: a) የብጤ እርማት**
+
+**25. (Sub lesson 20)** The cultural-practice writing tasks are distributed —
+a) by height order  b) by lot (በዕጣ)  c) to volunteers only
+**Answer: b) by lot (በዕጣ)**

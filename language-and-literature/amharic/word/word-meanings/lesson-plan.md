@@ -220,3 +220,20 @@ choosing, not remaking.
 - Sub lesson 26 — Grade 7: volunteering words in context.
 - Sub lesson 27 — Grade 7: art words and their meanings.
 - Sub lesson 28 — Grade 7: words of grief and care; the p.22 context set.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 29 — Words from the Clothes text — the guide's answer key (teacher guide — evidence) (G2-U1-3, Grade 2 Amharic Teacher Guide, printed p. 3).
+- Sub lesson 30 — Words from the Fox story — blended-word answers (teacher guide — evidence) (G2-U3-5, Grade 2 Amharic Teacher Guide, printed p. 21).
+- Sub lesson 31 — Words from Marta's Diary — pairs and the picture key (teacher guide — evidence) (G2-U4-4, Grade 2 Amharic Teacher Guide, printed p. 31).
+- Sub lesson 32 — Words from the Martyr Mother — the guide's keys (teacher guide — evidence) (G3-U3-4, Grade 3 Amharic Teacher Guide, printed pp. 26–28).
+- Sub lesson 33 — Meaning from the sentence around it — the Grade 5 task and key (teacher guide — evidence) (G5-U3-3, Grade 5 Amharic Teacher Guide, printed pp. 29–31).
+- Sub lesson 34 — Reading: words that mean nearly the same — the guide's key (teacher guide — evidence) (G6-U2-3, Grade 6 Amharic Teacher Guide, printed p. 14).
+- Sub lesson 35 — Word meanings in their sentences — the split-and-context key (teacher guide — evidence) (G6-U3-4, Grade 6 Amharic Teacher Guide, printed p. 27).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 36 — **Common and uncommon words (teacher guide — evidence)** — ተዘውታሪ (common) vs ያልተዘውታሪ (uncommon) words taught with a chart (ሰንጠረዥ); identify and write the uncommon words.
+- Sub lesson 37 — **Chapter vocabulary work (teacher guide — evidence)** — Grade 8 guide, Ch.1 and Ch.2: contextual meanings (አውዳዊ ፍቺ) of the chapter text's words + matching words with their similars; assessment on both.
+- Sub lesson 38 — **Grade 9 guide chapter vocabulary, Ch.1–4 (teacher guide — evidence)** — synonyms/antonyms from the mediation reading (sample: ቅደም ተከተል = የአሰራር ቅደም ተከተል); መጋጨት = መጣላት/አለመስማማት; Ch.3 synonym matching + phrase completion; Ch.4 keyed glosses መገለል, ግብግብ, አዳጋች.
+- Sub lesson 39 — **Grade 9 guide chapter vocabulary, Ch.6–10 (teacher guide — evidence)** — Ch.6 glosses እርከን, ካብ, መኖ, ደንብ; Ch.8 antonyms deliberately left open by the guide; Ch.9 ten keyed glosses from «እናቲቱ»; Ch.10 synonym matching.
+- Sub lesson 40 — **The Grade 10 guide's own vocabulary pages (teacher guide — evidence)** — direct (dictionary) vs contextual meaning at Ch.1 (p.9) and at work in Ch.3 (pp.27–29, context first, dictionary second); technology and IT profession words from websites, presented and used in sentences (p.19).

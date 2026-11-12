@@ -41,3 +41,16 @@ Sub lesson 9 questions from the type files. Pass mark: name the marks in a short
 ## Sub lesson 10 — Grade 8: punctuating a passage — the father, the son and the donkey
 Sub lesson 10 questions from the type files. Pass mark: punctuate the fable passage and state the father's conclusion.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 11 — Dictation words and the question mark (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 12 — Punctuation marks and their names (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 13 — The punctuation kinds named — the Grade 9 guide's note (teacher guide — evidence)
+Sub lesson 13 questions from the type files. Pass mark: state where the Grade 9 guide explains the punctuation kinds (in the Ch.7 writing part, from the student-book note, after the exercise) and their Amharic heading.

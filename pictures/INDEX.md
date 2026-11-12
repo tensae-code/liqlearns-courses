@@ -4681,6 +4681,17 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 30128 | GIF: a surveillance stream checked locally at the fog node; only an alert travels to the cloud | computer-science-and-ict/new-technologies/fog-computing-processing-at-the-edge-near-the-data |
 | 30129 | GIF: data packets stopped and handled at the fog gateway while only some travel on | computer-science-and-ict/new-technologies/fog-computing-processing-at-the-edge-near-the-data |
 | 30130 | GIF: a temperature reading travelling sense → connect → process → respond | computer-science-and-ict/new-technologies/how-an-iot-system-works-sense-connect-process-respond |
+| 31200 | pictures/31200.webp | unit chart — the teacher guides' unit openers and checks | Amharic — Story — Listening Stories |
+| 31201 | pictures/31201.webp | split-and-guess chart (እሽሩ) — a word split, guessed, then whole | Amharic — Word — Study Skills |
+| 31202 | pictures/31202.webp | common and proper nouns chart | Amharic — Sentence — Word Kinds |
+| 31500 | pictures/31500.webp | the Abbay river flowing into the Grand Dam, its 16 generating units marked | Amharic — Story — Listening Stories |
+| 31501 | pictures/31501.webp | an eye over a line of text, fixation marks on the line | Amharic — Word — Reading Habits and Speed |
+| 31502 | pictures/31502.webp | heritage — a stela beside an open manuscript | Amharic — Story — Listening Stories |
+| 31503 | pictures/31503.webp | a word (ቃል) in its network — መዝገበ ቃላት, አውድ, ዝምድና, ማውጣጣት, ከአውድ መገመት | Amharic — Word — How New Words Are Taught |
+| 31504 | pictures/31504.webp | the three purposes of teaching reading — መረጃ / መሠረት / በራስ መተማመን | Amharic — Word — What Reading Practice Builds |
+| 31505 | pictures/31505.webp | conversation extenders as speech bubbles — እሺ! and ከዚያስ? | Amharic — Conversation — Speaking and Performing |
+| 31510 | pictures/31510.gif | an eye stepping left to right along a line of words, dwelling at each fixation | Amharic — Word — Reading Habits and Speed |
+| 31511 | pictures/31511.gif | ቤተ + መጽሐፍት cards sliding together into one compound word | Amharic — Word — Building Words |
 | 31700 | One program path shown three ways — straight, branching, looping back | computer-science-and-ict/programming/program-flow-control-the-order-code-runs-in |
 | 31701 | A two-column Python-versus-maths operator chart — = and == are different jobs | computer-science-and-ict/programming/conditional-expressions-equals-is-not-assignment |
 | 31702 | A gate that opens for a true test and stays shut for a false one | computer-science-and-ict/programming/the-if-statement-do-it-only-if-true |

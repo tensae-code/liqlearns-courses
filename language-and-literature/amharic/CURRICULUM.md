@@ -242,6 +242,25 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
     (`word/childrens-rights-in-a-table`) — the Grade 8 rights
     passage condensed into a classification table (fix build
     G7+G8, 2026-11-12).
+12. **Reading Habits and Speed** (`word/reading-habits-and-speed`)
+    — how readers actually read: fixations, word-by-word vs
+    phrase reading, and building speed. Teacher-guide evidence
+    only (Grade 7 guide), labelled in its sources and counted
+    nowhere (fix build TG, 2026-11-12).
+13. **What Reading Practice Builds**
+    (`word/what-reading-practice-builds`) — the three purposes
+    of reading teaching and the twelve reading abilities.
+    Teacher-guide evidence only (Grade 10 guide), labelled and
+    counted nowhere (fix build TG, 2026-11-12).
+14. **How New Words Are Taught** (`word/how-new-words-are-taught`)
+    — the guides' own vocabulary method: the word in its
+    network, guessed from context, then fixed. Teacher-guide
+    evidence only (Grade 10 guide), labelled and counted
+    nowhere (fix build TG, 2026-11-12).
+15. **Reading-Lesson Cautions** (`word/reading-lesson-cautions`)
+    — what the Grade 10 guide warns a reading lesson must not
+    become. Teacher-guide evidence only, labelled and counted
+    nowhere (fix build TG, 2026-11-12).
 
 ## Unit 4 — Sentence
 

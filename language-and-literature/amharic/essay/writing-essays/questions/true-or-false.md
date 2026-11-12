@@ -40,3 +40,18 @@ Say whether each sentence is true or false.
 
 **13. (Sub lesson 15)** A cause-and-effect essay is a chain, not a list — each link pulls the next.
 **Answer: True**
+
+**14. (Sub lesson 16)** The Grade 7 guide sets persuasive writing as two tasks with assessment.
+**Answer: True**
+
+**15. (Sub lesson 17)** A descriptive essay on a traditional game, written in groups of five, is set inside the Grade 9 guide's Chapter 7 grammar part.
+**Answer: True**
+
+**16. (Sub lesson 18)** The season essay is written from an outline tool (ቢጋር).
+**Answer: True**
+
+**17. (Sub lesson 19)** The correction repertoire has four hands: self, peer, group and teacher correction, alternated as needed.
+**Answer: True**
+
+**18. (Sub lesson 20)** The unity-and-diversity writing sequence builds sentences of different sizes first, then a paragraph organised around one idea.
+**Answer: True**

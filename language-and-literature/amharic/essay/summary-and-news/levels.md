@@ -18,5 +18,7 @@ Sub lesson 2 questions from the type files. Pass mark: write a two-paragraph new
 ## Sub lesson 3 — Grade 5 and 6: the main-idea paragraph, a poem's message in prose, and the school-week news item
 Sub lesson 3 questions from the type files. Pass mark: write Fatuma's main idea in one paragraph of single sentences, write 'Life Is a Pair of Legs' as a prose paragraph, and write a news item on your school's week.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
 
-
+## Sub lesson 4 — A report on the COVID period — the Grade 9 guide's report writing (teacher guide — evidence)
+Sub lesson 4 questions from the type files. Pass mark: state the report's subject (the COVID period), its group shape (3–5) and its stages (collect information → write → present).

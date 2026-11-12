@@ -110,3 +110,28 @@ Sub lesson 26 questions from the type files. Pass mark: give a role speech insid
 ## Sub lesson 27 — Grade 7: the love-poem exchange as role play
 Sub lesson 27 questions from the type files. Pass mark: perform the exchange in two voices, answering each image with its turn.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 28 — Talking about the story — checking and feedback (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+## Sub lesson 29 — Talking about Marta's Diary (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 30 — Speaking patterns from the Addis guides — word choice, debate rules, discuss then present (teacher guide — evidence)
+Sub lesson 30 questions from the type files. Pass mark: state the Grade 7 guide's first speaking note (special attention to word choice), what its debate pages add (a running help-note + presentation rules), and the Grade 8 pattern in order (discuss → present; pairs; representatives in an informative speech).
+
+## Sub lesson 31 — Speeches learners prepare — the Grade 9 guide, first set (teacher guide — evidence)
+Sub lesson 31 questions from the type files. Pass mark: name the four tasks and their shapes: successful-women speech (+ athlete homework), industry research report and picture debate, disease-prevention group presentation, and the harm classification (economic, social, health) explained in speech.
+
+## Sub lesson 32 — Speeches learners prepare — the Grade 9 guide, second set (teacher guide — evidence)
+Sub lesson 32 questions from the type files. Pass mark: give the discussion group's five roles exactly (chair, secretary, three discussants) and the listeners' job; name the tax group's two chosen officers; state the local-hero speech's subject (a person famous locally for serving the country).
+
+## Sub lesson 33 — Speaking from the life around you — the Grade 10 guide, first set (teacher guide — evidence)
+Sub lesson 33 questions from the type files. Pass mark: name the four parts and one exact detail each: the role-shifted work-culture speech; the hospital role-play's group size (five) and its drama homework; the observed-reality speech topics; the patriotism chapter's maxim, in Amharic.
+
+## Sub lesson 34 — Reports, debates and keeping talk going — the Grade 10 guide, second set (teacher guide — evidence)
+Sub lesson 34 questions from the type files. Pass mark: name the three field-report topics; state Chapter 7's speaking work (discussion/debate on inclusive education); repeat the three quoted conversation extenders and say what they are for (keeping speeches from staying short).

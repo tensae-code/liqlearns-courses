@@ -52,3 +52,18 @@ Say if the sentence is true or false.
 
 **17. (Sub lesson 34)** The sun's light is said to vary in an 11-year cycle.
 **Answer: True**
+
+**18. (Sub lesson 38)** In the Grade 8 guide, the Chapter 1 pre-reading questions are discussed before the text is read.
+**Answer: True**
+
+**19. (Sub lesson 39)** After The Elder's Blessing, the guide directs discussion to sons and daughters working and studying equally.
+**Answer: True**
+
+**20. (Sub lesson 39)** The true/false key for the sustainable-development reading runs T, T, F, F, T.
+**Answer: True**
+
+**21. (Sub lesson 40)** The Development-Patriot General reading begins with a pair discussion on the meaning of heritage (ቅርስ) and prediction from the title.
+**Answer: True**
+
+**22. (Sub lesson 41)** The Grade 10 guide warns that true/false questions alone can fully measure comprehension.
+**Answer: False — it warns they cannot; learners must find the evidence in the text**

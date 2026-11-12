@@ -120,3 +120,10 @@ list as they are — choosing, not remaking.
 **Growth note (2026-11-12, Amharic fix build):** Sub lesson 7 added — the Grade 4 student book's front matter (printed pp. vi–viii): the icon/skill system explained, and ማጣመር/መነጠል (blending/splitting) stated as that book's own method. The audit found the method taught here but cited only to the Grade 1 student book and the Grade 1/Grade 2 teacher guides, with the Grade 4 front-matter statement and the icon system missing; Sub lesson 7 stocks both, cited to Grade 4 pp. vi–viii. The first six sub lessons are unchanged.
 
 - Sub lesson 7 — The Grade 4 book's method page: icons, and ማጣመር/መነጠል: name each task's skill from its icon; blend a word's parts, then split the whole word into fidel units.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 8 — Writing: joining fidel on the line — the teacher's checklist (teacher guide — evidence) (G1-U4-8, Grade 1 Amharic Teacher Guide, printed p. 35).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 9 — **Words into syllables — ምእላድ (teacher guide — evidence)** — split words into syllables (ምእላድ መነጣጠል) and combine syllables into words (ማቀናጀት); the chapter assessment checks the syllable work.

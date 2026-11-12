@@ -30,3 +30,7 @@ Sub lesson 6 questions from the type files. Pass mark: pick singular from plural
 ## Sub lesson 7 — Grade 8: singular and plural — the Iddir chapter's sets
 Sub lesson 7 questions from the type files. Pass mark: turn three singulars into plurals and strip three plurals back, including one pronoun or verb.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 8 — Singular and plural — the Addis guides' chart and sentences (teacher guide — evidence)
+Sub lesson 8 questions from the type files. Pass mark: name the Grade 7 part's material (a chart showing singular and plural) and the Grade 8 step beyond it (correct use inside sentences).

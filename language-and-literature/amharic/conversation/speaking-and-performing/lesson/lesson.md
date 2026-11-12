@@ -324,6 +324,72 @@ Two closing speaking tasks. The ambassadors (pp.140–141): three groups act as 
 
 The oral-poems chapter closes with a performed exchange: the love poems given as a role play, male and female voices answering. His verses: 'I tame the flying birds for the one I love.' Hers: 'Since you tamed the flying birds, let me fly with them — release me.' His: 'Let me be made the chaff of your door, and enter your house flattened.' Hers: 'Why are you likened to chaff? Be the fruit, and I'll taste and taste you.' His: 'The car road cut my heel; everyone knew me by my wound for you.' Hers: 'If people knew, what grieves you? Come to me, and I'll hold you night and day.' His: 'Unless it growls the leopard doesn't eat — let me make you a rifle on my arm.' Hers: 'When the moon rises trembling, let me make you a silver cross on my breast.' Perform it as it is built: every verse ANSWERED, its image taken up and turned — that answering is the art. Its grammar partner, the sentence-structure diagram, is stocked in The Sentence.
 
+## Sub lesson 28 — Talking about the story — checking and feedback (teacher guide — evidence)
+
+This part is teacher-guide evidence: the talk that follows listening. The teacher works through the learner book's listening-information questions with the class, corrects what is wrong, and gives feedback (ግብረ መልስ) using the guide's printed model — answer, hear the correction, say it right. Talking about a story is a skill of its own: say what happened, answer a question about it in a full sentence, and accept a correction without losing your place. Practise in pairs: one asks from the story, one answers, then swap — and give each other one honest correction each.
+## Sub lesson 29 — Talking about Marta's Diary (teacher guide — evidence)
+
+This part is teacher-guide evidence: the talk and word work after Marta's Diary (the diary itself stands in Listening Stories). Retell the diary in your own words — what Marta's mother bought her, where her father took her, what the man explained about Hamle 19 Park. Then work the diary's words in talk: use each new word inside a sentence about a real place you know. A diary retold well keeps its order: first the gifts, then the trip, then the park — and what Marta felt about each.
+## Sub lesson 30 — Speaking patterns from the Addis guides — word choice, debate rules, discuss then present (teacher guide — evidence)
+
+Four speaking parts from the Addis Ababa guides, stocked as labelled evidence beside this lesson's student-book debate and discussion parts.
+
+**Word choice (Grade 7 guide).** The Chapter 1 speaking part opens with a guidance note (የንግግር መመሪያ) before any task: in speech, give **special attention to word choice** (ለቃላት ምርጫ ልዩ ትኩረት) — the words a speaker picks are the first speaking skill the guide names.
+
+**The debate help-note (Grade 7 guide, Chapter 2).** Before the class debates, the guide gives the teacher a **help-note for running a debate**, then the **rules of debate presentation** (የክርክር አቀራረብ) — the points to observe while presenting an argument. The full debate protocol taught earlier in this lesson stands under student-book citations; these pages are the teacher guide's own running-note and presentation rules, kept with their own citation.
+
+**Discuss first, then present (Grade 8 guide).** The speaking parts run in one pattern: questions are **discussed as a class first, then presented** to classmates in speech. In Chapter 2 the first questions are worked **in pairs** (ጥንድ ጥንድ); in Chapter 3 the class presents **through group representatives as an informative speech** (በመረጃ ሰጪ ንግግር መልክ), with dialogue practice (ጭውውት) — the assessment watches that the dialogue was actually practised and the discussion held.
+
+## Sub lesson 31 — Speeches learners prepare — the Grade 9 guide, first set (teacher guide — evidence)
+
+Four speaking tasks from the Grade 9 guide, stocked as labelled evidence — speeches that begin in research, not in improvisation.
+
+**Speeches about successful women.** Learners prepare and deliver speeches on **successful women**; the homework variant is a speech about a **chosen woman athlete**, and the guide coaches what points a speech preparation must cover.
+
+**Industry, reported and debated.** Groups of **five** research **industrial villages** (የኢንዱስትሪ መንደሮች) and report in a speech; then, from a picture, the class speaks on **cottage industry (የጎጆ ኢንዱስትሪ) versus modern industry**, supporting or opposing classmates' points to keep the discussion alive.
+
+**Preventing communicable diseases.** Groups of five gather what **government and citizens** must each do to prevent and eliminate communicable diseases, and present it next period.
+
+**Debate, and harms sorted by kind.** The whole class splits in two to debate special support for women; in the second task, words and phrases from the chapter's listening are classified into **economic harm, social harm and health harm**, and the classification is explained in a short speech.
+
+## Sub lesson 32 — Speeches learners prepare — the Grade 9 guide, second set (teacher guide — evidence)
+
+Four more Grade 9 guide speaking parts, stocked as labelled evidence.
+
+**A discussion with officers.** On controlling climate change, groups of **five** appoint a **chair, a secretary and three discussants**; the group researches (reading, asking knowledgeable people) and presents next period, while **listeners take notes and ask questions**. The roles are the teaching: a discussion that runs itself.
+
+**Context-based speech.** Chapter 7's speaking work: groups assemble their debating points and complete the message accurately — **context-based speech** (አውድ ተኮር ንግግር), speech fitted to its occasion.
+
+**A class speech on tax.** Groups of five choose a **chair and a reporter**, prepare, and present speeches on two given tax topics.
+
+**Social relations, role-play, and a local hero.** Learners speak on the **nature of social relations** (የማህበራዊ ግንኙነት ምንነት) and take part in **role-play** (ሚና ነጠቃ); and each learner chooses **a person famous in their own area for serving the country** and presents a speech about the deed.
+
+## Sub lesson 33 — Speaking from the life around you — the Grade 10 guide, first set (teacher guide — evidence)
+
+Four Grade 10 guide speaking parts, stocked as labelled evidence — speech drawn from work, sickness and the street outside.
+
+**Work culture, in role.** The class discusses selected contents, then speaks **in role** (በሚና-ተኮር ልምምድ) on work culture — the same matter, carried by a character.
+
+**"Going to the Hospital."** Groups of **five** perform the social-encounter role-play **«ወደ ሆስፒታል መሄድ»**. The homework listens outward: hear the **dramas broadcast on local media** and report the messages they carried.
+
+**Speeches from observed reality.** Some learners speak on the **behaviour of alcohol-addicted people they have actually seen** in their neighbourhood or home; others on the **social and economic harms of the local chat houses, shisha houses and alcohol houses** — while the teacher circulates, monitors and supports. Plus role-play speech (ሚና ነጠቃ).
+
+**Love of country, debated.** Discussion and debate on **love of country (ሀገር ፍቅር)**, exchanging experience of patriotism in speech — under the chapter's maxim, kept whole: **speaking is learned by speaking** (ንግግርን ማስተማር የሚቻለው በንግግር ነው).
+
+## Sub lesson 34 — Reports, debates and keeping talk going — the Grade 10 guide, second set (teacher guide — evidence)
+
+Four more Grade 10 guide speaking parts, stocked as labelled evidence.
+
+**Field reports on local culture.** Learners gather information and report to the class on: **(a)** cultural performances in their area; **(b)** how traditional-medicine knowledge is transmitted and kept secret (a group discussion); **(c)** traditional marriage in their area (an oral report).
+
+**Inclusive education, debated.** Chapter 7's speaking part is discussion and debate on **inclusive-education topics** — the chapter whose listening and reading stand elsewhere in this course.
+
+**Unity and diversity, spoken.** Discussion and a speech on **unity and diversity**, speaking about the content of the text read.
+
+**Keep the talk going.** The Migration chapter coaches a technique with a name in the classroom: **conversation extenders**. Grouped conveniently, each group with its questions, learners are coached to stretch their talk with extender phrases — the guide quotes them: **«እሺ!»** ("okay!"), **«ከዚያስ?»** ("and then?"), **«በምን ምክንያት እንዲህ የሆነ ይመስላችኋል?»** ("why do you think it happened so?") — so speeches do not stay short.
+
+[Picture 31505 — conversation extenders: speech bubbles እሺ! and ከዚያስ?]
+
 ## Say it to your companion
 
 This lesson's companion work is its whole body: tell a tale in

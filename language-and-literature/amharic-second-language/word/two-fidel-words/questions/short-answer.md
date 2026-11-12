@@ -13,3 +13,9 @@ Answer out loud, or by doing the thing.
 
 **4. (Sub lesson 4)** What single thing was added to መጣ to make መጣች — and what did it change?
 **Answer: the fidel ች (the -ች tail)** — it changed the meaning from "he came" to "she came".
+
+**5. (Sub lesson 5)** Say the Chapter 4 listening task in Amharic, as the guide phrases it.
+**Answer:** ታሪክን አዳምጠው ደግመው ይናገራሉ — hear a story and retell it.
+
+**6. (Sub lesson 6)** Name the three speaking checks the block lists.
+**Answer:** Short-answer monitoring, short tests, and story retelling.

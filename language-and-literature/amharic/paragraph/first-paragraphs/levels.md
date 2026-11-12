@@ -20,3 +20,7 @@ Sub lesson 3 questions from the type files. Pass mark: grow a paragraph of at le
 ## Sub lesson 4 — Grade 7: one paragraph, then correct its errors
 Sub lesson 4 questions from the type files. Pass mark: compose one paragraph on one topic, then correct it in a second pass.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 5 — The paragraph, finished and friend-checked — the Addis guides' writing parts (teacher guide — evidence)
+Sub lesson 5 questions from the type files. Pass mark: describe Task 2 exactly (exchange notebooks; work on each other's paragraph) and state the Grade 8 task (complete the unfinished paragraph's idea).

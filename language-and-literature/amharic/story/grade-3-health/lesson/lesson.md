@@ -52,6 +52,12 @@ Complete a paragraph about the symptoms of typhoid. Ask people — family, neigh
 
 Write five sentences using the blood-contact word set: **ቫይረስ** virus, **ጥንቃቄ** care/caution, **ምላጭ** razor blade, **ደም ንክኪ** blood contact, **መቀቀል** sharing/using in turn. Each word must do real work in its sentence.
 
+## Sub lesson 6 — Grade 3 Unit 1 opens: Health — ጤና (teacher guide — evidence)
+
+This part is teacher-guide evidence. Grade 3 Unit 1 is ጤና (Health). Its objectives: present an oral report (የቃል ዘገባ) based on a heard reading; read a given text in connected sequence; give the meanings of words from the reading; and pick out adjectives (አይነግሮች) inside sentences. Its parts are listening-and-speaking, reading, words and writing, and it opens with የጥርስ ንፅህና አጠባበቅ — dental hygiene. The unit's stories and tasks stand in this course in their own parts; this opener is the map the Grade 3 task-note guide draws before them.
+## Sub lesson 7 — Unit 1 Check: Health (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Health unit's summary and its verification list. The unit heard a text on dental hygiene and reported it orally; read about environmental and personal hygiene and wrote its main ideas; gave new words' meanings; found adjectives in sentences and built sentences with them; and did the class questions. The check verifies four things: you can report the heard text; read the given text in connected sequence; give exact word meanings; and pick adjectives out of sentences. Four checks, matching the unit's four objectives — nothing in the check was not taught in the unit.
 ## Say it to your companion
 
 Tell your companion the chapter word — **ጤና** — and the one part of this lesson you liked most, in Amharic where you can. Your companion retells one story or rule from the lesson back to you, in their own words.

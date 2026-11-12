@@ -100,3 +100,12 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 - Sub lesson 16 — Grade 7: the adjective/adverb sorting table.
 - Sub lesson 17 — Grade 7+8: adverb types, persons, and picking adverbs out.
 - Sub lesson 18 — Grade 8: words that describe nouns and verbs.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 19 — Three-letter words: writing them, and nouns against verbs (teacher guide — evidence) (G1-U3-6, Grade 1 Amharic Teacher Guide, printed pp. 25–26).
+- Sub lesson 20 — Common nouns and proper nouns — ወንዝ or አባይ? (teacher guide — evidence) (G5-U1-7, Grade 5 Amharic Teacher Guide, printed pp. 12–13).
+- Sub lesson 21 — Proper or common? The big mixed chart (teacher guide — evidence) (G6-U1-6, Grade 6 Amharic Teacher Guide, printed p. 10).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 22 — **Word classes at work in sentences (teacher guide — evidence)** — build sentences with given complex words; a word's class changing inside a sentence; classify bold-underlined words from context (key: verb, adverb, verb, noun, adjective, verb, pronoun).

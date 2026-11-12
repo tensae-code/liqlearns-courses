@@ -182,6 +182,24 @@ Make new, intensive words by the doubling pattern: ሸቀጥ → ሸቀጣሸቀ
 
 Grade 7's volunteering chapter builds compound words (የተዋሃዱ ቃላት) from four roots. Each root joins a grid of second elements to make real compounds: ሥነ- (as in ሥነሕዝብ, ሥነምግባር), ፀረ- (against — ፀረወባ, ፀረሕዝብ), ቤተ- (house of — ቤተመጽሐፍት the library, ቤተክርስቲያን the church), ሕገ- (law — ሕገመንግሥት the constitution, ሕገወጥ unlawful). The book's grid of partners runs: ወባ, ሕዝብ, መስጊድ, ደንብ, ሥርዓት, ሕዋስ, አረም, ዕድገት, ክህነት, ልቡና, ዜጋ, ሰብል, ሰላም, መዘክር, ጥበብ, መጻሕፍት, ተባይ, ሥዕል, አንድነት, ግጥም, መንግሥት, ሙስና, ወጥ, ምግባር, ፀሎት, ምህዳር. ቤተ at the root of a word-family tree carries ቤተመጽሐፍት and ቤተክርስቲያን on its branches. Grade 8's justice chapter adds compound pairs of its own (model: ጥራዝ ነጠቅ, ወሬ ነጋሪ, ነገር አዋቂ) — pairs whose shared meaning is more than either half.
 
+## Sub lesson 8 — Unit 3 word tasks — the guide's keys, and who is included (teacher guide — evidence)
+
+This part is teacher-guide evidence: two printed task keys and an inclusion direction. Key 1 (ትዕዛዝ ፩): እንጠጠ, ሀብረት, የከተት, በርክታ, ሃወልት — with the guide's own note that other words are possible, and answers are judged against the reading. Key 2 (ትዕዛዝ ፪): ተረተ, ቅረተ, ቅርስ, ተሰፋ, በረታ. Work the tasks, then mark against the keys — and remember the guide's note: a different word can still be right if the reading supports it. The inclusion direction stands with the keys: when tasks are done, blind learners (ዓይን ስወር) and other special-needs learners work with the special-needs professional's support plan, so nobody is left outside the task.
+## Sub lesson 9 — Building words: join the parts, fix the ending (teacher guide — evidence)
+
+This part is teacher-guide evidence: የቃላት ምስላድ — word formation. Build a word by joining its given parts, and adjust the word's ending correctly. The printed answers stand as the checked set. Joining task: ሀ. ማንዘህ ሐ. ጀርባው ሠ. ቅዳው ለ. ልጽናት መ. ትምህርትሽ. Ending task: ደብተር-ሀ, ጨረስ-ች, ሰራ-ው, አልጋ-ዋ, ቆንጆ-ምች — each base with the ending that fits it. Join first, then fix the ending: a joined word with the wrong ending is a word half-built. The assessment the guide names is watching: the teacher watches learners joining words and adjusting forms correctly — the doing itself is the test.
+## Sub lesson 10 — ድርብ ቃላት — compound words in the guides' own term, and word formation (teacher guide — evidence)
+
+This lesson teaches compound words under the name ጥምር ቃላት, from student books and earlier guides. Three later guides name and set the same work in their own words, and their pages are stocked here as labelled evidence.
+
+**ድርብ ቃላት — the Addis Grade 7 guide's term.** Chapter 3's vocabulary part: after understanding is checked, learners **write compound words (ድርብ ቃላት) following the given model**. The thing is the same as this lesson's compound words; the guide's own term for it is ድርብ, and it is kept.
+
+**ድርብ ቃላት again — the Grade 10 guide.** Chapter 10's vocabulary: **write compound words and use them when building sentences**; its syllabus appendix adds the full demand — form them, use them correctly, and **give their literary meaning**.
+
+**Word formation (የቃላት ምስረታ) — the Grade 10 guide, Chapter 9.** Form words **using the word-formation rules/sounds** (የቃላት መመስረቻ ድምጾች); and vocabulary knowledge is built the steady way — by **collecting new words from the texts** read.
+
+[GIF 31511 — two words joining into one compound word]
+
 ## Say it to your companion
 
 Play builders. One of you names two words — ፍኖተ and ሰላም,

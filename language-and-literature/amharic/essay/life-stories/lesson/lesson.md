@@ -216,6 +216,14 @@ hearing, details on the second, nothing invented between.
 Turn the fact card of Haile Gebrselassie into a flowing paragraph: name; parents; born 1966 E.C. in Arsi, Chialo, Tiyo woreda; his motto ይቻላል! — "It is possible!"; his records and medals at 2000 m, 5000 m and 10,000 m; now investing in development. The card gives facts in rows; the paragraph must make them walk in order — birth, rise, records, today. The review lesson then edits and rewrites the paragraph, as the book sets both passes.
 
 
+## Sub lesson 9 — Researching a person's life — the federal guides' method (teacher guide — evidence)
+
+How do you write the life of a person who is not in any book? The Grade 9 guide's Chapter 10 writing part answers it as a method, and it is stocked here as labelled evidence beside this lesson's student-book biography method.
+
+**The researched profile.** Choose **a well-known person in the locality**. **Gather information by asking people** — the sources are the neighbours, family and elders who know them. **Organise** what you gathered, and **present it in writing**. Ask, order, write: the profile is researched before it is composed.
+
+**The Grade 10 guide's pairing.** The Grade 10 guide's first writing part sets **writing a person's life history (የሕይወት ታሪክ)** beside its letters, with **sample biographies** among its named materials — a written life learned from written lives, at the same pages where the Letters lesson stocks the guide's letter half.
+
 ## Say it to your companion
 
 Choose one of the worked lives — Abebe Bikila, Dr Haddis

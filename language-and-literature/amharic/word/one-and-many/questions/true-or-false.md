@@ -16,3 +16,6 @@ Say true or false.
 
 **5. (Sub lesson 7)** Pronouns and verbs change for number as well as nouns — አንተ is in the set to prove it.
 **Answer: True**
+
+**6. (Sub lesson 8)** The Grade 8 guide checks singular and plural inside sentences, not only in lists.
+**Answer: True**

@@ -58,3 +58,7 @@ a) Their group — the people with them  b) Their belongings  c) Their village o
 **14. (Sub lesson 7)** Which of these is already a PLURAL form?
 a) ሴት  b) ነገረኞች  c) በሬ
 **Answer: b) ነገረኞች** — ነገረኞች carries the plural piece -ኦች; ሴት and በሬ are singular.
+
+**15. (Sub lesson 8)** The Grade 7 guide's named material for singular and plural is —
+a) a song  b) a chart showing singular and plural  c) a story
+**Answer: b) a chart showing singular and plural**

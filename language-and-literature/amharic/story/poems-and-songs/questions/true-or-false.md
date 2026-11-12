@@ -69,3 +69,6 @@ Say if the sentence is true or false.
 
 **23. (Sub lesson 25)** The grandmothers' long age is presented as the fruit of a childhood of service in uprightness.
 **Answer: True**
+
+**24. (Sub lesson 26)** The Grade 9 guide explains why sayings matter before learners explain the sayings' meanings.
+**Answer: True**

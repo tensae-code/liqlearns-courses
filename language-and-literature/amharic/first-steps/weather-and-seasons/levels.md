@@ -16,3 +16,9 @@ Sub lesson 2 questions from the type files. Pass mark: the four seasons in their
 
 ## Sub lesson 3 — The Grade 2 book's season words
 Sub lesson 3 questions from the type files. Pass mark: use the four season words, build a የጥቅምት እሸት-shaped phrase, and write a sentence with መስከረም and ፈነዳ.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 4 — Match the season to its months — the guide's keys (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

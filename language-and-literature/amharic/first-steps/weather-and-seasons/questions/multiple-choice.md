@@ -29,3 +29,15 @@ a) What grows in it  b) A river  c) A school
 **7. (Sub lesson 3)** ፈነዳ goes with መስከረም because in Meskerem the adey flower…
 a) Bursts open  b) Is planted  c) Is sold
 **Answer: a) Bursts open** — the book's sentence words.
+
+**8. (Sub lesson 4)** The task matches —
+a) clothes to materials  b) seasons to their months  c) stories to tellers
+**Answer: b) seasons to their months** — Seasons to months.
+
+**9. (Sub lesson 4)** The letter key runs —
+a) 1. ለ 2. ሀ 3. መ 4. ሐ  b) 1. ሀ 2. ሀ 3. ሀ 4. ሀ  c) there is no key
+**Answer: a) 1. ለ 2. ሀ 3. መ 4. ሐ** — 1. ለ 2. ሀ 3. መ 4. ሐ.
+
+**10. (Sub lesson 4)** መጋቢት and ግንቦት appear in —
+a) the month sets on the charts  b) the dictation list  c) the fox story
+**Answer: a) the month sets on the charts** — They are chart month sets.

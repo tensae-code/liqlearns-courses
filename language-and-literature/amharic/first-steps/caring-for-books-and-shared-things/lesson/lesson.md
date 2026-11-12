@@ -18,6 +18,9 @@ Do the three hand-jobs of care. First, cover the book — paper or plastic wrapp
 
 Books are not the only shared things. A classroom chair, a school water tap, a library globe, a shared football — each one serves many people, and each one lasts only if everyone treats it as their own and as everyone's. The rule is one: use it gently, leave it clean, report damage at once, and never take a shared thing as if it were yours alone.
 
+## Sub lesson 4 — How a Book Works — print concepts (teacher guide — evidence)
+
+This part is teacher-guide evidence: the Grade 1 guide's print-concepts strand (የጽሑፌት ጽንሰ ሃሳብ). Do it with a real book in your hands. Hold the book the right way up and open it from the front. Reading starts at the beginning and moves through the pages in order — the print, not only the pictures, carries the story. Point as you go: where the reading starts, which way it runs, and where this page ends. Handling the book gently is part of the skill — a book you can open, follow and close with care is a book that stays readable for the next reader too.
 ## Say it to your companion
 
 Tell your companion the main thing each sub lesson taught, in your own words, in order. Your companion asks one question about each part, and you answer from the lesson. Then swap.

@@ -27,3 +27,6 @@ same-meaning list.
 
 **8. (Sub lesson 8)** Word halves are joined into whole phrases, like ለሥራ→ክፍያ.
 **Answer: True**
+
+**9. (Sub lesson 10)** The mediation reading's synonym/antonym matching is set as homework in the Grade 9 guide.
+**Answer: True**

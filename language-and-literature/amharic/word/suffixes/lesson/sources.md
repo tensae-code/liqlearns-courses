@@ -45,6 +45,7 @@ countries: Ethiopia
 | Sub lesson 7 — Stem + ending suffix — እንቅልፋችሁ | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.29 |
 | Sub lesson 7 — Word and suffix — ዘመናቸው split | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.132 |
 
+| Sub lesson 8 — Split the word: root and suffix — and ten matches (teacher guide — evidence) | Ethiopia, *Grade 6 Amharic Teacher Guide*, printed pp. 15–16 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The person-suffix paradigm and the prefix/suffix diagram rest on teacher-guide evidence (Grade 4 TG, pp.32–33); the suffix-splitting skill itself is pupil-taught in the Grade 1 and Grade 3 student books, so the lesson's acceptance count stands at 1 country. (2) The Grade 4 Teacher Guide's secured file is truncated at printed p.42; pp.32–33 sit inside the read span. Its title page wrongly reads "student book, Part 1" (template anomaly in the placements); it is cited as the teacher guide its cover, footers and content show. (3) No hardness numbers are written anywhere in this lesson — the books give none.
@@ -55,5 +56,7 @@ G9–G10 growth honesty notes: (9) Sub lesson 6 rests on teacher-guide evidence 
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: suffixes, prefixes, ቅጥያ, ቅጥያዎች, ክፍያውን, ቤትህ, ቤትሽ, ቤቴ, ቤታችን, በላ, እንደበላ, ስለበላ, እስበላ, ሊበላ, ቢበላ, splitting words, adjective suffixes, -አዊ, ኢትዮጵያዊ, -አማ, ድንጋይአማ, -ኣም, ሆዳም, -ተኛ, ሕመምተኛ, derived verbs, ሥርወቃል, ሰፋ, አሰፋ, ተሰፋ, ቆረጠ, ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ, ቅድመ ገብ, ድህረ ገብ, ቅድመ አምድ, ድህረ አምድ, affixes, ጥገኛ ምዕላድ, ምዕላድ, ኢ-, መ-, -ነት, -ኦሽ, ከሴቶች

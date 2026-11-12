@@ -10,6 +10,8 @@ countries: Ethiopia
 
 **Book 4:** *Grade 4 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 167 printed pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-student-placements.md.
 
+**Book 5:** *Grade 4 Amharic Teacher Guide (አማርኛ እንደመጀመሪያ ቋንቋ መምህር መምሪያ, ፬ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 6. The secured file ends at printed p.42 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — conjunctions (አያያዦች): እና, ግን, ነገርግን, እንጂ, ወይም, ቢሆንም, ስለዚህ, በመሆኑም join two simple sentences into a compound (ድርብ) sentence; identify conjunctions in 10 sentences; write 5 own compound sentences | Ethiopia, *Grade 7 Amharic Student Textbook*, printed p.5 |
@@ -33,8 +35,11 @@ countries: Ethiopia
 | Sub lesson 6 — compound-joining grammar, the Migrant Wane | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 65–66 |
 | Sub lesson 6 — compound joining, the debate chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 135–136 |
 | Sub lesson 6 — compound joining, the ambassadors chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 140–141 |
+| Sub lesson 7 — Joining words in a real paragraph (teacher guide — evidence) | Ethiopia, *Grade 4 Amharic Teacher Guide*, printed pp. 34–35 |
 **Acceptance count: taught in 1 country (Ethiopia).** Sub lessons 1–2 are pupil-taught in the Grade 7 student book; Sub lesson 3 stands on teacher-guide evidence (named above) and is counted inside the lesson's one country only through its student-book sub lessons — the transitional-words part itself is evidence, labelled, and adds no separate count.
 
 Honesty notes: (1) The Grade 8 Teacher Guide's secured file is truncated at printed p.38: its Chapter 4 aims and contents (printed p.34) name transitional words (መሸጋገሪያ ቃላት) as the chapter's writing skill, but the writing part that teaches them lies past the file's end and was not read. Sub lesson 3 therefore teaches the *use* of transitional words from the joiners the student books themselves teach (ስለዚህ, ይሁንእንጂ, በመሆኑም, ስለሆነም, ነገርግን, ምክንያቱም — Grade 7 student book, printed pp.5, 87), under the guide's name for the skill; no transitional word is used in Sub lesson 3 that the student books do not themselves teach as a joiner. (2) The word-kinds lesson's Sub lesson 4 already introduced conjunctions as አያያዥ ቃላት with the G4 teacher guide's name መስታጽምር; this lesson uses the Grade 7 student book's own terms — አያያዦች for the coordinating family and ጥገኛ መስተፃምር for the subordinate set — and does not re-teach the word-kinds sorting, only grows it. (3) No hardness numbers are written anywhere in this lesson — the books give none.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: joining words, conjunctions, አያያዦች, አያያዥ, coordinating, subordinate conjunctions, ጥገኛ መስተፃምር, transitional words, መሸጋገሪያ ቃላት, compound sentence, ድርብ ዓረፍተነገር, እና, ወይም, ነገርግን, ይሁን እንጂ, ስለዚህ, በመሆኑም, ምክንያቱም, ስለ, እንደ, ሲ, አህመድ ቶሎ ስለመጣ

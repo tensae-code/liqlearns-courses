@@ -110,6 +110,17 @@ Two books, one skill, harder texts. Grade 7 (p.16): contextual meanings AND anto
 
 Grade 8 mixes the forms. The bat chapter (pp.44–45) pairs a cloze word bank with antonym matching: ጦርነት, ዳር, ድል, ሰማይ, መጥፋት, ማብረድ, ቆመ, ፈራ, እርቅ, አገኘ, ምስጋና — war and reconciliation, defeat and victory, standing face to face as the bat and the hen did. Maru Forsa Part 2 (p.54) matches related words (ላባቸው, ወገባቸው, ተስፋ, ብድር, አውራ, ሀሞቱ) and closes a cloze from its bank. The child-labour chapter (pp.95–96) adds word halves to join (ለሥራ→ክፍያ, ጉልበታቸው→ሳይጠነክር, ተመጣጣኝ→ዋጋ), antonyms (መንፈሳቸው, ባዕድ, ማታለል, አቀርቅረው, ብርሃን, ማደር, ጠባብ, ግዳጅ) and its own cloze — three forms in one lesson, as the course's cloze home in Study Skills also records.
 
+## Sub lesson 9 — Synonym match, antonym fill — then swap and mark (teacher guide — evidence)
+
+This part is teacher-guide evidence, in two tasks and one method. Task 1: match the text's phrasal words to their synonyms — key: 1. ለ 2. መ 3. ሀ 4. ረ 5. ሐ 6. ሰ. Task 2: fill the gaps in a paragraph with the ANTONYMS (opposites) of the bracketed words — the sentence only works if the opposite is right. Then the method that gives this part its name: when both tasks are done, learners exchange work and mark each other's answers (አንደ በአንደ ይቀበላቸው — they receive each other's work) before the teacher's correction. Marking a partner's work against a key teaches twice: once in the doing, once in the checking. The named teaching aid is a flash-card chart of synonyms and antonyms. Synonyms and antonyms are taught from other books in this lesson's earlier parts; this part is the Grade 5 guide's own tasks, key and peer-marking method, as evidence.
+## Sub lesson 10 — Synonyms and antonyms from the mediation reading — the Grade 9 guide (teacher guide — evidence)
+
+The Grade 9 guide's first vocabulary part is stocked here as labelled evidence, in the lesson where same-meaning and opposite-meaning words live.
+
+From the Chapter 1 reading — Traditional Mediation — learners work **synonyms and antonym matching**, set as **homework** and afterwards checked against the passage itself. The guide prints a sample synonym answer, kept exactly: **ቅደም ተከተል = የአሰራር ቅደም ተከተል** — the phrase for the order of a procedure matched to its fuller form.
+
+The matching sets themselves belong to the chapter's reading; what is stocked here is the guide's task, its homework setting, and its one printed keyed pair.
+
 ## Say it to your companion
 
 Sit facing your companion. One of you says a word from the

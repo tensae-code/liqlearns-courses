@@ -73,3 +73,6 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 7 — Grade 8: singular and plural — the Iddir chapter's sets.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 8 — **Singular and plural, the guides' pages (teacher guide — evidence)** — Grade 7: ነጠላና ብዙ ቁጥር with a singular/plural chart as material; assessment on distinguishing. Grade 8: singular/plural markers used correctly inside sentences.

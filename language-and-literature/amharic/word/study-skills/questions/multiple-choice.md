@@ -90,3 +90,23 @@ a) exploitation cannot be stopped by anyone  b) government and people must rise 
 **22. (Sub lesson 16)** ውቅያኖስ is —
 a) a pond  b) an ocean  c) a well
 **Answer: b) an ocean** — the ocean is the ladder's top — it holds the seas.
+
+**23. (Sub lesson 17)** መነጠልና ማገመር means —
+a) Split and Guess  b) Read and Forget  c) Copy and Close
+**Answer: a) Split and Guess** — Split and Guess.
+
+**24. (Sub lesson 17)** The worked example word is —
+a) እሽሩ  b) ቤት  c) ወንዝ
+**Answer: a) እሽሩ** — እሽሩ.
+
+**25. (Sub lesson 17)** In its sentence, እሽሩቸውን lands as —
+a) their houses  b) their contribution/effort  c) their clothes
+**Answer: b) their contribution/effort** — Contribution/effort.
+
+**26. (Sub lesson 18)** The Grade 7 guide tells teachers to teach learners three habits toward a text. They are —
+a) predict, monitor their own understanding, evaluate  b) copy, memorise, recite  c) skip, guess, forget
+**Answer: a) predict, monitor their own understanding, evaluate**
+
+**27. (Sub lesson 19)** Which pair is one of the Grade 10 guide's set contrast topics?
+a) Telebirr and mobile banking  b) rain and rivers  c) drums and flutes
+**Answer: a) Telebirr and mobile banking**

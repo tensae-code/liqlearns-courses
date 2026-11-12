@@ -42,3 +42,34 @@ a) Demle and Berihun, the herders  b) Fatuma and her friends  c) Asrat and Lubab
 a) The punctuation  b) The handwriting colour  c) The page number
 **Answer: a) The punctuation** — hear it, write it — marks and all.
 
+**11. (Sub lesson 6)** A two-letter word is made by —
+a) joining two fidel  b) copying a picture  c) counting letters
+**Answer: a) joining two fidel** — Two fidel join into one word.
+
+**12. (Sub lesson 6)** Where do the words sit when you write them?
+a) Anywhere on the page  b) On the line, in rows  c) Only in the air
+**Answer: b) On the line, in rows** — Write in rows on the standard line.
+
+**13. (Sub lesson 6)** After writing a row, you —
+a) rub it out at once  b) read it back aloud  c) close the book
+**Answer: b) read it back aloud** — Read your row back aloud.
+
+**14. (Sub lesson 7)** Which fidel row does this writing part copy first?
+a) ሀ ለ ሐ  b) ጠ መ ረ  c) ቀ በ ተ
+**Answer: b) ጠ መ ረ** — Copy ጠ መ ረ first.
+
+**15. (Sub lesson 7)** Which of these is a two-letter word from the guide's patterns?
+a) ጠባ  b) ትምህርት  c) ቤተሰብ
+**Answer: a) ጠባ** — ጠባ — two fidel joined.
+
+**16. (Sub lesson 7)** The order of work is —
+a) words first, fidel never  b) copy the fidel row, then write words  c) only sing the fidel
+**Answer: b) copy the fidel row, then write words** — Fidel row first, then words.
+
+**17. (Sub lesson 8)** How many corrected model sentences does the Grade 9 guide supply for the disordered-sentence work?
+a) two  b) five  c) nine — in each of the two chapters
+**Answer: c) nine — in each of the two chapters**
+
+**18. (Sub lesson 9)** The Grade 10 guide sets how many ungrammatical sentences for correction in Chapter 3?
+a) six  b) sixteen  c) sixty
+**Answer: a) six**

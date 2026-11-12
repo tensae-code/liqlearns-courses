@@ -38,3 +38,10 @@ Sub lesson 8 questions from the type files. Pass mark: build a reference number 
 ## Sub lesson 9 — Grade 7: my greeting letter — the follow-on writing
 Sub lesson 9 questions from the type files. Pass mark: write a greeting letter to a real person with all the model's parts.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 10 — Informal writing — the Grade 7 guide's model paragraph (teacher guide — evidence)
+Sub lesson 10 questions from the type files. Pass mark: say what informal writing (ኢ-መደበኛ ጽሁፍ) is taught from (a model informal paragraph) and how it differs from the letter kinds (no formal frame).
+
+## Sub lesson 11 — Letters and a life — the Grade 10 guide's writing part (teacher guide — evidence)
+Sub lesson 11 questions from the type files. Pass mark: name the part's two writings (personal/job-application letters; a life history) and its three named materials (sample letters, sample biographies, a sample sales contract).

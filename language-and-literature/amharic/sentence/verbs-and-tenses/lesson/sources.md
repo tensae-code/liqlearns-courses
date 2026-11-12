@@ -10,6 +10,16 @@ countries: Ethiopia
 
 **Book 4:** *Grade 8 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 176 PDF pages, printed pp. 1–164. The placements give printed pages directly. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
 
+**Book 5:** *Grade 5 Amharic Teacher Guide (አማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መምሪያ መጽሐፍ, ፭ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum. Page rule: printed page = PDF page − 5. The secured file ends at printed p.42 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g05-teacher-placements.md.
+
+**Book 6:** *Grade 6 Amharic Teacher Guide (የአማርኛ እንደ መጀመሪያ ቋንቋ የመምህር መጽሐፍ, ፮ (6)ኛ ክፍል)* (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau, new curriculum. Page rule: printed page = PDF page − 6. The secured file ends at printed p.36 (truncated). Read page by page visually in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g06-teacher-placements.md.
+
+**Book 7:** *Grade 7 Amharic Teacher Guide* (አማርኛ እንደ መጀመሪያ ቋንቋ, የመምህር መምሪያ, ፯ኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Page rule: printed page = PDF page − 7. Read page by page in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g07-teacher-placements.md. The secured file holds printed pp.1–46 only (Chapters 1–3 complete, Chapter 4 cut off) — nothing past printed p.46 is cited anywhere in this lesson.
+
+
+**Book 8:** *Grade 8 Amharic Teacher Guide* (አማርኛ እንደ መጀመሪያ ቋንቋ, የመምህር መምሪያ መጽሐፍ, ፰ኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau. Page rule: printed page = PDF page − 5. Read page by page in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-teacher-placements.md. The secured file holds printed pp.1–38 only (Chapters 1–3 complete, Chapter 4 cut off inside the listening part) — nothing past printed p.38 is cited anywhere in this lesson.
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the verb's three times: present (የአሁን ጊዜ, happening as spoken), past (የሀላፊ ጊዜ, completed), future (የትንቢት ጊዜ, yet to happen), with አሁን, ትናንት, ነገ as markers; drilled by picking present-tense sentences and writing five present-tense sentences (grammar taught inside lesson 9.1.1, drilled in 9.2.1) | Ethiopia, *Grade 5 Amharic Student Textbook*, Chapter 9 (printed pp. 150–170), the grammar inside listening lessons 9.1.1/9.1.3 at printed pp. 150, 155 |
@@ -36,8 +46,14 @@ countries: Ethiopia
 
 | Sub lesson 7 — verb person forms, Chapter 1 discussion | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 13–14 |
 | Sub lesson 7 — past/present/future sentences, Chapter 2 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 31 |
+| Sub lesson 8 — Verbs with ተ-: spotting derived verb forms (teacher guide — evidence) | Ethiopia, *Grade 5 Amharic Teacher Guide*, printed pp. 34–37 |
+| Sub lesson 9 — Verbs that carry time: የጊዜ ተውላከ ግስ — and the trial test (teacher guide — evidence) | Ethiopia, *Grade 6 Amharic Teacher Guide*, printed pp. 29–30 |
+| Sub lesson 10 — the present tense (የአሁን ጊዜ), the guide's own page (teacher guide — evidence): identify present-tense sentences, then form them. Sub lesson 1 stands under Grade 5/8 student-book citations; this row adds the Grade 7 teacher guide's own page | Ethiopia, *Grade 7 Amharic Teacher Guide*, printed p.26 (placement 15) |
+| Sub lesson 10 — tense work, the guide's own page (teacher guide — evidence): a short note on the past tense (የኅላፊ ጊዜ, as printed); identify sentences containing present-tense verbs and form sentences using present-tense verbs (የአሁን ጊዜ ግስ). The lesson's tense parts stand under Grade 5/6/8 student-book citations; this row adds the Grade 8 teacher guide's own page | Ethiopia, *Grade 8 Amharic Teacher Guide*, printed p.23 (placement 12) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The two namings of the transitive/intransitive pair are both kept, exactly as the books give them: the Grade 5 and Grade 6 books say ተሻጋሪ ግስ / ኢተሻጋሪ ግስ; the Grade 7 book says ሳቢ ግስ / ኢሳቢ ግስ — and the Grade 5 book itself also calls the intransitive ኢሳቢ ግስ. The lesson teaches ሳቢ / ኢሳቢ as the head names and gives ተሻጋሪ / ኢተሻጋሪ alongside, so a learner meeting either book's term knows it. (2) Where the Grade 5 grammar is taught inside a listening lesson, the placements give the chapter's page span and the host lessons' printed pages, not a separate grammar page; the table cites those pages exactly and claims no other. (3) The Grade 8 book spells the past block ሀላፊ (without የ-) in its grammar note, while Grade 5 writes የሀላፊ ጊዜ; both spellings are kept where each book is quoted. (4) No hardness numbers are written anywhere in this lesson — the books give none.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: verbs, tenses, ግስ, ጊዜ, የአሁን ጊዜ, የሀላፊ ጊዜ, የትንቢት ጊዜ, ሀላፊ, ኢሀላፊ, recent perfect, ቅርብ ኃላፊ, remote past, ሩቅ ኃላፊ, transitive, ሳቢ ግስ, ተሻጋሪ ግስ, intransitive, ኢሳቢ ግስ, ኢተሻጋሪ ግስ, direct object, ቀጥተኛ ተሳቢ, indirect object, ኢቀጥተኛ ተሳቢ, conjugation, በላ, በላሁ, ሰበረ, ይሰብራል

@@ -43,3 +43,9 @@ Answer in a few words, or one sentence.
 
 **14. (Sub lesson 16)** Name the eight water words of the set.
 **Answer:** ቧንቧ tap, ምንጭ spring, ኩሬ pond, ኃይቅ lake, ውቅያኖስ ocean, ጉድጓድ well, ወንዝ river, ባሕር sea.
+
+**15. (Sub lesson 18)** Besides many chances to express themselves, what must learners receive for speaking and writing to grow, in the Grade 7 guide's principles?
+**Answer:** Timely feedback.
+
+**16. (Sub lesson 19)** How do learners gather material for the contrast writing, and whom does the guide advise inviting?
+**Answer:** They research on websites and documents via the internet; the guide advises inviting local professionals to explain points in class.

@@ -105,3 +105,6 @@ lesson and its question list as they are — choosing, not remaking.
 **Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
 
 - Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card: From facts to a biography paragraph — Haile Gebrselassie's card.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 9 — **Researching a person's life (teacher guide — evidence)** — the Grade 9 guide's researched profile: choose a well-known local person, gather information by asking people, organise it, present it in writing. The Grade 10 guide's life-history writing (የሕይወት ታሪክ) with sample biographies as materials.

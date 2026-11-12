@@ -86,3 +86,6 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 6 — Grade 7: two descriptive paragraphs — my school, my area.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 7 — **The big chart, the design note, the balanced essay (teacher guide — evidence)** — copy the big wall-chart (ቢጋር) note; a short note on the design/pattern (ንድፍ); a balanced-paragraph essay (አንቀፅ አመዛዛኝ ድርሰት); the chapter's household-item word stock (ሸክላ ድስት, ብረት-ማጣድ…).

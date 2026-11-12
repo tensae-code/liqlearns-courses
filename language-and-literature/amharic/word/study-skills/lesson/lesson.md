@@ -357,6 +357,33 @@ Grade 8 makes the cloze a regular tool. The bat bank: ሰማይ, እርቅ, አ�
 
 Grade 7's water chapter closes its vocabulary with a cloze of waters: complete the sentences choosing from ቧንቧ (tap), ምንጭ (spring), ኩሬ (pond), ኃይቅ (lake), ውቅያኖስ (ocean), ጉድጓድ (well), ወንዝ (river), ባሕር (sea). The set is a size ladder as much as a word list: a spring feeds a pond, ponds and rivers feed a lake, lakes and rivers run to the sea, and the ocean holds the seas. Choose each cloze word by the sentence's own clues — what flows, what is dug, what is vast.
 
+## Sub lesson 17 — Split and Guess: መነጠልና ማገመር — Ethiopia's own word-attack strategy (teacher guide — evidence)
+
+This part is teacher-guide evidence: a named strategy, መነጠልና ማገመር — Split and Guess. When a hard word blocks you, do not stop and do not skip it forever: split it (መነጠል) into its parts, give each part the meaning it carries, guess (ማገመር) the whole from its parts, then check the guess against the sentence around it. The guide's worked example is እሽሩ (printed also አሸሩ): split it, weigh its parts, and in the sentence 'ኢትዮጵያውያን በአባይ ግድብ ላይ እሽሩቸውን አስቀምጠዋል' the meaning lands as 'their contribution/effort' (የድርሻውን አበርክቶ) — what Ethiopians put into the Abay dam. Task 1's key stands as printed: 1. ረ 2. ሰ 3. መ 4. ለ 5. ሠ 6. ሀ. Split, guess, check in context: three moves, and a hard word becomes a solvable one.
+[Picture 31201 — guide evidence chart]
+
+## Sub lesson 18 — The teaching principles — the Grade 7 guide's spine (teacher guide — evidence)
+
+The Grade 7 guide states its teaching principles once, in its introduction, and then builds every chapter on them. They are stocked here as labelled evidence, in the guide's own order.
+
+**Comprehension is built in three movements.** Everything across the skills, vocabulary and grammar is organised to develop reading and writing; and comprehension — understanding what you hear and what you read (አዳምጦ/አንብቦ መረዳት) — grows through **pre-, during- and post-listening/reading tasks**. The three-stage shape this course teaches for listening and reading stands in this lesson under several guides' citations; these are the Grade 7 guide's own pages for it.
+
+**Teach the reader's three habits.** Learners must be taught how to **predict** a text before it opens, how to **monitor their own understanding** as they go, and how to **evaluate** what they heard or read at the end.
+
+**Speech and writing grow on chances plus feedback.** Speaking and writing mean expressing oneself accurately and clearly; they grow when learners get many chances to express themselves and **timely feedback** on what they made.
+
+**Vocabulary grows from the text itself.** New words are taught with their meanings, learners are encouraged to *use* them in speech and writing — and they are taught **how to work out a word's meaning from the text itself**, the skill that keeps working when no teacher is present.
+
+## Sub lesson 19 — Comparison and contrast — the Grade 10 guide's paragraphs, essays and research (teacher guide — evidence)
+
+The comparison paragraph taught in this lesson (Sub lesson 5) stands under a Grade 5 student-book citation. The Grade 10 guide sets the same family of work at full size — paragraph *and* essay, with research — and its page is stocked here as labelled evidence, including the parts that stood nowhere in the course.
+
+**Comparison/contrast paragraphs and essays (አመዛዛኝ አንቀጽ / ድርሰት)** on set topics from the learners' own century: **Twitter and Facebook**; **phone and internet**; **sending a message by email vs by post**; **Telebirr and mobile banking**.
+
+**How the material is gathered:** learners **research on websites and documents via the internet** before they write — the contrast is built on looked-up fact, not on impression.
+
+**And the classroom opens:** the guide advises **inviting local professionals to explain points in class** — the people who work with these tools daily, brought in to be questioned.
+
 ## Say it to your companion
 
 Show your companion the web and the chain you built in this

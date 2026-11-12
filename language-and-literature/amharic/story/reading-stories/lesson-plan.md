@@ -208,3 +208,9 @@ and its question list as they are — choosing, not remaking.
 - Sub lesson 34 — Grade 8: ማኅበራዊ ሕይወት — Social Life, a dialogue story.
 - Sub lesson 35 — Grade 8: ደባ ራሱን ስለት ድጉሱን — Intrigue Is a Blade for Itself.
 - Sub lesson 36 — Grade 8: የኑሩ ትዝታ — Nuru's Memory.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 37 — Reading: The House — reading steps for the riddle text (teacher guide — evidence) (G1-U2-3, Grade 1 Amharic Teacher Guide, printed p. 13).
+- Sub lesson 38 — Reading questions: the Fox story (teacher guide — evidence) (G2-U3-7, Grade 2 Amharic Teacher Guide, printed p. 22).
+- Sub lesson 39 — Reading አባማው ግቢ, and group work: present your group's answer (teacher guide — evidence) (G2-U4-6, Grade 2 Amharic Teacher Guide, printed pp. 33–34).

@@ -161,3 +161,11 @@ choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 7 — Grade 7: compound families — ሥነ, ፀረ, ቤተ, ሕገ.
+
+
+**Growth note (2026-11-12, Amharic fix build):** stocked the not-stocked Grade 1–6 teacher-guide placements named below as labelled evidence sub lessons (teacher guide — evidence everywhere; acceptance counts unchanged — pupil content comes from student books only). Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36; nothing past those pages is cited, and units beyond the secured pages stay named as missing in the sources honesty paragraphs. ADD AUDIO (described slots only) for each new sub lesson: the guide part read aloud in the super-simple voice — the student listens, then does the part's task.
+- Sub lesson 8 — Unit 3 word tasks — the guide's keys, and who is included (teacher guide — evidence) (G2-U3-9, Grade 2 Amharic Teacher Guide, printed p. 24).
+- Sub lesson 9 — Building words: join the parts, fix the ending (teacher guide — evidence) (G5-U2-5, Grade 5 Amharic Teacher Guide, printed pp. 22–23).
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the teacher guides named below, stocked as labelled evidence exactly as the placements carry them; every part traces to its guide and printed page in lesson/sources.md.
+- Sub lesson 10 — **ድርብ ቃላት + word formation (teacher guide — evidence)** — the Grade 7 guide's term and model-writing for compound words; the Grade 10 guide's compound words used in sentences (+ the appendix's literary-meaning demand); word formation (የቃላት ምስረታ) by the formation rules/sounds, vocabulary built by collecting new words. ADD GIF [GIF 31511]: two words joining into one compound word — the student names the parts and the whole.

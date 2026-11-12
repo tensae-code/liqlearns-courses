@@ -25,3 +25,9 @@ Answer in a few words, or one sentence.
 
 **8. (Sub lesson 9)** To whom does the p.102 task set you writing?
 **Answer:** A friend or a family member.
+
+**9. (Sub lesson 10)** What is the Amharic name of the model the informal-writing part is taught from?
+**Answer:** የኢ-መደበኛ ፅሁፍ ሞዴል አንቀፅ — a model informal paragraph.
+
+**10. (Sub lesson 11)** Name the three kinds of sample material the Grade 10 guide lists for this writing part.
+**Answer:** Sample letters, sample biographies, and a sample sales contract.

@@ -49,3 +49,15 @@ a) ኘ  b) ዐ  c) ፈ
 **12. (Sub lesson 10)** In the mixed review grid, what do you do with the gaps?
 a) Fill each with its right fidel  b) Cross them out  c) Skip the row
 **Answer: a) Fill each with its right fidel** — Grade 1 pp.40–41.
+
+**13. (Sub lesson 11)** Which words begin with the በ sound, in the guide's drill?
+a) በር and በስ  b) ቃባ and ናቅ  c) ገበረ and ወሰደ
+**Answer: a) በር and በስ** — The guide's answers: በር, በስ.
+
+**14. (Sub lesson 11)** ቃባ begins with which sound?
+a) በ  b) ቀ  c) ና
+**Answer: b) ቀ** — ቃባ begins with ቀ.
+
+**15. (Sub lesson 11)** How do you count the sounds in a word here?
+a) By clapping, one clap per sound  b) By guessing  c) By counting the pages
+**Answer: a) By clapping, one clap per sound** — Clap and count the sounds.

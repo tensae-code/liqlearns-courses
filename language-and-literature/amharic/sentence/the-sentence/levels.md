@@ -81,3 +81,10 @@ Sub lesson 20 questions from the type files. Pass mark: convert three statements
 ## Sub lesson 21 — Grade 8: correcting agreement errors; scrambled word order
 Sub lesson 21 questions from the type files. Pass mark: correct two agreement errors and unscramble two sentences, naming the rule each time.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 22 — Simple and complex sentences, and the punctuation kinds — the federal guides' pages (teacher guide — evidence)
+Sub lesson 22 questions from the type files. Pass mark: give the Grade 10 three-way work (combine, pick out, create), the Grade 9 classification set size (10 sentences), and the punctuation kinds' Amharic heading (የስርዓተ ነጥብ ዓይነቶች).
+
+## Sub lesson 23 — Phrases — pick them out and build sentences from them: the Grade 10 guide (teacher guide — evidence)
+Sub lesson 23 questions from the type files. Pass mark: state the two moves in order (pick phrases out; build complete sentences from them) and the term ሐረግ.

@@ -22,3 +22,6 @@ Answer in a few words, or one sentence.
 
 **7. (Sub lesson 7)** Name the recording's own materials, as the guide lists them.
 **Answer:** A tape or a computer, a CD, a flash disk, and a small monitor.
+
+**8. (Sub lesson 9)** Give the researched profile's steps in order.
+**Answer:** Choose a well-known person in the locality; gather information by asking people; organise it; present it in writing.

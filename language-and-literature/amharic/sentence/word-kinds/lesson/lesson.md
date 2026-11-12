@@ -222,6 +222,25 @@ Three more adverb works. Grade 7 (p.59): fill a table from given sentences with 
 
 Grade 8's Goze Mosque chapter picks out modifiers of both kinds in sentences: የስም ገላጭ (noun-modifiers) and የግስ ገላጭ (verb-modifiers), on the model ጎበዟ ልጅ ነገ ትመጣለች — ጎበዟ modifies the noun ልጅ; the time and manner words modify the verb. Then write 3 own sentences containing BOTH a noun-modifier and a verb-modifier. One sentence, two leanings: find the noun's describer and the verb's describer separately, or the sentence stays half-read.
 
+## Sub lesson 19 — Three-letter words: writing them, and nouns against verbs (teacher guide — evidence)
+
+This part is teacher-guide evidence, and it carries a sorting the course needs. First the writing: write fidel and three-letter words on the line — ወፈረ, ገበረ, ከበረ. Then sort printed three-letter words into two families: ስሞች (nouns — naming words) such as በቀሎ and ሚላት, against ግሶች (verbs — doing words) such as ሰበረ, ከበበ and ዘመረ. Say each word, ask 'does it name a thing, or does it do something?', and place it. A noun names; a verb does — that one question sorts the whole set.
+## Sub lesson 20 — Common nouns and proper nouns — ወንዝ or አባይ? (teacher guide — evidence)
+
+This part is teacher-guide evidence: the common/proper sorting with its tick-table key — put a √ in the right column, common (የወል ስም) or proper (የተጻዑ ስም). The guide's key: አባይ (Abay) proper √, ወንዝ (river) common √, ቀበና proper √, ልጅ (child) common √, ንጉስ (king) common √, ፈረስ (horse) common √, ወርቅሽ (Worqish, a name) proper √, አስማየሁ (Asmayehu) proper √, ነብር (leopard) common √, አፍሪካ (Africa) proper √, ዘበርጋ (as printed) proper √. The rule the table teaches: a common noun names any one of a kind (any river, any king); a proper noun names one particular one (the Abay, Africa, Worqish). Sort first by that rule, then check against the key. Common/proper sorting is taught in this lesson from the Grade 6 student textbook with different items in an earlier part; this part is the Grade 5 guide's own table and key, as evidence.
+[Picture 31202 — guide evidence chart]
+
+## Sub lesson 21 — Proper or common? The big mixed chart (teacher guide — evidence)
+
+This part is teacher-guide evidence: the noun lesson at Grade 6 depth. Copy the learner-book note on የተጻዑ (proper) and የወል (common) nouns, then sort a chart of mixed nouns into the two columns — the named aid is the prepared mixed-noun chart (የተወያየ ስንጠረዥ ቻርት) — and take the error correction. Learners with special needs get extra tasks, and an additional consolidation task closes the part. A mixed chart is harder than two tidy lists: the kinds come shuffled, as they do in real reading, and the sorting rule — one particular thing, or any of its kind? — must do all the work. Common/proper sorting is taught in this lesson from the Grade 6 student textbook with different items, and the Grade 5 guide's table stands in its own part; this part is the Grade 6 guide's own chart work, as evidence.
+## Sub lesson 22 — Word classes at work in sentences — the Grade 10 guide (teacher guide — evidence)
+
+Word Kinds teaches the classes by definition, and the Grade 9 guide's in-context adjective work stands in this lesson already. Two Grade 10 guide parts take the classes *into* sentences, and they are stocked here as labelled evidence.
+
+**A word changes its class (Chapter 5).** Learners **build sentences with given complex words** — and the chapter's stated outcome is to **show how a word's word class changes when it enters a sentence**. A word is not born into its class forever; the sentence it stands in can re-make it.
+
+**Classifying from context (Chapter 7).** Learners classify the word class of **bold-underlined words from the context they occur in** — recalling the six-class list of Chapter 2 — and write sentences that obey grammatical rules. The guide's key is printed: **verb, adverb, verb, noun, adjective, verb, pronoun**. The class is read off the word's work in its sentence, never off the word alone.
+
 ## Say it to your companion
 
 Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያዥ ቃላት, ተውሳከግስ, መስተዋድድ — and give one example of each from this lesson: ሰው, ሄደ, ቀይ, እና, ቶሎ, ወደ. Then let your companion test you: they read a word, you name its kind and say its job. Then go deeper: let them name a noun — ደም, ጎንደር, መንጋ, ዉኃ — and you say which noun family it belongs to: ወል ስም or የተጸውኦ ስም, ጥቅል ስም, የሚቆጠሩ or የማይቆጠሩ. Last, point at yourself, at your companion, and at someone far away, and say the pronoun for each person as you point: እኔ, አንተ / አንቺ, እሱ / እሷ.

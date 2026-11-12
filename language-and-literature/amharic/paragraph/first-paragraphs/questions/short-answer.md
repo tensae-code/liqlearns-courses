@@ -13,3 +13,6 @@ Answer in a few words, or one sentence.
 
 **4. (Sub lesson 4)** Name two topics the book offers for the paragraph.
 **Answer:** Any two of: my garden plot, my classroom, the neighbourhood I grew up in, my birthday, my friends, a football field.
+
+**5. (Sub lesson 5)** What does the Grade 8 guide ask learners to do with the paragraph begun in the student book?
+**Answer:** Complete its idea — finish the begun-but-unfinished paragraph.

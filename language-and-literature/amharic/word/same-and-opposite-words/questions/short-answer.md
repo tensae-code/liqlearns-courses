@@ -13,3 +13,6 @@ Answer in a short sentence.
 
 **4. (Sub lesson 8)** Name two antonym pairs from the bat chapter's set.
 **Answer:** Any two of: ጦርነት/እርቅ, ድል/መጥፋት-side pairs as listed — war–reconciliation, victory–loss, sky–earth (ዳር), standing–fleeing (ቆመ/ፈራ).
+
+**5. (Sub lesson 10)** Against what are the homework answers checked?
+**Answer:** Against the mediation passage itself.

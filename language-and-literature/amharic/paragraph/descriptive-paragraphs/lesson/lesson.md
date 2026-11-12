@@ -150,6 +150,18 @@ concept web drawn in Study Skills at the same page.
 
 Write two descriptive paragraphs on the attractiveness of your school or your home area, then edit them (p.12). Two paragraphs, not one: the first can carry the place's look, the second its life — or place them as near view and far view. Description is judged by the senses it wakes: a reader who has never seen your school should be able to stand in its compound when your two paragraphs end. Editing follows the composing, as in First Paragraphs; this lesson's sources now also carry Grade 7 p.9, whose composition-and-correction task belongs to the same work.
 
+## Sub lesson 7 — The big chart, the design note, and the balanced essay — the Grade 8 guide (teacher guide — evidence)
+
+The Grade 8 guide's Chapter 3 writing part, stocked as labelled evidence. (The ቢጋር outline taught earlier in this lesson is the Grade 5/6 guides' concept-web device; this part's big chart is a different thing — a wall chart of notes — and the two are not merged.)
+
+**Copy the big-chart note.** Learners copy the **big wall-chart (ቢጋር) note** into their notebooks — the chapter's gathered material, made their own by copying.
+
+**A note on the design.** The assessment verifies a short note written about the **design/pattern (ንድፍ)** — how the thing is arranged, described in writing.
+
+**The balanced-paragraph essay.** Learners write an **አንቀፅ አመዛዛኝ ድርሰት** — an essay whose paragraphs are *balanced*: weighed against each other, none swollen, none starved.
+
+**The chapter's word stock.** The chapter's reading and vocabulary pages carry numbered lists of **traditional household items** — ሸክላ ድስት (a clay pot), ብረት-ማጣድ (an iron implement) among them — the concrete words descriptive writing feeds on.
+
 ## Say it to your companion
 
 Read your companion a paragraph you wrote. Your companion must

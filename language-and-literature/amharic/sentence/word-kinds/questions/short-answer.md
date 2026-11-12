@@ -34,3 +34,6 @@ Answer in a few words.
 
 **11. (Sub lesson 18)** What are the two modifier kinds named?
 **Answer:** የስም ገላጭ (noun-modifier) and የግስ ገላጭ (verb-modifier).
+
+**12. (Sub lesson 22)** From what are the bold-underlined words classified in Chapter 7?
+**Answer:** From the context they occur in — the word's work in its sentence.

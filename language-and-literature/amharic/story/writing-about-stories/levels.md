@@ -53,3 +53,8 @@ Sub lesson 12 questions from the type files. Pass mark: retell the case — clai
 ## Sub lesson 13 — Grade 7: finishing paragraphs, ordering addiction sentences
 Sub lesson 13 questions from the type files. Pass mark: order the addiction sentences and complete one opening in its own voice.
 
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, TG G1–G6)
+
+## Sub lesson 14 — Who is in the tale? — Characters, ገፀ ባህሪ (teacher guide — evidence)
+Pass mark: answer the sub lesson's questions from its guide evidence — name what the guide sets, use its keyed words/answers where the part carries a key, and say how the part is checked. (Teacher guide — evidence; never counted as pupil-taught.)

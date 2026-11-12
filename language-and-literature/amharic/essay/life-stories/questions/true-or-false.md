@@ -16,3 +16,6 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 7)** Sub lesson 7's Haddis Alemayehu is the same presentation as Sub lesson 4's.
 **Answer: False** — Sub lesson 4 works from the Grade 7 guide's table (ሰንጠረዥ); Sub lesson 7 is the Grade 10 guide's recorded biography, played twice for main, then detailed, information.
+
+**6. (Sub lesson 9)** The Grade 10 guide names sample biographies among the materials for life-history writing.
+**Answer: True**

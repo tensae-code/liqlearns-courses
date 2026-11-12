@@ -13,3 +13,6 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 4)** One paragraph keeps to ONE chosen topic.
 **Answer: True**
+
+**5. (Sub lesson 5)** The Grade 7 guide's assessment verifies the paragraph was written following the given instruction.
+**Answer: True**

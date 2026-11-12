@@ -61,3 +61,27 @@ a) Filling the gaps about its symptoms  b) Cooking  c) Reading aloud
 **15. (Sub lesson 5)** Which word means caution/care?
 a) ቫይረስ  b) ጥንቃቄ  c) ምላጭ
 **Answer: b) ጥንቃቄ** — ጥንቃቄ is care/caution; ቫይረስ is virus, ምላጭ is razor blade.
+
+**16. (Sub lesson 6)** Grade 3 Unit 1 is —
+a) Health — ጤና  b) Market — ገበያ  c) Culture — ባህል
+**Answer: a) Health — ጤና** — ጤና — health.
+
+**17. (Sub lesson 6)** The unit opens with —
+a) road safety  b) dental hygiene — የጥርስ ንፅህና  c) farming
+**Answer: b) dental hygiene — የጥርስ ንፅህና** — Dental hygiene.
+
+**18. (Sub lesson 6)** አይነግሮች are —
+a) verbs  b) adjectives — describing words  c) place names
+**Answer: b) adjectives — describing words** — Adjectives.
+
+**19. (Sub lesson 7)** The check verifies you can —
+a) report the heard text  b) only draw  c) only sing
+**Answer: a) report the heard text** — Report the heard text.
+
+**20. (Sub lesson 7)** Word meanings in the check must be —
+a) guessed  b) exact  c) skipped
+**Answer: b) exact** — Give exact meanings.
+
+**21. (Sub lesson 7)** The check's four verifications match —
+a) the unit's objectives  b) another unit  c) nothing
+**Answer: a) the unit's objectives** — They mirror the objectives.

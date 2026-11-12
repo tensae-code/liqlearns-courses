@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 18)** A sentence can carry a noun-modifier and a verb-modifier at the same time.
 **Answer: True**
+
+**4. (Sub lesson 22)** The Grade 10 guide teaches that a word's class can change when it enters a sentence.
+**Answer: True**

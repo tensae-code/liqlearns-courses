@@ -69,3 +69,19 @@ a) any meaning of the word  b) the meaning the word has in THIS text  c) the lon
 **16. (Sub lesson 8)** The opposite of ጦርነት (war) in this set is —
 a) ድል  b) እርቅ (reconciliation/peace)  c) ሰማይ
 **Answer: b) እርቅ (reconciliation/peace)** — the set pairs war with እርቅ — reconciliation, the hen's work in the fable.
+
+**17. (Sub lesson 9)** Task 2 fills gaps with —
+a) synonyms  b) antonyms of the bracketed words  c) any word
+**Answer: b) antonyms of the bracketed words** — Antonyms.
+
+**18. (Sub lesson 9)** After the tasks, learners —
+a) exchange work and mark each other's  b) throw work away  c) only self-mark
+**Answer: a) exchange work and mark each other's** — Swap and mark.
+
+**19. (Sub lesson 9)** The synonym-match key has —
+a) six answers  b) two answers  c) no answers
+**Answer: a) six answers** — Six keyed answers.
+
+**20. (Sub lesson 10)** The Grade 9 guide's sample synonym pair from the mediation reading is —
+a) ቅደም ተከተል = የአሰራር ቅደም ተከተል  b) ቅደም ተከተል = የቤት ቅደም ተከተል  c) መጋጨት = መጣላት
+**Answer: a) ቅደም ተከተል = የአሰራር ቅደም ተከተል**

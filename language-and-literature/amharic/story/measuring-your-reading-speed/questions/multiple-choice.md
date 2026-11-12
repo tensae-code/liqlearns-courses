@@ -17,3 +17,15 @@ a) six readers  b) six attempts  c) six questions
 **4. (Sub lesson 2)** Comprehension 4/5 is written as —
 a) 40%  b) 80%  c) 92%
 **Answer: b) 80%** — 4 of 5 questions = 80%.
+
+**5. (Sub lesson 3)** In timed reading, the time is —
+a) ignored  b) set by the teacher and kept  c) chosen by each reader mid-read
+**Answer: b) set by the teacher and kept** — The teacher sets the time.
+
+**6. (Sub lesson 3)** A struggling reader —
+a) stops forever  b) repeats until fluent  c) skips the text
+**Answer: b) repeats until fluent** — Repeat until fluent.
+
+**7. (Sub lesson 3)** Fluent reading here holds together —
+a) time, voice, words and punctuation  b) only speed  c) only loudness
+**Answer: a) time, voice, words and punctuation** — All four together.

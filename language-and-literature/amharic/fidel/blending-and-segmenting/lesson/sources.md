@@ -10,6 +10,9 @@ countries: Ethiopia
 
 **Book 4:** *Grade 4 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 167 printed pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-student-placements.md.
 
+**Book 5:** *Amharic as a Federal Language, Teacher Guide, Grade 10 (አማርኛ እንደ ፌዴራል ቋንቋ — የመምህር መምሪያ, አሥረኛ ክፍል)* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University, first edition 2014 E.C., prepared under GEQIP-E, 116 PDF pp. Page rule: printed page = PDF page − 5 (body folios run 1–92). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g10-teacher-placements.md. No Grade 10 student book exists in the records — this guide is evidence only, never a pupil book.
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | The blending/segmenting strand as a pupil-taught skill — blending syllables into words (ለማ, ሙሉ, ላም, መላ…), splitting መለመለ-type words, blending ነ/ኘ rows, segmenting long words (ካኪ→ካ+ኪ, መኪና, ወርቅ, ከሰል, ክራር, አወቀ, ቸኮለ) and mixed labialised segmenting | Book 1, items 8, 11, 13, 30, 36–37, 67, printed pp.5, 7, 9, 27, 33–34, 62 |
@@ -38,8 +41,12 @@ countries: Ethiopia
 
 | Sub lesson 7 — the Grade 4 book's front matter: the icon/skill system, and ማጣመር/መነጠል (blending/splitting) as the Grade 4 book itself states the method — read a word's parts and blend them; read the whole word and split it into fidel units (G4S-03) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed pp. vi–viii |
 
+| Sub lesson 8 — Writing: joining fidel on the line — the teacher's checklist (teacher guide — evidence) | Ethiopia, *Grade 1 Amharic Teacher Guide*, printed p. 35 |
+| Sub lesson 9 — syllables (ምእላድ) (teacher guide — evidence): split words into syllables and combine syllables into words (ምእላድ መነጣጠል / ማቀናጀት); the chapter assessment (printed p.10) checks the syllable work. This lesson's blending/segmenting stands at fidel level under KG and Grade 1–3 citations; this row adds the Grade 10 guide's syllable-level page | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.9 (placement 8) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes. (1) The definitions, worked tables and word games rest on teacher-guide evidence (Books 2–3) and are labelled as such row by row; the blending/segmenting skill itself is pupil-taught in Book 1 (the student textbook's own ማጣመር/መነጠል exercises, first provenance row), which is what carries the acceptance count. (2) Both teacher guides are partial scans (Book 2 ends at printed p.35, Book 3 at printed p.34); every page cited is inside the secured, read part. (3) The take-away table is taught exactly as Book 3's answer key prints it (ተዘጋ = ዜጋ = አዘጋ…), including forms like ዜጋ where removing the first fidel leaves a changed first form — copied, not corrected, because the placements give the key as the book's own answers. (4) The ቅ starting set in Sub lesson 5 (ቅሌ, ጭልፉ, ዌጋና) is reproduced as Book 2's placements print it, including members whose printed first fidel is not ቅ. (5) Pictures 8258, 8259, 8262 and GIFs 8260–8261 are drawn renders made for this build, checked letter by letter against the placements before filing; GIF 8260's frames 1/7/13/20 were read full-frame before filing, and the blend–hold–split motion reads true.
+
+Fix-build note (2026-11-12, Amharic fix build — teacher guides Grades 1–6): the sub lessons added in this fix are recorded part by part in the table above, each labelled (teacher guide — evidence) with its guide and real printed page. Teacher-guide evidence never counts as pupil-taught; acceptance counts in this file are unchanged. Truncation honesty: the secured guide scans end at G1 TG printed p.35, G2 TG p.34, G3 TG p.31, G4 TG p.42, G5 TG p.42, G6 TG p.36 — nothing past those pages is cited here, and units beyond the secured pages remain missing from the secured copies, as ABOUT records.
 
 Searchable tags: blending, segmenting, ማባመር, መነጠል, ማጣመር, phonics, ገበረ, ወሰደ, ከበበ, ዋንጨ, ተዘጋ, አዘጋ, rearranging fidel, የፊደላትን ቦታ በመቀየር, clap the letters, fidel count, ባለ 2 ፊደል, rhyme, መናጩ ዋናጩ ቂናጩ
