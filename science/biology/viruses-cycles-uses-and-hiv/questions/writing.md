@@ -1,0 +1,6 @@
+# Viruses — cycles, uses and HIV — writing
+
+Write your answer out in full sentences.
+
+**1. ** Write two or three sentences explaining added virus detail to a younger student. Use one example from the lesson.
+**Model answer: Viruses are classified by virion morphology, physicochemical and genome properties, proteins, replication and antigens**

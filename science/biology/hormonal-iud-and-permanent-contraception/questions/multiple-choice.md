@@ -1,0 +1,7 @@
+# Hormonal, IUD and permanent contraception — multiple choice
+
+Pick the one right answer.
+
+**1. What is true about contraceptives?**
+a) Biology is the study of living organisms; technology is the application of scientific knowledge, skills and pr  b) Spermicides that kill sperm; combined and progesterone-only pills that stop ovulation, thicken cervical mucus   c) Six units: 1 Biology and Technology, 2 Animals, 3 Enzymes, 4 Genetics, 5 The Human Body Systems (only musculos
+**Answer: b) Spermicides that kill sperm; combined and progesterone-only pills that stop ovulation, thicken cervical mucus **
