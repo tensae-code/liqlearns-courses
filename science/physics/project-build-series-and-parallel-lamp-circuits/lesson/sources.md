@@ -1,17 +1,20 @@
 # Sources — Project: build series and parallel lamp circuits
 
-countries: Ethiopia
+countries: Ethiopia, Indonesia (teacher-guide evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
+
+**Book 3:** *Buku Panduan Guru Fisika untuk SMA/MA Kelas XII* (teacher guide) — Indonesia, Kemdikbudristek, 2022. Title as printed: Buku Panduan Guru FISIKA untuk SMA/MA Kelas XII, Kemdikbudristek, 2022. Grade: 12 · Teacher guide · Edition: Cetakan pertama, 2022; ISBN 978-623-472-725-8 (jil. 2) · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/teacher/full-year.pdf · Source read: https://static-sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/Fisika_BG_KLS_XII.pdf (recorded source_url) · Extent: xvi + 240 printed pages · Offset: guide printed pagination; Panduan Umum p. 1, Bab 1 p. 17, Bab 2 p. 41, Bab 3 p. 63, Bab 4 p. 95, Bab 5 p. 115, Bab 6 p. 133, Bab 7 p. 155, Bab 8 p. 177, Bab 9 p. 195 · Verdict: COMPLETE (read in full text via browser fetch; cover, imprint, full TOC with sub-chapters verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Project: build series and parallel lamp circuits | Ethiopia, *Grade 10 Student Textbook*, printed pp. 136–150 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 10 Student Textbook*, printed pp. 136–150 |
 | Unit 4 — Static and Current Electricity pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher's Guide*, printed pp. 81–130 |
+| Bab 2 (Indonesia, Grade 12 teacher guide — evidence) | Indonesia, *Buku Panduan Guru Fisika untuk SMA/MA Kelas XII*, Bab 2 — guide p. 41 — the DC project work is steered as a build project |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XII* — teacher guide), not added to this count.
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

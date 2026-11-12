@@ -1,6 +1,6 @@
 # Sources — Electrical power; which lamp is efficient
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Syria, Slovenia, Malaysia, Fiji
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Syria, Slovenia, Malaysia, Fiji, Indonesia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Syria, Slo
 
 **Book 7:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 8:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Electrical power | Grade 11 Student Textbook, printed pp. 264–265 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Bolivia, Syria, Slo
 | Electric current: Električno delo in moč (Electrical work and power) (Slovenia) | Slovenia, *Fizika 9*, Electric current: Električno delo in moč (Electrical work and power) — printed p. 189 (unit folder 195) |
 | Ch. 3 Electricity, §3.4 Electrical Energy and Power (Malaysia) | Malaysia, *Physics Form 5*, Ch. 3, §3.4 Electrical Energy and Power — printed p. 124 |
 | Ch. 15 §§15.60–15.80 Electrical power (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 15 §§15.60–15.80 Electrical power, paying for electricity, household electricity — printed p. 145 |
+| Bab 2, Subbab E Daya Listrik dan Proyek Listrik DC (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 2, Subbab E Daya Listrik dan Proyek Listrik DC — guide p. 53 — closes with a DC-electricity project |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Syria, Slovenia, Malaysia, Fiji).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Syria, Slovenia, Malaysia, Fiji, Indonesia).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

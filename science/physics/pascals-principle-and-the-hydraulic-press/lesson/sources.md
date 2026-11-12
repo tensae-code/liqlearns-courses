@@ -1,6 +1,6 @@
 # Sources — Pascal's principle — the hydraulic press
 
-countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia, Fiji
+countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia, Fiji, Indonesia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, M
 
 **Book 6:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 7:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pascal's principle and the hydraulic press | Grade 12 Student Textbook, printed pp. 82–87 |
@@ -22,7 +24,8 @@ countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, M
 | §4.6 — Pascal's law on pressure | Sri Lanka, *Science for Technology: Physics Part II*, printed p. 83 |
 | Ch. 2 Pressure, §2.4 Pascal's Principle (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2, §2.4 Pascal's Principle |
 | Ch. 10 §9.70 Hydraulic lift (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 10 §9.70 Hydraulic lift — printed p. 85 |
+| Bab 4 Fluida (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 4 Fluida — chapter 4 — Pascal's principle in the fluids sequence |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Fiji).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Fiji, Indonesia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, pascal's principle — the hydraulic press, hydraulic, palestine, sri lanka

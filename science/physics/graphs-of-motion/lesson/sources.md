@@ -1,6 +1,6 @@
 # Sources — Graphs of motion — reading slopes and areas
 
-countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji
+countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji
 
 **Book 7:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 8:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Graphs of motion — reading slopes and areas | Ethiopia, *Grade 9 Student Textbook*, printed pp. 53–62 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji
 | Uniform motion: Grafična predstavitev gibanja (Graphical representation of motion) (Slovenia) | Slovenia, *Fizika 8*, Uniform motion: Grafična predstavitev gibanja (Graphical representation of motion) — printed p. 91 (unit folder 216) |
 | Ch. 2 Force and Motion I, §2.2 Linear Motion Graphs (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.2 Linear Motion Graphs — printed p. 37 |
 | Ch. 6 Kinematics (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 6 Kinematics — displacement/time and velocity/time graphs, equations of motion — printed p. 38 |
+| Bab 2 Kinematika (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 2 Kinematika — chapter 2 — drawing and reading position–time and velocity–time graphs, incl. vertical motion |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

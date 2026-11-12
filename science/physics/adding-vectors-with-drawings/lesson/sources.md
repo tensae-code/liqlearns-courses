@@ -1,17 +1,20 @@
 # Sources — Adding vectors with drawings
 
-countries: Ethiopia
+countries: Ethiopia, Indonesia (teacher-guide evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
 **Book 2:** *Physics, Teacher Guide, Grade 11* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-038-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Front matter is roman-numbered I–XIV; body page rule: printed page = PDF page − 21. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-teacher-placements.md.
 
+**Book 3:** *Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* (teacher guide) — Indonesia, Kemdikbudristek, 2022. Title as printed: Buku Panduan Guru FISIKA untuk SMA/MA Kelas XI, Kemdikbudristek, 2022. Grade: 11 · Teacher guide · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-724-1 (jil. 1) · Repo path: grade-11/gov/indonesia/fisika/teacher/full-year.pdf · Source read: https://static-sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/Fisika-BG-KLS-XI.pdf (recorded source_url) · Extent: xiv + 234 printed pages · Offset: guide printed pagination; Panduan Khusus chapter starts — Bab 1 p. 13, Bab 2 p. 43, Bab 3 p. 81, Bab 4 p. 111, Bab 5 p. 135, Bab 6 p. 165, Bab 7 p. 191 · Verdict: COMPLETE (read in full text via browser fetch; cover, imprint, both TOCs and chapter schemes verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Graphical addition — scale drawing, triangle and parallelogram rules | Grade 11 Student Textbook, printed pp. 21–26 |
 | The teacher's demonstrations — force table, A-to-B walking demo, three-vectors-to-zero proof, farmer-and-plough activity, orthogonal/non-coplanar vocabulary (teacher guide — evidence) | Ethiopia, *Grade 11 Teacher Guide*, printed pp. 12–13 and unit body |
+| Bab 1 Vektor, Panduan Khusus (Indonesia, Grade 11 teacher guide — evidence) | Indonesia, *Buku Panduan Guru Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor, Panduan Khusus — printed p. 13 — vector work on squared/grid paper (Gambar 1.9) is the guide's chosen entry route |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
 
 Honesty/evidence note: the demonstrations section stands on teacher-guide evidence only (Grade 11 Teacher Guide, printed pp. 12–13 and unit body — placement #7); the graphical-addition teaching itself is pupil-taught from the student book. The acceptance count above therefore stays at 1 country for the student-book content.
 

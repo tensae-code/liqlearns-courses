@@ -1,6 +1,6 @@
 # Sources — Splitting a vector into components
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 
 **Book 6:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 7:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Components of a vector | Grade 11 Student Textbook, printed pp. 26–33 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 | Forces: Razstavljanje sil (Resolving forces) (Slovenia) | Slovenia, *Fizika 8*, Forces: Razstavljanje sil (Resolving forces) — printed p. 157 (unit folder 217) |
 | Ch. 1 Force and Motion II, §1.2 Resolution of Forces (Malaysia) | Malaysia, *Physics Form 5*, Ch. 1, §1.2 Resolution of Forces |
 | Unit 1: resolving a vector into perpendicular components (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~20 |
+| Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — trigonometric resolution of vectors and of forces on a block-and-rope setup |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

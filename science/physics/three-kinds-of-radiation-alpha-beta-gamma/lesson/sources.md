@@ -1,6 +1,6 @@
 # Sources — Three kinds of radiation — alpha, beta, gamma
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Syria, Malaysia, Fiji
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Syria, Malaysia, Fiji, Indonesia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bah
 
 **Book 7:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 8:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Radioactivity — alpha, beta and gamma | Grade 11 Student Textbook, printed pp. 299–311 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bah
 | U6 Radioactivity (the nuclear-chemistry unit, taught as radiation physics) (Syria) | Syria, *Physics & Chemistry, Grade 9 Basic*, U6 Radioactivity (the nuclear-chemistry unit, taught as radiation physics) — printed p. 173 |
 | Ch. 6 Nuclear Physics, §6.1 Radioactive Decay (Malaysia) | Malaysia, *Physics Form 5*, Ch. 6 Nuclear Physics, §6.1 Radioactive Decay — printed p. 200 |
 | Ch. 7 §7.1 Radioactivity (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 7 §7.1 Radioactivity — printed p. 150 |
+| Bab 9, Subbab D Partikel Radiasi (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab D Partikel Radiasi — guide p. 202 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Syria, Malaysia, Fiji).** Andorra is named as curriculum-programme evidence only (*Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programme), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Syria, Malaysia, Fiji, Indonesia).** Andorra is named as curriculum-programme evidence only (*Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programme), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

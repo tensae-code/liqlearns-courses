@@ -1,6 +1,6 @@
 # Sources — Thermodynamics — the laws and heat engines
 
-countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), Sudan
+countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), Sudan, Indonesia
 
 **Book 1:** *Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular* (student textbook) — Ecuador, Ministerio de Educación del Ecuador, Primera edición 2024. Title as printed: Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular. ISBN 978-9942-662-30-9. Grade 11 (1ro BGU). Student book. Repo path: grade-11/gov/ecuador/fisica/student/full-year.pdf. Release: mid-size-books-3. Byte size: 20,779,160. PDF pages: 274. Page rule: printed p. N ≈ PDF p. N+1. Verdict: COMPLETE — full text read (35,790 words) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/ecuador-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), S
 
 **Book 4:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 5:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The first law — energy is conserved, heat and work are its two doors | Ecuador, *Física — Primero de Bachillerato*, Tema 13 Termodinámica, printed p. 171 |
@@ -20,8 +22,11 @@ countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), S
 | The laws of thermodynamics — zeroth, first and second: zeroth law by activity, internal-energy change calculations, second law and why a cyclic engine cannot turn heat wholly into work | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 118 |
 | Laws of thermodynamics (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Thermal Physics, Topic Laws of Thermodynamics, printed p. 68 approx. |
 | Unit 5 title and closing strand: heat and the laws of thermodynamics (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 159 |
+| Bab 7 Termodinamika (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 7 Termodinamika — chapter 7 — a full closing chapter on thermodynamic processes and the laws |
 
-**Acceptance count: taught in 3 countries (Ecuador, Palestine, Sudan).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 4 countries (Ecuador, Palestine, Sudan, Indonesia).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+
+Placement note, on the record: Indonesia's Grade 11 student placement was filed in the read as NEW LESSON NEEDED — “Thermodynamics — laws, processes and heat engines (Fase F way)” (indonesia-placements.md, Book 1, Bab 7 Termodinamika — chapter 7); under the Indonesia merge ruling it is stocked into this existing lesson instead of a new one being built — this lesson covers the laws of thermodynamics, processes and heat engines.
 
 See also, built earlier in this course from other countries' books: the zeroth law has its own lesson (physics/zeroth-law-of-thermodynamics-and-temperature-equilibrium, Brazil) and heat engines' history has its own (physics/steam-and-motion-heat-engines-and-the-industrial-revolution). This lesson is the laws-as-a-whole lesson Ecuador's Tema 13 called for; it does not restock those two.
 
