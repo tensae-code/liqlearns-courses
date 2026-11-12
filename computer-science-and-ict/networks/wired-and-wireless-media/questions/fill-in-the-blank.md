@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 2)** Radio waves and ______ are wireless media.
 **Answer: microwaves**
+
+**4. (Sub lesson 3)** Wireless media carry bits as patterns of ______ waves.
+**Answer: electromagnetic**

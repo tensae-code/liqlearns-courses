@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3.** The WAP is an ______ device.
 **Answer: intermediary**
+
+**4.** WLANs are standardised by the IEEE ______ committee and sold as Wi-Fi.
+**Answer: 802.11**

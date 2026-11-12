@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2)** Wireless media can carry through vacuum.
 **Answer: True** — air, water or vacuum.
+
+**4. (Sub lesson 3)** On metal wire, bits travel as electrical impulses in patterns.
+**Answer: True** — electrical impulses in patterns on metal wire.

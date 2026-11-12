@@ -361,3 +361,31 @@ Correction — Saturation · Auto Colour and the Automatic Fixes
 · Sharpening — What It Does and When to Stop · Sharpen with
 Unsharp Mask · Sharpen with Smart Sharpen · Sharpen with High
 Pass · Project: Design a Card in Photoshop.
+
+**Band D2 — Grade 10 Unit 2 (Computer Network), 23 new lessons:**
+
+- Twisted-pair cable — twisting cancels interference — `networks/twisted-pair-cable-twisting-cancels-interference/`
+- UTP cable, RJ45 and straight-through vs crossover — `networks/utp-cable-rj45-and-straight-through-vs-crossover/`
+- Shielded twisted pair — when UTP is not enough — `networks/shielded-twisted-pair-when-utp-is-not-enough/`
+- Coaxial cable — a core inside a shield — `networks/coaxial-cable-a-core-inside-a-shield/`
+- BNC connectors — joining coaxial cable — `networks/bnc-connectors-joining-coaxial-cable/`
+- Fibre-optic cable — sending light — `networks/fibre-optic-cable-sending-light/`
+- Fibre connectors — SC, ST, MT-RJ — `networks/fibre-connectors-sc-st-and-mt-rj/`
+- How wireless signals travel — ground, sky and line-of-sight — `networks/how-wireless-signals-travel-ground-sky-and-line-of-sight/`
+- Radio waves — broadcasting in all directions — `networks/radio-waves-broadcasting-in-all-directions/`
+- Microwaves — aimed beams, dish and horn antennas — `networks/microwaves-aimed-beams-dish-and-horn-antennas/`
+- Infrared — short-range invisible light — `networks/infrared-short-range-invisible-light/`
+- Telecommunications systems — parts and hidden jobs — `networks/telecommunications-systems-parts-and-hidden-jobs/`
+- Analogue vs digital — and what a modem does — `networks/analogue-vs-digital-and-what-a-modem-does/`
+- Telecommunications in daily life and business — `networks/telecommunications-in-daily-life-and-business/`
+- Bluetooth — short-range wireless and pairing — `networks/bluetooth-short-range-wireless-and-pairing/`
+- Cellular networks — cells, base stations, MSC — `networks/cellular-networks-cells-base-stations-msc/`
+- Mobile generations — from 1G to 5G — `networks/mobile-generations-from-1g-to-5g/`
+- Satellite networks — uplink, downlink, transponder — `networks/satellite-networks-uplink-downlink-transponder/`
+- Satellite orbits — GEO, MEO, LEO — `networks/satellite-orbits-geo-meo-leo/`
+- Data communication — delivery, accuracy, timeliness, jitter — `networks/data-communication-delivery-accuracy-timeliness-jitter/`
+- Simplex, half-duplex and full-duplex — `networks/simplex-half-duplex-and-full-duplex/`
+- IP addresses — IPv4 and IPv6 — `networks/ip-addresses-ipv4-and-ipv6/`
+- IP address classes and network masks — `networks/ip-address-classes-and-network-masks/`
+
+Grown by band D2 (Grade 10 depth added, not duplicated): `networks/wired-and-wireless-media/` (+ Sub lesson 3, transmission media), `networks/wireless-access-points/` (+ WLAN and AP bridging/repeating depth).

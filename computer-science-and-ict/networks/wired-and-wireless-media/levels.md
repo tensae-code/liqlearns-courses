@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: UTP carrying electrical s
 
 ## Sub lesson 2 — Wireless media — through air, water or vacuum
 Sub lesson 2 questions from the type files. Pass mark: radio waves, microwaves, infrared and satellite communication — shown in the lesson's own questions.
+
+## Sub lesson 3 — Transmission media at Grade 10 depth — the pathway, encoding, and choosing a medium
+Sub lesson 3 questions from the type files. Pass mark: the three encodings (electrical impulses, light pulses, electromagnetic wave patterns) and the guide's choosing criteria — shown in the lesson's own questions. (Grade 10 depth, added 2026-11-12.)

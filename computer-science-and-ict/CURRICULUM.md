@@ -155,3 +155,18 @@ saturation, and sharpening three ways), GIMP carried as the
 book's noted alternative. **Grade 9 now stands complete: 160
 lessons across its six units.** The course now stands at 295
 lessons.
+
+**Band D2 (Grade 10, Unit 2) — BUILT 2026-11-12:** 23 new
+lessons + 2 grown, 281 questions, 39 media filed
+(pictures/GIFs 14500–14538) — Networks deepened: cable
+media (twisted pair, UTP/RJ45 cable-making, STP, coaxial,
+BNC, fibre and its connectors), propagation, radio,
+microwaves, infrared, telecommunications systems, analogue
+vs digital and the modem, Bluetooth, cellular networks and
+the MSC, 1G–5G, satellite networks and orbits, data
+communication (taught as its own topic per the guide's
+§2.7), transmission modes, IP addresses, classes and
+masks. Book errors taught corrected and named in sources:
+"Figure 4.40" for 2.40, "First Octate" for octet, IEEE
+once wrongly expanded. The course now stands at 318
+lessons.

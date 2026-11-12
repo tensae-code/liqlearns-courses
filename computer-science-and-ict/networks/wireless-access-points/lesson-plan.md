@@ -42,3 +42,8 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Ethiopia, Grade 9 Information Technology, Unit 2 — Computer Network). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Growth — Grade 10 depth (added 2026-11-12, Wave 3 band D2)
+- ADD IMAGE [Picture 14526]: a picture of a school floor plan with two overlapping AP coverage circles bridging laptops into a wired network — the student points to the overlap and says why it is there.
+- ADD GIF [GIF 14527]: a pupil walking with a laptop from one AP's circle into the overlap and out the other side, staying connected — the student watches the walk and says when the connection hands over.
+- The grown sections (WLAN; AP bridging/repeating and 10–15% overlap; the guide's WLAN build key) are in lesson/lesson.md, traced in lesson/sources.md.

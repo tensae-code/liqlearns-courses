@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Wired media — copper and fibre** — UTP carrying electrical signals to 100 m; fibre carrying light, faster and farther
 2. **Wireless media — through air, water or vacuum** — radio waves, microwaves, infrared and satellite communication
+3. **Transmission media at Grade 10 depth — the pathway, encoding, and choosing a medium** — transmission media tangible and wireless; bits encoded as electrical impulses, light pulses or electromagnetic wave patterns; the guide's four choosing criteria (teacher guide — evidence)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -41,6 +42,8 @@ Paper and a pencil. Nothing else, unless the lesson is a practical — then the 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 12914] — a picture of wired and wireless media → the student points to each labelled part and names it.
 - GIF [GIF 12915] — a picture of light down a fibre strand → the student watches the motion and says what travels, and in what order.
+- IMAGE [Picture 14500] — three pathways side by side: copper wire with electric pulses, a fibre with light pulses, air with radio waves → the student points to each pathway and says how a bit travels on it.
+- GIF [GIF 14501] — a bit travelling as a pulse of electricity, then as a flash of light, then as a wave → the student watches the carrier change and names each carrier in order.
 - AUDIO — the lesson's key words read aloud → the student listens and repeats.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 

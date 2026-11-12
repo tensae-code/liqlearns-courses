@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3.** Wi-Fi devices reach the network through a WAP.
 **Answer: True** — Wi-Fi is named.
+
+**4.** An access point can repeat for wireless nodes, doubling their reach.
+**Answer: True** — the AP bridges and can also repeat.

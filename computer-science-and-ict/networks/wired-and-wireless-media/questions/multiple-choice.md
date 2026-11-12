@@ -21,3 +21,11 @@ a) electricity  b) light  c) sound  d) air
 **5. (Sub lesson 2)** Which is a wireless medium?
 a) UTP cable  b) Fibre optic  c) Infrared  d) Copper wire
 **Answer: c) Infrared** — infrared carries through air.
+
+**6. (Sub lesson 3)** A bit is carried on fibre as —
+a) electrical impulses  b) pulses of light  c) sound  d) ink
+**Answer: b) pulses of light** — pulses of light on fibre.
+
+**7. (Sub lesson 3)** Media are not interchangeable for every purpose because they —
+a) all cost the same  b) differ in features and benefits  c) are all wireless  d) never carry data
+**Answer: b) differ in features and benefits** — features and benefits differ.
