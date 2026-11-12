@@ -4255,3 +4255,41 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 29102 | pictures/29102.webp | eight units, one citizen | Civics and Citizenship — Ethiopia — About the course |
 | 29103 | pictures/29103.webp | the older course — a value on every pillar | Civics and Citizenship — Ethiopia — About the course (older generation) |
 | 29104 | pictures/29104.webp | a young tree staked straight | Civics and Citizenship — Ethiopia — About the course |
+| 21942 | pictures/21942.webp | mountain, plateau and plain trio with a gorge | Social Studies — Major and minor landforms |
+| 21943 | pictures/21943.webp | basin diagram, tributary/confluence/outlet/watershed labelled | Social Studies — Anatomy of a drainage basin (redrawn: watershed label moved off the title) |
+| 21944 | pictures/21944.webp | five soil profile strips | Social Studies — Five African soils |
+| 21945 | pictures/21945.webp | one climate, four gifts | Social Studies — How climate helps people live |
+| 21946 | pictures/21946.webp | mapped school with pin, attribute label, date stamp | Social Studies — What geospatial data is (redrawn: footer labels stacked) |
+| 21947 | pictures/21947.webp | satellite, GPS handset and rain gauge feeding one map | Social Studies — Where geographic data comes from |
+| 21948 | pictures/21948.webp | the four tools on a workbench | Social Studies — The geographer's digital toolkit |
+| 21949 | pictures/21949.webp | fading paper map beside the same map on a tablet | Social Studies — Paper maps vs digital data |
+| 21950 | pictures/21950.webp | well (point), road (line), lake (area) with tags | Social Studies — Points, lines and areas |
+| 21951 | pictures/21951.webp | timeline, hand map to layered screen map | Social Studies — How GIS was born |
+| 21952 | pictures/21952.webp | ArcMap screen, Oromia highlighted in the attribute table | Social Studies — Make your region's map in ArcMap |
+| 21953 | pictures/21953.webp | Gore Town rainfall table becoming bars | Social Studies — Bar graphs from raw data |
+| 21954 | pictures/21954.webp | twelve monthly points joining into a line | Social Studies — Line graphs from raw data |
+| 21955 | pictures/21955.webp | a circle sliced by percentage | Social Studies — Pie charts from raw data |
+| 21956 | pictures/21956.webp | three overlapping circles | Social Studies — Making an overlap diagram |
+| 21957 | pictures/21957.webp | 1900–2000 growth curve steepening after 1950 | Social Studies — The world's population explosion |
+| 21958 | pictures/21958.webp | a balanced scale of male/female figures | Social Studies — Counting males and females — sex ratio |
+| 21959 | pictures/21959.webp | three pyramid silhouettes | Social Studies — Pyramid types — expansive to constrictive |
+| 21960 | pictures/21960.webp | population tank with birth/death/migration taps | Social Studies — What makes populations change |
+| 21961 | pictures/21961.webp | city edge expanding into farmland, well-managed inset | Social Studies — Cities growing — footprint and promise |
+| 21962 | pictures/21962.webp | Addis Ababa squatter-settlement scene | Social Studies — When cities outrun their plans |
+| 21963 | pictures/21963.webp | 2×2 migration-kinds grid | Social Studies — Kinds of migration |
+| 21964 | pictures/21964.webp | worker columns, poor vs rich economy | Social Studies — Employment structure — reading an economy |
+| 21965 | pictures/21965.webp | two jobless figures, choosing and searching | Social Studies — Kinds of unemployment |
+| 21966 | pictures/21966.webp | training workshop and new small business (three solution legs) | Social Studies — Fixing unemployment — the solution set |
+| 21967 | pictures/21967.webp | four adaptation panels | Social Studies — Adapting when you can't modify |
+| 21968 | pictures/21968.webp | healer's medicinal plants beside a protected grove | Social Studies — Indigenous knowledge conserves (redrawn: captions un-clipped) |
+| 21969 | pictures/21969.gif | uplift rising, then a river sawing a gorge down | Social Studies — Major and minor landforms — PASS: block rises frames 1–7, notch deepens 13–20, words spelled right |
+| 21970 | pictures/21970.gif | rain falling, streams joining to one outlet | Social Studies — Anatomy of a drainage basin — PASS: tributaries appear in order and join the main stem to the outlet dot |
+| 21971 | pictures/21971.gif | tank level rising as the deaths tap closes | Social Studies — What makes populations change — PASS: outflow narrows frame by frame, level climbs steadily |
+| 21972 | pictures/21972.gif | arrow travelling the poverty-trap circle | Social Studies — Poverty traps (extension) — PASS: dot completes the circuit through all four stations |
+| 21974 | pictures/21974.gif | bars growing to their heights | Social Studies — Bar graphs from raw data — PASS |
+| 21975 | pictures/21975.gif | points plotting, then joining into a line | Social Studies — Line graphs from raw data — PASS after remake: first render merged to 12 frames by PIL's optimiser; rebuilt frame-exact via ffmpeg (20 frames, 2.000 s), re-checked frames 13/20 — points all plotted, line fully joined |
+| 21976 | pictures/21976.gif | pie slices sweeping open one by one | Social Studies — Pie charts from raw data — PASS: 40/35/25 slices complete the circle in order |
+| 21977 | pictures/21977.gif | city outline expanding over farmland | Social Studies — Cities growing — footprint and promise — PASS |
+| 21978 | pictures/21978.gif | floodwater rising around a high-ground house that stays dry | Social Studies — Adapting when you can't modify — PASS: water reaches the ground line, house floor stays above it |
+| 21979 | pictures/21979.gif | region selected in the table, other layers fading | Social Studies — Make your region's map in ArcMap — PASS |
+| 21980 | pictures/21980.gif | the population curve bending sharply upward | Social Studies — The world's population explosion — PASS: flat to 1950, then steep to 6.1 billion at 2000 |

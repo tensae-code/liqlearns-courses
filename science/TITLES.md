@@ -54,3 +54,6 @@ The titles, in ladder order:
     on the road.
 15. **Science Skills** — making instruments, running experiments,
     thinking and debating like a scientist.
+16. **Biology** — the living world at secondary depth: what biology is and the scientific method, the microscope and laboratory tools, classification and the five kingdoms, cells and how materials cross the membrane, reproduction, nutrition, health and disease, ecology, and the Grade 10–12 climb through biochemistry, genetics, evolution and human systems — built from Ethiopia's Biology student textbooks, Grades 9–12 (Wave 4, 2026-11-12).
+17. **Chemistry** — matter and its changes at secondary depth: the laboratory and measurement, atomic structure, bonding, the mole and equations, acids, bases and salts, rates and energy, organic chemistry and industrial processes — built from Ethiopia's Chemistry student textbooks, Grades 9–12 (Wave 4, 2026-11-12).
+18. **Physics** — motion, forces and energy at secondary depth: measurement and vectors, mechanics, heat, waves and optics, electricity and magnetism, electronics and modern physics — built from Ethiopia's Physics student textbooks, Grades 9–12 (Wave 4, 2026-11-12).

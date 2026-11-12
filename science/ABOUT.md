@@ -78,3 +78,30 @@ Band B (Grade 4) added the Grade 4 books' own framing: the
 student book's introduction and the two regional guides' course
 structure, whose syllabus and answer-key stock is carried in the
 lessons' sources rather than built as lessons.
+
+## The books (Ethiopia, Biology — Wave 4, 2026-11-12)
+
+Built from the placements at `liqlearns-courses-work/ethiopia-2026-11-11/biology/`.
+Student textbooks Grades 9–12 (MoE with Hawassa University, GEQIP-E,
+first published 2023) were read in full and are the pupil-taught core.
+Teacher guides are used as evidence only, never counted as pupil-taught,
+and are labelled "(teacher guide — evidence)" in every lesson they touch.
+**The Biology teacher guides are pre-publication drafts**: their
+publication pages carry placeholders (a date of "xxxxx 2022", placeholder
+ISBNs and printer lines) — the course records that fact and never cites
+a placeholder ISBN or date as fact. Grade 10's student book landed after
+the first build pass; its band was built on arrival and the eleven
+lessons that had stood on guide evidence alone were upgraded to
+pupil-taught, with their acceptance lines corrected.
+
+## The books (Ethiopia, Chemistry and Physics — Wave 4, 2026-11-12)
+
+Built from the placements at `liqlearns-courses-work/ethiopia-2026-11-11/chemistry/`
+and `.../physics/`. Student textbooks Grades 9–12 were read in full and
+are the pupil-taught core of both titles. Teacher guides are evidence
+only, labelled "(teacher guide — evidence)" wherever they are used, and
+their pairing warnings are carried in the lessons' sources exactly as
+the reads state them. Four Physics topics exist at two depths as
+separate lessons (the Grade 10 lesson carries a `-g10` slug): scalars
+and vectors, electric fields and field lines, resistors in series and
+parallel, and a current makes a magnetic field.
