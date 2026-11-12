@@ -203,6 +203,29 @@ material is syllabus-level teacher evidence only.
 Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSH-science-g8-u1.md`.
 
+Band GS-J (Grade 8, Unit 3 — Classification of
+Compounds): 8 new lessons in Materials, 96 questions,
+11 media filed (pictures/GIFs 33900–33910) — organic
+and inorganic compounds, hydrocarbons, oxides, acids
+and bases (definitions and naming), indicators and
+pH, working with acids and bases, neutralisation, and
+salts. The primary oxides/acids/bases lesson is
+cross-referenced in the level lines, not grown or
+duplicated. Every equation was atom-tallied. The
+guide's key errors were handled exactly: neutralisation
+is taught with the correct single water (the guide's
+2H₂O flagged in sources and tested as false in a
+question), the phosphoric-acid anion labels are taught
+corrected, and the guide's dated swallowed-acid
+first-aid advice is omitted entirely rather than
+taught — the omission is recorded in sources; only the
+eye-splash washing advice is taught. Pairing carried
+exactly: the Grade 8 guide is a federal new-syllabus
+book, NOT edition-matched to the Amhara student book —
+guide material is syllabus-level teacher evidence
+only. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSJ-science-g8-u3.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -296,6 +319,14 @@ Build log:
 39. **Inside the atom — protons, neutrons, electrons** (`materials/inside-the-atom-protons-neutrons-electrons`) — an atom holds protons and neutrons in a nucleus with electrons around it; Z counts the protons, A counts protons plus neutrons, and the amu is 1/12 of a carbon-12 atom (Grade 8 General Science)
 40. **Isotopes — and why atomic masses are not whole numbers** (`materials/isotopes-and-why-atomic-masses-are-not-whole-numbers`) — atoms of the same element can carry different numbers of neutrons — isotopes — and an element's printed atomic mass is the weighted average of its isotopes, which is why it is not a whole number (Grade 8 General Science)
 41. **Molecules — atoms joined** (`materials/molecules-atoms-joined`) — atoms join into molecules — monoatomic, diatomic or polyatomic — and the molecule is the smallest particle of a substance that still behaves as that substance (Grade 8 General Science)
+42. **Organic and inorganic compounds** (`materials/organic-and-inorganic-compounds`) — carbon is the dividing line: organic compounds are carbon compounds — with named exceptions (carbon oxides, carbonates and a few others counted inorganic); inorganic compounds cover everything else (Grade 8 General Science)
+43. **Hydrocarbons — alkanes, alkenes, alkynes** (`materials/hydrocarbons-alkanes-alkenes-alkynes`) — compounds of carbon and hydrogen only fall into three homologous series — alkanes CₙH₂ₙ₊₂ (single bonds), alkenes CₙH₂ₙ (one double bond), alkynes CₙH₂ₙ₋₂ (one triple bond) (Grade 8 General Science)
+44. **Oxides — basic, acidic and in-between** (`materials/oxides-basic-acidic-and-in-between`) — oxides split into basic oxides (metal oxides that form bases), acidic oxides (non-metal oxides that form acids), amphoteric oxides that act both ways, and neutral oxides that do neither (Grade 8 General Science)
+45. **Acids and bases — definitions and naming** (`materials/acids-and-bases-definitions-and-naming`) — acids release H⁺ in water and bases release OH⁻ — soluble bases are alkalis — and an acid's name is built from its anion: -ide → hydro-…-ic, -ate → -ic, -ite → -ous (Grade 8 General Science)
+46. **Indicators and pH — testing with colour** (`materials/indicators-and-ph-testing-with-colour`) — indicators change colour in acid and in base, and the pH scale 0–14 fixes the strength: below 7 acid, 7 neutral, above 7 base — with local plant indicators as the eco-friendly test (Grade 8 General Science)
+47. **Working with acids and bases — properties, uses, precautions** (`materials/working-with-acids-and-bases-properties-uses-precautions`) — acids react with active metals to release hydrogen, taste sour, conduct and serve in batteries, food and industry; bases feel soapy — and the safety rules are content, not a footnote (Grade 8 General Science)
+48. **Neutralisation — cancelling acid with base** (`materials/neutralisation-cancelling-acid-with-base`) — acid + base → salt + water: neutralisation, put to work treating wastewater, farming acid soils back toward the pH a crop needs, and at home (Grade 8 General Science)
+49. **Salts — preparation, names and uses** (`materials/salts-preparation-names-and-uses`) — salts are made three ways (acid + base, acid + metal, acid + carbonate), named from their acid, and used everywhere from table salt to fertiliser (Grade 8 General Science)
 
 
 ## Unit 5 — Light
